@@ -1,6 +1,6 @@
-# I18N.SITE · 文件無國界<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · 語言無國界<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE，支援自動翻譯成[133 種不同的語言](https://github.com/i18n-site/node/blob/main/lang/src/index.js)的靜態站點產生器。
+I18N.SITE，支援自動翻譯成[100 種不同的語言](https://github.com/i18n-site/node/blob/main/lang/src/index.js)的靜態站點產生器。
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

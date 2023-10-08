@@ -1,6 +1,6 @@
-# I18N.SITE · وثائق بلا حدود<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · لغة بلا حدود<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، منشئ مواقع ثابت يدعم الترجمة الآلية إلى [133 لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE، منشئ مواقع ثابت يدعم الترجمة الآلية إلى [100 لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
