@@ -2,7 +2,7 @@
 
 I18N.SITE, lub tshuab hluav taws xob ntau hom lus zoo li qub, tuaj yeem txhais Markdown rau [ntau tshaj li ib puas hom lus](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Qee tus neeg yuav xav nug, tam sim no tias browsers muaj kev ua haujlwm hauv kev txhais lus, nws puas tsim nyog rau thoob ntiaj teb lub vev xaib?
 

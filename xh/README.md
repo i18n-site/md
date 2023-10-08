@@ -2,7 +2,7 @@
 
 I-I18N.SITE, umvelisi wesiza esineelwimi ezininzi, unokuguqulela iMarkdown ngokuzenzekelayo kwiilwimi [ezingaphezu kwekhulu ezahlukeneyo](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Abanye abantu banokufuna ukubuza, ngoku ekubeni izikhangeli zinemisebenzi yoguqulo eyakhelwe-ngaphakathi, ngaba akuyomfuneko ukwenza iwebhusayithi ibe yeyamazwe ngamazwe?
 

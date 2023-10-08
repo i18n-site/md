@@ -2,7 +2,7 @@
 
 I18N.SITE, indimi nyinshi zihuza imbuga za interineti, irashobora guhita ihindura Markdown mu [ndimi zirenga ijana zitandukanye](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byubuhinduzi, ntibikenewe kumenyekanisha urubuga?
 

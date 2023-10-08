@@ -2,7 +2,7 @@
 
 I18N.SITE, ເປັນຕົວສ້າງເວັບໄຊແບບຄົງທີ່ຫຼາຍພາສາ, ສາມາດແປ Markdown ໂດຍອັດຕະໂນມັດເປັນ [ຫຼາຍກວ່າຮ້ອຍພາສາ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 ບາງຄົນອາດຈະຕ້ອງການຖາມວ່າ, ຕອນນີ້ຕົວທ່ອງເວັບມີຫນ້າທີ່ການແປພາສາໃນຕົວ, ມັນບໍ່ຈໍາເປັນຕ້ອງເປັນເວັບໄຊທ໌ສາກົນບໍ?
 

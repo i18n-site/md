@@ -2,7 +2,7 @@
 
 I18N.SITE, o le tele-gagana static site generator, e mafai ona faaliliu otometi Markdown i [le silia ma le selau gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Atonu e fia fesili nisi tagata, o lea ua i ai i tagata suʻesuʻe ni galuega faaliliu, e le manaʻomia ea le faʻavaomaloina o le upega tafaʻilagi?
 

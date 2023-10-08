@@ -2,7 +2,7 @@
 
 I18N.SITE ዝተባህለ ብዙሕ ቋንቋታት ዘለዎ ስታትቲክ ሳይት ጀነሬተር ኮይኑ፡ ንማርክዳውን ብኣውቶማቲክ ናብ [ልዕሊ ሚእቲ ዝተፈላለዩ ቋንቋታት](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ክትርጉሞ ይኽእል ።
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 ገለ ሰባት ክሓቱ ይደልዩ ይኾኑ፣ ሕጂ መርበብ ሓበሬታታት ኣብ ውሽጦም ናይ ትርጉም ተግባራት ስለዘለዎም፣ ነቲ መርበብ ሓበሬታ ኣህጉራዊ ምግባር ኣየድልን ድዩ?
 

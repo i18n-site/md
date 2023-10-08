@@ -2,7 +2,7 @@
 
 Ka taea e I18N.SITE, he kaiwhakaputa pae static reo-maha, te whakamaori aunoa i a Markdown ki [te neke atu i te kotahi rau nga reo rereke](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Ka hiahia pea etahi ki te patai, i te mea kua whakauruhia e nga kaitirotiro nga mahi whakamaori, kaore ranei e tika kia whakawhitia te paetukutuku ki te ao?
 

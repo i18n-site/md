@@ -2,7 +2,7 @@
 
 I18N.SITE, &#39;n veeltalige statiese werfgenerator, kan Markdown outomaties in [meer as honderd verskillende tale](https://github.com/i18n-site/node/blob/main/lang/src/index.js) vertaal.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Sommige mense wil dalk vra, noudat blaaiers ingeboude vertaalfunksies het, is dit onnodig om die webwerf te internasionaliseer?
 

@@ -2,7 +2,7 @@
 
 Is féidir le I18N.SITE, gineadóir suímh statach iltheangacha, Markdown a aistriú go huathoibríoch go [níos mó ná céad teanga éagsúla](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 B'fhéidir gur mhaith le roinnt daoine a fhiafraí, anois go bhfuil feidhmeanna aistriúcháin ionsuite ag brabhsálaithe, nach bhfuil gá leis an suíomh Gréasáin a idirnáisiúnú?
 

@@ -2,7 +2,7 @@
 
 I18N.SITE, višejezični generator statičkih stranica, može automatski prevesti Markdown na [više od stotinu različitih jezika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Neki ljudi će možda htjeti da pitaju, sada kada pretraživači imaju ugrađene funkcije prevođenja, da li je nepotrebno internacionalizirati web stranicu?
 

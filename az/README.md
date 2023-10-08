@@ -2,7 +2,7 @@
 
 Çoxdilli statik sayt generatoru olan I18N.SITE Markdown-u avtomatik olaraq [yüzdən çox fərqli dilə](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tərcümə edə bilər.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Bəzi insanlar soruşmaq istəyə bilər ki, indi brauzerlərdə daxili tərcümə funksiyaları var, veb-saytı beynəlxalqləşdirmək lazım deyilmi?
 

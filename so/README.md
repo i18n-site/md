@@ -2,7 +2,7 @@
 
 I18N.SITE, dhaliyaha goobta taagan ee luuqadaha badan leh, ayaa si toos ah Markdown u tarjumi kara [in ka badan boqol luqadood oo kala duwan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Dadka qaar ayaa laga yaabaa inay rabaan inay waydiiyaan, hadda daalacayaashu waxay leeyihiin hawlo tarjumaad ah, miyayna loo baahnayn in la caalamiyeeyo mareegaha?
 

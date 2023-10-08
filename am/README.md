@@ -2,7 +2,7 @@
 
 I18N.SITE፣ ባለብዙ ቋንቋ የማይንቀሳቀስ ጣቢያ ጀነሬተር፣ ማርክዳውን [ከመቶ በሚበልጡ ቋንቋዎች](https://github.com/i18n-site/node/blob/main/lang/src/index.js) በራስ-ሰር መተርጎም ይችላል።
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 አንዳንድ ሰዎች መጠየቅ ይፈልጉ ይሆናል፣ አሁን አሳሾች አብሮገነብ የትርጉም ተግባራት ስላላቸው፣ ድህረ ገጹን አለማቀፋዊ ማድረግ አስፈላጊ አይደለምን?
 

@@ -2,7 +2,7 @@
 
 බහු භාෂා ස්ථිතික අඩවි උත්පාදකයක් වන I18N.SITE හට Markdown ස්වයංක්‍රීයව [විවිධ භාෂා සියයකට වඩා](https://github.com/i18n-site/node/blob/main/lang/src/index.js) පරිවර්තනය කළ හැක.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 සමහර අයට ඇසීමට අවශ්‍ය විය හැකිය, දැන් බ්‍රව්සර්වල පරිවර්තන කාර්යයන් ගොඩනඟා ඇති බැවින්, වෙබ් අඩවිය ජාත්‍යන්තරකරණය කිරීම අනවශ්‍යද?
 

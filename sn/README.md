@@ -2,7 +2,7 @@
 
 I18N.SITE, jenareta yesaiti yemitauro yakawanda, inogona kushandura yega Markdown [mumitauro inopfuura zana yakasiyana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Vamwe vanhu vangangoda kubvunza, sezvo mabhurawuza ane akavakirwa-mukati mabasa eshanduro, hazvina basa here kuita kuti webhusaiti iyi ive nenyika?
 

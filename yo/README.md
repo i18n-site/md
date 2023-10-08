@@ -2,7 +2,7 @@
 
 I18N.SITE, olupilẹṣẹ aaye aimi-ede pupọ, le tumọ Markdown laifọwọyi si [diẹ sii ju awọn ede oriṣiriṣi ọgọrun lọ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Diẹ ninu awọn eniyan le fẹ lati beere, ni bayi ti awọn aṣawakiri ti ni awọn iṣẹ itumọ ti a ṣe sinu, ṣe ko ṣe pataki lati sọ oju opo wẹẹbu naa di kariaye bi?
 

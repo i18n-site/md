@@ -2,7 +2,7 @@
 
 I18N.SITE, ġeneratur ta &#39;sit statiku b&#39;ħafna lingwi, jista&#39; jittraduċi Markdown awtomatikament [f&#39;aktar minn mitt lingwa differenti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Xi nies jistgħu jixtiequ jistaqsu, issa li l-browsers għandhom funzjonijiet ta 'traduzzjoni inkorporati, mhuwiex meħtieġ li tiġi internazzjonalizzata l-websajt?
 

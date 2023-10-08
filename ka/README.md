@@ -2,7 +2,7 @@
 
 I18N.SITE, მრავალენოვანი სტატიკური საიტის გენერატორი, შეუძლია ავტომატურად თარგმნოს Markdown [ასზე მეტ სხვადასხვა ენაზე](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 ზოგიერთს შეიძლება ჰკითხოს, ახლა, როდესაც ბრაუზერებს აქვთ ჩაშენებული თარგმანის ფუნქციები, არის თუ არა საჭირო ვებსაიტის ინტერნაციონალიზაცია?
 

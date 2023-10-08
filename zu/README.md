@@ -2,7 +2,7 @@
 
 I-I18N.SITE, ijeneretha yesayithi emile yezilimi eziningi, ingahumushela ngokuzenzakalelayo i-Markdown [ezilimini ezingaphezu kwekhulu ezahlukene](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Abanye abantu bangase bafune ukubuza, njengoba manje iziphequluli zinemisebenzi yokuhumusha eyakhelwe ngaphakathi, ingabe akudingekile ukwenza iwebhusayithi ibe yamazwe ngamazwe?
 

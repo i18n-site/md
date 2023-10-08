@@ -2,7 +2,7 @@
 
 I18N.SITE, көп тилдүү статикалык сайт генератору, Markdown&#39;ду автоматтык түрдө [жүздөн ашык башка тилдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) которо алат.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Кээ бир адамдар суроо бериши мүмкүн, эми браузерлерде котормо функциялары бар, веб-сайтты эл аралык кылуунун кереги барбы?
 

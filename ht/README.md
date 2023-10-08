@@ -2,7 +2,7 @@
 
 I18N.SITE, yon dèlko sit estatik plizyè lang, ka otomatikman tradui Markdown nan [plis pase yon santèn lang diferan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Gen kèk moun ki ka vle mande, kounye a ke navigatè yo gen fonksyon tradiksyon bati, èske li pa nesesè entènasyonalize sit entènèt la?
 
