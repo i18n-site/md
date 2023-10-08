@@ -2,7 +2,7 @@
 
 I18N.SITE, statisks vietņu ģenerators, kas atbalsta automātisku tulkošanu [133 dažādās valodās](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Daži cilvēki var jautāt, vai tagad, kad pārlūkprogrammās ir iebūvētas tulkošanas funkcijas, nav nepieciešams internacionalizēt vietni?
 
@@ -20,7 +20,7 @@ Pēc tulkojuma modificēšanas jums atkārtoti jāpalaiž `./i18n.sh` , lai atja
 
 ### Tulkošanas Piezīmes
 
-Tulkojuma komentāros ir jānorāda valoda pēc \```, piemēram ` ```rust` .
+Tulkojuma komentāros ir jānorāda valoda aiz \```, piemēram ` ```rust` .
 
 Pašlaik tiek atbalstīta komentāru tulkošana rūsas, c, cpp, java, js, kafijas, python un bash.
 
@@ -31,9 +31,36 @@ Rediģējiet [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob
 Tālāk norādīto vides mainīgo iestatīšana ļauj Google tulkotāja API izsaukumiem iet caur starpniekserveri.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Mainīgo Iegulšana
@@ -45,7 +72,34 @@ test: 测试变量<br 0>嵌入
 ### Iztukšojiet Kešatmiņu
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

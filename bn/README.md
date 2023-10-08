@@ -2,9 +2,9 @@
 
 I18N.SITE, একটি স্ট্যাটিক সাইট জেনারেটর যা [133টি ভিন্ন ভাষায়](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্রিয় অনুবাদ সমর্থন করে।
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
-কিছু লোক জিজ্ঞাসা করতে চাইতে পারে, এখন ব্রাউজারগুলিতে অন্তর্নির্মিত অনুবাদ ফাংশন রয়েছে, ওয়েবসাইটটিকে আন্তর্জাতিকীকরণ করা কি অপ্রয়োজনীয়?
+কিছু লোক জিজ্ঞাসা করতে চাইতে পারে, এখন যেহেতু ব্রাউজারগুলিতে অন্তর্নির্মিত অনুবাদ ফাংশন রয়েছে, ওয়েবসাইটটিকে আন্তর্জাতিকীকরণ করা কি অপ্রয়োজনীয়?
 
 আমি বলতে চাই যে **শুধুমাত্র সমগ্র সাইটের আন্তর্জাতিকীকরণের মাধ্যমে আমরা বহু-ভাষিক ইন-সাইট ফুল-টেক্সট অনুসন্ধান এবং সার্চ ইঞ্জিন অপ্টিমাইজেশান সমর্থন করতে পারি।**
 
@@ -31,9 +31,43 @@ I18N.SITE, একটি স্ট্যাটিক সাইট জেনার
 নিম্নলিখিত এনভায়রনমেন্ট ভেরিয়েবল সেট করা Google Translate API কলগুলিকে প্রক্সির মাধ্যমে যেতে দেয়৷
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### পরিবর্তনশীল এমবেডিং
@@ -45,7 +79,41 @@ test: 测试变量<br 0>嵌入
 ### ক্যাশ খালি করুন
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

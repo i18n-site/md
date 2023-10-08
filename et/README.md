@@ -2,7 +2,7 @@
 
 I18N.SITE, staatiline saidigeneraator, mis toetab automaatset tõlkimist [133 erinevasse keelde](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Mõned inimesed võivad küsida, kas nüüd, kui brauseritel on sisseehitatud tõlkefunktsioonid, pole vaja veebisaiti rahvusvahelistuda?
 
@@ -22,7 +22,7 @@ Pärast tõlke muutmist peate vahemälu värskendamiseks uuesti käivitama faili
 
 Tõlkekommentaarid peavad märkima keele pärast sõna \```, näiteks ` ```rust` .
 
-Toetab praegu rust, c, cpp, java, js, kohvi, pythoni ja bashi kommentaaride tõlkimist.
+Praegu toetab kommentaaride tõlkimist rust, c, cpp, java, js, coffee, python ja bash.
 
 Redigeerige [faili tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) , et lisada tõlketugi kommentaaridele rohkemates keeltes.
 
@@ -31,9 +31,37 @@ Redigeerige [faili tran_md/src/comment.coffee](https://github.com/i18n-site/node
 Järgmiste keskkonnamuutujate määramine võimaldab Google'i tõlke API-kõnedel läbida puhverserveri.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Muutuja Manustamine
@@ -45,7 +73,35 @@ test: 测试变量<br 0>嵌入
 ### Tühjenda Vahemälu
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

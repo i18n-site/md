@@ -2,7 +2,7 @@
 
 I18N.SITE, penjana tapak statik yang menyokong terjemahan automatik ke dalam [133 bahasa berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Sesetengah orang mungkin ingin bertanya, sekarang pelayar mempunyai fungsi terjemahan terbina dalam, adakah tidak perlu untuk mengantarabangsakan tapak web?
 
@@ -31,9 +31,41 @@ Edit [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tr
 Menetapkan pembolehubah persekitaran berikut membolehkan panggilan API Terjemahan Google melalui proksi.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Pembenaman Pembolehubah
@@ -45,7 +77,39 @@ test: 测试变量<br 0>嵌入
 ### Kosongkan Cache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

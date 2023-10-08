@@ -2,11 +2,11 @@
 
 I18N.SITE, generator statičnih spletnih mest, ki podpira samodejno prevajanje v [133 različnih jezikov](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Nekateri ljudje se morda želijo vprašati, ali je zdaj, ko imajo brskalniki vgrajene prevajalske funkcije, internacionalizacija spletne strani nepotrebna?
 
-Povedati želim, da **lahko samo z internacionalizacijo celotnega spletnega mesta podpiramo večjezično iskanje po celotnem besedilu in optimizacijo iskalnikov** .
+Povedati želim, da **samo z internacionalizacijo celotnega spletnega mesta lahko podpiramo večjezično iskanje po celotnem besedilu in optimizacijo iskalnikov** .
 
 ## Vadnica
 
@@ -31,9 +31,39 @@ Uredite [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main
 Nastavitev naslednjih spremenljivk okolja omogoča, da klici Google Translate API potekajo prek proxyja.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Vdelava Spremenljivk
@@ -45,7 +75,37 @@ test: 测试变量<br 0>嵌入
 ### Izprazni Predpomnilnik
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

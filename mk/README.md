@@ -2,7 +2,7 @@
 
 I18N.SITE, статичен генератор на страници кој поддржува автоматско преведување на [133 различни јазици](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Некои луѓе можеби ќе сакаат да прашаат, сега кога прелистувачите имаат вградени функции за превод, дали е непотребно да се интернационализира веб-локацијата?
 
@@ -31,9 +31,40 @@ I18N.SITE, статичен генератор на страници кој по
 Поставувањето на следните променливи на животната средина им овозможува на повиците на Google Translate API да минуваат преку прокси.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Вградување На Променлива
@@ -45,7 +76,38 @@ test: 测试变量<br 0>嵌入
 ### Испразнете Го Кешот
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

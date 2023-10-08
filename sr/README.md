@@ -2,7 +2,7 @@
 
 И18Н.СИТЕ, генератор статичког сајта који подржава аутоматско превођење на [133 различита језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Неки људи ће можда желети да питају, сада када претраживачи имају уграђене функције превођења, да ли је непотребно интернационализовати веб локацију?
 
@@ -31,9 +31,34 @@
 Подешавање следећих променљивих окружења омогућава позивима АПИ-ја Гоогле преводиоца да пролазе кроз прокси.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Вариабле Ембеддинг
@@ -45,7 +70,32 @@ test: 测试变量<br 0>嵌入
 ### Испразните Кеш
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```
