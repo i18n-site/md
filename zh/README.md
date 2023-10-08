@@ -1,4 +1,4 @@
-# I18N.SITE · 语言无国界 <img src="//ok0.pw/5l" style="float:right;width:42px;margin-top:6px">
+# I18N.SITE · 语言无国界 <img src="//i-01.eu.org/i18n.svg" style="float:right;width:42px;margin-top:6px">
 
 I18N.SITE，多语言的静态站点生成器，能将 Markdown 自动翻译为 [一百多种不同的语言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
 
