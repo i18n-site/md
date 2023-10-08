@@ -1,8 +1,8 @@
 # I18N.SITE · زمانی بێ سنوور<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، مۆلیدەی سایتێکی ئیستاتیک کە پشتگیری لە وەرگێڕانی ئۆتۆماتیکی دەکات بۆ [100 زمانی جیاواز](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE، مۆلیدەی سایتی ئیستاتیک کە پشتگیری لە وەرگێڕانی ئۆتۆماتیکی دەکات بۆ [زیاتر لە سەد زمانی جیاواز](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ڕەنگە هەندێک کەس بیانەوێت بپرسن، ئێستا کە وێبگەڕەکان ئەرکی وەرگێڕانی ناوەکییان هەیە، ئایا پێویست ناکات ماڵپەڕەکە بە نێودەوڵەتی بکرێت؟
 

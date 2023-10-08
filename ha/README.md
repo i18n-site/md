@@ -1,8 +1,8 @@
 # I18N.SITE · Language Without Borders<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, janareta a tsaye wanda ke goyan bayan fassarar atomatik zuwa [yaruka daban-daban 100](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, madaidaicin janareta na rukunin yanar gizo wanda ke tallafawa fassarar atomatik zuwa [fiye da harsuna ɗari daban-daban](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Wasu mutane na iya so su yi tambaya, yanzu da masu bincike sun gina ayyukan fassarar, shin ba lallai ba ne a mayar da gidan yanar gizon zuwa ƙasashen duniya?
 

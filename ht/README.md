@@ -1,8 +1,8 @@
 # I18N.SITE · Lang San Fwontyè<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, yon dèlko sit estatik ki sipòte tradiksyon otomatik nan [100 lang diferan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, yon dèlko sit estatik ki sipòte tradiksyon otomatik nan [plis pase yon santèn lang diferan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Gen kèk moun ki ka vle mande, kounye a ke navigatè yo gen fonksyon tradiksyon bati, èske li pa nesesè entènasyonalize sit entènèt la?
 

@@ -1,8 +1,8 @@
 # I18N.MALPER · Ziman Bê Sînor<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, çêkerek malpera statîk e ku wergera otomatîkî ya [100 zimanên cihê](https://github.com/i18n-site/node/blob/main/lang/src/index.js) piştgirî dike.
+I18N.SITE, çêkerek malpera statîk e ku wergera otomatîkî ji [zêdetirî sed zimanên cûda](https://github.com/i18n-site/node/blob/main/lang/src/index.js) piştgirî dike.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Dibe ku hin kes bixwazin bipirsin, naha ku gerokên xwedan fonksiyonên wergerê ne, gelo ne hewce ye ku malperê navneteweyî bikin?
 

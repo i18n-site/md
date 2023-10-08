@@ -1,8 +1,8 @@
 # I18N.SITE · Gjuhë Pa Kufij<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, një gjenerues statik sajti që mbështet përkthimin automatik në [100 gjuhë të ndryshme](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, një gjenerues statik sajti që mbështet përkthimin automatik në [më shumë se njëqind gjuhë të ndryshme](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Disa njerëz mund të duan të pyesin, tani që shfletuesit kanë funksione të integruara përkthimi, a është e panevojshme ndërkombëtarizimi i faqes së internetit?
 

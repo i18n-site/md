@@ -1,8 +1,8 @@
 # I18N.SITE · Ururimi Rutagira Umupaka<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, generator yurubuga ruhagaze rushyigikira guhinduranya byikora [mundimi 100 zitandukanye](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, generator yurubuga ruhagaze rushyigikira guhinduranya byikora [mundimi zirenga ijana zitandukanye](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byubuhinduzi, ntibikenewe kumenyekanisha urubuga?
 

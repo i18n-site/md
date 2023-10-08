@@ -1,8 +1,8 @@
 # I18N.SITE · Reo Kore Taitapa<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, he kaihanga pae pateko e tautoko ana i te whakamaoritanga aunoa ki [te 100 nga reo rereke](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, he kaihanga pae pateko e tautoko ana i te whakamaoritanga aunoa ki roto [neke atu i te kotahi rau nga reo rereke](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Ka hiahia pea etahi ki te patai, i te mea kua whakauruhia e nga kaitirotiro nga mahi whakamaori, kaore ranei e tika kia whakawhitia te paetukutuku ki te ao?
 

@@ -1,8 +1,8 @@
 # I18N.SITE · Polelo E Se Nang Mellwane<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, jenereithara ya sebaka yeo e sa fetogego yeo e thekgago phetolelo ya go itiriša ka [maleme a 100 a fapanego](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, jenereithara ya sebaka ye e sa fetogego yeo e thekgago phetolelo ya go itiriša ka [maleme a go feta lekgolo a fapanego](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Batho ba bangwe ba ka nyaka go botšiša, bjale ka ge diphensele di na le mešomo ya go fetolela yeo e ageleditšwego ka gare, na ga go nyakege go dira gore wepesaete ye e be ya boditšhabatšhaba?
 

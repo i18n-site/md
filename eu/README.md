@@ -1,8 +1,8 @@
 # I18N.GUNEA · Mugarik Gabeko Hizkuntza<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [100 hizkuntza ezberdinetarako](https://github.com/i18n-site/node/blob/main/lang/src/index.js) itzulpen automatikoa onartzen duen gune-sorgailu estatiko bat.
+I18N.SITE, [ehun hizkuntza ezberdin baino gehiagotara](https://github.com/i18n-site/node/blob/main/lang/src/index.js) itzulpen automatikoa onartzen duen gune-sorgailu estatiko bat.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Batzuek galdetu nahiko lukete, orain arakatzaileek itzulpen funtzioak barneratuta dituztela, ez al da beharrezkoa webgunea nazioartekotzea?
 

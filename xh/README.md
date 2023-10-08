@@ -1,8 +1,8 @@
 # I18N.SITE · Ulwimi Ngaphandle Kwemida<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I-I18N.SITE, umvelisi wendawo engatshintshiyo exhasa uguqulelo oluzenzekelayo kwiilwimi [ezili-100 ezahlukeneyo](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I-I18N.SITE, isiza esime generator esixhasa uguqulelo oluzenzekelayo kwiilwimi [ezingaphezu kwekhulu ezahlukeneyo](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Abanye abantu banokufuna ukubuza, ngoku ekubeni izikhangeli zinemisebenzi yoguqulo eyakhelwe-ngaphakathi, ngaba akuyomfuneko ukwenza iwebhusayithi ibe yeyamazwe ngamazwe?
 

@@ -1,8 +1,8 @@
 # I18N.SITE · सीमा रहित भाषा<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, एकटा स्थिर साइट जनरेटर जे [100 अलग-अलग भाषा](https://github.com/i18n-site/node/blob/main/lang/src/index.js) मे स्वचालित अनुवाद कें समर्थन करयत छै .
+I18N.SITE, एकटा स्थिर साइट जनरेटर जे [सौ सं बेसी अलग-अलग भाषा](https://github.com/i18n-site/node/blob/main/lang/src/index.js) मे स्वचालित अनुवाद के समर्थन करैत अछि .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 किछ लोक पूछय चाहय छथिन्ह जे आब ब्राउजर मे अनुवाद के काज बिल्ट-इन भ गेल अछि त की वेबसाइट के अंतर्राष्ट्रीयकरण के जरूरत नहिं अछि ?
 

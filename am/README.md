@@ -1,8 +1,8 @@
 # I18N.SITE · ድንበር የለሽ ቋንቋ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE፣ ወደ [100 የተለያዩ ቋንቋዎች](https://github.com/i18n-site/node/blob/main/lang/src/index.js) መተርጎምን የሚደግፍ የማይንቀሳቀስ ጣቢያ ጀነሬተር።
+I18N.SITE፣ [ከመቶ በሚበልጡ ቋንቋዎች](https://github.com/i18n-site/node/blob/main/lang/src/index.js) አውቶማቲክ መተርጎምን የሚደግፍ የማይንቀሳቀስ ጣቢያ ጀነሬተር።
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 አንዳንድ ሰዎች መጠየቅ ይፈልጉ ይሆናል፣ አሁን አሳሾች አብሮገነብ የትርጉም ተግባራት ስላላቸው፣ ድህረ ገጹን አለማቀፋዊ ማድረግ አስፈላጊ አይደለምን?
 

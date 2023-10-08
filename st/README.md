@@ -1,8 +1,8 @@
 # I18N.SITE · Puo E Ntle Ho Meeli<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, jenereithara ea sebaka se sa fetoheng se tšehetsang phetolelo e ikemetseng [lipuong tse 100 tse fapaneng](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, jenereithara ea sebaka se sa fetoheng se tšehetsang phetolelo e ikemetseng ka [lipuo tse fetang lekholo tse fapaneng](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Batho ba bang ba kanna ba batla ho botsa, kaha joale libatli li na le mesebetsi ea ho fetolela e hahelletsoeng, na ha ho hlokahale ho etsa webosaete ea machabeng?
 

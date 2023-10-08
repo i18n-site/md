@@ -1,8 +1,8 @@
 # I18N.SITE · Lus Tsis Muaj Ciam Teb<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, lub chaw tsim hluav taws xob zoo li qub uas txhawb kev txhais lus tsis siv neeg ua [100 yam lus sib txawv](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, lub chaw tsim hluav taws xob zoo li qub uas txhawb kev txhais lus tsis siv neeg ua [ntau dua li ntau hom lus](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Qee tus neeg yuav xav nug, tam sim no tias browsers muaj kev ua haujlwm hauv kev txhais lus, nws puas tsim nyog rau thoob ntiaj teb lub vev xaib?
 

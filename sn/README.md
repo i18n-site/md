@@ -1,8 +1,8 @@
 # I18N.SITE · Mutauro Usina Border<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, jenareta yesaiti isingachinji inotsigira shanduro yega yega [mumitauro zana yakasiyana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, jenareta yesaiti isingachinji inotsigira shanduro yega yega [mumitauro inodarika zana yakasiyana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Vamwe vanhu vangangoda kubvunza, sezvo mabhurawuza ane akavakirwa-mukati mabasa eshanduro, hazvina basa here kuita kuti webhusaiti iyi ive nenyika?
 

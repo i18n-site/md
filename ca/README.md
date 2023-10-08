@@ -1,8 +1,8 @@
 # I18N.SITE · Llengua Sense Fronteres<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, un generador de llocs estàtics que admet la traducció automàtica a [100 idiomes diferents](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, un generador de llocs estàtics que admet la traducció automàtica a [més de cent idiomes diferents](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 És possible que algunes persones vulguin preguntar, ara que els navegadors tenen funcions de traducció integrades, és innecessari internacionalitzar el lloc web?
 

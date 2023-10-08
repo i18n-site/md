@@ -1,8 +1,8 @@
 # I18N.SITE · ٻولي بغير سرحدن جي<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، هڪ جامد سائيٽ جنريٽر جيڪو [100 مختلف ٻولين](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ۾ خودڪار ترجمي کي سپورٽ ڪري ٿو.
+I18N.SITE، هڪ جامد سائيٽ جنريٽر جيڪو [هڪ سؤ کان وڌيڪ مختلف ٻولين](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ۾ خودڪار ترجمي کي سپورٽ ڪري ٿو.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ڪجھ ماڻھو پڇڻ چاھين ٿا، ھاڻي ته برائوزرن ۾ ترجمي جا ڪم شامل آھن، ڇا ويب سائيٽ کي بين الاقوامي بڻائڻ غير ضروري آھي؟
 

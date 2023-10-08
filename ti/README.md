@@ -1,8 +1,8 @@
 # I18N.SITE · ዶብ ዘይብሉ ቋንቋ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ንኣውቶማቲክ ትርጉም ናብ [100 ዝተፈላለዩ ቋንቋታት](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ዝድግፍ ስታትቲክ ሳይት ጀነሬተር .
+I18N.SITE, ንኣውቶማቲክ ትርጉም ናብ [ልዕሊ ሚእቲ ዝተፈላለዩ ቋንቋታት](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ዝድግፍ ስታትቲክ ሳይት ጀነሬተር .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ገለ ሰባት ክሓቱ ይደልዩ ይኾኑ፣ ሕጂ መርበብ ሓበሬታታት ኣብ ውሽጦም ናይ ትርጉም ተግባራት ስለዘለዎም፣ ነቲ መርበብ ሓበሬታ ኣህጉራዊ ምግባር ኣየድልን ድዩ?
 

@@ -1,8 +1,8 @@
 # I18N.SITE · Taal Sonder Grense<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, &#39;n statiese werfgenerator wat outomatiese vertaling in [100 verskillende tale](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ondersteun.
+I18N.SITE, &#39;n statiese werfgenerator wat outomatiese vertaling in [meer as honderd verskillende tale](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ondersteun.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Sommige mense wil dalk vra, noudat blaaiers ingeboude vertaalfunksies het, is dit onnodig om die webwerf te internasionaliseer?
 

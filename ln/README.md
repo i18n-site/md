@@ -1,8 +1,8 @@
 # I18N.SITE · Monoko Oyo Ezangi Ndelo<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, générateur ya site statique oyo esalisaka traduction automatique na [minoko 100 ekeseni](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, générateur ya site statique oyo esungaka traduction automatique na [minoko koleka nkama](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Bato mosusu bakoki kotuna, sikoyo lokola ba navigateurs ezali na misala ya kobongola oyo etongami na kati, ezali na ntina te kosala ete site Internet yango ezala na mikili mosusu?
 

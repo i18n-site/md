@@ -1,8 +1,8 @@
 # I18N.SITE · Serhetsiz Dil<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-[100 dürli dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) awtomatiki terjime etmegi goldaýan statiki sahypa generatory I18N.SITE.
+I18N.SITE, [ýüzden gowrak dürli dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) awtomatiki terjime etmegi goldaýan statiki sahypa generatory.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Käbir adamlar soramak isläp bilerler, indi brauzerlerde içerki terjime funksiýalary bar, web sahypasyny halkaralaşdyrmak zerur dälmi?
 

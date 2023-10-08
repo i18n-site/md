@@ -1,8 +1,8 @@
 # I18N.SITE · সীমাহীন ভাষা<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, এটা ষ্টেটিক চাইট জেনেৰেটৰ যিয়ে [100 টা বিভিন্ন ভাষালৈ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্ৰিয় অনুবাদ সমৰ্থন কৰে।
+I18N.SITE, এটা ষ্টেটিক চাইট জেনেৰেটৰ যিয়ে [এশতকৈও অধিক ভিন্ন ভাষালৈ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্ৰিয় অনুবাদ সমৰ্থন কৰে।
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 কিছুমান মানুহে হয়তো সুধিব বিচাৰিব, এতিয়া ব্ৰাউজাৰত অনুবাদৰ কাম বিল্ট-ইন হোৱাৰ বাবে ৱেবছাইটটো আন্তৰ্জাতিক কৰাটো অপ্ৰয়োজনীয় নেকি?
 

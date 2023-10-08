@@ -1,8 +1,8 @@
 # I18N.SITE · शिमेबगर भास<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, एक स्थिर साइट जनरेटर जो [100 वेगवेगळ्या भाशांनी](https://github.com/i18n-site/node/blob/main/lang/src/index.js) स्वयंचलीत अणकाराक तेंको दिता .
+I18N.SITE, एक स्थिर साइट जनरेटर जो [शंबर परस चड वेगवेगळ्या भाशांनी](https://github.com/i18n-site/node/blob/main/lang/src/index.js) स्वयंचलीत अणकाराक तेंको दिता .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 कांय जाणांक विचारपाक जाय आसतलें, आतां ब्राउझरांनी अणकार कार्यां बिल्ट-इन जाल्यांत, वेबसायटीचें आंतरराष्ट्रीयकरण करपाची गरज ना?
 

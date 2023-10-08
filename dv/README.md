@@ -1,8 +1,8 @@
 # I18N.SITE · ބޯޑަރެއް ނެތް ބަސް<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، [ތަފާތު 100 ބަހަކަށް](https://github.com/i18n-site/node/blob/main/lang/src/index.js) އޮޓޮމެޓިކް ތަރުޖަމާއަށް ސަޕޯޓްކުރާ ސްޓޭޓިކް ސައިޓް ޖަނަރޭޓަރެކެވެ .
+I18N.SITE، [ސަތޭކައަށްވުރެ ގިނަ ތަފާތު ބަހަށް](https://github.com/i18n-site/node/blob/main/lang/src/index.js) އޮޓޮމެޓިކް ތަރުޖަމާއަށް ސަޕޯޓްކުރާ ސްޓޭޓިކް ސައިޓް ޖަނަރޭޓަރެކެވެ .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ބައެއް މީހުން ސުވާލު ކުރަން ބޭނުންވެދާނެ، މިހާރު ބްރައުޒާތަކުގައި ބިލްޓް-އިން ޓްރާންސްލެޝަން ފަންކްޝަންތައް ހުރުމުން، ވެބްސައިޓް އިންޓަނޭޝަނަލް ކުރަން ނުޖެހޭ ހެއްޔެވެ؟
 
