@@ -6,6 +6,7 @@
     "@n8/pack": "link:../node/pack"
   },
   "devDependencies": {
-    "@w5/jsext": "^0.0.1"
+    "@w5/jsext": "^0.0.1",
+    "@w5/uridir": "^0.0.1"
   }
 }

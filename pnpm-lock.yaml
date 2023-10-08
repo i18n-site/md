@@ -19,9 +19,16 @@ devDependencies:
   '@w5/jsext':
     specifier: ^0.0.1
     version: 0.0.1
+  '@w5/uridir':
+    specifier: ^0.0.1
+    version: 0.0.1
 
 packages:
 
   /@w5/jsext@0.0.1:
     resolution: {integrity: sha512-y/vvMqBD0RhnZccWHj6LSqXU4BlM+em6HBxCO19p+ujrENVK9jCUxQZ83hVUpTUaNQebBWDJfotwBpvuIGW4JQ==}
+    dev: true
+
+  /@w5/uridir@0.0.1:
+    resolution: {integrity: sha512-5ZNTzgVhQHvfI1apigB10XTPjTg5KgMRxdRzda3nUrRTVvzOW1b5fVkFBwv6iqDurNJIe2jiGL97Ge1445p9/g==}
     dev: true
