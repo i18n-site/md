@@ -1,8 +1,8 @@
 # I18N.SITE · Dogfennau Heb Ffiniau<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, generadur safle sefydlog sy'n cefnogi cyfieithu awtomatig i [133 o ieithoedd gwahanol](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, generadur safle sefydlog sy&#39;n cefnogi cyfieithu awtomatig i [133 o ieithoedd gwahanol](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Efallai y bydd rhai pobl am ofyn, nawr bod gan borwyr swyddogaethau cyfieithu adeiledig, a yw'n ddiangen rhyngwladoli'r wefan?
 
@@ -16,7 +16,7 @@ Rwyf am ddweud mai **dim ond trwy ryngwladoli&#39;r wefan gyfan y gallwn gefnogi
 
 ### Addasu Cyfieithiad
 
-Ar ôl addasu'r cyfieithiad, mae angen i chi ail-redeg `./i18n.sh` i ddiweddaru'r storfa.
+Ar ôl addasu&#39;r cyfieithiad, mae angen i chi ail-redeg `./i18n.sh` i ddiweddaru&#39;r storfa.
 
 ### Nodiadau Cyfieithu
 
@@ -31,9 +31,81 @@ Golygu [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/
 Mae gosod y newidynnau amgylchedd canlynol yn caniatáu i alwadau API Google Translate fynd trwy'r dirprwy.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Mewnosod Amrywiol
@@ -45,7 +117,79 @@ test: 测试变量<br 0>嵌入
 ### Gwag Y Cache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

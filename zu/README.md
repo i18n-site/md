@@ -2,7 +2,7 @@
 
 I-I18N.SITE, ijeneretha yesayithi emile esekela ukuhumusha okuzenzakalelayo [ezilimini ezihlukene eziyi-133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Abanye abantu bangase bafune ukubuza, njengoba manje iziphequluli zinemisebenzi yokuhumusha eyakhelwe ngaphakathi, ingabe akudingekile ukwenza iwebhusayithi ibe yamazwe ngamazwe?
 
@@ -31,9 +31,79 @@ Hlela [i-tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main
 Ukusetha okuhlukile kwemvelo okulandelayo kuvumela amakholi we-Google Translate API ukuthi adlule kummeleli.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Ukushumeka Okuguquguqukayo
@@ -45,7 +115,77 @@ test: 测试变量<br 0>嵌入
 ### Thulula Inqolobane
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

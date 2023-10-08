@@ -2,17 +2,17 @@
 
 I18N.SITE, lub chaw tsim hluav taws xob zoo li qub uas txhawb kev txhais lus tsis siv neeg ua [133 yam lus sib txawv](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
-Qee tus neeg yuav xav nug, tam sim no tias browsers muaj kev ua haujlwm hauv kev txhais lus, nws puas tsim nyog rau kev nthuav tawm lub vev xaib?
+Qee tus neeg yuav xav nug, tam sim no tias browsers muaj kev ua haujlwm hauv kev txhais lus, nws puas tsim nyog rau thoob ntiaj teb lub vev xaib?
 
-Kuv xav hais tias **tsuas yog los ntawm kev nthuav dav thoob ntiaj teb tag nrho lub xaib tuaj yeem txhawb nqa ntau yam lus nyob rau hauv-site tag nrho cov ntawv tshawb fawb thiab kev tshawb fawb cav optimization** .
+Kuv xav hais tias **tsuas yog los ntawm kev nthuav dav thoob ntiaj teb tag nrho lub xaib tuaj yeem pab txhawb ntau hom lus hauv qhov chaw tshawb nrhiav thiab tshawb xyuas lub cav optimization** .
 
 ## Kev Qhia
 
 ## Muaj Nuj Nqi Taw Qhia
 
-### Khaws Markdown Hom Ntawv
+### Khaws Markdown Format
 
 ### Hloov Kho Kev Txhais Lus
 
@@ -31,9 +31,92 @@ Kho kom raug [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob
 Teem cov kev hloov pauv ib puag ncig hauv qab no tso cai rau Google Txhais API hu mus dhau lub npe.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Variable Embedding
@@ -45,7 +128,90 @@ test: 测试变量<br 0>嵌入
 ### Empty Lub Cache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

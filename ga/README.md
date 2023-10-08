@@ -2,7 +2,7 @@
 
 I18N.SITE, gineadóir suímh statach a thacaíonn le haistriúchán uathoibríoch go [133 teanga éagsúla](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 B'fhéidir gur mhaith le roinnt daoine a fhiafraí, anois go bhfuil feidhmeanna aistriúcháin ionsuite ag brabhsálaithe, nach bhfuil gá leis an suíomh Gréasáin a idirnáisiúnú?
 
@@ -31,9 +31,83 @@ Cuir [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tr
 Má shocraítear na hathróga timpeallachta seo a leanas, is féidir le glaonna API Google Translate dul tríd an seachfhreastalaí.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Leabú Athróg
@@ -45,7 +119,81 @@ test: 测试变量<br 0>嵌入
 ### Folmhaigh An Taisce
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

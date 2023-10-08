@@ -2,7 +2,7 @@
 
 I18N.SITE, generator statičkog sajta koji podržava automatsko prevođenje na [133 različita jezika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Neki ljudi će možda htjeti da pitaju, sada kada pretraživači imaju ugrađene funkcije prevođenja, da li je nepotrebno internacionalizirati web stranicu?
 
@@ -31,9 +31,87 @@ Uredite [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main
 Postavljanje sljedećih varijabli okruženja omogućava pozivima Google Translate API-ja da prolaze kroz proxy.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Variable Embedding
@@ -45,7 +123,85 @@ test: 测试变量<br 0>嵌入
 ### Ispraznite Keš Memoriju
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

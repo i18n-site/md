@@ -1,12 +1,12 @@
-# <p Style=";text-Align:right;direction:rtl">I18N.SITE · מסמכים ללא גבולות<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px"></p>
+# I18N.SITE · מסמכים ללא גבולות<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, מחולל אתרים סטטי התומך בתרגום אוטומטי ל [-133 שפות שונות](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 יש אנשים שירצו לשאול, עכשיו שלדפדפנים יש פונקציות תרגום מובנות, האם זה מיותר לבצע אינטרנציונל של האתר?
 
-<p style=";text-align:right;direction:rtl">אני רוצה לומר שרק **על ידי אינטרנציונל של האתר כולו נוכל לתמוך בחיפוש טקסט מלא רב-לשוני באתר ובאופטימיזציה למנועי חיפוש** .</p>
+אני רוצה לומר שרק **על ידי אינטרנציונל של האתר כולו נוכל לתמוך בחיפוש טקסט מלא רב-לשוני באתר ובאופטימיזציה למנועי חיפוש** .
 
 ## הדרכה
 
@@ -20,7 +20,7 @@ I18N.SITE, מחולל אתרים סטטי התומך בתרגום אוטומטי
 
 ### הערות תרגום
 
-<p style=";text-align:right;direction:rtl">הערות תרגום צריכות לציין את השפה אחרי \```, כגון ` ```rust` .</p>
+הערות תרגום צריכות לציין את השפה אחרי \```, כגון ` ```rust` .
 
 תומך כרגע בתרגום הערות עבור rust, c, cpp, java, js, coffee, python ו-bash.
 
@@ -31,9 +31,103 @@ I18N.SITE, מחולל אתרים סטטי התומך בתרגום אוטומטי
 הגדרת משתני הסביבה הבאים מאפשרת לקריאות ל-Google Translate API לעבור דרך ה-proxy.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### הטבעה משתנה
@@ -45,7 +139,101 @@ test: 测试变量<br 0>嵌入
 ### רוקן את המטמון
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

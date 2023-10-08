@@ -2,7 +2,7 @@
 
 I18N.SITE, [133 өөр хэл](https://github.com/i18n-site/node/blob/main/lang/src/index.js) рүү автомат орчуулгыг дэмждэг статик сайт үүсгэгч.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Зарим хүмүүс хөтчүүд орчуулгын функцтэй болсон тул вэбсайтыг олон улсын болгох шаардлагагүй гэж асуухыг хүсч магадгүй юм.
 
@@ -24,16 +24,111 @@ I18N.SITE, [133 өөр хэл](https://github.com/i18n-site/node/blob/main/lang/
 
 Одоогоор rust, c, cpp, java, js, coffee, python, bash-ын тайлбар орчуулгыг дэмждэг.
 
-[tran_md/src/comment.coffee-г](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) засварлаж, олон хэл дээрх сэтгэгдлийн орчуулгын дэмжлэгийг нэмнэ үү.
+[tran_md/src/comment.coffee-г](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) засварлаж, олон хэл дээрх сэтгэгдлүүдэд орчуулгын дэмжлэг нэмнэ үү.
 
 ### Прокси Тохируулах
 
-Дараах орчны хувьсагчдыг тохируулснаар Google Translate API дуудлагыг проксигоор дамжуулж болно.
+Дараах орчны хувьсагчдыг тохируулснаар Google Translate API дуудлагыг проксигаар дамжуулах боломжтой.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Хувьсагч Оруулах
@@ -45,7 +140,102 @@ test: 测试变量<br 0>嵌入
 ### Кэшийг Хоослох
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

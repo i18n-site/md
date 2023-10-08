@@ -2,9 +2,9 @@
 
 I18N.SITE, generator yurubuga ruhagaze rushyigikira guhinduranya byikora [mundimi 133 zitandukanye](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
-Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byo guhindura, ntibikenewe kumenyekanisha urubuga mpuzamahanga?
+Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byubuhinduzi, ntibikenewe kumenyekanisha urubuga?
 
 Ndashaka kuvuga ko **muguhindura amahanga kurubuga rwose dushobora gushyigikira indimi nyinshi murubuga rwuzuye-gushakisha no gushakisha moteri ishakisha** .
 
@@ -31,9 +31,76 @@ Hindura [tran_md / src / igitekerezo.ikawa](https://github.com/i18n-site/node/bl
 Gushiraho ibidukikije bikurikira byemerera Google Guhindura API guhamagara kunyura muri proksi.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Ibishushanyo Bihinduka
@@ -45,7 +112,74 @@ test: 测试变量<br 0>嵌入
 ### Ubusa Cache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

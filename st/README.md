@@ -2,7 +2,7 @@
 
 I18N.SITE, jenereithara ea sebaka se sa fetoheng se tšehetsang phetolelo e ikemetseng ka [lipuo tse fapaneng tse 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Batho ba bang ba kanna ba batla ho botsa, kaha joale libatli li na le mesebetsi ea ho fetolela e hahelletsoeng, na ha ho hlokahale ho etsa webosaete ea machabeng?
 
@@ -16,7 +16,7 @@ Ke batla ho bolela hore **ke feela ka ho etsa hore sebaka sohle sa marang-rang s
 
 ### Fetola Phetolelo
 
-Ka mor'a ho fetola phetolelo, u hloka ho sebelisa hape `./i18n.sh` ho nchafatsa cache.
+Ka mor&#39;a ho fetola phetolelo, u hloka ho sebelisa hape `./i18n.sh` ho nchafatsa cache.
 
 ### Lintlha Tsa Phetolelo
 
@@ -31,9 +31,75 @@ Fetola [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/
 Ho beha maemo a latelang a tikoloho ho lumella li-call tsa Google Translate API ho sebelisa moemeli.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Embedding E Feto-Fetohang
@@ -45,7 +111,73 @@ test: 测试变量<br 0>嵌入
 ### Tlosa Cache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

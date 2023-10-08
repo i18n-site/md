@@ -2,7 +2,7 @@
 
 I18N.SITE, çêkerek malpera statîk e ku wergera otomatîkî bi [133 zimanên cihê](https://github.com/i18n-site/node/blob/main/lang/src/index.js) piştgirî dike.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Dibe ku hin kes bixwazin bipirsin, naha ku gerokên xwedan fonksiyonên wergerê ne, gelo ne hewce ye ku malperê navneteweyî bikin?
 
@@ -16,7 +16,7 @@ Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikar
 
 ### Wergerê Biguherîne
 
-Piştî guheztina werger, hûn hewce ne ku ji nû ve `./i18n.sh` bimeşînin da ku cache nûve bikin.
+Piştî guherandina wergerê, divê hûn ji nû ve `./i18n.sh` bimeşînin da ku kaşê nûve bikin.
 
 ### Têbiniyên Wergerandinê
 
@@ -24,16 +24,105 @@ Pêdivî ye ku şîroveyên werger zimanê piştî \``` nîşan bidin, wekî ` `
 
 Niha ji bo rust, c, cpp, java, js, qehwe, python, û bash wergera şîroveyê piştgirî dike.
 
-[Tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) biguherîne ku ji bo şîroveyên bi zimanên din piştgirîya wergerê zêde bike.
+[Tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) biguherîne da ku ji bo şîroveyên bi zimanên din piştgirîya wergerê zêde bike.
 
 ### Veavakirina Proxy
 
 Sazkirina guhêrbarên hawîrdorê yên jêrîn dihêle ku bangên API-ya Google Wergerê bi navgîniyê re derbas bibin.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Variable Embedding
@@ -45,7 +134,96 @@ test: 测试变量<br 0>嵌入
 ### Cache Vala Bikin
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

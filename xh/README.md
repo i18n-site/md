@@ -2,11 +2,11 @@
 
 I18N.SITE, umvelisi wesiza esime esixhasa uguqulelo oluzenzekelayo kwiilwimi [ezili-133 ezahlukeneyo](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
-Abanye abantu banokufuna ukubuza, ngoku njengoko izikhangeli zinemisebenzi yoguqulo eyakhelweyo, ngaba akuyomfuneko ukwenza iwebhusayithi ibe yeyamazwe ngamazwe?
+Abanye abantu banokufuna ukubuza, ngoku ekubeni izikhangeli zinemisebenzi yoguqulo eyakhelwe-ngaphakathi, ngaba akuyomfuneko ukwenza iwebhusayithi ibe yeyamazwe ngamazwe?
 
-Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase uphendlo lweelwimi ezininzi ezikwisayithi ezigcweleyo kunye nokuphucula injini yokukhangela** .
+Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase uphendlo lweelwimi ezininzi ezikwisayithi nokubhaliweyo okugcweleyo kunye nokwandisa injini yokukhangela** .
 
 ## Isifundo
 
@@ -31,9 +31,78 @@ Hlela i [-tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/mai
 Ukuseta okuguquguqukayo kwemo engqongileyo kuvumela iminxeba ye-API yeToliki kaGoogle ukuba idlule kummeli.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Ukufakela Okuguquguqukayo
@@ -45,7 +114,76 @@ test: 测试变量<br 0>嵌入
 ### Khulula ICache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

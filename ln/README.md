@@ -2,7 +2,7 @@
 
 I18N.SITE, générateur ya site statique oyo esalisaka traduction automatique na [minoko 133 ekeseni](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Bato mosusu bakoki kotuna, sikoyo lokola ba navigateurs ezali na misala ya kobongola oyo etongami na kati, ezali na ntina te kosala ete site Internet yango ezala na mikili mosusu?
 
@@ -22,7 +22,7 @@ Sima ya kobongola libongoli, esengeli osala lisusu `./i18n.sh` mpo na kosala mis
 
 Maloba ya bobongoli esengeli kolakisa monoko sima ya \```, lokola ` ```rust` .
 
-Sikoyo esungaka traduction ya commentaire pona rust, c, cpp, java, js, café, python, na bash.
+Sikoyo esungaka libongoli ya ba commentaires mpo na rust, c, cpp, java, js, café, python, mpe bash.
 
 Bobongisi [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) mpo na kobakisa lisungi ya bobongoli mpo na makanisi na minoko mingi.
 
@@ -31,9 +31,77 @@ Bobongisi [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/ma
 Kobongisa ba variables ya environnement oyo elandi epesaka nzela na ba appels ya API ya Google Translate eleka na proxy.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Embedding Ya Variable
@@ -45,7 +113,75 @@ test: 测试变量<br 0>嵌入
 ### Vide Na Cache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

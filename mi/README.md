@@ -2,9 +2,9 @@
 
 I18N.SITE, he kaihanga pae pateko e tautoko ana i te whakamaoritanga aunoa ki [nga reo rereke 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
-Ka hiahia pea etahi ki te patai, inaianei kua whai mahi whakamaori nga kaitirotiro, kaore ranei e tika kia whakawhitia te paetukutuku ki te ao?
+Ka hiahia pea etahi ki te patai, i te mea kua whakauruhia e nga kaitirotiro nga mahi whakamaori, kaore ranei e tika kia whakawhitia te paetukutuku ki te ao?
 
 E hiahia ana ahau ki te kii **ma te panui i te pae katoa ka taea e tatou te tautoko i nga reo maha i roto i te pae ki te rapu kupu-katoa me te arotautanga miihini rapu** .
 
@@ -31,9 +31,91 @@ Whakatikahia [te tran_md/src/comment.coffee](https://github.com/i18n-site/node/b
 Ma te tautuhi i nga taurangi taiao e whai ake nei ka taea e nga waea a Google Whakamaori API te haere ma te takawaenga.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Tāmau Taurangi
@@ -45,7 +127,89 @@ test: 测试变量<br 0>嵌入
 ### Putua Te Keteroki
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

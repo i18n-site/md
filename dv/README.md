@@ -1,12 +1,12 @@
-# <p Style=";text-Align:right;direction:rtl">I18N.SITE · ބޯޑަރެއް ނެތް ލިޔެކިޔުންތައް<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px"></p>
+# I18N.SITE · ބޯޑަރެއް ނެތް ލިޔެކިޔުންތައް<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE، [ތަފާތު 133 ބަހަކަށް](https://github.com/i18n-site/node/blob/main/lang/src/index.js) އޮޓޮމެޓިކް ތަރުޖަމާއަށް ސަޕޯޓްކުރާ ސްޓޭޓިކް ސައިޓް ޖަނަރޭޓަރެކެވެ .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 ބައެއް މީހުން ސުވާލު ކުރަން ބޭނުންވެދާނެ، މިހާރު ބްރައުޒާތަކުގައި ބިލްޓް-އިން ޓްރާންސްލެޝަން ފަންކްޝަންތައް ހުރުމުން، ވެބްސައިޓް އިންޓަނޭޝަނަލް ކުރަން ނުޖެހޭ ހެއްޔެވެ؟
 
-<p style=";text-align:right;direction:rtl">އަޅުގަނޑު ދަންނަވާލަން ބޭނުންވަނީ **، މުޅި ސައިޓް އިންޓަރނޭޝަނަލައިޒް ކުރުމުން އެކަނި އަޅުގަނޑުމެންނަށް މަލްޓި ލިންގުއަލް އިން-ސައިޓް ފުލް ޓެކްސްޓް ސަރޗް އަދި ސަރޗް އިންޖީން އޮޕްޓިމައިޒޭޝަން އަށް ސަޕޯޓް ކުރެވޭނީ** .</p>
+އަޅުގަނޑު ދަންނަވާލަން ބޭނުންވަނީ **، މުޅި ސައިޓް އިންޓަރނޭޝަނަލައިޒް ކުރުމުން އެކަނި އަޅުގަނޑުމެންނަށް މަލްޓި ލިންގުއަލް އިން-ސައިޓް ފުލް ޓެކްސްޓް ސަރޗް އަދި ސަރޗް އިންޖީން އޮޕްޓިމައިޒޭޝަން އަށް ސަޕޯޓް ކުރެވޭނީ** .
 
 ## ޓިއުޓޯރިއަލް
 
@@ -20,7 +20,7 @@ I18N.SITE، [ތަފާތު 133 ބަހަކަށް](https://github.com/i18n-site/nod
 
 ### ތަރުޖަމާގެ ނޯޓްސް
 
-<p style=";text-align:right;direction:rtl">ތަރުޖަމާ ކޮމެންޓްތަކުގައި \``` އަށް ފަހު ބަސް ދައްކަން ޖެހޭ، ` ```rust` ފަދަ ބަސްތަކެވެ.</p>
+ތަރުޖަމާ ކޮމެންޓްތަކުގައި \``` އަށް ފަހު ބަސް ދައްކަން ޖެހޭ، ` ```rust` ފަދަ ބަސްތަކެވެ.
 
 މިވަގުތު ރަސްޓް، ސީ، ސީޕީޕީ، ޖާވާ، ޖޭއެސް، ކޮފީ، ޕައިތަން، އަދި ބެޝް އަށް ކޮމެންޓް ތަރުޖަމާ ކުރުމަށް ސަޕޯޓް ކުރެއެވެ.
 
@@ -31,9 +31,94 @@ I18N.SITE، [ތަފާތު 133 ބަހަކަށް](https://github.com/i18n-site/nod
 ތިރީގައިވާ އެންވަޔަރަންމަންޓް ވެރިއޭބަލްތައް ސެޓްކުރުމުން ގޫގުލް ޓްރާންސްލެޓް އެޕީއައި ކޯލްތައް ޕްރޮކްސީ މެދުވެރިކޮށް ދަތުރުކުރެވޭނެއެވެ.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### ވެރިއޭބަލް އެންބެޑިންގ އެވެ
@@ -45,7 +130,92 @@ test: 测试变量<br 0>嵌入
 ### ހުސްކޮށްލާ ދަ ކެޝް
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

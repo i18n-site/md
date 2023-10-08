@@ -1,12 +1,12 @@
-# <p Style=";text-Align:right;direction:rtl">I18N.SITE · چېگراسىز ھۆججەتلەر<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px"></p>
+# I18N.SITE · چېگراسىز ھۆججەتلەر<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE ، [133 ئوخشىمىغان تىلغا](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ئاپتوماتىك تەرجىمە قىلىشنى قوللايدىغان تۇراقلىق تور ھاسىللىغۇچ.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 بەزى كىشىلەر سوراشنى ئويلىشى مۇمكىن ، ھازىر توركۆرگۈچلەردە تەرجىمە ئىقتىدارلىرى بار ، توربېكەتنى خەلقئارالاشتۇرۇش ھاجەتسىزمۇ؟
 
-<p style=";text-align:right;direction:rtl">دېمەكچىمەنكى **، پۈتكۈل تور بەتنى خەلقئارالاشتۇرۇش ئارقىلىقلا كۆپ تىللىق تور بېكەتتىكى تولۇق تېكىست ئىزدەش ۋە ئىزدەش ماتورىنى ئەلالاشتۇرۇشنى قوللىيالايمىز** .</p>
+دېمەكچىمەنكى **، پۈتكۈل تور بەتنى خەلقئارالاشتۇرۇش ئارقىلىقلا كۆپ تىللىق تور بېكەتتىكى تولۇق تېكىست ئىزدەش ۋە ئىزدەش ماتورىنى ئەلالاشتۇرۇشنى قوللىيالايمىز** .
 
 ## Tutorial
 
@@ -20,7 +20,7 @@ I18N.SITE ، [133 ئوخشىمىغان تىلغا](https://github.com/i18n-site/
 
 ### تەرجىمە خاتىرىلىرى
 
-<p style=";text-align:right;direction:rtl">تەرجىمە ئىزاھلىرى تىلدىن كېيىن تىلنى كۆرسىتىشى كېرەك ، مەسىلەن ` ```rust` .</p>
+تەرجىمە ئىنكاسلىرى `` دىن كېيىن تىلنى كۆرسىتىشى كېرەك ، مەسىلەن ` ```rust` .
 
 ھازىر دات ، c ، cpp ، java ، js ، قەھۋە ، بوغما يىلان ۋە باشنىڭ باھا تەرجىمىسىنى قوللايدۇ.
 
@@ -31,9 +31,100 @@ I18N.SITE ، [133 ئوخشىمىغان تىلغا](https://github.com/i18n-site/
 تۆۋەندىكى مۇھىت ئۆزگەرگۈچى مىقدارنى تەڭشەش Google Translate API تېلېفونىنىڭ ۋاكالەتچىدىن ئۆتۈشىگە يول قويىدۇ.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### ئۆزگىرىشچان قىستۇرما
@@ -45,7 +136,98 @@ test: 测试变量<br 0>嵌入
 ### The Cache
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

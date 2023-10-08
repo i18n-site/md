@@ -1,5 +1,5 @@
 404: Sayfa Mevcut Değil
-slogan: Sınır Tanımayan Dil
+slogan: Dil Sınır Tanımaz
 test: Test Değişkeni<br 0> Gömülü
 blog: Blog
 home: Ev
@@ -7,5 +7,5 @@ doc: Belge
 lang: Dil
 full: Tam ekran
 search: Aramak
-qHolder: Lütfen Anahtar Kelimeyi Girin
+qHolder: Anahtar Kelimeyi Girin
 close: Kapalı
