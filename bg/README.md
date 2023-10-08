@@ -1,4 +1,4 @@
-# I18N.SITE · Език Без Граници<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Език Без Граници<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, многоезичен генератор на статични сайтове, може автоматично да превежда Markdown на [повече от сто различни езика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

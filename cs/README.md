@@ -1,4 +1,4 @@
-# I18N.SITE · Jazyk Bez Hranic<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Jazyk Bez Hranic<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, vícejazyčný generátor statických stránek, dokáže automaticky přeložit Markdown do [více než stovky různých jazyků](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

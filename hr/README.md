@@ -1,4 +1,4 @@
-# I18N.SITE · Jezik Bez Granica<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Jezik Bez Granica<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, generator statičnih stranica na više jezika, može automatski prevesti Markdown na [više od stotinu različitih jezika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

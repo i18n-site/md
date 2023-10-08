@@ -1,4 +1,4 @@
-# I18N.SITE · Ede Laisi Aala<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Ede Laisi Aala<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, olupilẹṣẹ aaye aimi-ede pupọ, le tumọ Markdown laifọwọyi si [diẹ sii ju awọn ede oriṣiriṣi ọgọrun lọ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

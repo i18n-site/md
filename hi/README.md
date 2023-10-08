@@ -1,4 +1,4 @@
-# I18N.SITE · बिना सीमाओं की भाषा<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · बिना सीमाओं की भाषा<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, एक बहु-भाषा स्थैतिक साइट जनरेटर, स्वचालित रूप से मार्कडाउन को [सौ से अधिक विभिन्न भाषाओं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) में अनुवाद कर सकता है।
 

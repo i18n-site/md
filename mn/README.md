@@ -1,4 +1,4 @@
-# I18N.SITE · Хил Хязгааргүй Хэл<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Хил Хязгааргүй Хэл<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 Олон хэлний статик сайт үүсгэгч I18N.SITE нь Markdown-ийг [зуу гаруй хэл](https://github.com/i18n-site/node/blob/main/lang/src/index.js) рүү автоматаар орчуулж чаддаг.
 

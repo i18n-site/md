@@ -1,4 +1,4 @@
-# I18N.SITE · Polelo E Se Nang Mellwane<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Polelo E Se Nang Mellwane<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, jenereithara ya sebaka sa go se fetoge sa maleme a mantši, e ka fetolela ka go iketla Markdown ka [maleme a go feta lekgolo a fapanego](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

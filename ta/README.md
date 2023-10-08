@@ -1,4 +1,4 @@
-# I18N.SITE · எல்லைகள் இல்லாத மொழி<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · எல்லைகள் இல்லாத மொழி<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, பல மொழி நிலையான தள ஜெனரேட்டர், Markdown ஐ [நூற்றுக்கும் மேற்பட்ட வெவ்வேறு மொழிகளில்](https://github.com/i18n-site/node/blob/main/lang/src/index.js) தானாக மொழிபெயர்க்க முடியும்.
 

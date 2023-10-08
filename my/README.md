@@ -1,4 +1,4 @@
-# I18N.SITE · နယ်စည်းမခြား ဘာသာစကား<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · နယ်စည်းမခြား ဘာသာစကား<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE သည် ဘာသာစကားပေါင်းစုံ အငြိမ်ဆိုဒ်မီးစက်တစ်ခုဖြစ်ပြီး Markdown ကို [ဘာသာစကားပေါင်း တစ်ရာကျော်](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက်ဘာသာပြန်ပေးနိုင်ပါသည်။
 

@@ -1,4 +1,4 @@
-# I18N.SITE · بې سرحده ژبه<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · بې سرحده ژبه<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE، د څو ژبو جامد سایټ جنراتور، کولی شي په اتوماتيک ډول مارک ڈاون [له سلو څخه ډیرو مختلفو ژبو](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ته وژباړي.
 

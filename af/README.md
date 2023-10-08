@@ -1,4 +1,4 @@
-# I18N.SITE · Taal Sonder Grense<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Taal Sonder Grense<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, &#39;n veeltalige statiese werfgenerator, kan Markdown outomaties in [meer as honderd verskillende tale](https://github.com/i18n-site/node/blob/main/lang/src/index.js) vertaal.
 

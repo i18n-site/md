@@ -1,4 +1,4 @@
-# I18N.SITE · Monoko Oyo Ezangi Ndelo<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Monoko Oyo Ezangi Ndelo<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, générateur ya site statique ya minoko mingi, ekoki kobongola na ndenge ya automatique Markdown na [minoko koleka nkama ekeseni](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

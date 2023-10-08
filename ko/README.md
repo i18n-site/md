@@ -1,4 +1,4 @@
-# I18N.SITE · 국경 없는 언어<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · 국경 없는 언어<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 다국어 정적 사이트 생성기인 I18N.SITE는 Markdown을 [100개 이상의 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역할 수 있습니다.
 

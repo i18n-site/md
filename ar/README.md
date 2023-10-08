@@ -1,4 +1,4 @@
-# I18N.SITE · لغة بلا حدود<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · لغة بلا حدود<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 يمكن لـ I18N.SITE، وهو منشئ مواقع ثابتة متعدد اللغات، ترجمة Markdown تلقائيًا إلى [أكثر من مائة لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

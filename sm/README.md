@@ -1,4 +1,4 @@
-# I18N.SITE · Gagana E Aunoa Ma Tuaoi<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Gagana E Aunoa Ma Tuaoi<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, o le tele-gagana static site generator, e mafai ona faaliliu otometi Markdown i [le silia ma le selau gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

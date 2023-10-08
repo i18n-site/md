@@ -1,4 +1,4 @@
-# I18N.GUNEA · Mugarik Gabeko Hizkuntza<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.GUNEA · Mugarik Gabeko Hizkuntza<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, hizkuntza anitzeko gune estatikoko sorgailuak, Markdown automatikoki itzul dezake [ehun hizkuntza ezberdin baino gehiagotara](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

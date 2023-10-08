@@ -1,4 +1,4 @@
-# I18N.SITE · ٻولي بغير سرحدن جي<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ٻولي بغير سرحدن جي<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE، هڪ گھڻ-ٻولي جامد سائيٽ جنريٽر، خود بخود مارڪ ڊائون کي [سؤ کان وڌيڪ مختلف ٻولين](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ۾ ترجمو ڪري سگھي ٿو.
 

@@ -1,4 +1,4 @@
-# I18N.SITE · Serhetsiz Dil<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Serhetsiz Dil<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 Köp dilli statiki saýt generatory I18N.SITE Markdown-dan [ýüzden gowrak dürli dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) awtomatiki terjime edip biler.
 

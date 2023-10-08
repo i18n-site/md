@@ -1,4 +1,4 @@
-# I18N.SITE · දේශසීමා රහිත භාෂාව<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · දේශසීමා රහිත භාෂාව<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 බහු භාෂා ස්ථිතික අඩවි උත්පාදකයක් වන I18N.SITE හට Markdown ස්වයංක්‍රීයව [විවිධ භාෂා සියයකට වඩා](https://github.com/i18n-site/node/blob/main/lang/src/index.js) පරිවර්තනය කළ හැක.
 

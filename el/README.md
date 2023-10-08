@@ -1,4 +1,4 @@
-# I18N.SITE · Γλώσσα Χωρίς Σύνορα<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Γλώσσα Χωρίς Σύνορα<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 Το I18N.SITE, μια δημιουργία στατικών τοποθεσιών πολλών γλωσσών, μπορεί να μεταφράσει αυτόματα το Markdown σε [περισσότερες από εκατό διαφορετικές γλώσσες](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

@@ -1,4 +1,4 @@
-# I18N.SITE · سرحدوں کے بغیر زبان<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · سرحدوں کے بغیر زبان<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE، ایک کثیر زبان کا جامد سائٹ جنریٹر، مارک ڈاؤن کو [سو سے زیادہ مختلف زبانوں](https://github.com/i18n-site/node/blob/main/lang/src/index.js) میں خود بخود ترجمہ کر سکتا ہے۔
 

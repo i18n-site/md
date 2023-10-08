@@ -1,4 +1,4 @@
-# I18N.SITE · Reo Kore Taitapa<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Reo Kore Taitapa<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 Ka taea e I18N.SITE, he kaiwhakaputa pae static reo-maha, te whakamaori aunoa i a Markdown ki [te neke atu i te kotahi rau nga reo rereke](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

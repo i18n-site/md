@@ -1,4 +1,4 @@
-# I18N.SITE · Teanga Gan Teorainneacha<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Teanga Gan Teorainneacha<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 Is féidir le I18N.SITE, gineadóir suímh statach iltheangacha, Markdown a aistriú go huathoibríoch go [níos mó ná céad teanga éagsúla](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

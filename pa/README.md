@@ -1,4 +1,4 @@
-# I18N.SITE · ਸਰਹੱਦਾਂ ਤੋਂ ਬਿਨਾਂ ਭਾਸ਼ਾ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ਸਰਹੱਦਾਂ ਤੋਂ ਬਿਨਾਂ ਭਾਸ਼ਾ<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, ਇੱਕ ਬਹੁ-ਭਾਸ਼ਾਈ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ, ਮਾਰਕਡਾਊਨ ਨੂੰ [ਸੌ ਤੋਂ ਵੱਧ ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਤੌਰ &#39;ਤੇ ਅਨੁਵਾਦ ਕਰ ਸਕਦਾ ਹੈ।
 

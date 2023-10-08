@@ -1,4 +1,4 @@
-# I18N.SITE · সীমাহীন ভাষা<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · সীমাহীন ভাষা<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, এটা বহু-ভাষা ষ্টেটিক চাইট জেনেৰেটৰ, স্বয়ংক্ৰিয়ভাৱে মাৰ্কডাউনক [এশৰো অধিক ভিন্ন ভাষালৈ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) অনুবাদ কৰিব পাৰে।
 

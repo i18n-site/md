@@ -1,4 +1,4 @@
-# I18N.SITE · Language Without Borders<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Language Without Borders<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, janareta a tsaye na harshe da yawa, na iya fassara Markdown ta atomatik zuwa [fiye da harsuna ɗari daban-daban](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

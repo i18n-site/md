@@ -1,4 +1,4 @@
-# I18N.SITE · Чек Арасыз Тил<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Чек Арасыз Тил<img Src="//i-01.eu.org/i18n.svg" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE, көп тилдүү статикалык сайт генератору, Markdown&#39;ду автоматтык түрдө [жүздөн ашык башка тилдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) которо алат.
 
