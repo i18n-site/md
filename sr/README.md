@@ -1,6 +1,6 @@
-# И18Н.СИТЕ · Документи Без Граница<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# И18Н.СИТЕ · Језик Без Граница<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-И18Н.СИТЕ, генератор статичког сајта који подржава аутоматско превођење на [133 различита језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+И18Н.СИТЕ, генератор статичког сајта који подржава аутоматско превођење на [100 различитих језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

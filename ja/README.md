@@ -1,6 +1,6 @@
-# I18N.SITE · 国境のない文書<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · 国境なき言語<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE、 [133 の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)への自動翻訳をサポートする静的サイト ジェネレーター。
+I18N.SITE、 [100 の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)への自動翻訳をサポートする静的サイト ジェネレーター。
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

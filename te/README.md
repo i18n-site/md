@@ -1,6 +1,6 @@
-# I18N.SITE · సరిహద్దులు లేని పత్రాలు<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · సరిహద్దులు లేని భాష<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [133 విభిన్న భాషల్లోకి](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ఆటోమేటిక్ అనువాదానికి మద్దతు ఇచ్చే స్టాటిక్ సైట్ జనరేటర్.
+I18N.SITE, [100 విభిన్న భాషల్లోకి](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ఆటోమేటిక్ అనువాదానికి మద్దతు ఇచ్చే స్టాటిక్ సైట్ జనరేటర్.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

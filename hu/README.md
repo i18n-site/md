@@ -1,6 +1,6 @@
-# I18N.SITE · Dokumentumok Határok Nélkül<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Nyelv Határok Nélkül<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-Az I18N.SITE egy statikus webhelygenerátor, amely [133 különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) támogatja az automatikus fordítást.
+I18N.SITE, egy statikus webhelygenerátor, amely támogatja az automatikus fordítást [100 különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

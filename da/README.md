@@ -1,6 +1,6 @@
-# I18N.SITE · Dokumenter Uden Grænser<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Sprog Uden Grænser<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, en statisk webstedsgenerator, der understøtter automatisk oversættelse til [133 forskellige sprog](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, en statisk webstedsgenerator, der understøtter automatisk oversættelse til [100 forskellige sprog](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

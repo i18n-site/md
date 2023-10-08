@@ -1,6 +1,6 @@
-# I18N.SITE · Dokumen Tanpa Sempadan<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Bahasa Tanpa Sempadan<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, penjana tapak statik yang menyokong terjemahan automatik ke dalam [133 bahasa berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, penjana tapak statik yang menyokong terjemahan automatik ke dalam [100 bahasa berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

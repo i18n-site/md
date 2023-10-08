@@ -1,6 +1,6 @@
-# I18N.SITE · Dokumente Ohne Grenzen<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Sprache Ohne Grenzen<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ein statischer Site-Generator, der die automatische Übersetzung in [133 verschiedene Sprachen](https://github.com/i18n-site/node/blob/main/lang/src/index.js) unterstützt.
+I18N.SITE, ein statischer Site-Generator, der die automatische Übersetzung in [100 verschiedene Sprachen](https://github.com/i18n-site/node/blob/main/lang/src/index.js) unterstützt.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

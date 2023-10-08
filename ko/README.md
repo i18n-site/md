@@ -1,6 +1,6 @@
-# I18N.SITE · 국경 없는 문서<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · 국경 없는 언어<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE는 [133개 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역을 지원하는 정적 사이트 생성기입니다.
+I18N.SITE는 [100개 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역을 지원하는 정적 사이트 생성기입니다.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

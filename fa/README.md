@@ -1,6 +1,6 @@
-# I18N.SITE · اسناد بدون مرز<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · زبان بدون مرز<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، یک مولد سایت ایستا که از ترجمه خودکار به [133 زبان مختلف](https://github.com/i18n-site/node/blob/main/lang/src/index.js) پشتیبانی می کند.
+I18N.SITE، یک مولد سایت استاتیک که از ترجمه خودکار به [100 زبان مختلف](https://github.com/i18n-site/node/blob/main/lang/src/index.js) پشتیبانی می کند.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

@@ -1,6 +1,6 @@
-# I18N.SITE · Dokumen Tanpa Batas<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Bahasa Tanpa Batas<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, generator situs statis yang mendukung terjemahan otomatis ke [133 bahasa berbeda](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, generator situs statis yang mendukung terjemahan otomatis ke [100 bahasa berbeda](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
