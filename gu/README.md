@@ -1,8 +1,8 @@
 # I18N.SITE · બોર્ડર્સ વિનાની ભાષા<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, એક સ્થિર સાઇટ જનરેટર જે [100 વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) સ્વચાલિત અનુવાદને સપોર્ટ કરે છે.
+I18N.SITE, એક સ્થિર સાઇટ જનરેટર જે [સો કરતાં વધુ વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) સ્વચાલિત અનુવાદને સપોર્ટ કરે છે.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 કેટલાક લોકો પૂછવા માગે છે કે, હવે જ્યારે બ્રાઉઝર્સમાં બિલ્ટ-ઇન ટ્રાન્સલેશન ફંક્શન્સ છે, તો શું વેબસાઇટનું આંતરરાષ્ટ્રીયકરણ કરવું બિનજરૂરી છે?
 

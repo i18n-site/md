@@ -1,8 +1,8 @@
 # I18N.SITE · Чек Арасыз Тил<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [100 башка тилге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматтык которууну колдогон статикалык сайт генератору.
+I18N.SITE, [жүздөн ашык башка тилдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматтык которууну колдогон статикалык сайт генератору.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Кээ бир адамдар суроо бериши мүмкүн, эми браузерлерде котормо функциялары бар, веб-сайтты эл аралык кылуунун кереги барбы?
 

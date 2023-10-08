@@ -1,8 +1,8 @@
 # I18N.SITE · Valoda Bez Robežām<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, statisks vietņu ģenerators, kas atbalsta automātisku tulkošanu [100 dažādās valodās](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, statisks vietņu ģenerators, kas atbalsta automātisku tulkošanu [vairāk nekā simts dažādās valodās](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Daži cilvēki var jautāt, vai tagad, kad pārlūkprogrammās ir iebūvētas tulkošanas funkcijas, nav nepieciešams internacionalizēt vietni?
 

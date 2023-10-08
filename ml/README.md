@@ -1,8 +1,8 @@
 # I18N.SITE · അതിരുകളില്ലാത്ത ഭാഷ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [100 വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) സ്വയമേവയുള്ള വിവർത്തനം പിന്തുണയ്ക്കുന്ന ഒരു സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്റർ.
+I18N.SITE, [നൂറിലധികം വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) സ്വയമേവയുള്ള വിവർത്തനം പിന്തുണയ്ക്കുന്ന ഒരു സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്റർ.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ചില ആളുകൾ ചോദിക്കാൻ ആഗ്രഹിച്ചേക്കാം, ഇപ്പോൾ ബ്രൗസറുകൾക്ക് ബിൽറ്റ്-ഇൻ ട്രാൻസ്ലേഷൻ ഫംഗ്‌ഷനുകൾ ഉള്ളതിനാൽ, വെബ്‌സൈറ്റ് അന്താരാഷ്ട്രവൽക്കരിക്കുന്നത് അനാവശ്യമാണോ?
 

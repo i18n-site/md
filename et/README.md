@@ -1,8 +1,8 @@
 # I18N.SITE · Piirideta Keel<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, staatiline saidigeneraator, mis toetab automaatset tõlkimist [100 erinevasse keelde](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, staatiline saidigeneraator, mis toetab automaatset tõlkimist [enam kui saja erinevasse keelde](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Mõned inimesed võivad küsida, kas nüüd, kui brauseritel on sisseehitatud tõlkefunktsioonid, pole vaja veebisaiti rahvusvahelistuda?
 

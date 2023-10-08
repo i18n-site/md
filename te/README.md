@@ -1,8 +1,8 @@
 # I18N.SITE · సరిహద్దులు లేని భాష<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [100 విభిన్న భాషల్లోకి](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ఆటోమేటిక్ అనువాదానికి మద్దతు ఇచ్చే స్టాటిక్ సైట్ జనరేటర్.
+I18N.SITE, [వంద కంటే ఎక్కువ విభిన్న భాషల్లోకి](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ఆటోమేటిక్ అనువాదానికి మద్దతు ఇచ్చే స్టాటిక్ సైట్ జనరేటర్.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ఇప్పుడు బ్రౌజర్‌లు అంతర్నిర్మిత అనువాద ఫంక్షన్‌లను కలిగి ఉన్నందున, వెబ్‌సైట్‌ను అంతర్జాతీయీకరించడం అనవసరమా అని కొంతమంది అడగాలనుకోవచ్చు.
 

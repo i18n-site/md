@@ -1,8 +1,8 @@
 # I18N.САЈТ · Јазик Без Граници<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, статичен генератор на сајтови кој поддржува автоматско преведување на [100 различни јазици](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, статичен генератор на страници што поддржува автоматско преведување на [повеќе од сто различни јазици](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Некои луѓе можеби ќе сакаат да прашаат, сега кога прелистувачите имаат вградени функции за превод, дали е непотребно да се интернационализира веб-локацијата?
 

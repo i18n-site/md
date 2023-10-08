@@ -1,8 +1,8 @@
 # I18N.SITE · سرحدوں کے بغیر زبان<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، ایک جامد سائٹ جنریٹر جو [100 مختلف زبانوں](https://github.com/i18n-site/node/blob/main/lang/src/index.js) میں خودکار ترجمہ کو سپورٹ کرتا ہے۔
+I18N.SITE، ایک جامد سائٹ جنریٹر جو [سو سے زیادہ مختلف زبانوں](https://github.com/i18n-site/node/blob/main/lang/src/index.js) میں خودکار ترجمہ کو سپورٹ کرتا ہے۔
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 کچھ لوگ پوچھنا چاہیں گے، اب جب کہ براؤزر میں ترجمہ کے فنکشنز پہلے سے موجود ہیں، کیا ویب سائٹ کو بین الاقوامی بنانا غیر ضروری ہے؟
 

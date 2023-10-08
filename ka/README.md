@@ -1,8 +1,8 @@
 # I18N.SITE · Ენა Საზღვრებს Გარეშე<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, სტატიკური საიტის გენერატორი, რომელიც მხარს უჭერს ავტომატურ თარგმნას [100 სხვადასხვა ენაზე](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, სტატიკური საიტის გენერატორი, რომელიც მხარს უჭერს ავტომატურ თარგმნას [ასზე მეტ სხვადასხვა ენაზე](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ზოგიერთს შეიძლება ჰკითხოს, ახლა, როდესაც ბრაუზერებს აქვთ ჩაშენებული თარგმანის ფუნქციები, არის თუ არა საჭირო ვებსაიტის ინტერნაციონალიზაცია?
 

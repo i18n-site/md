@@ -1,8 +1,8 @@
 # I18N.SITE · ସୀମା ବିନା ଭାଷା |<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ଏକ ଷ୍ଟାଟିକ୍ ସାଇଟ୍ ଜେନେରେଟର ଯାହା [100 ଟି ବିଭିନ୍ନ ଭାଷାରେ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ସ୍ୱୟଂଚାଳିତ ଅନୁବାଦକୁ ସମର୍ଥନ କରେ |
+I18N.SITE, ଏକ ଷ୍ଟାଟିକ୍ ସାଇଟ୍ ଜେନେରେଟର ଯାହା [ଶହେରୁ ଅଧିକ ବିଭିନ୍ନ ଭାଷାରେ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ସ୍ୱୟଂଚାଳିତ ଅନୁବାଦକୁ ସମର୍ଥନ କରେ |
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 କିଛି ଲୋକ ପଚାରିବାକୁ ଚାହିଁପାରନ୍ତି, ବର୍ତ୍ତମାନ ବ୍ରାଉଜର୍ଗୁଡ଼ିକର ବିଲ୍ଟ-ଇନ୍ ଅନୁବାଦ କାର୍ଯ୍ୟ ଅଛି, ୱେବସାଇଟକୁ ଆନ୍ତର୍ଜାତୀୟକରଣ କରିବା ଅନାବଶ୍ୟକ କି?
 

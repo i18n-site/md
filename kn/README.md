@@ -1,8 +1,8 @@
 # I18N.SITE · ಗಡಿಗಳಿಲ್ಲದ ಭಾಷೆ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [100 ವಿವಿಧ ಭಾಷೆಗಳಿಗೆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ಸ್ವಯಂಚಾಲಿತ ಅನುವಾದವನ್ನು ಬೆಂಬಲಿಸುವ ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್.
+I18N.SITE, [ನೂರಕ್ಕೂ ಹೆಚ್ಚು ವಿವಿಧ ಭಾಷೆಗಳಿಗೆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ಸ್ವಯಂಚಾಲಿತ ಅನುವಾದವನ್ನು ಬೆಂಬಲಿಸುವ ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ಕೆಲವು ಜನರು ಕೇಳಲು ಬಯಸಬಹುದು, ಈಗ ಬ್ರೌಸರ್‌ಗಳು ಅಂತರ್ನಿರ್ಮಿತ ಅನುವಾದ ಕಾರ್ಯಗಳನ್ನು ಹೊಂದಿವೆ, ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಅಂತರರಾಷ್ಟ್ರೀಯಗೊಳಿಸುವುದು ಅನಗತ್ಯವೇ?
 

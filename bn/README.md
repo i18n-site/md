@@ -1,8 +1,8 @@
 # I18N.SITE · সীমানা ছাড়া ভাষা<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, একটি স্ট্যাটিক সাইট জেনারেটর যা [100টি ভিন্ন ভাষায়](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্রিয় অনুবাদ সমর্থন করে।
+I18N.SITE, একটি স্ট্যাটিক সাইট জেনারেটর যেটি [একশোরও বেশি বিভিন্ন ভাষায়](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্রিয় অনুবাদ সমর্থন করে।
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 কিছু লোক জিজ্ঞাসা করতে চাইতে পারে, এখন যেহেতু ব্রাউজারগুলিতে অন্তর্নির্মিত অনুবাদ ফাংশন রয়েছে, ওয়েবসাইটটিকে আন্তর্জাতিকীকরণ করা কি অপ্রয়োজনীয়?
 

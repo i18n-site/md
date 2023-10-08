@@ -1,8 +1,8 @@
 # I18N.SITE · बिना सीमाओं की भाषा<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, एक स्थिर साइट जनरेटर जो [100 विभिन्न भाषाओं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) में स्वचालित अनुवाद का समर्थन करता है।
+I18N.SITE, एक स्थिर साइट जनरेटर जो [सौ से अधिक विभिन्न भाषाओं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) में स्वचालित अनुवाद का समर्थन करता है।
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 कुछ लोग यह पूछना चाह सकते हैं कि अब जब ब्राउज़र में अंतर्निहित अनुवाद फ़ंक्शन हैं, तो क्या वेबसाइट का अंतर्राष्ट्रीयकरण करना अनावश्यक है?
 

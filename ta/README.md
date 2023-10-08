@@ -1,8 +1,8 @@
 # I18N.SITE · எல்லைகள் இல்லாத மொழி<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [100 வெவ்வேறு மொழிகளில்](https://github.com/i18n-site/node/blob/main/lang/src/index.js) தானியங்கி மொழிபெயர்ப்பை ஆதரிக்கும் நிலையான தள ஜெனரேட்டர்.
+I18N.SITE, [நூற்றுக்கும் மேற்பட்ட வெவ்வேறு மொழிகளில்](https://github.com/i18n-site/node/blob/main/lang/src/index.js) தானியங்கி மொழிபெயர்ப்பை ஆதரிக்கும் நிலையான தள ஜெனரேட்டர்.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 இப்போது உலாவிகளில் உள்ளமைக்கப்பட்ட மொழிபெயர்ப்பு செயல்பாடுகள் இருப்பதால், இணையதளத்தை சர்வதேசமயமாக்குவது தேவையற்றதா என்று சிலர் கேட்க விரும்பலாம்.
 

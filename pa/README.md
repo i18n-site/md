@@ -1,8 +1,8 @@
 # I18N.SITE · ਸਰਹੱਦਾਂ ਤੋਂ ਬਿਨਾਂ ਭਾਸ਼ਾ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ਇੱਕ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ ਜੋ [100 ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਅਨੁਵਾਦ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ।
+I18N.SITE, ਇੱਕ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ ਜੋ [ਸੌ ਤੋਂ ਵੱਧ ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਅਨੁਵਾਦ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ।
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 ਕੁਝ ਲੋਕ ਪੁੱਛਣਾ ਚਾਹ ਸਕਦੇ ਹਨ, ਹੁਣ ਜਦੋਂ ਬ੍ਰਾਊਜ਼ਰਾਂ ਵਿੱਚ ਬਿਲਟ-ਇਨ ਅਨੁਵਾਦ ਫੰਕਸ਼ਨ ਹਨ, ਤਾਂ ਕੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਅੰਤਰਰਾਸ਼ਟਰੀਕਰਨ ਕਰਨਾ ਬੇਲੋੜਾ ਹੈ?
 
