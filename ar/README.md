@@ -2,7 +2,7 @@
 
 يمكن لـ I18N.SITE، وهو منشئ مواقع ثابتة متعدد اللغات، ترجمة Markdown تلقائيًا إلى [أكثر من مائة لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 قد يرغب بعض الأشخاص في التساؤل، بعد أن أصبحت المتصفحات تحتوي على وظائف ترجمة مدمجة، هل من الضروري تدويل الموقع؟
 

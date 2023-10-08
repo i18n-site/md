@@ -2,7 +2,7 @@
 
 I18N.SITE, một trình tạo trang tĩnh đa ngôn ngữ, có thể tự động dịch Markdown [sang hơn một trăm ngôn ngữ khác nhau](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Có thể một số người muốn hỏi, hiện nay trình duyệt đã tích hợp sẵn chức năng dịch thuật, liệu có cần thiết phải quốc tế hóa website hay không?
 

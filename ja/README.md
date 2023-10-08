@@ -1,4 +1,4 @@
-# I18N.SITE · 国境なき言語 <img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · 国境なき言語<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
 多言語静的サイト ジェネレーターである I18N.SITE は、Markdown を[100 以上の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)に自動的に翻訳できます。
 
@@ -6,7 +6,7 @@
 
 ブラウザに翻訳機能が組み込まれているので、Web サイトを国際化する必要はないのではないかと疑問に思う人もいるかもしれません。
 
-**サイト全体を国際化することによってのみ、多言語のサイト内全文検索と検索エンジンの最適化をサポートできると** 言いたいのです。
+**サイト全体を国際化することによってのみ、多言語のサイト内全文検索と検索エンジンの最適化をサポートできると**言いたいのです。
 
 ## チュートリアル
 

@@ -2,7 +2,7 @@
 
 I18N.SITE, penjana tapak statik berbilang bahasa, secara automatik boleh menterjemah Markdown ke dalam [lebih daripada seratus bahasa berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Sesetengah orang mungkin ingin bertanya, sekarang pelayar mempunyai fungsi terjemahan terbina dalam, adakah tidak perlu untuk mengantarabangsakan tapak web?
 

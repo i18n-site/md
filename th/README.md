@@ -2,7 +2,7 @@
 
 I18N.SITE ซึ่งเป็นเครื่องมือสร้างเว็บไซต์คงที่หลายภาษา สามารถแปล Markdown เป็น [ภาษาต่างๆ มากกว่าร้อยภาษา](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ได้โดยอัตโนมัติ
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 บางคนอาจอยากถามว่าตอนนี้เบราว์เซอร์มีฟังก์ชั่นการแปลในตัวแล้ว ไม่จำเป็นต้องทำให้เว็บไซต์เป็นสากลหรือไม่?
 

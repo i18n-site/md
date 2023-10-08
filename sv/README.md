@@ -2,7 +2,7 @@
 
 I18N.SITE, en flerspråkig statisk webbplatsgenerator, kan automatiskt översätta Markdown till [mer än hundra olika språk](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Vissa kanske vill fråga, nu när webbläsare har inbyggda översättningsfunktioner, är det onödigt att internationalisera webbplatsen?
 

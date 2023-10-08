@@ -2,7 +2,7 @@
 
 Az I18N.SITE egy többnyelvű statikus webhelygenerátor, amely automatikusan le tudja fordítani a Markdown-t [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Néhányan feltehetik a kérdést, hogy most, hogy a böngészők beépített fordítási funkcióval rendelkeznek, nem szükséges-e nemzetközivé tenni a webhelyet?
 

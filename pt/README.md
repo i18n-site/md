@@ -2,7 +2,7 @@
 
 I18N.SITE, um gerador de sites estáticos multilíngues, pode traduzir automaticamente o Markdown para [mais de cem idiomas diferentes](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Algumas pessoas podem querer perguntar: agora que os navegadores possuem funções de tradução integradas, é desnecessário internacionalizar o site?
 

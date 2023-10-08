@@ -2,7 +2,7 @@
 
 다국어 정적 사이트 생성기인 I18N.SITE는 Markdown을 [100개 이상의 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역할 수 있습니다.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 어떤 사람들은 이제 브라우저에 번역 기능이 내장되어 있으므로 웹사이트를 국제화할 필요가 없는지 묻고 싶어할 수도 있습니다.
 

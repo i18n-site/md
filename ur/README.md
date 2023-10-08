@@ -2,7 +2,7 @@
 
 I18N.SITE، ایک کثیر زبان کا جامد سائٹ جنریٹر، مارک ڈاؤن کو [سو سے زیادہ مختلف زبانوں](https://github.com/i18n-site/node/blob/main/lang/src/index.js) میں خود بخود ترجمہ کر سکتا ہے۔
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 کچھ لوگ پوچھنا چاہیں گے، اب جب کہ براؤزر میں ترجمہ کے فنکشنز پہلے سے موجود ہیں، کیا ویب سائٹ کو بین الاقوامی بنانا غیر ضروری ہے؟
 

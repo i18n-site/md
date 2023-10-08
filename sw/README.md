@@ -2,7 +2,7 @@
 
 I18N.SITE, jenereta ya tovuti tuli ya lugha nyingi, inaweza kutafsiri kiotomatiki Markdown katika [zaidi ya lugha mia tofauti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Baadhi ya watu wanaweza kutaka kuuliza, kwa kuwa sasa vivinjari vina vitendaji vya utafsiri vilivyojengewa ndani, je, si lazima kufanya tovuti iwe ya kimataifa?
 

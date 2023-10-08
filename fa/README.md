@@ -2,7 +2,7 @@
 
 I18N.SITE، یک مولد سایت ایستا چند زبانه، می تواند Markdown را به طور خودکار به [بیش از صد زبان مختلف](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ترجمه کند.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 برخی از افراد ممکن است بخواهند بپرسند، اکنون که مرورگرها عملکردهای ترجمه داخلی دارند، آیا بین المللی کردن وب سایت ضروری نیست؟
 
