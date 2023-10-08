@@ -2,9 +2,6 @@ lang:
   en:
   zh: en zh-TW
 
-use:
-  zh en: volcengine
-
 on:
   end:
     - @n8/i18n-bin
