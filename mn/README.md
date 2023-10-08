@@ -2,7 +2,7 @@
 
 Олон хэлний статик сайт үүсгэгч I18N.SITE нь Markdown-ийг [зуу гаруй хэл](https://github.com/i18n-site/node/blob/main/lang/src/index.js) рүү автоматаар орчуулж чаддаг.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Зарим хүмүүс хөтчүүд орчуулгын функцтэй болсон тул вэбсайтыг олон улсын болгох шаардлагагүй гэж асуухыг хүсч магадгүй юм.
 

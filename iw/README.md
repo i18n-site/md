@@ -2,7 +2,7 @@
 
 I18N.SITE, מחולל אתרים סטטי רב שפות, יכול לתרגם אוטומטית את Markdown [ליותר ממאה שפות שונות](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 יש אנשים שירצו לשאול, עכשיו שלדפדפנים יש פונקציות תרגום מובנות, האם זה מיותר לבצע אינטרנציונל של האתר?
 
