@@ -1,8 +1,8 @@
 # I18N.SITE · Linguaggio Senza Frontiere<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, un generatore di siti statici che supporta la traduzione automatica in [100 lingue diverse](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, un generatore di siti statici che supporta la traduzione automatica in [più di cento lingue diverse](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Alcune persone potrebbero chiedersi, ora che i browser hanno funzioni di traduzione integrate, non è necessario internazionalizzare il sito web?
 

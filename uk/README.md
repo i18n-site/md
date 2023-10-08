@@ -1,8 +1,8 @@
 # I18N.SITE · Мова Без Кордонів<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, генератор статичного сайту, який підтримує автоматичний переклад на [100 різних мов](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, генератор статичних сайтів, який підтримує автоматичний переклад [понад сотнею різних мов](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Деякі люди можуть запитати, тепер, коли браузери мають вбудовані функції перекладу, чи немає потреби інтернаціоналізувати веб-сайт?
 

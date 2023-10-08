@@ -1,8 +1,8 @@
 # I18N.SITE · Språk Utan Gränser<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, en statisk webbplatsgenerator som stöder automatisk översättning till [100 olika språk](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, en statisk webbplatsgenerator som stöder automatisk översättning till [mer än hundra olika språk](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Vissa kanske vill fråga, nu när webbläsare har inbyggda översättningsfunktioner, är det onödigt att internationalisera webbplatsen?
 

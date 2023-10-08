@@ -1,8 +1,8 @@
 # И18Н.СИТЕ · Језик Без Граница<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-И18Н.СИТЕ, генератор статичког сајта који подржава аутоматско превођење на [100 различитих језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+И18Н.СИТЕ, генератор статичког сајта који подржава аутоматско превођење на [више од стотину различитих језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Неки људи ће можда желети да питају, сада када претраживачи имају уграђене функције превођења, да ли је непотребно интернационализовати веб локацију?
 

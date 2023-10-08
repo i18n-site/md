@@ -1,8 +1,8 @@
 # I18N.SITE · Nyelv Határok Nélkül<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, egy statikus webhelygenerátor, amely támogatja az automatikus fordítást [100 különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+Az I18N.SITE egy statikus webhelygenerátor, amely [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) támogatja az automatikus fordítást.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Néhányan feltehetik a kérdést, hogy most, hogy a böngészők beépített fordítási funkcióval rendelkeznek, nem szükséges-e nemzetközivé tenni a webhelyet?
 

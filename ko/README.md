@@ -1,8 +1,8 @@
 # I18N.SITE · 국경 없는 언어<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE는 [100개 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역을 지원하는 정적 사이트 생성기입니다.
+I18N.SITE는 [100개 이상의 다양한 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역을 지원하는 정적 사이트 생성기입니다.
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 어떤 사람들은 이제 브라우저에 번역 기능이 내장되어 있으므로 웹사이트를 국제화할 필요가 없는지 묻고 싶어할 수도 있습니다.
 

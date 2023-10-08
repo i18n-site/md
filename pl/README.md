@@ -1,8 +1,8 @@
 # I18N.SITE · Język Bez Granic<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, statyczny generator stron obsługujący automatyczne tłumaczenie na [100 różnych języków](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, statyczny generator stron obsługujący automatyczne tłumaczenie na [ponad sto różnych języków](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
+<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
 Niektórzy ludzie mogą chcieć zapytać, czy teraz, gdy przeglądarki mają wbudowane funkcje tłumaczenia, niepotrzebne jest umiędzynarodowienie witryny?
 
