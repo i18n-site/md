@@ -1,6 +1,6 @@
 # I18N.SITE · Iaith Heb Ffiniau<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, generadur safle sefydlog sy&#39;n cefnogi cyfieithu awtomatig i [fwy na chant o ieithoedd gwahanol](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+Gall I18N.SITE, generadur safle statig aml-iaith, gyfieithu Markdown yn awtomatig i [fwy na chant o ieithoedd gwahanol](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,80 +31,6 @@ Golygu [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/
 Mae gosod y newidynnau amgylchedd canlynol yn caniatáu i alwadau API Google Translate fynd trwy'r dirprwy.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -116,80 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Gwag Y Cache
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

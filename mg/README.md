@@ -1,6 +1,6 @@
 # I18N.SITE · Fiteny Tsy Misy Sisintany<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, mpamorona tranokala tsy miovaova izay manohana ny fandikana mandeha ho azy amin&#39;ny [fiteny maherin&#39;ny zato](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, mpamokatra tranokala statika amin&#39;ny fiteny maro, dia afaka mandika ho azy ny Markdown amin&#39;ny [fiteny maherin&#39;ny zato](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,73 +31,6 @@ Amboary [ny tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/m
 Ny fametrahana ireto fari-piainan'ny tontolo iainana manaraka ireto dia ahafahan'ny antson'ny Google Translate API mandeha amin'ny proxy.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -109,73 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Foana Ny Cache
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

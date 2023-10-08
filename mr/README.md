@@ -1,6 +1,6 @@
 # I18N.SITE · सीमा नसलेली भाषा<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, एक स्थिर साइट जनरेटर जो [शंभराहून अधिक भिन्न भाषांमध्ये](https://github.com/i18n-site/node/blob/main/lang/src/index.js) स्वयंचलित अनुवादास समर्थन देतो.
+I18N.SITE, एक बहु-भाषा स्थिर साइट जनरेटर, मार्कडाउनचे [शंभरहून अधिक भिन्न भाषांमध्ये](https://github.com/i18n-site/node/blob/main/lang/src/index.js) स्वयंचलितपणे भाषांतर करू शकते.
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,48 +31,6 @@ I18N.SITE, एक स्थिर साइट जनरेटर जो [शं
 खालील पर्यावरण व्हेरिएबल्स सेट केल्याने Google Translate API कॉल्स प्रॉक्सीद्वारे जाऊ शकतात.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -84,48 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### कॅशे रिक्त करा
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

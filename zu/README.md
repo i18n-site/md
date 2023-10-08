@@ -1,6 +1,6 @@
 # I18N.SITE · Ulimi Olungenamingcele<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I-I18N.SITE, ijeneretha yesayithi emile esekela ukuhumusha okuzenzakalelayo [ezilimini ezingaphezu kwekhulu ezahlukene](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I-I18N.SITE, ijeneretha yesayithi emile yezilimi eziningi, ingahumushela ngokuzenzakalelayo i-Markdown [ezilimini ezingaphezu kwekhulu ezahlukene](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,78 +31,6 @@ Hlela [i-tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main
 Ukusetha okuhlukile kwemvelo okulandelayo kuvumela amakholi we-Google Translate API ukuthi adlule kummeleli.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -114,78 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Thulula Inqolobane
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

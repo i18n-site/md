@@ -1,6 +1,6 @@
 # I18N.SITE · Nyelv Határok Nélkül<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-Az I18N.SITE egy statikus webhelygenerátor, amely [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) támogatja az automatikus fordítást.
+Az I18N.SITE egy többnyelvű statikus webhelygenerátor, amely automatikusan le tudja fordítani a Markdown-t [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,27 +31,6 @@ Szerkessze [a tran_md/src/comment.coffee fájlt,](https://github.com/i18n-site/n
 A következő környezeti változók beállítása lehetővé teszi, hogy a Google Fordító API-hívásai keresztülmenjenek a proxyn.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -63,27 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Átmeneti Tár Ürítése
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

@@ -1,6 +1,6 @@
 # I18N.SITE · எல்லைகள் இல்லாத மொழி<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [நூற்றுக்கும் மேற்பட்ட வெவ்வேறு மொழிகளில்](https://github.com/i18n-site/node/blob/main/lang/src/index.js) தானியங்கி மொழிபெயர்ப்பை ஆதரிக்கும் நிலையான தள ஜெனரேட்டர்.
+I18N.SITE, பல மொழி நிலையான தள ஜெனரேட்டர், Markdown ஐ [நூற்றுக்கும் மேற்பட்ட வெவ்வேறு மொழிகளில்](https://github.com/i18n-site/node/blob/main/lang/src/index.js) தானாக மொழிபெயர்க்க முடியும்.
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,47 +31,6 @@ I18N.SITE, [நூற்றுக்கும் மேற்பட்ட வெ
 பின்வரும் சூழல் மாறிகளை அமைப்பது Google Translate API அழைப்புகளை ப்ராக்ஸி வழியாகச் செல்ல அனுமதிக்கிறது.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -83,47 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### தற்காலிக சேமிப்பை காலி செய்யவும்
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

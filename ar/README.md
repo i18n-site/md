@@ -1,6 +1,6 @@
 # I18N.SITE · لغة بلا حدود<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، منشئ مواقع ثابتة يدعم الترجمة الآلية إلى [أكثر من مائة لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+يمكن لـ I18N.SITE، وهو منشئ مواقع ثابتة متعدد اللغات، ترجمة Markdown تلقائيًا إلى [أكثر من مائة لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,7 +31,6 @@ I18N.SITE، منشئ مواقع ثابتة يدعم الترجمة الآلية 
 يؤدي تعيين متغيرات البيئة التالية إلى السماح لاستدعاءات Google Translate API بالمرور عبر الوكيل.
 
 ```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -43,7 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### إفراغ ذاكرة التخزين المؤقت
 
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

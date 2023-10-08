@@ -1,6 +1,6 @@
 # I18N.SITE · Langue Sans Frontières<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, un générateur de sites statiques prenant en charge la traduction automatique dans [plus d&#39;une centaine de langues différentes](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, un générateur de sites statiques multilingues, peut traduire automatiquement Markdown dans [plus d&#39;une centaine de langues différentes](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,9 +31,6 @@ Modifiez [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/mai
 La définition des variables d'environnement suivantes permet aux appels de l'API Google Translate de passer par le proxy.
 
 ```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -45,9 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Vider Le Cache
 
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

@@ -1,6 +1,6 @@
 # I18N.SITE · সীমানা ছাড়া ভাষা<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, একটি স্ট্যাটিক সাইট জেনারেটর যেটি [একশোরও বেশি বিভিন্ন ভাষায়](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্রিয় অনুবাদ সমর্থন করে।
+I18N.SITE, একটি বহু-ভাষা স্ট্যাটিক সাইট জেনারেটর, স্বয়ংক্রিয়ভাবে মার্কডাউনকে [একশোরও বেশি ভিন্ন ভাষায়](https://github.com/i18n-site/node/blob/main/lang/src/index.js) অনুবাদ করতে পারে।
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,42 +31,6 @@ I18N.SITE, একটি স্ট্যাটিক সাইট জেনার
 নিম্নলিখিত এনভায়রনমেন্ট ভেরিয়েবল সেট করা Google Translate API কলগুলিকে প্রক্সির মাধ্যমে যেতে দেয়৷
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -78,42 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### ক্যাশ খালি করুন
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

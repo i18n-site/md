@@ -1,6 +1,6 @@
 # I18N.SITE · ພາສາທີ່ບໍ່ມີພົມແດນ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ຕົວສ້າງເວັບໄຊແບບຄົງທີ່ທີ່ຮອງຮັບການແປພາສາອັດຕະໂນມັດເປັນ [ຫຼາຍກວ່າຮ້ອຍພາສາ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, ເປັນຕົວສ້າງເວັບໄຊແບບຄົງທີ່ຫຼາຍພາສາ, ສາມາດແປ Markdown ໂດຍອັດຕະໂນມັດເປັນ [ຫຼາຍກວ່າຮ້ອຍພາສາ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,57 +31,6 @@ I18N.SITE, ຕົວສ້າງເວັບໄຊແບບຄົງທີ່ທ
 ການຕັ້ງຄ່າຕົວແປສະພາບແວດລ້ອມຕໍ່ໄປນີ້ອະນຸຍາດໃຫ້ Google Translate API ໂທຜ່ານພຣັອກຊີ.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -93,57 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### ຫວ່າງເປົ່າ Cache
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

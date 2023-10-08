@@ -1,6 +1,6 @@
 # I18N.SITE · Шекарасыз Тіл<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [жүзден астам әртүрлі тілдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматты аударманы қолдайтын статикалық сайт генераторы .
+I18N.SITE, көп тілді статикалық сайт генераторы, Markdown бағдарламасын [жүзден астам түрлі тілдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматты түрде аудара алады.
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,61 +31,6 @@ I18N.SITE, [жүзден астам әртүрлі тілдерге](https://git
 Келесі орта айнымалы мәндерін орнату Google Translate API қоңырауларына прокси арқылы өтуге мүмкіндік береді.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -97,61 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Кэшті Босатыңыз
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

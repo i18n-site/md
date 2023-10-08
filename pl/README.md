@@ -1,6 +1,6 @@
 # I18N.SITE · Język Bez Granic<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, statyczny generator stron obsługujący automatyczne tłumaczenie na [ponad sto różnych języków](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, wielojęzyczny generator stron statycznych, może automatycznie przetłumaczyć Markdown na [ponad sto różnych języków](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,20 +31,6 @@ Edytuj [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/
 Ustawienie następujących zmiennych środowiskowych umożliwia przechodzenie wywołań API Tłumacza Google przez serwer proxy.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -56,20 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Opróżnij Pamięć Podręczną
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

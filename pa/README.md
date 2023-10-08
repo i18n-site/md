@@ -1,6 +1,6 @@
 # I18N.SITE · ਸਰਹੱਦਾਂ ਤੋਂ ਬਿਨਾਂ ਭਾਸ਼ਾ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ਇੱਕ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ ਜੋ [ਸੌ ਤੋਂ ਵੱਧ ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਅਨੁਵਾਦ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ।
+I18N.SITE, ਇੱਕ ਬਹੁ-ਭਾਸ਼ਾਈ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ, ਮਾਰਕਡਾਊਨ ਨੂੰ [ਸੌ ਤੋਂ ਵੱਧ ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਤੌਰ &#39;ਤੇ ਅਨੁਵਾਦ ਕਰ ਸਕਦਾ ਹੈ।
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,49 +31,6 @@ I18N.SITE, ਇੱਕ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ ਜੋ [ਸੌ
 ਨਿਮਨਲਿਖਤ ਵਾਤਾਵਰਣ ਵੇਰੀਏਬਲਾਂ ਨੂੰ ਸੈੱਟ ਕਰਨਾ Google Translate API ਕਾਲਾਂ ਨੂੰ ਪ੍ਰੌਕਸੀ ਰਾਹੀਂ ਜਾਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ।
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -85,49 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### ਕੈਸ਼ ਖਾਲੀ ਕਰੋ
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

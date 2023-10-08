@@ -1,6 +1,6 @@
 # I18N.SITE · ድንበር የለሽ ቋንቋ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE፣ [ከመቶ በሚበልጡ ቋንቋዎች](https://github.com/i18n-site/node/blob/main/lang/src/index.js) አውቶማቲክ መተርጎምን የሚደግፍ የማይንቀሳቀስ ጣቢያ ጀነሬተር።
+I18N.SITE፣ ባለብዙ ቋንቋ የማይንቀሳቀስ ጣቢያ ጀነሬተር፣ ማርክዳውን [ከመቶ በሚበልጡ ቋንቋዎች](https://github.com/i18n-site/node/blob/main/lang/src/index.js) በራስ-ሰር መተርጎም ይችላል።
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,67 +31,6 @@ I18N.SITE፣ [ከመቶ በሚበልጡ ቋንቋዎች](https://github.com/i18n
 የሚከተሉትን የአካባቢ ተለዋዋጮችን ማቀናበር የጉግል ተርጓሚ ኤፒአይ ጥሪዎች በፕሮክሲው በኩል እንዲሄዱ ያስችላቸዋል።
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -103,67 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### መሸጎጫውን ባዶ ያድርጉት
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

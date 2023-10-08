@@ -1,6 +1,6 @@
 # I18N.SITE · Мова Без Кордонів<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, генератор статичних сайтів, який підтримує автоматичний переклад [понад сотнею різних мов](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, багатомовний генератор статичних сайтів, може автоматично перекладати Markdown [більш ніж сотнею різних мов](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,22 +31,6 @@ I18N.SITE, генератор статичних сайтів, який підт
 Установлення наведених нижче змінних середовища дозволяє викликам API перекладача Google проходити через проксі.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -58,22 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Очистити Кеш
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

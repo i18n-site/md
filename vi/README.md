@@ -1,6 +1,6 @@
 # I18N.SITE · Ngôn Ngữ Không Biên Giới<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, một trình tạo trang tĩnh hỗ trợ dịch tự động [sang hơn một trăm ngôn ngữ khác nhau](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, một trình tạo trang tĩnh đa ngôn ngữ, có thể tự động dịch Markdown [sang hơn một trăm ngôn ngữ khác nhau](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,15 +31,6 @@ Chỉnh sửa [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blo
 Việc đặt các biến môi trường sau cho phép lệnh gọi API Google Dịch đi qua proxy.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -51,15 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Làm Sạch Bộ Nhớ Tạm
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

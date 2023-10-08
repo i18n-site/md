@@ -1,6 +1,6 @@
 # I18N.SITE · Language Without Borders<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, a static site generator that supports automatic translation into [more than a hundred different languages](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, a multi-language static site generator, can automatically translate Markdown into [more than a hundred different languages](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 

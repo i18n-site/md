@@ -1,6 +1,6 @@
 # I18N.SITE · Idioma Sin Fronteras<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, un generador de sitios estáticos que admite traducción automática a [más de cien idiomas diferentes](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, un generador de sitios estáticos en varios idiomas, puede traducir automáticamente Markdown a [más de cien idiomas diferentes](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 

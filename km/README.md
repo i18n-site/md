@@ -1,6 +1,6 @@
 # I18N.SITE · ភាសាគ្មានព្រំដែន<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE ដែលជាម៉ាស៊ីនបង្កើតគេហទំព័រឋិតិវន្តដែលគាំទ្រការបកប្រែដោយស្វ័យប្រវត្តិទៅជា [ជាងមួយរយភាសាផ្សេងៗគ្នា](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ។
+I18N.SITE ដែលជាម៉ាស៊ីនបង្កើតគេហទំព័រឋិតិវន្តពហុភាសា អាចបកប្រែ Markdown ដោយស្វ័យប្រវត្តិទៅជា [ជាងមួយរយភាសាផ្សេងគ្នា](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ។
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,56 +31,6 @@ I18N.SITE ដែលជាម៉ាស៊ីនបង្កើតគេហទំ�
 ការកំណត់អថេរបរិស្ថានខាងក្រោមអនុញ្ញាតឱ្យ Google Translate API calls ឆ្លងកាត់ប្រូកស៊ី។
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -92,56 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### ជម្រះឃ្លាំងសម្ងាត់
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

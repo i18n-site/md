@@ -1,6 +1,6 @@
 # I18N.SITE · അതിരുകളില്ലാത്ത ഭാഷ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [നൂറിലധികം വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) സ്വയമേവയുള്ള വിവർത്തനം പിന്തുണയ്ക്കുന്ന ഒരു സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്റർ.
+I18N.SITE, ഒരു മൾട്ടി-ലാംഗ്വേജ് സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്ററിന്, [നൂറിലധികം വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) മാർക്ക്ഡൗൺ സ്വയമേവ വിവർത്തനം ചെയ്യാൻ കഴിയും.
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,45 +31,6 @@ I18N.SITE, [നൂറിലധികം വ്യത്യസ്ത ഭാഷക
 ഇനിപ്പറയുന്ന എൻവയോൺമെന്റ് വേരിയബിളുകൾ സജ്ജീകരിക്കുന്നത് Google Translate API കോളുകളെ പ്രോക്സിയിലൂടെ പോകാൻ അനുവദിക്കുന്നു.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -81,45 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### കാഷെ ക്ലിയർ ചെയ്യൂ
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

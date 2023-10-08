@@ -1,6 +1,6 @@
 # I18N.SITE · နယ်စည်းမခြား ဘာသာစကား<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE၊ [ဘာသာစကား တရာကျော်](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက် ဘာသာပြန်ဆိုခြင်းကို ပံ့ပိုးပေးသည့် အငြိမ်ဆိုက် ဂျင်နရေတာတစ်ခု။
+I18N.SITE သည် ဘာသာစကားပေါင်းစုံ အငြိမ်ဆိုဒ်မီးစက်တစ်ခုဖြစ်ပြီး Markdown ကို [ဘာသာစကားပေါင်း တစ်ရာကျော်](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက်ဘာသာပြန်ပေးနိုင်ပါသည်။
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,53 +31,6 @@ I18N.SITE၊ [ဘာသာစကား တရာကျော်](https://github.
 အောက်ပါပတ်ဝန်းကျင် ကိန်းရှင်များကို သတ်မှတ်ခြင်းသည် Google Translate API ခေါ်ဆိုမှုများကို ပရောက်စီမှတစ်ဆင့် ဖြတ်သန်းခွင့်ပြုသည်။
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -89,53 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Cache ကိုဗလာ
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

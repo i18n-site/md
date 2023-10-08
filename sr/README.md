@@ -1,6 +1,6 @@
 # И18Н.СИТЕ · Језик Без Граница<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-И18Н.СИТЕ, генератор статичког сајта који подржава аутоматско превођење на [више од стотину различитих језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+И18Н.СИТЕ, вишејезични генератор статичких сајтова, може аутоматски да преведе Маркдовн на [више од стотину различитих језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,33 +31,6 @@
 Подешавање следећих променљивих окружења омогућава позивима АПИ-ја Гоогле преводиоца да пролазе кроз прокси.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -69,33 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Испразните Кеш
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

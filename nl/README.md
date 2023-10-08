@@ -1,6 +1,6 @@
 # I18N.SITE · Taal Zonder Grenzen<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, een statische sitegenerator die automatische vertaling in [meer dan honderd verschillende talen](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ondersteunt.
+I18N.SITE, een meertalige statische sitegenerator, kan Markdown automatisch in [meer dan honderd verschillende talen](https://github.com/i18n-site/node/blob/main/lang/src/index.js) vertalen.
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,21 +31,6 @@ Bewerk [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/
 Als u de volgende omgevingsvariabelen instelt, kunnen API-aanroepen van Google Translate via de proxy gaan.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -57,21 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Maak De Cache Leeg
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

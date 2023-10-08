@@ -1,12 +1,12 @@
-# I18N.SITE · 国境なき言語<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · 国境なき言語 <img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE、 [100 以上の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)への自動翻訳をサポートする静的サイト ジェネレーター。
+多言語静的サイト ジェネレーターである I18N.SITE は、Markdown を[100 以上の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)に自動的に翻訳できます。
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 ブラウザに翻訳機能が組み込まれているので、Web サイトを国際化する必要はないのではないかと疑問に思う人もいるかもしれません。
 
-**サイト全体を国際化することによってのみ、多言語のサイト内全文検索と検索エンジンの最適化をサポートできると**言いたいのです。
+**サイト全体を国際化することによってのみ、多言語のサイト内全文検索と検索エンジンの最適化をサポートできると** 言いたいのです。
 
 ## チュートリアル
 
@@ -31,11 +31,6 @@ I18N.SITE、 [100 以上の異なる言語](https://github.com/i18n-site/node/bl
 次の環境変数を設定すると、Google Translate API 呼び出しがプロキシを経由できるようになります。
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -47,11 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### キャッシュを空にしてください
 
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

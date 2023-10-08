@@ -1,6 +1,6 @@
 # I18N.SITE · Bahasa Tanpa Sempadan<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, penjana tapak statik yang menyokong terjemahan automatik ke dalam [lebih daripada seratus bahasa yang berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, penjana tapak statik berbilang bahasa, secara automatik boleh menterjemah Markdown ke dalam [lebih daripada seratus bahasa berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,40 +31,6 @@ Edit [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tr
 Menetapkan pembolehubah persekitaran berikut membolehkan panggilan API Terjemahan Google melalui proksi.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -76,40 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### Kosongkan Cache
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

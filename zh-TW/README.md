@@ -1,6 +1,6 @@
 # I18N.SITE · 語言無國界 <img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE，支持自動翻譯成 [一百多種不同的語言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 的靜態站點生成器。
+I18N.SITE，多語言的靜態站點生成器，能將 Markdown 自動翻譯為 [一百多種不同的語言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,7 +31,6 @@ I18N.SITE，支持自動翻譯成 [一百多種不同的語言](https://github.c
 設置如下的環境變量，可以讓谷歌翻譯的 API 調用走代理。
 
 ```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -43,7 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### 清空緩存
 
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

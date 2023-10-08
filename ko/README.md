@@ -1,6 +1,6 @@
 # I18N.SITE · 국경 없는 언어<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE는 [100개 이상의 다양한 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역을 지원하는 정적 사이트 생성기입니다.
+다국어 정적 사이트 생성기인 I18N.SITE는 Markdown을 [100개 이상의 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역할 수 있습니다.
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,14 +31,6 @@ I18N.SITE는 [100개 이상의 다양한 언어](https://github.com/i18n-site/no
 다음 환경 변수를 설정하면 Google Translate API 호출이 프록시를 통과할 수 있습니다.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -50,14 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### 캐시 비우기
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

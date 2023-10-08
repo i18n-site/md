@@ -1,6 +1,6 @@
 # I18N.SITE · बिना सीमाओं की भाषा<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, एक स्थिर साइट जनरेटर जो [सौ से अधिक विभिन्न भाषाओं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) में स्वचालित अनुवाद का समर्थन करता है।
+I18N.SITE, एक बहु-भाषा स्थैतिक साइट जनरेटर, स्वचालित रूप से मार्कडाउन को [सौ से अधिक विभिन्न भाषाओं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) में अनुवाद कर सकता है।
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,41 +31,6 @@ I18N.SITE, एक स्थिर साइट जनरेटर जो [सौ
 निम्नलिखित पर्यावरण चर सेट करने से Google Translate API कॉल को प्रॉक्सी के माध्यम से जाने की अनुमति मिलती है।
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -77,41 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### गुप्त जगह खाली करें
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```

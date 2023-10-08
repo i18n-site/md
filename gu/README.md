@@ -1,6 +1,6 @@
 # I18N.SITE · બોર્ડર્સ વિનાની ભાષા<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, એક સ્થિર સાઇટ જનરેટર જે [સો કરતાં વધુ વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) સ્વચાલિત અનુવાદને સપોર્ટ કરે છે.
+I18N.SITE, એક બહુ-ભાષા સ્થિર સાઇટ જનરેટર, માર્કડાઉનને [સો કરતાં વધુ વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) આપમેળે અનુવાદિત કરી શકે છે.
 
 <img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
 
@@ -31,50 +31,6 @@ I18N.SITE, એક સ્થિર સાઇટ જનરેટર જે [સો
 નીચેના પર્યાવરણ ચલો સેટ કરવાથી Google અનુવાદ API કૉલ્સ પ્રોક્સીમાંથી પસાર થઈ શકે છે.
 
 ```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 export https_proxy=http://127.0.0.1:7890
 ```
 
@@ -86,50 +42,6 @@ test: 测试变量<br 0>嵌入
 
 ### કેશ ખાલી કરો
 
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
-```bash
 ```bash
 rm -rf .i18n/.cache
 ```
