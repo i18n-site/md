@@ -1,0 +1,51 @@
+# I18N.SITE · Dokumenti Bez Granica<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+
+I18N.SITE, generator statičkog sajta koji podržava automatsko prevođenje na [133 različita jezika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+
+![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+
+Neki ljudi će možda htjeti da pitaju, sada kada pretraživači imaju ugrađene funkcije prevođenja, da li je nepotrebno internacionalizirati web stranicu?
+
+Želim da kažem da **samo internacionalizacijom čitavog sajta možemo podržati višejezičnu pretragu celog teksta na sajtu i optimizaciju pretraživača** .
+
+## Tutorial
+
+## Funkcija Uvod
+
+### Zadržite Markdown Format
+
+### Modify Translation
+
+Nakon izmjene prijevoda, morate ponovo pokrenuti `./i18n.sh` da ažurirate keš memoriju.
+
+### Bilješke O Prijevodu
+
+Komentari prijevoda moraju naznačiti jezik nakon \```, kao što je ` ```rust` .
+
+Trenutno podržava prevođenje komentara za rust, c, cpp, java, js, kafu, python i bash.
+
+Uredite [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) da dodate podršku za prevod za komentare na više jezika.
+
+### Konfigurišite Proxy
+
+Postavljanje sljedećih varijabli okruženja omogućava pozivima Google Translate API-ja da prolaze kroz proxy.
+
+```bash
+export https_proxy=http://127.0.0.1:7890
+
+
+```
+
+### Variable Embedding
+
+```
+test: 测试变量<br 0>嵌入
+```
+
+### Ispraznite Keš Memoriju
+
+```bash
+rm -rf .i18n/.cache
+
+
+```

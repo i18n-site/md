@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@n8/i18n": "link:../node/i18n",
+    "@n8/i18n-bin": "link:../node/i18n-bin",
+    "@n8/pack": "link:../node/pack"
+  },
+  "devDependencies": {
+    "@w5/jsext": "^0.0.1"
+  }
+}
