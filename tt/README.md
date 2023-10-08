@@ -1,6 +1,6 @@
-# I18N.SITE · Чиксез Документлар<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Чиксез Тел<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [133 төрле телләргә](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматик тәрҗемә итүне тәэмин итүче статик сайт генераторы.
+I18N.SITE, [100 төрле телләргә](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматик тәрҗемә итүне тәэмин итүче статик сайт генераторы.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

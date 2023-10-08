@@ -1,6 +1,6 @@
-# I18N.SITE · ބޯޑަރެއް ނެތް ލިޔެކިޔުންތައް<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ބޯޑަރެއް ނެތް ބަސް<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، [ތަފާތު 133 ބަހަކަށް](https://github.com/i18n-site/node/blob/main/lang/src/index.js) އޮޓޮމެޓިކް ތަރުޖަމާއަށް ސަޕޯޓްކުރާ ސްޓޭޓިކް ސައިޓް ޖަނަރޭޓަރެކެވެ .
+I18N.SITE، [ތަފާތު 100 ބަހަކަށް](https://github.com/i18n-site/node/blob/main/lang/src/index.js) އޮޓޮމެޓިކް ތަރުޖަމާއަށް ސަޕޯޓްކުރާ ސްޓޭޓިކް ސައިޓް ޖަނަރޭޓަރެކެވެ .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

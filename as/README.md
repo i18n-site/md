@@ -1,6 +1,6 @@
-# I18N.SITE · সীমাহীন নথিপত্ৰ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · সীমাহীন ভাষা<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, এটা ষ্টেটিক চাইট জেনেৰেটৰ যিয়ে [133 টা বিভিন্ন ভাষালৈ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্ৰিয় অনুবাদ সমৰ্থন কৰে।
+I18N.SITE, এটা ষ্টেটিক চাইট জেনেৰেটৰ যিয়ে [100 টা বিভিন্ন ভাষালৈ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) স্বয়ংক্ৰিয় অনুবাদ সমৰ্থন কৰে।
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

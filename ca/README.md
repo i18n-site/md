@@ -1,6 +1,6 @@
-# I18N.SITE · Documents Sense Fronteres<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Llengua Sense Fronteres<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, un generador de llocs estàtics que admet la traducció automàtica a [133 idiomes diferents](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, un generador de llocs estàtics que admet la traducció automàtica a [100 idiomes diferents](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
