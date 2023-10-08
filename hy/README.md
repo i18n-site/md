@@ -1,6 +1,6 @@
-# I18N.SITE · Փաստաթղթեր Առանց Սահմանների<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Լեզու Առանց Սահմանների<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ստատիկ կայքի գեներատոր, որն աջակցում է ավտոմատ թարգմանությանը [133 տարբեր լեզուներով](https://github.com/i18n-site/node/blob/main/lang/src/index.js) :
+I18N.SITE, ստատիկ կայքի գեներատոր, որն աջակցում է ավտոմատ թարգմանությանը [100 տարբեր լեզուներով](https://github.com/i18n-site/node/blob/main/lang/src/index.js) :
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

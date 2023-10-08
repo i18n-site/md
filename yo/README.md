@@ -1,6 +1,6 @@
-# I18N.SITE · Awọn Iwe Aṣẹ Laisi Awọn Aala<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Ede Laisi Aala<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, olupilẹṣẹ aaye aimi ti o ṣe atilẹyin itumọ aladaaṣe si [awọn ede oriṣiriṣi 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, olupilẹṣẹ aaye aimi ti o ṣe atilẹyin itumọ aladaaṣe si [awọn ede oriṣiriṣi 100](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

@@ -1,6 +1,6 @@
-# I18N.SITE · දේශසීමා රහිත ලේඛන<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · දේශසීමා රහිත භාෂාව<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [විවිධ භාෂා 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) කට ස්වයංක්‍රීය පරිවර්තන සඳහා සහය දක්වන ස්ථිතික අඩවි උත්පාදකයකි.
+I18N.SITE, [විවිධ භාෂා 100](https://github.com/i18n-site/node/blob/main/lang/src/index.js) කට ස්වයංක්‍රීය පරිවර්තන සඳහා සහය දක්වන ස්ථිතික අඩවි උත්පාදකයකි.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

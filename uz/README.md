@@ -1,6 +1,6 @@
-# I18N.SITE · Chegarasiz Hujjatlar<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Chegarasiz Til<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [133 xil tilga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) avtomatik tarjimani qo&#39;llab-quvvatlaydigan statik sayt generatori.
+I18N.SITE, [100 xil tilga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) avtomatik tarjimani qoʻllab-quvvatlaydigan statik sayt generatori.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

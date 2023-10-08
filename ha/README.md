@@ -1,6 +1,6 @@
-# I18N.SITE · Takardu Ba Tare Da Iyakoki Ba<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Language Without Borders<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, babban janareta na rukunin yanar gizo wanda ke tallafawa fassarar atomatik zuwa [yaruka daban-daban 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, janareta a tsaye wanda ke goyan bayan fassarar atomatik zuwa [yaruka daban-daban 100](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

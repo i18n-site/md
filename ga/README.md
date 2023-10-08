@@ -1,6 +1,6 @@
-# I18N.SITE · Doiciméid Gan Teorainneacha<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Teanga Gan Teorainneacha<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, gineadóir suímh statach a thacaíonn le haistriúchán uathoibríoch go [133 teanga éagsúla](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, gineadóir suímh statach a thacaíonn le haistriúchán uathoibríoch go [100 teanga éagsúla](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

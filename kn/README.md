@@ -1,6 +1,6 @@
-# I18N.SITE · ಗಡಿಗಳಿಲ್ಲದ ದಾಖಲೆಗಳು<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ಗಡಿಗಳಿಲ್ಲದ ಭಾಷೆ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [133 ವಿವಿಧ ಭಾಷೆಗಳಿಗೆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ಸ್ವಯಂಚಾಲಿತ ಅನುವಾದವನ್ನು ಬೆಂಬಲಿಸುವ ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್.
+I18N.SITE, [100 ವಿವಿಧ ಭಾಷೆಗಳಿಗೆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ಸ್ವಯಂಚಾಲಿತ ಅನುವಾದವನ್ನು ಬೆಂಬಲಿಸುವ ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

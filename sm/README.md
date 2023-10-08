@@ -1,6 +1,6 @@
-# I18N.SITE · Pepa E Aunoa Ma Ni Tuaoi<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Gagana E Aunoa Ma Tuaoi<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, o se fa&#39;atūlaga fa&#39;aola e lagolagoina fa&#39;aliliuga otometi i [gagana eseese e 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, o se faʻaputu nofoaga faʻapipiʻi e lagolagoina faʻaliliuga otometi i [le 100 gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

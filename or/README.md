@@ -1,6 +1,6 @@
-# I18N.SITE · ସୀମା ବିନା ଡକ୍ୟୁମେଣ୍ଟସ୍ |<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ସୀମା ବିନା ଭାଷା |<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ଏକ ଷ୍ଟାଟିକ୍ ସାଇଟ୍ ଜେନେରେଟର ଯାହା [133 ​​ବିଭିନ୍ନ ଭାଷାରେ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ସ୍ୱୟଂଚାଳିତ ଅନୁବାଦକୁ ସମର୍ଥନ କରେ |
+I18N.SITE, ଏକ ଷ୍ଟାଟିକ୍ ସାଇଟ୍ ଜେନେରେଟର ଯାହା [100 ଟି ବିଭିନ୍ନ ଭାଷାରେ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ସ୍ୱୟଂଚାଳିତ ଅନୁବାଦକୁ ସମର୍ଥନ କରେ |
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

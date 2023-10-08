@@ -1,6 +1,6 @@
-# I18N.SITE · နယ်စည်းမခြား စာရွက်စာတမ်းများ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · နယ်စည်းမခြား ဘာသာစကား<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE၊ [ဘာသာစကား 133 မျိုး](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက်ဘာသာပြန်ခြင်းကို ပံ့ပိုးပေးသည့် အငြိမ်ဆိုက်မီးစက်တစ်ခု။
+I18N.SITE၊ [မတူညီသောဘာသာစကား 100](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက်ဘာသာပြန်ခြင်းကို ပံ့ပိုးပေးသည့် အငြိမ်ဆိုက်မီးစက်တစ်ခု။
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

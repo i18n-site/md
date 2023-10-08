@@ -1,6 +1,6 @@
-# I18N.SITE · બોર્ડર્સ વિના દસ્તાવેજો<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · બોર્ડર્સ વિનાની ભાષા<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, એક સ્થિર સાઇટ જનરેટર જે [133 વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) સ્વચાલિત અનુવાદને સપોર્ટ કરે છે.
+I18N.SITE, એક સ્થિર સાઇટ જનરેટર જે [100 વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) સ્વચાલિત અનુવાદને સપોર્ટ કરે છે.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

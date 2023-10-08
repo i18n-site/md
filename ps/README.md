@@ -1,6 +1,6 @@
-# I18N.SITE · بې سرحده اسناد<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · بې سرحده ژبه<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE، یو جامد سایټ جنراتور چې په [133 مختلفو ژبو](https://github.com/i18n-site/node/blob/main/lang/src/index.js) کې د اتوماتیک ژباړې ملاتړ کوي.
+I18N.SITE، یو جامد سایټ جنراتور چې په [100 مختلفو ژبو](https://github.com/i18n-site/node/blob/main/lang/src/index.js) کې د اتوماتیک ژباړې ملاتړ کوي.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

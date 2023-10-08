@@ -1,6 +1,6 @@
-# I18N.SITE · Documents Sans Frontières<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Fiteny Tsy Misy Sisintany<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, mpamorona tranonkala tsy miovaova izay manohana ny fandikana mandeha ho azy amin&#39;ny [fiteny 133 samihafa](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, mpamorona tranokala tsy miovaova izay manohana ny fandikana mandeha ho azy amin&#39;ny [fiteny 100 samihafa](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

@@ -1,6 +1,6 @@
-# I18N.SITE · ເອກະສານບໍ່ມີພົມແດນ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ພາສາທີ່ບໍ່ມີພົມແດນ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ຕົວສ້າງເວັບໄຊແບບຄົງທີ່ທີ່ຮອງຮັບການແປອັດຕະໂນມັດເປັນ [133 ພາສາຕ່າງໆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, ຕົວສ້າງເວັບໄຊແບບຄົງທີ່ທີ່ຮອງຮັບການແປອັດຕະໂນມັດເປັນ [100 ພາສາຕ່າງໆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

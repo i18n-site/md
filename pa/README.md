@@ -1,6 +1,6 @@
-# I18N.SITE · ਬਾਰਡਰਾਂ ਤੋਂ ਬਿਨਾਂ ਦਸਤਾਵੇਜ਼<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ਸਰਹੱਦਾਂ ਤੋਂ ਬਿਨਾਂ ਭਾਸ਼ਾ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, ਇੱਕ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ ਜੋ [133 ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਅਨੁਵਾਦ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ।
+I18N.SITE, ਇੱਕ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ ਜੋ [100 ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਅਨੁਵਾਦ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ।
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

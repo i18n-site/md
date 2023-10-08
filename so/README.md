@@ -1,6 +1,6 @@
-# I18N.SITE · Dukumentiyada Aan Xuduudka Lahayn<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Luuqad Aan Xuduud Lahayn<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, dhaliye goob taagan oo taageera turjumaada tooska ah ee [133 luqadood oo kala duwan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, dhaliye goob taagan oo taageera turjumaada tooska ah ee [100 luqadood oo kala duwan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

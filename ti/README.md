@@ -1,6 +1,6 @@
-# I18N.SITE · ዶብ ዘይብሉ ሰነዳት።<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · ዶብ ዘይብሉ ቋንቋ<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE፡ ኣውቶማቲክ ትርጉም ናብ [133 ዝተፈላለዩ ቋንቋታት](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ዝድግፍ ስታትቲክ ሳይት ጀነሬተር .
+I18N.SITE, ንኣውቶማቲክ ትርጉም ናብ [100 ዝተፈላለዩ ቋንቋታት](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ዝድግፍ ስታትቲክ ሳይት ጀነሬተር .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

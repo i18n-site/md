@@ -1,6 +1,6 @@
-# I18N.SITE · Skjöl Án Landamæra<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Tungumál Án Landamæra<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, kyrrstæður vefsíðarafall sem styður sjálfvirka þýðingu á [133 mismunandi tungumál](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I18N.SITE, kyrrstæður vefsvæðisframleiðandi sem styður sjálfvirka þýðingu á [100 mismunandi tungumál](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

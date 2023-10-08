@@ -1,6 +1,6 @@
-# I18N.GUNEA · Mugarik Gabeko Dokumentuak<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.GUNEA · Mugarik Gabeko Hizkuntza<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [133 hizkuntza ezberdinetarako](https://github.com/i18n-site/node/blob/main/lang/src/index.js) itzulpen automatikoa onartzen duen gune-sorgailu estatiko bat.
+I18N.SITE, [100 hizkuntza ezberdinetarako](https://github.com/i18n-site/node/blob/main/lang/src/index.js) itzulpen automatikoa onartzen duen gune-sorgailu estatiko bat.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

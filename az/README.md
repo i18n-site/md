@@ -1,6 +1,6 @@
-# I18N.SITE · Sərhədsiz Sənədlər<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Sərhədsiz Dil<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [133 müxtəlif dilə](https://github.com/i18n-site/node/blob/main/lang/src/index.js) avtomatik tərcüməni dəstəkləyən statik sayt generatoru.
+I18N.SITE, [100 fərqli dilə](https://github.com/i18n-site/node/blob/main/lang/src/index.js) avtomatik tərcüməni dəstəkləyən statik sayt generatoru.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

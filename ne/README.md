@@ -1,6 +1,6 @@
-# I18N.SITE · सीमा बिना कागजातहरू<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · सीमा बिना भाषा<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, एक स्थिर साइट जनरेटर जसले [133 विभिन्न भाषाहरूमा](https://github.com/i18n-site/node/blob/main/lang/src/index.js) स्वचालित अनुवाद समर्थन गर्दछ।
+I18N.SITE, एक स्थिर साइट जनरेटर जसले [100 विभिन्न भाषाहरूमा](https://github.com/i18n-site/node/blob/main/lang/src/index.js) स्वचालित अनुवाद समर्थन गर्दछ।
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 

@@ -1,6 +1,6 @@
-# I18N.SITE · Serhetsiz Resminamalar<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
+# I18N.SITE · Serhetsiz Dil<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-[133 dürli dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) awtomatiki terjime etmegi goldaýan statiki sahypa generatory I18N.SITE.
+[100 dürli dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) awtomatiki terjime etmegi goldaýan statiki sahypa generatory I18N.SITE.
 
 <img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
