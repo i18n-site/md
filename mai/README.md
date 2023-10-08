@@ -2,7 +2,7 @@
 
 I18N.SITE, एकटा बहु-भाषा स्थिर साइट जनरेटर, स्वचालित रूप सं मार्कडाउन कें [सौ सं बेसि अलग-अलग भाषाक](https://github.com/i18n-site/node/blob/main/lang/src/index.js) मे अनुवाद कयर सकय छै .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 किछ लोक पूछय चाहय छथिन्ह जे आब ब्राउजर मे अनुवाद के काज बिल्ट-इन भ गेल अछि त की वेबसाइट के अंतर्राष्ट्रीयकरण के जरूरत नहिं अछि ?
 

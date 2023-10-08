@@ -2,7 +2,7 @@
 
 كۆپ تىللىق تۇراقلىق تور ھاسىللىغۇچ I18N.SITE Markdown نى [يۈزدىن ئارتۇق ئوخشىمىغان تىلغا](https://github.com/i18n-site/node/blob/main/lang/src/index.js) تەرجىمە قىلالايدۇ.
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 بەزى كىشىلەر سوراشنى ئويلىشى مۇمكىن ، ھازىر توركۆرگۈچلەردە تەرجىمە ئىقتىدارلىرى بار ، توربېكەتنى خەلقئارالاشتۇرۇش ھاجەتسىزمۇ؟
 

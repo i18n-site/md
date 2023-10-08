@@ -2,7 +2,7 @@
 
 I18N.SITE، مۆلیدەی سایتی ئیستاتیکی فرە زمانە، دەتوانێت بە شێوەیەکی ئۆتۆماتیکی Markdown وەربگێڕێت بۆ [زیاتر لە سەد زمانی جیاواز](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 ڕەنگە هەندێک کەس بیانەوێت بپرسن، ئێستا کە وێبگەڕەکان ئەرکی وەرگێڕانی ناوەکییان هەیە، ئایا پێویست ناکات ماڵپەڕەکە بە نێودەوڵەتی بکرێت؟
 

@@ -2,7 +2,7 @@
 
 I18N.SITE, एक बहु-भास स्थिर साइट जनरेटर, आपोआप Markdown शंबरां [परस चड वेगवेगळ्या भाशांनी](https://github.com/i18n-site/node/blob/main/lang/src/index.js) अणकार करूंक शकता .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 कांय जाणांक विचारपाक जाय आसतलें, आतां ब्राउझरांनी अणकार कार्यां बिल्ट-इन जाल्यांत, वेबसायटीचें आंतरराष्ट्रीयकरण करपाची गरज ना?
 

@@ -2,7 +2,7 @@
 
 I18N.SITE, çêkerek malpera statîk a pirzimanî, dikare bixweber Markdown wergerîne [zêdetirî sed zimanên cihê](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 Dibe ku hin kes bixwazin bipirsin, naha ku gerokên xwedan fonksiyonên wergerê ne, gelo ne hewce ye ku malperê navneteweyî bikin?
 
