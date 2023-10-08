@@ -2,7 +2,7 @@
 
 I18N.SITE，多語言的靜態站點生成器，能將 Markdown 自動翻譯為 [一百多種不同的語言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
 
-<img src="http://s-cd-3653-i18n-img.oss.dogecdn.com/i18n.lang.webp" alt="" />
+<img src="//i-01.eu.org/i18n.lang.webp" alt="" />
 
 也許會有人想問，現在瀏覽器都自帶翻譯功能了，做網站國際化是不是多此一舉？
 
