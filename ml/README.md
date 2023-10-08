@@ -2,7 +2,7 @@
 
 I18N.SITE, [133 വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) സ്വയമേവയുള്ള വിവർത്തനം പിന്തുണയ്ക്കുന്ന ഒരു സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്റർ.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 ചില ആളുകൾ ചോദിക്കാൻ ആഗ്രഹിച്ചേക്കാം, ഇപ്പോൾ ബ്രൗസറുകൾക്ക് ബിൽറ്റ്-ഇൻ ട്രാൻസ്ലേഷൻ ഫംഗ്‌ഷനുകൾ ഉള്ളതിനാൽ, വെബ്‌സൈറ്റ് അന്താരാഷ്ട്രവൽക്കരിക്കുന്നത് അനാവശ്യമാണോ?
 
@@ -31,9 +31,46 @@ I18N.SITE, [133 വ്യത്യസ്ത ഭാഷകളിലേക്ക്
 ഇനിപ്പറയുന്ന എൻവയോൺമെന്റ് വേരിയബിളുകൾ സജ്ജീകരിക്കുന്നത് Google Translate API കോളുകളെ പ്രോക്സിയിലൂടെ പോകാൻ അനുവദിക്കുന്നു.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### വേരിയബിൾ എംബഡിംഗ്
@@ -45,7 +82,44 @@ test: 测试变量<br 0>嵌入
 ### കാഷെ ക്ലിയർ ചെയ്യൂ
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

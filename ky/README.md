@@ -2,7 +2,7 @@
 
 I18N.SITE, [133 башка тилге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматтык которууну колдогон статикалык сайт генератору.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Кээ бир адамдар суроо бериши мүмкүн, эми браузерлерде котормо функциялары бар, веб-сайтты эл аралык кылуунун кереги барбы?
 
@@ -31,9 +31,63 @@ I18N.SITE, [133 башка тилге](https://github.com/i18n-site/node/blob/ma
 Төмөнкү чөйрө өзгөрмөлөрүн коюу Google Translate API чалууларына прокси аркылуу өтүүгө мүмкүндүк берет.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Variable Embedding
@@ -45,7 +99,61 @@ test: 测试变量<br 0>嵌入
 ### Кэшти Бошот
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

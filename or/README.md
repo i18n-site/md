@@ -2,7 +2,7 @@
 
 I18N.SITE, ଏକ ଷ୍ଟାଟିକ୍ ସାଇଟ୍ ଜେନେରେଟର ଯାହା [133 ​​ବିଭିନ୍ନ ଭାଷାରେ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ସ୍ୱୟଂଚାଳିତ ଅନୁବାଦକୁ ସମର୍ଥନ କରେ |
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 କିଛି ଲୋକ ପଚାରିବାକୁ ଚାହିଁପାରନ୍ତି, ବର୍ତ୍ତମାନ ବ୍ରାଉଜର୍ଗୁଡ଼ିକର ବିଲ୍ଟ-ଇନ୍ ଅନୁବାଦ କାର୍ଯ୍ୟ ଅଛି, ୱେବସାଇଟକୁ ଆନ୍ତର୍ଜାତୀୟକରଣ କରିବା ଅନାବଶ୍ୟକ କି?
 
@@ -31,9 +31,53 @@ I18N.SITE, ଏକ ଷ୍ଟାଟିକ୍ ସାଇଟ୍ ଜେନେରେଟ
 ନିମ୍ନଲିଖିତ ପରିବେଶ ଭେରିଏବଲ୍ ସେଟ୍ କରିବା ଦ୍ୱାରା ଗୁଗୁଲ୍ ଅନୁବାଦ API କଲ୍ ପ୍ରକ୍ସି ଦେଇ ଯିବାକୁ ଅନୁମତି ଦିଏ |
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### ଭେରିଏବଲ୍ ଏମ୍ବେଡିଂ |
@@ -45,7 +89,51 @@ test: 测试变量<br 0>嵌入
 ### କ୍ୟାଚ୍ ଖାଲି କରନ୍ତୁ |
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

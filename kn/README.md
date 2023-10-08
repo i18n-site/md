@@ -2,7 +2,7 @@
 
 I18N.SITE, [133 ವಿವಿಧ ಭಾಷೆಗಳಿಗೆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ಸ್ವಯಂಚಾಲಿತ ಅನುವಾದವನ್ನು ಬೆಂಬಲಿಸುವ ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 ಕೆಲವು ಜನರು ಕೇಳಲು ಬಯಸಬಹುದು, ಈಗ ಬ್ರೌಸರ್‌ಗಳು ಅಂತರ್ನಿರ್ಮಿತ ಅನುವಾದ ಕಾರ್ಯಗಳನ್ನು ಹೊಂದಿವೆ, ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಅಂತರರಾಷ್ಟ್ರೀಯಗೊಳಿಸುವುದು ಅನಗತ್ಯವೇ?
 
@@ -31,9 +31,52 @@ I18N.SITE, [133 ವಿವಿಧ ಭಾಷೆಗಳಿಗೆ](https://github.com/
 ಕೆಳಗಿನ ಪರಿಸರ ವೇರಿಯಬಲ್‌ಗಳನ್ನು ಹೊಂದಿಸುವುದರಿಂದ Google Translate API ಕರೆಗಳು ಪ್ರಾಕ್ಸಿ ಮೂಲಕ ಹೋಗಲು ಅನುಮತಿಸುತ್ತದೆ.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### ವೇರಿಯಬಲ್ ಎಂಬೆಡಿಂಗ್
@@ -45,7 +88,50 @@ test: 测试变量<br 0>嵌入
 ### ಸಂಗ್ರಹವನ್ನು ಖಾಲಿ ಮಾಡಿ
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

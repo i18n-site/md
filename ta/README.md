@@ -2,7 +2,7 @@
 
 I18N.SITE, [133 வெவ்வேறு மொழிகளில்](https://github.com/i18n-site/node/blob/main/lang/src/index.js) தானியங்கி மொழிபெயர்ப்பை ஆதரிக்கும் நிலையான தள ஜெனரேட்டர்.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 இப்போது உலாவிகளில் உள்ளமைக்கப்பட்ட மொழிபெயர்ப்பு செயல்பாடுகள் இருப்பதால், இணையதளத்தை சர்வதேசமயமாக்குவது தேவையற்றதா என்று சிலர் கேட்க விரும்பலாம்.
 
@@ -22,7 +22,7 @@ I18N.SITE, [133 வெவ்வேறு மொழிகளில்](https://gi
 
 மொழிபெயர்ப்புக் கருத்துகள் \``` க்குப் பிறகு ` ```rust` போன்ற மொழியைக் குறிக்க வேண்டும்.
 
-தற்போது ரஸ்ட், சி, சிபிபி, ஜாவா, ஜேஎஸ், காபி, பைதான் மற்றும் பாஷ் ஆகியவற்றிற்கான கருத்து மொழிபெயர்ப்பை ஆதரிக்கிறது.
+தற்போது rust, c, cpp, java, js, coffee, python மற்றும் bash ஆகியவற்றிற்கான கருத்து மொழிபெயர்ப்பை ஆதரிக்கிறது.
 
 மேலும் மொழிகளில் கருத்துகளுக்கு மொழிபெயர்ப்பு ஆதரவைச் சேர்க்க [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) ஐத் திருத்தவும்.
 
@@ -31,9 +31,48 @@ I18N.SITE, [133 வெவ்வேறு மொழிகளில்](https://gi
 பின்வரும் சூழல் மாறிகளை அமைப்பது Google Translate API அழைப்புகளை ப்ராக்ஸி வழியாகச் செல்ல அனுமதிக்கிறது.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### மாறி உட்பொதித்தல்
@@ -45,7 +84,46 @@ test: 测试变量<br 0>嵌入
 ### தற்காலிக சேமிப்பை காலி செய்யவும்
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

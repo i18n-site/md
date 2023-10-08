@@ -2,7 +2,7 @@
 
 I18N.SITE፣ ወደ [133 የተለያዩ ቋንቋዎች](https://github.com/i18n-site/node/blob/main/lang/src/index.js) መተርጎምን የሚደግፍ የማይንቀሳቀስ ጣቢያ ጀነሬተር።
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 አንዳንድ ሰዎች መጠየቅ ይፈልጉ ይሆናል፣ አሁን አሳሾች አብሮገነብ የትርጉም ተግባራት ስላላቸው፣ ድህረ ገጹን አለማቀፋዊ ማድረግ አስፈላጊ አይደለምን?
 
@@ -31,9 +31,68 @@ I18N.SITE፣ ወደ [133 የተለያዩ ቋንቋዎች](https://github.com/i18
 የሚከተሉትን የአካባቢ ተለዋዋጮችን ማቀናበር የጉግል ተርጓሚ ኤፒአይ ጥሪዎች በፕሮክሲው በኩል እንዲሄዱ ያስችላቸዋል።
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### ተለዋዋጭ መክተት
@@ -45,7 +104,66 @@ test: 测试变量<br 0>嵌入
 ### መሸጎጫውን ባዶ ያድርጉት
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

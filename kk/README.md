@@ -2,7 +2,7 @@
 
 I18N.SITE, [133 түрлі тілге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматты аударуды қолдайтын статикалық сайт генераторы.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Кейбір адамдар сұрағысы келуі мүмкін, енді браузерлерде кірістірілген аударма функциялары бар, веб-сайтты интернационалдандыру қажет емес пе?
 
@@ -31,9 +31,62 @@ I18N.SITE, [133 түрлі тілге](https://github.com/i18n-site/node/blob/ma
 Келесі орта айнымалы мәндерін орнату Google Translate API қоңырауларына прокси арқылы өтуге мүмкіндік береді.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Айнымалыларды Енгізу
@@ -45,7 +98,60 @@ test: 测试变量<br 0>嵌入
 ### Кэшті Босатыңыз
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

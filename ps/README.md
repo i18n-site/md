@@ -1,12 +1,12 @@
-# <p Style=";text-Align:right;direction:rtl">I18N.SITE · بې سرحده اسناد<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px"></p>
+# I18N.SITE · بې سرحده اسناد<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
 I18N.SITE، یو جامد سایټ جنراتور چې په [133 مختلفو ژبو](https://github.com/i18n-site/node/blob/main/lang/src/index.js) کې د اتوماتیک ژباړې ملاتړ کوي.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 ځینې ​​​​خلک ممکن پوښتنه وکړي، اوس چې براوزرونه د ژباړې فعالیت لري، ایا د ویب پاڼې نړیوال کول غیر ضروري دي؟
 
-<p style=";text-align:right;direction:rtl">زه غواړم ووایم چې **یوازې د ټول سایټ نړیوال کولو سره موږ کولی شو د څو ژبو دننه سایټ بشپړ متن لټون او د لټون انجن اصلاح کولو ملاتړ وکړو** .</p>
+زه غواړم ووایم چې **یوازې د ټول سایټ نړیوال کولو سره موږ کولی شو د څو ژبو دننه سایټ بشپړ متن لټون او د لټون انجن اصلاح کولو ملاتړ وکړو** .
 
 ## ټیوټوریل
 
@@ -20,7 +20,7 @@ I18N.SITE، یو جامد سایټ جنراتور چې په [133 مختلفو ژ
 
 ### د ژباړې یادښتونه
 
-<p style=";text-align:right;direction:rtl">د ژباړې تبصرې باید د \``` وروسته ژبه په ګوته کړي، لکه ` ```rust` .</p>
+د ژباړې تبصرې باید د \``` وروسته ژبه په ګوته کړي، لکه ` ```rust` .
 
 اوس مهال د زنګ ، c ، cpp ، جاوا ، js ، کافي ، پایتون او باش لپاره د تبصرې ژباړې ملاتړ کوي.
 
@@ -31,9 +31,66 @@ I18N.SITE، یو جامد سایټ جنراتور چې په [133 مختلفو ژ
 د لاندې چاپیریال متغیرونو تنظیم کول د ګوګل ژباړونکي API کالونو ته اجازه ورکوي چې د پراکسي له لارې لاړ شي.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### متغیر سرایت
@@ -45,7 +102,64 @@ test: 测试变量<br 0>嵌入
 ### کیچ خالي کړئ
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

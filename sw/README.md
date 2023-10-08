@@ -2,7 +2,7 @@
 
 I18N.SITE, jenereta ya tovuti tuli inayoauni utafsiri otomatiki katika [lugha 133 tofauti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Baadhi ya watu wanaweza kutaka kuuliza, kwa kuwa sasa vivinjari vina vitendaji vya utafsiri vilivyojengewa ndani, je, si lazima kufanya tovuti iwe ya kimataifa?
 
@@ -31,9 +31,45 @@ Badilisha [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/ma
 Kuweka vigezo vifuatavyo vya mazingira huruhusu simu za API ya Google Tafsiri kupitia proksi.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Upachikaji Unaobadilika
@@ -45,7 +81,43 @@ test: 测试变量<br 0>嵌入
 ### Futa Akiba
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

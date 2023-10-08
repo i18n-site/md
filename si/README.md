@@ -2,7 +2,7 @@
 
 I18N.SITE, [විවිධ භාෂා 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) කට ස්වයංක්‍රීය පරිවර්තන සඳහා සහය දක්වන ස්ථිතික අඩවි උත්පාදකයකි.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 සමහර අයට ඇසීමට අවශ්‍ය විය හැකිය, දැන් බ්‍රව්සර්වල පරිවර්තන කාර්යයන් ගොඩනඟා ඇති බැවින්, වෙබ් අඩවිය ජාත්‍යන්තරකරණය කිරීම අනවශ්‍යද?
 
@@ -31,9 +31,56 @@ I18N.SITE, [විවිධ භාෂා 133](https://github.com/i18n-site/node/
 පහත පරිසර විචල්‍යයන් සැකසීමෙන් Google Translate API ඇමතුම් ප්‍රොක්සි හරහා යාමට ඉඩ සලසයි.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### විචල්ය කාවැද්දීම
@@ -45,7 +92,54 @@ test: 测试变量<br 0>嵌入
 ### හැඹිලිය හිස් කරන්න
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

@@ -2,7 +2,7 @@
 
 I18N.SITE, एक स्थिर साइट जनरेटर जसले [133 विभिन्न भाषाहरूमा](https://github.com/i18n-site/node/blob/main/lang/src/index.js) स्वचालित अनुवाद समर्थन गर्दछ।
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 केही मानिसहरू सोध्न चाहन्छन्, अब जब ब्राउजरहरूमा अन्तर्निर्मित अनुवाद कार्यहरू छन्, के वेबसाइटलाई अन्तर्राष्ट्रियकरण गर्न अनावश्यक छ?
 
@@ -31,9 +31,55 @@ I18N.SITE, एक स्थिर साइट जनरेटर जसले [
 निम्न परिवेश चरहरू सेट गर्नाले Google अनुवादक API कलहरूलाई प्रोक्सी मार्फत जान अनुमति दिन्छ।
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### चर इम्बेडिङ
@@ -45,7 +91,53 @@ test: 测试变量<br 0>嵌入
 ### क्यास खाली गर्नुहोस्
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

@@ -2,7 +2,7 @@
 
 I18N.SITE, [133 విభిన్న భాషల్లోకి](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ఆటోమేటిక్ అనువాదానికి మద్దతు ఇచ్చే స్టాటిక్ సైట్ జనరేటర్.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 ఇప్పుడు బ్రౌజర్‌లు అంతర్నిర్మిత అనువాద ఫంక్షన్‌లను కలిగి ఉన్నందున, వెబ్‌సైట్‌ను అంతర్జాతీయీకరించడం అనవసరమా అని కొంతమంది అడగాలనుకోవచ్చు.
 
@@ -31,9 +31,47 @@ I18N.SITE, [133 విభిన్న భాషల్లోకి](https://githu
 కింది ఎన్విరాన్‌మెంట్ వేరియబుల్‌లను సెట్ చేయడం ద్వారా Google Translate API కాల్‌లు ప్రాక్సీ ద్వారా వెళ్లడానికి అనుమతిస్తుంది.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### వేరియబుల్ పొందుపరచడం
@@ -45,7 +83,45 @@ test: 测试变量<br 0>嵌入
 ### కాష్‌ని ఖాళీ చేయండి
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```

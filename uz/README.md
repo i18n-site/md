@@ -1,8 +1,8 @@
 # I18N.SITE · Chegarasiz Hujjatlar<img Src="//ok0.pw/5l" Style="float:right;width:42px;margin-Top:6px">
 
-I18N.SITE, [133 xil tilga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) avtomatik tarjimani qo'llab-quvvatlaydigan statik sayt generatori.
+I18N.SITE, [133 xil tilga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) avtomatik tarjimani qo&#39;llab-quvvatlaydigan statik sayt generatori.
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Ba'zi odamlar so'rashlari mumkin, endi brauzerlarda o'rnatilgan tarjima funktsiyalari mavjud, veb-saytni xalqarolashtirish kerak emasmi?
 
@@ -16,7 +16,7 @@ Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko&#39;p till
 
 ### Tarjimani O'zgartirish
 
-Tarjimani o'zgartirgandan so'ng, keshni yangilash uchun `./i18n.sh` qayta ishga tushirishingiz kerak.
+Tarjimani o&#39;zgartirgandan so&#39;ng, keshni yangilash uchun `./i18n.sh` qayta ishga tushirishingiz kerak.
 
 ### Tarjima Eslatmalari
 
@@ -31,9 +31,61 @@ Koʻproq tillardagi sharhlar uchun tarjimani qoʻshish uchun [tran_md/src/commen
 Quyidagi muhit oʻzgaruvchilarini oʻrnatish Google Translate API chaqiruvlariga proksi-server orqali oʻtish imkonini beradi.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### O'zgaruvchan Joylashtirish
@@ -45,7 +97,59 @@ test: 测试变量<br 0>嵌入
 ### Keshni Bo'shating
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```
