@@ -2,7 +2,7 @@
 
 I18N.SITE, olupilẹṣẹ aaye aimi ti o ṣe atilẹyin itumọ aladaaṣe si [awọn ede oriṣiriṣi 133](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-![](https://i-01.eu.org/2023/09/O0Tee_m.webp)
+<img src="https://i-01.eu.org/2023/09/O0Tee_m.webp" alt="" />
 
 Diẹ ninu awọn eniyan le fẹ lati beere, ni bayi ti awọn aṣawakiri ti ni awọn iṣẹ itumọ ti a ṣe sinu, ṣe ko ṣe pataki lati sọ oju opo wẹẹbu naa di kariaye bi?
 
@@ -31,9 +31,71 @@ Lọwọlọwọ ṣe atilẹyin itumọ asọye fun ipata, c, cpp, java, js, ko
 Ṣiṣeto awọn oniyipada ayika atẹle ngbanilaaye awọn ipe Google Translate API lati lọ nipasẹ aṣoju naa.
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 export https_proxy=http://127.0.0.1:7890
-
-
 ```
 
 ### Iyipada Iyipada
@@ -45,7 +107,69 @@ test: 测试变量<br 0>嵌入
 ### Sofo The Kaṣe
 
 ```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
+```bash
 rm -rf .i18n/.cache
-
-
 ```
