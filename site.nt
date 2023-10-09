@@ -1,6 +1,10 @@
 host: I18N.SITE
+
 nav:
   home: /
   blog:
   doc:
 
+url:
+  Md:
+    - /
