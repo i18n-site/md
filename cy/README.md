@@ -1,4 +1,4 @@
-# I18N.SITE · Iaith Heb Ffiniau<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Iaith heb ffiniau<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 Gall I18N.SITE, generadur safle statig aml-iaith, gyfieithu Markdown yn awtomatig i [fwy na chant o ieithoedd gwahanol](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

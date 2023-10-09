@@ -1,4 +1,4 @@
-# I18N.SITE · Ririmi Leri Nga Riki Na Mindzilakano<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Ririmi leri nga riki na mindzilakano<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, jeneretara ya sayiti leyi nga cinciki ya tindzimi to tala, yi nga hundzuluxela hi ku tisungulela Markdown hi [tindzimi to tlula dzana to hambana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

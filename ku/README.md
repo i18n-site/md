@@ -1,4 +1,4 @@
-# I18N.MALPER · Ziman Bê Sînor<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.MALPER · Ziman bê sînor<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, çêkerek malpera statîk a pirzimanî, dikare bixweber Markdown wergerîne [zêdetirî sed zimanên cihê](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

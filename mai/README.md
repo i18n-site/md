@@ -1,4 +1,4 @@
-# I18N.SITE · सीमा रहित भाषा<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · सीमा रहित भाषा<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, एकटा बहु-भाषा स्थिर साइट जनरेटर, स्वचालित रूप सं मार्कडाउन कें [सौ सं बेसि अलग-अलग भाषाक](https://github.com/i18n-site/node/blob/main/lang/src/index.js) मे अनुवाद कयर सकय छै .
 

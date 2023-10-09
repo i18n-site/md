@@ -1,4 +1,4 @@
-# I18N.SITE · ꯉꯃꯈꯩ ꯂꯩꯇꯕꯥ ꯂꯣꯜ꯫<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · ꯉꯃꯈꯩ ꯂꯩꯇꯕꯥ ꯂꯣꯜ꯫<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 ꯃꯜꯇꯤ-ꯂꯦꯉ꯭ꯒꯨꯌꯦꯖ ꯁ꯭ꯇꯦꯇꯤꯛ ꯁꯥꯏꯠ ꯖꯦꯅꯦꯔꯦꯇꯔ ꯑꯃꯥ ꯑꯣꯏꯔꯤꯕꯥ I18N.SITE ꯑꯁꯤꯅꯥ ꯃꯥꯔꯀꯗꯥꯎꯟ ꯑꯁꯤ [ꯇꯣꯉꯥꯟ ꯇꯣꯉꯥꯅꯕꯥ ꯂꯣꯜ ꯂꯤꯁꯤꯡ ꯑꯃꯥ ꯍꯦꯅꯕꯗꯥ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ꯑꯣꯇꯣꯃꯦꯇꯤꯛ ꯑꯣꯏꯅꯥ ꯍꯟꯗꯣꯀꯄꯥ ꯉꯃꯒꯅꯤ .
 

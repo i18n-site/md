@@ -1,5 +1,5 @@
 host: I18N.SITE
 nav:
-  home: Md /
-  blog: Md
-  doc: Md
+  home: /
+  blog:
+  doc:

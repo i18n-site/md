@@ -1,4 +1,4 @@
-# I18N.SITE · അതിരുകളില്ലാത്ത ഭാഷ<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · അതിരുകളില്ലാത്ത ഭാഷ<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, ഒരു മൾട്ടി-ലാംഗ്വേജ് സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്ററിന്, [നൂറിലധികം വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) മാർക്ക്ഡൗൺ സ്വയമേവ വിവർത്തനം ചെയ്യാൻ കഴിയും.
 

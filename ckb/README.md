@@ -1,4 +1,4 @@
-# I18N.SITE · زمانی بێ سنوور<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">I18N.SITE · زمانی بێ سنوور<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE، مۆلیدەی سایتی ئیستاتیکی فرە زمانە، دەتوانێت بە شێوەیەکی ئۆتۆماتیکی Markdown وەربگێڕێت بۆ [زیاتر لە سەد زمانی جیاواز](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

@@ -1,4 +1,4 @@
-# I18N.SITE · Ngôn Ngữ Không Biên Giới<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Ngôn ngữ không biên giới<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, một trình tạo trang tĩnh đa ngôn ngữ, có thể tự động dịch Markdown [sang hơn một trăm ngôn ngữ khác nhau](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

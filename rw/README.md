@@ -1,4 +1,4 @@
-# I18N.SITE · Ururimi Rutagira Umupaka<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Ururimi rutagira imipaka<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, indimi nyinshi zihuza imbuga za interineti, irashobora guhita ihindura Markdown mu [ndimi zirenga ijana zitandukanye](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

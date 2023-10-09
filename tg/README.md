@@ -1,4 +1,4 @@
-# I18N.SITE · Забони Бидуни Марз<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Забони бидуни марз<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, як тавлидкунандаи сайти статикии бисёрзабон, метавонад ба таври худкор Markdown-ро ба [зиёда аз сад забонҳои гуногун](https://github.com/i18n-site/node/blob/main/lang/src/index.js) тарҷума кунад.
 

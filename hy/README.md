@@ -1,4 +1,4 @@
-# I18N.SITE · Լեզու Առանց Սահմանների<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Լեզու առանց սահմանների<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE-ը՝ բազմալեզու ստատիկ կայքերի գեներատոր, կարող է ավտոմատ կերպով թարգմանել Markdown-ը [հարյուրից ավելի տարբեր լեզուներով](https://github.com/i18n-site/node/blob/main/lang/src/index.js) :
 

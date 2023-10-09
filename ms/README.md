@@ -1,4 +1,4 @@
-# I18N.SITE · Bahasa Tanpa Sempadan<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Bahasa tanpa sempadan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, penjana tapak statik berbilang bahasa, secara automatik boleh menterjemah Markdown ke dalam [lebih daripada seratus bahasa berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

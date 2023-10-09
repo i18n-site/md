@@ -1,4 +1,4 @@
-# I18N.SITE · Lingwa Mingħajr Fruntieri<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Lingwa mingħajr fruntieri<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, ġeneratur ta &#39;sit statiku b&#39;ħafna lingwi, jista&#39; jittraduċi Markdown awtomatikament [f&#39;aktar minn mitt lingwa differenti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

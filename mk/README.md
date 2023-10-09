@@ -1,4 +1,4 @@
-# I18N.САЈТ · Јазик Без Граници<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.САЈТ · Јазик без граници<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, повеќејазичен генератор на статички локации, може автоматски да го преведе Markdown на [повеќе од сто различни јазици](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

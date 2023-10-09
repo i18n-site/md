@@ -1,4 +1,4 @@
-# I18N.SITE · Chegarasiz Til<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Chegarasiz til<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, ko&#39;p tilli statik sayt generatori Markdownni avtomatik ravishda [yuzdan ortiq turli tillarga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tarjima qilishi mumkin.
 

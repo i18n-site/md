@@ -1,4 +1,4 @@
-# I18N.SITE · Mutauro Usina Border<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Mutauro usina miganhu<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, jenareta yesaiti yemitauro yakawanda, inogona kushandura yega Markdown [mumitauro inopfuura zana yakasiyana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

@@ -1,4 +1,4 @@
-# I18N.SITE · Nyelv Határok Nélkül<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Nyelv határok nélkül<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 Az I18N.SITE egy többnyelvű statikus webhelygenerátor, amely automatikusan le tudja fordítani a Markdown-t [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

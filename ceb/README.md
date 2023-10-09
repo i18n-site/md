@@ -1,4 +1,4 @@
-# I18N.SITE · Pinulongan Nga Walay Borders<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Pinulongan nga walay utlanan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 Ang I18N.SITE, usa ka multi-language static site generator, awtomatik nga makahubad sa Markdown ngadto sa [labaw sa usa ka gatos ka lain-laing mga pinulongan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

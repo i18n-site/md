@@ -1,4 +1,4 @@
-# I18N.SITE · שפה ללא גבולות<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">I18N.SITE · שפה ללא גבולות<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, מחולל אתרים סטטי רב שפות, יכול לתרגם אוטומטית את Markdown [ליותר ממאה שפות שונות](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

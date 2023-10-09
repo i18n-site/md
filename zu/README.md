@@ -1,4 +1,4 @@
-# I18N.SITE · Ulimi Olungenamingcele<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Ulimi olungenayo imingcele<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I-I18N.SITE, ijeneretha yesayithi emile yezilimi eziningi, ingahumushela ngokuzenzakalelayo i-Markdown [ezilimini ezingaphezu kwekhulu ezahlukene](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

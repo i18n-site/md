@@ -1,4 +1,4 @@
-# I18N.SITE · ภาษาไร้พรมแดน<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · ภาษาไร้พรมแดน<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE ซึ่งเป็นเครื่องมือสร้างเว็บไซต์คงที่หลายภาษา สามารถแปล Markdown เป็น [ภาษาต่างๆ มากกว่าร้อยภาษา](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ได้โดยอัตโนมัติ
 

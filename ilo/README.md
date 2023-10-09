@@ -1,4 +1,4 @@
-# I18N.SITE · Pagsasao Nga Awan Ti Beddeng<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Lenguahe nga awan ti beddeng<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 Ti I18N.SITE, ti adu a pagsasao nga estatiko a site generator, ket automatiko a makaipatarus iti Markdown iti [nasurok a sangagasut a nadumaduma a pagsasao](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
