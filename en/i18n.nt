@@ -1,10 +1,10 @@
-404: Page Not Exist
-slogan: Language No Borders
-blog: Blog
-home: Home
-doc: Document
-lang: Language
-full: Full Screen
-search: Search
-qHolder: Enter Keyword
-close: Close
+404: Page does not exist
+slogan: Language knows no borders
+blog: blog
+home: Home page
+doc: document
+lang: language
+full: full screen
+search: search
+qHolder: Please enter a keyword
+close: closure
