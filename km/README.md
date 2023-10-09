@@ -1,4 +1,4 @@
-# I18N.SITE · ភាសាគ្មានព្រំដែន<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · ភាសាគ្មានព្រំដែន<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE ដែលជាម៉ាស៊ីនបង្កើតគេហទំព័រឋិតិវន្តពហុភាសា អាចបកប្រែ Markdown ដោយស្វ័យប្រវត្តិទៅជា [ជាងមួយរយភាសាផ្សេងគ្នា](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ។
 

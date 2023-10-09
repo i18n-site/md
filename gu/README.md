@@ -1,4 +1,4 @@
-# I18N.SITE · બોર્ડર્સ વિનાની ભાષા<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · સરહદો વિનાની ભાષા<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, એક બહુ-ભાષા સ્થિર સાઇટ જનરેટર, માર્કડાઉનને [સો કરતાં વધુ વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) આપમેળે અનુવાદિત કરી શકે છે.
 

@@ -1,4 +1,4 @@
-# I18N.SITE · Sərhədsiz Dil<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Sərhədsiz dil<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 Çoxdilli statik sayt generatoru olan I18N.SITE Markdown-u avtomatik olaraq [yüzdən çox fərqli dilə](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tərcümə edə bilər.
 

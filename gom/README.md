@@ -1,4 +1,4 @@
-# I18N.SITE · शिमेबगर भास<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · शिमो नाशिल्ली भास<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, एक बहु-भास स्थिर साइट जनरेटर, आपोआप Markdown शंबरां [परस चड वेगवेगळ्या भाशांनी](https://github.com/i18n-site/node/blob/main/lang/src/index.js) अणकार करूंक शकता .
 

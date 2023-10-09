@@ -1,4 +1,4 @@
-# I18N.SITE · Langue Sans Frontières<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Langue sans frontières<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, un générateur de sites statiques multilingues, peut traduire automatiquement Markdown dans [plus d&#39;une centaine de langues différentes](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

@@ -1,4 +1,4 @@
-# I18N.SITE · सीमारहित भाषा<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · सीमारहितभाषा<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, बहुभाषिकः स्थिरः साइट् जनरेटरः, स्वयमेव Markdown इत्यस्य अनुवादं [शताधिकेषु भिन्नभाषासु](https://github.com/i18n-site/node/blob/main/lang/src/index.js) कर्तुं शक्नोति .
 

@@ -1,4 +1,4 @@
-# I18N.SITE · Gbegbɔgblɔ Si Me Liƒo Mele O<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Gbegbɔgblɔ si me liƒo mele o<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, si nye gbegbɔgblɔ geɖe me static site generator, ate ŋu aɖe Markdown gɔme le eɖokui si ɖe [gbe vovovo siwo wu alafa ɖeka](https://github.com/i18n-site/node/blob/main/lang/src/index.js) me .
 

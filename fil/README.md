@@ -1,4 +1,4 @@
-# I18N.SITE · Wikang Walang Hangganan<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Wikang walang hangganan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 Ang I18N.SITE, isang multi-language static na site generator, ay maaaring awtomatikong isalin ang Markdown sa [higit sa isang daang iba&#39;t ibang wika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

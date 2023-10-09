@@ -1,4 +1,4 @@
-# I18N.SITE · ዶብ ዘይብሉ ቋንቋ<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · ዶብ ዘይብሉ ቋንቋ<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE ዝተባህለ ብዙሕ ቋንቋታት ዘለዎ ስታትቲክ ሳይት ጀነሬተር ኮይኑ፡ ንማርክዳውን ብኣውቶማቲክ ናብ [ልዕሊ ሚእቲ ዝተፈላለዩ ቋንቋታት](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ክትርጉሞ ይኽእል ።
 

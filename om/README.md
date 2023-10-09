@@ -1,4 +1,4 @@
-# I18N.SITE · Afaan Daangaa Hin Qabne<img Src="//i-01.eu.org/i18n/logo.svg" Style="float:right;width:42px;margin-Top:6px">
+<h1 style="justify-content:space-between">I18N.SITE · Afaan daangaa hin qabne<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
 I18N.SITE, jenereetarii saayitii istaatiksii afaanota hedduu, ofumaan Markdown gara [afaanota adda addaa dhibbaa ol ta&#39;etti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) hiikuu danda&#39;a .
 
