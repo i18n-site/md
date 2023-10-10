@@ -12,9 +12,11 @@ I want to say that **only by internationalizing the entire site can we support m
 
 "Bible·Genesis":
 
-> In ancient times, when language was one, humanity was born proud. They sought to construct a towering edifice, a tower that touched the heavens.
+> The ancients did not distinguish between languages ​​and were born with pride. They built towers reaching the sky to promote the prestige of the human race.
 >
-> However, the Divine, displeased with their arrogance, caused the people to scatter across the earth, rendering their tongues unintelligible to one another.
+> God said that human beings are a tribe of their own, with the same culture and species, and the Tower of Babel is just a prologue. They can accomplish everything without fear.
+>
+> As a result, all living beings were scattered in various places, and their speech was blocked.
 >
 > From then on, mankind struggled to communicate, conflicts arose endlessly, and the world saw no more a tower that reached the skies.
 
