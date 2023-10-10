@@ -12,9 +12,11 @@ Quero dizer que **somente internacionalizando todo o site poderemos oferecer sup
 
 "Bíblia · Gênesis":
 
-> Nos tempos antigos, quando a linguagem era uma só, a humanidade nascia orgulhosa. Eles procuraram construir um edifício imponente, uma torre que tocasse os céus.
+> Os antigos não faziam distinção entre línguas. Eles construíram torres que alcançavam o céu para chegar à porta de Deus e promover o prestígio da raça humana.
 >
-> Contudo, o Divino, descontente com a arrogância deles, fez com que o povo se espalhasse pela terra, tornando suas línguas ininteligíveis umas para as outras.
+> O Deus disse que as pessoas são uma tribo própria, com a mesma cultura e espécie. Construir uma torre é apenas um prelúdio. Agora você pode realizar o que quiser e não terá nada a temer.
+>
+> Então Deus veio e espalhou as pessoas em vários lugares, sem conseguirem se entender.
 >
 > A partir de então, a humanidade lutou para se comunicar, os conflitos surgiram incessantemente e o mundo não viu mais uma torre que alcançasse os céus.
 

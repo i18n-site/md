@@ -12,9 +12,11 @@ Mepɛ sɛ meka sɛ **ɛdenam amanaman ntam wɛbsaet no nyinaa a yɛde bɛyɛ ama
 
 "Bible·Genesis":
 
-> Tete no, bere a na kasa yɛ biako no, wɔwoo adesamma ahantan. Wɔhwehwɛɛ sɛ wobesi ɔdan atenten, abantenten a ɛka ɔsoro.
+> Tetefo no anhu nsonsonoe a ɛda kasa ahorow ntam. Wosisii abantenten a ɛkɔ soro kodu Onyankopɔn pon ano de hyɛɛ adesamma abusua no anuonyam ho nkuran.
 >
-> Nanso, Ɔsoroni no a na n’ani nnye wɔn ahantan no ho no maa nkurɔfo no hwetee wɔ asase so, na ɛmaa wɔn tɛkrɛma yɛɛ nea wontumi nte ase.
+> Onyankopɔn kae sɛ nnipa yɛ wɔn ankasa abusuakuw, a wɔn amammerɛ ne wɔn su koro. Abantenten a wobesi no yɛ nnianim asɛm ara kwa. Seesei wubetumi ayɛ nea wopɛ biara, na worensuro hwee.
+>
+> Afei Onyankopɔn baa hɔ bɛbɔɔ nnipa no apete mmeae ahorow, na wɔantumi ante wɔn ho wɔn ho ase.
 >
 > Efi saa bere no, adesamma bɔɔ mmɔden sɛ wɔbɛbɔ nkɔmmɔ, ntawntawdi sɔree a enni awiei, na wiase no anhu abantenten a ɛkɔ soro bio.
 

@@ -12,9 +12,11 @@ Mwen vle di ke **se sèlman lè nou entènasyonalize sit la tout antye nou ka si
 
 "Labib · Jenèz":
 
-> Nan tan lontan, lè lang te youn, limanite te fèt fyè. Yo t ap chèche konstwi yon gwo bilding, yon gwo kay won ki touche syèl la.
+> Ansyen yo pa t fè distenksyon ant lang. Yo bati gwo fò won ki rive nan syèl la pou rive nan pòtay Bondye a pou ankouraje prestige ras imen an.
 >
-> Sepandan, Divine a, ki pa kontan ak awogans yo, te lakòz pèp la gaye sou tè a, rann lang yo enkonpreyansib youn ak lòt.
+> Bondye te di ke moun yo se yon branch fanmi pa yo, ki gen menm kilti ak espès yo. Bati yon gwo kay won se jis yon prelid. Koulye a, ou ka akonpli tou sa ou vle, epi ou pa pral gen anyen yo pè.
+>
+> Lè sa a, Bondye vini, li gaye pèp la nan divès kote, yo pa t 'kapab konprann youn ak lòt.
 >
 > Depi lè sa a, limanite te lite pou yo kominike, konfli te leve san rete, e mond lan pa wè yon gwo fò won ankò ki te rive nan syèl la.
 

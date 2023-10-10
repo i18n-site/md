@@ -12,9 +12,11 @@ Neki ljudi će možda htjeti da pitaju, sada kada pretraživači imaju ugrađene
 
 "Biblija·Postanak":
 
-> U davna vremena, kada je jezik bio jedan, čovečanstvo se rađalo ponosno. Tražili su da sagrade visoko zdanje, kulu koja je dodirivala nebesa.
+> Stari nisu pravili razliku između jezika. Izgradili su kule koje su sezale do neba da bi dosegle Božja vrata kako bi promovirale prestiž ljudske rase.
 >
-> Međutim, Božansko je, nezadovoljno njihovom arogancijom, natjeralo ljude da se rasprše po zemlji, čineći njihove jezike nerazumljivim jedni drugima.
+> Bog je rekao da su ljudi svoje pleme, sa istom kulturom i vrstom. Izgradnja tornja je samo uvod. Sada možete postići šta god želite i nećete imati čega da se plašite.
+>
+> Tada je Bog došao i rasejao ljude po raznim mestima, nesposobni da razumeju jedni druge.
 >
 > Od tada pa nadalje, čovječanstvo se borilo da komunicira, sukobi su nastajali beskonačno, a svijet više nije vidio toranj koji je dopirao do neba.
 

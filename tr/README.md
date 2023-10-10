@@ -12,9 +12,11 @@ Bazı insanlar, artık tarayıcıların yerleşik çeviri işlevlerine sahip old
 
 "İncil·Genesis":
 
-> Dilin tek olduğu eski çağlarda insanlık gururlu doğmuştu. Yüksek bir yapı, göklere değen bir kule inşa etmeye çalıştılar.
+> Eskiler diller arasında ayrım yapmıyorlardı. İnsan ırkının prestijini arttırmak için Tanrı'nın kapısına ulaşmak için göğe uzanan kuleler inşa ettiler.
 >
-> Ancak onların kibrinden hoşnut olmayan Allah, insanları yeryüzüne dağıtıp, dillerini birbirlerine anlaşılmaz hale getirdi.
+> Allah, insanların aynı kültüre ve türe sahip, kendilerine ait bir kavim olduklarını söylemiştir. Bir kule inşa etmek sadece bir başlangıçtır. Artık istediğinizi başarabilirsiniz ve korkacak hiçbir şeyiniz olmayacak.
+>
+> Sonra Allah geldi ve birbirlerini anlayamayan insanları çeşitli yerlere dağıttı.
 >
 > O andan itibaren insanoğlu iletişim kurmaya çabaladı, bitmek bilmeyen çatışmalar çıktı ve dünya artık göklere uzanan bir kule görmedi.
 

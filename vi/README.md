@@ -12,9 +12,11 @@ Tôi muốn nói rằng **chỉ bằng cách quốc tế hóa toàn bộ trang w
 
 "Kinh thánh·Sáng thế ký":
 
-> Thời xa xưa, khi ngôn ngữ là một, loài người sinh ra đã kiêu hãnh. Họ tìm cách xây dựng một tòa lâu đài cao chót vót, một tòa tháp chạm tới tận trời.
+> Người xưa không phân biệt ngôn ngữ. Họ xây dựng những tòa tháp vươn tới tận cổng Trời nhằm đề cao uy tín của loài người.
 >
-> Tuy nhiên, Thần thánh không hài lòng với sự kiêu ngạo của họ nên đã khiến con người phải tản mác khắp trái đất, khiến ngôn ngữ của họ trở nên khó hiểu với nhau.
+> Chúa nói rằng con người là một bộ tộc riêng, có cùng nền văn hóa và chủng tộc. Việc xây dựng một tòa tháp chỉ là khúc dạo đầu. Bây giờ bạn có thể hoàn thành bất cứ điều gì bạn muốn và bạn sẽ không có gì phải sợ hãi.
+>
+> Sau đó, Chúa đến và phân tán mọi người ở nhiều nơi, không thể hiểu nhau.
 >
 > Từ đó trở đi, nhân loại gặp khó khăn trong việc liên lạc, xung đột nảy sinh không ngừng, và thế giới không còn thấy một tòa tháp nào vươn tới bầu trời nữa.
 

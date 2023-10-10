@@ -12,9 +12,11 @@ Ich möchte sagen, dass **wir nur durch die Internationalisierung der gesamten W
 
 „Bibel·Genesis“:
 
-> In der Antike, als die Sprache noch eine war, wurde die Menschheit stolz geboren. Sie wollten ein gewaltiges Gebäude errichten, einen Turm, der den Himmel berührte.
+> Die Alten unterschieden nicht zwischen Sprachen. Sie bauten Türme, die bis zum Himmel reichten, um das Tor Gottes zu erreichen und das Ansehen der Menschheit zu fördern.
 >
-> Das Göttliche war jedoch mit ihrer Arroganz unzufrieden und veranlasste die Menschen, sich über die ganze Erde zu zerstreuen, wodurch ihre Zungen füreinander unverständlich wurden.
+> Der Gott sagte, dass die Menschen ein eigener Stamm mit derselben Kultur und Spezies seien. Der Bau eines Turms ist nur ein Vorspiel. Jetzt können Sie alles erreichen, was Sie wollen, und Sie müssen sich nicht mehr fürchten.
+>
+> Dann kam Gott und zerstreute die Menschen an verschiedene Orte, ohne dass sie einander verstehen konnten.
 >
 > Von da an kämpfte die Menschheit um Kommunikation, es kam zu endlosen Konflikten und die Welt sah keinen Turm mehr, der bis in den Himmel reichte.
 

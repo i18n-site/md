@@ -12,9 +12,11 @@ Ninataka kusema kwamba **ni kwa kuifanya tovuti nzima kuwa ya kimataifa pekee nd
 
 "Biblia · Mwanzo":
 
-> Hapo zamani za kale, lugha ilipokuwa moja, ubinadamu ulizaliwa na kiburi. Walijaribu kujenga jengo refu sana, mnara unaogusa mbingu.
+> Watu wa kale hawakutofautisha lugha. Walijenga minara inayofika angani ili kufikia lango la Mungu ili kukuza heshima ya jamii ya wanadamu.
 >
-> Hata hivyo, Mwenyezi Mungu, kwa kuchukizwa na kiburi chao, aliwafanya watu kutawanyika duniani, na kufanya ndimi zao zisieleweke.
+> Mungu alisema kwamba watu ni kabila lao wenyewe, lenye utamaduni na aina moja. Kujenga mnara ni utangulizi tu. Sasa unaweza kukamilisha chochote unachotaka, na hutakuwa na chochote cha kuogopa.
+>
+> Ndipo Mungu akaja na kuwatawanya watu mahali mbalimbali, wasiweze kuelewana.
 >
 > Tangu wakati huo na kuendelea, wanadamu walitatizika kuwasiliana, mizozo ikazuka bila kikomo, na ulimwengu haukuona tena mnara unaofika angani.
 

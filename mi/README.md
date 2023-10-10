@@ -12,9 +12,11 @@ E hiahia ana ahau ki te kii **ma te panui i te pae katoa ka taea e tatou te taut
 
 "Bible·Genesis":
 
-> I nga wa o mua, i te wa kotahi te reo, ka whanau te tangata i te whakapehapeha. I whai ratou ki te hanga i tetahi whare teitei, he pourewa e pa ana ki te rangi.
+> Kaore nga tangata o mua i wehe i nga reo. I hanga e ratou etahi pourewa ki te rangi kia tae atu ki te kuwaha o te Atua hei whakanui i te mana o te tangata.
 >
-> Heoi, na te Atua i riri ki to ratou whakahihi, ka whakamararatia te iwi ki te whenua, ka kore e marama o ratou arero tetahi ki tetahi.
+> I kii te Atua he iwi ake te tangata, he rite tonu nga tikanga me nga momo. Ko te hanga i te pourewa he timatanga noa. Inaianei ka taea e koe te whakatutuki i nga mea katoa e hiahia ana koe, a kaore koe e mataku.
+>
+> Na ka haere mai te Atua, ka whakamararatia te iwi ki nga wahi maha, te mohio tetahi ki tetahi.
 >
 > Mai i tera wa, ka tohe te tangata ki te whakawhitiwhiti korero, ka ara ake nga pakanga kore mutunga, kaore ano te ao i kite i tetahi pourewa ka eke ki te rangi.
 

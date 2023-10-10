@@ -12,9 +12,11 @@ Tahan öelda, et **ainult kogu saidi rahvusvahelistumisega saame toetada mitmeke
 
 "Piibel · Genesis":
 
-> Iidsetel aegadel, kui keel oli üks, sündis inimkond uhkena. Nad püüdsid ehitada kõrghoonet, torni, mis puudutas taevast.
+> Vanad inimesed ei teinud keeltel vahet. Nad ehitasid taevasse ulatuvaid torne, et jõuda Jumala väravani, et edendada inimkonna prestiiži.
 >
-> Kuid Jumalik, kes ei olnud rahul nende ülbusega, pani inimesed mööda maad laiali, muutes nende keeled üksteisele arusaamatuks.
+> Jumal ütles, et inimesed on omaette hõim, kellel on sama kultuur ja liik. Torni ehitamine on vaid eelmäng. Nüüd saate saavutada kõike, mida soovite, ja teil pole enam midagi karta.
+>
+> Siis tuli Jumal ja ajas inimesed laiali erinevatesse kohtadesse, suutmata üksteist mõista.
 >
 > Sellest ajast peale oli inimkonnal raske suhelda, konflikte tekkis lõputult ja maailm ei näinud enam taevani ulatuvat torni.
 

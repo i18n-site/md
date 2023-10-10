@@ -12,9 +12,11 @@ Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e maf
 
 “Tusi Paia·Kenese”:
 
-> I aso anamua, a o tasi le gagana, na fanau mai ai le tagata e mitamita. Sa latou saili e fausia se fale maualuluga, o se olo e paʻi atu i le lagi.
+> E le'i iloa e tagata anamua le eseesega o gagana. Sa latou fausia ni olo e oo atu i le lagi e oo atu i le faitotoa o le Atua e siitia ai le mamalu o le fanau a tagata.
 >
-> Ae peitai, o le Atua, na le fiafia i lo latou faasausili, na mafua ai ona faataapeapeina tagata i le lalolagi atoa, ma le malamalama ai o latou laulaufaiva i le tasi ma le isi.
+> Na fetalai le Atua o tagata o so latou lava ituaiga, e tutusa a latou aganuu ma ituaiga. O le fausiaina o se olo ua na o se faatomuaga. O lea e mafai ona e ausia soʻo se mea e te manaʻo ai, ma e leai se mea e te fefe ai.
+>
+> Ona afio mai lea o le Atua ma faataapeapeina tagata i nuu eseese, ua le femalamalamaai.
 >
 > Talu mai lenā taimi, na tauivi ai tagata e fesootaʻi, na tulaʻi mai feteenaʻiga e lē gata, ma e leʻi toe vaaia e le lalolagi se ʻolo e oo atu i le lagi.
 

@@ -12,9 +12,11 @@ Kayatko nga ibaga a **babaen laeng ti pananginternasional iti intero a site a su
 
 "Biblia·Genesis":
 
-> Idi un-unana a panawen, idi maymaysa ti pagsasao, naipasngay ti sangatauan a natangsit. Inkagumaanda ti mangbangon iti nakangatngato a pasdek, maysa a torre a mangsagid iti langit.
+> Saan a naglasin dagiti nagkauna a pagsasao. Nangaramidda kadagiti torre a dumanon iti tangatang tapno makadanonda iti ruangan ti Dios tapno maitandudo ti dayaw ti natauan a puli.
 >
-> Nupay kasta, ti Nadiosan, a saan a naragsakan iti kinatangsitda, pinagbalinna dagiti tattao a nagwaras iti intero a daga, a namagbalin kadagiti dilada a di maawatan iti maysa ken maysa.
+> Kinuna ti Dios a dagiti tattao ket bukodda a tribu, nga agpapada ti kultura ken kitada. Ti panangibangon iti torre ket maysa laeng a pangrugian. Ita, maibanagmon ti aniaman a kayatmo, ket awanton ti pagbutngam.
+>
+> Kalpasanna, immay ti Dios ket inwarasna dagiti tattao iti nadumaduma a lugar, a dida makaawat iti maysa ken maysa.
 >
 > Manipud idin, inkarigatan ti sangatauan ti makikomunikar, timmaud nga awan patinggana dagiti rinnupiat, ket awanen ti nakita ti lubong a torre a dumanon iti tangatang.
 

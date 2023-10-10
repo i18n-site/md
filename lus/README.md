@@ -12,9 +12,11 @@ Ka sawi duh chu **site pumpui internationalise chauhvin multi-lingual in-site fu
 
 "Bible·Genesis" tih a ni.:
 
-> Hmanlai, tawng pakhat a nih lai khan mihring hi chhuanawm takin a lo piang a. In sang tak, van lam khawih thei kulh sak an tum a.
+> Hmanlai mite chuan tawng an thliar hrang lo. Mihringte chawimawina tipung turin Pathian kawngkhar thleng tur chuan van thlenga kulh an siam a.
 >
-> Mahse, Divine chuan an inngaihluhna chu a lungawi lo hle a, mipuite chu leilung luahah a darh a, an lei chu an inhriatthiam theih loh phah ta a ni.
+> Pathian chuan mihringte hi hnam hrang hrang, nunphung leh chi hrang hrang inang an ni a ti a. Tower sak hi a hmahruaitu mai a ni. Tunah chuan i duh duh i tihlawhtling thei tawh ang a, hlauh tur i nei tawh lo vang.
+>
+> Tichuan Pathian a lo kal a, mipuite chu hmun hrang hrangah, inhriatthiam tawn thei lovin a tidarh ta a.
 >
 > Chuta tang chuan mihringte chuan inbiakpawhna kawngah an bei nasa hle a, inhnialna tawp chin nei lovin a lo chhuak a, khawvelin vanram thleng thei kulhpui a hmu tawh lo.
 

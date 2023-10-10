@@ -12,9 +12,11 @@ Makemake au e ʻōlelo **ma ka hoʻolaha ʻana i ka pūnaewele holoʻokoʻa e hi
 
 "Baibala·Genesis":
 
-> I ka wā kahiko, i ka wā hoʻokahi ka ʻōlelo, hānau haʻaheo ke kanaka. Ua ʻimi lākou e kūkulu i hale kiʻekiʻe, he hale kiaʻi e pili ana i ka lani.
+> ʻAʻole ʻokoʻa ka poʻe kahiko ma waena o nā ʻōlelo. Ua kūkulu lākou i nā hale kiaʻi a hiki i ka lani a hiki i ka ʻīpuka o ke Akua e hoʻolaha i ka hanohano o ka lāhui kanaka.
 >
-> Akā naʻe, ʻaʻole i ʻoluʻolu ke Akua i ko lākou hoʻokiʻekiʻe, ua hoʻopuehu nā kānaka a puni ka honua, me ka hoʻomaopopo ʻole i ko lākou mau alelo.
+> Ua ʻōlelo ke Akua he ʻohana ponoʻī nā kānaka, me ka moʻomeheu a me nā ʻano like. ʻO ke kūkulu ʻana i hale kiaʻi he mea mua wale nō ia. I kēia manawa hiki iā ʻoe ke hoʻokō i nā mea āu e makemake ai, a ʻaʻohe mea e makaʻu ai.
+>
+> A laila hele mai ke Akua a hoʻopuehu i nā kānaka ma nā wahi like ʻole, ʻaʻole hiki ke hoʻomaopopo kekahi i kekahi.
 >
 > Mai ia manawa mai, paʻakikī nā kānaka e kamaʻilio, ua ala mai nā hakakā me ka pau ʻole, ʻaʻole i ʻike hou ka honua i kahi hale kiaʻi i hiki i ka lewa.
 

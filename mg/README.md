@@ -12,9 +12,11 @@ Te-hilaza aho fa **amin'ny alalan'ny fanaovana iraisam-pirenena ny vohikala mano
 
 "Baiboly·Genesisy":
 
-> Tamin'ny andro fahiny, fony ny fiteny iray, dia teraka ny zanak'olombelona nirehareha. Nitady hanorina trano mijoalajoala izy ireo, dia tilikambo nikasika ny lanitra.
+> Tsy nanavaka ny fiteny ny Ntaolo. Nanao tilikambo manakatra ny lanitra izy ireo mba hahatongavana eo amin’ny vavahadin’Andriamanitra mba hanandratana ny voninahitry ny taranak’olombelona.
 >
-> Tsy faly tamin’ny fireharehan’izy ireo anefa ilay Andriamanitra, ka nahatonga ny olona hiparitaka eran’ny tany, ka nahatonga ny lelany tsy ho takatry ny saina.
+> Nolazain’Andriamanitra fa foko iray ny olona, ​​mitovy kolontsaina sy karazany. Ny fananganana tilikambo dia santatra fotsiny. Ankehitriny dia afaka manatanteraka izay tianao ianao, ary tsy hisy hatahoranao.
+>
+> Dia tonga Andriamanitra ka nampihahaka ny olona tamin'ny tany samy hafa, ka tsy nifankahazo.
 >
 > Nanomboka teo dia sahirana ny olombelona mba hifampiresaka, nipoitra tsy nisy fiafarana ny fifandirana, ary tsy nahita tilikambo manakatra ny lanitra intsony izao tontolo izao.
 

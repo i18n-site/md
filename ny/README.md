@@ -12,9 +12,11 @@ Ndikufuna kunena kuti **popanga tsamba lonselo kuti tithandizire kusaka ndi kukh
 
 "Baibulo Genesis":
 
-> Kale, pamene chinenero chinali chimodzi, anthu ankabadwa onyada. Iwo anafuna kumanga nyumba yaitali, nsanja yofika kumwamba.
+> Anthu akale sankasiyanitsa zinenero. Iwo anamanga nsanja zofika kumwamba kuti zifike pachipata cha Mulungu kuti akweze kutchuka kwa mtundu wa anthu.
 >
-> Komabe, Mulungu, poipidwa ndi kudzikuza kwawo, anachititsa anthu kubalalika padziko lonse lapansi, kupangitsa kuti lilime lawo likhale losamveka kwa wina ndi mnzake.
+> Mulungu ananena kuti anthu ndi fuko lawo laokha, chikhalidwe ndi mitundu yofanana. Kumanga nsanja ndi chiyambi chabe. Tsopano mutha kukwaniritsa chilichonse chomwe mukufuna, ndipo simudzakhala ndi mantha.
+>
+> Kenako Mulungu anadza n’kubabalalitsa anthu m’malo osiyanasiyana moti sankatha kumvetsana.
 >
 > Kuyambira pamenepo, anthu anavutika kulankhulana, mikangano inabuka kosatha, ndipo dziko silinaonenso nsanja yofika kumwamba.
 

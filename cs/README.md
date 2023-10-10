@@ -12,9 +12,11 @@ Chci říci, že **pouze internacionalizací celého webu můžeme podpořit ví
 
 "Bible·Genesis":
 
-> V dávných dobách, kdy byl jazyk jeden, se lidstvo zrodilo hrdé. Snažili se postavit věžovou budovu, věž, která se dotýkala nebes.
+> Staří lidé nerozlišovali mezi jazyky. Stavěli věže dosahující až k nebi, aby dosáhly Boží brány, aby podpořily prestiž lidské rasy.
 >
-> Avšak Božské, nespokojené s jejich arogancí, způsobilo, že se lidé rozprchli po zemi a učinili jejich jazyky navzájem nesrozumitelnými.
+> Bůh řekl, že lidé jsou svým vlastním kmenem se stejnou kulturou a druhem. Stavba věže je jen předehra. Nyní můžete dosáhnout, co chcete, a nebudete se muset ničeho bát.
+>
+> Pak přišel Bůh a rozptýlil lidi na různá místa, neschopni se navzájem pochopit.
 >
 > Od té doby se lidstvo snažilo komunikovat, donekonečna vznikaly konflikty a svět už neviděl věž, která dosáhla nebes.
 

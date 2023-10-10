@@ -12,9 +12,11 @@ Gusto nakong isulti nga **pinaagi lamang sa pag-internationalize sa tibuok site 
 
 "Bibliya·Genesis":
 
-> Sa karaang mga panahon, sa dihang usa ang pinulongan, ang katawhan natawo nga garboso. Nagtinguha sila sa pagtukod ug usa ka habog nga edipisyo, usa ka torre nga nakaabot sa kalangitan.
+> Ang mga karaan wala makaila sa mga pinulongan. Nagtukod silag mga tore nga moabot sa langit aron makaabot sa ganghaan sa Diyos aron sa pagpalambo sa kadungganan sa katawhan.
 >
-> Apan, ang Dios, nga wala mahimuot sa ilang pagkamapahitas-on, nagpahinabo sa mga tawo nga magkatibulaag sa tibuok yuta, nga naghimo sa ilang mga dila nga dili masabtan sa usag usa.
+> Ang Dios nag-ingon nga ang mga tawo usa ka tribo sa ilang kaugalingon, nga adunay parehas nga kultura ug espisye. Ang pagtukod ug tore usa lang ka pasiuna. Karon mahimo na nimo ang bisan unsang gusto nimo, ug wala ka’y angay kahadlokan.
+>
+> Unya mianhi ang Dios ug gipatibulaag niya ang mga tawo sa nagkalainlaing mga dapit, nga dili magkasinabot.
 >
 > Sukad niadto, ang katawhan nanlimbasug sa pagpakigkomunikar, ang mga panagbangi mitungha nga walay kataposan, ug ang kalibotan wala nay nakitang torre nga moabot sa kalangitan.
 

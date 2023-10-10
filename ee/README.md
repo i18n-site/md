@@ -12,9 +12,11 @@ Medi be magblɔ be **ne míetsɔ nyatakakadzraɖoƒe bliboa wɔ dukɔwo domee ko
 
 "Biblia·Mose Ƒe Agbalẽ Gbãtɔ".:
 
-> Le blema, esime gbegbɔgblɔ nye ɖeka la, wodzia ameƒomea dadatɔe. Wodi be yewoatu xɔ kɔkɔ aɖe, si nye xɔ kɔkɔ aɖe si ka dziƒowo.
+> Blematɔwo mede vovototo gbegbɔgblɔwo dome o. Wotu xɔ kɔkɔ siwo ɖo dziƒo va ɖo Mawu ƒe agbo nu be woatsɔ ado ameƒomea ƒe bubu ɖe ŋgɔ.
 >
-> Gake Mawume la, esi woƒe dada medzɔ dzi na wo o la, na ameawo kaka ɖe anyigba dzi, si wɔe be woƒe aɖe megase wo nɔewo gɔme o.
+> Mawu la gblɔ be amewo nye woawo ŋutɔ ƒe to aɖe, eye woƒe dekɔnuwo kple woƒe ƒomeviwo sɔ. Mɔ̃ kɔkɔ aɖe tutu nye ŋgɔdonya ko. Fifia àte ŋu awɔ nusianu si nèdi, eye naneke magavɔ̃ na wò o.
+>
+> Emegbe Mawu va kaka ameawo ɖe teƒe vovovowo, eye womete ŋu se wo nɔewo gɔme o.
 >
 > Tso ɣemaɣi dzi la, ameƒomea nɔ agbagba dzem be yewoaɖo dze, masɔmasɔwo do mo ɖa nuwuwu manɔmee, eye xexeame megakpɔ xɔ kɔkɔ aɖe si ɖo yame o.
 

@@ -12,9 +12,11 @@ Vull dir que **només internacionalitzant tot el lloc podem donar suport a la ce
 
 "Bíblia·Gènesi":
 
-> En l'antiguitat, quan la llengua era una, la humanitat va néixer orgullosa. Van intentar construir un edifici altíssim, una torre que toqués el cel.
+> Els antics no distingien entre llengües. Van construir torres que arribaven al cel per arribar a la porta de Déu per promoure el prestigi de la raça humana.
 >
-> Tanmateix, el Diví, disgustat amb la seva arrogància, va fer que la gent s'escampés per la terra, fent que la seva llengua fos inintel·ligible.
+> El Déu va dir que la gent és una tribu pròpia, amb la mateixa cultura i espècie. Construir una torre és només un preludi. Ara pots aconseguir el que vulguis i no tindreu res a témer.
+>
+> Llavors Déu va venir i va dispersar la gent per diversos llocs, sense poder-se entendre.
 >
 > A partir d'aleshores, la humanitat va lluitar per comunicar-se, els conflictes van sorgir sense parar i el món ja no va veure una torre que arribés als cels.
 

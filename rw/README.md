@@ -12,9 +12,11 @@ Ndashaka kuvuga ko **muguhindura amahanga kurubuga rwose dushobora gushyigikira 
 
 "Bibiliya · Itangiriro":
 
-> Mu bihe bya kera, iyo ururimi rwabaye rumwe, ikiremwamuntu cyavutse gifite ishema. Bashakaga kubaka inyubako ndende, umunara ukora ku ijuru.
+> Abakera ntibatandukanije indimi. Bubatse iminara igera mwijuru kugirango bagere ku irembo ryImana kugirango bamenyekanishe icyubahiro cyabantu.
 >
-> Ariko, Imana, ntiyishimiye ubwibone bwabo, yatumye abantu batatana isi yose, bituma ururimi rwabo rutumvikana.
+> Imana yavuze ko abantu ari ubwoko bwabo, bafite umuco nubwoko bumwe. Kubaka umunara ni intangiriro. Noneho urashobora kugera kubyo ushaka byose, kandi ntacyo uzagira ubwoba.
+>
+> Hanyuma Imana iraza ikwirakwiza abantu ahantu hatandukanye, idashobora kumvikana.
 >
 > Kuva icyo gihe, abantu barwanira gushyikirana, amakimbirane avuka ubuziraherezo, kandi isi ntiyongeye kubona umunara wageze mu kirere.
 

@@ -12,9 +12,11 @@ Ke batla ho bolela hore **ke feela ka ho etsa hore sebaka sohle sa marang-rang s
 
 "Bibele Genese":
 
-> Mehleng ea boholo-holo, ha puo e ne e le ntho e le 'ngoe, batho ba ne ba tsoaloa ba le motlotlo. Ba ne ba batla ho haha ​​mohaho o molelele, tora e fihlang leholimong.
+> Batho ba boholo-holo ba ne ba sa khetholle lipuo. Ba ile ba haha ​​litora tse fihlang leholimong ho fihla hekeng ea Molimo ho ntšetsa pele botumo ba moloko oa batho.
 >
-> Leha ho le joalo, Molimo, a halefisitsoe ke boikhohomoso ba bona, o ile a etsa hore batho ba hasane le lefatše, ba etsa hore maleme a bona a se ke a utloisisoa.
+> Molimo o ile a re batho ke moloko oa bona, ba nang le setso le mefuta e tšoanang. Ho haha ​​tora ke selelekela feela. Hona joale u ka finyella eng kapa eng eo ue batlang, 'me u ke ke ua tšaba letho.
+>
+> Ke moka Modimo a tla a gašanya batho mafelong a fapa-fapanego, ba sa kgone go kwešišana.
 >
 > Ho tloha ka nako eo ho ea pele, moloko oa batho o ile oa thatafalloa ke ho buisana, likhohlano tsa hlaha ka ho sa feleng, ’me lefatše ha lea ka la hlola le bona tora e fihlang leholimong.
 

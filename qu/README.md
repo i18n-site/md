@@ -12,9 +12,11 @@ Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka si
 
 "Biblia·Génesis".:
 
-> Ñawpa pachakunapi, simi huklla kaptin, runa kayqa hatun sunquyuqmi paqarirqa. Paykunaqa huk hatun wasi ruwaytan maskharqanku, chay torreqa hanaq pachatan llamiykurqan.
+> Ñawpa pacha runakunaqa manan simikunata t’aqaqkuchu. Hanaq pachaman chayaq torrekunatan ruwarqanku Diospa punkunman chayanankupaq, chhaynapi runakunaq allin qhawarisqa kanankupaq.
 >
-> Ichaqa, Divino, hatunchakusqankuwan mana kusisqa kaspan, runakunata kay pachaman ch’eqechirqan, qallunkuta mana entiendenakunankupaq.
+> Diosqa nirqam runakunaqa kikinkumanta ayllu kasqankuta, huk culturayuq hinaspa huk especieyuq kasqankuta. Torreta ruwayqa qallariylla. Kunanqa ima munasqaykitapas hunt’ayta atinkin, manataqmi imatapas manchakunkichu.
+>
+> Hinan Dios hamuspa imaymana cheqaskunapi runakunata ch’eqechirqan, mana entiendenakuspa.
 >
 > Chaymantapachan runakunaqa sasachakurqanku rimanakunankupaq, ch’aqwaykunapas mana tukukuqmi hatarirqan, kay pachapas manañan rikurqankuñachu hanaq pachaman chayaq torreta.
 

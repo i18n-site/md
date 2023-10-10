@@ -12,9 +12,11 @@ Ndinoda kutaura kuti **nekuita saiti yese pasi rese tinogona kutsigira mitauro y
 
 "Bhaibheri Genesisi":
 
-> Kare, mutauro waive mumwe chete, vanhu vaizvarwa vachizvikudza. Vakatsvaka kuvaka chivako chirefu, shongwe yaisvika kudenga.
+> Vanhu vekare vaisasiyanisa mitauro. Vakavaka shongwe dzaisvika kudenga kuti dzisvike pasuwo raMwari kuti vasimudzire mukurumbira werudzi rwevanhu.
 >
-> Zvisinei, Mwari, akashatirwa nokuzvikudza kwavo, akaita kuti vanhu vapararire pasi pose, vachiita kuti ndimi dzavo dzisanzwisike kune mumwe nomumwe.
+> Mwari akati vanhu idzinza ravo, vane tsika nemarudzi mamwe chete. Kuvaka shongwe ingori nhanganyaya. Iye zvino unogona kuita chero chaunoda, uye hapana chauchazotya.
+>
+> Ipapo Mwari akauya akaparadzira vanhu munzvimbo dzakasiyana-siyana, vakatadza kunzwisisana.
 >
 > Kubva ipapo zvichienda mberi, vanhu vakatamburira kukurukura, kukakavadzana kwakamuka kusingaperi, uye nyika haichaoni shongwe yaisvika kudenga.
 

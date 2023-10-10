@@ -12,9 +12,11 @@ Saya ingin mengatakan bahwa **hanya dengan menginternasionalkan seluruh situs ki
 
 "Alkitab·Kejadian":
 
-> Pada zaman dahulu kala, ketika bahasa masih bersatu, umat manusia dilahirkan dengan rasa bangga. Mereka berusaha membangun sebuah bangunan yang menjulang tinggi, sebuah menara yang menyentuh langit.
+> Orang dahulu tidak membedakan bahasa. Mereka membangun menara-menara yang menjulang ke langit hingga mencapai gerbang Tuhan untuk mengangkat harkat dan martabat umat manusia.
 >
-> Namun, Tuhan, yang tidak senang dengan kesombongan mereka, menyebabkan manusia berpencar ke seluruh bumi, membuat lidah mereka tidak dapat dimengerti satu sama lain.
+> Tuhan berkata bahwa manusia adalah sukunya sendiri, dengan budaya dan spesies yang sama. Membangun menara hanyalah pendahuluan. Sekarang Anda dapat mencapai apa pun yang Anda inginkan, dan tidak ada yang perlu Anda takuti.
+>
+> Kemudian Tuhan datang dan menceraiberaikan manusia di berbagai tempat, tidak mampu saling memahami.
 >
 > Sejak saat itu, umat manusia kesulitan berkomunikasi, konflik muncul tanpa henti, dan dunia tidak lagi melihat menara yang mencapai langit.
 

@@ -12,9 +12,11 @@ Aipota **ha’e pe internacionalización rupive añoite pe sitio tuichakue ikatu
 
 "Biblia·Génesis".:
 
-> Ymave, ñe’ẽ peteĩnte ramo, yvypóra heñói oñemomba’eguasúva. Haʼekuéra oheka ojapo peteĩ edifísio ijyvatetereíva, peteĩ tórre opokóva yvágare.
+> Ymaguare ndombojoavyiva’ekue umi ñe’ẽ. Omopu'ã hikuái torre oguahëva yvága peve oguahê haguã Ñandejára rokême omoherakuã haguã prestigio raza humana.
 >
-> Ha katu, pe Divino, ndoguerohorýigui iñemomba’eguasu, ojapo umi tavayguakuérape isarambi haĝua ko yvy ape ári, ojapo iñe’ẽ noñentendeporãiva ojupe.
+> Ñandejára heʼi umi hénte haʼeha peteĩ trívu imbaʼéva, peteĩchagua kultúra ha espésie orekóva. Oñemopu’ãvo peteĩ tórre ha’e peteĩ ñepyrũrãnte. Koʼág̃a ikatu rehupyty oimeraẽ mbaʼe reipotáva, ha ndapekyhyjemoʼãi mbaʼeve.
+>
+> Upéi Ñandejára ou ha omosarambi umi héntepe opaichagua hendápe, ndaikatúi oñontende.
 >
 > Upe guive yvypóra oñehaʼãmbaite oñemongeta hag̃ua, opaʼỹre oiko ñorairõ ha ko múndo ndohechavéima peteĩ tórre og̃uahẽva yvágape.
 

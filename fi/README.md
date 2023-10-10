@@ -12,9 +12,11 @@ Haluan sanoa, että **vain kansainvälistämällä koko sivusto voimme tukea mon
 
 "Raamattu · Genesis":
 
-> Muinaisina aikoina, kun kieli oli yhtä, ihmiskunta syntyi ylpeänä. He pyrkivät rakentamaan kohoavan rakennuksen, tornin, joka kosketti taivasta.
+> Muinaiset ihmiset eivät tehneet eroa kielien välillä. He rakensivat torneja, jotka ulottuivat taivaalle päästäkseen Jumalan portille edistääkseen ihmiskunnan arvovaltaa.
 >
-> Jumalallinen, tyytymätön heidän ylimielisyytensä, sai ihmiset kuitenkin hajaantumaan ympäri maata tehden heidän kielensä toisilleen ymmärtämättömäksi.
+> Jumala sanoi, että ihmiset ovat oma heimo, jolla on sama kulttuuri ja laji. Tornin rakentaminen on vain alkusoittoa. Nyt voit saavuttaa mitä haluat, eikä sinulla ole mitään pelättävää.
+>
+> Sitten Jumala tuli ja hajotti ihmiset eri paikkoihin, eivätkä he kyenneet ymmärtämään toisiaan.
 >
 > Siitä lähtien ihmiskunnalla on ollut vaikeuksia kommunikoida, konflikteja syntyi loputtomasti, eikä maailma nähnyt enää tornia, joka nousi taivaalle.
 

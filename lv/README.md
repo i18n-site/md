@@ -12,9 +12,11 @@ Es gribu teikt, ka **tikai internacionalizējot visu vietni, mēs varam atbalst�
 
 "Bībele·Genesis":
 
-> Senatnē, kad valoda bija viena, cilvēce dzima lepna. Viņi centās uzcelt augstu celtni, torni, kas pieskārās debesīm.
+> Senie cilvēki nešķīra valodas. Viņi uzcēla torņus, kas sniedzās līdz debesīm, lai sasniegtu Dieva vārtus, lai veicinātu cilvēces prestižu.
 >
-> Tomēr Dievišķais, neapmierināts ar viņu augstprātību, lika ļaudīm izklīst pa zemi, padarot viņu mēles viens otram nesaprotamas.
+> Dievs teica, ka cilvēki ir sava cilts, ar vienu un to pašu kultūru un sugām. Torņa celtniecība ir tikai prelūdija. Tagad jūs varat paveikt visu, ko vēlaties, un jums nebūs no kā baidīties.
+>
+> Tad nāca Dievs un izklīdināja ļaudis pa dažādām vietām, nespējot vienam otru saprast.
 >
 > Kopš tā laika cilvēcei bija grūti sazināties, konflikti radās bezgalīgi, un pasaule vairs neredzēja torni, kas sasniegtu debesis.
 

@@ -12,9 +12,11 @@ Jeg vil sige, at **kun ved at internationalisere hele webstedet, kan vi underst�
 
 "Bibel · Genesis":
 
-> I oldtiden, hvor sproget var ét, blev menneskeheden født stolt. De søgte at bygge et tårnhøjt bygningsværk, et tårn, der rørte himlen.
+> De gamle skelnede ikke mellem sprog. De byggede tårne, der nåede himlen for at nå Guds port for at fremme den menneskelige races prestige.
 >
-> Men det guddommelige, utilfreds med deres arrogance, fik folk til at sprede sig over jorden, hvilket gjorde deres tunger uforståelige for hinanden.
+> Gud sagde, at mennesker er deres egen stamme, med samme kultur og art. At bygge et tårn er blot en optakt. Nu kan du opnå, hvad du vil, og du har intet at frygte.
+>
+> Så kom Gud og spredte folket forskellige steder, ude af stand til at forstå hinanden.
 >
 > Fra da af kæmpede menneskeheden for at kommunikere, konflikter opstod i det uendelige, og verden så ikke mere et tårn, der nåede himlen.
 

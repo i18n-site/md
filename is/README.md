@@ -12,9 +12,11 @@ Sumir gætu viljað spyrja, nú þegar vafrar eru með innbyggða þýðingarað
 
 "Biblían · Genesis":
 
-> Í fornöld, þegar tungumálið var eitt, fæddist mannkynið stolt. Þeir reyndu að reisa risastórt byggingar, turn sem snerti himininn.
+> Fornmenn gerðu ekki greinarmun á tungumálum. Þeir byggðu turna sem náðu til himins til að komast að hliði Guðs til að efla álit mannkynsins.
 >
-> Hins vegar, hið guðlega, sem var óánægt með hroka þeirra, olli því að fólkið dreifðist um jörðina og gerði tungur þeirra óskiljanlega hver fyrir öðrum.
+> Guð sagði að fólk væri eigin ættkvísl, með sömu menningu og tegund. Að byggja turn er bara forleikur. Nú geturðu afrekað hvað sem þú vilt og þú þarft ekkert að óttast.
+>
+> Þá kom Guð og tvístraði fólkinu á ýmsa staði, ófær um að skilja hver annan.
 >
 > Upp frá því átti mannkynið í erfiðleikum með samskipti, endalaust komu upp átök og heimurinn sá ekki lengur turn sem náði til himins.
 

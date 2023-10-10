@@ -12,9 +12,11 @@ Ech wëll soen datt **nëmmen duerch d'Internationaliséierung vum ganze Site k�
 
 "Bibel · Genesis":
 
-> An alen Zäiten, wou d'Sprooch eng war, gouf d'Mënschheet stolz gebuer. Si hu gesicht fir en tierkescht Gebai ze bauen, en Tuerm deen den Himmel beréiert huet.
+> D'Alter hunn net tëscht Sproochen ënnerscheeden. Si hunn Tierm gebaut, déi den Himmel erreechen, fir de Paart vu Gott z'erreechen fir de Prestige vun der Mënschheet ze förderen.
 >
-> Wéi och ëmmer, d'Göttlech, onzefridden mat hirer Arroganz, huet d'Leit iwwer d'Äerd verstreet, wat hir Zong uneneen onverständlech gemaach huet.
+> De Gott huet gesot datt d'Leit en eegene Stamm sinn, mat der selwechter Kultur a Spezies. En Tuerm bauen ass just en Optakt. Elo kënnt Dir erreechen wat Dir wëllt, an Dir hutt näischt ze fäerten.
+>
+> Dunn ass Gott komm an huet d'Leit op verschiddene Plazen verspreet, net fäeg sech ze verstoen.
 >
 > Vun do un huet d'Mënschheet gekämpft fir ze kommunizéieren, Konflikter entstanen endlos, an d'Welt huet keen Tuerm méi gesinn, deen den Himmel erreecht huet.
 

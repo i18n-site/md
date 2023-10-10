@@ -12,9 +12,11 @@ Ngifuna ukusho ukuthi **kuphela ngokwenza isayithi yonke ibe ngamazwe ngamazwe l
 
 "Bible·Genesis":
 
-> Emandulo uma ulimi lulodwa, isintu sazalwa sizidla. Babefuna ukwakha umbhoshongo ofinyelela emazulwini.
+> Abantu basendulo babengahlukanisi izilimi. Bakha imibhoshongo efinyelela esibhakabhakeni ukuze ifinyelele esangweni likaNkulunkulu ukuze kuthuthukiswe udumo lwesintu.
 >
-> Nokho, uMvelinqangi, ecasukile ngokuzikhukhumeza kwabo, wabangela ukuba abantu bahlakazeke emhlabeni, benze ulimi lwabo lungabonakali komunye nomunye.
+> UNkulunkulu wathi abantu bayisizwe sabo, esinamasiko nezinhlobo ezifanayo. Ukwakha umbhoshongo kuyisandulela. Manje usungakwazi ukufeza noma yini oyifunayo, futhi ngeke usaba nalutho.
+>
+> Khona-ke uNkulunkulu wafika wabahlakaza abantu ezindaweni ezihlukahlukene, bengakwazi ukuzwana.
 >
 > Kusukela ngaleso sikhathi kuqhubeke, isintu sazabalaza ukuxhumana, kwaqubuka izingxabano ezingapheli, futhi umhlaba awubange usabona umbhoshongo ofinyelela esibhakabhakeni.
 

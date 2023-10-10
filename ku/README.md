@@ -12,9 +12,11 @@ Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikar
 
 "Încîl · Destpêbûn":
 
-> Di demên kevnare de, dema ziman yek bû, mirovahî serbilind çêbû. Wan dixwest ku avahiyek bilin, bircek ku bi ezmanan ve girêdayî ye ava bikin.
+> Kalan ferq û cudahî di navbera zimanan de nekiriye. Wan bircên ku digihîjin ezmanan ji bo ku bigihîjin deriyê Xwedê ava kirin da ku rûmeta nijada mirovî pêşve bibin.
 >
-> Lêbelê Xwedayê ku ji quretiya wan ne razî bû, bû sedem ku mirov li ser rûyê erdê belav bibin û zimanên wan ji hev re nefêhm bikin.
+> Xwedê gotiye ku mirov qebîleyek bi xwe ne, xwedî heman çand û cureyê ne. Çêkirina bircê tenê pêşgotinek e. Naha hûn dikarin her tiştê ku hûn dixwazin pêk bînin, û hûn ê tiştek tune ku hûn bitirsin.
+>
+> Paşê Xwedê hat û xelq li ciyên cûrbecûr belawela kir, ji hev fem nedikirin.
 >
 > Ji hingê ve, mirovahî ji bo danûstandinê têkoşîn kir, pevçûnên bêdawî rabûn, û cîhanê êdî bircek ku bigihîje ezmanan nedît.
 

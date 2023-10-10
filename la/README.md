@@ -12,9 +12,11 @@ Nonnulli interrogare possunt, nunc navigatores in functionibus translationibus a
 
 "Bible· Genesis":
 
-> Antiquitus, cum una lingua esset, superbus natus est humanitas. Turrim quae coelos contigerat construere volebant.
+> Antiqui inter linguas non distinxerunt. Turres ad caelum struxerunt, ut ad portam Dei pervenirent ad dignitatem generis humani promovendam.
 >
-> Divinus autem, displicens eorum arrogantia, populum per terram spargere fecit, linguas suas ad invicem non intelligendas reddens.
+> Deus dixit populum suum esse tribum, eadem cultura et specie. Aedificare turrim praeludium est. Nunc quod vis facere potes, et nihil habebis quod timeas.
+>
+> Tunc venit Deus, et dispersit plebem per diversa loca, nec se intelligere valens.
 >
 > Exinde certabant homines communicare, certamina sine fine orta sunt, et mundus amplius turrim caelos attingens vidit.
 

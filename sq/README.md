@@ -12,9 +12,11 @@ Dua të them se **vetëm duke ndërkombëtarizuar të gjithë sajtin mund të mb
 
 "Bibla · Zanafilla":
 
-> Në kohët e lashta, kur gjuha ishte një, njerëzimi lindi krenar. Ata kërkuan të ndërtonin një ndërtesë të lartë, një kullë që prekte qiejt.
+> Të lashtët nuk bënin dallime midis gjuhëve. Ata ndërtuan kulla që arrinin në qiell për të arritur te porta e Zotit për të promovuar prestigjin e racës njerëzore.
 >
-> Megjithatë, Hyjnori, i pakënaqur me arrogancën e tyre, i bëri njerëzit të shpërndaheshin nëpër tokë, duke i bërë gjuhët e tyre të pakuptueshme për njëri-tjetrin.
+> Zoti tha se njerëzit janë një fis i tyre, me të njëjtën kulturë dhe specie. Ndërtimi i një kulle është vetëm një prelud. Tani mund të arrini gjithçka që dëshironi dhe nuk do të keni asgjë për t'u frikësuar.
+>
+> Pastaj erdhi Zoti dhe i shpërndau njerëzit në vende të ndryshme, pa mundur ta kuptonin njëri-tjetrin.
 >
 > Që atëherë e tutje, njerëzimi luftoi për të komunikuar, konfliktet u ngritën pafundësisht dhe bota nuk pa më një kullë që arrinte në qiell.
 

@@ -12,9 +12,11 @@ Je tiens à dire que **ce n'est qu'en internationalisant l'ensemble du site que 
 
 "Bible·Genèse":
 
-> Dans les temps anciens, lorsque la langue n’était qu’une, l’humanité naissait fière. Ils cherchaient à construire un édifice imposant, une tour qui touchait le ciel.
+> Les anciens ne faisaient pas de distinction entre les langues. Ils ont construit des tours atteignant le ciel pour atteindre la porte de Dieu afin de promouvoir le prestige de la race humaine.
 >
-> Cependant, le Divin, mécontent de leur arrogance, poussa les gens à se disperser à travers la terre, rendant leurs langues inintelligibles les unes aux autres.
+> Le Dieu a dit que les gens constituent une tribu à part entière, avec la même culture et la même espèce. Construire une tour n’est qu’un prélude. Désormais, vous pouvez accomplir tout ce que vous voulez et vous n’aurez plus rien à craindre.
+>
+> Puis Dieu est venu et a dispersé les gens en divers endroits, incapables de se comprendre.
 >
 > Dès lors, l’humanité a eu du mal à communiquer, des conflits ont surgi sans fin et le monde n’a plus vu de tour atteignant le ciel.
 

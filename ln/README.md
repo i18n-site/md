@@ -12,9 +12,11 @@ Nalingi koloba ete **kaka na internationalisation ya site mobimba nde tokoki ko 
 
 "Biblia·Ebandeli".:
 
-> Na ntango ya kala, ntango monɔkɔ ezalaki moko, bato bazalaki kobotama na lolendo. Balukaki kotonga ndako molai, ndako molai oyo esimbaki likoló.
+> Bato ya kala bazalaki kokesenisa minɔkɔ te. Batongaki bandako milai oyo ekómaki na likoló mpo na kokóma na porte ya Nzambe mpo na kolendisa lokumu ya libota ya bato.
 >
-> Kasi, Bonzambe, oyo asepelaki te na lolendo na bango, asalaki ete bato bápalangana na mabele, mpe yango esalaki ete minɔkɔ na bango esosolama te epai na mosusu.
+> Nzambe alobaki ete bato bazali libota na bango moko, na mimeseno mpe lolenge moko. Kotonga linɔ́ngi ezali kaka ebandeli. Sikoyo okoki kokokisa nyonso oyo olingi, mpe okozala na eloko moko te ya kobanga.
+>
+> Na nsima, Nzambe ayaki kopalanganisa bato na bisika ndenge na ndenge, kozangaka kososolana.
 >
 > Kobanda wana, bato bazalaki kobunda mpo na kosolola, matata ebimaki kozanga nsuka, mpe mokili emonanaki lisusu te linɔ́ngi oyo ekómaki na likoló.
 

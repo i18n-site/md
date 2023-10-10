@@ -12,9 +12,11 @@ Quero dicir que **só internacionalizando todo o sitio podemos admitir a busca d
 
 "Biblia · Xénese":
 
-> Nos tempos antigos, cando a lingua era unha, a humanidade naceu orgullosa. Buscaban construír un edificio alto, unha torre que tocase o ceo.
+> Os antigos non distinguían as linguas. Construíron torres que chegaban ao ceo para chegar á porta de Deus para promover o prestixio da raza humana.
 >
-> Non obstante, o Divino, descontento coa súa arrogancia, fixo que a xente se esparexese pola terra, facendo que as súas linguas se fosen inintelixibles entre si.
+> O Deus dixo que as persoas son unha tribo propia, coa mesma cultura e especie. Construír unha torre é só un preludio. Agora podes facer o que queiras, e non terás nada que temer.
+>
+> Entón veu Deus e dispersou á xente por varios lugares, sen poder entenderse.
 >
 > A partir de entón, a humanidade loitou por comunicarse, os conflitos xurdiron sen fin e o mundo xa non viu unha torre que chegase aos ceos.
 

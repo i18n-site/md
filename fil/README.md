@@ -12,9 +12,11 @@ Gusto kong sabihin na **sa pamamagitan lamang ng pag-internationalize ng buong s
 
 "Bibliya·Genesis":
 
-> Noong unang panahon, kapag ang wika ay iisa, ang sangkatauhan ay ipinanganak na mapagmataas. Sinikap nilang magtayo ng isang matayog na gusali, isang tore na umabot sa langit.
+> Ang mga sinaunang tao ay hindi nagtatangi sa pagitan ng mga wika. Nagtayo sila ng mga tore na umaabot sa langit upang maabot ang pintuan ng Diyos upang itaguyod ang prestihiyo ng sangkatauhan.
 >
-> Gayunpaman, ang Banal, na hindi nasisiyahan sa kanilang pagmamataas, ay naging sanhi ng pagkalat ng mga tao sa buong mundo, na ginagawang hindi maintindihan ang kanilang mga dila sa isa't isa.
+> Sinabi ng Diyos na ang mga tao ay sariling tribo, na may parehong kultura at uri. Ang pagtatayo ng tore ay panimula lamang. Ngayon ay magagawa mo na ang anumang gusto mo, at wala kang dapat ikatakot.
+>
+> Pagkatapos ay dumating ang Diyos at ikinalat ang mga tao sa iba't ibang lugar, na hindi nagkakaintindihan.
 >
 > Mula noon, ang sangkatauhan ay nagpupumilit na makipag-usap, ang mga salungatan ay lumitaw nang walang katapusan, at ang mundo ay wala nang nakitang isang tore na umabot sa kalangitan.
 

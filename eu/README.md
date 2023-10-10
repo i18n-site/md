@@ -12,9 +12,11 @@ Esan nahi dut **gune osoa nazioartekotuz soilik onartzen ahal izango ditugula hi
 
 "Biblia·Genesia":
 
-> Antzina, hizkuntza bat zenean, gizadia harro jaio zen. Eraikin handi bat eraiki nahi zuten, zerua ukitzen zuen dorrea.
+> Antzinakoek ez zituzten hizkuntzak bereizten. Jainkoaren atarira iristeko zerura iristen ziren dorreak eraiki zituzten giza arrazaren prestigioa sustatzeko.
 >
-> Hala ere, Jainkozkoak, haien harrokeriarekin atsekabetuta, jendea lurrean barreiatzea eragin zuen, euren mihia elkar ulertezin bihurtuz.
+> Jainkoak esan zuen pertsonak berezko tribu bat direla, kultura eta espezie berekoak. Dorre bat eraikitzea aurresku bat besterik ez da. Orain nahi duzuna lor dezakezu, eta ez duzu ezer beldurrik izango.
+>
+> Orduan, Jainkoa etorri zen eta jendea hainbat tokitan barreiatu zuen, elkar ulertu ezinik.
 >
 > Handik aurrera, gizadiak komunikatzeko borroka egin zuen, gatazkak etengabe sortu ziren eta munduak ez zuen gehiago ikusi zeruetara iristen zen dorrerik.
 

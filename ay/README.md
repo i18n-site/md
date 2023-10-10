@@ -12,9 +12,11 @@ Nayax sañ muntwa **, taqpach sitio ukar internacionalización ukampikiw walja a
 
 "Biblia·Génesis qillqata".:
 
-> Nayra pachanxa, kunapachatixa aruxa mayakïkäna ukjaxa, jaqinakaxa jach’a jach’a tukusa yuripxirïna. Jupanakajj mä jachʼa edificio lurañwa chʼamachasipjjäna, uka torrejj alajjpacharuw llamktʼäna.
+> Nayra jaqinakax janiw arunak yaqhachapkänti. Diosan punkupar puriñkamaw alaxpachar puriñ torrenak lurapxäna, ukhamat jaqinakan jachʼañchatäñapataki.
 >
-> Ukampirus Divinox jach’a jach’a tukutapat jan kusisitax jaqinakarux aka uraqiruw ch’iqiyatayna, ukat laxranakapax maynit maynikam jan amuyt’añjamäxänwa.
+> Jaqinakax jupanakan mä tribupawa, pachpa saräwini ukat pachpa kastani sasaw Diosax säna. Mä torre lurañajj mä nayrïr uñachtʼäwikiwa. Jichhajj kuntï munkta uk phoqasmawa, janiw kuna ajjsarañas utjkaniti.
+>
+> Ukatxa Diosax jutasinx kunayman chiqanakaruw jaqinakar ch’iqiyäna, janiw maynit maynikam amuyañjamäkänti.
 >
 > Uka tiempot aksarojja, jaqenakajj parltʼasiñatakiw chʼamachasipjjäna, jan tukuskir chʼajjwañanakaw utjäna, ukat akapachajj janiw alajjpachar purir mä torre uñjjjänti.
 

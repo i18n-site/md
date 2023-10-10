@@ -12,9 +12,11 @@ Ba mhaith liom a rá gur **trí idirnáisiúnú a dhéanamh ar an suíomh iomlá
 
 "Bíobla·Genesis":
 
-> I am ársa, nuair a bhí teanga amháin, rugadh daonnachta bródúil as. Rinne siad iarracht foirgneamh ard a thógáil, túr a chuaigh i dteagmháil leis na flaithis.
+> Ní dhearna na seanóirí idirdhealú idir teangacha. Thóg siad túir a shroicheann an spéir chun geata Dé a bhaint amach chun gradam an chine dhaonna a chothú.
 >
-> Gidheadh, do chuir an Dhiaga míshásta le n-a n-árdrígheacht, do na daoinibh do sgaoil ar fud an domhain, ag déanamh a dteanga dothuigthe dá chéile.
+> Dúirt an Dia gur treibh dá gcuid féin iad daoine, leis an gcultúr agus na speicis chéanna. Níl ann ach túr a thógáil. Anois is féidir leat a chur i gcrích cibé rud is mian leat, agus ní bheidh ort a eagla.
+>
+> Ansin tháinig Dia agus scaip sé na daoine in áiteanna éagsúla, gan a bheith in ann a chéile a thuiscint.
 >
 > As sin amach, bhí an cine daonna ag streachailt le cumarsáid a dhéanamh, d'eascair coinbhleachtaí gan stad, agus ní fhaca an domhan túr a shroich na spéartha níos mó.
 

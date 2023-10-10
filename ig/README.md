@@ -12,9 +12,11 @@ Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka an
 
 "Bible·Jenesis":
 
-> N'oge ochie, mgbe asụsụ bụ otu, mmadụ mụrụ mpako. Ha chọrọ ịrụ ụlọ dị elu, ụlọ elu metụrụ eluigwe.
+> Ndị ochie aghọtaghị ihe dị iche n’asụsụ. Ha wuru ụlọ elu ruru elu igwe iji rute ọnụ ụzọ Chineke iji kwalite ugwu nke agbụrụ mmadụ.
 >
-> Otú ọ dị, Chineke, n’enweghị mmasị n’ihi mpako ha, mere ka ndị mmadụ gbasaa n’ụwa, na-eme ka asụsụ ha ghara ịghọta ibe ha.
+> Chineke kwuru na ndị mmadụ bụ ebo nke ha, nwere otu omenala na ụdị. Ịrụ ụlọ elu bụ naanị ihe mmalite. Ugbu a ị nwere ike imezu ihe ọ bụla ịchọrọ, ị gaghị enwekwa ihe ị ga-atụ egwu.
+>
+> Chineke wee bịa chụsasịa ndị mmadụ n’ebe dị iche iche, ha enweghịkwa ike ịghọta ibe ha.
 >
 > Site na mgbe ahụ gawa, ihe a kpọrọ mmadụ gbalịsiri ike ịkparịta ụka, esemokwu bilitere na-adịghị agwụ agwụ, ụwa ahụkwaghị ụlọ elu nke ruru eluigwe.
 

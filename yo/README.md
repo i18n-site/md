@@ -12,9 +12,11 @@ Mo fẹ lati sọ pe **nikan nipa sisẹ gbogbo aaye naa ni a le ṣe atilẹyin
 
 "Bibeli · Jẹnẹsisi":
 
-> Láyé àtijọ́, nígbà tí èdè jẹ́ ọ̀kan, ìgbéraga ni a bí ènìyàn. Wọ́n wá ọ̀nà láti kọ́ ilé gíga kan, ilé gogoro kan tó kan ọ̀run.
+> Awon babalawo ko yato laarin ede. Wọ́n kọ́ ilé ìṣọ́ tí wọ́n dé ojú ọ̀run láti dé ẹnubodè Ọlọ́run láti gbé òkìkí ẹ̀dá ènìyàn lárugẹ.
 >
-> Bí ó ti wù kí ó rí, Ọlọ́run, tí inú rẹ̀ kò dùn sí ìgbéraga wọn, mú kí àwọn ènìyàn fọ́n káàkiri ayé, tí wọ́n sì sọ ahọ́n wọn di aláìmọ́ fún ara wọn.
+> Ọlọrun sọ pe eniyan jẹ ẹya ti ara wọn, pẹlu aṣa ati iru kanna. Kikọ ile-iṣọ kan jẹ iṣaaju kan. Bayi o le ṣe ohunkohun ti o fẹ, ati pe iwọ kii yoo ni nkankan lati bẹru.
+>
+> Nígbà náà ni Ọlọ́run wá, ó sì tú àwọn ènìyàn ká sí onírúurú ibi, wọn kò lè lóye ara wọn.
 >
 > Láti ìgbà yẹn lọ, aráyé ti ń tiraka láti bára wọn sọ̀rọ̀, ìjà ń dìde láìpẹ́, ayé kò sì rí ilé gogoro kan tí ó dé ojú ọ̀run mọ́.
 

@@ -12,9 +12,11 @@ Noriu pasakyti, kad **tik internacionalizuodami visą svetainę galime palaikyti
 
 "Biblija · Pradžios knyga":
 
-> Senovėje, kai kalba buvo viena, žmonija gimdavo išdidi. Jie siekė pastatyti aukštą pastatą, bokštą, kuris paliestų dangų.
+> Senoliai neskyrė kalbų. Jie pastatė bokštus, siekiančius dangų, kad pasiektų Dievo vartus, kad padidintų žmonių rasės prestižą.
 >
-> Tačiau Dieviškasis, nepatenkintas jų arogancija, privertė žmones išsibarstyti po žemę, todėl jų liežuviai vienas kitam buvo nesuprantami.
+> Dievas pasakė, kad žmonės yra sava gentis, turinti tą pačią kultūrą ir rūšį. Bokšto statyba – tik įžanga. Dabar galite padaryti viską, ko norite, ir jums nereikės ko bijoti.
+>
+> Tada atėjo Dievas ir išsklaidė žmones po įvairias vietas, nesupratusius vieni kitų.
 >
 > Nuo tada žmonija sunkiai bendravo, konfliktų kilo be galo, o pasaulis nebematė dangų siekiančio bokšto.
 

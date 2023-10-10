@@ -12,9 +12,11 @@ Aku pengin ngomong yen **mung kanthi internasionalisasi kabeh situs, kita bisa n
 
 "Alkitab·Purwaning Dumadi":
 
-> Ing jaman kuna, nalika basa iku siji, manungsa lair bangga. Wong-wong mau padha ngupaya yasa gedhong sing dhuwur, menara sing ndemek langit.
+> Wong kuna ora mbedakake basa. Padha mbangun menara tekan langit kanggo tekan gapura Gusti Allah kanggo ningkataké prestise bangsa manungsa.
 >
-> Nanging, Ilahi, ora remen marang angkuh, njalari wong-wong padha buyar ing bumi, nggawe ilat ora bisa dingerteni siji liyane.
+> Gusti Allah ngendika manawa manungsa iku sawijining suku dhewe, kanthi budaya lan spesies sing padha. Mbangun menara mung minangka pambuka. Saiki sampeyan bisa ngrampungake apa wae sing dikarepake, lan sampeyan ora bakal wedi.
+>
+> Ida Sang Hyang Widi Wasa raris rauh tur nyirnayang bangsa sane wenten ring sajeroning panggenan.
 >
 > Wiwit saiki, manungsa berjuang kanggo komunikasi, konflik muncul tanpa henti, lan jagad ora weruh menara sing tekan langit.
 

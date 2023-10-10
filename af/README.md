@@ -12,9 +12,11 @@ Ek wil sê dat **ons slegs deur die hele webwerf te internasionalisering kan mee
 
 "Bybel · Genesis":
 
-> In antieke tye, toe taal een was, is die mensdom trots gebore. Hulle het probeer om 'n toring gebou, 'n toring wat aan die hemel geraak het, te bou.
+> Die ou mense het nie tussen tale onderskei nie. Hulle het torings gebou wat die lug bereik om die poort van God te bereik om die aansien van die mensdom te bevorder.
 >
-> Die Goddelike, ontevrede met hul arrogansie, het egter die mense oor die aarde laat verstrooi, wat hul tonge vir mekaar onverstaanbaar gemaak het.
+> Die God het gesê dat mense 'n stam van hul eie is, met dieselfde kultuur en spesie. Die bou van 'n toring is net 'n voorspel. Nou kan jy bereik wat jy wil, en jy sal niks hê om te vrees nie.
+>
+> Toe het God gekom en die mense op verskillende plekke verstrooi, nie in staat om mekaar te verstaan ​​nie.
 >
 > Van toe af het die mensdom gesukkel om te kommunikeer, konflikte het eindeloos ontstaan, en die wêreld het nie meer 'n toring gesien wat die lug bereik het nie.
 

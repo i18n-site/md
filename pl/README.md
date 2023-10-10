@@ -12,9 +12,11 @@ Chcę powiedzieć, że **tylko poprzez internacjonalizację całej witryny może
 
 „Biblia·Geneza”:
 
-> W starożytności, kiedy język był jeden, ludzkość rodziła się dumna. Chcieli wznieść potężną budowlę, wieżę sięgającą nieba.
+> Starożytni nie rozróżniali języków. Zbudowali wieże sięgające nieba, aby dotrzeć do bramy Boga, aby promować prestiż rodzaju ludzkiego.
 >
-> Jednak Bóg, niezadowolony z ich arogancji, spowodował, że ludzie rozproszyli się po ziemi, powodując, że ich języki stały się dla siebie niezrozumiałe.
+> Bóg powiedział, że ludzie są odrębnym plemieniem o tej samej kulturze i gatunku. Budowa wieży to tylko preludium. Teraz możesz osiągnąć, co chcesz, i nie będziesz miał się czego bać.
+>
+> Wtedy przyszedł Bóg i rozproszył ludzi po różnych miejscach, nie mogąc się porozumieć.
 >
 > Odtąd ludzkość miała trudności z komunikacją, konflikty narastały w nieskończoność, a świat nie widział już wieży sięgającej nieba.
 

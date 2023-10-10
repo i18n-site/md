@@ -12,9 +12,11 @@ Käbir adamlar soramak isläp bilerler, indi brauzerlerde içerki terjime funksi
 
 "Injil · Gelip çykyş":
 
-> Gadymy döwürde dil bir bolanda adamzat buýsanç bilen dünýä inipdir. Olar beýik binany, asmana degen diň gurmaga synanyşdylar.
+> Gadymylar dilleri tapawutlandyrmandyrlar. Adamzadyň abraýyny ýokarlandyrmak üçin Hudaýyň derwezesine ýetmek üçin asmana ýetýän diňler gurupdyrlar.
 >
-> Şeýle-de bolsa, tekepbirliklerinden göwnüne degen Taňry, adamlaryň ýer ýüzüne ýaýramagyna sebäp boldy we dillerini biri-birine düşünip bilmedi.
+> Hudaý adamlaryň öz medeniýeti we görnüşleri bilen bir taýpadygyny aýtdy. Minara gurmak diňe başlangyç. Indi islän zadyňyzy edip bilersiňiz, gorkjak zadyňyz bolmaz.
+>
+> Soňra Hudaý gelip, birek-birege düşünip bilmän adamlary dürli ýerlere dargatdy.
 >
 > Şondan bäri adamzat aragatnaşyk gurmak üçin göreşdi, gapma-garşylyklar tükeniksiz ýüze çykdy we dünýä asmana ýetýän diň görmedi.
 

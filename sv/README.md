@@ -12,9 +12,11 @@ Jag vill säga att **endast genom att internationalisera hela webbplatsen kan vi
 
 "Bibel · Genesis":
 
-> I forna tider, när språket var ett, föddes mänskligheten stolt. De försökte bygga en hög byggnad, ett torn som rörde vid himlen.
+> De gamla gjorde ingen skillnad på språk. De byggde torn som nådde himlen för att nå Guds port för att främja mänsklighetens prestige.
 >
-> Men den gudomliga, missnöjd med deras arrogans, fick människorna att sprida sig över jorden, vilket gjorde deras tungor oförståeliga för varandra.
+> Guden sa att människor är en egen stam, med samma kultur och art. Att bygga ett torn är bara ett förspel. Nu kan du åstadkomma vad du vill, och du har inget att frukta.
+>
+> Sedan kom Gud och skingrade folket på olika platser, oförmögna att förstå varandra.
 >
 > Från och med då kämpade mänskligheten för att kommunicera, konflikter uppstod oändligt och världen såg inte längre ett torn som nådde himlen.
 

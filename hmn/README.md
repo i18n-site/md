@@ -12,9 +12,11 @@ Kuv xav hais tias **tsuas yog los ntawm kev nthuav dav thoob ntiaj teb tag nrho 
 
 "Bible · Chiv Keeb":
 
-> Nyob rau hauv ancient sij hawm, thaum lus yog ib tug, tib neeg tau yug los txaus siab. Lawv nrhiav kev txhim kho ib lub tsev siab siab, ib tug pej thuam uas kov saum ntuj.
+> Cov ancients tsis paub qhov txawv ntawm cov lus. Lawv tsim cov pej thuam nce mus txog saum ntuj kom ncav cuag lub rooj vag ntawm Vajtswv los txhawb lub meej mom ntawm tib neeg.
 >
-> Txawm li cas los xij, tus Tswv, tsis txaus siab rau lawv txoj kev khav theeb, ua rau cov neeg tawg ri niab thoob plaws ntiaj teb, ua rau lawv tus nplaig tsis txawj ntse rau ib leeg.
+> Tswv Ntuj hais tias tib neeg yog ib haiv neeg ntawm lawv tus kheej, muaj tib kab lis kev cai thiab hom. Tsim ib tug pej thuam tsuas yog ua ntej xwb. Tam sim no koj tuaj yeem ua tiav txhua yam koj xav tau, thiab koj yuav tsis muaj dab tsi ntshai.
+>
+> Ces Vajtswv txawm los thiab ua kom cov neeg tawg ri niab mus rau ntau qhov chaw, tsis muaj kev sib nkag siab.
 >
 > Txij thaum ntawd los, noob neej tau tawm tsam kev sib txuas lus, kev tsis sib haum xeeb tshwm sim tas li, thiab lub ntiaj teb tsis pom ib tug pej thuam uas mus txog saum ntuj.
 

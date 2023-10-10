@@ -12,9 +12,11 @@ Povedati želim, da **samo z internacionalizacijo celotnega spletnega mesta lahk
 
 "Biblija · Geneza":
 
-> V starih časih, ko je bil jezik en sam, se je človeštvo rodilo ponosno. Prizadevali so si zgraditi visoko zgradbo, stolp, ki se je dotikal nebes.
+> Starodavni niso razlikovali med jeziki. Zgradili so stolpe, ki so segali do neba, da bi dosegli Božja vrata, da bi povečali ugled človeške rase.
 >
-> Vendar je Božansko, nezadovoljno z njihovo arogantnostjo, povzročilo, da so se ljudje razpršili po zemlji, tako da so njihovi jeziki drug drugemu postali nerazumljivi.
+> Bog je rekel, da smo ljudje svoje pleme, z isto kulturo in vrsto. Gradnja stolpa je le uvod. Zdaj lahko dosežete, kar želite, in ne boste se imeli česa bati.
+>
+> Potem je prišel Bog in ljudi razkropil na različne kraje, da se niso mogli razumeti.
 >
 > Od takrat naprej se je človeštvo trudilo komunicirati, neskončno so nastajali konflikti in svet ni več videl stolpa, ki bi segal do neba.
 

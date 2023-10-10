@@ -12,9 +12,11 @@ Saya ingin mengatakan bahawa **hanya dengan mengantarabangsakan keseluruhan tapa
 
 "Bible·Genesis":
 
-> Pada zaman dahulu, apabila bahasa adalah satu, manusia dilahirkan bangga. Mereka berusaha untuk membina sebuah bangunan yang menjulang tinggi, sebuah menara yang mencecah langit.
+> Orang dahulu tidak membezakan antara bahasa. Mereka membina menara-menara yang menjulang ke langit untuk sampai ke pintu gerbang Tuhan untuk mempromosikan martabat umat manusia.
 >
-> Namun, Ilahi, yang tidak senang dengan kesombongan mereka, menyebabkan manusia berselerak di seluruh bumi, menjadikan lidah mereka tidak dapat difahami antara satu sama lain.
+> Tuhan berkata bahawa manusia adalah suku mereka sendiri, dengan budaya dan spesies yang sama. Membina menara hanyalah mukadimah. Sekarang anda boleh mencapai apa sahaja yang anda mahu, dan anda tidak perlu takut.
+>
+> Kemudian Tuhan datang dan mencerai-beraikan manusia di berbagai tempat, tidak dapat memahami satu sama lain.
 >
 > Sejak itu, manusia bergelut untuk berkomunikasi, konflik timbul tanpa henti, dan dunia tidak melihat lagi menara yang mencapai langit.
 

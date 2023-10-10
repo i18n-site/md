@@ -12,9 +12,11 @@ Abdi hoyong disebutkeun yen **ngan ku internationalizing sakabéh situs urang ti
 
 "Alkitab·Kajadian":
 
-> Jaman baheula, nalika basa hiji, manusa lahir bangga. Aranjeunna narékahan pikeun ngawangun gedong anu luhur, munara anu nyabak langit.
+> Baheula mah teu ngabedakeun basa. Maranehna ngawangun munara nepi ka langit nepi ka gapura Allah pikeun ngamajukeun pamor umat manusa.
 >
-> Sanajan kitu, Ilahi, teu senang jeung sombong maranéhanana, ngabalukarkeun jalma paburencay ka sakuliah bumi, ngajadikeun létah maranéhanana teu kaharti hiji sarua séjén.
+> Gusti nyarios yén jalma-jalma mangrupikeun suku sorangan, sareng budaya sareng spésiés anu sami. Ngawangun munara téh ngan hiji prelude. Ayeuna anjeun tiasa ngalaksanakeun naon waé anu anjeun pikahoyong, sareng anjeun moal aya anu sieun.
+>
+> Lajeng Allah sumping sarta sumebar jalma di sagala rupa tempat, teu bisa ngarti silih.
 >
 > Ti harita, umat manusa berjuang pikeun komunikasi, konflik timbul endlessly, sarta dunya teu nempo hiji munara nu ngahontal langit.
 

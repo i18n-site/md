@@ -12,9 +12,11 @@ Tha mi airson a ràdh gur **ann dìreach le bhith ag eadar-nàiseantachadh an l�
 
 "Bìoball · Genesis":
 
-> Sna seann làithean, nuair a bha cànan mar aon, rugadh daonnachd moiteil. Dh’fheuch iad ri togalach àrd a thogail, tùr a bhean ris na nèamhan.
+> Cha do rinn na seanairean dealachadh eadar cànanan. Thog iad tùir a’ ruighinn na speuran gus geata Dhè a ruighinn gus cliù a’ chinne-daonna a bhrosnachadh.
 >
-> Ach, thug an Diadhachd, air a bhi di-thoileil air an àrdan- achd, air an t-sluagh sgapadh air feadh na talmhainn, a' deanamh an teanganna do-thuigsinn d'a chèile.
+> Thuirt an Dia gu bheil daoine nan treubh dhaibh fhèin, leis an aon chultar agus gnèithean. Chan eil ann an togail tùr ach ro-ràdh. A-nis faodaidh tu rud sam bith a tha thu ag iarraidh a choileanadh, agus cha bhith dad agad ri eagal.
+>
+> An sin thàinig Dia agus sgaoil e an sluagh ann an diofar àiteachan, gun chomas aca a chèile a thuigsinn.
 >
 > Bhon uairsin, bha duilgheadas aig mac an duine ri conaltradh, dh’ èirich còmhstri gun stad, agus chan fhaca an saoghal tuilleadh tùr a ràinig na speuran.
 

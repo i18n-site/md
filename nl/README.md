@@ -12,9 +12,11 @@ Ik wil zeggen dat **we alleen door de hele site te internationaliseren meertalig
 
 "Bijbel·Genesis":
 
-> In de oudheid, toen taal één was, werd de mensheid trots geboren. Ze probeerden een torenhoog gebouw te bouwen, een toren die tot aan de hemel reikte.
+> De Ouden maakten geen onderscheid tussen talen. Ze bouwden torens die tot aan de hemel reikten om de poort van God te bereiken en zo het prestige van het menselijk ras te bevorderen.
 >
-> Het Goddelijke echter, ontevreden over hun arrogantie, zorgde ervoor dat de mensen zich over de aarde verspreidden, waardoor hun tongen voor elkaar onbegrijpelijk werden.
+> De God zei dat mensen een eigen stam zijn, met dezelfde cultuur en soort. Het bouwen van een toren is slechts een opmaat. Nu kun je bereiken wat je wilt, en je hebt niets te vrezen.
+>
+> Toen kwam God en verspreidde de mensen over verschillende plaatsen, niet in staat elkaar te begrijpen.
 >
 > Vanaf dat moment had de mensheid moeite om te communiceren, ontstonden er eindeloos conflicten en zag de wereld geen toren meer die tot aan de hemel reikte.
 

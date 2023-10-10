@@ -12,9 +12,11 @@ Mi volas diri, ke **nur internaciigante la tutan retejon ni povas subteni plurli
 
 "Biblio · Genezo":
 
-> En antikvaj tempoj, kiam lingvo estis unu, la homaro naskiĝis fiera. Ili serĉis konstrui altegan konstruaĵon, turon kiu tuŝis la ĉielon.
+> La antikvuloj ne distingis inter lingvoj. Ili konstruis turojn atingantajn la ĉielon por atingi la pordegon de Dio por antaŭenigi la prestiĝon de la homa raso.
 >
-> Tamen, la Dia, malkontenta pri ilia aroganteco, igis la homojn disiĝi sur la tero, igante iliajn langojn nekompreneblaj unu al la alia.
+> La Dio diris, ke homoj estas propra tribo, kun la sama kulturo kaj specio. Konstrui turon estas nur preludo. Nun vi povas plenumi kion ajn vi volas, kaj vi havos nenion por timi.
+>
+> Tiam Dio venis kaj disigis la homojn en diversajn lokojn, ne povante kompreni unu la alian.
 >
 > De tiam la homaro luktis por komuniki, konfliktoj estiĝis senfine, kaj la mondo ne plu vidis turon, kiu atingis la ĉielon.
 

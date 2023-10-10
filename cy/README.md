@@ -12,9 +12,11 @@ Rwyf am ddweud mai **dim ond trwy ryngwladoli'r wefan gyfan y gallwn gefnogi chw
 
 "Beibl·Genesis":
 
-> Yn yr hen amser, pan oedd iaith yn un, ganwyd y ddynoliaeth yn falch. Ceisiasant adeiladu adeilad uchel, twr a gyffyrddai â'r nefoedd.
+> Nid oedd yr henuriaid yn gwahaniaethu rhwng ieithoedd. Adeiladasant dyrau yn cyrraedd yr awyr i gyrraedd porth Duw i hyrwyddo bri yr hil ddynol.
 >
-> Pa fodd bynag, darfu i'r Dwyfol, yn anfoddlawn i'w haerllugrwydd, beri i'r bobl wasgaru ar draws y ddaear, gan wneud eu tafodau yn annealladwy i'w gilydd.
+> Dywedodd y Duw fod pobl yn llwyth eu hunain, gyda'r un diwylliant a rhywogaethau. Rhagarweiniad yn unig yw adeiladu tŵr. Nawr gallwch chi gyflawni beth bynnag y dymunwch, ac ni fydd gennych unrhyw beth i'w ofni.
+>
+> Yna daeth Duw, a gwasgarodd y bobl mewn amrywiol leoedd, heb allu deall ei gilydd.
 >
 > O hynny ymlaen, roedd dynolryw yn ymdrechu i gyfathrebu, cododd gwrthdaro yn ddiddiwedd, ac ni welodd y byd mwyach dwr a gyrhaeddodd yr awyr.
 

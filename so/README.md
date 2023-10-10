@@ -12,9 +12,11 @@ Waxaan rabaa in aan sheego in **kaliya caalamiyeynta goobta oo dhan aan ku taage
 
 "Bible·Bilowgii":
 
-> Waagii hore oo afku mid ahaa, bini-aadmigu kibir buu ka dhashay. Waxay damceen inay dhisaan dhisme aad u dheer, oo ah munaarad samada taabatay.
+> Dadkii hore afafka ma kala saari jirin. Waxay dhiseen munaarado cirka gaadhay si ay albaabka Eebbe u gaadhaan si ay kor ugu qaadaan sharafta bini-aadmiga.
 >
-> Si kastaba ha ahaatee, Rabbaani oo ka cadhooday isla weynidooda, ayaa dadkii ku kala firdhiyey dhulka oo dhan, iyagoo carrabkoodiina ka dhigay kuwo aan midba midka kale garan karin.
+> Illahay wuxuu sheegay in dadku ay yihiin qabiil iyaga u gaar ah, isku dhaqan iyo isku nooc ah. Dhismaha munaaraddu waa horudhac. Hadda waxaad samayn kartaa wax kasta oo aad rabto, mana heli doontid wax aad ka cabsato.
+>
+> Dabadeed Ilaahay baa yimid oo dadkii meelo kala duwan ku kala firdhiyey, isma fahmin.
 >
 > Intaa wixii ka dambeeyay, bini’aadmigu waxa uu u halgami jiray is-gaadhsiinta, khilaafaadyo aan dhammaad lahayn ayaa ka dhashay, duniduna may arag daar cirka gaadhay.
 

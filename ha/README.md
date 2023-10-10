@@ -12,9 +12,11 @@ Ina so in faɗi cewa **ta hanyar ƙaddamar da duk rukunin yanar gizon kawai za m
 
 "Bible · Farawa":
 
-> A zamanin da, lokacin da harshe ya kasance ɗaya, an haifi ɗan adam girman kai. Sun nemi su gina wani katafaren gini, hasumiya wadda ta taɓa sama.
+> Magabata ba su bambanta tsakanin harsuna ba. Sun gina hasumiyai har zuwa sama don isa kofar Allah don daukaka darajar bil'adama.
 >
-> Duk da haka, Allahntaka, wanda bai ji daɗin girman kai ba, ya sa mutane suka watse a cikin ƙasa, suna sa harsunansu ba su fahimta ga juna.
+> Allah ya ce mutane ƙabila ce tasu, masu al’adu da jinsi ɗaya. Gina hasumiya shine kawai share fage. Yanzu za ku iya cika duk abin da kuke so, kuma ba za ku ji tsoro ba.
+>
+> Sai Allah ya zo ya warwatsa mutane a wurare daban-daban, sun kasa fahimtar juna.
 >
 > Tun daga nan ne ’yan Adam suka yi ta ta faman sadar da zumunci, rikici ya taso har abada, kuma duniya ba ta sake ganin hasumiya da ta kai sama ba.
 

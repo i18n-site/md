@@ -12,9 +12,11 @@ Azt akarom mondani, hogy **csak a teljes webhely nemzetközivé tételével tudj
 
 "Biblia · Genesis":
 
-> Az ókorban, amikor a nyelv egy volt, az emberiség büszkén született. Arra törekedtek, hogy egy tornyos építményt építsenek, egy tornyot, amely az eget érinti.
+> A régiek nem tettek különbséget a nyelvek között. Égbe érő tornyokat építettek, hogy elérjék Isten kapuját, hogy előmozdítsák az emberi faj tekintélyét.
 >
-> Az isteni azonban, elégedetlen gőgjükkel, arra késztette az embereket, hogy szétszóródjanak a földön, nyelvüket érthetetlenné téve egymás számára.
+> Isten azt mondta, hogy az emberek saját törzsük, azonos kultúrával és fajtával. A toronyépítés csak előjáték. Most bármit elérhet, amit csak akar, és nincs mitől félnie.
+>
+> Aztán jött Isten, és szétszórta az embereket különböző helyeken, nem tudták megérteni egymást.
 >
 > Ettől kezdve az emberiség küzdött a kommunikációért, a konfliktusok végtelenül alakultak ki, és a világ nem látott többé egy tornyot, amely elérte volna az eget.
 

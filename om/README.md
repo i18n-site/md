@@ -12,9 +12,11 @@ Ani akkan jechuu **barbaadu, guutummaa marsariitichaa idil-addunyaa gochuu qofaa
 
 "Macaafa Qulqulluu·Seera Uumamaa".:
 
-> Bara durii yeroo afaan tokko ture dhalli namaa boonsaan dhalate. Gamoo olkaʼaa, masaraa samii tuqu ijaaruuf yaalan.
+> Warri durii afaanota addaan hin baasan turan. Ulfina sanyii namaa guddisuuf karra Waaqayyoo ga’uuf masaraawwan samii ga’an ijaaran.
 >
-> Haa ta’u malee, Waaqni of tuulummaa isaaniitti waan hin gammanneef, ummanni lafa irratti akka faca’an taasisee, arrabni isaanii akka waliif hin hubatamne taasise.
+> Waaqni akka jedhetti namoonni gosa mataa isaanii, aadaa fi gosa tokko qaban. Masaraa ijaaruun seensa qofa. Amma waan barbaadde raawwachuu dandeessa, waan sodaattus hin qabaattu.
+>
+> Sana booda Waaqayyo dhufee ummata wal hubachuu dadhabee bakka adda addaatti facaase.
 >
 > Yeroo sanaa kaasee ilmi namaa wal qunnamuuf rakkachaa, waldhabdeen dhuma hin qabne ka’ee, addunyaan kana booda masaraa samii ga’u hin argine.
 

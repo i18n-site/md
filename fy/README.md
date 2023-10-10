@@ -12,9 +12,11 @@ Ik wol sizze dat **allinich troch ynternasjonalisearjen fan 'e heule side wy mea
 
 "Bibel · Genesis":
 
-> Yn âlde tiden, doe't taal ien wie, waard it minskdom grutsk berne. Se sochten in grut gebou te bouwen, in toer dy't de himel rekke.
+> De âlden makken gjin ûnderskied tusken talen. Se bouden tuorren dy't de himel berikke om de poarte fan God te berikken om it prestiizje fan it minsklik ras te befoarderjen.
 >
-> Lykwols, de godlike, ûntefreden mei harren arrogânsje, feroarsake de minsken ferspriede oer de ierde, rendering harren tongen ûnbegryplik foar inoar.
+> De God sei dat minsken in eigen stam binne, mei deselde kultuer en soarte. It bouwen fan in toer is mar in opmaat. No kinne jo berikke wat jo wolle, en do silst hawwe neat te bang.
+>
+> Doe kaam God en ferspriede de minsken op ferskate plakken, net yn steat om inoar te begripen.
 >
 > Fan doe ôf stride it minskdom om te kommunisearjen, konflikten ûntstiene einleaze, en de wrâld seach gjin toer mear dy't de loft berikte.
 

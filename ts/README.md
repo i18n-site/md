@@ -12,9 +12,11 @@ Ndzi lava ku vula leswaku **hi ku endla leswaku sayiti hinkwayo yi va ya matiko 
 
 "Bibele·Genesa".:
 
-> Eminkarhini ya khale, loko ririmi ri ri rin’we, vumunhu a byi velekiwa byi tikukumuxa. Va lave ku aka muako lowu tlakukeke, xihondzo lexi khumbaka matilo.
+> Vanhu va khale a va nga hambanisi tindzimi. Va ake swihondzo leswi fikaka empfhukeni leswaku va fika enyangweni ya Xikwembu leswaku va tlakusa ndhuma ya rixaka ra vanhu.
 >
-> Hambiswiritano, Vukwembu, lebyi a byi nga tsakeriwi hi ku tikukumuxa ka vona, byi endle leswaku vanhu va hangalaka emisaveni hinkwayo, va endla leswaku tindzimi ta vona ti nga twisiseki eka un’wana ni un’wana.
+> Xikwembu xi vule leswaku vanhu i rixaka ra vona, leri nga ni ndhavuko ni muxaka lowu fanaka. Ku aka xihondzo i xingheniso ntsena. Sweswi u nga hetisisa xin’wana ni xin’wana lexi u xi lavaka, naswona a wu nge vi na lexi u nga xi chavaka.
+>
+> Kutani Xikwembu xi ta xi hangalasa vanhu etindhawini to hambana-hambana, va nga swi koti ku twisisana.
 >
 > Ku sukela kwalaho, vanhu va lwile hi matimba ku vulavurisana, timholovo ti pfuke hi laha ku nga heriki naswona misava a yi nga ha voni xihondzo lexi fikaka ematilweni.
 

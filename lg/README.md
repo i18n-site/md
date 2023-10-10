@@ -12,9 +12,11 @@ Njagala okugamba nti **nga tufuula omukutu gwonna ogw’ensi yonna gwokka gwe tu
 
 "Baibuli·Olubereberye".:
 
-> Mu biseera eby’edda, olulimi bwe lwali lumu, obuntu bwazaalibwa nga bwa malala. Baafuba okuzimba ekizimbe ekiwanvu, omunaala ogwakwata ku ggulu.
+> Ab’edda tebaawulamu nnimi. Baazimba eminaala egyatuuka mu bbanga okutuuka ku mulyango gwa Katonda okutumbula ekitiibwa ky’olulyo lw’omuntu.
 >
-> Kyokka, Obwakatonda, olw’obutasanyuka olw’amalala gaabwe, yaleetera abantu okusaasaana mu nsi, n’afuula ennimi zaabwe obutategeerekeka eri bannaabwe.
+> Katonda yagamba nti abantu kika kyabwe, nga balina obuwangwa n’ekika kye kimu. Okuzimba omunaala kibeera kya kusooka. Kati osobola okutuukiriza kyonna ky’oyagala, era tojja kuba na kintu kyonna ky’otya.
+>
+> Awo Katonda n’ajja n’asaasaanya abantu mu bifo ebitali bimu, nga tebasobola kutegeeragana.
 >
 > Okuva olwo, abantu baalwanagana okuwuliziganya, enkaayana ne zijja nga tezikoma, era ensi teyaddamu kulaba munaala gwatuuka mu bbanga.
 

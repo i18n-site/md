@@ -12,9 +12,11 @@ Ke nyaka go bolela gore **ke feela ka go dira gore lefelo ka moka e be la bodit�
 
 "Beibele·Genesi".:
 
-> Mehleng ya bogologolo, ge polelo e be e le e tee, botho bo belegwe bo ikgantšha. Ba ile ba nyaka go aga moago o phagamego, e lego tora yeo e bego e kgoma magodimo.
+> Bagologolo ba be ba sa fapantšhe magareng ga maleme. Ba ile ba aga ditora tšeo di fihlago leratadimeng go fihla kgorong ya Modimo go godiša botumo bja moloko wa batho.
 >
-> Le ge go le bjalo, Bomodimo, ka go se thabele boikgogomošo bja bona, bo ile bja dira gore batho ba phatlalale lefaseng, a dira gore maleme a bona a se kwešišege go yo mongwe le yo mongwe.
+> Modimo o rile batho ke morafe wa bona, wa setšo le mehuta ye e swanago. Go aga tora e fo ba ketapele. Bjale o ka kgona go phethagatša selo le ge e le sefe seo o se nyakago, gomme o ka se be le selo seo o ka se boifago.
+>
+> Ke moka Modimo a tla a phatlalatša batho mafelong a go fapafapana, ba sa kgone go kwešišana.
 >
 > Go tloga ka nako yeo go ya pele, batho ba ile ba katana le go boledišana, dithulano tša tsoga ka mo go sa felego gomme lefase le se sa bona tora yeo e fihlago magodimong.
 

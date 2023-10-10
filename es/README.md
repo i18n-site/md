@@ -12,9 +12,11 @@ Quiero decir que **solo internacionalizando todo el sitio podremos admitir la b�
 
 "Biblia · Génesis":
 
-> En la antigüedad, cuando el idioma era uno, la humanidad nacía orgullosa. Buscaban construir un edificio imponente, una torre que tocara el cielo.
+> Los antiguos no distinguían entre lenguas. Construyeron torres que llegaban al cielo para llegar a la puerta de Dios y promover el prestigio de la raza humana.
 >
-> Sin embargo, la Divinidad, disgustada por su arrogancia, hizo que la gente se dispersara por la tierra, haciendo que sus lenguas fueran ininteligibles entre sí.
+> El Dios dijo que las personas son una tribu propia, con la misma cultura y especie. Construir una torre es sólo un preludio. Ahora podrás lograr lo que quieras y no tendrás nada que temer.
+>
+> Entonces vino Dios y dispersó al pueblo por distintos lugares, sin poder entenderse unos a otros.
 >
 > A partir de entonces, la humanidad luchó por comunicarse, surgieron conflictos sin fin y el mundo ya no vio una torre que alcanzara los cielos.
 

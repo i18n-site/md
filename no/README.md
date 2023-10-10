@@ -12,9 +12,11 @@ Jeg vil si at **bare ved å internasjonalisere hele nettstedet kan vi støtte fl
 
 "Bibel · Genesis":
 
-> I gamle tider, da språket var ett, ble menneskeheten født stolt. De forsøkte å bygge et ruvende byggverk, et tårn som rørte himmelen.
+> De gamle skilte ikke mellom språk. De bygde tårn som nådde himmelen for å nå Guds port for å fremme menneskehetens prestisje.
 >
-> Men det guddommelige, misfornøyd med deres arroganse, fikk folket til å spre seg over jorden, og gjorde tungene deres uforståelige for hverandre.
+> Gud sa at mennesker er en egen stamme, med samme kultur og art. Å bygge et tårn er bare et forspill. Nå kan du oppnå hva du vil, og du vil ikke ha noe å frykte.
+>
+> Så kom Gud og spredte folket på forskjellige steder, ute av stand til å forstå hverandre.
 >
 > Fra da av slet menneskeheten med å kommunisere, konflikter oppsto i det uendelige, og verden så ikke lenger et tårn som nådde himmelen.
 

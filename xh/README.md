@@ -12,9 +12,11 @@ Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase up
 
 "IBhayibhile · Genesis":
 
-> Mandulo, xa ulwimi lwalulunye, uluntu lwaluzalwa luzidla. Babefuna ukwakha isakhiwo esiphakamileyo, inqaba efikelela emazulwini.
+> Abantu bamandulo babengahluli phakathi kweelwimi. Bakha iinqaba ezifikelela esibhakabhakeni ukuze bafikelele esangweni likaThixo ukuze baphakamise inkangeleko yoluntu.
 >
-> Noko ke, uThixo, ecatshukiswe kukukhukhumala kwabo, wabangela ukuba abantu bachithachitheke emhlabeni, belunikela ulwimi lwabo ukuba lungaqondakali omnye komnye.
+> UThixo wathi abantu bazizizwe zabo, zinenkcubeko kunye nohlobo olufanayo. Ukwakha inqaba kusisandulela nje. Ngoku unokufezekisa nantoni na oyifunayo, kwaye awuyi kuba noloyiko.
+>
+> Weza uThixo, wabachithachitha abantu ezindaweni ngeendawo, ababa sacingana.
 >
 > Ukususela ngoko, uluntu lwatsala nzima ekunxibelelaneni, kwabakho ungquzulwano olungapheliyo, yaye ihlabathi alizange libe sabona inqaba efikelela esibhakabhakeni.
 

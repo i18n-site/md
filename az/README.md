@@ -12,9 +12,11 @@ Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə bi
 
 "İncil · Yaradılış":
 
-> Qədim dövrlərdə, dil bir olanda bəşəriyyət qürurla doğulmuşdu. Uca bir bina, göylərə toxunan bir qüllə tikməyə çalışdılar.
+> Qədimlər dillər arasında fərq qoymurlar. İnsan övladının nüfuzunu yüksəltmək üçün Allahın qapısına çatmaq üçün göyə çatan qüllələr tikdilər.
 >
-> Lakin İlahi onların təkəbbüründən narazı qalaraq, insanların dillərini bir-birləri üçün anlaşılmaz hala gətirərək yer üzünə səpələməyə səbəb oldu.
+> Tanrı deyirdi ki, insanlar eyni mədəniyyətə və cinsə malik olan öz qəbilələridir. Qüllə tikmək sadəcə bir müqəddimədir. İndi siz istədiyiniz hər şeyi edə bilərsiniz və qorxmağa heç bir şeyiniz olmayacaq.
+>
+> Sonra Allah gəlib insanları bir-birini başa düşə bilməyərək müxtəlif yerlərə səpələdi.
 >
 > Bundan sonra bəşəriyyət ünsiyyət qurmaq üçün mübarizə apardı, sonsuz münaqişələr yarandı və dünya daha səmaya çatan bir qüllə görmədi.
 

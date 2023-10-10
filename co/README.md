@@ -12,9 +12,11 @@ Vogliu dì chì **solu per l'internazionalizazione di u situ sanu pudemu sustene
 
 "Bibbia · Genesi":
 
-> In i tempi antichi, quandu a lingua era una, l'umanità hè nata fiera. Hanu cercatu di custruisce un edifiziu tower, una torra chì toccu u celu.
+> L'antichi ùn distinguevanu trà e lingue. Custruivanu turri chì ghjunghjenu à u celu per ghjunghje à a porta di Diu per prumove u prestigiu di a razza umana.
 >
-> Tuttavia, u Divinu, dispiaciutu cù a so arroganza, hà causatu a ghjente à sparghje nantu à a terra, rendendu a so lingua inintelligibile l'una à l'altru.
+> U Diu hà dettu chì e persone sò una tribù propria, cù a listessa cultura è spezie. Custruì una torre hè solu un preludiu. Avà pudete fà ciò chì vulete, è ùn averete nunda da teme.
+>
+> Allora Diu hè ghjuntu è hà spargugliatu a ghjente in parechji lochi, incapaci di capiscenu.
 >
 > Da tandu, l'umanità hà luttatu per cumunicà, i cunflitti sò ghjunti senza fine, è u mondu ùn hà più vistu una torre chì ghjunghje sin'à u celu.
 

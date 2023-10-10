@@ -12,9 +12,11 @@ Irrid ngħid li **biss billi ninternazzjonalizzaw is-sit kollu nistgħu nappoġ�
 
 "Bibbja·Ġenesi":
 
-> Fl-antik, meta l-lingwa kienet waħda, l-umanità twieldet kburi. Huma fittxew li jibnu bini għoli, torri li mess is-smewwiet.
+> Il-qedem ma kinux jiddistingwu bejn il-lingwi. Huma bnew torrijiet li jilħqu s-sema biex jilħqu l-bieb ta 'Alla biex jippromwovu l-prestiġju tar-razza umana.
 >
-> Madankollu, id-​Divin, li ma kienx kuntent bl-​arroganza tagħhom, wassal lin-​nies iferrxu madwar l-​art, u b’hekk ilsienu ma jinftiehemx lil xulxin.
+> Alla qal li n-nies huma tribù tagħhom stess, bl-istess kultura u speċi. Il-bini ta’ torri huwa biss preludju. Issa tista 'twettaq dak kollu li trid, u ma jkollok xejn minn xiex tibża'.
+>
+> Imbagħad Alla ġie u xerred lill-poplu f’diversi postijiet, ma setgħux jifhmu lil xulxin.
 >
 > Minn dak iż-żmien 'il quddiem, l-umanità tħabtu biex tikkomunika, il-kunflitti qamu bla tarf, u d-dinja ma ratx aktar torri li laħaq is-smewwiet.
 

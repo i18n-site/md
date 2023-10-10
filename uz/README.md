@@ -12,9 +12,11 @@ Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko'p tilli sa
 
 "Injil · Ibtido":
 
-> Qadim zamonlarda, til bir bo'lganida, insoniyat mag'rur tug'ilgan. Ular baland bino, osmonga tegib turadigan minora qurishga intilishdi.
+> Qadimgi odamlar tillarni farqlashmagan. Ular inson zotining obro'-e'tiborini oshirish uchun Xudoning darvozasiga etib borish uchun osmonga yetib boradigan minoralar qurdilar.
 >
-> Biroq ilohiy ularning takabburligidan norozi bo'lib, odamlarning tillarini bir-birlariga tushunarsiz qilib, yer yuziga tarqalib ketishlariga sabab bo'ldi.
+> Xudo odamlar bir xil madaniyat va turlarga ega bo'lgan o'ziga xos qabila ekanligini aytdi. Minora qurish - bu shunchaki muqaddima. Endi siz xohlagan narsani qilishingiz mumkin va sizda qo'rqadigan hech narsa bo'lmaydi.
+>
+> Keyin Xudo kelib, odamlarni bir-birini tushunolmay, turli joylarga tarqatib yubordi.
 >
 > O'shandan beri insoniyat muloqot qilish uchun kurashdi, to'xtovsiz to'qnashuvlar paydo bo'ldi va dunyo osmonga yetib boradigan minorani ko'rmadi.
 
