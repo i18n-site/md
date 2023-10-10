@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Mɔgɔ dɔw bɛ se k’a ɲininka, sisan, ikomi bamanankan baarakɛcogo dɔw bɛ navigatɔrɔw kɔnɔ, yala a man kan ka siti in kɛ diɲɛ kɔnɔ wa?
+Mɔgɔ dɔw bɛ se k’a ɲininka, ikomi bamanankan baarakɛcogo bɛ navigatɔrɔw bɛɛ la, yala a man kan ka siti in kɛ diɲɛ kɔnɔ wa?
 
-N b’a fɛ k’a fɔ ko **n’an ye siti bɛɛ kɛ diɲɛ kɔnɔ dɔrɔn, an bɛ se ka dɛmɛ don kan caman na yɔrɔ kɔnɔ sɛbɛnni dafalen ɲinini ni ɲininikɛlanw ɲɛnabɔli la** .
+N b’a fɛ k’a fɔ ko **siti minnu bɛ bamanankan baarakɛcogo jɔlenw dilan, olu dɔrɔn de bɛ se ka kan caman kɛ yɔrɔ kɔnɔ sɛbɛnni dafalen ɲinini ni ɲininikɛlanw ɲɛnabɔli dɛmɛ** .
 
 ## Daminɛ Kuma
 

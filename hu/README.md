@@ -4,9 +4,9 @@ A 3Ti.Site, egy statikus webhelygenerátor, képes automatikusan lefordítani a 
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Egyesek feltehetik a kérdést, hogy most, hogy a böngészőkben beépített fordítási funkciók vannak, szükségtelen-e nemzetközivé tenni a webhelyet?
+Egyesek azt kérdezhetik, hogy mivel minden böngészőben van fordítási funkció, szükségtelen-e nemzetközivé tenni a webhelyet?
 
-Azt akarom mondani, hogy **csak a teljes webhely nemzetközivé tételével tudjuk támogatni a többnyelvű webhelyen belüli teljes szöveges keresést és a keresőoptimalizálást** .
+Szeretném elmondani, hogy **csak a statikus fordításokat generáló webhelyek támogatják a többnyelvű, teljes szöveges keresést és a keresőoptimalizálást** .
 
 ## Bevezetés
 

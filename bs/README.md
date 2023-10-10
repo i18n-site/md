@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Neki ljudi će se možda pitati, sada kada pretraživači imaju ugrađene funkcije prevođenja, da li je nepotrebno internacionalizirati web stranicu?
+Neki ljudi mogu pitati, budući da svi pretraživači imaju funkcije prevođenja, da li je nepotrebno internacionalizirati web stranicu?
 
-Želim da kažem da **samo internacionalizacijom čitavog sajta možemo podržati višejezičnu pretragu celog teksta na sajtu i optimizaciju pretraživača** .
+Želio bih reći da **samo web stranice koje generiraju statičke prijevode mogu podržati višejezičnu pretragu cijelog teksta na stranici i optimizaciju tražilice** .
 
 ## Uvod
 

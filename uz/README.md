@@ -4,9 +4,9 @@ Statik sayt generatori bo&#39;lgan 3Ti.Site Markdownni avtomatik ravishda [yuzda
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ba'zi odamlar so'rashi mumkin, endi brauzerlarda o'rnatilgan tarjima funktsiyalari mavjud, veb-saytni xalqarolashtirish kerak emasmi?
+Ba'zi odamlar so'rashi mumkin, chunki barcha brauzerlarda tarjima funksiyalari mavjud, veb-saytni xalqarolashtirish kerak emasmi?
 
-Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko'p tilli sayt ichidagi to'liq matnli qidiruv va qidiruv tizimini optimallashtirishni qo'llab-quvvatlashimiz mumkin** .
+Aytmoqchimanki **, faqat statik tarjimalarni yaratadigan veb-saytlar ko&#39;p tilli sayt ichidagi to&#39;liq matnli qidiruv va qidiruv tizimini optimallashtirishni qo&#39;llab-quvvatlashi mumkin** .
 
 ## Kirish
 

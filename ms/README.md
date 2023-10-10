@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Sesetengah orang mungkin bertanya, sekarang bahawa pelayar mempunyai fungsi terjemahan terbina dalam, adakah ia tidak perlu untuk mengantarabangsakan tapak web?
+Sesetengah orang mungkin bertanya, memandangkan semua penyemak imbas mempunyai fungsi terjemahan, adakah tidak perlu untuk mengantarabangsakan tapak web?
 
-Saya ingin mengatakan bahawa **hanya dengan mengantarabangsakan keseluruhan tapak kami boleh menyokong carian teks penuh dalam tapak berbilang bahasa dan pengoptimuman enjin carian** .
+Saya ingin mengatakan bahawa **hanya tapak web yang menjana terjemahan statik boleh menyokong carian teks penuh dalam tapak berbilang bahasa dan pengoptimuman enjin carian** .
 
 ## Pengenalan
 

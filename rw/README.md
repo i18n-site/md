@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byo guhindura, ntibikenewe kumenyekanisha urubuga mpuzamahanga?
+Abantu bamwe barashobora kubaza, kubera ko mushakisha zose zifite imikorere yubuhinduzi, ntibikenewe kumenyekanisha urubuga?
 
-Ndashaka kuvuga ko **muguhindura amahanga kurubuga rwose dushobora gushyigikira indimi nyinshi murubuga rwuzuye-gushakisha no gushakisha moteri ishakisha** .
+Ndashaka kuvuga ko **imbuga zonyine zitanga ibisobanuro bihamye zishobora gushyigikira indimi nyinshi murubuga rwuzuye-rwanditse hamwe na moteri ishakisha** .
 
 ## Intangiriro
 

@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Qualchidunu pò dumandà, avà chì i navigatori anu una funzione di traduzzione integrata, ùn hè micca necessariu d'internazionalizà u situ web?
+Qualchidunu pò dumandà, postu chì tutti i navigatori anu funzioni di traduzzione, ùn hè micca necessariu d'internazionalizà u situ web?
 
-Vogliu dì chì **solu per l'internazionalizazione di u situ sanu pudemu sustene a ricerca multilingue in-situ in u testu pienu è l'optimizazione di u mutore di ricerca** .
+Vogliu dì chì **solu i siti web chì generanu traduzzioni statiche ponu supportà a ricerca multilingue in u situ full-text è l&#39;optimizazione di u mutore di ricerca** .
 
 ## Introduzione
 

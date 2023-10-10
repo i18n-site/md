@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Niektorí ľudia sa môžu pýtať, keď teraz prehliadače majú vstavané funkcie prekladu, je zbytočné internacionalizovať webovú stránku?
+Niektorí ľudia sa môžu pýtať, keďže všetky prehliadače majú funkcie prekladu, je zbytočné internacionalizovať webovú stránku?
 
-Chcem povedať, že **iba internacionalizáciou celej stránky môžeme podporiť viacjazyčné fulltextové vyhľadávanie na stránke a optimalizáciu pre vyhľadávače** .
+Chcel by som povedať, že **iba webové stránky, ktoré generujú statické preklady, môžu podporovať viacjazyčné fulltextové vyhľadávanie a optimalizáciu pre vyhľadávače** .
 
 ## Úvod
 

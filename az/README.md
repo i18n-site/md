@@ -4,9 +4,9 @@ Statik sayt generatoru olan 3Ti.Site Markdown-u avtomatik olaraq [yüzdən çox 
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Bəzi insanlar soruşa bilər ki, indi brauzerlərdə daxili tərcümə funksiyaları var, veb-saytı beynəlxalqləşdirməyə ehtiyac yoxdur?
+Bəzi insanlar soruşa bilər, çünki bütün brauzerlərdə tərcümə funksiyaları var, vebsaytı beynəlxalqləşdirmək lazım deyilmi?
 
-Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə biz çoxdilli saytdaxili tam mətn axtarışını və axtarış sisteminin optimallaşdırılmasını dəstəkləyə bilərik** .
+Demək istərdim ki **, yalnız statik tərcümələr yaradan veb-saytlar çoxdilli saytdaxili tam mətn axtarışını və axtarış sisteminin optimallaşdırılmasını dəstəkləyə bilər** .
 
 ## Giriş
 

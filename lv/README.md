@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Daži cilvēki var jautāt, vai tagad, kad pārlūkprogrammās ir iebūvētas tulkošanas funkcijas, nav nepieciešams internacionalizēt vietni?
+Daži cilvēki var jautāt, jo visām pārlūkprogrammām ir tulkošanas funkcijas, vai nav nepieciešams internacionalizēt vietni?
 
-Es gribu teikt, ka **tikai internacionalizējot visu vietni, mēs varam atbalstīt daudzvalodu vietnes pilna teksta meklēšanu un meklētājprogrammu optimizāciju** .
+Es vēlos teikt, ka **tikai vietnes, kas ģenerē statiskus tulkojumus, var atbalstīt daudzvalodu pilna teksta meklēšanu vietnē un meklētājprogrammu optimizāciju** .
 
 ## Ievads
 

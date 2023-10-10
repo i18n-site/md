@@ -4,9 +4,9 @@ O le 3Ti.Site, o se faʻaputuga o nofoaga faʻapitoa, e mafai ona faʻaliliuina 
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Atonu e fesili nisi tagata, i le taimi nei o loʻo i ai i tagata suʻesuʻe galuega faʻaliliu, e le manaʻomia ea le faʻavaomaloina o le upega tafaʻilagi?
+Atonu e fesili nisi tagata, talu ai o tagata suʻesuʻe uma e iai galuega faʻaliliu, e le manaʻomia ea le faʻavaomaloina o le upega tafaʻilagi?
 
-Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e mafai ai ona matou lagolagoina le tele-gagana i totonu o le upega tafaʻilagi suʻesuʻega atoa ma suʻesuʻega afi suʻesuʻe** .
+Ou te fia fai atu **e na&#39;o upegatafa&#39;ilagi e fa&#39;atupu fa&#39;aliliuga fa&#39;amautu e mafai ona lagolagoina le tele o gagana i totonu o le &#39;upega tafa&#39;ilagi su&#39;esu&#39;ega atoa ma su&#39;esu&#39;ega masini su&#39;esu&#39;e** .
 
 ## Folasaga
 

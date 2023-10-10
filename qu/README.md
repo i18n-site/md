@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Wakin runakuna tapunkuman, kunan navegadores tikray ruwanakuna ruwasqa kaptin, ¿mana necesariochu web kitita internacionalización ruway?
+Wakin runakuna tapunkuman, llapa navegadorkuna tikray ruwanakunayuq kasqankurayku, ¿mana necesariochu web kitita internacionalización ruway?
 
-Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka simiyuq sitiopi hunt'asqa qillqa maskana chaymanta maskana motor allinchay** .
+Niyta munani **, web kitikunalla tikraykunata ruwaqkunalla yanapayta atinku achka simipi sitio ukhupi hunt&#39;asqa qillqa maskana chaymanta maskanakuna allinchayta** .
 
 ## Qallariy
 

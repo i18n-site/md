@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Nekateri se lahko vprašajo, ali je zdaj, ko imajo brskalniki vgrajene prevajalske funkcije, spletno mesto nepotrebno internacionalizirati?
+Nekateri se bodo morda vprašali, ali je internacionalizacija spletnega mesta nepotrebna, ker imajo vsi brskalniki prevajalske funkcije?
 
-Povedati želim, da **samo z internacionalizacijo celotnega spletnega mesta lahko podpiramo večjezično iskanje po celotnem besedilu in optimizacijo iskalnikov** .
+Rad bi povedal, da **lahko le spletna mesta, ki ustvarjajo statične prevode, podpirajo večjezično iskanje po celotnem besedilu in optimizacijo iskalnikov** .
 
 ## Uvod
 

@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Disa njerëz mund të pyesin, tani që shfletuesit kanë funksione të integruara përkthimi, a është e panevojshme ndërkombëtarizimi i faqes në internet?
+Disa njerëz mund të pyesin, pasi të gjithë shfletuesit kanë funksione përkthimi, a është e panevojshme ndërkombëtarizimi i faqes së internetit?
 
-Dua të them se **vetëm duke ndërkombëtarizuar të gjithë sajtin mund të mbështesim kërkimin me tekst të plotë në faqe shumëgjuhëshe dhe optimizimin e motorëve të kërkimit** .
+Unë do të doja të them se **vetëm faqet e internetit që gjenerojnë përkthime statike mund të mbështesin kërkimin me tekst të plotë në faqe shumëgjuhëshe dhe optimizimin e motorit të kërkimit** .
 
 ## Prezantimi
 

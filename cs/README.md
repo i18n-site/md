@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Někteří lidé se mohou ptát, když nyní prohlížeče mají vestavěné funkce překladu, je zbytečné internacionalizovat web?
+Někteří lidé se mohou ptát, protože všechny prohlížeče mají funkce překladu, je zbytečné internacionalizovat web?
 
-Chci říci, že **pouze internacionalizací celého webu můžeme podpořit vícejazyčné fulltextové vyhledávání na webu a optimalizaci pro vyhledávače** .
+Chtěl bych říci, že **pouze webové stránky, které generují statické překlady, mohou podporovat vícejazyčné fulltextové vyhledávání na webu a optimalizaci pro vyhledávače** .
 
 ## Úvod
 

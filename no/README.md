@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Noen spør kanskje, nå som nettlesere har innebygde oversettelsesfunksjoner, er det unødvendig å internasjonalisere nettstedet?
+Noen vil kanskje spørre, siden alle nettlesere har oversettelsesfunksjoner, er det unødvendig å internasjonalisere nettstedet?
 
-Jeg vil si at **bare ved å internasjonalisere hele nettstedet kan vi støtte flerspråklige fulltekstsøk på stedet og søkemotoroptimalisering .**
+Jeg vil gjerne si at **bare nettsteder som genererer statiske oversettelser kan støtte flerspråklig fulltekstsøk på stedet og søkemotoroptimalisering .**
 
 ## Introduksjon
 

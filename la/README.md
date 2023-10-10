@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Nonnulli interrogare possunt, nunc navigatores in functionibus translationibus aedificaverunt, numquid necesse est interretialem locum facere?
+Nonnulli rogant, cum omnes navigatores functiones translationis habeant, necessene est interretialem paginam internationalem facere?
 
-**Dicere volo solum by internationalising the whole site can we support multi-lingual in-site full-text search and search engine optimization** .
+Vellem dicere **tantum paginas quae static translationes generare possunt, multilinguale in-site in-site quaerere et quaerere machinam optimizationem plenam-textu sustinere** .
 
 ## Introductio
 

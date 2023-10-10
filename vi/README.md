@@ -4,21 +4,21 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Có thể một số người sẽ thắc mắc, hiện nay trình duyệt đã tích hợp sẵn chức năng dịch thuật, liệu có cần thiết phải quốc tế hóa website hay không?
+Một số người có thể hỏi, vì tất cả các trình duyệt đều có chức năng dịch thuật nên có cần thiết phải quốc tế hóa trang web không?
 
-Tôi muốn nói rằng **chỉ bằng cách quốc tế hóa toàn bộ trang web, chúng tôi mới có thể hỗ trợ tìm kiếm toàn văn bản đa ngôn ngữ tại chỗ và tối ưu hóa công cụ tìm kiếm** .
+Tôi muốn nói rằng **chỉ những trang web tạo bản dịch tĩnh mới có thể hỗ trợ tìm kiếm toàn văn bản đa ngôn ngữ tại chỗ và tối ưu hóa công cụ tìm kiếm** .
 
 ## Giới Thiệu
 
 Kinh thánh · Sáng thế ký :
 
-> Người xưa, không phân biệt ngôn ngữ, đã xây dựng những tòa tháp vươn tới trời, chạm tới cửa Trời, đề cao uy tín của loài người.
+> Vào thời cổ đại, khi các ngôn ngữ còn là một, loài người đã xây dựng một tòa tháp cao tới tận trời, cánh cổng dẫn đến lãnh địa của Chúa, tuyên bố sức mạnh của loài người.
 >
-> Thần nói rằng con người là một bộ tộc riêng, có cùng một nền văn hóa và chủng tộc, việc xây dựng tòa tháp chỉ là màn dạo đầu, bây giờ bạn có thể thực hiện bất cứ điều gì bạn muốn và bạn sẽ không có gì phải sợ hãi.
+> Chúa tuyên bố, "Con người đoàn kết thành một bộ tộc, có chung một ngôn ngữ, và tòa tháp này chỉ là lời mở đầu. Bây giờ họ đã đạt được mong muốn của mình và sẽ không còn sợ hãi nữa."
 >
-> Sau đó, Chúa đến và phân tán mọi người ở nhiều nơi, không thể hiểu nhau.
+> Vì vậy, Chúa giáng trần, phân tán con người đến các ngóc ngách khác nhau, sử dụng các ngôn ngữ khác nhau.
 >
-> Kể từ đó, con người khó liên lạc, tranh chấp vẫn tiếp diễn và trên thế giới không có Tháp Babel.
+> Từ đó trở đi, việc giao tiếp của con người trở nên khó khăn, tranh chấp bất tận, và không còn một tòa tháp nào chạm tới trời nữa.
 
 Tiểu thuyết khoa học viễn tưởng &quot;Three-Body&quot; (phát âm tiếng Trung: `3Ti` ) hư cấu về một nền văn minh ngoài hành tinh giao tiếp qua sóng điện từ, không có rào cản ngôn ngữ và thịnh vượng về mặt công nghệ.
 
@@ -28,7 +28,7 @@ Tôi hy vọng có thể tạo ra một công cụ có thể giúp con người 
 
 ## Giới Thiệu Chức Năng
 
-### Giữ Định Dạng Markdown
+### Giữ Định Dạng Đánh Dấu
 
 ### Sửa Đổi Bản Dịch
 

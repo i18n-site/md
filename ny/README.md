@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Anthu ena angafunse, popeza asakatuli ali ndi ntchito zomasulira, kodi sikofunikira kuti tsambalo likhale lapadziko lonse lapansi?
+Anthu ena angafunse, popeza asakatuli onse ali ndi ntchito zomasulira, kodi sikofunikira kuyika webusayiti padziko lonse lapansi?
 
-Ndikufuna kunena kuti **popanga tsamba lonselo kuti tithandizire kusaka ndi kukhathamiritsa kwa injini zosaka ndi zilankhulo zambiri m'masamba** .
+Ndikufuna kunena kuti **mawebusayiti okhawo omwe amamasulira mawu osasunthika atha kuthandizira kusaka ndikusaka ndikusaka bwino m&#39;zinenero zambiri** .
 
 ## Mawu Oyamba
 

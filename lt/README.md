@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Kai kurie žmonės gali paklausti, ar dabar, kai naršyklėse yra įmontuotos vertimo funkcijos, nereikia internacionalizuoti svetainės?
+Kai kurie žmonės gali paklausti, ar visos naršyklės turi vertimo funkcijas, ar nereikia internacionalizuoti svetainės?
 
-Noriu pasakyti, kad **tik internacionalizuodami visą svetainę galime palaikyti daugiakalbę viso teksto paiešką svetainėje ir paieškos variklio optimizavimą** .
+Norėčiau pasakyti, kad **tik statinius vertimus generuojančios svetainės gali palaikyti daugiakalbę viso teksto paiešką ir optimizavimą paieškos sistemoms** .
 
 ## Įvadas
 

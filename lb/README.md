@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-E puer Leit kënne froen, elo datt Browser agebaute Iwwersetzungsfunktiounen hunn, ass et onnéideg fir d'Websäit ze internationaliséieren?
+E puer Leit kënne froen, well all Browser Iwwersetzungsfunktiounen hunn, ass et onnéideg fir d'Websäit ze internationaliséieren?
 
-Ech wëll soen datt **nëmmen duerch d'Internationaliséierung vum ganze Site kënne mir méisproocheg In-Site Volltext Sich a Sichmotoroptimiséierung ënnerstëtzen** .
+Ech géif gären soen datt **nëmmen Websäiten déi statesch Iwwersetzunge generéiere kënnen eng méisproocheg In-Site Volltext Sich a Sichmotoroptimiséierung ënnerstëtzen** .
 
 ## Aféierung
 

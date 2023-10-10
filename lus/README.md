@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Mi thenkhat chuan an zawt mai thei, tunah chuan browser-ah hian built-in translation functions a awm tawh a, website hi internationalize a ngai tawh lo em ni?
+Mi thenkhat chuan browser zawng zawng hian translation function an neih vek avangin website hi internationalise a ngai lo em ni tih an zawt mai thei.
 
-Ka sawi duh chu **site pumpui internationalise chauhvin multi-lingual in-site full-text search leh search engine optimization kan support thei ang**
+Ka sawi duh chu **, static translation siamtu website chauh hian multilingual in-site full-text search leh search engine optimization a support thei a ni** .
 
 ## Inhmelhriattirna
 

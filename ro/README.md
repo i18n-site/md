@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Unii oameni ar putea întreba, acum că browserele au funcții de traducere încorporate, nu este necesară internaționalizarea site-ului?
+Unii oameni ar putea întreba, deoarece toate browserele au funcții de traducere, nu este necesară internaționalizarea site-ului?
 
-Vreau să spun că **numai prin internaționalizarea întregului site putem susține căutarea în text integral în mai multe limbi și optimizarea motoarelor de căutare** .
+Aș dori să spun că **numai site-urile web care generează traduceri statice pot accepta căutarea multilingvă pe site și optimizarea motoarelor de căutare** .
 
 ## Introducere
 

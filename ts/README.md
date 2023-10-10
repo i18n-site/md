@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Vanhu van’wana va nga ha vutisa, sweswi leswi ti- browser ti nga ni mintirho yo hundzuluxela leyi akiweke endzeni, xana a swi bohi ku endla leswaku webusayiti yi va ya matiko hinkwawo?
+Vanhu van’wana va nga ha vutisa, tanihi leswi ti- browser hinkwato ti nga ni mintirho yo hundzuluxela, xana a swi bohi ku endla leswaku webusayiti yi va ya matiko hinkwawo?
 
-Ndzi lava ku vula leswaku **hi ku endla leswaku sayiti hinkwayo yi va ya matiko hinkwawo ntsena laha hi nga seketelaka ku lavisisa matsalwa hinkwawo ya le ndzeni ka sayiti ya tindzimi to tala ni ku antswisiwa ka njhini yo lavisisa** .
+Ndzi lava ku vula leswaku **i tiwebsite ntsena leti humesaka vuhundzuluxeri lebyi nga cinciki leti nga seketelaka ku lavisisa matsalwa hinkwawo ya tindzimi to tala endzeni ka sayiti ni ku antswisiwa ka njhini yo lavisisa** .
 
 ## Manghenelo
 

@@ -4,9 +4,9 @@ Statik saýt generatory 3Ti.Site, Markdown-dan [ýüzden gowrak dürli dile](htt
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Käbir adamlar sorap bilerler, indi brauzerlerde içerki terjime funksiýalary bar, web sahypasyny halkaralaşdyrmak zerur dälmi?
+Käbir adamlar sorap bilerler, ähli brauzerlerde terjime funksiýalary bar, web sahypasyny halkaralaşdyrmak zerur dälmi?
 
-**Diňe tutuş sahypany halkaralaşdyrmak arkaly köp dilli saýtda doly tekstli gözleg we gözleg motory optimizasiýasyny goldap boljakdygyny** aýtmak isleýärin.
+**Diňe statiki terjimeleri döredýän web sahypalary, köp dilli saýtda doly tekst gözlegini we gözleg motory optimizasiýasyny goldap biljekdigini** aýtmak isleýärin.
 
 ## Giriş
 

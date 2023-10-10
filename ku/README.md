@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Dibe ku hin kes bipirsin, naha ku gerok xwedî fonksiyonên werger-vekirî ne, gelo ne hewce ye ku malperê navneteweyî bikin?
+Dibe ku hin kes bipirsin, ji ber ku hemî gerok xwedî fonksiyonên wergerê ne, gelo ne hewce ye ku malperê navneteweyî bikin?
 
-Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikarin di nav-malperê de pirzimanî-lêgerîna tev-tekst û xweşbîniya motora lêgerînê piştgirî bikin** .
+Ez dixwazim bibêjim ku **tenê malperên ku wergerên statîk çêdikin dikarin pirzimanî li malper-tev-nivîsa lêgerîn û xweşbîniya motora lêgerînê piştgirî bikin** .
 
 ## Pêşkêş
 

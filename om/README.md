@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Namoonni tokko tokko gaafachuu danda’u, amma biraawzaroonni dalagaalee hiikkaa of keessaa qaban, marsariiticha idil-addunyaa gochuun hin barbaachisuu?
+Namoonni tokko tokko, biraawzaroonni hundi hojii hiikkaa waan qabaniif, marsariiticha idil-addunyaa gochuun hin barbaachisuu?
 
-Ani akkan jechuu **barbaadu, guutummaa marsariitichaa idil-addunyaa gochuu qofaan afaanota hedduu in-site full-text search fi search engine optimization** .
+Ani akkan jedhutti **marsariitiiwwan hiikkaa hin jijjiiramne maddisiisan qofatu afaanota hedduu in-site full-text search fi search engine optimization** .
 
 ## Seensa
 

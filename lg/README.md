@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Abantu abamu bayinza okwebuuza, kati nga browsers zirina emirimu gy’okuvvuunula egyazimbibwamu, tekyetaagisa kufuula mukutu guno ogw’ensi yonna?
+Abantu abamu bayinza okwebuuza nti, okuva bwe kiri nti browser zonna zirina emirimu gy’okuvvuunula, tekyetaagisa kufuula mukutu guno ogw’ensi yonna?
 
-Njagala okugamba nti **nga tufuula omukutu gwonna ogw’ensi yonna gwokka gwe tusobola okuwagira okunoonya ebiwandiiko ebijjuvu mu mukutu mu nnimi nnyingi n’okulongoosa enkola y’okunoonya** .
+Njagala okugamba nti **emikutu gyokka egikola enkyusa ezitakyukakyuka gye gisobola okuwagira okunoonya ebiwandiiko ebijjuvu mu mikutu egy’ennimi nnyingi n’okulongoosa enkola y’okunoonya** .
 
 ## Okwanjula
 

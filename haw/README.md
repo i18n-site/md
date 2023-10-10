@@ -4,9 +4,9 @@ Hiki i ka 3Ti.Site, kahi mea hoʻokumu pūnaewele paʻa, ke unuhi &#39;akomi iā
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Nīnau paha kekahi poʻe, i kēia manawa ua loaʻa i nā mākaʻikaʻi nā hana unuhi i loko, ʻaʻole pono anei ka hoʻolaha ʻana i ka pūnaewele?
+Nīnau paha kekahi poʻe, no ka mea he mau hana unuhi nā mea huli a pau, ʻaʻole pono anei ka hoʻolaha ʻana i ka pūnaewele puni honua?
 
-Makemake au e ʻōlelo **ma ka hoʻolaha ʻana i ka pūnaewele holoʻokoʻa e hiki ai iā mākou ke kākoʻo i nā ʻōlelo he nui i loko o ka pūnaewele i ka ʻimi kikokikona piha a me ka ʻenekini huli** .
+Makemake au e ʻōlelo ʻo **nā pūnaewele wale nō e hoʻopuka ana i nā unuhi paʻa e hiki ke kākoʻo i ka ʻimi kikokikona piha i loko o ka paena a me ka loiloi ʻenekini huli** .
 
 ## Hoʻolauna
 

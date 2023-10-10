@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Dadka qaar ayaa laga yaabaa inay weydiiyaan, hadda daalacayaashu waxay leeyihiin hawlo tarjumaad ah, miyayna loo baahnayn in la caalamiyeeyo mareegaha?
+Dadka qaar ayaa laga yaabaa inay weydiiyaan, maadaama dhammaan daalacayaashu leeyihiin shaqooyin tarjumaad, miyayna loo baahnayn in la caalamiyeeyo mareegaha?
 
-Waxaan rabaa in aan sheego in **kaliya caalamiyeynta goobta oo dhan aan ku taageeri karno raadinta qoraalka buuxa ee luqadaha badan ee goobta iyo hagaajinta mashiinka raadinta** .
+Waxaan jeclaan lahaa inaan sheego in **shabakadaha soo saara tarjumaadaha taagan ay taageeri karaan raadinta qoraalka buuxa ee goobta ku qoran luuqadaha badan iyo hagaajinta mashiinka raadinta** .
 
 ## Hordhac
 

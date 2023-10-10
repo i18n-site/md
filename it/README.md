@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Alcune persone potrebbero chiedersi, ora che i browser hanno funzioni di traduzione integrate, non è più necessario internazionalizzare il sito web?
+Alcuni potrebbero chiedersi, dal momento che tutti i browser hanno funzioni di traduzione, non è necessario internazionalizzare il sito web?
 
-Voglio dire che **solo internazionalizzando l'intero sito possiamo supportare la ricerca full-text multilingue nel sito e l'ottimizzazione dei motori di ricerca** .
+Vorrei dire che **solo i siti Web che generano traduzioni statiche possono supportare la ricerca multilingue del testo completo nel sito e l&#39;ottimizzazione dei motori di ricerca** .
 
 ## Introduzione
 

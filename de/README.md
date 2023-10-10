@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Einige Leute fragen sich vielleicht: Ist es nicht mehr notwendig, die Website zu internationalisieren, da Browser über integrierte Übersetzungsfunktionen verfügen?
+Einige Leute fragen sich vielleicht, ob es unnötig ist, die Website zu internationalisieren, da alle Browser über Übersetzungsfunktionen verfügen.
 
-Ich möchte sagen, dass **wir nur durch die Internationalisierung der gesamten Website die mehrsprachige In-Site-Volltextsuche und Suchmaschinenoptimierung unterstützen können** .
+Ich möchte sagen, dass **nur Websites, die statische Übersetzungen generieren, die mehrsprachige In-Site-Volltextsuche und Suchmaschinenoptimierung unterstützen können** .
 
 ## Einführung
 

@@ -4,9 +4,9 @@ Ka taea e 3Ti.Site, he kaihanga pae pateko, te whakamaori aunoa i a Markdown ki 
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ka patai pea etahi, i te mea kua whakauruhia e nga kaitirotiro nga mahi whakamaori, kaore ranei e tika kia whakawhitia te paetukutuku ki te ao?
+Ka patai pea etahi, i te mea he mahi whakamaoritanga nga kaitirotiro katoa, he koretake ranei te whakaputa i te paetukutuku ki te ao?
 
-E hiahia ana ahau ki te kii **ma te panui i te pae katoa ka taea e tatou te tautoko i nga reo maha i roto i te pae ki te rapu kupu-katoa me te arotautanga miihini rapu** .
+E hiahia ana ahau ki te kii ko **nga paetukutuku anake e whakaputa ana i nga whakamaoritanga pateko ka taea te tautoko i te rapu kupu-katoa i roto i te papaanga me te arotautanga miihini rapu** .
 
 ## Kupu Whakataki
 

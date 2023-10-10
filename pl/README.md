@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Niektórzy mogą zapytać, czy teraz, gdy przeglądarki mają wbudowane funkcje tłumaczenia, nie jest konieczne umiędzynarodowienie witryny?
+Niektórzy mogą zapytać, czy skoro wszystkie przeglądarki mają funkcje tłumaczenia, nie jest konieczne umiędzynarodowienie witryny?
 
-Chcę powiedzieć, że **tylko poprzez internacjonalizację całej witryny możemy wspierać wielojęzyczne wyszukiwanie pełnotekstowe w witrynie i optymalizację wyszukiwarek** .
+Chciałbym powiedzieć, że **tylko witryny generujące tłumaczenia statyczne mogą obsługiwać wielojęzyczne wyszukiwanie pełnotekstowe w witrynie i optymalizację wyszukiwarek** .
 
 ## Wstęp
 

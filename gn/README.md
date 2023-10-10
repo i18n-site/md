@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Oĩ tapicha ikatu oporandúva, ko’áĝa umi navegador oguerekóma función de traducción incorporada, natekotevẽipa oñeinternacionalisa pe página web?
+Oĩ tapicha ikatu oporandúva, opaite navegador oguerekógui función de traducción, natekotevẽipa oñeinternacionalisa pe página web?
 
-Aipota **ha’e pe internacionalización rupive añoite pe sitio tuichakue ikatuha ñaipytyvõ heta ñe’ẽme pe sitio-pe jeheka jeheka pukukue ha motor de búsqueda optimización** .
+Aipota **ha’e umi ñanduti renda omoheñóiva ñe’ẽasa estática añoite ikatuha oipytyvõ jeheka heta ñe’ẽme jeporeka jehaipyre pukukue ha motor de búsqueda jeheka heta ñe’ẽme** .
 
 ## Moñepyrũmby
 

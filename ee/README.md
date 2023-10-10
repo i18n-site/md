@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ame aɖewo abia be, fifia si gbegɔmeɖeɖedɔ siwo wotu ɖe web-browserwo me la, ɖe mehiã be woatsɔ nyatakakadzraɖoƒea awɔ dukɔwo domee oa?
+Ame aɖewo abia be, esi gbegɔmeɖeɖedɔwo le web-browserwo katã si ta la, ɖe mehiã be woatsɔ nyatakakadzraɖoƒea awɔ dukɔwo domee oa?
 
-Medi be magblɔ be **ne míetsɔ nyatakakadzraɖoƒe bliboa wɔ dukɔwo domee ko hafi míate ŋu ado alɔ gbegbɔgblɔ geɖe me nyatakakadzraɖoƒea ƒe nuŋɔŋlɔ bliboa didi kple mɔ̃ siwo dia nyatakakawo ƒe nyonyome** .
+Madi be magblɔ be **nyatakakadzraɖoƒe siwo wɔa gbegɔmeɖeɖe siwo mewɔa tɔtrɔ o koe ate ŋu ado alɔ gbegbɔgblɔ geɖe me nyawo didi le nyatakakadzraɖoƒea kple nyatakakawo didi ƒe mɔ̃wo ƒe nyonyome** .
 
 ## Kpɔkplɔyiɖeme
 

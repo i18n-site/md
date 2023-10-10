@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Vamwe vanhu vanogona kubvunza, sezvo mabhurawuza ane akavakirwa-mukati mabasa eshanduro, hazvina basa here kuita kuti webhusaiti iyi iite pasi rose?
+Vamwe vanhu vangabvunza, sezvo mabhurawuza ese aine mabasa ekushandura, hazvina basa here kuita kuti webhusaiti iyi iite pasi rose?
 
-Ndinoda kutaura kuti **nekuita saiti yese pasi rese tinogona kutsigira mitauro yakawanda-in-saiti yakazara-zvinyorwa kutsvaga uye kutsvaga injini optimization** .
+Ndinoda kutaura kuti **mawebhusaiti chete anogadzira shanduro dzakasimba anogona kutsigira mitauro yakawanda-in-saiti yakazara-zvinyorwa kutsvaga uye kutsvaga injini optimization** .
 
 ## Nhanganyaya
 

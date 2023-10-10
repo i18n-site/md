@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Guon minsken kinne freegje, no't browsers ynboude oersettingsfunksjes hawwe, is it net nedich om de webside te ynternasjonalisearjen?
+Guon minsken kinne freegje, om't alle browsers oersetfunksjes hawwe, is it net nedich om de webside te ynternasjonalisearjen?
 
-Ik wol sizze dat **allinich troch ynternasjonalisearjen fan 'e heule side wy meartalige yn-side folsleine tekstsykjen en sykmasino-optimisaasje kinne stypje** .
+Ik soe graach sizze dat **allinich websiden dy&#39;t statyske oersettingen generearje, meartalige sykaksjes op &#39;e side en sykmasino-optimalisaasje kinne stypje** .
 
 ## Ynlieding
 

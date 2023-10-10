@@ -4,9 +4,9 @@ Staatiline saidigeneraator 3Ti.Site suudab Markdowni automaatselt tõlkida [enam
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Mõned inimesed võivad küsida, kas nüüd, kui brauseritel on sisseehitatud tõlkefunktsioonid, pole vaja veebisaiti rahvusvahelistuda?
+Mõned inimesed võivad küsida, et kuna kõikidel brauseritel on tõlkefunktsioonid, kas pole vaja veebisaiti rahvusvahelistuda?
 
-Tahan öelda, et **ainult kogu saidi rahvusvahelistumisega saame toetada mitmekeelset saidisisest täistekstiotsingut ja otsingumootoritele optimeerimist** .
+Tahaksin öelda, et **ainult veebisaidid, mis loovad staatilisi tõlkeid, saavad toetada mitmekeelset saidisisese täisteksti otsingut ja otsingumootori optimeerimist** .
 
 ## Sissejuhatus
 

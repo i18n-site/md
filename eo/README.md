@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Iuj homoj eble demandos, nun kiam retumiloj havas enkonstruitajn tradukajn funkciojn, ĉu estas nenecese internaciigi la retejon?
+Iuj homoj eble demandos, ĉar ĉiuj retumiloj havas tradukajn funkciojn, ĉu estas nenecese internaciigi la retejon?
 
-Mi volas diri, ke **nur internaciigante la tutan retejon ni povas subteni plurlingvan enretejan plentekstan serĉon kaj serĉilon-optimumigo** .
+Mi ŝatus diri, ke **nur retejoj, kiuj generas senmovajn tradukojn, povas subteni plurlingvan enretejan plentekstan serĉon kaj serĉilon-optimumigo** .
 
 ## Enkonduko
 

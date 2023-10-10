@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Algunes persones poden preguntar, ara que els navegadors tenen funcions de traducció integrades, és innecessari internacionalitzar el lloc web?
+Algunes persones poden preguntar, com que tots els navegadors tenen funcions de traducció, és innecessari internacionalitzar el lloc web?
 
-Vull dir que **només internacionalitzant tot el lloc podem donar suport a la cerca multilingüe de text complet al lloc i l'optimització de motors de cerca** .
+M&#39;agradaria dir que **només els llocs web que generen traduccions estàtiques poden admetre la cerca multilingüe de text complet al lloc i l&#39;optimització de motors de cerca** .
 
 ## Introducció
 

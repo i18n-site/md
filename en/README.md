@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Some people may ask, now that browsers have built-in translation functions, is it unnecessary to internationalize the website?
+Some people may ask, since all browsers have translation functions, is it unnecessary to internationalize the website?
 
-I want to say that **only by internationalizing the entire site can we support multi-lingual in-site full-text search and search engine optimization** .
+I would like to say that **only websites that generate static translations can support multilingual in-site full-text search and search engine optimization** .
 
 ## Introduction
 

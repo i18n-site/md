@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Yaqhip jaqinakax jiskt’asipxaspawa, jichhax navegadores ukanakax jaqukipañ lurawinakaniwa, ¿janit sitio web ukar internacionalización lurañax wakiskiti?
+Yaqhip jaqinakax jiskt’asipxaspawa, kunatix taqi navegadores ukanakax jaqukipañ lurawinakaniwa, ¿janit sitio web ukar internacionalización lurañax wakiskiti?
 
-Nayax sañ muntwa **, taqpach sitio ukar internacionalización ukampikiw walja arunakan sitio ukan taqpach qillqat thaqhañ ukhamarak motor de búsqueda optimización ukar yanapt’sna** .
+Nayax sañ muntwa **, sitios web ukanakakiw jaqukipäwinak estáticos uñstayapxi, ukax walja arunak sitio ukan taqpach qillqat thaqhañ ukhamarak motor de búsqueda ukan optimización ukar yanapt’aspa** .
 
 ## Qallta
 

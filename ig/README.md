@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ụfọdụ ndị mmadụ nwere ike ịjụ, ugbu a ihe nchọgharị nwere ọrụ ntụgharị asụsụ arụnyere n'ime ya, ọ dịghị mkpa ịmegharị webụsaịtị ahụ n'ofe ụwa?
+Ụfọdụ ndị mmadụ nwere ike ịjụ, ebe ọ bụ na ihe nchọgharị niile nwere ọrụ ntụgharị asụsụ, ọ dịghị mkpa ịmegharị webụsaịtị mba ụwa?
 
-Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka anyị nwere ike ịkwado nchọta ederede zuru oke na saịtị multilingual na njikarịcha search engine** .
+Ọ ga-amasị m ịsị na **ọ bụ naanị webụsaịtị na-emepụta ntụgharị asụsụ kwụ ọtọ nwere ike ịkwado ọchụchọ ederede zuru oke na saịtị ọtụtụ asụsụ yana njikarịcha njin** .
 
 ## Okwu Mmalite
 

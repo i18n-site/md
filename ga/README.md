@@ -4,9 +4,9 @@ Is féidir le 3Ti.Site, gineadóir suímh statach, Markdown a aistriú go huatho
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-B’fhéidir go n-iarrfadh daoine áirithe, anois go bhfuil feidhmeanna aistriúcháin ionsuite ag brabhsálaithe, nach bhfuil gá leis an suíomh Gréasáin a idirnáisiúnú?
+B’fhéidir go n-iarrfadh daoine áirithe, ós rud é go bhfuil feidhmeanna aistriúcháin ag gach brabhsálaí, nach bhfuil gá leis an suíomh Gréasáin a idirnáisiúnú?
 
-Ba mhaith liom a rá gur **trí idirnáisiúnú a dhéanamh ar an suíomh iomlán amháin is féidir linn tacaíocht a thabhairt do chuardaigh lán-théacs ilteangach ar an láthair agus leas iomlán a bhaint as inneall cuardaigh** .
+Ba mhaith liom a rá nach **féidir ach le suíomhanna gréasáin a ghineann aistriúcháin statacha tacaíocht a thabhairt do chuardaigh lán-théacs ilteangach in-suíomh agus leas iomlán a bhaint as inneall cuardaigh** .
 
 ## Réamhrá
 

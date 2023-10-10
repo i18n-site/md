@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Jotkut saattavat kysyä, onko nyt tarpeetonta kansainvälistää verkkosivustoa, kun selaimissa on sisäänrakennetut käännöstoiminnot?
+Jotkut saattavat kysyä, onko verkkosivuston kansainvälistäminen tarpeetonta, koska kaikissa selaimissa on käännöstoimintoja?
 
-Haluan sanoa, että **vain kansainvälistämällä koko sivusto voimme tukea monikielistä sivuston sisäistä kokotekstihakua ja hakukoneoptimointia** .
+Haluaisin sanoa, että **vain staattisia käännöksiä tuottavat verkkosivustot voivat tukea monikielistä sivuston sisäistä kokotekstihakua ja hakukoneoptimointia** .
 
 ## Johdanto
 

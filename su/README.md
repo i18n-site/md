@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Sababaraha urang tiasa naroskeun, ayeuna yén browser ngagaduhan fungsi tarjamahan anu diwangun, naha henteu kedah ngainternasionalkeun halaman wéb?
+Sababaraha urang tiasa naroskeun, sabab sadaya panyungsi ngagaduhan fungsi tarjamahan, naha henteu kedah ngainternasionalkeun halaman wéb?
 
-Abdi hoyong disebutkeun yen **ngan ku internationalizing sakabéh situs urang tiasa ngarojong multi-lingual dina loka pilarian téks lengkep tur optimasi search engine** .
+Abdi hoyong nyebatkeun yén **ngan ukur situs wéb anu ngahasilkeun tarjamahan statik tiasa ngadukung milarian téks lengkep multibasa dina situs sareng optimasi mesin pencari** .
 
 ## Bubuka
 

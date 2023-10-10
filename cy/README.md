@@ -4,9 +4,9 @@ Gall 3Ti.Site, generadur safle sefydlog, gyfieithu Markdown yn awtomatig i [fwy 
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Efallai y bydd rhai pobl yn gofyn, nawr bod gan borwyr swyddogaethau cyfieithu adeiledig, a yw'n ddiangen rhyngwladoli'r wefan?
+Efallai y bydd rhai pobl yn gofyn, gan fod gan bob porwr swyddogaethau cyfieithu, a yw'n ddiangen i ryngwladoli'r wefan?
 
-Rwyf am ddweud mai **dim ond trwy ryngwladoli'r wefan gyfan y gallwn gefnogi chwilio testun llawn amlieithog ar y safle ac optimeiddio peiriannau chwilio** .
+Hoffwn ddweud mai **dim ond gwefannau sy&#39;n cynhyrchu cyfieithiadau statig sy&#39;n gallu cefnogi chwilio testun llawn amlieithog ar y safle ac optimeiddio peiriannau chwilio** .
 
 ## Rhagymadrodd
 

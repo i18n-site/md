@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Sommige mensen vragen zich misschien af: is het niet nodig om de website te internationaliseren nu browsers ingebouwde vertaalfuncties hebben?
+Sommige mensen vragen zich misschien af, aangezien alle browsers vertaalfuncties hebben: is het niet nodig om de website te internationaliseren?
 
-Ik wil zeggen dat **we alleen door de hele site te internationaliseren meertalige in-site full-text zoekacties en zoekmachineoptimalisatie kunnen ondersteunen** .
+Ik zou willen zeggen dat **alleen websites die statische vertalingen genereren, meertalig in-site full-text zoeken en zoekmachineoptimalisatie kunnen ondersteunen** .
 
 ## Invoering
 

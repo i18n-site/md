@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ebia nnipa binom bebisa sɛ, afei a browser ahorow no wɔ nkyerɛase dwumadi ahorow a wɔde ahyɛ mu no, so ɛho nhia sɛ wɔde wɛbsaet no bɛyɛ amanaman ntam?
+Ebia nnipa binom bebisa sɛ, esiane sɛ browser nyinaa wɔ nkyerɛase dwumadi nti, so ɛho nhia sɛ wɔde wɛbsaet no bɛyɛ amanaman ntam?
 
-Mepɛ sɛ meka sɛ **ɛdenam amanaman ntam wɛbsaet no nyinaa a yɛde bɛyɛ amanaman ntam nkutoo so na yebetumi aboa kasa horow pii wɔ wɛbsaet no mu nsɛm nyinaa a wɔhwehwɛ ne nhwehwɛmu engine optimization** .
+Mepɛ sɛ meka sɛ **wɛbsaet ahorow a ɛma nkyerɛase ahorow a ɛnyɛ hwee nkutoo na ebetumi aboa kasa ahorow pii a wɔde hwehwɛ nsɛm nyinaa mu wɔ wɛbsaet no mu ne nhwehwɛmu engine optimization** .
 
 ## Nnianimu
 

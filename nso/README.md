@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Batho ba bangwe ba ka botšiša gore, bjale ka ge diphensele di na le mešomo ya go fetolela yeo e ageleditšwego ka gare, na ga go nyakege go dira gore wepesaete ye e be ya boditšhabatšhaba?
+Batho ba bangwe ba ka botšiša gore, ka ge diphensele ka moka di e-na le mešomo ya go fetolela, na ga go nyakege go dira gore wepesaete ye e be ya boditšhabatšhaba?
 
-Ke nyaka go bolela gore **ke feela ka go dira gore lefelo ka moka e be la boditšhabatšhaba moo re ka thekgago go nyaka mongwalo ka moka wa maleme a mantši ka gare ga lefelo le go dira gore entšene ya go nyaka e šome gabotse** .
+Ke rata go bolela gore **ke feela diwepesaete tšeo di tšweletšago diphetolelo tše di sa fetogego tšeo di ka thekgago go nyaka mongwalo o tletšego ka maleme a mantši ka gare ga lefelo le go dira gore entšene ya go nyaka e šome gabotse** .
 
 ## Matseno
 

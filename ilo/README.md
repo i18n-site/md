@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Mabalin nga isaludsod ti dadduma a tattao, ita ta addaan dagiti browser kadagiti naibangon a panagandar ti panagipatarus, saan kadi a kasapulan nga internasionalisaren ti website?
+Mabalin nga isaludsod ti dadduma a tattao, yantangay amin a browser ket addaan kadagiti panagandar ti panagipatarus, saan kadi a kasapulan nga internasionalisaen ti website?
 
-Kayatko nga ibaga a **babaen laeng ti pananginternasional iti intero a site a suportarantayo ti multi-lingual in-site full-text search ken search engine optimization** .
+Kayatko nga ibaga a **dagiti laeng website a mangpataud kadagiti estatiko a patarus ti makasuporta iti multilingual in-site full-text search ken search engine optimization** .
 
 ## Pauna
 

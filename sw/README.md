@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Watu wengine wanaweza kuuliza, kwa kuwa sasa vivinjari vina vitendaji vya kutafsiri vilivyojengewa ndani, je, si lazima kufanya tovuti iwe ya kimataifa?
+Watu wengine wanaweza kuuliza, kwa kuwa vivinjari vyote vina kazi za kutafsiri, je, si lazima kufanya tovuti iwe ya kimataifa?
 
-Ninataka kusema kwamba **ni kwa kuifanya tovuti nzima kuwa ya kimataifa pekee ndipo tunaweza kuauni utafutaji wa maandishi kamili wa lugha nyingi ndani ya tovuti na uboreshaji wa injini ya utafutaji** .
+Ningependa kusema kwamba **tovuti zinazozalisha tafsiri tuli pekee ndizo zinaweza kusaidia utafutaji wa maandishi kamili wa tovuti kwa lugha nyingi na uboreshaji wa injini ya utafutaji** .
 
 ## Utangulizi
 

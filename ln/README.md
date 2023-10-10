@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Bato mosusu bakoki kotuna, sikoyo lokola ba navigateurs ezali na misala ya kobongola oyo etongami na kati, ezali na ntina te kosala ete site Internet yango ezala na mikili mosusu?
+Bato mosusu bakoki kotuna, lokola ba navigateurs nyonso ezali na misala ya kobongola, ezali na ntina te kosala ete site Internet yango ezala na mikili mosusu?
 
-Nalingi koloba ete **kaka na internationalisation ya site mobimba nde tokoki ko soutenir multi-lingual in-site recherche ya texte mobimba mpe optimisation ya moteur de recherche** .
+Nalingi koloba ete **kaka basite Internet oyo ebimisaka mabongoli ya statique nde ekoki kosunga bolukiluki ya makomi mobimba na kati ya minɔkɔ mingi mpe kosala ete motɛ́lɛ ya boluki ezala malamu** .
 
 ## Maloba Ya Ebandeli
 

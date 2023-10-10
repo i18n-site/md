@@ -4,9 +4,9 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Nogle mennesker vil måske spørge, nu hvor browsere har indbyggede oversættelsesfunktioner, er det unødvendigt at internationalisere hjemmesiden?
+Nogle mennesker vil måske spørge, eftersom alle browsere har oversættelsesfunktioner, er det unødvendigt at internationalisere webstedet?
 
-Jeg vil sige, at **kun ved at internationalisere hele webstedet, kan vi understøtte flersproget in-site fuldtekstsøgning og søgemaskineoptimering** .
+Jeg vil gerne sige, at **kun websteder, der genererer statiske oversættelser, kan understøtte flersproget fuldtekstsøgning på stedet og søgemaskineoptimering** .
 
 ## Introduktion
 
