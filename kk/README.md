@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Шекарасыз ойлау<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, көп тілді статикалық сайт генераторы, Markdown бағдарламасын [жүзден астам түрлі тілдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматты түрде аудара алады.
+3Ti.Site, статикалық сайт генераторы, Markdown бағдарламасын [жүзден астам түрлі тілдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматты түрде аудара алады.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

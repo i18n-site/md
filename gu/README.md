@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · સરહદો વિના વિચારવું<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, એક બહુ-ભાષા સ્થિર સાઇટ જનરેટર, માર્કડાઉનનું [સો કરતાં વધુ વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) આપમેળે અનુવાદ કરી શકે છે.
+3Ti.Site, એક સ્થિર સાઇટ જનરેટર, માર્કડાઉનનું [સો કરતાં વધુ વિવિધ ભાષાઓમાં](https://github.com/i18n-site/node/blob/main/lang/src/index.js) આપમેળે અનુવાદ કરી શકે છે.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

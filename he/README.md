@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · חשיבה ללא גבולות<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, מחולל אתרים סטטי רב שפות, יכול לתרגם את Markdown אוטומטית [ליותר ממאה שפות שונות](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, מחולל אתרים סטטי, יכול לתרגם אוטומטית את Markdown ליותר [ממאה שפות שונות](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

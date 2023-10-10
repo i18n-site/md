@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · ਸਰਹੱਦਾਂ ਤੋਂ ਬਿਨਾਂ ਸੋਚਣਾ<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, ਇੱਕ ਬਹੁ-ਭਾਸ਼ਾਈ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ, ਮਾਰਕਡਾਊਨ ਨੂੰ [ਸੌ ਤੋਂ ਵੱਧ ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਅਨੁਵਾਦ ਕਰ ਸਕਦਾ ਹੈ।
+3Ti.Site, ਇੱਕ ਸਥਿਰ ਸਾਈਟ ਜਨਰੇਟਰ, ਮਾਰਕਡਾਊਨ ਨੂੰ [ਸੌ ਤੋਂ ਵੱਧ ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ਵਿੱਚ ਸਵੈਚਲਿਤ ਤੌਰ &#39;ਤੇ ਅਨੁਵਾਦ ਕਰ ਸਕਦਾ ਹੈ।
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Piirideta mõtlemine<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, mitmekeelne staatiline saidigeneraator, suudab Markdowni automaatselt tõlkida [enam kui sajasse erinevasse keelde](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+Staatiline saidigeneraator 3Ti.Site suudab Markdowni automaatselt tõlkida [enam kui saja erinevasse keelde](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

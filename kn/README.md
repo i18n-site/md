@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · ಗಡಿಗಳಿಲ್ಲದೆ ಯೋಚಿಸುವುದು<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, ಬಹು-ಭಾಷಾ ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್, ಮಾರ್ಕ್‌ಡೌನ್ ಅನ್ನು [ನೂರಕ್ಕೂ ಹೆಚ್ಚು ವಿಭಿನ್ನ ಭಾಷೆಗಳಿಗೆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುವಾದಿಸಬಹುದು.
+3Ti.Site, ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್, ಮಾರ್ಕ್‌ಡೌನ್ ಅನ್ನು [ನೂರಕ್ಕೂ ಹೆಚ್ಚು ವಿವಿಧ ಭಾಷೆಗಳಿಗೆ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುವಾದಿಸಬಹುದು.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · تفکر بدون مرز<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site، یک مولد سایت ایستا چند زبانه، می تواند Markdown را به طور خودکار به [بیش از صد زبان مختلف](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ترجمه کند.
+3Ti.Site، یک مولد سایت ایستا، می تواند به طور خودکار Markdown را به [بیش از صد زبان مختلف](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ترجمه کند.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

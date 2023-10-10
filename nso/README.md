@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Go Nagana ka Ntle le Mellwane<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, jenereithara ya sebaka sa go se fetoge sa maleme a mantši, e ka fetolela ka go iketla Markdown ka [maleme a go feta lekgolo a fapanego](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, jenereithara ya sebaka sa go se fetoge, e ka fetolela ka go iketla Markdown ka [maleme a go feta lekgolo a fapanego](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

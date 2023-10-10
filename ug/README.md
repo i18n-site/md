@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · چېگراسىز ئويلاش<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site كۆپ تىللىق تۇراقلىق تور ھاسىللىغۇچ ، Markdown نى [يۈزدىن ئارتۇق ئوخشىمىغان تىلغا](https://github.com/i18n-site/node/blob/main/lang/src/index.js) تەرجىمە قىلالايدۇ.
+تۇراقلىق تور ھاسىللىغۇچ 3Ti.Site ئاپتوماتىك ھالدا Markdown نى [يۈزدىن ئارتۇق ئوخشىمىغان تىلغا](https://github.com/i18n-site/node/blob/main/lang/src/index.js) تەرجىمە قىلالايدۇ.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Тафаккури бидуни марз<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, як тавлидкунандаи сайти статикии бисёрзабон, метавонад ба таври худкор Markdown-ро ба [зиёда аз сад забонҳои гуногун](https://github.com/i18n-site/node/blob/main/lang/src/index.js) тарҷума кунад.
+3Ti.Site, як генератори статикии сайт, метавонад ба таври худкор Markdown-ро ба [зиёда аз сад забонҳои гуногун](https://github.com/i18n-site/node/blob/main/lang/src/index.js) тарҷума кунад.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Ramri nei lo anga ngaihtuahna<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, multi-language static site generator hian Markdown hi [tawng hrang hrang za chuangah](https://github.com/i18n-site/node/blob/main/lang/src/index.js) automatic in a letling thei a ni .
+3Ti.Site, static site generator hian Markdown hi [tawng hrang hrang za chuangah](https://github.com/i18n-site/node/blob/main/lang/src/index.js) automatic in a letling thei a ni .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

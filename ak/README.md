@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Nsusuwii a Ɛnni Ahye<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, kasa ahorow pii static site generator, betumi akyerɛ Markdown ase ankasa akɔ [kasa ahorow bɛboro ɔha mu](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, static site generator, betumi akyerɛ Markdown ase akɔ [kasa ahorow bɛboro ɔha mu](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ankasa .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

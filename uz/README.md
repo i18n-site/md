@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Chegarasiz fikrlash<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, ko'p tilli statik sayt generatori Markdownni avtomatik ravishda [yuzdan ortiq turli tillarga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tarjima qilishi mumkin.
+Statik sayt generatori bo&#39;lgan 3Ti.Site Markdownni avtomatik ravishda [yuzdan ortiq turli tillarga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tarjima qilishi mumkin.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

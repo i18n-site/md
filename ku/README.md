@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Malper · Fikirîna Bê Sînor<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, çêkerek malpera statîk a pirzimanî, dikare bixweber Markdown wergerîne [zêdetirî sed zimanên cihê](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, çêkerek malpera statîk, dikare bixweber Markdown wergerîne [zêdetirî sed zimanên cihê](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Daangaa Malee Yaadu<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, afaanota hedduu kan ta'e jenereetarii saayitii istaatiksii, ofumaan Markdown gara [afaanota adda addaa dhibbaa ol ta'etti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) hiikuu danda'a .
+3Ti.Site, jenereetarri saayitii hin jijjiiramne, ofumaan Markdown [afaanota adda addaa dhibbaa ol](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ta&#39;anitti hiikuu danda&#39;a .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Denken ohne Grenzen<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, ein mehrsprachiger statischer Site-Generator, kann Markdown automatisch in [mehr als hundert verschiedene Sprachen](https://github.com/i18n-site/node/blob/main/lang/src/index.js) übersetzen.
+3Ti.Site, ein statischer Site-Generator, kann Markdown automatisch in [mehr als hundert verschiedene Sprachen](https://github.com/i18n-site/node/blob/main/lang/src/index.js) übersetzen.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

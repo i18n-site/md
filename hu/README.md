@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Gondolkodás határok nélkül<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-A 3Ti.Site egy többnyelvű statikus webhelygenerátor, amely automatikusan le tudja fordítani a Markdown-t [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+A 3Ti.Site, egy statikus webhelygenerátor, képes automatikusan lefordítani a Markdown-t [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

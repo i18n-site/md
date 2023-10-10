@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ти.Сайт · Чиксез уйлау<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, күп телле статик сайт генераторы, Маркдаунны [йөздән артык төрле телләргә](https://github.com/i18n-site/node/blob/main/lang/src/index.js) автоматик рәвештә тәрҗемә итә ала.
+3Ti.Site, статик сайт генераторы, Маркдаунны автоматик рәвештә [йөздән артык төрле телләргә](https://github.com/i18n-site/node/blob/main/lang/src/index.js) тәрҗемә итә ала.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

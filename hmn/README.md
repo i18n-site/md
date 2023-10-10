@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Xav Tsis Muaj Ciam Teb<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, lub tshuab hluav taws xob ntau hom lus zoo li qub, tuaj yeem txhais Markdown rau [ntau tshaj li ib puas hom lus](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, lub tshuab hluav taws xob qhov chaw zoo li qub, tuaj yeem txhais Markdown rau [ntau tshaj li ib puas hom lus](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

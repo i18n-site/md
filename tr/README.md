@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Sınır Tanımayan Düşünmek<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-Çok dilli bir statik site oluşturucu olan 3Ti.Site, Markdown'ı [yüzden fazla farklı dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) otomatik olarak çevirebilir.
+Statik bir site oluşturucu olan 3Ti.Site, Markdown&#39;ı [yüzden fazla farklı dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) otomatik olarak çevirebilir.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

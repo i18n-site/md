@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Kokanisa Sans Frontières<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, générateur ya site statique ya minoko ebele, ekoki kobongola automatiquement Markdown na [minoko koleka nkama ekeseni](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, générateur ya site statique, ekoki kobongola automatiquement Markdown na [minoko koleka nkama ndenge na ndenge](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

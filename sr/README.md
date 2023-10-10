@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ти.Сите · Размишљање без граница<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ти.Сите, вишејезични генератор статичких сајтова, може аутоматски да преведе Маркдовн на [више од стотину различитих језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ти.Сите, генератор статичког сајта, може аутоматски да преведе Маркдовн на [више од стотину различитих језика](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

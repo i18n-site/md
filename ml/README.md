@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · അതിരുകളില്ലാതെ ചിന്തിക്കുക<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, ഒരു മൾട്ടി-ലാംഗ്വേജ് സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്ററിന്, [നൂറിലധികം വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) മാർക്ക്ഡൗൺ സ്വയമേവ വിവർത്തനം ചെയ്യാൻ കഴിയും.
+3Ti.Site, ഒരു സ്റ്റാറ്റിക് സൈറ്റ് ജനറേറ്ററിന്, [നൂറിലധികം വ്യത്യസ്ത ഭാഷകളിലേക്ക്](https://github.com/i18n-site/node/blob/main/lang/src/index.js) മാർക്ക്ഡൗൺ സ്വയമേവ വിവർത്തനം ചെയ്യാൻ കഴിയും.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

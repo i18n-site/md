@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Miirili ni dan tɛ<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, n’o ye kan caman ka yɔrɔ jɔlen ye, o bɛ se ka Markdown baara a yɛrɛma ka kɛ [kan suguya kɛmɛ ni kɔ ye](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, n’o ye site static generator ye, o bɛ se ka Markdown baara a yɛrɛma ka [tɛmɛ kan kɛmɛ ni kɔ kan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

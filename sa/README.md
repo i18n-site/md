@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · सीमां विना चिन्तनम्<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, बहुभाषिकः स्थिरः साइट् जनरेटरः, स्वयमेव Markdown इत्यस्य अनुवादं [शताधिकेषु भिन्नभाषासु](https://github.com/i18n-site/node/blob/main/lang/src/index.js) कर्तुं शक्नोति .
+3Ti.Site, एकः स्थिरः साइट् जनरेटरः, स्वयमेव Markdown इत्यस्य अनुवादं [शताधिकेषु भिन्नभाषासु](https://github.com/i18n-site/node/blob/main/lang/src/index.js) कर्तुं शक्नोति .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

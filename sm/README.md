@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Mafaufau e aunoa ma ni tuaoi<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, o le tele-gagana static site generator, e mafai ona otometi ona faaliliuina Markdown i [le silia ma le selau gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+O le 3Ti.Site, o se faʻaputuga o nofoaga faʻapitoa, e mafai ona faʻaliliuina le Markdown i [le sili atu ma le selau gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

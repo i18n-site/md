@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Okulowooza Nga Tolina Nsalo<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, generator y’omukutu ogutakyukakyuka ogw’ennimi nnyingi, esobola okuvvuunula Markdown mu [nnimi ez’enjawulo ezisukka mu kikumi mu ngeri ey’otoma](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, generator y’omukutu ogutakyukakyuka, esobola okuvvuunula Markdown mu [nnimi ez’enjawulo ezisukka mu kikumi mu ngeri ey’otoma](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

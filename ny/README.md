@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Kuganiza Popanda Malire<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, jenereta ya webusayiti ya zinenero zambiri, imatha kumasulira Markdown [m'zilankhulo zoposa zana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, makina opangira masamba osasunthika, amatha kumasulira okha Markdown [m&#39;zilankhulo zoposa zana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · နယ်စည်းမခြားတွေးခေါ်ခြင်း။<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site သည် ဘာသာစကားပေါင်းစုံ အငြိမ်ဆိုဒ်မီးစက်တစ်ခုဖြစ်ပြီး Markdown ကို [ဘာသာစကားပေါင်း တစ်ရာကျော်](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက်ဘာသာပြန်ပေးနိုင်ပါသည်။
+3Ti.Site သည် တည်ငြိမ်သောဆိုက်ဂျင်နရေတာတစ်ခုဖြစ်ပြီး Markdown ကို [ဘာသာစကားပေါင်း တစ်ရာကျော်](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက်ဘာသာပြန်ပေးနိုင်သည်။
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Siti · Mana Fronterayuq Yuyay<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, achka simiyuq mana kuyukuq sitio ruwaq, kikinmanta Markdown [pachakmanta aswan hukniray simikunaman](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tikrayta atin .
+3Ti.Site, huk mana kuyukuq sitio ruwaq, kikinmanta Markdown tikrayta atin [pachakmanta aswan hukniray simikunaman](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
