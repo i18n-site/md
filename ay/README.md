@@ -8,7 +8,7 @@ Yaqhip jaqinakax jiskt’asiñ munapxaspaw, jichhax navegadores ukanakax jaqukip
 
 Nayax sañ muntwa **, taqpach sitio ukar internacionalización ukampikiw walja arunakan sitio ukan taqpach qillqat thaqhañ ukhamarak motor de búsqueda optimización ukar yanapt’sna** .
 
-## Sikunsya
+## Qallta
 
 Biblia · Génesis qillqata :
 

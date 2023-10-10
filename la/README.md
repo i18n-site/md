@@ -8,7 +8,7 @@ Nonnulli interrogare possunt, nunc navigatores in functionibus translationibus a
 
 **Dicere volo solum by internationalising the whole site can we support multi-lingual in-site full-text search and search engine optimization** .
 
-## Sequentia
+## Introductio
 
 Bible :
 

@@ -8,7 +8,7 @@ Néhányan feltehetik a kérdést, hogy most, hogy a böngészők beépített fo
 
 Azt akarom mondani, hogy **csak a teljes webhely nemzetközivé tételével tudjuk támogatni a többnyelvű webhelyen belüli teljes szöveges keresést és a keresőoptimalizálást** .
 
-## Sorrend
+## Bevezetés
 
 Biblia · Genezis :
 

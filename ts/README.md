@@ -8,7 +8,7 @@ Vanhu van’wana va nga ha lava ku vutisa, sweswi leswi ti- browser ti nga ni mi
 
 Ndzi lava ku vula leswaku **hi ku endla leswaku sayiti hinkwayo yi va ya matiko hinkwawo ntsena laha hi nga seketelaka ku lavisisa matsalwa hinkwawo ya le ndzeni ka sayiti ya tindzimi to tala ni ku antswisiwa ka njhini yo lavisisa** .
 
-## Xaxamela
+## Manghenelo
 
 Bibele · Genesa :
 

@@ -8,7 +8,7 @@ Sesetengah orang mungkin ingin bertanya, sekarang pelayar mempunyai fungsi terje
 
 Saya ingin mengatakan bahawa **hanya dengan mengantarabangsakan keseluruhan tapak kami boleh menyokong carian teks penuh dalam tapak berbilang bahasa dan pengoptimuman enjin carian** .
 
-## Urutan
+## Pengenalan
 
 Alkitab · Kejadian :
 

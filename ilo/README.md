@@ -8,7 +8,7 @@ Mabalin a kayat ti dadduma a tattao ti agsaludsod, ita ta addaan dagiti browser 
 
 Kayatko nga ibaga a **babaen laeng ti pananginternasional iti intero a site a suportarantayo ti multi-lingual in-site full-text search ken search engine optimization** .
 
-## Panagsasaruno
+## Pauna
 
 Biblia · Genesis :
 

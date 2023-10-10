@@ -8,7 +8,7 @@ Abanye abantu banokufuna ukubuza, ngoku ekubeni izikhangeli zinemisebenzi yoguqu
 
 Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase uphendlo lweelwimi ezininzi ezikwisayithi nokubhaliweyo okugcweleyo kunye nokwandisa injini yokukhangela** .
 
-## Ulandelelwano
+## Intshayelelo
 
 IBhayibhile · Genesis :
 

@@ -8,7 +8,7 @@ Dadka qaar ayaa laga yaabaa inay rabaan inay waydiiyaan, hadda daalacayaashu wax
 
 Waxaan rabaa in aan sheego in **kaliya caalamiyeynta goobta oo dhan aan ku taageeri karno raadinta qoraalka buuxa ee luqadaha badan ee goobta iyo hagaajinta mashiinka raadinta** .
 
-## Isku Xigxiga
+## Hordhac
 
 Baybalka · Bilowgii :
 

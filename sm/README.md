@@ -8,7 +8,7 @@ Atonu e fia fesili nisi tagata, o lea ua i ai i tagata suʻesuʻe ni galuega faa
 
 Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e mafai ai ona matou lagolagoina le tele-gagana i totonu o le upega tafaʻilagi suʻesuʻega atoa ma suʻesuʻega afi suʻesuʻe** .
 
-## Fa'asologa
+## Folasaga
 
 Tusi Paia · Kenese :
 

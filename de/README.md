@@ -8,7 +8,7 @@ Einige Leute möchten vielleicht fragen, ob es unnötig ist, die Website zu inte
 
 Ich möchte sagen, dass **wir nur durch die Internationalisierung der gesamten Website die mehrsprachige In-Site-Volltextsuche und Suchmaschinenoptimierung unterstützen können** .
 
-## Reihenfolge
+## Einführung
 
 Bibel · Genesis :
 

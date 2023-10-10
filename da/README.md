@@ -8,7 +8,7 @@ Nogle mennesker vil måske spørge, nu hvor browsere har indbyggede oversættels
 
 Jeg vil sige, at **kun ved at internationalisere hele webstedet, kan vi understøtte flersproget in-site fuldtekstsøgning og søgemaskineoptimering** .
 
-## Sekvens
+## Introduktion
 
 Bibelen · Første Mosebog :
 

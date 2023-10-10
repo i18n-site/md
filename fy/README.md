@@ -8,7 +8,7 @@ Guon minsken wolle freegje, no't browsers ynboude oersettingsfunksjes hawwe, is 
 
 Ik wol sizze dat **allinich troch ynternasjonalisearjen fan 'e heule side wy meartalige yn-side folsleine tekstsykjen en sykmasino-optimisaasje kinne stypje** .
 
-## Folchoarder
+## Ynlieding
 
 Bibel · Genesis :
 

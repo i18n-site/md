@@ -8,7 +8,7 @@ B'fhéidir gur mhaith le roinnt daoine a fhiafraí, anois go bhfuil feidhmeanna 
 
 Ba mhaith liom a rá gur **trí idirnáisiúnú a dhéanamh ar an suíomh iomlán amháin is féidir linn tacaíocht a thabhairt do chuardaigh lán-théacs ilteangach ar an láthair agus leas iomlán a bhaint as inneall cuardaigh** .
 
-## Seicheamh
+## Réamhrá
 
 Bíobla · Geineasas :
 

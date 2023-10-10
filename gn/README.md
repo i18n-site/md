@@ -8,7 +8,7 @@ Oĩ tapicha ikatu oporandúva, ko’áĝa umi navegador oguerekóma función de 
 
 Aipota **ha’e pe internacionalización rupive añoite pe sitio tuichakue ikatuha ñaipytyvõ heta ñe’ẽme pe sitio-pe jeheka jeheka pukukue ha motor de búsqueda optimización** .
 
-## Takykuerigua
+## Moñepyrũmby
 
 Biblia · Génesis :
 

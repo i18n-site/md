@@ -8,7 +8,7 @@ Iuj homoj eble volas demandi, nun kiam retumiloj havas enkonstruitajn tradukajn 
 
 Mi volas diri, ke **nur internaciigante la tutan retejon ni povas subteni plurlingvan enretejan plentekstan serĉon kaj serĉilon-optimumigo** .
 
-## Sekvenco
+## Enkonduko
 
 Biblio · Genezo :
 

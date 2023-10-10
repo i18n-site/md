@@ -8,7 +8,7 @@ Sababaraha urang panginten hoyong naroskeun, ayeuna yén browser ngagaduhan fung
 
 Abdi hoyong disebutkeun yen **ngan ku internationalizing sakabéh situs urang tiasa ngarojong multi-lingual dina loka pilarian téks lengkep tur optimasi search engine** .
 
-## Runtuyan
+## Bubuka
 
 Alkitab · Kajadian :
 

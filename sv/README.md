@@ -8,7 +8,7 @@ Vissa kanske vill fråga, nu när webbläsare har inbyggda översättningsfunkti
 
 Jag vill säga att **endast genom att internationalisera hela webbplatsen kan vi stödja flerspråkig fulltextsökning på webbplatsen och sökmotoroptimering .**
 
-## Sekvens
+## Introduktion
 
 Bibeln · Genesis :
 

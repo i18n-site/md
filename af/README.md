@@ -8,7 +8,7 @@ Sommige mense wil dalk vra, noudat blaaiers ingeboude vertaalfunksies het, is di
 
 Ek wil sê dat **ons slegs deur die hele webwerf te internasionalisering kan meertalige voltekssoektog op die webwerf en soekenjinoptimalisering ondersteun** .
 
-## Volgorde
+## Inleiding
 
 Bybel · Genesis :
 

@@ -8,7 +8,7 @@ Es posible que algunas personas quieran preguntar, ahora que los navegadores tie
 
 Quiero decir que **solo internacionalizando todo el sitio podremos admitir la búsqueda de texto completo en el sitio en varios idiomas y la optimización de motores de búsqueda** .
 
-## Secuencia
+## Introducción
 
 Biblia · Génesis :
 

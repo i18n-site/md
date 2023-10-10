@@ -8,7 +8,7 @@ Wakin runakuna tapuyta munankuman, kunan navegadorkuna tikray ruwanakuna ruwasqa
 
 Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka simiyuq sitiopi hunt'asqa qillqa maskana chaymanta maskana motor allinchay** .
 
-## Qati Qati
+## Qallariy
 
 Biblia · Génesis :
 

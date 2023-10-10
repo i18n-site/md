@@ -8,7 +8,7 @@
 
 Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka anyị nwere ike ịkwado nchọta ederede zuru oke na saịtị multilingual na njikarịcha search engine** .
 
-## Usoro
+## Okwu Mmalite
 
 Bible · Jenesis :
 

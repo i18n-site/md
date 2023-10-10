@@ -8,7 +8,7 @@ Diẹ ninu awọn eniyan le fẹ lati beere, ni bayi ti awọn aṣawakiri ti ni
 
 Mo fẹ lati sọ pe **nikan nipa sisẹ gbogbo aaye naa ni a le ṣe atilẹyin wiwa ọrọ-kikun ni aaye pupọ-ede ati iṣapeye ẹrọ wiwa** .
 
-## Ọkọọkan
+## Ọrọ Iṣaaju
 
 Bibeli · Genesisi :
 

@@ -8,7 +8,7 @@ Qualchidunu pò vulete dumandà, avà chì i navigatori anu una funzione di trad
 
 Vogliu dì chì **solu per l'internazionalizazione di u situ sanu pudemu sustene a ricerca multilingue in-situ in u testu pienu è l'optimizazione di u mutore di ricerca** .
 
-## Sequenza
+## Introduzione
 
 Bibbia · Genesi :
 

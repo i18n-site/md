@@ -8,7 +8,7 @@ Jotkut saattavat haluta kysyä, onko nyt tarpeetonta kansainvälistää verkkosi
 
 Haluan sanoa, että **vain kansainvälistämällä koko sivusto voimme tukea monikielistä sivuston sisäistä kokotekstihakua ja hakukoneoptimointia** .
 
-## Järjestys
+## Johdanto
 
 Raamattu · Genesis :
 

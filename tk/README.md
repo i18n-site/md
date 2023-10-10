@@ -8,7 +8,7 @@ Käbir adamlar soramak isläp bilerler, indi brauzerlerde içerki terjime funksi
 
 **Diňe tutuş sahypany halkaralaşdyrmak arkaly köp dilli saýtda doly tekstli gözleg we gözleg motory optimizasiýasyny goldap boljakdygyny** aýtmak isleýärin.
 
-## Yzygiderlilik
+## Giriş
 
 Injil · Gelip çykyş :
 

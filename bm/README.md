@@ -8,7 +8,7 @@ Mɔgɔ dɔw bɛ se k’a fɛ k’a ɲininka, sisan, ikomi bamanankan baarakɛcog
 
 N b’a fɛ k’a fɔ ko **n’an ye siti bɛɛ kɛ diɲɛ kɔnɔ dɔrɔn, an bɛ se ka dɛmɛ don kan caman na yɔrɔ kɔnɔ sɛbɛnni dafalen ɲinini ni ɲininikɛlanw ɲɛnabɔli la** .
 
-## Dasigi
+## Daminɛ Kuma
 
 Bibulu · Jenɛse :
 

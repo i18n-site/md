@@ -8,7 +8,7 @@ Gen kèk moun ki ka vle mande, kounye a ke navigatè yo gen fonksyon tradiksyon 
 
 Mwen vle di ke **se sèlman lè nou entènasyonalize sit la tout antye nou ka sipòte rechèch ak tèks konplè sou sit ki nan plizyè lang ak optimize motè rechèch** .
 
-## Sekans
+## Entwodiksyon
 
 Bib · Jenèz :
 

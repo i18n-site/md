@@ -8,7 +8,7 @@ Abanye abantu bangase bafune ukubuza, njengoba manje iziphequluli zinemisebenzi 
 
 Ngifuna ukusho ukuthi **kuphela ngokwenza isayithi yonke ibe ngamazwe ngamazwe lapho singakwazi ukusekela ukusesha kwemibhalo egcwele yezilimi eziningi ngaphakathi kwesayithi kanye nokwenza kahle kwezinjini zokusesha** .
 
-## Ukulandelana
+## Isingeniso
 
 IBhayibheli · Genesise :
 

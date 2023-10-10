@@ -8,7 +8,7 @@ Nekateri ljudje se morda želijo vprašati, ali je zdaj, ko imajo brskalniki vgr
 
 Povedati želim, da **samo z internacionalizacijo celotnega spletnega mesta lahko podpiramo večjezično iskanje po celotnem besedilu in optimizacijo iskalnikov** .
 
-## Zaporedje
+## Uvod
 
 Sveto pismo · Geneza :
 

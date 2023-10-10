@@ -8,7 +8,7 @@ Niektorí ľudia sa možno budú chcieť spýtať, je teraz, keď majú prehliad
 
 Chcem povedať, že **iba internacionalizáciou celej stránky môžeme podporiť viacjazyčné fulltextové vyhľadávanie na stránke a optimalizáciu pre vyhľadávače** .
 
-## Sekvencia
+## Úvod
 
 Biblia · Genezis :
 

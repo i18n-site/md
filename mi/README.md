@@ -8,7 +8,7 @@ Ka hiahia pea etahi ki te patai, i te mea kua whakauruhia e nga kaitirotiro nga 
 
 E hiahia ana ahau ki te kii **ma te panui i te pae katoa ka taea e tatou te tautoko i nga reo maha i roto i te pae ki te rapu kupu-katoa me te arotautanga miihini rapu** .
 
-## Raupapa
+## Kupu Whakataki
 
 Paipera · Genesis :
 

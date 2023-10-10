@@ -8,7 +8,7 @@ Neki ljudi će možda htjeti da pitaju, sada kada pretraživači imaju ugrađene
 
 Želim da kažem da **samo internacionalizacijom čitavog sajta možemo podržati višejezičnu pretragu celog teksta na sajtu i optimizaciju pretraživača** .
 
-## Sekvenca
+## Uvod
 
 Biblija · Postanak :
 

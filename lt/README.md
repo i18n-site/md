@@ -8,7 +8,7 @@ Kai kurie žmonės gali paklausti, ar dabar, kai naršyklėse yra įmontuotos ve
 
 Noriu pasakyti, kad **tik internacionalizuodami visą svetainę galime palaikyti daugiakalbę viso teksto paiešką svetainėje ir paieškos variklio optimizavimą** .
 
-## Seka
+## Įvadas
 
 Biblija · Pradžios knyga :
 

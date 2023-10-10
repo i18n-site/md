@@ -8,7 +8,7 @@ Sawetara wong bisa uga pengin takon, saiki browser duwe fungsi terjemahan sing d
 
 Aku pengin ngomong yen **mung kanthi internasionalisasi kabeh situs, kita bisa ndhukung telusuran teks lengkap lan optimasi mesin telusur multi-lingual ing situs** .
 
-## Urut-Urutan
+## Pambuka
 
 Kitab Suci · Purwaning Dumadi :
 

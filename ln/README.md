@@ -8,7 +8,7 @@ Bato mosusu bakoki kotuna, sikoyo lokola ba navigateurs ezali na misala ya kobon
 
 Nalingi koloba ete **kaka na internationalisation ya site mobimba nde tokoki ko soutenir multi-lingual in-site recherche ya texte mobimba mpe optimisation ya moteur de recherche** .
 
-## Ndenge Esalemaka
+## Maloba Ya Ebandeli
 
 Biblia · Ebandeli :
 

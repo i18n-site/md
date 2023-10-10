@@ -8,7 +8,7 @@ Ang ubang mga tawo tingali gusto nga mangutana, karon nga ang mga browser adunay
 
 Gusto nakong isulti nga **pinaagi lamang sa pag-internationalize sa tibuok site masuportahan namo ang multi-lingual in-site nga full-text nga pagpangita ug search engine optimization** .
 
-## Pagkasunodsunod
+## Pasiuna
 
 Bibliya · Genesis :
 

@@ -8,7 +8,7 @@ Sommige mensen willen zich misschien afvragen: is het niet nodig om de website t
 
 Ik wil zeggen dat **we alleen door de hele site te internationaliseren meertalige in-site full-text zoekacties en zoekmachineoptimalisatie kunnen ondersteunen** .
 
-## Reeks
+## Invoering
 
 Bijbel · Genesis :
 

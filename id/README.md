@@ -8,7 +8,7 @@ Beberapa orang mungkin ingin bertanya, karena browser memiliki fungsi terjemahan
 
 Saya ingin mengatakan bahwa **hanya dengan menginternasionalkan seluruh situs kita dapat mendukung pencarian teks lengkap dalam situs multi-bahasa dan optimasi mesin pencari** .
 
-## Urutan
+## Perkenalan
 
 Alkitab · Kejadian :
 

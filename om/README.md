@@ -8,7 +8,7 @@ Namoonni tokko tokko gaafachuu barbaadu ta’a, amma browsers functions hiikkaa 
 
 Ani akkan jechuu **barbaadu, guutummaa marsariitichaa idil-addunyaa gochuu qofaan afaanota hedduu in-site full-text search fi search engine optimization** .
 
-## Tartiiba
+## Seensa
 
 Macaafa Qulqulluu · Seera Uumamaa :
 

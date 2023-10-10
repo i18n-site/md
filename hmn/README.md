@@ -8,7 +8,7 @@ Qee tus neeg yuav xav nug, tam sim no tias browsers muaj kev ua haujlwm hauv kev
 
 Kuv xav hais tias **tsuas yog los ntawm kev nthuav dav thoob ntiaj teb tag nrho lub xaib tuaj yeem pab txhawb ntau hom lus hauv qhov chaw tshawb nrhiav thiab tshawb xyuas lub cav optimization** .
 
-## Ib Ntus
+## Taw Qhia
 
 Bible · Chiv Keeb :
 

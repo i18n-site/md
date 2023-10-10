@@ -8,7 +8,7 @@ Ba'zi odamlar so'rashlari mumkin, endi brauzerlarda o'rnatilgan tarjima funktsiy
 
 Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko'p tilli sayt ichidagi to'liq matnli qidiruv va qidiruv tizimini optimallashtirishni qo'llab-quvvatlashimiz mumkin** .
 
-## Ketma-Ketlik
+## Kirish
 
 Injil · Ibtido :
 

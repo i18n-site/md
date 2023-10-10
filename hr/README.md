@@ -8,7 +8,7 @@ Neki se ljudi možda žele pitati, sada kada preglednici imaju ugrađene funkcij
 
 Želim reći da **samo internacionalizacijom cijele stranice možemo podržati višejezično pretraživanje cijelog teksta na stranici i optimizaciju za tražilice** .
 
-## Slijed
+## Uvod
 
 Biblija · Postanak :
 

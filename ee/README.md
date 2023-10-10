@@ -8,7 +8,7 @@ Ame aɖewo adi be yewoabia be, fifia si gbegɔmeɖeɖedɔ siwo wotu ɖe web-brow
 
 Medi be magblɔ be **ne míetsɔ nyatakakadzraɖoƒe bliboa wɔ dukɔwo domee ko hafi míate ŋu ado alɔ gbegbɔgblɔ geɖe me nyatakakadzraɖoƒea ƒe nuŋɔŋlɔ bliboa didi kple mɔ̃ siwo dia nyatakakawo ƒe nyonyome** .
 
-## Yomenuwo
+## Kpɔkplɔyiɖeme
 
 Biblia · Mose ƒe Agbalẽ Gbãtɔ :
 

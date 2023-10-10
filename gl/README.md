@@ -8,7 +8,7 @@ Algunhas persoas poden querer preguntar, agora que os navegadores teñen funció
 
 Quero dicir que **só internacionalizando todo o sitio podemos admitir a busca de texto completo multilingüe e a optimización de motores de busca no sitio** .
 
-## Secuencia
+## Introdución
 
 Biblia · Xénese :
 

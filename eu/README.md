@@ -8,7 +8,7 @@ Batzuek galdetu nahiko lukete, orain arakatzaileek itzulpen funtzioak barneratut
 
 Esan nahi dut **gune osoa nazioartekotuz soilik onartzen ahal izango ditugula hizkuntza anitzeko guneko testu osoko bilaketa eta bilatzaileen optimizazioa** .
 
-## Sekuentzia
+## Sarrera
 
 Biblia · Genesis :
 

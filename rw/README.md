@@ -8,7 +8,7 @@ Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byubuhind
 
 Ndashaka kuvuga ko **muguhindura amahanga kurubuga rwose dushobora gushyigikira indimi nyinshi murubuga rwuzuye-gushakisha no gushakisha moteri ishakisha** .
 
-## Urukurikirane
+## Intangiriro
 
 Bibiliya · Itangiriro :
 

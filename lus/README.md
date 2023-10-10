@@ -8,7 +8,7 @@ Mi thenkhat chuan zawhna an zawt duh mai thei, tunah chuan browser-ah hian lehli
 
 Ka sawi duh chu **site pumpui internationalise chauhvin multi-lingual in-site full-text search leh search engine optimization kan support thei ang**
 
-## Indawt
+## Inhmelhriattirna
 
 Bible · Genesis :
 

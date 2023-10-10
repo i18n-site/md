@@ -8,7 +8,7 @@ E puer Leit wëlle vläicht froen, elo datt Browser agebaute Iwwersetzungsfunkti
 
 Ech wëll soen datt **nëmmen duerch d'Internationaliséierung vum ganze Site kënne mir méisproocheg In-Site Volltext Sich a Sichmotoroptimiséierung ënnerstëtzen** .
 
-## Sequenz
+## Aféierung
 
 Bibel · Genesis :
 

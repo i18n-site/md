@@ -8,7 +8,7 @@ Bazı insanlar, artık tarayıcıların yerleşik çeviri işlevlerine sahip old
 
 **Çok dilli site içi tam metin arama ve arama motoru optimizasyonunu ancak sitenin tamamını uluslararası hale getirerek destekleyebileceğimizi** söylemek istiyorum.
 
-## Sekans
+## Giriiş
 
 İncil · Yaratılış :
 

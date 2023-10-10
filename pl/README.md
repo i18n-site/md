@@ -8,7 +8,7 @@ Niektórzy ludzie mogą chcieć zapytać, czy teraz, gdy przeglądarki mają wbu
 
 Chcę powiedzieć, że **tylko poprzez internacjonalizację całej witryny możemy wspierać wielojęzyczne wyszukiwanie pełnotekstowe w witrynie i optymalizację wyszukiwarek** .
 
-## Sekwencja
+## Wstęp
 
 Biblia · Geneza :
 

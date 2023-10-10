@@ -8,7 +8,7 @@ Some people may want to ask, now that browsers have built-in translation functio
 
 I want to say that **only by internationalizing the entire site can we support multi-lingual in-site full-text search and search engine optimization** .
 
-## Sequence
+## Introduction
 
 Bible · Genesis :
 

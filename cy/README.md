@@ -8,7 +8,7 @@ Efallai y bydd rhai pobl am ofyn, nawr bod gan borwyr swyddogaethau cyfieithu ad
 
 Rwyf am ddweud mai **dim ond trwy ryngwladoli'r wefan gyfan y gallwn gefnogi chwilio testun llawn amlieithog ar y safle ac optimeiddio peiriannau chwilio** .
 
-## Dilyniant
+## Rhagymadrodd
 
 Beibl · Genesis :
 

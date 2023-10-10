@@ -8,7 +8,7 @@ Batho ba bangwe ba ka nyaka go botšiša, bjale ka ge diphensele di na le mešom
 
 Ke nyaka go bolela gore **ke feela ka go dira gore lefelo ka moka e be la boditšhabatšhaba moo re ka thekgago go nyaka mongwalo ka moka wa maleme a mantši ka gare ga lefelo le go dira gore entšene ya go nyaka e šome gabotse** .
 
-## Tatelano
+## Matseno
 
 Beibele · Genesi :
 

@@ -8,7 +8,7 @@
 
 Vull dir que **només internacionalitzant tot el lloc podem donar suport a la cerca multilingüe de text complet al lloc i l'optimització de motors de cerca** .
 
-## Seqüència
+## Introducció
 
 Bíblia · Gènesi :
 

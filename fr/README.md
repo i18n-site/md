@@ -8,7 +8,7 @@ Certains voudront peut-être se demander : maintenant que les navigateurs dispos
 
 Je tiens à dire que **ce n'est qu'en internationalisant l'ensemble du site que nous pourrons prendre en charge la recherche multilingue en texte intégral sur le site et l'optimisation des moteurs de recherche** .
 
-## Séquence
+## Introduction
 
 Bible · Genèse :
 

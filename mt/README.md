@@ -8,7 +8,7 @@ Xi nies jistgħu jixtiequ jistaqsu, issa li l-browsers għandhom funzjonijiet ta
 
 Irrid ngħid li **biss billi ninternazzjonalizzaw is-sit kollu nistgħu nappoġġaw it-tfittxija b'test sħiħ fuq il-post b'ħafna lingwi u l-ottimizzazzjoni tal-magni tat-tiftix** .
 
-## Sekwenza
+## Introduzzjoni
 
 Bibbja · Ġenesi :
 

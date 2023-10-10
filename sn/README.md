@@ -8,7 +8,7 @@ Vamwe vanhu vangangoda kubvunza, sezvo mabhurawuza ane akavakirwa-mukati mabasa 
 
 Ndinoda kutaura kuti **nekuita saiti yese pasi rese tinogona kutsigira mitauro yakawanda-in-saiti yakazara-zvinyorwa kutsvaga uye kutsvaga injini optimization** .
 
-## Zvinoteverana
+## Nhanganyaya
 
 Bhaibheri · Genesisi :
 

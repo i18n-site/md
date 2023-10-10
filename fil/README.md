@@ -8,7 +8,7 @@ Maaaring gustong magtanong ng ilang tao, ngayong may mga built-in na function sa
 
 Gusto kong sabihin na **sa pamamagitan lamang ng pag-internationalize ng buong site maaari naming suportahan ang multi-lingual in-site na full-text na paghahanap at search engine optimization** .
 
-## Pagkakasunod-Sunod
+## Panimula
 
 Bibliya · Genesis :
 

@@ -8,7 +8,7 @@ Daži cilvēki var jautāt, vai tagad, kad pārlūkprogrammās ir iebūvētas tu
 
 Es gribu teikt, ka **tikai internacionalizējot visu vietni, mēs varam atbalstīt daudzvalodu vietnes pilna teksta meklēšanu un meklētājprogrammu optimizāciju** .
 
-## Secība
+## Ievads
 
 Bībele · Genesis :
 

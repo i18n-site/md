@@ -8,7 +8,7 @@ Abantu abamu bayinza okwagala okwebuuza, kati nga browsers zirina emirimu gy’o
 
 Njagala okugamba nti **nga tufuula omukutu gwonna ogw’ensi yonna gwokka gwe tusobola okuwagira okunoonya ebiwandiiko ebijjuvu mu mukutu mu nnimi nnyingi n’okulongoosa enkola y’okunoonya** .
 
-## Olunyiriri
+## Okwanjula
 
 Baibuli · Olubereberye :
 

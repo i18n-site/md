@@ -8,7 +8,7 @@ Disa njerëz mund të duan të pyesin, tani që shfletuesit kanë funksione të 
 
 Dua të them se **vetëm duke ndërkombëtarizuar të gjithë sajtin mund të mbështesim kërkimin me tekst të plotë në faqe shumëgjuhëshe dhe optimizimin e motorëve të kërkimit** .
 
-## Sekuenca
+## Prezantimi
 
 Bibla · Zanafilla :
 

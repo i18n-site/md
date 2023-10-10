@@ -8,7 +8,7 @@ Unii oameni ar dori să întrebe, acum că browserele au funcții de traducere �
 
 Vreau să spun că **numai prin internaționalizarea întregului site putem susține căutarea în text integral în mai multe limbi și optimizarea motoarelor de căutare** .
 
-## Secvenţă
+## Introducere
 
 Biblia · Geneza :
 

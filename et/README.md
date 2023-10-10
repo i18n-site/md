@@ -8,7 +8,7 @@ Mõned inimesed võivad küsida, kas nüüd, kui brauseritel on sisseehitatud t�
 
 Tahan öelda, et **ainult kogu saidi rahvusvahelistumisega saame toetada mitmekeelset saidisisest täistekstiotsingut ja otsingumootoritele optimeerimist** .
 
-## Jada
+## Sissejuhatus
 
 Piibel · Genesis :
 

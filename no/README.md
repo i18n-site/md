@@ -8,7 +8,7 @@ Noen vil kanskje spørre, nå som nettlesere har innebygde oversettelsesfunksjon
 
 Jeg vil si at **bare ved å internasjonalisere hele nettstedet kan vi støtte flerspråklige fulltekstsøk på stedet og søkemotoroptimalisering .**
 
-## Sekvens
+## Introduksjon
 
 Bibelen · 1. Mosebok :
 

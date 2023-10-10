@@ -8,7 +8,7 @@ Mety te hanontany ny olona sasany, amin'izao fotoana izao ny mpitety tranonkala 
 
 Te-hilaza aho fa **amin'ny alalan'ny fanaovana iraisam-pirenena ny vohikala manontolo ihany no ahafahantsika manohana ny fikarohana lahatsoratra feno amin'ny fiteny maro ao amin'ny tranokala sy ny fanatsarana ny milina fikarohana** .
 
-## Filaharana
+## Sava Lalana
 
 Baiboly · Genesisy :
 

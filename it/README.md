@@ -8,7 +8,7 @@ Alcune persone potrebbero chiedersi, ora che i browser hanno funzioni di traduzi
 
 Voglio dire che **solo internazionalizzando l'intero sito possiamo supportare la ricerca full-text multilingue nel sito e l'ottimizzazione dei motori di ricerca** .
 
-## Sequenza
+## Introduzione
 
 Bibbia · Genesi :
 

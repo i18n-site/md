@@ -8,7 +8,7 @@ Sumir gætu viljað spyrja, nú þegar vafrar eru með innbyggða þýðingarað
 
 Ég vil segja að **aðeins með því að alþjóðavæða alla síðuna getum við stutt fjöltyngda leit í fullum texta á staðnum og leitarvélabestun** .
 
-## Röð
+## Kynning
 
 Biblían · Fyrsta Mósebók :
 

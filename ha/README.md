@@ -8,7 +8,7 @@ Wasu mutane na iya so su yi tambaya, yanzu da masu bincike sun gina ayyukan fass
 
 Ina so in faɗi cewa **ta hanyar ƙaddamar da duk rukunin yanar gizon kawai za mu iya tallafawa binciken cikakken rubutu na cikin harsuna da yawa da haɓaka injin bincike** .
 
-## Jeri
+## Gabatarwa
 
 Littafi Mai Tsarki · Farawa :
 

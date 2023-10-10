@@ -8,7 +8,7 @@ Dibe ku hin kes bixwazin bipirsin, naha ku gerokên xwedan fonksiyonên wergerê
 
 Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikarin di nav-malperê de pirzimanî-lêgerîna tev-tekst û xweşbîniya motora lêgerînê piştgirî bikin** .
 
-## Dor
+## Pêşkêş
 
 Încîl · Destpêbûn :
 

@@ -8,7 +8,7 @@ Bəzi insanlar soruşmaq istəyə bilər ki, indi brauzerlərdə daxili tərcüm
 
 Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə biz çoxdilli saytdaxili tam mətn axtarışını və axtarış sisteminin optimallaşdırılmasını dəstəkləyə bilərik** .
 
-## Ardıcıllıq
+## Giriş
 
 İncil · Yaradılış :
 

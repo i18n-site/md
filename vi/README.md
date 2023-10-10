@@ -8,7 +8,7 @@ Có thể một số người muốn hỏi, hiện nay trình duyệt đã tích
 
 Tôi muốn nói rằng **chỉ bằng cách quốc tế hóa toàn bộ trang web, chúng tôi mới có thể hỗ trợ tìm kiếm toàn văn bản đa ngôn ngữ tại chỗ và tối ưu hóa công cụ tìm kiếm** .
 
-## Sự Liên Tiếp
+## Giới Thiệu
 
 Kinh thánh · Sáng thế ký :
 

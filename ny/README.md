@@ -8,7 +8,7 @@ Anthu ena angafune kufunsa, popeza asakatuli ali ndi ntchito zomasulira zomangid
 
 Ndikufuna kunena kuti **popanga tsamba lonselo kuti tithandizire kusaka ndi kukhathamiritsa kwa injini zosaka ndi zilankhulo zambiri m'masamba** .
 
-## Kutsatizana
+## Mawu Oyamba
 
 Baibulo · Genesis :
 
