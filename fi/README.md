@@ -10,19 +10,19 @@ Haluan sanoa, että **vain kansainvälistämällä koko sivusto voimme tukea mon
 
 ## Järjestys
 
-"Raamattu · Genesis":
+Raamattu · Genesis :
 
-> Muinaiset ihmiset eivät tehneet eroa kielien välillä. He rakensivat torneja, jotka ulottuivat taivaalle päästäkseen Jumalan portille edistääkseen ihmiskunnan arvovaltaa.
+> Muinaisina aikoina, kun kielet olivat yhtä, ihmiskunta rakensi tornin, joka ulottui taivaaseen, portin Jumalan valtakuntaan, joka julisti ihmiskunnan voimaa.
 >
-> Jumala sanoi, että ihmiset ovat oma heimo, jolla on sama kulttuuri ja laji. Tornin rakentaminen on vain alkusoittoa. Nyt voit saavuttaa mitä haluat, eikä sinulla ole mitään pelättävää.
+> Jumala julisti: "Ihmiset yhdistyvät yhdeksi heimoksi, joilla on yhteinen kieli, ja tämä torni on vain prologi. Nyt he saavuttavat halunsa, eikä kunnioitusta jää jäljelle."
 >
-> Sitten Jumala tuli ja hajotti ihmiset eri paikkoihin, eivätkä he kyenneet ymmärtämään toisiaan.
+> Siten Jumala laskeutui, hajoten ihmisiä eri kulmiin, käyttivät eri kieliä.
 >
-> Siitä lähtien ihmiskunnalla on ollut vaikeuksia kommunikoida, konflikteja syntyi loputtomasti, eikä maailma nähnyt enää tornia, joka nousi taivaalle.
+> Siitä lähtien inhimillinen kommunikaatio muuttui haastavaksi, riidat loputtomat, eikä enää ollut tornia, joka olisi koskettanut taivasta.
 
 Tieteiskirjallisuusromaani &quot;Three-Body&quot; (ääntäminen kiinaksi: `3Ti` ) fiktioi ulkomaalaisen sivilisaation, joka kommunikoi sähkömagneettisten aaltojen kautta, jolla ei ole kielimuuria ja joka on teknisesti vauras.
 
-Toivon, että tämän työkalun avulla maan ihmiset ovat kuin kolmiruumiisia ihmisiä, kieli ei rajoita viestintää ja koko ihmiskunta yhdistyy jälleen.
+Toivon voivani luoda työkalun, jonka avulla maan ihmiset voivat olla kuin kolmiruumiisia ihmisiä, kommunikoida ilman kielen sitomista ja yhdistää koko ihmiskunnan uudelleen.
 
 ## Opastus
 

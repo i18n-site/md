@@ -10,19 +10,19 @@ Ech wëll soen datt **nëmmen duerch d'Internationaliséierung vum ganze Site k�
 
 ## Sequenz
 
-"Bibel · Genesis":
+Bibel · Genesis :
 
-> D'Alter hunn net tëscht Sproochen ënnerscheeden. Si hunn Tierm gebaut, déi den Himmel erreechen, fir de Paart vu Gott z'erreechen fir de Prestige vun der Mënschheet ze förderen.
+> An alen Zäiten, wéi d'Sproochen een waren, huet d'Mënschheet en Tuerm gebaut, deen an den Himmel erreecht, e Portal zum Gottes Domain, deen d'Mënschheet hir Muecht verkënnegt huet.
 >
-> De Gott huet gesot datt d'Leit en eegene Stamm sinn, mat der selwechter Kultur a Spezies. En Tuerm bauen ass just en Optakt. Elo kënnt Dir erreechen wat Dir wëllt, an Dir hutt näischt ze fäerten.
+> Gott huet erkläert: "Männer vereenegen sech als ee Stamm, mat enger gemeinsamer Zong, an dësen Tuerm ass nëmmen e Prolog. Elo erreechen se hire Wonsch, a keng Respekt bleift."
 >
-> Dunn ass Gott komm an huet d'Leit op verschiddene Plazen verspreet, net fäeg sech ze verstoen.
+> Also ass Gott erofgaang, d'Leit an verschidden Ecker verspreet, verschidde Sprooche benotzen.
 >
-> Vun do un huet d'Mënschheet gekämpft fir ze kommunizéieren, Konflikter entstanen endlos, an d'Welt huet keen Tuerm méi gesinn, deen den Himmel erreecht huet.
+> Vun do un ass d'mënschlech Kommunikatioun usprochsvoll ginn, Streidereien endlos, a kee méi war et en Tuerm deen den Himmel beréiert huet.
 
 De Science Fiction Roman &quot;Three-Body&quot; (Chinesesch Aussprooch: `3Ti` ) fictionaliséiert eng alien Zivilisatioun déi duerch elektromagnetesch Wellen kommunizéiert, keng Sproochbarrièren huet an technologesch räich ass.
 
-Ech hoffen, datt mat der Hëllef vun dësem Tool d'Leit vun der Äerd wéi dräi-Kierper Leit sinn, d'Kommunikatioun gëtt net vu Sprooch beschränkt, an d'ganz Mënschheet wäert erëm vereenegt ginn.
+Ech hoffen e Tool ze kreéieren deen d'Leit vun der Äerd erméigleche wéi dräi-Kierper Leit ze sinn, ouni Sprooch gebonnen ze kommunizéieren an d'ganz Mënschheet erëm ze verbannen.
 
 ## Tutorial
 

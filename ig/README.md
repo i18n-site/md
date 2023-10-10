@@ -10,19 +10,19 @@ Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka an
 
 ## Usoro
 
-"Bible·Jenesis":
+Bible · Jenesis :
 
-> Ndị ochie aghọtaghị ihe dị iche n’asụsụ. Ha wuru ụlọ elu ruru elu igwe iji rute ọnụ ụzọ Chineke iji kwalite ugwu nke agbụrụ mmadụ.
+> N’oge ochie, mgbe asụsụ dị otu, ihe a kpọrọ mmadụ rụrụ ụlọ elu ruru n’eluigwe, bụ́ ọnụ ụzọ ámá Chineke, na-ekwusa ịdị ike nke ihe a kpọrọ mmadụ.
 >
-> Chineke kwuru na ndị mmadụ bụ ebo nke ha, nwere otu omenala na ụdị. Ịrụ ụlọ elu bụ naanị ihe mmalite. Ugbu a ị nwere ike imezu ihe ọ bụla ịchọrọ, ị gaghị enwekwa ihe ị ga-atụ egwu.
+> Chineke kwuru, sị, "Ndị mmadụ na-ejikọta dị ka otu ebo, n'asụsụ nkekọrịta, ma ụlọ elu a bụ naanị okwu mmalite. Ugbu a ha na-emezu ọchịchọ ha, ọ dịghịkwa nsọpụrụ ga-anọgide."
 >
-> Chineke wee bịa chụsasịa ndị mmadụ n’ebe dị iche iche, ha enweghịkwa ike ịghọta ibe ha.
+> Ya mere, Chineke rịdata, na-achụsasị ndị mmadụ n'akụkụ dị iche iche, jiri asụsụ dị iche iche.
 >
-> Site na mgbe ahụ gawa, ihe a kpọrọ mmadụ gbalịsiri ike ịkparịta ụka, esemokwu bilitere na-adịghị agwụ agwụ, ụwa ahụkwaghị ụlọ elu nke ruru eluigwe.
+> Site na mgbe ahụ gawa, nkwurịta okwu nke mmadụ ghọrọ ihe ịma aka, esemokwu adịghị agwụ agwụ, ọ dịghịkwa ụlọ elu metụrụ mbara igwe.
 
 Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation Chinese: `3Ti` ) na-akọwapụta echiche efu nke mba ọzọ nke na-ekwurịta okwu site na ebili mmiri electromagnetic, enweghị ihe mgbochi asụsụ, ma nwee ọganihu na nkà na ụzụ.
 
-Enwere m olileanya na site n'enyemaka nke ngwá ọrụ a, ndị bi n'ụwa ga-adị ka mmadụ atọ, a gaghị egbochi nkwurịta okwu site n'asụsụ, a ga-ejikọtakwa mmadụ nile ọzọ.
+Enwere m olileanya ịmepụta ngwá ọrụ nke ga-eme ka ndị bi n'ụwa dị ka mmadụ atọ, na-ekwurịta okwu n'ejighị asụsụ, ma mee ka ihe nile a kpọrọ mmadụ dịrị n'otu ọzọ.
 
 ## Nkuzi
 

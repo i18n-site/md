@@ -10,19 +10,19 @@ Rwyf am ddweud mai **dim ond trwy ryngwladoli'r wefan gyfan y gallwn gefnogi chw
 
 ## Dilyniant
 
-"Beibl·Genesis":
+Beibl · Genesis :
 
-> Nid oedd yr henuriaid yn gwahaniaethu rhwng ieithoedd. Adeiladasant dyrau yn cyrraedd yr awyr i gyrraedd porth Duw i hyrwyddo bri yr hil ddynol.
+> Yn yr hen amser, pan oedd ieithoedd yn un, adeiladodd y ddynoliaeth dwr yn ymestyn i'r nefoedd, porth i barth Duw, gan gyhoeddi nerth dynolryw.
 >
-> Dywedodd y Duw fod pobl yn llwyth eu hunain, gyda'r un diwylliant a rhywogaethau. Rhagarweiniad yn unig yw adeiladu tŵr. Nawr gallwch chi gyflawni beth bynnag y dymunwch, ac ni fydd gennych unrhyw beth i'w ofni.
+> Datganodd Duw, "Mae dynion yn uno yn un llwyth, â thafodau rhanedig, ac nid yw'r tŵr hwn ond rhaglith. Yn awr y maent yn cyflawni eu dymuniad, ac ni erys unrhyw barch."
 >
-> Yna daeth Duw, a gwasgarodd y bobl mewn amrywiol leoedd, heb allu deall ei gilydd.
+> Felly, disgynnodd Duw, gan wasgaru pobl i wahanol gorneli, defnyddio gwahanol ieithoedd.
 >
-> O hynny ymlaen, roedd dynolryw yn ymdrechu i gyfathrebu, cododd gwrthdaro yn ddiddiwedd, ac ni welodd y byd mwyach dwr a gyrhaeddodd yr awyr.
+> O hynny ymlaen, daeth cyfathrebu dynol yn heriol, anghydfodau'n ddiddiwedd, a dim mwy oedd twr a gyffyrddodd â'r awyr.
 
 Mae'r nofel ffuglen wyddonol &quot;Three-Body&quot; (ynganiad Tsieineaidd: `3Ti` ) yn ffugio gwareiddiad estron sy'n cyfathrebu trwy donnau electromagnetig, heb unrhyw rwystrau iaith, ac sy'n lewyrchus yn dechnolegol.
 
-Rwy'n gobeithio, gyda chymorth yr offeryn hwn, y bydd pobl y ddaear fel pobl tri chorff, ni fydd cyfathrebu'n cael ei gyfyngu gan iaith, a bydd dynolryw i gyd yn unedig eto.
+Rwy’n gobeithio creu arf a fydd yn galluogi pobl y ddaear i fod fel pobl tri chorff, cyfathrebu heb fod yn rhwym wrth iaith, ac uno holl ddynolryw eto.
 
 ## Tiwtorial
 

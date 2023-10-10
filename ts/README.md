@@ -10,19 +10,19 @@ Ndzi lava ku vula leswaku **hi ku endla leswaku sayiti hinkwayo yi va ya matiko 
 
 ## Xaxamela
 
-"Bibele·Genesa".:
+Bibele · Genesa :
 
-> Vanhu va khale a va nga hambanisi tindzimi. Va ake swihondzo leswi fikaka empfhukeni leswaku va fika enyangweni ya Xikwembu leswaku va tlakusa ndhuma ya rixaka ra vanhu.
+> Eminkarhini ya khale, loko tindzimi ti ri yin’we, vanhu va ake xihondzo lexi fikaka ematilweni, nyangwa lowu nghenaka eka vulawuri bya Xikwembu, wu twarisa matimba ya vanhu.
 >
-> Xikwembu xi vule leswaku vanhu i rixaka ra vona, leri nga ni ndhavuko ni muxaka lowu fanaka. Ku aka xihondzo i xingheniso ntsena. Sweswi u nga hetisisa xin’wana ni xin’wana lexi u xi lavaka, naswona a wu nge vi na lexi u nga xi chavaka.
+> Xikwembu xi tivise, "Vavanuna va hlangana tani hi rixaka rin'we, hi ririmi leri avelanakaka, naswona xihondzo lexi i xingheniso ntsena. Sweswi va fikelela ku navela ka vona, naswona ku hava xichavo lexi nga ta sala."
 >
-> Kutani Xikwembu xi ta xi hangalasa vanhu etindhawini to hambana-hambana, va nga swi koti ku twisisana.
+> Xisweswo, Xikwembu xi xikile, xi hangalasa vanhu etindhawini to hambana-hambana, xi tirhisa tindzimi to hambana-hambana.
 >
-> Ku sukela kwalaho, vanhu va lwile hi matimba ku vulavurisana, timholovo ti pfuke hi laha ku nga heriki naswona misava a yi nga ha voni xihondzo lexi fikaka ematilweni.
+> Ku sukela kwalaho, ku vulavurisana ka vanhu ku ve ntlhontlho, timholovo a ti nga heli naswona a ku nga ha ri na xihondzo lexi khumbaka xibakabaka.
 
 Novhele ya sayense ya ntsheketo ya &quot;Three-Body&quot; (Mavitanelo ya Xichayina: `3Ti` ) yi endla nhluvuko wa le handle lowu vulavulaka hi magandlati ya gezi, lowu nga riki na swihinga swa ririmi, naswona wu humelerile hi tlhelo ra thekinoloji.
 
-Ndzi tshemba leswaku hi ku pfuniwa hi xitirho lexi, vanhu va misava va ta fana ni vanhu va mimiri yinharhu, ku vulavurisana a ku nge siveriwi hi ririmi, naswona vanhu hinkwavo va ta tlhela va va ni vun’we.
+Ndzi tshemba ku tumbuluxa xitirho lexi nga ta endla leswaku vanhu va misava va fana na vanhu va mimiri yinharhu, va vulavurisana handle ko bohiwa hi ririmi, va tlhela va hlanganisa vanhu hinkwavo.
 
 ## Dyondzo
 

@@ -10,19 +10,19 @@ Quero dizer que **somente internacionalizando todo o site poderemos oferecer sup
 
 ## Seqüência
 
-"Bíblia · Gênesis":
+Bíblia · Gênesis :
 
-> Os antigos não faziam distinção entre línguas. Eles construíram torres que alcançavam o céu para chegar à porta de Deus e promover o prestígio da raça humana.
+> Nos tempos antigos, quando as línguas eram uma só, a humanidade construiu uma torre que chegava aos céus, um portal para o domínio de Deus, proclamando o poder da humanidade.
 >
-> O Deus disse que as pessoas são uma tribo própria, com a mesma cultura e espécie. Construir uma torre é apenas um prelúdio. Agora você pode realizar o que quiser e não terá nada a temer.
+> Deus declarou: "Os homens se unem como uma tribo, com uma língua compartilhada, e esta torre é apenas um prólogo. Agora eles realizam seu desejo e nenhuma reverência permanecerá."
 >
-> Então Deus veio e espalhou as pessoas em vários lugares, sem conseguirem se entender.
+> Assim, Deus desceu, espalhando as pessoas em diferentes cantos, usando diferentes línguas.
 >
-> A partir de então, a humanidade lutou para se comunicar, os conflitos surgiram incessantemente e o mundo não viu mais uma torre que alcançasse os céus.
+> A partir daí, a comunicação humana tornou-se desafiadora, as disputas intermináveis ​​e não houve mais uma torre que tocasse o céu.
 
 O romance de ficção científica &quot;Três Corpos&quot; (pronúncia chinesa: `3Ti` ) ficcionaliza uma civilização alienígena que se comunica por meio de ondas eletromagnéticas, não tem barreiras linguísticas e é tecnologicamente próspera.
 
-Espero que, com a ajuda desta ferramenta, as pessoas da terra sejam como pessoas de três corpos, a comunicação não seja restringida pela linguagem e toda a humanidade esteja novamente unida.
+Espero criar uma ferramenta que permita que as pessoas da Terra sejam como pessoas de três corpos, comuniquem-se sem estarem limitadas pela linguagem e unam novamente toda a humanidade.
 
 ## Tutorial
 

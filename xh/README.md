@@ -10,19 +10,19 @@ Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase up
 
 ## Ulandelelwano
 
-"IBhayibhile · Genesis":
+IBhayibhile · Genesis :
 
-> Abantu bamandulo babengahluli phakathi kweelwimi. Bakha iinqaba ezifikelela esibhakabhakeni ukuze bafikelele esangweni likaThixo ukuze baphakamise inkangeleko yoluntu.
+> Mandulo, xa iilwimi zazinye, abantu babesakha inqaba efikelela emazulwini, isango lolawulo lukaThixo, bevakalisa amandla oluntu.
 >
-> UThixo wathi abantu bazizizwe zabo, zinenkcubeko kunye nohlobo olufanayo. Ukwakha inqaba kusisandulela nje. Ngoku unokufezekisa nantoni na oyifunayo, kwaye awuyi kuba noloyiko.
+> UThixo wathi: “Abantu bamanyene njengesizwe esinye, bethetha ngazwi linye, yaye le nqaba iyintshayelelo.
 >
-> Weza uThixo, wabachithachitha abantu ezindaweni ngeendawo, ababa sacingana.
+> Ngaloo ndlela, uThixo wehla, wabachithachitha abantu kwiimbombo ezahlukahlukeneyo, esebenzisa iilwimi ezahlukahlukeneyo.
 >
-> Ukususela ngoko, uluntu lwatsala nzima ekunxibelelaneni, kwabakho ungquzulwano olungapheliyo, yaye ihlabathi alizange libe sabona inqaba efikelela esibhakabhakeni.
+> Ukususela ngoko, unxibelelwano lwabantu lwaba lucelomngeni, iingxabano azipheli, yaye akuzange kuphinde kubekho nqaba ichukumisa isibhakabhaka.
 
 Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina: `3Ti` ) ivelisa impucuko yasemzini enxibelelana ngamaza ombane wombane, ayinamiqobo yolwimi, kwaye inempumelelo kubuchwepheshe.
 
-Ndiyathemba ukuba ngoncedo lwesi sixhobo, abantu bomhlaba baya kuba njengabantu abanemizimba emithathu, unxibelelwano aluyi kuthintelwa lulwimi, kwaye lonke uluntu luya kumanyana kwakhona.
+Ndinethemba lokudala isixhobo esiya kwenza ukuba abantu bomhlaba babe njengabantu abanemizimba emithathu, banxibelelane ngaphandle kokubotshwa lulwimi, baze baphinde bamanyanise lonke uluntu.
 
 ## Isifundo
 

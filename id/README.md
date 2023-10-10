@@ -10,19 +10,19 @@ Saya ingin mengatakan bahwa **hanya dengan menginternasionalkan seluruh situs ki
 
 ## Urutan
 
-"Alkitab·Kejadian":
+Alkitab · Kejadian :
 
-> Orang dahulu tidak membedakan bahasa. Mereka membangun menara-menara yang menjulang ke langit hingga mencapai gerbang Tuhan untuk mengangkat harkat dan martabat umat manusia.
+> Pada zaman kuno, ketika bahasa-bahasa masih satu, umat manusia membangun sebuah menara yang mencapai langit, sebuah portal menuju wilayah kekuasaan Tuhan, memberitakan kekuatan umat manusia.
 >
-> Tuhan berkata bahwa manusia adalah sukunya sendiri, dengan budaya dan spesies yang sama. Membangun menara hanyalah pendahuluan. Sekarang Anda dapat mencapai apa pun yang Anda inginkan, dan tidak ada yang perlu Anda takuti.
+> Tuhan menyatakan, "Manusia bersatu sebagai satu suku, dengan bahasa yang sama, dan menara ini hanyalah sebuah prolog. Sekarang mereka mencapai keinginan mereka, dan tidak ada rasa hormat yang tersisa."
 >
-> Kemudian Tuhan datang dan menceraiberaikan manusia di berbagai tempat, tidak mampu saling memahami.
+> Jadi, Tuhan turun, menyebarkan manusia ke berbagai penjuru, menggunakan bahasa yang berbeda.
 >
-> Sejak saat itu, umat manusia kesulitan berkomunikasi, konflik muncul tanpa henti, dan dunia tidak lagi melihat menara yang mencapai langit.
+> Sejak saat itu, komunikasi manusia menjadi penuh tantangan, perselisihan tiada akhir, dan tidak ada lagi menara yang menyentuh langit.
 
 Novel fiksi ilmiah &quot;Three-Body&quot; (pengucapan China: `3Ti` ) mengarang fiksi peradaban alien yang berkomunikasi melalui gelombang elektromagnetik, tidak memiliki kendala bahasa, dan makmur secara teknologi.
 
-Saya berharap dengan bantuan alat ini, masyarakat bumi akan menjadi seperti manusia yang beranggotakan tiga orang, komunikasi tidak dibatasi oleh bahasa, dan seluruh umat manusia dapat bersatu kembali.
+Saya berharap dapat menciptakan alat yang memungkinkan manusia di bumi menjadi seperti manusia yang bertubuh tiga, berkomunikasi tanpa terikat oleh bahasa, dan menyatukan kembali seluruh umat manusia.
 
 ## Tutorial
 

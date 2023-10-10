@@ -10,19 +10,19 @@ Nayax sañ muntwa **, taqpach sitio ukar internacionalización ukampikiw walja a
 
 ## Sikunsya
 
-"Biblia·Génesis qillqata".:
+Biblia · Génesis qillqata :
 
-> Nayra jaqinakax janiw arunak yaqhachapkänti. Diosan punkupar puriñkamaw alaxpachar puriñ torrenak lurapxäna, ukhamat jaqinakan jachʼañchatäñapataki.
+> Nayra tiemponjja, arunakajj mayakïkäna ukhajja, jaqenakajj alajjpachar puriñkamaw mä torre lurapjjerïna, Diosan apnaqäwipar mantañatak mä punku, jaqenakan chʼamap yatiyasa.
 >
-> Jaqinakax jupanakan mä tribupawa, pachpa saräwini ukat pachpa kastani sasaw Diosax säna. Mä torre lurañajj mä nayrïr uñachtʼäwikiwa. Jichhajj kuntï munkta uk phoqasmawa, janiw kuna ajjsarañas utjkaniti.
+> Diosax akham sasaw yatiyäna: "Chachanakax mä tribur uñtataw mayacht'asipxi, mä sapa arumpiw mayacht'asipxi, ukat aka torrex mä prologo ukhamakiwa. Jichhax munañanakap phuqhapxi, janiw kuna respetos qhiparakaniti".
 >
-> Ukatxa Diosax jutasinx kunayman chiqanakaruw jaqinakar ch’iqiyäna, janiw maynit maynikam amuyañjamäkänti.
+> Ukhamatwa Diosax saraqanïna, jaqinakarux kunayman k’uchunakaruw ch’iqiyatayna, kunayman arunak apnaqatayna.
 >
-> Uka tiempot aksarojja, jaqenakajj parltʼasiñatakiw chʼamachasipjjäna, jan tukuskir chʼajjwañanakaw utjäna, ukat akapachajj janiw alajjpachar purir mä torre uñjjjänti.
+> Uka tiempot aksarojja, jaqenakan parltʼasiñajj chʼamäjjänwa, chʼajjwañanakajj janiw tukusjjänti, janiw alajjpachar llamktʼir torrejj utj-jjänti.
 
 Novela de ciencia ficción &quot;Kimsa Cuerpo&quot; (chino aruchja: `3Ti` ) ukax mä civilización extranjera ukar uñt'ayi, ukax olas electromagnéticas ukanakampiw aruskipt'i, janiw arut jark'atäkiti, ukatx tecnología tuqitx wali ch'amanchatawa.
 
-Nayax suyt’twa, aka yän yanapt’apampixa, aka uraqin jaqinakax kimsa janchini jaqinakjamaw tukupxani, aruskipt’añax janiw arumpi jark’atäkaniti, ukat taqi jaqinakaw wasitat mayacht’asipxani.
+Nayax mä herramienta lurañ suyt’askta, ukax aka uraqin jaqinakax kimsa janchini jaqinakjam uñt’ayasiñataki, jan arump chint’asis aruskipt’añataki, ukat taqpach jaqinakar wasitat mayacht’añataki.
 
 ## Yatichäwi
 

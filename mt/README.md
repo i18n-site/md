@@ -10,19 +10,19 @@ Irrid ngħid li **biss billi ninternazzjonalizzaw is-sit kollu nistgħu nappoġ�
 
 ## Sekwenza
 
-"Bibbja·Ġenesi":
+Bibbja · Ġenesi :
 
-> Il-qedem ma kinux jiddistingwu bejn il-lingwi. Huma bnew torrijiet li jilħqu s-sema biex jilħqu l-bieb ta 'Alla biex jippromwovu l-prestiġju tar-razza umana.
+> Fi żminijiet tal-qedem, meta l-lingwi kienu ħaġa waħda, l-umanità bniet torri li jilħaq is-smewwiet, portal għad-dominju t’Alla, u pproklama l-qawwa tal-umanità.
 >
-> Alla qal li n-nies huma tribù tagħhom stess, bl-istess kultura u speċi. Il-bini ta’ torri huwa biss preludju. Issa tista 'twettaq dak kollu li trid, u ma jkollok xejn minn xiex tibża'.
+> Alla ddikjara, "L-irġiel jingħaqdu bħala tribù wieħed, b'ilsien komuni, u dan it-torri huwa biss prologu. Issa jilħqu x-xewqa tagħhom, u l-ebda riverenza ma tibqa '."
 >
-> Imbagħad Alla ġie u xerred lill-poplu f’diversi postijiet, ma setgħux jifhmu lil xulxin.
+> Għalhekk, Alla niżel, ixerred lin-nies lejn irkejjen differenti, juża lingwi differenti.
 >
-> Minn dak iż-żmien 'il quddiem, l-umanità tħabtu biex tikkomunika, il-kunflitti qamu bla tarf, u d-dinja ma ratx aktar torri li laħaq is-smewwiet.
+> Minn dak iż-żmien 'il quddiem, il-komunikazzjoni umana saret ta' sfida, it-tilwim bla tmiem, u ma kienx hemm aktar torri li mess is-sema.
 
 Ir-rumanz tal-fantaxjenza &quot;Three-Body&quot; (pronunzja Ċiniża: `3Ti` ) jimbotta ċiviltà aljena li tikkomunika permezz ta 'mewġ elettromanjetiku, m'għandha l-ebda ostakli tal-lingwa, u hija teknoloġikament prospera.
 
-Nittama li bl-għajnuna ta 'din l-għodda, in-nies tad-dinja jkunu bħal nies bi tliet korpi, il-komunikazzjoni ma tkunx ristretta mill-lingwa, u l-umanità kollha terġa' tkun magħquda.
+Nittama li noħloq għodda li tippermetti lin-nies tad-dinja jkunu bħal nies bi tliet iġsma, jikkomunikaw mingħajr ma jkunu marbuta bil-lingwa, u jerġgħu jgħaqqdu l-umanità kollha.
 
 ## Tutorja
 

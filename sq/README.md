@@ -10,19 +10,19 @@ Dua të them se **vetëm duke ndërkombëtarizuar të gjithë sajtin mund të mb
 
 ## Sekuenca
 
-"Bibla · Zanafilla":
+Bibla · Zanafilla :
 
-> Të lashtët nuk bënin dallime midis gjuhëve. Ata ndërtuan kulla që arrinin në qiell për të arritur te porta e Zotit për të promovuar prestigjin e racës njerëzore.
+> Në kohët e lashta, kur gjuhët ishin një, njerëzimi ndërtoi një kullë që arrinte deri në qiej, një portal në domenin e Zotit, duke shpallur fuqinë e njerëzimit.
 >
-> Zoti tha se njerëzit janë një fis i tyre, me të njëjtën kulturë dhe specie. Ndërtimi i një kulle është vetëm një prelud. Tani mund të arrini gjithçka që dëshironi dhe nuk do të keni asgjë për t'u frikësuar.
+> Zoti deklaroi: "Njerëzit bashkohen si një fis i vetëm, me një gjuhë të përbashkët, dhe kjo kullë nuk është veçse një prolog. Tani ata e arrijnë dëshirën e tyre dhe asnjë nderim nuk do të mbetet."
 >
-> Pastaj erdhi Zoti dhe i shpërndau njerëzit në vende të ndryshme, pa mundur ta kuptonin njëri-tjetrin.
+> Kështu, Zoti zbriti, duke shpërndarë njerëz në qoshe të ndryshme, përdorin gjuhë të ndryshme.
 >
-> Që atëherë e tutje, njerëzimi luftoi për të komunikuar, konfliktet u ngritën pafundësisht dhe bota nuk pa më një kullë që arrinte në qiell.
+> Që atëherë, komunikimi njerëzor u bë sfidues, mosmarrëveshjet pafund dhe nuk kishte më një kullë që të prekte qiellin.
 
 Romani fantastiko-shkencor &quot;Tre-trupi&quot; (shqiptimi kinez: `3Ti` ) imagjinon një qytetërim alien që komunikon përmes valëve elektromagnetike, nuk ka barriera gjuhësore dhe është teknologjikisht i begatë.
 
-Shpresoj që me ndihmën e këtij mjeti, njerëzit e tokës do të jenë si njerëz me tre trupa, komunikimi nuk do të kufizohet nga gjuha dhe i gjithë njerëzimi do të bashkohet përsëri.
+Shpresoj të krijoj një mjet që do t'u mundësojë njerëzve të tokës të jenë si njerëz me tre trupa, të komunikojnë pa u lidhur nga gjuha dhe të bashkojë përsëri gjithë njerëzimin.
 
 ## Tutorial
 

@@ -10,19 +10,19 @@ Ich möchte sagen, dass **wir nur durch die Internationalisierung der gesamten W
 
 ## Reihenfolge
 
-„Bibel·Genesis“:
+Bibel · Genesis :
 
-> Die Alten unterschieden nicht zwischen Sprachen. Sie bauten Türme, die bis zum Himmel reichten, um das Tor Gottes zu erreichen und das Ansehen der Menschheit zu fördern.
+> In der Antike, als die Sprachen noch eine Sprache waren, baute die Menschheit einen Turm, der bis zum Himmel reichte, ein Portal zum Reich Gottes, um die Macht der Menschheit zu verkünden.
 >
-> Der Gott sagte, dass die Menschen ein eigener Stamm mit derselben Kultur und Spezies seien. Der Bau eines Turms ist nur ein Vorspiel. Jetzt können Sie alles erreichen, was Sie wollen, und Sie müssen sich nicht mehr fürchten.
+> Gott erklärte: „Die Menschen vereinen sich als ein Stamm mit einer gemeinsamen Sprache, und dieser Turm ist nur ein Prolog. Jetzt erfüllen sie ihren Wunsch, und keine Ehrfurcht wird mehr übrig bleiben.“
 >
-> Dann kam Gott und zerstreute die Menschen an verschiedene Orte, ohne dass sie einander verstehen konnten.
+> So kam Gott herab, zerstreute die Menschen in verschiedene Ecken und benutzte verschiedene Sprachen.
 >
-> Von da an kämpfte die Menschheit um Kommunikation, es kam zu endlosen Konflikten und die Welt sah keinen Turm mehr, der bis in den Himmel reichte.
+> Von da an wurde die menschliche Kommunikation zu einer Herausforderung, die Streitigkeiten endlos, und es gab keinen Turm mehr, der den Himmel berührte.
 
 Der Science-Fiction-Roman „Three-Body“ (chinesische Aussprache: `3Ti` ) fiktionalisiert eine außerirdische Zivilisation, die über elektromagnetische Wellen kommuniziert, keine Sprachbarrieren kennt und technologisch erfolgreich ist.
 
-Ich hoffe, dass mit Hilfe dieses Tools die Menschen auf der Erde wie Drei-Körper-Menschen werden, die Kommunikation nicht durch die Sprache eingeschränkt wird und die gesamte Menschheit wieder vereint wird.
+Ich hoffe, ein Werkzeug zu schaffen, das es den Menschen auf der Erde ermöglicht, wie Drei-Körper-Menschen zu sein, ohne an Sprache gebunden zu sein und die gesamte Menschheit wieder zu vereinen.
 
 ## Lernprogramm
 

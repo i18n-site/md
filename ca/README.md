@@ -10,19 +10,19 @@ Vull dir que **només internacionalitzant tot el lloc podem donar suport a la ce
 
 ## Seqüència
 
-"Bíblia·Gènesi":
+Bíblia · Gènesi :
 
-> Els antics no distingien entre llengües. Van construir torres que arribaven al cel per arribar a la porta de Déu per promoure el prestigi de la raça humana.
+> En l'antiguitat, quan les llengües eren una, la humanitat va construir una torre que arribava fins al cel, un portal al domini de Déu, proclamant el poder de la humanitat.
 >
-> El Déu va dir que la gent és una tribu pròpia, amb la mateixa cultura i espècie. Construir una torre és només un preludi. Ara pots aconseguir el que vulguis i no tindreu res a témer.
+> Déu va declarar: "Els homes s'uneixen com una tribu, amb una llengua compartida, i aquesta torre no és més que un pròleg. Ara aconsegueixen el seu desig, i no hi haurà reverència".
 >
-> Llavors Déu va venir i va dispersar la gent per diversos llocs, sense poder-se entendre.
+> Així, Déu va baixar, dispersant la gent a diferents racons, utilitzant diferents idiomes.
 >
-> A partir d'aleshores, la humanitat va lluitar per comunicar-se, els conflictes van sorgir sense parar i el món ja no va veure una torre que arribés als cels.
+> A partir d'aleshores, la comunicació humana es va convertir en un repte, les disputes sense fi, i ja no hi havia una torre que toqués el cel.
 
 La novel·la de ciència-ficció &quot;Three-Body&quot; (pronunciació xinesa: `3Ti` ) narra una civilització alienígena que es comunica mitjançant ones electromagnètiques, no té barreres lingüístiques i és tecnològicament pròspera.
 
-Espero que amb l'ajuda d'aquesta eina, la gent de la terra sigui com persones de tres cossos, la comunicació no es veurà restringida pel llenguatge i tota la humanitat es tornarà a unir.
+Espero crear una eina que permeti a la gent de la terra ser com persones de tres cossos, comunicar-se sense estar lligats pel llenguatge i unir de nou a tota la humanitat.
 
 ## Tutorial
 

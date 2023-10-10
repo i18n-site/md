@@ -10,19 +10,19 @@ Ani akkan jechuu **barbaadu, guutummaa marsariitichaa idil-addunyaa gochuu qofaa
 
 ## Tartiiba
 
-"Macaafa Qulqulluu·Seera Uumamaa".:
+Macaafa Qulqulluu · Seera Uumamaa :
 
-> Warri durii afaanota addaan hin baasan turan. Ulfina sanyii namaa guddisuuf karra Waaqayyoo ga’uuf masaraawwan samii ga’an ijaaran.
+> Bara durii, yeroo afaanonni tokko turanitti, dhalli namaa masaraa hanga samiitti gahu, balbala gara bulchiinsa Waaqayyootti geessu ijaaree, humna dhala namaa labsaa ture.
 >
-> Waaqni akka jedhetti namoonni gosa mataa isaanii, aadaa fi gosa tokko qaban. Masaraa ijaaruun seensa qofa. Amma waan barbaadde raawwachuu dandeessa, waan sodaattus hin qabaattu.
+> Waaqayyo, "Dhiironni akka gosa tokkootti, arraba waliinii wajjin tokko ta'u, masaraan kun seensa qofa. Amma fedhii isaanii galmaan ga'u, kabajni tokkollee hin hafu" jedhee labseera.
 >
-> Sana booda Waaqayyo dhufee ummata wal hubachuu dadhabee bakka adda addaatti facaase.
+> Akkasitti Waaqayyo gadi bu'e, namoota gara golee adda addaatti facaase, afaan adda addaa fayyadame.
 >
-> Yeroo sanaa kaasee ilmi namaa wal qunnamuuf rakkachaa, waldhabdeen dhuma hin qabne ka’ee, addunyaan kana booda masaraa samii ga’u hin argine.
+> Yeroo sanaa kaasee walqunnamtiin namootaa qormaata, falmiin dhuma kan hin qabne, kana booda masaraan samii tuqe hin jiru.
 
 Asoosamni asoosama saayinsii &quot;Three-Body&quot; (Sagalee Chaayinaa: `3Ti` ) qaroomina alagaa karaa dalga elektiromaagneetikii walqunnamsiisu, danqaa afaanii hin qabnee fi teeknooloojiin badhaadhina qabu asoosama.
 
-Gargaarsa meeshaa kanaatiin ummanni lafaa akka namoota qaama sadii ta’ee, walqunnamtiin afaaniin akka hin daangeffamne, ilmi namaa hundi deebi’ee akka tokko ta’u abdiin qaba.
+Meeshaa ummanni lafaa akka namoota qaama sadii ta’ee, afaaniin osoo hin hidhamin akka walqunnamsiisu, deebi’ee dhala namaa hunda tokkoomsu uumuuf abdiin qaba.
 
 ## Barnoota
 

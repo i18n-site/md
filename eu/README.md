@@ -10,19 +10,19 @@ Esan nahi dut **gune osoa nazioartekotuz soilik onartzen ahal izango ditugula hi
 
 ## Sekuentzia
 
-"Biblia·Genesia":
+Biblia · Genesis :
 
-> Antzinakoek ez zituzten hizkuntzak bereizten. Jainkoaren atarira iristeko zerura iristen ziren dorreak eraiki zituzten giza arrazaren prestigioa sustatzeko.
+> Antzina, hizkuntzak bat zirenean, gizateriak zeruraino iristen zen dorre bat eraiki zuen, Jainkoaren domeinurako atari bat, gizakiaren boterea aldarrikatuz.
 >
-> Jainkoak esan zuen pertsonak berezko tribu bat direla, kultura eta espezie berekoak. Dorre bat eraikitzea aurresku bat besterik ez da. Orain nahi duzuna lor dezakezu, eta ez duzu ezer beldurrik izango.
+> Jainkoak adierazi zuen: "Gizonak tribu bat bezala elkartzen dira, hizkuntza partekatuarekin, eta dorre hau hitzaurre bat baino ez da. Orain beren nahia lortzen dute, eta ez da begirunerik geratuko".
 >
-> Orduan, Jainkoa etorri zen eta jendea hainbat tokitan barreiatu zuen, elkar ulertu ezinik.
+> Horrela, Jainkoa jaitsi zen, jendea bazter ezberdinetara sakabanatzen, hizkuntza desberdinak erabiltzen.
 >
-> Handik aurrera, gizadiak komunikatzeko borroka egin zuen, gatazkak etengabe sortu ziren eta munduak ez zuen gehiago ikusi zeruetara iristen zen dorrerik.
+> Handik aurrera, giza komunikazioa erronka bihurtu zen, gatazkak amaigabeak, eta ez zen gehiago zerua ukitzen zuen dorrerik.
 
 &quot;Three-Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Ti` ) uhin elektromagnetikoen bidez komunikatzen den, hizkuntza-hesirik ez duen eta teknologikoki oparoa den zibilizazio arrotz bat fikzionatu du.
 
-Tresna honen laguntzaz, lurreko jendea hiru gorputzeko pertsonak bezalakoa izatea espero dut, komunikazioa hizkuntzak ez du mugarik izango eta gizadi osoa berriro elkartuko dela.
+Espero dut lurreko jendea hiru gorputzeko pertsonak bezalakoa izatea, hizkuntzari lotu gabe komunikatzea eta gizadi osoa berriro batzea ahalbidetuko duen tresna sortzea.
 
 ## Tutoretza
 

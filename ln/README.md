@@ -10,19 +10,19 @@ Nalingi koloba ete **kaka na internationalisation ya site mobimba nde tokoki ko 
 
 ## Ndenge Esalemaka
 
-"Biblia·Ebandeli".:
+Biblia · Ebandeli :
 
-> Bato ya kala bazalaki kokesenisa minɔkɔ te. Batongaki bandako milai oyo ekómaki na likoló mpo na kokóma na porte ya Nzambe mpo na kolendisa lokumu ya libota ya bato.
+> Na ntango ya kala, ntango minɔkɔ ezalaki bobele moko, bato batongaki ndako molai oyo ekómaki tii na likoló, ekuke mpo na kokɔta na bokonzi ya Nzambe, kosakolaka nguya ya bato.
 >
-> Nzambe alobaki ete bato bazali libota na bango moko, na mimeseno mpe lolenge moko. Kotonga linɔ́ngi ezali kaka ebandeli. Sikoyo okoki kokokisa nyonso oyo olingi, mpe okozala na eloko moko te ya kobanga.
+> Nzambe asakolaki ete, "Mibali basangani lokola libota moko, na monoko ya kokabola, mpe ndako molai oyo ezali kaka maloba ya ebandeli. Sikawa bakokisi mposa na bango, mpe limemya moko te ekotikala."
 >
-> Na nsima, Nzambe ayaki kopalanganisa bato na bisika ndenge na ndenge, kozangaka kososolana.
+> Na bongo, Nzambe akitaki, kopalanganisa bato na ba coins ekeseni, kosalela minoko ekeseni.
 >
-> Kobanda wana, bato bazalaki kobunda mpo na kosolola, matata ebimaki kozanga nsuka, mpe mokili emonanaki lisusu te linɔ́ngi oyo ekómaki na likoló.
+> Kobanda wana, kosolola na bato ekómaki mpasi, matata ezalaki kosila te, mpe linɔ́ngi oyo esimbaki likoló ezalaki lisusu te.
 
 Roman ya science fiction &quot;Tree-Body&quot; (prononciation chinois: `3Ti` ) e fictionaliser civilisation alienne oyo e communiquer na nzela ya ba mbonge électromagnétique, ezali na ba barrières ya langue te, mpe ezali na prospère technologique.
 
-Nazali na elikya ete na lisalisi ya esaleli oyo, bato ya mabele bakozala lokola bato ya nzoto misato, bosololi ekopekisama na monoko te, mpe bato banso bakosangana lisusu.
+Nazali na elikya ya kokela esaleli oyo ekopesa bato ya mabele likoki ya kozala lokola bato ya nzoto misato, kosolola kozanga kokangama na monoko, mpe kosangisa lisusu bato banso.
 
 ## Mateya Ya Koyekola
 

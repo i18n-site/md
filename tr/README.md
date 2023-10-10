@@ -10,19 +10,19 @@ Bazı insanlar, artık tarayıcıların yerleşik çeviri işlevlerine sahip old
 
 ## Sekans
 
-"İncil·Genesis":
+İncil · Yaratılış :
 
-> Eskiler diller arasında ayrım yapmıyorlardı. İnsan ırkının prestijini arttırmak için Tanrı'nın kapısına ulaşmak için göğe uzanan kuleler inşa ettiler.
+> Dillerin bir olduğu eski çağlarda insanlık, insanoğlunun gücünü ilan eden, Tanrı'nın hakimiyetine açılan bir kapı olan göklere uzanan bir kule inşa etti.
 >
-> Allah, insanların aynı kültüre ve türe sahip, kendilerine ait bir kavim olduklarını söylemiştir. Bir kule inşa etmek sadece bir başlangıçtır. Artık istediğinizi başarabilirsiniz ve korkacak hiçbir şeyiniz olmayacak.
+> Tanrı şöyle ilan etti: "İnsanlar ortak bir dille tek bir kabile olarak birleşiyorlar ve bu kule yalnızca bir giriş. Artık arzularına ulaşıyorlar ve geriye hiçbir saygı kalmayacak."
 >
-> Sonra Allah geldi ve birbirlerini anlayamayan insanları çeşitli yerlere dağıttı.
+> Böylece Tanrı inmiş, insanları farklı köşelere dağıtmış, farklı diller kullanmıştır.
 >
-> O andan itibaren insanoğlu iletişim kurmaya çabaladı, bitmek bilmeyen çatışmalar çıktı ve dünya artık göklere uzanan bir kule görmedi.
+> O andan itibaren insanların iletişimi zorlaştı, anlaşmazlıklar bitmedi ve artık gökyüzüne dokunan bir kule kalmadı.
 
 Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektromanyetik dalgalar aracılığıyla iletişim kuran, dil engeli olmayan ve teknolojik açıdan zengin bir uzaylı uygarlığını kurguluyor.
 
-Umuyorum ki bu alet sayesinde dünya insanları üç vücutlu insanlar gibi olacak, iletişim dille sınırlı kalmayacak ve tüm insanlık yeniden birlik olacaktır.
+Dünya insanlarının üç bedenli insanlar gibi olmasını, dile bağlı kalmadan iletişim kurmasını ve tüm insanlığı yeniden birleştirmesini sağlayacak bir araç yaratmayı umuyorum.
 
 ## Öğretici
 

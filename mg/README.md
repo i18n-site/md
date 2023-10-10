@@ -10,19 +10,19 @@ Te-hilaza aho fa **amin'ny alalan'ny fanaovana iraisam-pirenena ny vohikala mano
 
 ## Filaharana
 
-"Baiboly·Genesisy":
+Baiboly · Genesisy :
 
-> Tsy nanavaka ny fiteny ny Ntaolo. Nanao tilikambo manakatra ny lanitra izy ireo mba hahatongavana eo amin’ny vavahadin’Andriamanitra mba hanandratana ny voninahitry ny taranak’olombelona.
+> Tamin’ny andro fahiny, fony mbola iray ihany ny fiteny, ny olombelona dia nanorina tilikambo mipaka hatrany amin’ny lanitra, vavahadin’ny fanjakan’Andriamanitra, manambara ny herin’ny olombelona.
 >
-> Nolazain’Andriamanitra fa foko iray ny olona, ​​mitovy kolontsaina sy karazany. Ny fananganana tilikambo dia santatra fotsiny. Ankehitriny dia afaka manatanteraka izay tianao ianao, ary tsy hisy hatahoranao.
+> Hoy Andriamanitra: “Mitambatra ho firenena iray ny olona, ​​manana lela iombonan’ny olona, ​​ary safon-teny fotsiny ity tilikambo ity;
 >
-> Dia tonga Andriamanitra ka nampihahaka ny olona tamin'ny tany samy hafa, ka tsy nifankahazo.
+> Noho izany, Andriamanitra dia nidina, nampiely ny olona amin'ny vazan-tany samihafa, mampiasa fiteny samihafa.
 >
-> Nanomboka teo dia sahirana ny olombelona mba hifampiresaka, nipoitra tsy nisy fiafarana ny fifandirana, ary tsy nahita tilikambo manakatra ny lanitra intsony izao tontolo izao.
+> Nanomboka teo dia nanjary sarotra ny fifandraisan’ny olombelona, ​​tsy nisy fiafarana ny fifandirana, ary tsy nisy tilikambo nikasika ny lanitra intsony.
 
 Ny tantara foronina momba ny siansa &quot;Vata Telo&quot; (fanononana amin'ny teny sinoa: `3Ti` ) dia mamorona sivilizasiona vahiny mifandray amin'ny alàlan'ny onjam-peo elektromagnetika, tsy misy sakana amin'ny fiteny ary mandroso ara-teknolojia.
 
-Manantena aho fa noho ny fanampian’ity fitaovana ity dia ho toy ny olona telo ny olona eto an-tany, tsy ho voafehin’ny fiteny ny fifandraisana, ary ho tafaray indray ny olombelona rehetra.
+Manantena aho fa hamorona fitaovana iray izay hahatonga ny mponina eto an-tany ho tahaka ny olona telo, hifandray tsy ho voafatotry ny fiteny, ary hampiray indray ny olombelona rehetra.
 
 ## Tutorial
 

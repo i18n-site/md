@@ -10,19 +10,19 @@ Aku pengin ngomong yen **mung kanthi internasionalisasi kabeh situs, kita bisa n
 
 ## Urut-Urutan
 
-"Alkitab·Purwaning Dumadi":
+Kitab Suci · Purwaning Dumadi :
 
-> Wong kuna ora mbedakake basa. Padha mbangun menara tekan langit kanggo tekan gapura Gusti Allah kanggo ningkataké prestise bangsa manungsa.
+> Ing jaman kuna, nalika basa dadi siji, manungsa mbangun menara sing tekan langit, minangka portal kanggo wilayahe Gusti Allah, ngumumake kekuwatane manungsa.
 >
-> Gusti Allah ngendika manawa manungsa iku sawijining suku dhewe, kanthi budaya lan spesies sing padha. Mbangun menara mung minangka pambuka. Saiki sampeyan bisa ngrampungake apa wae sing dikarepake, lan sampeyan ora bakal wedi.
+> Gusti Allah ngandika, "Wong-wong padha nyawiji dadi siji taler, kanthi basa sing padha, lan menara iki mung minangka prolog. Saiki padha bisa nggayuh kekarepane, lan ora bakal ana rasa hormat."
 >
-> Ida Sang Hyang Widi Wasa raris rauh tur nyirnayang bangsa sane wenten ring sajeroning panggenan.
+> Mangkono, Gusti Allah tumurun, nyebarake wong menyang sudhut sing beda-beda, nggunakake basa sing beda-beda.
 >
-> Wiwit saiki, manungsa berjuang kanggo komunikasi, konflik muncul tanpa henti, lan jagad ora weruh menara sing tekan langit.
+> Wiwit iku, komunikasi manungsa dadi tantangan, regejegan ora ana enteke, lan ora ana menara sing ndemek langit.
 
 Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Basa Cina: `3Ti` ) minangka fiksi peradaban alien sing komunikasi liwat gelombang elektromagnetik, ora ana alangan basa, lan teknologi sing makmur.
 
-Muga-muga kanthi sarana sarana iki, wong-wong ing bumi dadi kaya wong telu, komunikasi ora kendala basa, lan kabeh manungsa bisa manunggal maneh.
+Mugi-mugi saged nyipta piranti ingkang saged ndadosaken warga bumi dados kados tiyang tiga, sesambungan tanpa kaiket basa, lan manunggalaken sedaya manungsa malih.
 
 ## Tutorial
 

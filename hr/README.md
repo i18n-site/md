@@ -10,19 +10,19 @@ Neki se ljudi možda žele pitati, sada kada preglednici imaju ugrađene funkcij
 
 ## Slijed
 
-"Biblija · Postanak":
+Biblija · Postanak :
 
-> Drevni ljudi nisu razlikovali jezike. Gradili su tornjeve koji su sezali do neba kako bi došli do Božjih vrata kako bi promicali prestiž ljudske rase.
+> U davna vremena, kada su jezici bili jedan, čovječanstvo je izgradilo toranj koji je sezao do neba, portal u Božju domenu, objavljujući moć čovječanstva.
 >
-> Bog je rekao da su ljudi svoje pleme, iste kulture i vrste. Izgradnja tornja samo je uvod. Sada možete postići što god želite i nećete se imati čega bojati.
+> Bog je objavio: "Ljudi se ujedinjuju kao jedno pleme, sa zajedničkim jezikom, a ova kula je samo prolog. Sada oni ostvaruju svoju želju, i nikakvo poštovanje neće preostati."
 >
-> Tada je došao Bog i raspršio ljude na razna mjesta, nesposobni da razumiju jedni druge.
+> Tako se Bog spustio, raspršio ljude u različite kutove, koristio različite jezike.
 >
-> Od tada pa nadalje, čovječanstvo se borilo da komunicira, sukobi su nastajali bez kraja i svijet više nije vidio kulu koja je dosezala do neba.
+> Od tada je ljudska komunikacija postala izazovna, sporovi beskrajni, a nije više bilo tornja koji je dodirivao nebo.
 
 Znanstveno-fantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) fikcionalizira izvanzemaljsku civilizaciju koja komunicira putem elektromagnetskih valova, nema jezičnih barijera i tehnološki je napredna.
 
-Nadam se da će uz pomoć ovog alata ljudi na Zemlji biti poput ljudi s tri tijela, da komunikacija neće biti ograničena jezikom i da će cijelo čovječanstvo ponovno biti ujedinjeno.
+Nadam se da ću stvoriti alat koji će omogućiti ljudima na Zemlji da budu poput ljudi s tri tijela, da komuniciraju bez vezanosti jezikom i ponovno ujedine cijelo čovječanstvo.
 
 ## Tutorial
 

@@ -10,19 +10,19 @@ Kayatko nga ibaga a **babaen laeng ti pananginternasional iti intero a site a su
 
 ## Panagsasaruno
 
-"Biblia·Genesis":
+Biblia · Genesis :
 
-> Saan a naglasin dagiti nagkauna a pagsasao. Nangaramidda kadagiti torre a dumanon iti tangatang tapno makadanonda iti ruangan ti Dios tapno maitandudo ti dayaw ti natauan a puli.
+> Idi un-unana a panawen, idi agmaymaysa dagiti pagsasao, nangibangon ti sangatauan iti torre a dumanon iti langit, maysa a ruangan nga agturong iti sakup ti Dios, a mangiwaragawag iti pannakabalin ti sangatauan.
 >
-> Kinuna ti Dios a dagiti tattao ket bukodda a tribu, nga agpapada ti kultura ken kitada. Ti panangibangon iti torre ket maysa laeng a pangrugian. Ita, maibanagmon ti aniaman a kayatmo, ket awanton ti pagbutngam.
+> Indeklara ti Dios, "Agkaykaysa dagiti lallaki kas maymaysa a tribu, nga addaan iti nabingbingay a dila, ket daytoy a torre ket maysa laeng a prologo. Ita maragpatda ti tarigagayda, ket awan ti agtalinaed a panagraem."
 >
-> Kalpasanna, immay ti Dios ket inwarasna dagiti tattao iti nadumaduma a lugar, a dida makaawat iti maysa ken maysa.
+> Gapuna, bimmaba ti Dios, a nangiwaras kadagiti tattao iti nagduduma a suli, agusar iti nagduduma a pagsasao.
 >
-> Manipud idin, inkarigatan ti sangatauan ti makikomunikar, timmaud nga awan patinggana dagiti rinnupiat, ket awanen ti nakita ti lubong a torre a dumanon iti tangatang.
+> Manipud idin, nagbalin a makakarit ti komunikasion ti tao, awan patinggana dagiti panagsusupiat, ket awanen ti torre a mangsagid iti langit.
 
 Ti nobela ti siensia a piksion a &quot;Tallo-a-Bagi&quot; (Insik a panagibalikas: `3Ti` ) ket piksionario ti maysa a ganggannaet a sibilisasion a makikomunikar babaen dagiti elektromagnetiko nga allon, awan dagiti lapped ti pagsasao, ken narang-ay iti teknolohia.
 
-Sapay koma ta babaen ti tulong daytoy nga alikamen, dagiti tattao ditoy daga ket kasla tallo ti bagina a tattao, saanton a lapdan ti komunikasion babaen ti pagsasao, ken agkaykaysa manen ti amin a sangatauan.
+Mangnamnamaak a mangparnuay iti ramit a mangpabalin kadagiti tattao ditoy daga nga agbalin a kas iti tallo ti bagina a tattao, makikomunikar a dida magalut iti pagsasao, ken mamagkaykaysa manen iti amin a sangatauan.
 
 ## Tutorial
 

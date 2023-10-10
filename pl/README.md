@@ -10,19 +10,19 @@ Chcę powiedzieć, że **tylko poprzez internacjonalizację całej witryny może
 
 ## Sekwencja
 
-„Biblia·Geneza”:
+Biblia · Geneza :
 
-> Starożytni nie rozróżniali języków. Zbudowali wieże sięgające nieba, aby dotrzeć do bramy Boga, aby promować prestiż rodzaju ludzkiego.
+> W starożytności, kiedy języki były jednym, ludzkość zbudowała wieżę sięgającą nieba, portal do królestwa Boga, głoszący potęgę ludzkości.
 >
-> Bóg powiedział, że ludzie są odrębnym plemieniem o tej samej kulturze i gatunku. Budowa wieży to tylko preludium. Teraz możesz osiągnąć, co chcesz, i nie będziesz miał się czego bać.
+> Bóg oświadczył: „Ludzie jednoczą się jako jedno plemię i mają wspólny język, a ta wieża to tylko prolog. Teraz spełniają swoje pragnienia i nie pozostanie już żaden szacunek”.
 >
-> Wtedy przyszedł Bóg i rozproszył ludzi po różnych miejscach, nie mogąc się porozumieć.
+> W ten sposób zstąpił Bóg, rozpraszając ludzi w różne zakątki, posługując się różnymi językami.
 >
-> Odtąd ludzkość miała trudności z komunikacją, konflikty narastały w nieskończoność, a świat nie widział już wieży sięgającej nieba.
+> Od tego czasu komunikacja międzyludzka stała się wyzwaniem, spory nie miały już końca i nie było już wieży sięgającej nieba.
 
 Powieść science fiction „Trzy ciała” (chińska wymowa: `3Ti` ) fabularyzuje obcą cywilizację, która komunikuje się za pomocą fal elektromagnetycznych, nie ma barier językowych i jest zamożna technologicznie.
 
-Mam nadzieję, że za pomocą tego narzędzia ludzie na ziemi będą jak ludzie w trzech ciałach, komunikacja nie będzie ograniczona językiem, a cała ludzkość ponownie się zjednoczy.
+Mam nadzieję stworzyć narzędzie, które umożliwi ludziom na ziemi być jak ludzie w trzech ciałach, komunikować się bez ograniczeń językowych i ponownie zjednoczyć całą ludzkość.
 
 ## Instruktaż
 

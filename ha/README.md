@@ -10,19 +10,19 @@ Ina so in faɗi cewa **ta hanyar ƙaddamar da duk rukunin yanar gizon kawai za m
 
 ## Jeri
 
-"Bible · Farawa":
+Littafi Mai Tsarki · Farawa :
 
-> Magabata ba su bambanta tsakanin harsuna ba. Sun gina hasumiyai har zuwa sama don isa kofar Allah don daukaka darajar bil'adama.
+> A zamanin dā, sa’ad da harsuna ɗaya suke, ’yan Adam sun gina hasumiya da ta kai zuwa sama, hanyar shiga yankin Allah, da ke shelar ikon ’yan Adam.
 >
-> Allah ya ce mutane ƙabila ce tasu, masu al’adu da jinsi ɗaya. Gina hasumiya shine kawai share fage. Yanzu za ku iya cika duk abin da kuke so, kuma ba za ku ji tsoro ba.
+> Allah ya ce: “Mutane sun haɗu a matsayin kabila ɗaya, da harshe ɗaya, kuma wannan hasumiya ba ta zama ba face ginshiƙi.
 >
-> Sai Allah ya zo ya warwatsa mutane a wurare daban-daban, sun kasa fahimtar juna.
+> Ta haka ne Allah ya sauko, ya watsar da mutane zuwa kusurwoyi daban-daban, yana amfani da harsuna daban-daban.
 >
-> Tun daga nan ne ’yan Adam suka yi ta ta faman sadar da zumunci, rikici ya taso har abada, kuma duniya ba ta sake ganin hasumiya da ta kai sama ba.
+> Tun daga nan, sadarwar ɗan adam ta zama ƙalubale, jayayya ba ta ƙarewa, kuma babu sauran hasumiya da ta taɓa sararin sama.
 
 Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci: `3Ti` ) ya ƙirƙira wani baƙon wayewa wanda ke sadarwa ta hanyar igiyoyin lantarki, ba shi da shingen harshe, kuma yana da wadata ta fasaha.
 
-Ina fata cewa da taimakon wannan kayan aiki, mutanen duniya za su zama kamar mutane uku, sadarwa ba za ta hana ta harshe ba, kuma dukan ’yan Adam za su kasance da haɗin kai kuma.
+Ina fata in ƙirƙiro wani kayan aiki da zai sa mutanen duniya su zama kamar mutane uku, su sadarwa ba tare da ɗaure su da harshe ba, da kuma sake haɗa dukan ’yan Adam.
 
 ## Koyarwa
 

@@ -10,19 +10,19 @@ E hiahia ana ahau ki te kii **ma te panui i te pae katoa ka taea e tatou te taut
 
 ## Raupapa
 
-"Bible·Genesis":
+Paipera · Genesis :
 
-> Kaore nga tangata o mua i wehe i nga reo. I hanga e ratou etahi pourewa ki te rangi kia tae atu ki te kuwaha o te Atua hei whakanui i te mana o te tangata.
+> I nga wa onamata, i te kotahitanga o nga reo, i hanga e te tangata he pourewa e eke ana ki te rangi, he tomokanga ki te rohe o te Atua, hei whakaatu i te kaha o te tangata.
 >
-> I kii te Atua he iwi ake te tangata, he rite tonu nga tikanga me nga momo. Ko te hanga i te pourewa he timatanga noa. Inaianei ka taea e koe te whakatutuki i nga mea katoa e hiahia ana koe, a kaore koe e mataku.
+> Ka kii te Atua, "Ka whakakotahi nga tangata hei iwi kotahi, me te reo tahi, ko tenei pourewa he kupu tuatahi. Inaianei kua tutuki to ratou hiahia, kare he wehi e mau."
 >
-> Na ka haere mai te Atua, ka whakamararatia te iwi ki nga wahi maha, te mohio tetahi ki tetahi.
+> No reira, ka heke iho te Atua, whakamararatia nga tangata ki nga kokonga rereke, whakamahi reo rereke.
 >
-> Mai i tera wa, ka tohe te tangata ki te whakawhitiwhiti korero, ka ara ake nga pakanga kore mutunga, kaore ano te ao i kite i tetahi pourewa ka eke ki te rangi.
+> Mai i tera wa, ka uaua te korero a te tangata, ka mutu nga tautohetohe, karekau he pourewa e pa ana ki te rangi.
 
 Ko te pakimaero pakimaero &quot;Three-Body&quot; (te whakahua reo Hainamana: `3Ti` ) he korero pakiwaitara mo te ao tangata ke e korero ana ma nga ngaru hiko, karekau he arai reo, he pai te hangarau.
 
-Te ti'aturi nei au maoti teie mauhaa, e riro te mau taata o te fenua nei mai te taata e toru tino, eita te aparauraa e taotiahia e te reo, e e tahoê-faahou-hia te mau taata atoa.
+Te ti'aturi nei au ki te hanga i tetahi taputapu e taea ai e nga tangata o te whenua te rite ki nga tangata e toru nga tinana, ki te whakawhitiwhiti korero me te kore e herea e te reo, me te whakakotahi ano i nga tangata katoa.
 
 ## Akoranga
 

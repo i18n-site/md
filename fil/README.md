@@ -10,19 +10,19 @@ Gusto kong sabihin na **sa pamamagitan lamang ng pag-internationalize ng buong s
 
 ## Pagkakasunod-Sunod
 
-"Bibliya·Genesis":
+Bibliya · Genesis :
 
-> Ang mga sinaunang tao ay hindi nagtatangi sa pagitan ng mga wika. Nagtayo sila ng mga tore na umaabot sa langit upang maabot ang pintuan ng Diyos upang itaguyod ang prestihiyo ng sangkatauhan.
+> Noong sinaunang panahon, noong iisa ang mga wika, ang sangkatauhan ay nagtayo ng isang tore na umaabot hanggang sa langit, isang portal patungo sa nasasakupan ng Diyos, na naghahayag ng kapangyarihan ng sangkatauhan.
 >
-> Sinabi ng Diyos na ang mga tao ay sariling tribo, na may parehong kultura at uri. Ang pagtatayo ng tore ay panimula lamang. Ngayon ay magagawa mo na ang anumang gusto mo, at wala kang dapat ikatakot.
+> Ipinahayag ng Diyos, "Ang mga tao ay nagkakaisa bilang isang lipi, na may iisang wika, at ang tore na ito ay isang pambungad lamang.
 >
-> Pagkatapos ay dumating ang Diyos at ikinalat ang mga tao sa iba't ibang lugar, na hindi nagkakaintindihan.
+> Kaya, bumaba ang Diyos, pinangalat ang mga tao sa iba't ibang sulok, gumamit ng iba't ibang wika.
 >
-> Mula noon, ang sangkatauhan ay nagpupumilit na makipag-usap, ang mga salungatan ay lumitaw nang walang katapusan, at ang mundo ay wala nang nakitang isang tore na umabot sa kalangitan.
+> Mula noon, naging mahirap ang komunikasyon ng tao, walang katapusan ang mga pagtatalo, at wala nang tore na umabot sa langit.
 
 Ang nobelang science fiction na &quot;Three-Body&quot; (pagbigkas ng Tsino: `3Ti` ) ay gawa-gawa ang isang dayuhan na sibilisasyon na nakikipag-usap sa pamamagitan ng mga electromagnetic wave, walang mga hadlang sa wika, at maunlad sa teknolohiya.
 
-Umaasa ako na sa tulong ng kasangkapang ito, ang mga tao sa daigdig ay magiging tulad ng mga taong may tatlong katawan, ang komunikasyon ay hindi mapipigilan ng wika, at ang buong sangkatauhan ay muling magkakaisa.
+Umaasa akong lumikha ng isang kasangkapan na magbibigay-daan sa mga tao sa mundo na maging tulad ng tatlong-katawan na mga tao, makipag-usap nang hindi nakagapos sa wika, at muling magkaisa ang buong sangkatauhan.
 
 ## Pagtuturo
 

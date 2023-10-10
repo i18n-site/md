@@ -10,19 +10,19 @@ Ngifuna ukusho ukuthi **kuphela ngokwenza isayithi yonke ibe ngamazwe ngamazwe l
 
 ## Ukulandelana
 
-"Bible·Genesis":
+IBhayibheli · Genesise :
 
-> Abantu basendulo babengahlukanisi izilimi. Bakha imibhoshongo efinyelela esibhakabhakeni ukuze ifinyelele esangweni likaNkulunkulu ukuze kuthuthukiswe udumo lwesintu.
+> Ezikhathini zasendulo, lapho izilimi zimunye, isintu sakha umbhoshongo ofinyelela emazulwini, ingosi yombuso kaNkulunkulu, omemezela amandla esintu.
 >
-> UNkulunkulu wathi abantu bayisizwe sabo, esinamasiko nezinhlobo ezifanayo. Ukwakha umbhoshongo kuyisandulela. Manje usungakwazi ukufeza noma yini oyifunayo, futhi ngeke usaba nalutho.
+> UNkulunkulu wathi, "Abantu bahlangana njengesizwe esisodwa, ngolimi oluhlanganyelwe, futhi lo mbhoshongo uyisandulela. Manje sebefeza isifiso sabo, futhi akukho nhlonipho eyosala."
 >
-> Khona-ke uNkulunkulu wafika wabahlakaza abantu ezindaweni ezihlukahlukene, bengakwazi ukuzwana.
+> Ngakho, uNkulunkulu wehla, ehlakaza abantu emagumbini ahlukene, esebenzisa izilimi ezahlukene.
 >
-> Kusukela ngaleso sikhathi kuqhubeke, isintu sazabalaza ukuxhumana, kwaqubuka izingxabano ezingapheli, futhi umhlaba awubange usabona umbhoshongo ofinyelela esibhakabhakeni.
+> Kusukela ngaleso sikhathi kuqhubeke, ukuxhumana kwabantu kwaba yinselele, izingxabano ezingapheli, futhi wawungasekho umbhoshongo othinta isibhakabhaka.
 
 Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphimbo lesiShayina: `3Ti` ) iqamba impucuko engaziwa exhumana namagagasi kagesi, engenazo izithiyo zolimi, futhi ephumelelayo kwezobuchwepheshe.
 
-Ngethemba ukuthi ngosizo lwaleli thuluzi, abantu basemhlabeni bayoba njengabantu abanemizimba emithathu, ukuxhumana ngeke kuvinjelwe ulimi, futhi sonke isintu siyophinde sihlangane.
+Ngethemba ukuthi ngizokwenza ithuluzi elizokwenza abantu basemhlabeni babe njengabantu abanemizimba emithathu, baxhumane ngaphandle kokuboshwa ngolimi, futhi baphinde bahlanganise sonke isintu.
 
 ## Okokufundisa
 

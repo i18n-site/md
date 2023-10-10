@@ -10,19 +10,19 @@ Käbir adamlar soramak isläp bilerler, indi brauzerlerde içerki terjime funksi
 
 ## Yzygiderlilik
 
-"Injil · Gelip çykyş":
+Injil · Gelip çykyş :
 
-> Gadymylar dilleri tapawutlandyrmandyrlar. Adamzadyň abraýyny ýokarlandyrmak üçin Hudaýyň derwezesine ýetmek üçin asmana ýetýän diňler gurupdyrlar.
+> Gadymy döwürlerde diller bir bolan mahaly adamzat gudratyny yglan edip, asmana ýetýän diň, Taňrynyň ygtyýaryna girýän diň gurupdyr.
 >
-> Hudaý adamlaryň öz medeniýeti we görnüşleri bilen bir taýpadygyny aýtdy. Minara gurmak diňe başlangyç. Indi islän zadyňyzy edip bilersiňiz, gorkjak zadyňyz bolmaz.
+> Hudaý: "Adamlar bir taýpa bolup, umumy dilde birleşýärler, bu diň diňe başlangyç söz. Indi isleglerine ýetýärler, hormat galmaz" -diýdi.
 >
-> Soňra Hudaý gelip, birek-birege düşünip bilmän adamlary dürli ýerlere dargatdy.
+> Şeýlelik bilen, Hudaý inip, adamlary dürli burçlara ýaýratdy, dürli dilleri ulandy.
 >
-> Şondan bäri adamzat aragatnaşyk gurmak üçin göreşdi, gapma-garşylyklar tükeniksiz ýüze çykdy we dünýä asmana ýetýän diň görmedi.
+> Şondan bäri adam aragatnaşygy kynlaşdy, jedeller tükeniksiz boldy, asmana degen diň ýokdy.
 
 Ylmy fantastika romany &quot;Üç beden&quot; (hytaýça aýdylyşy: `3Ti` ) elektromagnit tolkunlar arkaly aragatnaşyk saklaýan, dil päsgelçilikleri bolmadyk we tehnologiki taýdan gülläp ösýän keseki siwilizasiýany toslaýar.
 
-Bu guralyň kömegi bilen ýer ýüzündäki adamlar üç bedenli adamlar ýaly bolar, aragatnaşyk dil bilen çäklendirilmez we bütin adamzat ýene birleşer diýip umyt edýärin.
+Earther togalagynyň adamlaryna üç bedenli adamlar ýaly bolmaga, dil bilen baglanyşyksyz gürleşmäge we bütin adamzady täzeden birleşdirmäge mümkinçilik berýän gural döretmäge umyt edýärin.
 
 ## Tutorial
 

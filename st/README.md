@@ -10,19 +10,19 @@ Ke batla ho bolela hore **ke feela ka ho etsa hore sebaka sohle sa marang-rang s
 
 ## Tatelano
 
-"Bibele Genese":
+Bibele · Genese :
 
-> Batho ba boholo-holo ba ne ba sa khetholle lipuo. Ba ile ba haha ​​litora tse fihlang leholimong ho fihla hekeng ea Molimo ho ntšetsa pele botumo ba moloko oa batho.
+> Mehleng ea boholo-holo, ha lipuo e ne e le ntho e le ’ngoe, batho ba ile ba haha ​​tora e fihlang maholimong, monyako oa sebaka sa puso ea Molimo, e phatlalatsang matla a moloko oa batho.
 >
-> Molimo o ile a re batho ke moloko oa bona, ba nang le setso le mefuta e tšoanang. Ho haha ​​tora ke selelekela feela. Hona joale u ka finyella eng kapa eng eo ue batlang, 'me u ke ke ua tšaba letho.
+> Modimo o boletse, "Batho ba kopana jwalo ka morabe o le mong, ka leleme le le leng, mme tora ena ke selelekela. Jwale ba fihlela takatso ya bona, mme ha ho hlompho e tla sala."
 >
-> Ke moka Modimo a tla a gašanya batho mafelong a fapa-fapanego, ba sa kgone go kwešišana.
+> Kahoo, Molimo o ile a theoha, a hasanya batho likhutlong tse fapaneng, a sebelisa lipuo tse fapaneng.
 >
-> Ho tloha ka nako eo ho ea pele, moloko oa batho o ile oa thatafalloa ke ho buisana, likhohlano tsa hlaha ka ho sa feleng, ’me lefatše ha lea ka la hlola le bona tora e fihlang leholimong.
+> Ho tloha ka nako eo ho ea pele, puisano ea batho e ile ea e-ba phephetso, likhohlano tse sa feleng, ’me ha hoa ka ha hlola ho e-ba le tora e amang leholimo.
 
 Pale ea tšōmo ea mahlale &quot;Mele e Meraro&quot; (polelo ea Sechaena: `3Ti` ) e iqapetse tsoelopele esele e buisanang ka maqhubu a motlakase, e senang litšitiso tsa puo, 'me e atlehile ho tsa theknoloji.
 
-Ke tšepa hore ka thuso ea sesebelisoa sena, batho ba lefatše ba tla tšoana le batho ba ’mele e meraro, puisano e ke ke ea thibeloa ka puo, ’me moloko oohle oa batho o tla boela o kopane.
+Ke tšepa hore ke tla etsa kofuto e tla nolofalletsa batho ba lefatše ho tšoana le batho ba nang le ’mele e meraro, ba buisane ba sa tlangoe ke puo, ’me ba boele ba momahane batho bohle.
 
 ## Thuto
 

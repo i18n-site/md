@@ -10,19 +10,19 @@ Es gribu teikt, ka **tikai internacionalizējot visu vietni, mēs varam atbalst�
 
 ## Secība
 
-"Bībele·Genesis":
+Bībele · Genesis :
 
-> Senie cilvēki nešķīra valodas. Viņi uzcēla torņus, kas sniedzās līdz debesīm, lai sasniegtu Dieva vārtus, lai veicinātu cilvēces prestižu.
+> Senos laikos, kad valodas bija viena, cilvēce uzcēla torni, kas sniedzās līdz debesīm, portālu uz Dieva sfēru, sludinot cilvēces spēku.
 >
-> Dievs teica, ka cilvēki ir sava cilts, ar vienu un to pašu kultūru un sugām. Torņa celtniecība ir tikai prelūdija. Tagad jūs varat paveikt visu, ko vēlaties, un jums nebūs no kā baidīties.
+> Dievs paziņoja: "Vīri apvienojas kā viena cilts, ar kopīgu mēli, un šis tornis ir tikai prologs. Tagad viņi sasniedz savu vēlmi, un nekāda godbijība nepaliks."
 >
-> Tad nāca Dievs un izklīdināja ļaudis pa dažādām vietām, nespējot vienam otru saprast.
+> Tā Dievs nolaidās, izklīdināja cilvēkus uz dažādiem stūriem, lietoja dažādas valodas.
 >
-> Kopš tā laika cilvēcei bija grūti sazināties, konflikti radās bezgalīgi, un pasaule vairs neredzēja torni, kas sasniegtu debesis.
+> Kopš tā laika cilvēku komunikācija kļuva sarežģīta, strīdi bezgalīgi, un vairs nebija torņa, kas pieskartos debesīm.
 
 Zinātniskās fantastikas romāns &quot;Trīsķermeņi&quot; (ķīniešu izruna: `3Ti` ) izdomāja citplanētiešu civilizāciju, kas sazinās ar elektromagnētisko viļņu palīdzību, kurai nav valodas barjeru un kas ir tehnoloģiski pārtikusi.
 
-Ceru, ka ar šī rīka palīdzību zemes cilvēki būs kā trīsķermeņi, komunikāciju neierobežos valoda un visa cilvēce atkal būs vienota.
+Es ceru izveidot rīku, kas ļaus cilvēkiem uz zemes būt kā trīs ķermeņa cilvēkiem, sazināties bez valodas un atkal apvienot visu cilvēci.
 
 ## Apmācība
 

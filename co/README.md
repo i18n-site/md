@@ -10,19 +10,19 @@ Vogliu dì chì **solu per l'internazionalizazione di u situ sanu pudemu sustene
 
 ## Sequenza
 
-"Bibbia · Genesi":
+Bibbia · Genesi :
 
-> L'antichi ùn distinguevanu trà e lingue. Custruivanu turri chì ghjunghjenu à u celu per ghjunghje à a porta di Diu per prumove u prestigiu di a razza umana.
+> In i tempi antichi, quandu e lingue eranu una, l'umanità hà custruitu una torre chì ghjunghje sin'à u celu, un portale à u duminiu di Diu, pruclamendu a putenza di l'umanità.
 >
-> U Diu hà dettu chì e persone sò una tribù propria, cù a listessa cultura è spezie. Custruì una torre hè solu un preludiu. Avà pudete fà ciò chì vulete, è ùn averete nunda da teme.
+> Diu hà dichjaratu: "L'omi s'uniscenu cum'è una tribù, cù una lingua cumuna, è sta torre ùn hè chè un prologu. Avà ghjunghjenu u so desideriu, è ùn resta micca reverenza ".
 >
-> Allora Diu hè ghjuntu è hà spargugliatu a ghjente in parechji lochi, incapaci di capiscenu.
+> Cusì, Diu scendinu, sparghje a ghjente in diverse anguli, utilizate diverse lingue.
 >
-> Da tandu, l'umanità hà luttatu per cumunicà, i cunflitti sò ghjunti senza fine, è u mondu ùn hà più vistu una torre chì ghjunghje sin'à u celu.
+> Da tandu, a cumunicazione umana hè diventata sfida, disputi senza fine, è ùn ci era più una torra chì tocca u celu.
 
 U rumanzu di fantascienza &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) fictionalizes una civilisazione straniera chì cumunica per mezu di onde elettromagnetiche, ùn hà micca barriere linguistiche, è hè tecnologicamente prusperu.
 
-Spergu chì cù l'aiutu di stu strumentu, u populu di a terra serà cum'è persone di trè corpi, a cumunicazione ùn serà micca limitata da a lingua, è tutta l'umanità serà unita di novu.
+Spergu di creà un strumentu chì permetterà à a ghjente di a terra di esse cum'è e persone di trè corpi, di cumunicà senza esse ligatu da a lingua, è unisce di novu tutta l'umanità.
 
 ## Tutorial
 

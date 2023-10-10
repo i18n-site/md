@@ -10,19 +10,19 @@ Ndashaka kuvuga ko **muguhindura amahanga kurubuga rwose dushobora gushyigikira 
 
 ## Urukurikirane
 
-"Bibiliya · Itangiriro":
+Bibiliya · Itangiriro :
 
-> Abakera ntibatandukanije indimi. Bubatse iminara igera mwijuru kugirango bagere ku irembo ryImana kugirango bamenyekanishe icyubahiro cyabantu.
+> Mu bihe bya kera, igihe indimi zari imwe, ikiremwamuntu cyubatse umunara ugera mwijuru, umuyoboro ugenga Imana, utangaza imbaraga zabantu.
 >
-> Imana yavuze ko abantu ari ubwoko bwabo, bafite umuco nubwoko bumwe. Kubaka umunara ni intangiriro. Noneho urashobora kugera kubyo ushaka byose, kandi ntacyo uzagira ubwoba.
+> Imana yatangaje iti: "Abantu bishyira hamwe nkumuryango umwe, bafite ururimi rusangiwe, kandi uyu munara ni intangiriro. Noneho bageze ku cyifuzo cyabo, kandi nta cyubahiro kizagumaho."
 >
-> Hanyuma Imana iraza ikwirakwiza abantu ahantu hatandukanye, idashobora kumvikana.
+> Rero, Imana yamanutse, ikwirakwiza abantu mu mpande zitandukanye, ikoresha indimi zitandukanye.
 >
-> Kuva icyo gihe, abantu barwanira gushyikirana, amakimbirane avuka ubuziraherezo, kandi isi ntiyongeye kubona umunara wageze mu kirere.
+> Kuva icyo gihe, itumanaho ryabantu ryabaye ingorabahizi, amakimbirane atagira iherezo, kandi ntihariho umunara ukora ku kirere.
 
 Igitabo gihimbano cya siyansi &quot;Imibiri itatu&quot; (Imvugo y'Igishinwa: `3Ti` ) gihimbano umuco w'abanyamahanga uvugana binyuze mu muhengeri wa electroniki, nta mbogamizi z’ururimi, kandi utera imbere mu ikoranabuhanga.
 
-Nizere ko hifashishijwe iki gikoresho, abatuye isi bazamera nkabantu batatu, itumanaho ntirizagabanywa nururimi, kandi abantu bose bazongera ubumwe.
+Nizeye gukora igikoresho kizafasha abatuye isi kumera nkabantu batatu, kuvugana nta guhambirwa nururimi, no kongera guhuza abantu bose.
 
 ## Inyigisho
 

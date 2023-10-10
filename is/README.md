@@ -10,19 +10,19 @@ Sumir gætu viljað spyrja, nú þegar vafrar eru með innbyggða þýðingarað
 
 ## Röð
 
-"Biblían · Genesis":
+Biblían · Fyrsta Mósebók :
 
-> Fornmenn gerðu ekki greinarmun á tungumálum. Þeir byggðu turna sem náðu til himins til að komast að hliði Guðs til að efla álit mannkynsins.
+> Í fornöld, þegar tungumál voru eitt, byggði mannkynið turn sem náði til himins, gátt að ríki Guðs og boðaði mátt mannkyns.
 >
-> Guð sagði að fólk væri eigin ættkvísl, með sömu menningu og tegund. Að byggja turn er bara forleikur. Nú geturðu afrekað hvað sem þú vilt og þú þarft ekkert að óttast.
+> Guð lýsti yfir: "Menn sameinast sem ein ættkvísl, með sameiginlegri tungu, og þessi turn er aðeins formáli. Nú ná þeir löngun sinni og engin lotning verður eftir."
 >
-> Þá kom Guð og tvístraði fólkinu á ýmsa staði, ófær um að skilja hver annan.
+> Þannig kom Guð niður, tvístraði fólki í mismunandi horn, notaði mismunandi tungumál.
 >
-> Upp frá því átti mannkynið í erfiðleikum með samskipti, endalaust komu upp átök og heimurinn sá ekki lengur turn sem náði til himins.
+> Upp frá því urðu mannleg samskipti krefjandi, deilur endalausar og ekki lengur turn sem snerti himininn.
 
 Vísindaskáldsagan „Three-Body“ (kínverskur framburður: `3Ti` ) skáldar upp framandi siðmenningu sem hefur samskipti í gegnum rafsegulbylgjur, hefur engar tungumálahindranir og er tæknilega velmegandi.
 
-Ég vona að með hjálp þessa verkfæris verði fólk á jörðinni eins og þriggja líkama fólk, samskipti verði ekki takmörkuð af tungumáli og allt mannkyn muni sameinast á ný.
+Ég vonast til að búa til tæki sem gerir jarðarbúum kleift að vera eins og þrír líkama fólk, eiga samskipti án þess að vera bundin af tungumáli og sameina allt mannkynið aftur.
 
 ## Kennsla
 

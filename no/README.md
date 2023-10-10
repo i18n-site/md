@@ -10,19 +10,19 @@ Jeg vil si at **bare ved å internasjonalisere hele nettstedet kan vi støtte fl
 
 ## Sekvens
 
-"Bibel · Genesis":
+Bibelen · 1. Mosebok :
 
-> De gamle skilte ikke mellom språk. De bygde tårn som nådde himmelen for å nå Guds port for å fremme menneskehetens prestisje.
+> I gamle tider, da språk var ett, bygde menneskeheten et tårn som nådde himmelen, en portal til Guds domene, og forkynte menneskehetens makt.
 >
-> Gud sa at mennesker er en egen stamme, med samme kultur og art. Å bygge et tårn er bare et forspill. Nå kan du oppnå hva du vil, og du vil ikke ha noe å frykte.
+> Gud erklærte: "Mennene forenes som én stamme, med en felles tunge, og dette tårnet er bare en prolog. Nå oppnår de sitt ønske, og ingen ærbødighet vil bli igjen."
 >
-> Så kom Gud og spredte folket på forskjellige steder, ute av stand til å forstå hverandre.
+> Dermed kom Gud ned, spredte folk til forskjellige hjørner, bruker forskjellige språk.
 >
-> Fra da av slet menneskeheten med å kommunisere, konflikter oppsto i det uendelige, og verden så ikke lenger et tårn som nådde himmelen.
+> Fra da av ble menneskelig kommunikasjon utfordrende, stridigheter uendelige, og ikke lenger var det et tårn som rørte himmelen.
 
 Science fiction-romanen &quot;Three-Body&quot; (kinesisk uttale: `3Ti` ) fiksjonaliserer en fremmed sivilisasjon som kommuniserer gjennom elektromagnetiske bølger, har ingen språkbarrierer og er teknologisk velstående.
 
-Jeg håper at ved hjelp av dette verktøyet vil menneskene på jorden bli som trekroppsmennesker, kommunikasjon vil ikke bli begrenset av språk, og hele menneskeheten vil bli forent igjen.
+Jeg håper å skape et verktøy som vil gjøre det mulig for menneskene på jorden å være som trekroppsmennesker, kommunisere uten å være bundet av språk, og forene hele menneskeheten igjen.
 
 ## Opplæringen
 

@@ -10,19 +10,19 @@ Povedati želim, da **samo z internacionalizacijo celotnega spletnega mesta lahk
 
 ## Zaporedje
 
-"Biblija · Geneza":
+Sveto pismo · Geneza :
 
-> Starodavni niso razlikovali med jeziki. Zgradili so stolpe, ki so segali do neba, da bi dosegli Božja vrata, da bi povečali ugled človeške rase.
+> V starih časih, ko so bili jeziki enotni, je človeštvo zgradilo stolp, ki je segal do nebes, portal v Božjo domeno, ki je oznanjal človeško moč.
 >
-> Bog je rekel, da smo ljudje svoje pleme, z isto kulturo in vrsto. Gradnja stolpa je le uvod. Zdaj lahko dosežete, kar želite, in ne boste se imeli česa bati.
+> Bog je izjavil: "Ljudje se združijo kot eno pleme, s skupnim jezikom, in ta stolp je le prolog. Zdaj izpolnijo svojo željo in ne bo več nobenega spoštovanja."
 >
-> Potem je prišel Bog in ljudi razkropil na različne kraje, da se niso mogli razumeti.
+> Tako se je Bog spustil in ljudi razpršil na različne konce, uporabljal različne jezike.
 >
-> Od takrat naprej se je človeštvo trudilo komunicirati, neskončno so nastajali konflikti in svet ni več videl stolpa, ki bi segal do neba.
+> Od takrat naprej je človeška komunikacija postala zahtevna, spori neskončni in ni bilo več stolpa, ki bi se dotaknil neba.
 
 Znanstvenofantastični roman &quot;Three-Body&quot; (kitajska izgovorjava: `3Ti` ) fikcionalizira tujo civilizacijo, ki komunicira prek elektromagnetnih valov, nima jezikovnih ovir in je tehnološko uspešna.
 
-Upam, da bodo s pomočjo tega orodja ljudje na zemlji podobni ljudem s tremi telesi, da komunikacija ne bo omejena z jezikom in da bo vse človeštvo spet združeno.
+Upam, da bom ustvaril orodje, ki bo ljudem na zemlji omogočilo, da bodo kot ljudje s tremi telesi, da bodo komunicirali, ne da bi bili vezani na jezik, in ponovno združili vse človeštvo.
 
 ## Vadnica
 

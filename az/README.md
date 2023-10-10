@@ -10,19 +10,19 @@ Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə bi
 
 ## Ardıcıllıq
 
-"İncil · Yaradılış":
+İncil · Yaradılış :
 
-> Qədimlər dillər arasında fərq qoymurlar. İnsan övladının nüfuzunu yüksəltmək üçün Allahın qapısına çatmaq üçün göyə çatan qüllələr tikdilər.
+> Qədim dövrlərdə, dillər bir olanda, bəşəriyyət göylərə uzanan bir qüllə, Allahın qüdrətini elan edən bir qapı tikdi.
 >
-> Tanrı deyirdi ki, insanlar eyni mədəniyyətə və cinsə malik olan öz qəbilələridir. Qüllə tikmək sadəcə bir müqəddimədir. İndi siz istədiyiniz hər şeyi edə bilərsiniz və qorxmağa heç bir şeyiniz olmayacaq.
+> Allah bəyan etdi: "İnsanlar bir qəbilə kimi, ortaq dildə birləşirlər və bu qüllə yalnız bir müqəddimədir. İndi onlar öz arzularına çatırlar və heç bir ehtiram qalmayacaq."
 >
-> Sonra Allah gəlib insanları bir-birini başa düşə bilməyərək müxtəlif yerlərə səpələdi.
+> Beləliklə, Allah nazil olub, insanları müxtəlif guşələrə səpələyib, müxtəlif dillərdən istifadə edir.
 >
-> Bundan sonra bəşəriyyət ünsiyyət qurmaq üçün mübarizə apardı, sonsuz münaqişələr yarandı və dünya daha səmaya çatan bir qüllə görmədi.
+> O vaxtdan insanlar arasında ünsiyyət çətinləşdi, mübahisələr bitdi və artıq göyə toxunan bir qüllə qalmadı.
 
 Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Ti` ) elektromaqnit dalğaları vasitəsilə ünsiyyət quran, heç bir dil maneəsi olmayan və texnoloji cəhətdən çiçəklənən yadplanetli sivilizasiyanı xəyal edir.
 
-Ümid edirəm ki, bu alətin köməyi ilə yer əhli üç bədənli insanlar kimi olacaq, ünsiyyət dillə məhdudlaşdırılmayacaq və bütün bəşəriyyət yenidən birləşəcək.
+Ümid edirəm ki, yer kürəsinin insanları üç bədənli insanlar kimi olmağa, dilə bağlı olmadan ünsiyyət qurmağa və bütün bəşəriyyəti yenidən birləşdirməyə imkan verəcək bir vasitə yaradacam.
 
 ## Dərslik
 

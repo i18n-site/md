@@ -10,19 +10,19 @@ Mi volas diri, ke **nur internaciigante la tutan retejon ni povas subteni plurli
 
 ## Sekvenco
 
-"Biblio · Genezo":
+Biblio · Genezo :
 
-> La antikvuloj ne distingis inter lingvoj. Ili konstruis turojn atingantajn la ĉielon por atingi la pordegon de Dio por antaŭenigi la prestiĝon de la homa raso.
+> En antikvaj tempoj, kiam lingvoj estis unu, la homaro konstruis turon atingantan al la ĉielo, portalo al la domajno de Dio, proklamante la potencon de la homaro.
 >
-> La Dio diris, ke homoj estas propra tribo, kun la sama kulturo kaj specio. Konstrui turon estas nur preludo. Nun vi povas plenumi kion ajn vi volas, kaj vi havos nenion por timi.
+> Dio deklaris, "Homoj kuniĝas kiel unu tribo, kun komuna lango, kaj ĉi tiu turo estas nur prologo. Nun ili atingas sian deziron, kaj neniu respekto restos."
 >
-> Tiam Dio venis kaj disigis la homojn en diversajn lokojn, ne povante kompreni unu la alian.
+> Tiel, Dio malsupreniris, disĵetante homojn al malsamaj anguloj, uzi malsamajn lingvojn.
 >
-> De tiam la homaro luktis por komuniki, konfliktoj estiĝis senfine, kaj la mondo ne plu vidis turon, kiu atingis la ĉielon.
+> De tiam la homa komunikado fariĝis malfacila, disputoj senfinaj, kaj ne plu ekzistis turo kiu tuŝis la ĉielon.
 
 La sciencfikcia romano &quot;Tri-korpoj&quot; (ĉine elparolo: `3Ti` ) fikciigas fremdan civilizon kiu komunikas per elektromagnetaj ondoj, havas neniujn lingvajn barojn, kaj estas teknologie prospera.
 
-Mi esperas, ke helpe de ĉi tiu ilo, la homoj de la tero estos kiel trikorpaj homoj, komunikado ne estos limigita de lingvo, kaj la tuta homaro denove kuniĝos.
+Mi esperas krei ilon, kiu ebligos al la homoj de la tero esti kiel trikorpaj homoj, komuniki sen esti ligita per lingvo, kaj unuigi denove la tutan homaron.
 
 ## Lernilo
 

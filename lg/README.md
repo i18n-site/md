@@ -10,19 +10,19 @@ Njagala okugamba nti **nga tufuula omukutu gwonna ogw’ensi yonna gwokka gwe tu
 
 ## Olunyiriri
 
-"Baibuli·Olubereberye".:
+Baibuli · Olubereberye :
 
-> Ab’edda tebaawulamu nnimi. Baazimba eminaala egyatuuka mu bbanga okutuuka ku mulyango gwa Katonda okutumbula ekitiibwa ky’olulyo lw’omuntu.
+> Mu biseera eby’edda, ennimi bwe zaali zimu, abantu baazimba omunaala ogwatuuka mu ggulu, omulyango oguyingira mu bufuzi bwa Katonda, nga balangirira amaanyi g’omuntu.
 >
-> Katonda yagamba nti abantu kika kyabwe, nga balina obuwangwa n’ekika kye kimu. Okuzimba omunaala kibeera kya kusooka. Kati osobola okutuukiriza kyonna ky’oyagala, era tojja kuba na kintu kyonna ky’otya.
+> Katonda yalangirira nti, "Abasajja beegatta ng'ekika kimu, n'olulimi olugabana, era omunaala guno gwa nnyanjula yokka. Kati batuuka ku kwegomba kwabwe, era tewali kitiibwa kyonna kijja kusigalawo."
 >
-> Awo Katonda n’ajja n’asaasaanya abantu mu bifo ebitali bimu, nga tebasobola kutegeeragana.
+> Bwe kityo, Katonda yakka, n’asaasaanya abantu mu nsonda ez’enjawulo, nga bakozesa ennimi ez’enjawulo.
 >
-> Okuva olwo, abantu baalwanagana okuwuliziganya, enkaayana ne zijja nga tezikoma, era ensi teyaddamu kulaba munaala gwatuuka mu bbanga.
+> Okuva olwo, empuliziganya y’abantu yafuuka ya kusoomoozebwa, enkaayana tezikoma, era tewakyaliwo munaala ogwakwata ku bbanga.
 
 Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y'Oluchina: `3Ti` ) kifuula embuga y'abagwira ewuliziganya okuyita mu mayengo ga masanyalaze, etaliiko biziyiza lulimi, era ekulaakulana mu tekinologiya.
 
-Nsuubira nti nga tuyambibwako ekintu kino, abantu b’ensi bajja kuba ng’abantu ab’emibiri esatu, empuliziganya tegenda kuziyizibwa lulimi, era abantu bonna bajja kuddamu okwegatta.
+Nsuubira okutondawo ekintu ekinasobozesa abantu b’ensi okubeera ng’abantu ab’emibiri esatu, okuwuliziganya nga tebasibiddwa lulimi, n’okuddamu okugatta abantu bonna.
 
 ## Okuyigiriza
 

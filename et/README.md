@@ -10,19 +10,19 @@ Tahan öelda, et **ainult kogu saidi rahvusvahelistumisega saame toetada mitmeke
 
 ## Jada
 
-"Piibel · Genesis":
+Piibel · Genesis :
 
-> Vanad inimesed ei teinud keeltel vahet. Nad ehitasid taevasse ulatuvaid torne, et jõuda Jumala väravani, et edendada inimkonna prestiiži.
+> Iidsetel aegadel, kui keeled olid üks, ehitas inimkond taevasse ulatuva torni, portaali Jumala valdusse, kuulutades inimkonna vägevust.
 >
-> Jumal ütles, et inimesed on omaette hõim, kellel on sama kultuur ja liik. Torni ehitamine on vaid eelmäng. Nüüd saate saavutada kõike, mida soovite, ja teil pole enam midagi karta.
+> Jumal kuulutas: "Mehed ühinevad üheks hõimuks, kellel on ühine keel, ja see torn on vaid proloog. Nüüd saavutavad nad oma soovi ja austust ei jää."
 >
-> Siis tuli Jumal ja ajas inimesed laiali erinevatesse kohtadesse, suutmata üksteist mõista.
+> Seega laskus Jumal alla, hajutades inimesi erinevatesse nurkadesse, kasutades erinevaid keeli.
 >
-> Sellest ajast peale oli inimkonnal raske suhelda, konflikte tekkis lõputult ja maailm ei näinud enam taevani ulatuvat torni.
+> Sellest ajast peale muutus inimsuhtlus väljakutseks, vaidlused lõputuks ja enam polnud taevast puudutavat torni.
 
 Ulmeromaan &quot;Kolm keha&quot; (Hiina hääldus: `3Ti` ) kujutab endast välja tulnukat tsivilisatsiooni, mis suhtleb elektromagnetlainete kaudu, millel puuduvad keelebarjäärid ja mis on tehnoloogiliselt jõukas.
 
-Loodan, et selle tööriista abil on maa inimesed nagu kolmekehalised, suhtlemist keel ei piira ja kogu inimkond on taas ühendatud.
+Loodan luua tööriista, mis võimaldab maapealsetel inimestel olla nagu kolmekehalised inimesed, suhelda keelega sidumata ja ühendada taas kogu inimkonda.
 
 ## Õpetus
 

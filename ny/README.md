@@ -10,19 +10,19 @@ Ndikufuna kunena kuti **popanga tsamba lonselo kuti tithandizire kusaka ndi kukh
 
 ## Kutsatizana
 
-"Baibulo Genesis":
+Baibulo · Genesis :
 
-> Anthu akale sankasiyanitsa zinenero. Iwo anamanga nsanja zofika kumwamba kuti zifike pachipata cha Mulungu kuti akweze kutchuka kwa mtundu wa anthu.
+> M’nthaŵi zakale, pamene zinenero zinali chimodzi, anthu anamanga nsanja yofika kumwamba, khomo lolowera ku ulamuliro wa Mulungu, yolengeza mphamvu za anthu.
 >
-> Mulungu ananena kuti anthu ndi fuko lawo laokha, chikhalidwe ndi mitundu yofanana. Kumanga nsanja ndi chiyambi chabe. Tsopano mutha kukwaniritsa chilichonse chomwe mukufuna, ndipo simudzakhala ndi mantha.
+> Mulungu anati: “Anthu amalumikizana ngati fuko limodzi ndi lilime logawana, ndipo nsanja iyi ndi mawu oyambira.
 >
-> Kenako Mulungu anadza n’kubabalalitsa anthu m’malo osiyanasiyana moti sankatha kumvetsana.
+> Chotero, Mulungu anatsika, nabalalitsa anthu kumakona osiyanasiyana, akugwiritsa ntchito zilankhulo zosiyanasiyana.
 >
-> Kuyambira pamenepo, anthu anavutika kulankhulana, mikangano inabuka kosatha, ndipo dziko silinaonenso nsanja yofika kumwamba.
+> Kuyambira pamenepo, kulankhulana kwa anthu kunakhala kovutirapo, mikangano yosatha, ndipo panalibenso nsanja yokhudza thambo.
 
 Buku lopeka la sayansi &quot;Matupi Atatu&quot; (matchulidwe achi China: `3Ti` ) amapeka chitukuko chachilendo chomwe chimalumikizana ndi mafunde amagetsi, sichikhala ndi zolepheretsa chilankhulo, komanso chikuyenda bwino paukadaulo.
 
-Ndikukhulupirira kuti mothandizidwa ndi chida ichi, anthu padziko lapansi adzakhala ngati anthu atatu, kulankhulana sikudzakhala koletsedwa ndi chinenero, ndipo anthu onse adzagwirizananso.
+Ndikuyembekeza kupanga chida chimene chidzathandiza anthu padziko lapansi kukhala ngati anthu atatu, kulankhulana popanda kumangidwa ndi chinenero, ndi kugwirizanitsanso anthu onse.
 
 ## Maphunziro
 

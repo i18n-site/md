@@ -10,19 +10,19 @@ Ek wil sê dat **ons slegs deur die hele webwerf te internasionalisering kan mee
 
 ## Volgorde
 
-"Bybel · Genesis":
+Bybel · Genesis :
 
-> Die ou mense het nie tussen tale onderskei nie. Hulle het torings gebou wat die lug bereik om die poort van God te bereik om die aansien van die mensdom te bevorder.
+> In antieke tye, toe tale een was, het die mensdom 'n toring gebou wat na die hemel reik, 'n poort na God se domein, wat die mensdom se mag verkondig het.
 >
-> Die God het gesê dat mense 'n stam van hul eie is, met dieselfde kultuur en spesie. Die bou van 'n toring is net 'n voorspel. Nou kan jy bereik wat jy wil, en jy sal niks hê om te vrees nie.
+> God het verklaar, "Mens verenig as een stam, met 'n gedeelde tong, en hierdie toring is maar 'n proloog. Nou bereik hulle hul begeerte, en geen eerbied sal oorbly nie."
 >
-> Toe het God gekom en die mense op verskillende plekke verstrooi, nie in staat om mekaar te verstaan ​​nie.
+> So het God neergedaal, mense na verskillende uithoeke verstrooi, verskillende tale gebruik.
 >
-> Van toe af het die mensdom gesukkel om te kommunikeer, konflikte het eindeloos ontstaan, en die wêreld het nie meer 'n toring gesien wat die lug bereik het nie.
+> Van toe af het menslike kommunikasie uitdagend geword, geskille eindeloos, en daar was nie meer 'n toring wat die lug aangeraak het nie.
 
 Die wetenskapfiksie-roman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fiksionaliseer 'n uitheemse beskawing wat deur elektromagnetiese golwe kommunikeer, geen taalgrense het nie en tegnologies voorspoedig is.
 
-Ek hoop dat met die hulp van hierdie hulpmiddel die mense van die aarde soos drie-liggaam mense sal wees, kommunikasie sal nie deur taal beperk word nie, en die hele mensdom sal weer verenig word.
+Ek hoop om 'n instrument te skep wat die mense van die aarde in staat sal stel om soos drie-liggaam mense te wees, te kommunikeer sonder om deur taal gebonde te wees, en die hele mensdom weer te verenig.
 
 ## Tutoriaal
 

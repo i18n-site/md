@@ -10,19 +10,19 @@ Azt akarom mondani, hogy **csak a teljes webhely nemzetközivé tételével tudj
 
 ## Sorrend
 
-"Biblia · Genesis":
+Biblia · Genezis :
 
-> A régiek nem tettek különbséget a nyelvek között. Égbe érő tornyokat építettek, hogy elérjék Isten kapuját, hogy előmozdítsák az emberi faj tekintélyét.
+> Az ókorban, amikor a nyelvek egyek voltak, az emberiség az egekig érő tornyot épített, kaput Isten birodalmába, hirdetve az emberiség erejét.
 >
-> Isten azt mondta, hogy az emberek saját törzsük, azonos kultúrával és fajtával. A toronyépítés csak előjáték. Most bármit elérhet, amit csak akar, és nincs mitől félnie.
+> Isten kijelentette: "Az emberek egy törzsként egyesülnek, közös nyelvvel, és ez a torony csak egy prológus. Most elérik vágyukat, és semmiféle tisztelet nem marad."
 >
-> Aztán jött Isten, és szétszórta az embereket különböző helyeken, nem tudták megérteni egymást.
+> Így Isten leszállt, szétszórta az embereket a különböző sarkokba, és különböző nyelveket használt.
 >
-> Ettől kezdve az emberiség küzdött a kommunikációért, a konfliktusok végtelenül alakultak ki, és a világ nem látott többé egy tornyot, amely elérte volna az eget.
+> Ettől kezdve az emberi kommunikáció kihívást jelent, a viták végtelenek, és nem volt többé torony, amely az eget érintette volna.
 
 A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokon keresztül kommunikál, nincs nyelvi akadálya, és technológiailag virágzó.
 
-Remélem, hogy ennek az eszköznek a segítségével a földi emberek olyanok lesznek, mint a háromtestűek, a kommunikációt nem korlátozza a nyelv, és újra egyesül az egész emberiség.
+Remélem, hogy létrehozok egy olyan eszközt, amely lehetővé teszi a földi emberek számára, hogy olyanok legyenek, mint a háromtestű emberek, kommunikáljanak anélkül, hogy a nyelvhez kötnék őket, és újra egyesítsék az egész emberiséget.
 
 ## Oktatóanyag
 

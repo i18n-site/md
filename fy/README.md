@@ -10,19 +10,19 @@ Ik wol sizze dat **allinich troch ynternasjonalisearjen fan 'e heule side wy mea
 
 ## Folchoarder
 
-"Bibel · Genesis":
+Bibel · Genesis :
 
-> De âlden makken gjin ûnderskied tusken talen. Se bouden tuorren dy't de himel berikke om de poarte fan God te berikken om it prestiizje fan it minsklik ras te befoarderjen.
+> Yn âlde tiden, doe't talen ien wiene, boude it minskdom in toer dy't nei de himel berikte, in poarte nei Gods domein, dy't de macht fan 'e minske ferkundige.
 >
-> De God sei dat minsken in eigen stam binne, mei deselde kultuer en soarte. It bouwen fan in toer is mar in opmaat. No kinne jo berikke wat jo wolle, en do silst hawwe neat te bang.
+> God ferklearre: "Minsken ferienigje as ien stam, mei in dielde tonge, en dizze toer is mar in prolooch. No berikke se har winsk, en gjin earbied sil bliuwe."
 >
-> Doe kaam God en ferspriede de minsken op ferskate plakken, net yn steat om inoar te begripen.
+> Sa kaam God del, ferspriede minsken nei ferskate hoeken, brûke ferskate talen.
 >
-> Fan doe ôf stride it minskdom om te kommunisearjen, konflikten ûntstiene einleaze, en de wrâld seach gjin toer mear dy't de loft berikte.
+> Fan doe ôf waard minsklike kommunikaasje útdaagjend, konflikten einleaze, en net mear wie der in toer dy't de himel rekke.
 
 De science fiction-roman &quot;Three-Body&quot; (Sineeske útspraak: `3Ti` ) fiksjonalisearret in frjemde beskaving dy't kommunisearret fia elektromagnetyske weagen, gjin taalbarriêres hat en technologysk foarspoedich is.
 
-Ik hoopje dat mei help fan dit ark, de minsken fan 'e ierde sille wêze as trije-body minsken, kommunikaasje sil net beheind wurde troch taal, en it hiele minskdom sil wurde ferienige wer.
+Ik hoopje in ark te meitsjen dat de minsken fan 'e ierde mooglik makket om as trije-lichem minsken te wêzen, te kommunisearjen sûnder bûn te wurden troch taal, en it hiele minskdom wer te ferienigjen.
 
 ## Tutorial
 

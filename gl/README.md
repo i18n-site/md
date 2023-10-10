@@ -10,19 +10,19 @@ Quero dicir que **só internacionalizando todo o sitio podemos admitir a busca d
 
 ## Secuencia
 
-"Biblia · Xénese":
+Biblia · Xénese :
 
-> Os antigos non distinguían as linguas. Construíron torres que chegaban ao ceo para chegar á porta de Deus para promover o prestixio da raza humana.
+> Nos tempos antigos, cando as linguas eran unha soa, a humanidade construíu unha torre que chegaba ata o ceo, un portal ao dominio de Deus, proclamando o poder da humanidade.
 >
-> O Deus dixo que as persoas son unha tribo propia, coa mesma cultura e especie. Construír unha torre é só un preludio. Agora podes facer o que queiras, e non terás nada que temer.
+> Deus declarou: "Os homes únense como unha soa tribo, cunha lingua compartida, e esta torre non é máis que un prólogo. Agora conseguen o seu desexo e non quedará ningunha reverencia".
 >
-> Entón veu Deus e dispersou á xente por varios lugares, sen poder entenderse.
+> Así, Deus descendeu, espallando a xente a diferentes recunchos, usa diferentes linguas.
 >
-> A partir de entón, a humanidade loitou por comunicarse, os conflitos xurdiron sen fin e o mundo xa non viu unha torre que chegase aos ceos.
+> A partir de entón, a comunicación humana tornouse desafiante, as disputas sen fin, e xa non había unha torre que tocara o ceo.
 
 A novela de ciencia ficción &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) ficciona unha civilización alieníxena que se comunica a través de ondas electromagnéticas, non ten barreiras lingüísticas e é tecnoloxicamente próspera.
 
-Espero que, coa axuda desta ferramenta, a xente da terra sexa como persoas de tres corpos, a comunicación non estará restrinxida pola linguaxe e toda a humanidade estea unida de novo.
+Espero crear unha ferramenta que permita aos pobos da terra ser como persoas de tres corpos, comunicarse sen estar ligados pola linguaxe e unir de novo a toda a humanidade.
 
 ## Titoría
 

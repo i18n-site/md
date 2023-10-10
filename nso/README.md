@@ -10,19 +10,19 @@ Ke nyaka go bolela gore **ke feela ka go dira gore lefelo ka moka e be la bodit�
 
 ## Tatelano
 
-"Beibele·Genesi".:
+Beibele · Genesi :
 
-> Bagologolo ba be ba sa fapantšhe magareng ga maleme. Ba ile ba aga ditora tšeo di fihlago leratadimeng go fihla kgorong ya Modimo go godiša botumo bja moloko wa batho.
+> Mehleng ya bogologolo, ge maleme e be e le a tee, batho ba ile ba aga tora yeo e fihlago magodimong, e lego kgoro ya go ya mmušong wa Modimo, ba tsebatša matla a batho.
 >
-> Modimo o rile batho ke morafe wa bona, wa setšo le mehuta ye e swanago. Go aga tora e fo ba ketapele. Bjale o ka kgona go phethagatša selo le ge e le sefe seo o se nyakago, gomme o ka se be le selo seo o ka se boifago.
+> Modimo o ile a tsebagatša gore, "Banna ba kopana bjalo ka morafe o tee, ka leleme leo le abelanwago, gomme tora ye e no ba ketapele. Bjale ba fihlelela kganyogo ya bona, gomme ga go tlhompho yeo e tlago go šala."
 >
-> Ke moka Modimo a tla a phatlalatša batho mafelong a go fapafapana, ba sa kgone go kwešišana.
+> Ka go realo, Modimo o ile a theoga, a phatlalatša batho dikhutlo tše di fapanego, a šomiša maleme a go fapana.
 >
-> Go tloga ka nako yeo go ya pele, batho ba ile ba katana le go boledišana, dithulano tša tsoga ka mo go sa felego gomme lefase le se sa bona tora yeo e fihlago magodimong.
+> Go tloga ka nako yeo go ya pele, poledišano ya batho e ile ya ba tlhohlo, dingangišano tša se fele gomme go be go se sa na tora yeo e kgomago leratadima.
 
 Padi ya saense ya boikgopolelo ya &quot;Three-Body&quot; (mmiletšo wa Setšhaena: `3Ti` ) e itlhametše tlhabologo ya moeng yeo e boledišanago ka maphoto a mohlagase wa makenete, ga e na mapheko a polelo, gomme e atlegile ka theknolotši.
 
-Ke tshepa gore ka thušo ya sedirišwa se, batho ba lefase ba tla swana le batho ba mebele ye meraro, poledišano e ka se thibelwe ke polelo, gomme batho ka moka ba tla kopana gape.
+Ke holofela go hlama sedirišwa seo se tlago kgontšha batho ba lefase go swana le batho ba mebele ye meraro, go boledišana ntle le go tlemiwa ke polelo, le go kopanya batho ka moka gape.
 
 ## Thuto Ya Thuto
 

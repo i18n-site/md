@@ -10,19 +10,19 @@ Je tiens à dire que **ce n'est qu'en internationalisant l'ensemble du site que 
 
 ## Séquence
 
-"Bible·Genèse":
+Bible · Genèse :
 
-> Les anciens ne faisaient pas de distinction entre les langues. Ils ont construit des tours atteignant le ciel pour atteindre la porte de Dieu afin de promouvoir le prestige de la race humaine.
+> Dans les temps anciens, lorsque les langues n'en faisaient qu'une, l'humanité construisait une tour atteignant les cieux, un portail vers le domaine de Dieu, proclamant la puissance de l'humanité.
 >
-> Le Dieu a dit que les gens constituent une tribu à part entière, avec la même culture et la même espèce. Construire une tour n’est qu’un prélude. Désormais, vous pouvez accomplir tout ce que vous voulez et vous n’aurez plus rien à craindre.
+> Dieu a déclaré : « Les hommes s'unissent en une seule tribu, avec une langue commune, et cette tour n'est qu'un prologue. Maintenant, ils réalisent leur désir, et aucune révérence ne subsistera. »
 >
-> Puis Dieu est venu et a dispersé les gens en divers endroits, incapables de se comprendre.
+> Ainsi, Dieu est descendu, dispersant les gens dans différents coins et utilisant différentes langues.
 >
-> Dès lors, l’humanité a eu du mal à communiquer, des conflits ont surgi sans fin et le monde n’a plus vu de tour atteignant le ciel.
+> À partir de ce moment-là, la communication humaine est devenue difficile, les disputes interminables et il n’y avait plus de tour touchant le ciel.
 
 Le roman de science-fiction « Trois corps » (prononciation chinoise : `3Ti` ) met en scène une civilisation extraterrestre qui communique par ondes électromagnétiques, n'a pas de barrières linguistiques et est technologiquement prospère.
 
-J'espère qu'avec l'aide de cet outil, les habitants de la terre seront comme des personnes à trois corps, que la communication ne sera pas limitée par la langue et que toute l'humanité sera à nouveau unie.
+J'espère créer un outil qui permettra aux habitants de la Terre d'être comme des personnes à trois corps, de communiquer sans être liés par le langage et d'unir à nouveau toute l'humanité.
 
 ## Didacticiel
 

@@ -10,19 +10,19 @@ Aipota **ha’e pe internacionalización rupive añoite pe sitio tuichakue ikatu
 
 ## Takykuerigua
 
-"Biblia·Génesis".:
+Biblia · Génesis :
 
-> Ymaguare ndombojoavyiva’ekue umi ñe’ẽ. Omopu'ã hikuái torre oguahëva yvága peve oguahê haguã Ñandejára rokême omoherakuã haguã prestigio raza humana.
+> Ymave, ñe’ẽnguéra peteĩnte jave, yvypóra omopu’ã peteĩ tórre oĝuahẽva yvága peve, peteĩ portal Ñandejára dominio-pe, omoherakuãvo yvypóra pu’aka.
 >
-> Ñandejára heʼi umi hénte haʼeha peteĩ trívu imbaʼéva, peteĩchagua kultúra ha espésie orekóva. Oñemopu’ãvo peteĩ tórre ha’e peteĩ ñepyrũrãnte. Koʼág̃a ikatu rehupyty oimeraẽ mbaʼe reipotáva, ha ndapekyhyjemoʼãi mbaʼeve.
+> Ñandejára odeclara: "Kuimba'ekuéra oñembojoaju peteĩ tribu ramo, peteĩ lengua compartida reheve, ha ko torre ha'e peteĩ prólogo añónte. Ko'ágã ohupyty hikuái hembipota, ha ndopytamo'ãi reverencia".
 >
-> Upéi Ñandejára ou ha omosarambi umi héntepe opaichagua hendápe, ndaikatúi oñontende.
+> Péicha, Tupã oguejy, omosarambívo tapichakuérape diferente esquina-pe, oiporu diferente idioma.
 >
-> Upe guive yvypóra oñehaʼãmbaite oñemongeta hag̃ua, opaʼỹre oiko ñorairõ ha ko múndo ndohechavéima peteĩ tórre og̃uahẽva yvágape.
+> Upe guive ijetuʼu yvypóra oñekomunika hag̃ua, opa umi ñorairõ ha ndaiporivéima peteĩ tórre opokóva yvágare.
 
 Pe novela ciencia ficción &quot;Mbohapy Cuerpo&quot; (pronunciación chino: `3Ti` ) oficciona peteĩ civilización extraterrestre oñemongeta va'ekue onda electromagnética rupive, ndorekóiva barrera idioma rehegua, ha tecnológicamente oñakãrapu'ã.
 
-Aha’arõ ko tembiporu pytyvõ rupive, yvy ape ári tavayguakuéra ha’e peteĩ tapicha mbohapy hete reheguaicha, ñe’ẽmondo ndojejokói ñe’ẽ rupive, ha opavave yvypóra peteĩcha jey.
+Aha’arõ amoheñói peteĩ tembiporu ikatútava yvy ape ári tavayguakuéra ha’e haĝua tapicha mbohapy hete reheguaicha, oñemongeta ojejokua’ỹre ñe’ẽme ha ombojoaju jey mayma yvypórape.
 
 ## Mbo’epy Rehegua
 

@@ -10,19 +10,19 @@ Ndinoda kutaura kuti **nekuita saiti yese pasi rese tinogona kutsigira mitauro y
 
 ## Zvinoteverana
 
-"Bhaibheri Genesisi":
+Bhaibheri · Genesisi :
 
-> Vanhu vekare vaisasiyanisa mitauro. Vakavaka shongwe dzaisvika kudenga kuti dzisvike pasuwo raMwari kuti vasimudzire mukurumbira werudzi rwevanhu.
+> Munguva dzekare, mitauro payaiva imwe chete, vanhu vakavaka shongwe yaisvika kudenga, musuo wenzvimbo yaMwari, inozivisa simba rorudzi rwomunhu.
 >
-> Mwari akati vanhu idzinza ravo, vane tsika nemarudzi mamwe chete. Kuvaka shongwe ingori nhanganyaya. Iye zvino unogona kuita chero chaunoda, uye hapana chauchazotya.
+> Mwari akati, "Vanhu vanobatana sorudzi rumwe, norurimi rwakafanana, uye shongwe iyi ingori sumo. Zvino vava kuita kuda kwavo, uye hakuna rukudzo ruchasara."
 >
-> Ipapo Mwari akauya akaparadzira vanhu munzvimbo dzakasiyana-siyana, vakatadza kunzwisisana.
+> Nokudaro, Mwari akaburuka, achiparadzira vanhu kumativi akasiyana-siyana, vachishandisa mitauro yakasiyana.
 >
-> Kubva ipapo zvichienda mberi, vanhu vakatamburira kukurukura, kukakavadzana kwakamuka kusingaperi, uye nyika haichaoni shongwe yaisvika kudenga.
+> Kubva ipapo, kutaurirana kwevanhu kwakava kunonetsa, kukakavadzana kusingagumi, uye pakanga pasisina shongwe yaibata denga.
 
 Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Ti` ) inofungidzira budiriro yevatorwa inotaurirana kuburikidza nemasaisai emagetsi, haina zvipingamupinyi zvemutauro, uye yakabudirira muhunyanzvi.
 
-Ndinovimba kuti nerubatsiro rwechishandiso ichi, vanhu vepanyika vachava sevanhu vane miviri mitatu, kukurukurirana hakuzoganhurirwi nemutauro, uye vanhu vose vachabatanidzwa zvakare.
+Ndinotarisira kugadzira chishandiso chichaita kuti vanhu vari panyika vave sevanhu vane miviri mitatu, vataure vasingabatanidzwi nomutauro, uye vabatanezve vanhu vose.
 
 ## Tutorial
 

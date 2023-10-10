@@ -10,19 +10,19 @@ Ba mhaith liom a rá gur **trí idirnáisiúnú a dhéanamh ar an suíomh iomlá
 
 ## Seicheamh
 
-"Bíobla·Genesis":
+Bíobla · Geineasas :
 
-> Ní dhearna na seanóirí idirdhealú idir teangacha. Thóg siad túir a shroicheann an spéir chun geata Dé a bhaint amach chun gradam an chine dhaonna a chothú.
+> Sa tseanaimsir, nuair a bhí teangacha ina gceann, thóg an chine daonna túr a shroich na flaithis, tairseach chuig fearann ​​Dé, ag fógairt neart an chine daonna.
 >
-> Dúirt an Dia gur treibh dá gcuid féin iad daoine, leis an gcultúr agus na speicis chéanna. Níl ann ach túr a thógáil. Anois is féidir leat a chur i gcrích cibé rud is mian leat, agus ní bheidh ort a eagla.
+> Dhearbhaigh Dia, "Aontaíonn fir mar aon treibh amháin, le teanga roinnte, agus níl sa túr seo ach réamhrá. Anois baineann siad a mhian amach, agus ní bheidh aon urraim fós."
 >
-> Ansin tháinig Dia agus scaip sé na daoine in áiteanna éagsúla, gan a bheith in ann a chéile a thuiscint.
+> Mar sin, shliocht Dia, daoine a scaipeadh go coirnéil éagsúla, úsáid teangacha éagsúla.
 >
-> As sin amach, bhí an cine daonna ag streachailt le cumarsáid a dhéanamh, d'eascair coinbhleachtaí gan stad, agus ní fhaca an domhan túr a shroich na spéartha níos mó.
+> As sin amach, d’éirigh an chumarsáid dhaonna dúshlánach, níor tháinig deireadh le díospóidí, agus ní raibh túr a bhain leis an spéir níos mó.
 
 Déanann an t-úrscéal ficsean eolaíochta &quot;Three-Body&quot; (fuaimniú Síneach: `3Ti` ) sibhialtacht choimhthíoch a dhéanann cumarsáid trí thonnta leictreamaighnéadacha, nach bhfuil aon bhacainní teanga aici, agus atá rathúil ó thaobh na teicneolaíochta de.
 
-Tá súil agam, le cabhair ón uirlis seo, go mbeidh daoine an domhain cosúil le daoine trí chorp, ní bheidh cumarsáid srianta ag teanga, agus beidh an cine daonna uile aontaithe arís.
+Tá súil agam uirlis a chruthú a chuirfidh ar chumas mhuintir an domhain a bheith cosúil le daoine trí chorp, cumarsáid a dhéanamh gan a bheith faoi cheangal teanga, agus an cine daonna go léir a aontú arís.
 
 ## Teagaisc
 

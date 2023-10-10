@@ -10,19 +10,19 @@ Ka sawi duh chu **site pumpui internationalise chauhvin multi-lingual in-site fu
 
 ## Indawt
 
-"Bible·Genesis" tih a ni.:
+Bible · Genesis :
 
-> Hmanlai mite chuan tawng an thliar hrang lo. Mihringte chawimawina tipung turin Pathian kawngkhar thleng tur chuan van thlenga kulh an siam a.
+> Hmân lai, ṭawng hrang hrangte chu pakhat a nih laiin, mihringte chuan vân thlenga kulh, Pathian ram luhna kawngkhâr, mihringte chakna puang chhuakin an siam a.
 >
-> Pathian chuan mihringte hi hnam hrang hrang, nunphung leh chi hrang hrang inang an ni a ti a. Tower sak hi a hmahruaitu mai a ni. Tunah chuan i duh duh i tihlawhtling thei tawh ang a, hlauh tur i nei tawh lo vang.
+> Pathian chuan, "Mihringte chu hnam khat angin an inpumkhat a, tawng inang an nei a, he kulh hi thuhmahruai mai a ni. Tunah chuan an duhzawng an tihlawhtling tawh a, zahna engmah a awm tawh lo vang," tiin a puang a ni.
 >
-> Tichuan Pathian a lo kal a, mipuite chu hmun hrang hrangah, inhriatthiam tawn thei lovin a tidarh ta a.
+> Chutiang chuan Pathian a lo chhuk a, mite chu kil hrang hrangah a theh darh a, tawng hrang hrang a hmang a ni.
 >
-> Chuta tang chuan mihringte chuan inbiakpawhna kawngah an bei nasa hle a, inhnialna tawp chin nei lovin a lo chhuak a, khawvelin vanram thleng thei kulhpui a hmu tawh lo.
+> Chuta tang chuan mihringte inbiakpawhna chu a harsa ta hle a, inhnialna pawh a tawp tawh lo va, van khawih thei kulhpui pawh a awm tawh lo.
 
 Science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) hian electromagnetic wave hmanga inbiakpawhna nei, tawng lama harsatna nei lo, technology lama hausa, alien civilization fictionalize a ni.
 
-He hmanrua hmang hian leia mite hi taksa pathum nei ang an ni ang a, inbiakpawhna chu tawngin a khap lo ang a, mihring zawng zawng hi kan inpumkhat leh ang tih ka beisei.
+Leilung mipuite hi taksa pathum nei ang maia awm thei tur, tawngkam phuar lova inbiakpawhna nei thei tur leh mihring zawng zawng inpumkhatna tur hmanrua siam ka beisei.
 
 ## Tutorial A Ni
 

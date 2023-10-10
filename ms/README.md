@@ -10,19 +10,19 @@ Saya ingin mengatakan bahawa **hanya dengan mengantarabangsakan keseluruhan tapa
 
 ## Urutan
 
-"Bible·Genesis":
+Alkitab · Kejadian :
 
-> Orang dahulu tidak membezakan antara bahasa. Mereka membina menara-menara yang menjulang ke langit untuk sampai ke pintu gerbang Tuhan untuk mempromosikan martabat umat manusia.
+> Pada zaman dahulu, apabila bahasa adalah satu, manusia membina sebuah menara yang menjangkau ke langit, sebuah portal ke wilayah Tuhan, mengisytiharkan kuasa manusia.
 >
-> Tuhan berkata bahawa manusia adalah suku mereka sendiri, dengan budaya dan spesies yang sama. Membina menara hanyalah mukadimah. Sekarang anda boleh mencapai apa sahaja yang anda mahu, dan anda tidak perlu takut.
+> Tuhan mengisytiharkan, "Manusia bersatu sebagai satu suku, dengan lidah yang sama, dan menara ini hanyalah prolog. Sekarang mereka mencapai keinginan mereka, dan tiada penghormatan akan kekal."
 >
-> Kemudian Tuhan datang dan mencerai-beraikan manusia di berbagai tempat, tidak dapat memahami satu sama lain.
+> Oleh itu, Tuhan turun, menyerakkan manusia ke sudut yang berbeza, menggunakan bahasa yang berbeza.
 >
-> Sejak itu, manusia bergelut untuk berkomunikasi, konflik timbul tanpa henti, dan dunia tidak melihat lagi menara yang mencapai langit.
+> Sejak itu, komunikasi manusia menjadi mencabar, perselisihan tidak berkesudahan, dan tiada lagi menara yang mencecah langit.
 
 Novel fiksyen sains &quot;Three-Body&quot; (sebutan bahasa Cina: `3Ti` ) menyifatkan tamadun asing yang berkomunikasi melalui gelombang elektromagnet, tidak mempunyai halangan bahasa, dan makmur dari segi teknologi.
 
-Saya berharap dengan bantuan alat ini, penduduk bumi akan menjadi seperti orang tiga badan, komunikasi tidak akan disekat oleh bahasa, dan semua manusia akan bersatu kembali.
+Saya berharap untuk mencipta satu alat yang akan membolehkan penduduk bumi menjadi seperti orang tiga badan, berkomunikasi tanpa terikat oleh bahasa, dan menyatukan semua manusia semula.
 
 ## Tutorial
 

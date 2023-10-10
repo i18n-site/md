@@ -10,19 +10,19 @@ Ik wil zeggen dat **we alleen door de hele site te internationaliseren meertalig
 
 ## Reeks
 
-"Bijbel·Genesis":
+Bijbel · Genesis :
 
-> De Ouden maakten geen onderscheid tussen talen. Ze bouwden torens die tot aan de hemel reikten om de poort van God te bereiken en zo het prestige van het menselijk ras te bevorderen.
+> In de oudheid, toen de talen één waren, bouwde de mensheid een toren die tot aan de hemel reikte, een poort naar Gods domein, die de macht van de mensheid verkondigde.
 >
-> De God zei dat mensen een eigen stam zijn, met dezelfde cultuur en soort. Het bouwen van een toren is slechts een opmaat. Nu kun je bereiken wat je wilt, en je hebt niets te vrezen.
+> God verklaarde: "Mensen verenigen zich als één stam, met een gedeelde taal, en deze toren is slechts een proloog. Nu verwezenlijken ze hun verlangen, en er zal geen eerbied meer overblijven."
 >
-> Toen kwam God en verspreidde de mensen over verschillende plaatsen, niet in staat elkaar te begrijpen.
+> Zo daalde God neer, waardoor mensen naar verschillende hoeken werden verspreid en verschillende talen werden gebruikt.
 >
-> Vanaf dat moment had de mensheid moeite om te communiceren, ontstonden er eindeloos conflicten en zag de wereld geen toren meer die tot aan de hemel reikte.
+> Vanaf dat moment werd de menselijke communicatie een uitdaging, waren de geschillen eindeloos, en was er geen toren meer die de hemel raakte.
 
 De sciencefictionroman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fictionaliseert een buitenaardse beschaving die communiceert via elektromagnetische golven, geen taalbarrières kent en technologisch welvarend is.
 
-Ik hoop dat met behulp van dit instrument de mensen op aarde als mensen met drie lichamen zullen zijn, dat de communicatie niet beperkt zal worden door taal, en dat de hele mensheid weer verenigd zal worden.
+Ik hoop een hulpmiddel te creëren dat de mensen op aarde in staat zal stellen om als mensen met drie lichamen te zijn, te communiceren zonder gebonden te zijn aan taal, en de hele mensheid weer te verenigen.
 
 ## Handleiding
 

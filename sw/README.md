@@ -10,19 +10,19 @@ Ninataka kusema kwamba **ni kwa kuifanya tovuti nzima kuwa ya kimataifa pekee nd
 
 ## Mfuatano
 
-"Biblia · Mwanzo":
+Biblia · Mwanzo :
 
-> Watu wa kale hawakutofautisha lugha. Walijenga minara inayofika angani ili kufikia lango la Mungu ili kukuza heshima ya jamii ya wanadamu.
+> Katika nyakati za kale, lugha zilipokuwa moja, wanadamu walijenga mnara unaofika mbinguni, mlango wa milki ya Mungu, ukitangaza uwezo wa mwanadamu.
 >
-> Mungu alisema kwamba watu ni kabila lao wenyewe, lenye utamaduni na aina moja. Kujenga mnara ni utangulizi tu. Sasa unaweza kukamilisha chochote unachotaka, na hutakuwa na chochote cha kuogopa.
+> Mungu alisema, "Watu huungana kama kabila moja, kwa lugha ya pamoja, na mnara huu ni utangulizi tu. Sasa wanatimiza matakwa yao, na heshima haitabaki."
 >
-> Ndipo Mungu akaja na kuwatawanya watu mahali mbalimbali, wasiweze kuelewana.
+> Kwa hivyo, Mungu alishuka, akiwatawanya watu katika pembe tofauti, kutumia lugha tofauti.
 >
-> Tangu wakati huo na kuendelea, wanadamu walitatizika kuwasiliana, mizozo ikazuka bila kikomo, na ulimwengu haukuona tena mnara unaofika angani.
+> Tangu wakati huo na kuendelea, mawasiliano ya wanadamu yakawa magumu, mabishano yasiyoisha, na hapakuwa tena na mnara uliogusa anga.
 
 Riwaya ya kisayansi ya kubuni &quot;Miili Mitatu&quot; (Matamshi ya Kichina: `3Ti` ) inabuni ustaarabu ngeni ambao huwasiliana kupitia mawimbi ya sumakuumeme, hauna vizuizi vya lugha, na umestawi kiteknolojia.
 
-Natumaini kwamba kwa msaada wa chombo hiki, watu wa dunia watakuwa kama watu wenye miili mitatu, mawasiliano hayatazuiliwa na lugha, na wanadamu wote wataunganishwa tena.
+Ninatumaini kuunda chombo ambacho kitawawezesha watu wa dunia kuwa kama watu wenye miili mitatu, kuwasiliana bila kufungwa na lugha, na kuwaunganisha wanadamu wote tena.
 
 ## Mafunzo
 

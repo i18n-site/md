@@ -10,19 +10,19 @@ Nonnulli interrogare possunt, nunc navigatores in functionibus translationibus a
 
 ## Sequentia
 
-"Bible· Genesis":
+Bible :
 
-> Antiqui inter linguas non distinxerunt. Turres ad caelum struxerunt, ut ad portam Dei pervenirent ad dignitatem generis humani promovendam.
+> Antiquis temporibus, una cum linguis, humanitas turrim ad caelos perveniens aedificavit, ianuam dominii Dei, hominum potentiam nuntians.
 >
-> Deus dixit populum suum esse tribum, eadem cultura et specie. Aedificare turrim praeludium est. Nunc quod vis facere potes, et nihil habebis quod timeas.
+> Deus declaravit, "Vinunt homines in unam tribum communi lingua, et turris haec prologus est. Nunc adipiscuntur desiderium suum, et nulla reverentia remanebit."
 >
-> Tunc venit Deus, et dispersit plebem per diversa loca, nec se intelligere valens.
+> Sic Deus descendit, populos ad diversos angulos spargens, diversis linguis utens.
 >
-> Exinde certabant homines communicare, certamina sine fine orta sunt, et mundus amplius turrim caelos attingens vidit.
+> Exinde facta est communicatio hominum provocatio, controversiae infinitae, et non amplius ibi turris quae caelum tangebat.
 
 Scientia fictionis novae &quot;Tres-Corporis&quot; (pronuntiatio Sinica: `3Ti` ) ficta civilizationem alienam, quae per undas electromagneticos communicat, linguae claustra non habet et technicae artis prosper est.
 
-Opto me adiuvante hoc instrumento, homines terrae quasi tres corporeos fore, communicatio lingua non coarctatur, et omnes homines iterum coniungentur.
+Instrumentum spero efficere ut homines terrae quasi tres homines efficere possint, quin lingua ligata communicent et omnes homines iterum uniant.
 
 ## Tutorial
 

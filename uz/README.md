@@ -10,19 +10,19 @@ Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko'p tilli sa
 
 ## Ketma-Ketlik
 
-"Injil · Ibtido":
+Injil · Ibtido :
 
-> Qadimgi odamlar tillarni farqlashmagan. Ular inson zotining obro'-e'tiborini oshirish uchun Xudoning darvozasiga etib borish uchun osmonga yetib boradigan minoralar qurdilar.
+> Qadim zamonlarda, tillar bir bo‘lganida, insoniyat osmonga yetib boruvchi minora, Xudoning qudratini e’lon qiladigan darvoza qurgan.
 >
-> Xudo odamlar bir xil madaniyat va turlarga ega bo'lgan o'ziga xos qabila ekanligini aytdi. Minora qurish - bu shunchaki muqaddima. Endi siz xohlagan narsani qilishingiz mumkin va sizda qo'rqadigan hech narsa bo'lmaydi.
+> Xudo: "Odamlar bir qabila bo'lib birlashadilar, tillari umumiydir va bu minora faqat muqaddimadir. Endi ular o'z xohishlariga erishadilar va hech qanday hurmat qolmaydi".
 >
-> Keyin Xudo kelib, odamlarni bir-birini tushunolmay, turli joylarga tarqatib yubordi.
+> Shunday qilib, Xudo odamlarni turli burchaklarga tarqatib, turli tillarni ishlatib, tushdi.
 >
-> O'shandan beri insoniyat muloqot qilish uchun kurashdi, to'xtovsiz to'qnashuvlar paydo bo'ldi va dunyo osmonga yetib boradigan minorani ko'rmadi.
+> O'shandan beri odamlarning muloqoti qiyinlashdi, tortishuvlar cheksiz edi va endi osmonga tegadigan minora yo'q edi.
 
 “Uch tana” (xitoycha talaffuzi: `3Ti` ) ilmiy-fantastik romani elektromagnit to‘lqinlar orqali muloqot qiladigan, til to‘siqlariga ega bo‘lmagan va texnologik jihatdan gullab-yashnayotgan begona sivilizatsiyani o‘ylab topadi.
 
-Umid qilamanki, bu vosita yordamida yer yuzidagi odamlar uch tanali odamlardek bo‘ladi, muloqot til bilan cheklanmaydi, butun insoniyat yana birlashadi.
+Umid qilamanki, yer yuzidagi odamlar uch tanali odamlarga o‘xshab, tilga bog‘lanmagan holda muloqot qilish va butun insoniyatni yana birlashtirish imkonini beradigan vosita yarataman.
 
 ## Oʻquv Qoʻllanma
 

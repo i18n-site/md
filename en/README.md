@@ -10,19 +10,19 @@ I want to say that **only by internationalizing the entire site can we support m
 
 ## Sequence
 
-"Bible·Genesis":
+Bible · Genesis :
 
-> The ancients did not distinguish between languages. They built towers reaching the sky to reach the gate of God to promote the prestige of the human race.
+> In ancient times, when languages were one, humanity built a tower reaching to the heavens, a portal to God's domain, proclaiming mankind's might.
 >
-> The God said that people are a tribe of their own, with the same culture and species. Building a tower is just a prelude. Now you can accomplish whatever you want, and you will have nothing to fear.
+> God declared, "Men unite as one tribe, with a shared tongue, and this tower is but a prologue. Now they achieve their desire, and no reverence will remain."
 >
-> Then God came and scattered the people in various places, unable to understand each other.
+> Thus, God descended, scattering people to different corners, use different languages.
 >
-> From then on, mankind struggled to communicate, conflicts arose endlessly, and the world saw no more a tower that reached the skies.
+> From then on, human communication became challenging, disputes endless, and no more was there a tower that touched the sky.
 
 The science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes an alien civilization that communicates through electromagnetic waves, has no language barriers, and is technologically prosperous.
 
-I hope that with the help of this tool, the people of the earth will be like three-body people, communication will not be restricted by language, and all mankind will be united again.
+I hope to create a tool that will enable the people of the earth to be like three-body people, communicate without being bound by language, and unite all mankind again.
 
 ## Tutorial
 

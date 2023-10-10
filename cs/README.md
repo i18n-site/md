@@ -10,19 +10,19 @@ Chci říci, že **pouze internacionalizací celého webu můžeme podpořit ví
 
 ## Sekvence
 
-"Bible·Genesis":
+Bible · Genesis :
 
-> Staří lidé nerozlišovali mezi jazyky. Stavěli věže dosahující až k nebi, aby dosáhly Boží brány, aby podpořily prestiž lidské rasy.
+> V dávných dobách, kdy jazyky byly jedním, lidstvo postavilo věž sahající až k nebesům, portál do Božího panství, hlásající sílu lidstva.
 >
-> Bůh řekl, že lidé jsou svým vlastním kmenem se stejnou kulturou a druhem. Stavba věže je jen předehra. Nyní můžete dosáhnout, co chcete, a nebudete se muset ničeho bát.
+> Bůh prohlásil: "Lidé se spojují jako jeden kmen se společným jazykem a tato věž je pouze prologem. Nyní dosáhli svého přání a nezůstane jim žádná úcta."
 >
-> Pak přišel Bůh a rozptýlil lidi na různá místa, neschopni se navzájem pochopit.
+> Bůh tedy sestoupil, rozptýlil lidi do různých koutů a používal různé jazyky.
 >
-> Od té doby se lidstvo snažilo komunikovat, donekonečna vznikaly konflikty a svět už neviděl věž, která dosáhla nebes.
+> Od té doby se lidská komunikace stala výzvou, spory byly nekonečné a už neexistovala věž, která by se dotýkala nebe.
 
 Sci-fi román „Three-Body“ (čínská výslovnost: `3Ti` ) beletrizuje mimozemskou civilizaci, která komunikuje prostřednictvím elektromagnetických vln, nemá žádné jazykové bariéry a je technologicky prosperující.
 
-Doufám, že s pomocí tohoto nástroje budou lidé na Zemi jako lidé tří těl, komunikace nebude omezena jazykem a celé lidstvo bude opět sjednoceno.
+Doufám, že vytvořím nástroj, který lidem na Zemi umožní, aby byli jako lidé se třemi těly, komunikovali bez svazování jazykem a znovu sjednotili celé lidstvo.
 
 ## Tutorial
 

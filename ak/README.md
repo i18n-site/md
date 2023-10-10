@@ -10,19 +10,19 @@ Mepɛ sɛ meka sɛ **ɛdenam amanaman ntam wɛbsaet no nyinaa a yɛde bɛyɛ ama
 
 ## Ntoasoɔ
 
-"Bible·Genesis":
+Bible · Genesis :
 
-> Tetefo no anhu nsonsonoe a ɛda kasa ahorow ntam. Wosisii abantenten a ɛkɔ soro kodu Onyankopɔn pon ano de hyɛɛ adesamma abusua no anuonyam ho nkuran.
+> Tete mmere mu, bere a na kasa horow yɛ biako no, adesamma sii abantenten bi a ɛkɔ soro, ɔpon a ɛkɔ Onyankopɔn ahenni mu, na wɔbɔɔ adesamma tumi ho dawuru.
 >
-> Onyankopɔn kae sɛ nnipa yɛ wɔn ankasa abusuakuw, a wɔn amammerɛ ne wɔn su koro. Abantenten a wobesi no yɛ nnianim asɛm ara kwa. Seesei wubetumi ayɛ nea wopɛ biara, na worensuro hwee.
+> Onyankopɔn paee mu kae sɛ, "Mmarima ka bom sɛ abusuakuw biako, a wɔde tɛkrɛma kyɛ, na abantenten yi yɛ nnianim asɛm ara kwa. Afei wodu wɔn akɔnnɔ ho, na obu biara renka."
 >
-> Afei Onyankopɔn baa hɔ bɛbɔɔ nnipa no apete mmeae ahorow, na wɔantumi ante wɔn ho wɔn ho ase.
+> Enti, Onyankopɔn siane, ɔbɔɔ nnipa hwetee kɔɔ mmeae ahorow, de kasa ahorow dii dwuma.
 >
-> Efi saa bere no, adesamma bɔɔ mmɔden sɛ wɔbɛbɔ nkɔmmɔ, ntawntawdi sɔree a enni awiei, na wiase no anhu abantenten a ɛkɔ soro bio.
+> Efi saa bere no, nnipa nkitahodi bɛyɛɛ den, akasakasa nni awiei, na na abantenten biara nni hɔ a ɛka wim bio.
 
 Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din: `3Ti` ) yɛ ahɔho anibuei a ɛnam anyinam ahoɔden asorɔkye so di nkitaho, enni kasa mu akwanside biara, na ɛwɔ mfiridwuma mu yiyedi.
 
-Mewɔ anidaso sɛ ɛdenam adwinnade yi mmoa so no, asase so nnipa bɛyɛ sɛ nnipa a wɔwɔ nipadua abiɛsa, kasa rensiw nkitahodi ano, na adesamma nyinaa ayɛ biako bio.
+Mewɔ anidaso sɛ mɛbɔ adwinnade bi a ɛbɛma asase so nnipa atumi ayɛ sɛ nnipa a wɔwɔ nipadua abiɛsa, adi nkitaho a kasa nkyekyere wɔn, na ɛka adesamma nyinaa abom bio.
 
 ## Nkyerɛkyerɛmu
 

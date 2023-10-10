@@ -10,19 +10,19 @@ Medi be magblɔ be **ne míetsɔ nyatakakadzraɖoƒe bliboa wɔ dukɔwo domee ko
 
 ## Yomenuwo
 
-"Biblia·Mose Ƒe Agbalẽ Gbãtɔ".:
+Biblia · Mose ƒe Agbalẽ Gbãtɔ :
 
-> Blematɔwo mede vovototo gbegbɔgblɔwo dome o. Wotu xɔ kɔkɔ siwo ɖo dziƒo va ɖo Mawu ƒe agbo nu be woatsɔ ado ameƒomea ƒe bubu ɖe ŋgɔ.
+> Le blemaɣeyiɣiwo me, esime gbegbɔgblɔwo nye ɖeka la, ameƒomea tu xɔ kɔkɔ aɖe si keke ta ɖo dziƒo, si nye agbo si dzi woato ayi Mawu ƒe dziɖuƒe, henɔ gbeƒã ɖem ameƒomea ƒe ŋusẽ.
 >
-> Mawu la gblɔ be amewo nye woawo ŋutɔ ƒe to aɖe, eye woƒe dekɔnuwo kple woƒe ƒomeviwo sɔ. Mɔ̃ kɔkɔ aɖe tutu nye ŋgɔdonya ko. Fifia àte ŋu awɔ nusianu si nèdi, eye naneke magavɔ̃ na wò o.
+> Mawu ɖe gbeƒãe be, "Ŋutsuwo wɔa ɖeka abe to ɖeka ene, kple aɖe ɖeka, eye xɔ kɔkɔ sia nye ŋgɔdonya ko. Fifia woɖo woƒe didi gbɔ, eye bubu aɖeke maganɔ anyi o."
 >
-> Emegbe Mawu va kaka ameawo ɖe teƒe vovovowo, eye womete ŋu se wo nɔewo gɔme o.
+> Eyata Mawu ɖiɖi, kaka amewo ɖe dzogoe vovovowo dzi, zã gbegbɔgblɔ vovovowo.
 >
-> Tso ɣemaɣi dzi la, ameƒomea nɔ agbagba dzem be yewoaɖo dze, masɔmasɔwo do mo ɖa nuwuwu manɔmee, eye xexeame megakpɔ xɔ kɔkɔ aɖe si ɖo yame o.
+> Tso ɣemaɣi dzi la, amegbetɔwo ƒe kadodo va nɔ sesẽm, masɔmasɔwo nu metsina o, eye xɔ kɔkɔ si ka dziŋgɔli meganɔ anyi o.
 
 Dzɔdzɔmeŋutinunya me nyakpakpa gbalẽ si nye &quot;Three-Body&quot; (Chinagbe me nyayɔyɔ: `3Ti` ) tsɔ amedzro deŋgɔ aɖe si ɖoa dze to elektrikŋusẽ ƒe ƒutsotsoewo dzi, gbegbɔgblɔ ƒe mɔxenu aɖeke mele eŋu o, eye wòkpɔ dzidzedze le mɔ̃ɖaŋununya me la ƒe nyakpakpa.
 
-Mele mɔ kpɔm be to dɔwɔnu sia ƒe kpekpeɖeŋu me la, anyigba dzi tɔwo anɔ abe ame siwo ƒe ŋutilã etɔ̃ le ene, gbegbɔgblɔ maxe mɔ ɖe kadodo nu o, eye ameƒomea katã agawɔ ɖeka ake.
+Mele mɔ kpɔm be mawɔ dɔwɔnu aɖe si ana anyigba dzi tɔwo nanɔ abe ŋutilã etɔ̃ ƒe ame ene, aɖo dze evɔ gbegbɔgblɔ mabla wo o, eye wòagawɔ ameƒomea katã ɖekae ake.
 
 ## Nufiame
 

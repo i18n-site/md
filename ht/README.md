@@ -10,19 +10,19 @@ Mwen vle di ke **se sèlman lè nou entènasyonalize sit la tout antye nou ka si
 
 ## Sekans
 
-"Labib · Jenèz":
+Bib · Jenèz :
 
-> Ansyen yo pa t fè distenksyon ant lang. Yo bati gwo fò won ki rive nan syèl la pou rive nan pòtay Bondye a pou ankouraje prestige ras imen an.
+> Nan tan lontan, lè lang yo te yon sèl, limanite te bati yon gwo fò won rive nan syèl la, yon pòtal nan domèn Bondye a, pwoklame pisans limanite.
 >
-> Bondye te di ke moun yo se yon branch fanmi pa yo, ki gen menm kilti ak espès yo. Bati yon gwo kay won se jis yon prelid. Koulye a, ou ka akonpli tou sa ou vle, epi ou pa pral gen anyen yo pè.
+> Bondye te deklare, "Gason ini kòm yon sèl tribi, ak yon lang pataje, ak gwo kay won sa a se sèlman yon pwològ. Kounye a yo reyalize dezi yo, epi pa gen okenn respè ap rete."
 >
-> Lè sa a, Bondye vini, li gaye pèp la nan divès kote, yo pa t 'kapab konprann youn ak lòt.
+> Kidonk, Bondye desann, gaye moun nan diferan kwen, sèvi ak lang diferan.
 >
-> Depi lè sa a, limanite te lite pou yo kominike, konfli te leve san rete, e mond lan pa wè yon gwo fò won ankò ki te rive nan syèl la.
+> Depi lè sa a, kominikasyon imen te vin difisil, diskisyon kontinuèl, e pa t gen yon gwo kay won ankò ki te manyen syèl la.
 
 Roman syans fiksyon &quot;Three-Body&quot; (pwononsyasyon Chinwa: `3Ti` ) fiksyonalize yon sivilizasyon etranje ki kominike atravè onn elektwomayetik, pa gen okenn baryè lang, epi li se teknolojik pwospè.
 
-Mwen espere ke avèk èd zouti sa a, moun ki sou tè a pral tankou moun ki gen twa kò, kominikasyon pa pral limite pa lang, ak tout limanite pral ini ankò.
+Mwen espere kreye yon zouti ki pral pèmèt moun ki sou tè a vin tankou moun ki gen twa kò, kominike san yo pa mare nan lang, epi ini tout limanite ankò.
 
 ## Tutorial
 

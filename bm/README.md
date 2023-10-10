@@ -10,19 +10,19 @@ N b’a fɛ k’a fɔ ko **n’an ye siti bɛɛ kɛ diɲɛ kɔnɔ dɔrɔn, an b�
 
 ## Dasigi
 
-"Bibulu·Jenɛse".:
+Bibulu · Jenɛse :
 
-> Fɔlɔw tun tɛ danfara don kanw ni ɲɔgɔn cɛ. U ye sankansobaw jɔ minnu bɛ se sankolo la walasa ka se Ala ka da la walasa ka hadamadenw ka bonya yiriwa.
+> Fɔlɔ la, tuma min na kanw tun ye kelen ye, hadamadenw ye sankanso dɔ jɔ min bɛ se sankolo ma, da min bɛ don Ala ka mara kɔnɔ, ka hadamadenw ka sebaaya weleweleda.
 >
-> Ala ko mɔgɔw ye u yɛrɛ ka kabila ye, u ka laadalakow ni u suguya ye kelen ye. Sankanso jɔli ye daminɛ dɔrɔn de ye. Sisan, i b’a fɛ fɛn o fɛn na, i bɛ se k’o kɛ, wa i tɛna siran foyi ɲɛ.
+> Ala y'a jira ko: "Cɛw bɛ jɛ i n'a fɔ kabila kelen, ni kan kelen ye, wa nin sankanso in ye kumasen fɔlɔ dɔrɔn de ye. Sisan, u b'u nege sɔrɔ, bonya si tɛna to."
 >
-> O kɔ, Ala nana mɔgɔw jɛnsɛn yɔrɔ caman na, u ma se ka ɲɔgɔn faamu.
+> O cogo la, Ala jigira, ka mɔgɔw jɛnsɛn ka taa nkɔni wɛrɛw la, ka baara kɛ ni kan wɛrɛw ye.
 >
-> Kabini o waati, hadamadenw ye gɛlɛya sɔrɔ ka kumaɲɔgɔnya kɛ, bɛnbaliya donna dan tɛ min na, diɲɛ ma sankanso ye tugun min bɛ se sankolo la.
+> Kabini o waati, hadamadenw ka kumaɲɔgɔnya kɛra gɛlɛya ye, sɔsɔliw tun tɛ ban, wa sankanso tun tɛ yen tugun min bɛ maga sankolo la.
 
 Dɔnniya gafe min tɔgɔ ye ko &quot;Three-Body&quot; (Sinuwakan fɔcogo: `3Ti` ) bɛ dunan siwili dɔ labɛn min bɛ kumaɲɔgɔnya kɛ ni kuran-magnetiki-fiɲɛw ye, kanko gɛlɛya tɛ min na, wa a bɛ ɲɛtaa sɔrɔ fɛɛrɛko siratigɛ la.
 
-N jigi b’a kan ko nin baarakɛminɛn in dɛmɛni fɛ, dugukolo mɔgɔw bɛna kɛ i n’a fɔ farikolo saba, kumaɲɔgɔnya tɛna dan kan fɛ, hadamaden bɛɛ bɛna fara ɲɔgɔn kan tugun.
+N jigi b’a kan ka baarakɛminɛn dɔ da min bɛna kɛ sababu ye dugukolo mɔgɔw ka kɛ i n’a fɔ farikolo saba, ka kumaɲɔgɔnya kɛ k’a sɔrɔ u ma siri kan na, ka hadamaden bɛɛ fara ɲɔgɔn kan kokura.
 
 ## Kalansen
 

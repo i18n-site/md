@@ -10,19 +10,19 @@ Abdi hoyong disebutkeun yen **ngan ku internationalizing sakabéh situs urang ti
 
 ## Runtuyan
 
-"Alkitab·Kajadian":
+Alkitab · Kajadian :
 
-> Baheula mah teu ngabedakeun basa. Maranehna ngawangun munara nepi ka langit nepi ka gapura Allah pikeun ngamajukeun pamor umat manusa.
+> Jaman baheula, nalika basa hiji, umat manusa ngawangun munara nepi ka langit, hiji portal ka domain Allah, proclaiming kakuatan umat manusa.
 >
-> Gusti nyarios yén jalma-jalma mangrupikeun suku sorangan, sareng budaya sareng spésiés anu sami. Ngawangun munara téh ngan hiji prelude. Ayeuna anjeun tiasa ngalaksanakeun naon waé anu anjeun pikahoyong, sareng anjeun moal aya anu sieun.
+> Allah nyatakeun, "Lalaki ngahiji salaku hiji suku, kalawan basa dibagikeun, sarta munara ieu ngan hiji prolog. Ayeuna aranjeunna ngahontal kahayang maranéhanana, sarta euweuh reverence bakal tetep."
 >
-> Lajeng Allah sumping sarta sumebar jalma di sagala rupa tempat, teu bisa ngarti silih.
+> Ku kituna, Allah lungsur, scattering jalma ka béda sudut, make basa béda.
 >
-> Ti harita, umat manusa berjuang pikeun komunikasi, konflik timbul endlessly, sarta dunya teu nempo hiji munara nu ngahontal langit.
+> Ti harita, komunikasi manusa jadi nangtang, sengketa teu aya tungtungna, teu aya deui munara nu noel ka langit.
 
 Novel fiksi ilmiah &quot;Tilu Badan&quot; (lafal Basa Cina: `3Ti` ) ngafiksasikeun peradaban alien anu komunikasi ngaliwatan gelombang éléktromagnétik, teu aya halangan basa, sareng makmur sacara téknologi.
 
-Mugi-mugi ku bantosan ieu alat, jalmi-jalmi di bumi janten sapertos jalma tilu raga, komunikasi moal kawatesan ku basa, sareng sadaya umat manusa bakal ngahiji deui.
+Mugi-mugi tiasa nyiptakeun alat anu tiasa ngajantenkeun jalma-jalma di bumi janten sapertos jalma tilu awak, komunikasi tanpa kabeungkeut ku basa, sareng ngahijikeun deui sakumna umat manusa.
 
 ## Tutorial
 

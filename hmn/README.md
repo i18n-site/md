@@ -10,19 +10,19 @@ Kuv xav hais tias **tsuas yog los ntawm kev nthuav dav thoob ntiaj teb tag nrho 
 
 ## Ib Ntus
 
-"Bible · Chiv Keeb":
+Bible · Chiv Keeb :
 
-> Cov ancients tsis paub qhov txawv ntawm cov lus. Lawv tsim cov pej thuam nce mus txog saum ntuj kom ncav cuag lub rooj vag ntawm Vajtswv los txhawb lub meej mom ntawm tib neeg.
+> Nyob rau hauv ancient sij hawm, thaum hom lus yog ib tug, tib neeg tsim ib tug pej thuam mus txog saum ntuj ceeb tsheej, lub portal rau Vajtswv lub teb chaws, tshaj tawm lub hwj chim ntawm noob neej.
 >
-> Tswv Ntuj hais tias tib neeg yog ib haiv neeg ntawm lawv tus kheej, muaj tib kab lis kev cai thiab hom. Tsim ib tug pej thuam tsuas yog ua ntej xwb. Tam sim no koj tuaj yeem ua tiav txhua yam koj xav tau, thiab koj yuav tsis muaj dab tsi ntshai.
+> Vajtswv hais tias, "Cov txiv neej sib sau ua ib pab neeg, nrog ib tus nplaig sib koom, thiab lub pej thuam no tsuas yog hais lus, tam sim no lawv ua tiav lawv lub siab nyiam, thiab tsis muaj kev hwm yuav nyob twj ywm."
 >
-> Ces Vajtswv txawm los thiab ua kom cov neeg tawg ri niab mus rau ntau qhov chaw, tsis muaj kev sib nkag siab.
+> Yog li ntawd, Tswv Ntuj tau nqis los, faib neeg mus rau lwm qhov chaw, siv ntau hom lus.
 >
-> Txij thaum ntawd los, noob neej tau tawm tsam kev sib txuas lus, kev tsis sib haum xeeb tshwm sim tas li, thiab lub ntiaj teb tsis pom ib tug pej thuam uas mus txog saum ntuj.
+> Txij thaum ntawd los, tib neeg kev sib txuas lus tau dhau los ua nyuaj, kev sib cav tsis sib haum, thiab tsis muaj ib tug pej thuam uas kov saum ntuj ntxiv lawm.
 
 Cov ntawv tseeb tshiab &quot;Three-Lub Cev&quot; (Suav hais: `3Ti` ) fictionalizes ib tug neeg txawv teb chaws kev vam meej uas sib txuas lus los ntawm electromagnetic nthwv dej, tsis muaj lus teeb meem, thiab yog technologically vam meej.
 
-Kuv vam tias nrog kev pab ntawm cov cuab yeej no, cov neeg hauv ntiaj teb yuav zoo li peb lub cev, kev sib txuas lus yuav tsis txwv los ntawm cov lus, thiab tag nrho cov noob neej yuav koom ua ke dua.
+Kuv vam tias yuav tsim ib lub cuab yeej uas yuav pab kom cov neeg hauv ntiaj teb zoo li peb lub cev, sib txuas lus yam tsis muaj kev khi lus, thiab sib sau ua ke tag nrho noob neej dua.
 
 ## Kev Qhia
 

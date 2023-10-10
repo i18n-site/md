@@ -10,19 +10,19 @@ Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e maf
 
 ## Fa'asologa
 
-“Tusi Paia·Kenese”:
+Tusi Paia · Kenese :
 
-> E le'i iloa e tagata anamua le eseesega o gagana. Sa latou fausia ni olo e oo atu i le lagi e oo atu i le faitotoa o le Atua e siitia ai le mamalu o le fanau a tagata.
+> I aso anamua, a o tasi gagana, na fausia ai e tagata se ʻolo e oo atu i le lagi, o se faitotoʻa i le pulega a le Atua, e folafola atu ai le malosi o tagata.
 >
-> Na fetalai le Atua o tagata o so latou lava ituaiga, e tutusa a latou aganuu ma ituaiga. O le fausiaina o se olo ua na o se faatomuaga. O lea e mafai ona e ausia soʻo se mea e te manaʻo ai, ma e leai se mea e te fefe ai.
+> Na fetalai le Atua, “Ua autasi tagata e pei o le itu aiga e tasi, ma le laulaufaiva e tasi, ma o lenei olo ua na o se faatomuaga. O lenei ua latou ausia lo latou manao, ma e leai se migao e tumau”.
 >
-> Ona afio mai lea o le Atua ma faataapeapeina tagata i nuu eseese, ua le femalamalamaai.
+> O lea, na afio ifo ai le Atua, faataapeapeina tagata i tulimanu eseese, faaaoga gagana eseese.
 >
-> Talu mai lenā taimi, na tauivi ai tagata e fesootaʻi, na tulaʻi mai feteenaʻiga e lē gata, ma e leʻi toe vaaia e le lalolagi se ʻolo e oo atu i le lagi.
+> Talu mai lenā taimi, na oo ina luʻi ai fesootaʻiga a tagata, e lē gata ai feeseeseaʻiga, ma ua lē toe iai se ʻolo e paʻi atu i le lagi.
 
 O le tala fa'asaienisi talafatu &quot;Three-Body&quot; (Saina fa'auiga: `3Ti` ) fa'ata'oto se tagata mai fafo e feso'ota'i e ala i galu electromagnetic, e leai ni pa puipui o le gagana, ma o lo'o manuia fa'atekonolosi.
 
-Ou te faamoemoe o le fesoasoani a lenei meafaigaluega, o le a avea ai tagata o le lalolagi e pei o ni tagata tino-tolu, o le a le faatapulaaina fesootaiga e le gagana, ma o le a toe tuufaatasia tagata uma.
+Ou te faamoemoe e fatuina se meafaigaluega e mafai ai e tagata o le lalolagi ona avea e pei o ni tagata tino-tolu, fesootai e aunoa ma le noatia i gagana, ma toe tuufaatasia tagata uma.
 
 ## A'oa'oga
 

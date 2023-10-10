@@ -10,19 +10,19 @@ Noriu pasakyti, kad **tik internacionalizuodami visą svetainę galime palaikyti
 
 ## Seka
 
-"Biblija · Pradžios knyga":
+Biblija · Pradžios knyga :
 
-> Senoliai neskyrė kalbų. Jie pastatė bokštus, siekiančius dangų, kad pasiektų Dievo vartus, kad padidintų žmonių rasės prestižą.
+> Senovėje, kai kalbos buvo viena, žmonija pastatė bokštą, siekiantį dangų, vartą į Dievo sritį, skelbiantį žmonijos galią.
 >
-> Dievas pasakė, kad žmonės yra sava gentis, turinti tą pačią kultūrą ir rūšį. Bokšto statyba – tik įžanga. Dabar galite padaryti viską, ko norite, ir jums nereikės ko bijoti.
+> Dievas pareiškė: "Žmonės vienijasi kaip viena gentis, bendru liežuviu, ir šis bokštas tėra prologas. Dabar jie pasiekia savo troškimą ir pagarbos neliks."
 >
-> Tada atėjo Dievas ir išsklaidė žmones po įvairias vietas, nesupratusius vieni kitų.
+> Taigi Dievas nusileido, išsklaidydamas žmones į skirtingus kampelius, vartodamas skirtingas kalbas.
 >
-> Nuo tada žmonija sunkiai bendravo, konfliktų kilo be galo, o pasaulis nebematė dangų siekiančio bokšto.
+> Nuo tada žmonių bendravimas tapo sudėtingas, ginčai nesibaigia ir nebeliko bokšto, kuris liestų dangų.
 
 Mokslinės fantastikos romane „Trys kūnai“ (tarimas kiniškai: `3Ti` ) išgalvota ateivių civilizacija, kuri bendrauja per elektromagnetines bangas, neturi kalbos barjerų ir klesti technologiškai.
 
-Tikiuosi, kad šio įrankio pagalba žemės žmonės bus tarsi trijų kūno žmonių, bendravimo nevaržys kalba ir visa žmonija vėl bus vieninga.
+Tikiuosi sukurti įrankį, kuris leis žemės žmonėms būti tarsi trijų kūnų žmonėmis, bendrauti nesirišant kalbos ir vėl suvienyti visą žmoniją.
 
 ## Pamoka
 

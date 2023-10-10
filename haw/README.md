@@ -10,19 +10,19 @@ Makemake au e ʻōlelo **ma ka hoʻolaha ʻana i ka pūnaewele holoʻokoʻa e hi
 
 ## Kaʻina
 
-"Baibala·Genesis":
+Baibala · Genesis :
 
-> ʻAʻole ʻokoʻa ka poʻe kahiko ma waena o nā ʻōlelo. Ua kūkulu lākou i nā hale kiaʻi a hiki i ka lani a hiki i ka ʻīpuka o ke Akua e hoʻolaha i ka hanohano o ka lāhui kanaka.
+> I ka wā kahiko, i ka wā i hoʻokahi ai nā ʻōlelo, ua kūkulu ke kanaka i hale kiaʻi a hiki i ka lani, i puka i ke aupuni o ke Akua, e hoʻolaha ana i ka mana o ke kanaka.
 >
-> Ua ʻōlelo ke Akua he ʻohana ponoʻī nā kānaka, me ka moʻomeheu a me nā ʻano like. ʻO ke kūkulu ʻana i hale kiaʻi he mea mua wale nō ia. I kēia manawa hiki iā ʻoe ke hoʻokō i nā mea āu e makemake ai, a ʻaʻohe mea e makaʻu ai.
+> Olelo mai ke Akua, "Ua hui na kanaka me he ohana hookahi la, me ke alelo like, a o keia halekiai, he olelo mua ia.
 >
-> A laila hele mai ke Akua a hoʻopuehu i nā kānaka ma nā wahi like ʻole, ʻaʻole hiki ke hoʻomaopopo kekahi i kekahi.
+> No laila, iho mai ke Akua, hoʻopuehu kanaka i nā kihi like ʻole, hoʻohana i nā ʻōlelo like ʻole.
 >
-> Mai ia manawa mai, paʻakikī nā kānaka e kamaʻilio, ua ala mai nā hakakā me ka pau ʻole, ʻaʻole i ʻike hou ka honua i kahi hale kiaʻi i hiki i ka lewa.
+> Mai ia manawa mai, ua lilo ke kamaʻilio kanaka i mea paʻakikī, ʻaʻohe hoʻopaʻapaʻa pau ʻole, ʻaʻohe hale kiaʻi i pā i ka lani.
 
 ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes a alien civilization e kamaʻilio ana ma o nā hawewe electromagnetic, ʻaʻohe mea pale ʻōlelo, a ua holomua ʻo ka ʻenehana.
 
-Ke lana nei ko'u manao, me ke kokua ana mai o keia mea paahana, e like auanei na kanaka o ka honua me he mau kanaka kino ekolu, aole e kaohiia ka launa ana ma ka olelo, a e hui hou na kanaka a pau.
+Manaʻo wau e hana i kahi mea hana e hiki ai i nā poʻe o ka honua ke like me nā poʻe kino ʻekolu, e kamaʻilio me ka hoʻopaʻa ʻole ʻia e ka ʻōlelo, a e hui hou i nā kānaka a pau.
 
 ## Aʻoaʻo
 

@@ -10,19 +10,19 @@ Mo fẹ lati sọ pe **nikan nipa sisẹ gbogbo aaye naa ni a le ṣe atilẹyin
 
 ## Ọkọọkan
 
-"Bibeli · Jẹnẹsisi":
+Bibeli · Genesisi :
 
-> Awon babalawo ko yato laarin ede. Wọ́n kọ́ ilé ìṣọ́ tí wọ́n dé ojú ọ̀run láti dé ẹnubodè Ọlọ́run láti gbé òkìkí ẹ̀dá ènìyàn lárugẹ.
+> Láyé àtijọ́, nígbà táwọn èdè jẹ́ ọ̀kan, ẹ̀dá ènìyàn kọ́ ilé gogoro kan tí ó kan ọ̀run, ọ̀nà àbáwọlé kan sí ìṣàkóso Ọlọ́run, tí ń kéde agbára ìran ènìyàn.
 >
-> Ọlọrun sọ pe eniyan jẹ ẹya ti ara wọn, pẹlu aṣa ati iru kanna. Kikọ ile-iṣọ kan jẹ iṣaaju kan. Bayi o le ṣe ohunkohun ti o fẹ, ati pe iwọ kii yoo ni nkankan lati bẹru.
+> Ọlọ́run sọ pé: “Àwọn ènìyàn para pọ̀ ṣọ̀kan gẹ́gẹ́ bí ẹ̀yà kan, ní ahọ́n pínpín, ilé ìṣọ́ yìí kì í sì í ṣe ọ̀rọ̀ ìṣísẹ̀.
 >
-> Nígbà náà ni Ọlọ́run wá, ó sì tú àwọn ènìyàn ká sí onírúurú ibi, wọn kò lè lóye ara wọn.
+> Nípa bẹ́ẹ̀, Ọlọ́run sọ̀ kalẹ̀, ó sì tú àwọn ènìyàn ká sí oríṣiríṣi ìhà, ó ń lo èdè.
 >
-> Láti ìgbà yẹn lọ, aráyé ti ń tiraka láti bára wọn sọ̀rọ̀, ìjà ń dìde láìpẹ́, ayé kò sì rí ilé gogoro kan tí ó dé ojú ọ̀run mọ́.
+> Láti ìgbà náà lọ, ìjùmọ̀sọ̀rọ̀pọ̀ ènìyàn ti di ìpèníjà, àríyànjiyàn kò lópin, kò sì sí ilé-iṣọ́ kan tí ó kan ojú ọ̀run mọ́.
 
 Iwe itan itan-akọọlẹ imọ-jinlẹ “Ara-mẹta” ( pronunciation Kannada: `3Ti` ) ṣe itanjẹ itanjẹ ọlaju ajeji ti o sọrọ nipasẹ awọn igbi itanna, ko ni awọn idena ede, ati pe o ni ilọsiwaju ni imọ-ẹrọ.
 
-Mo nírètí pé pẹ̀lú ìrànlọ́wọ́ irinṣẹ́ yìí, àwọn ènìyàn ilẹ̀ ayé yóò dà bí ẹni mẹ́ta, ìjùmọ̀sọ̀rọ̀ kì yóò jẹ́ ààlà nípa èdè, gbogbo aráyé yóò sì tún wà ní ìṣọ̀kan.
+Mo nírètí láti ṣe ohun èlò kan tí yóò jẹ́ kí àwọn ènìyàn ilẹ̀ ayé dà bí ènìyàn mẹ́ta, kí wọ́n máa bára wọn sọ̀rọ̀ láìsí èdè-àdéhùn, kí wọ́n sì tún mú kí gbogbo aráyé wà ní ìṣọ̀kan.
 
 ## Ikẹkọ
 

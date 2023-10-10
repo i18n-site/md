@@ -10,19 +10,19 @@ Gusto nakong isulti nga **pinaagi lamang sa pag-internationalize sa tibuok site 
 
 ## Pagkasunodsunod
 
-"Bibliya·Genesis":
+Bibliya · Genesis :
 
-> Ang mga karaan wala makaila sa mga pinulongan. Nagtukod silag mga tore nga moabot sa langit aron makaabot sa ganghaan sa Diyos aron sa pagpalambo sa kadungganan sa katawhan.
+> Sa karaang mga panahon, sa dihang usa pa ang mga pinulongan, ang katawhan nagtukod ug usa ka torre nga moabot hangtod sa langit, usa ka ganghaan ngadto sa dominyo sa Diyos, nga nagmantala sa gahom sa katawhan.
 >
-> Ang Dios nag-ingon nga ang mga tawo usa ka tribo sa ilang kaugalingon, nga adunay parehas nga kultura ug espisye. Ang pagtukod ug tore usa lang ka pasiuna. Karon mahimo na nimo ang bisan unsang gusto nimo, ug wala ka’y angay kahadlokan.
+> Ang Dios nagpahayag, "Ang mga tawo nagkahiusa ingon nga usa ka banay, uban ang usa ka sinultihan, ug kini nga torre usa lamang ka pasiuna. Karon ilang makab-ot ang ilang tinguha, ug walay pagtahod nga magpabilin."
 >
-> Unya mianhi ang Dios ug gipatibulaag niya ang mga tawo sa nagkalainlaing mga dapit, nga dili magkasinabot.
+> Busa, ang Dios mikunsad, nagpatibulaag sa mga tawo ngadto sa lain-laing mga suok, naggamit sa lain-laing mga pinulongan.
 >
-> Sukad niadto, ang katawhan nanlimbasug sa pagpakigkomunikar, ang mga panagbangi mitungha nga walay kataposan, ug ang kalibotan wala nay nakitang torre nga moabot sa kalangitan.
+> Sukad niadto, ang komunikasyon sa tawo nahimong mahagiton, ang mga panaglalis walay katapusan, ug wala nay usa ka torre nga mitandog sa langit.
 
 Ang science fiction nga nobela nga &quot;Three-Body&quot; (Intsik nga paglitok: `3Ti` ) nagmugna sa usa ka langyaw nga sibilisasyon nga nakigkomunikar pinaagi sa electromagnetic waves, walay mga babag sa pinulongan, ug sa teknolohiya mauswagon.
 
-Nanghinaut ko nga uban sa tabang niini nga himan, ang mga tawo sa yuta mahisama sa tulo ka lawas nga mga tawo, ang komunikasyon dili mapugngan sa pinulongan, ug ang tanang katawhan mahiusa pag-usab.
+Nanghinaut ko nga makahimo og himan nga makapahimo sa mga tawo sa yuta nga mahisama sa tulo-ka-lawas nga mga tawo, makig-istorya nga dili gapuson sa pinulongan, ug maghiusa pag-usab sa tanang katawhan.
 
 ## Tutorial
 

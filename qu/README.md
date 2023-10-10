@@ -10,19 +10,19 @@ Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka si
 
 ## Qati Qati
 
-"Biblia·Génesis".:
+Biblia · Génesis :
 
-> Ñawpa pacha runakunaqa manan simikunata t’aqaqkuchu. Hanaq pachaman chayaq torrekunatan ruwarqanku Diospa punkunman chayanankupaq, chhaynapi runakunaq allin qhawarisqa kanankupaq.
+> Ñawpa pachakunapi, simikuna huklla kaptin, runa kayqa hanaq pachaman chayaq torreta ruwarqanku, Diospa kamachiyninman haykunapaq punkuta, runaq atiyninta willaspa.
 >
-> Diosqa nirqam runakunaqa kikinkumanta ayllu kasqankuta, huk culturayuq hinaspa huk especieyuq kasqankuta. Torreta ruwayqa qallariylla. Kunanqa ima munasqaykitapas hunt’ayta atinkin, manataqmi imatapas manchakunkichu.
+> Diosmi willarqan: "Runakunaqa hukllachakunku huk ayllu hina, huk simillawan, kay torretaq huk prologolla. Kunanqa munasqankuta hunt'anku, manataqmi yupaychaypas qhepanqachu".
 >
-> Hinan Dios hamuspa imaymana cheqaskunapi runakunata ch’eqechirqan, mana entiendenakuspa.
+> Chhaynapin Diosqa uraykamurqan, imaymana k’uchukunaman runakunata ch’eqechispa, hukniray simikunata rimaspa.
 >
-> Chaymantapachan runakunaqa sasachakurqanku rimanakunankupaq, ch’aqwaykunapas mana tukukuqmi hatarirqan, kay pachapas manañan rikurqankuñachu hanaq pachaman chayaq torreta.
+> Chaymantapachan runakunaq rimanakuynin sasachakuyman tukupurqan, ch’aqwaykunapas mana tukukuqmi kapurqan, manañan hanaq pachata llamiq torrepas karqanñachu.
 
 &quot;Kimsa-Kurku&quot; (China simipi t'uqyay: `3Ti` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética olakunawan rimanakunku, mana simi hark'aykunayuqmi, tecnología nisqapipas qhapaqmi.
 
-Suyachkani kay yanapakuypa yanapayninwan kay pachapi runakunaqa kimsa kurkuyuq runakuna hina kanankuta, rimanakuy mana simiwan hark’asqa kananta, llapa runa hukmanta hukllachasqa kananta.
+Suyachkani huk yanapakuyta paqarichiyta, chaywanmi kay pachapi runakuna kimsa kurkuyuq runakuna hina kanankupaq, rimaywan mana watasqa kaspa rimanakunankupaq, llapa runakunata yapamanta hukllawanankupaq.
 
 ## Yachachiy
 

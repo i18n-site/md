@@ -10,19 +10,19 @@ Tôi muốn nói rằng **chỉ bằng cách quốc tế hóa toàn bộ trang w
 
 ## Sự Liên Tiếp
 
-"Kinh thánh·Sáng thế ký":
+Kinh thánh · Sáng thế ký :
 
-> Người xưa không phân biệt ngôn ngữ. Họ xây dựng những tòa tháp vươn tới tận cổng Trời nhằm đề cao uy tín của loài người.
+> Vào thời cổ đại, khi các ngôn ngữ còn là một, loài người đã xây dựng một tòa tháp cao tới tận trời, cánh cổng dẫn đến lãnh địa của Chúa, tuyên bố sức mạnh của loài người.
 >
-> Chúa nói rằng con người là một bộ tộc riêng, có cùng nền văn hóa và chủng tộc. Việc xây dựng một tòa tháp chỉ là khúc dạo đầu. Bây giờ bạn có thể hoàn thành bất cứ điều gì bạn muốn và bạn sẽ không có gì phải sợ hãi.
+> Chúa tuyên bố, "Con người đoàn kết như một bộ tộc, có chung một ngôn ngữ, và tòa tháp này chỉ là lời mở đầu. Bây giờ họ đã đạt được mong muốn của mình, và sẽ không còn sự tôn kính nào nữa."
 >
-> Sau đó, Chúa đến và phân tán mọi người ở nhiều nơi, không thể hiểu nhau.
+> Vì vậy, Chúa giáng trần, phân tán con người đến các ngóc ngách khác nhau, sử dụng các ngôn ngữ khác nhau.
 >
-> Từ đó trở đi, nhân loại gặp khó khăn trong việc liên lạc, xung đột nảy sinh không ngừng, và thế giới không còn thấy một tòa tháp nào vươn tới bầu trời nữa.
+> Từ đó trở đi, việc giao tiếp của con người trở nên khó khăn, tranh chấp bất tận, và không còn một tòa tháp nào chạm tới trời nữa.
 
 Tiểu thuyết khoa học viễn tưởng &quot;Three-Body&quot; (phát âm tiếng Trung: `3Ti` ) hư cấu về một nền văn minh ngoài hành tinh giao tiếp qua sóng điện từ, không có rào cản ngôn ngữ và thịnh vượng về mặt công nghệ.
 
-Tôi hy vọng rằng với sự trợ giúp của công cụ này, con người trên trái đất sẽ giống như những con người ba cơ thể, giao tiếp sẽ không bị hạn chế bởi ngôn ngữ và toàn nhân loại sẽ đoàn kết lại.
+Tôi hy vọng có thể tạo ra một công cụ có thể giúp con người trên trái đất giống như con người ba cơ thể, giao tiếp mà không bị ràng buộc bởi ngôn ngữ và đoàn kết toàn nhân loại một lần nữa.
 
 ## Hướng Dẫn
 

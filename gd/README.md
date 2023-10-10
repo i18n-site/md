@@ -10,19 +10,19 @@ Tha mi airson a ràdh gur **ann dìreach le bhith ag eadar-nàiseantachadh an l�
 
 ## Seicheamh
 
-"Bìoball · Genesis":
+Bìoball · Genesis :
 
-> Cha do rinn na seanairean dealachadh eadar cànanan. Thog iad tùir a’ ruighinn na speuran gus geata Dhè a ruighinn gus cliù a’ chinne-daonna a bhrosnachadh.
+> Anns na seann linntean, nuair a bha cànanan mar aon, thog an cinne-daonna tùr a 'ruigsinn nan nèamhan, doras gu fearann ​​​​Dhè, a' searmonachadh cumhachd a 'chinne-daonna.
 >
-> Thuirt an Dia gu bheil daoine nan treubh dhaibh fhèin, leis an aon chultar agus gnèithean. Chan eil ann an togail tùr ach ro-ràdh. A-nis faodaidh tu rud sam bith a tha thu ag iarraidh a choileanadh, agus cha bhith dad agad ri eagal.
+> Dh' ainmich Dia, " Tha daoin' a' aonadh mar aon treubh, le teangaidh comh-roinn, agus cha 'n 'eil anns an tùr so ach prologue. A nis tha iad a' coimhlionadh am miann, agus cha 'n fhuirich urram."
 >
-> An sin thàinig Dia agus sgaoil e an sluagh ann an diofar àiteachan, gun chomas aca a chèile a thuigsinn.
+> Mar sin, thàinig Dia sìos, a 'sgapadh dhaoine gu diofar oiseanan, a' cleachdadh diofar chànanan.
 >
-> Bhon uairsin, bha duilgheadas aig mac an duine ri conaltradh, dh’ èirich còmhstri gun stad, agus chan fhaca an saoghal tuilleadh tùr a ràinig na speuran.
+> Bhon uairsin, thàinig conaltradh daonna gu bhith dùbhlanach, connspaidean gun chrìoch, agus cha robh tuilleadh ann an tùr a bhean ris na speuran.
 
 Tha an nobhail ficsean saidheans &quot;Three-Body&quot; (fuaimneachadh Sìneach: `3Ti` ) a 'dèanamh ficsean air sìobhaltas coimheach a bhios a' conaltradh tro thonnan electromagnetic, aig nach eil cnapan-starra cànain, agus a tha soirbheachail gu teicneòlach.
 
-Tha mi an dòchas le cuideachadh bhon inneal seo, gum bi muinntir na talmhainn coltach ri daoine trì-bodhaig, nach bi conaltradh air a chuingealachadh le cànan, agus gum bi mac an duine aonaichte a-rithist.
+Tha mi an dòchas inneal a chruthachadh a bheir comas do mhuinntir na talmhainn a bhith mar dhaoine trì-chorp, conaltradh gun a bhith ceangailte ri cànan, agus mac an duine uile aonachadh a-rithist.
 
 ## Oideachadh
 

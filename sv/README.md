@@ -10,19 +10,19 @@ Jag vill säga att **endast genom att internationalisera hela webbplatsen kan vi
 
 ## Sekvens
 
-"Bibel · Genesis":
+Bibeln · Genesis :
 
-> De gamla gjorde ingen skillnad på språk. De byggde torn som nådde himlen för att nå Guds port för att främja mänsklighetens prestige.
+> I forntida tider, när språken var ett, byggde mänskligheten ett torn som sträckte sig till himlen, en portal till Guds domän och förkunnade mänsklighetens makt.
 >
-> Guden sa att människor är en egen stam, med samma kultur och art. Att bygga ett torn är bara ett förspel. Nu kan du åstadkomma vad du vill, och du har inget att frukta.
+> Gud förklarade, "Människor förenas som en stam, med en gemensam tunga, och detta torn är bara en prolog. Nu uppnår de sin önskan, och ingen vördnad kommer att finnas kvar."
 >
-> Sedan kom Gud och skingrade folket på olika platser, oförmögna att förstå varandra.
+> Sålunda kom Gud ned, spridda människor till olika hörn, använd olika språk.
 >
-> Från och med då kämpade mänskligheten för att kommunicera, konflikter uppstod oändligt och världen såg inte längre ett torn som nådde himlen.
+> Från och med då blev mänsklig kommunikation utmanande, tvister oändliga, och det fanns inte längre ett torn som rörde vid himlen.
 
 Science fiction-romanen &quot;Three-Body&quot; (kinesiskt uttal: `3Ti` ) fiktionaliserar en främmande civilisation som kommunicerar genom elektromagnetiska vågor, har inga språkbarriärer och är teknologiskt välmående.
 
-Jag hoppas att med hjälp av detta verktyg kommer jordens människor att bli som trekroppsmänniskor, kommunikation kommer inte att begränsas av språket och hela mänskligheten kommer att förenas igen.
+Jag hoppas kunna skapa ett verktyg som gör det möjligt för jordens människor att vara som trekroppsmänniskor, kommunicera utan att vara bundna av språk och förena hela mänskligheten igen.
 
 ## Handledning
 

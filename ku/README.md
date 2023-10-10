@@ -10,19 +10,19 @@ Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikar
 
 ## Dor
 
-"Încîl · Destpêbûn":
+Încîl · Destpêbûn :
 
-> Kalan ferq û cudahî di navbera zimanan de nekiriye. Wan bircên ku digihîjin ezmanan ji bo ku bigihîjin deriyê Xwedê ava kirin da ku rûmeta nijada mirovî pêşve bibin.
+> Di demên kevnare de, dema ku ziman yek bûn, mirovahiyê bircek ku digihije ezmanan, dergehek ji qada Xwedê re ava kir û hêza mirovahiyê ragihand.
 >
-> Xwedê gotiye ku mirov qebîleyek bi xwe ne, xwedî heman çand û cureyê ne. Çêkirina bircê tenê pêşgotinek e. Naha hûn dikarin her tiştê ku hûn dixwazin pêk bînin, û hûn ê tiştek tune ku hûn bitirsin.
+> Xwedê daxuyand, "Mirov wek yek eşîrê, bi zimanekî hevpar dibin yek, û ev birca pêşgotinek e. Niha ew digihîjin daxwaza xwe, û hurmetek wê nemîne."
 >
-> Paşê Xwedê hat û xelq li ciyên cûrbecûr belawela kir, ji hev fem nedikirin.
+> Ji ber vê yekê, Xwedê daket, mirovan li quncikên cihê belav kir, zimanên cihê bikar anîn.
 >
-> Ji hingê ve, mirovahî ji bo danûstandinê têkoşîn kir, pevçûnên bêdawî rabûn, û cîhanê êdî bircek ku bigihîje ezmanan nedît.
+> Ji hingê ve, danûstandina mirovî dijwar bû, nakokî bêdawî bûn, û êdî birca ku ezman bigirta tune bû.
 
 Romana çîroka zanistî &quot;Three-Body&quot; (navdêra Çînî: `3Ti` ) şaristaniyeke biyanî ku bi pêlên elektromagnetîk pêwendiyê çêdike, astengên zimanî tune ne û ji hêla teknolojîk ve dewlemend e, xeyalî dike.
 
-Hêvîdar im ku bi alîkariya vê amûrê, gelên dinyayê bibin wek mirovên sê-bedenî, têkilî bi ziman nemînin û hemû mirovahî dîsa bibin yek.
+Ez hêvî dikim ku amûrek ku mirovên li ser rûyê erdê bibin wekî mirovên sê-bedenî, bêyî ku bi ziman ve were girêdan bi hev re têkilî daynin û ji nû ve tevahiya mirovahiyê bike yek, biafirînim.
 
 ## Tutorial
 

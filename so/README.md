@@ -10,19 +10,19 @@ Waxaan rabaa in aan sheego in **kaliya caalamiyeynta goobta oo dhan aan ku taage
 
 ## Isku Xigxiga
 
-"Bible·Bilowgii":
+Baybalka · Bilowgii :
 
-> Dadkii hore afafka ma kala saari jirin. Waxay dhiseen munaarado cirka gaadhay si ay albaabka Eebbe u gaadhaan si ay kor ugu qaadaan sharafta bini-aadmiga.
+> Waagii hore, markii afafku midaysnaayeen, bini'aadmigu waxay dhiseen munaarad samada gaadhaysa, oo marin u ah xuddunta Ilaah, oo ku dhawaaqda xoogga aadanaha.
 >
-> Illahay wuxuu sheegay in dadku ay yihiin qabiil iyaga u gaar ah, isku dhaqan iyo isku nooc ah. Dhismaha munaaraddu waa horudhac. Hadda waxaad samayn kartaa wax kasta oo aad rabto, mana heli doontid wax aad ka cabsato.
+> Illahay wuxuu yidhi, "Raggu waxay ku midoobaan hal qabiil, oo af la wadaago, oo munaaraddani waa horudhac, hadda waxay gaadhaan rabitaankooda, ixtiraamna ma hadhi doonaan."
 >
-> Dabadeed Ilaahay baa yimid oo dadkii meelo kala duwan ku kala firdhiyey, isma fahmin.
+> Sidaa darteed, Ilaah baa soo degay, oo dadka u kala firdhiyey geeso kala duwan, oo afaf kala duwan u adeegsaday.
 >
-> Intaa wixii ka dambeeyay, bini’aadmigu waxa uu u halgami jiray is-gaadhsiinta, khilaafaadyo aan dhammaad lahayn ayaa ka dhashay, duniduna may arag daar cirka gaadhay.
+> Intaa wixii ka dambeeyey xidhiidhka dadku waxa uu noqday mid adag, khilaafkuna ma dhamaado, mana jirin taawar cirka taabtay.
 
 Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: `3Ti` ) waxay khayaaliyeed ka dhigtaa ilbaxnimada shisheeyaha ee ku wada xidhiidha mowjadaha elektromagnetic, ma laha caqabado luqadeed, waana barwaaqo tignoolajiyada.
 
-Waxaan rajeynayaa in iyadoo la kaashanayo qalabkan, dadka dhulku ay noqon doonaan sida dad saddex jir ah, isgaarsiintuna ma xaddidi doonto luqadda, dhammaan bani-aadmigana mar kale waa midoobaan.
+Waxa aan rajaynayaa in aan sameeyo qalab u sahla dadka dunida ku nool in ay la mid noqdaan dad saddex jir ah, oo ay ku wada xidhiidhaan iyaga oo aan af ku xidhin, oo haddana mar kale mideeya bani-aadmiga oo dhan.
 
 ## Waxbarashada
 
