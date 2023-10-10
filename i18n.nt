@@ -4,4 +4,4 @@ lang:
 
 on:
   end:
-    - @n8/i18n-bin
+    - @8n/i18n-bin
