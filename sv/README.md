@@ -14,7 +14,7 @@ Bibeln · Genesis :
 
 > I forntida tider, när språken var ett, byggde mänskligheten ett torn som sträckte sig till himlen, en portal till Guds domän och förkunnade mänsklighetens makt.
 >
-> Gud förklarade, "Människor förenas som en stam, med en gemensam tunga, och detta torn är bara en prolog. Nu uppnår de sin önskan, och ingen vördnad kommer att finnas kvar."
+> Gud förklarade, "Människor förenas som en stam, med en delad tunga, och detta torn är bara en prolog. Nu uppnår de sin önskan, och det kommer ingen rädsla längre."
 >
 > Sålunda kom Gud ned, spridda människor till olika hörn, använd olika språk.
 >

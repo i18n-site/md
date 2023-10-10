@@ -14,7 +14,7 @@ Bibulu · Jenɛse :
 
 > Fɔlɔ la, tuma min na kanw tun ye kelen ye, hadamadenw ye sankanso dɔ jɔ min bɛ se sankolo ma, da min bɛ don Ala ka mara kɔnɔ, ka hadamadenw ka sebaaya weleweleda.
 >
-> Ala y'a jira ko: "Cɛw bɛ jɛ i n'a fɔ kabila kelen, ni kan kelen ye, wa nin sankanso in ye kumasen fɔlɔ dɔrɔn de ye. Sisan, u b'u nege sɔrɔ, bonya si tɛna to."
+> Ala y'a jira ko: "Cɛw bɛ jɛ ka kɛ kabila kelen ye, ni kan kelen ye, wa nin sankanso in ye kumasen fɔlɔ dɔrɔn de ye. Sisan, u b'u nege sɔrɔ, siran tɛna kɛ tugun."
 >
 > O cogo la, Ala jigira, ka mɔgɔw jɛnsɛn ka taa nkɔni wɛrɛw la, ka baara kɛ ni kan wɛrɛw ye.
 >

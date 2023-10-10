@@ -14,7 +14,7 @@ Bible · Genesis :
 
 > In ancient times, when languages were one, humanity built a tower reaching to the heavens, a portal to God's domain, proclaiming mankind's might.
 >
-> God declared, "Men unite as one tribe, with a shared tongue, and this tower is but a prologue. Now they achieve their desire, and no reverence will remain."
+> God declared, "Men unite as one tribe, with a shared tongue, and this tower is but a prologue. Now they achieve their desire, and there will be no more fear."
 >
 > Thus, God descended, scattering people to different corners, use different languages.
 >

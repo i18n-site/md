@@ -14,7 +14,7 @@ Biblia · Ebandeli :
 
 > Na ntango ya kala, ntango minɔkɔ ezalaki bobele moko, bato batongaki ndako molai oyo ekómaki tii na likoló, ekuke mpo na kokɔta na bokonzi ya Nzambe, kosakolaka nguya ya bato.
 >
-> Nzambe asakolaki ete, "Mibali basangani lokola libota moko, na monoko ya kokabola, mpe ndako molai oyo ezali kaka maloba ya ebandeli. Sikawa bakokisi mposa na bango, mpe limemya moko te ekotikala."
+> Nzambe asakolaki ete, "Mibali basangani lokola libota moko, na monoko ya kokabola, mpe ndako molai oyo ezali kaka maloba ya ebandeli. Sikawa bakokisi mposa na bango, mpe bobangi ekozala lisusu te."
 >
 > Na bongo, Nzambe akitaki, kopalanganisa bato na ba coins ekeseni, kosalela minoko ekeseni.
 >

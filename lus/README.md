@@ -14,7 +14,7 @@ Bible · Genesis :
 
 > Hmân lai, ṭawng hrang hrangte chu pakhat a nih laiin, mihringte chuan vân thlenga kulh, Pathian ram luhna kawngkhâr, mihringte chakna puang chhuakin an siam a.
 >
-> Pathian chuan, "Mihringte chu hnam khat angin an inpumkhat a, tawng inang an nei a, he kulh hi thuhmahruai mai a ni. Tunah chuan an duhzawng an tihlawhtling tawh a, zahna engmah a awm tawh lo vang," tiin a puang a ni.
+> Pathian chuan, "Mihringte chu hnam khat angin an inpumkhat a, tawng inang an nei a, he kulh hi thuhmahruai mai a ni. Tunah chuan an duhzawng an tihlawhtling tawh a, hlauhna a awm tawh lo vang," tiin a puang a ni.
 >
 > Chutiang chuan Pathian a lo chhuk a, mite chu kil hrang hrangah a theh darh a, tawng hrang hrang a hmang a ni.
 >

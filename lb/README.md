@@ -14,7 +14,7 @@ Bibel · Genesis :
 
 > An alen Zäiten, wéi d'Sproochen een waren, huet d'Mënschheet en Tuerm gebaut, deen an den Himmel erreecht, e Portal zum Gottes Domain, deen d'Mënschheet hir Muecht verkënnegt huet.
 >
-> Gott huet erkläert: "Männer vereenegen sech als ee Stamm, mat enger gemeinsamer Zong, an dësen Tuerm ass nëmmen e Prolog. Elo erreechen se hire Wonsch, a keng Respekt bleift."
+> Gott huet erkläert: "Männer vereenegen sech als ee Stamm, mat enger gemeinsamer Zong, an dësen Tuerm ass nëmmen e Prolog. Elo erreechen se hire Wonsch, an et gëtt keng Angscht méi."
 >
 > Also ass Gott erofgaang, d'Leit an verschidden Ecker verspreet, verschidde Sprooche benotzen.
 >
