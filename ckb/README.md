@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · بیر لە هیچ سنوورێک بکەرەوە<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · بیرکردنەوە بەبێ سنوور<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site کە مۆلیدەی سایتی ئیستاتیکی فرە زمانییە، دەتوانێت بە شێوەیەکی ئۆتۆماتیکی Markdown وەربگێڕێت بۆ [زیاتر لە سەد زمانی جیاواز](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

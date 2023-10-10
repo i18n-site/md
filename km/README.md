@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · គិតគ្មានព្រំដែន<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · ការគិតគ្មានព្រំដែន<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site ដែលជាម៉ាស៊ីនបង្កើតគេហទំព័រឋិតិវន្តពហុភាសា អាចបកប្រែ Markdown ដោយស្វ័យប្រវត្តិទៅជា [ជាងមួយរយភាសាផ្សេងគ្នា](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ។
 

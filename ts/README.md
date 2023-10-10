@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Ehleketa Ku Nga Ri Na Mindzilakano<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Ku Ehleketa Handle ka Mindzilakano<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, jeneretara ya sayiti leyi nga cinciki ya tindzimi to tala, yi nga hundzuluxela hi ku tisungulela Markdown hi [tindzimi to tlula dzana to hambana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

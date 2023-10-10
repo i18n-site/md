@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · 思緒無疆 <img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · 思無疆 <img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site，多語言的靜態站點生成器，能將 Markdown 自動翻譯為 [一百多種不同的語言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
 

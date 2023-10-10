@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Aħseb Nru Fruntieri<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Ħsieb Mingħajr Fruntieri<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, ġeneratur ta 'sit statiku b'ħafna lingwi, jista' jittraduċi Markdown awtomatikament [f'aktar minn mitt lingwa differenti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · አስብ ምንም ድንበር<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · ያለ ድንበር ማሰብ<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site፣ ባለብዙ ቋንቋ የማይንቀሳቀስ ጣቢያ ጀነሬተር፣ ማርክዳውን [ከመቶ በሚበልጡ ቋንቋዎች](https://github.com/i18n-site/node/blob/main/lang/src/index.js) በራስ-ሰር መተርጎም ይችላል።
 
