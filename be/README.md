@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Мысленне без межаў<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Think Borderless<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, генератар статычных сайтаў, можа аўтаматычна перакладаць Markdown [больш чым на сто розных моў](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

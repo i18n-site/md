@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · ބޯޑަރެއް ނެތި ވިސްނުން<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · ތިންކް ބޯޑަރލެސް<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 ސްޓޭޓިކް ސައިޓް ޖަނަރޭޓަރެއް ކަމަށްވާ 3Ti.Site އިން މާކްޑައުން އަށް އޮޓޮމެޓިކުން [ސަތޭކައަށްވުރެ ގިނަ ތަފާތު ބަހަކަށް](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ތަރުޖަމާ ކުރެވޭނެއެވެ .
 

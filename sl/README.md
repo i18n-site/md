@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Razmišljanje brez meja<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Think Borderless<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, generator statičnih spletnih mest, lahko samodejno prevede Markdown v [več kot sto različnih jezikov](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

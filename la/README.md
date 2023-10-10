@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · cogitans sine finibus<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Cogita Borderless<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, situs stabilis generans, automatice Markdown in [plus quam centum diversas linguas](https://github.com/i18n-site/node/blob/main/lang/src/index.js) transferre potest.
 

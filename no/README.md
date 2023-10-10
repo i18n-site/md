@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Tenke uten grenser<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Tenk uten grenser<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, en statisk nettstedsgenerator, kan automatisk oversette Markdown til [mer enn hundre forskjellige språk](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

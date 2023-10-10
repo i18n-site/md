@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Shafi · Tunani Ba tare da Iyakoki ba<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Tunanin Mara iyaka<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, janareta na rukunin yanar gizo, na iya fassara Markdown ta atomatik zuwa [fiye da harsuna ɗari daban-daban](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

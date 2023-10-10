@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Mikir Tanpa Wates<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Think Borderless<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, generator situs statis, kanthi otomatis bisa nerjemahake Markdown menyang [luwih saka satus basa sing beda](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

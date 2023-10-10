@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · शिमेबगर विचार करप<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · शिमेविरयत विचार करप<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, एक स्थिर साइट जनरेटर, आपोआप Markdown शंबरां [परस चड वेगवेगळ्या भाशांनी](https://github.com/i18n-site/node/blob/main/lang/src/index.js) अणकार करूंक शकता .
 

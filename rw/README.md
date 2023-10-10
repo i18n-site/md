@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Urubuga · Gutekereza Bidafite Imipaka<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Urubuga · Tekereza umupaka<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Urubuga, imashini itanga urubuga ruhagaze, irashobora guhita ihindura Markdown [mundimi zirenga ijana zitandukanye](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
