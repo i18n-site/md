@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · 语言无国界 <img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · 思绪无疆 <img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE，多语言的静态站点生成器，能将 Markdown 自动翻译为 [一百多种不同的语言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
+3Ti.Site，多语言的静态站点生成器，能将 Markdown 自动翻译为 [一百多种不同的语言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
 
 ![](//i-01.eu.org/i18n/lang.webp)
 
 也许会有人想问，现在浏览器都自带翻译功能了，做网站国际化是不是多此一举？
 
 我想说，**只有做了全站国际化，才能支持多语种的站内全文搜索和搜索引擎优化** 。
+
+## 序
+
+科幻小说《三体》（ 中文发音：`3Ti` ）虚构异星生灵，通过电磁波交流，思维透明，没有语言的障碍。
+
+《圣经·创世纪》中有传说 :
+
+> 古人语言未分，天生骄傲，欲筑高塔，直达上帝之门。
+>
+> 神不悦人类傲慢，遂使众生言语不通，分散各地。
+>
+> 自此，人类难以沟通，纷争不断，世间再无通天塔。
 
 ## 使用教程
 
