@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · థింక్ నో బోర్డర్స్<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · సరిహద్దులు లేకుండా ఆలోచించడం<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, బహుళ-భాషా స్టాటిక్ సైట్ జనరేటర్, మార్క్‌డౌన్‌ను [వంద కంటే ఎక్కువ విభిన్న భాషల్లోకి](https://github.com/i18n-site/node/blob/main/lang/src/index.js) స్వయంచాలకంగా అనువదించగలదు.
 
