@@ -12,11 +12,11 @@ Irrid ngħid li **biss billi ninternazzjonalizzaw is-sit kollu nistgħu nappoġ�
 
 "Bibbja·Ġenesi":
 
-> Il-qedem ma kinux jiddistingwu bejn il-lingwi. Twieldu bi kburija u riedu jibnu torri għoli bil-quċċata tilħaq sas-sema.
+> Fl-antik, meta l-lingwa kienet waħda, l-umanità twieldet kburi. Huma fittxew li jibnu bini għoli, torri li mess is-smewwiet.
 >
-> <blockquote><p>Alla kien dispjaċir bl-arroganza tal-bniedem, għalhekk xerred il-ħlejjaq kollha ħajjin f’diversi postijiet, ma setgħux jifhmu lil xulxin.</p></blockquote>
+> Madankollu, id-​Divin, li ma kienx kuntent bl-​arroganza tagħhom, wassal lin-​nies iferrxu madwar l-​art, u b’hekk ilsienu ma jinftiehemx lil xulxin.
 >
-> <blockquote><p>Minn dakinhar, kien diffiċli għall-​bnedmin li jikkomunikaw, it-​tilwim komplew, u m’hemm l-​ebda Torri taʼ Babel fid-​dinja.</p></blockquote>
+> Minn dak iż-żmien 'il quddiem, l-umanità tħabtu biex tikkomunika, il-kunflitti qamu bla tarf, u d-dinja ma ratx aktar torri li laħaq is-smewwiet.
 
 Ir-rumanz tal-fantaxjenza &quot;Three-Body&quot; (pronunzja Ċiniża: `3Ti` ) jimbotta ċiviltà aljena li tikkomunika permezz ta 'mewġ elettromanjetiku, m'għandha l-ebda ostakli tal-lingwa, u hija teknoloġikament prospera.
 

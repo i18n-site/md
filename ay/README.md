@@ -12,11 +12,11 @@ Nayax sañ muntwa **, taqpach sitio ukar internacionalización ukampikiw walja a
 
 "Biblia·Génesis qillqata".:
 
-> Nayra jaqinakax janiw arunak yaqhachapkänti. Jupanakax jach’a jach’a tukusaw yuripxäna ukat mä jach’a torre lurañ munapxäna, patat alaxpachar puriñkama.
+> Nayra pachanxa, kunapachatixa aruxa mayakïkäna ukjaxa, jaqinakaxa jach’a jach’a tukusa yuripxirïna. Jupanakajj mä jachʼa edificio lurañwa chʼamachasipjjäna, uka torrejj alajjpacharuw llamktʼäna.
 >
-> <blockquote><p>Diosax jaqin jach’a jach’a tukutapatxa janiw walïkänti, ukatwa taqi jakirinakaruw kunayman chiqanakar ch’iqiyäna, janiw maynit maynikam amuyañjamäkänti.</p></blockquote>
+> Ukampirus Divinox jach’a jach’a tukutapat jan kusisitax jaqinakarux aka uraqiruw ch’iqiyatayna, ukat laxranakapax maynit maynikam jan amuyt’añjamäxänwa.
 >
-> <blockquote><p>Ukhat aksarojja, jaqenakatakejj parltʼasiñajj chʼamakïjjänwa, chʼajjwañanakas utjaskakiwa, ukat akapachanjja janiw Torre de Babel sat torrejj utj-jjeti.</p></blockquote>
+> Uka tiempot aksarojja, jaqenakajj parltʼasiñatakiw chʼamachasipjjäna, jan tukuskir chʼajjwañanakaw utjäna, ukat akapachajj janiw alajjpachar purir mä torre uñjjjänti.
 
 Novela de ciencia ficción &quot;Kimsa Cuerpo&quot; (chino aruchja: `3Ti` ) ukax mä civilización extranjera ukar uñt'ayi, ukax olas electromagnéticas ukanakampiw aruskipt'i, janiw arut jark'atäkiti, ukatx tecnología tuqitx wali ch'amanchatawa.
 

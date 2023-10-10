@@ -12,11 +12,11 @@ Njagala okugamba nti **nga tufuula omukutu gwonna ogw’ensi yonna gwokka gwe tu
 
 "Baibuli·Olubereberye".:
 
-> Ab’edda tebaawulamu nnimi. Baazaalibwa n’amalala era nga baagala okuzimba omunaala omuwanvu nga waggulu gutuuka mu bbanga.
+> Mu biseera eby’edda, olulimi bwe lwali lumu, obuntu bwazaalibwa nga bwa malala. Baafuba okuzimba ekizimbe ekiwanvu, omunaala ogwakwata ku ggulu.
 >
-> <blockquote><p>Katonda teyasanyukira malala g’omuntu, bwatyo n’asaasaanya ebiramu byonna mu bifo eby’enjawulo, nga tasobola kutegeeragana.</p></blockquote>
+> Kyokka, Obwakatonda, olw’obutasanyuka olw’amalala gaabwe, yaleetera abantu okusaasaana mu nsi, n’afuula ennimi zaabwe obutategeerekeka eri bannaabwe.
 >
-> <blockquote><p>Okuva olwo, abantu kibadde kizibu okuwuliziganya, enkaayana zaagenda mu maaso, era tewali Munaala gwa Baberi mu nsi.</p></blockquote>
+> Okuva olwo, abantu baalwanagana okuwuliziganya, enkaayana ne zijja nga tezikoma, era ensi teyaddamu kulaba munaala gwatuuka mu bbanga.
 
 Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y'Oluchina: `3Ti` ) kifuula embuga y'abagwira ewuliziganya okuyita mu mayengo ga masanyalaze, etaliiko biziyiza lulimi, era ekulaakulana mu tekinologiya.
 

@@ -12,11 +12,11 @@ Bazı insanlar, artık tarayıcıların yerleşik çeviri işlevlerine sahip old
 
 "İncil·Genesis":
 
-> Eskiler diller arasında ayrım yapmıyorlardı. Gururla doğmuşlardı ve tepesi gökyüzüne kadar uzanan yüksek bir kule inşa etmek istiyorlardı.
+> Dilin tek olduğu eski çağlarda insanlık gururlu doğmuştu. Yüksek bir yapı, göklere değen bir kule inşa etmeye çalıştılar.
 >
-> <blockquote><p>Allah, insanın kibrinden hoşlanmamış, bu yüzden bütün canlıları birbirlerini anlayamayacak şekilde çeşitli yerlere dağıtmıştır.</p></blockquote>
+> Ancak onların kibrinden hoşnut olmayan Allah, insanları yeryüzüne dağıtıp, dillerini birbirlerine anlaşılmaz hale getirdi.
 >
-> <blockquote><p>O günden bu yana insanların iletişim kurması zorlaştı, anlaşmazlıklar devam etti ve dünyada Babil Kulesi yok.</p></blockquote>
+> O andan itibaren insanoğlu iletişim kurmaya çabaladı, bitmek bilmeyen çatışmalar çıktı ve dünya artık göklere uzanan bir kule görmedi.
 
 Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektromanyetik dalgalar aracılığıyla iletişim kuran, dil engeli olmayan ve teknolojik açıdan zengin bir uzaylı uygarlığını kurguluyor.
 

@@ -12,11 +12,11 @@ Ik wil zeggen dat **we alleen door de hele site te internationaliseren meertalig
 
 "Bijbel·Genesis":
 
-> De Ouden maakten geen onderscheid tussen talen. Ze waren met trots geboren en wilden een hoge toren bouwen waarvan de top tot aan de hemel reikte.
+> In de oudheid, toen taal één was, werd de mensheid trots geboren. Ze probeerden een torenhoog gebouw te bouwen, een toren die tot aan de hemel reikte.
 >
-> <blockquote><p>God was ontevreden over de arrogantie van de mens, dus verspreidde hij alle levende wezens over verschillende plaatsen, niet in staat elkaar te begrijpen.</p></blockquote>
+> Het Goddelijke echter, ontevreden over hun arrogantie, zorgde ervoor dat de mensen zich over de aarde verspreidden, waardoor hun tongen voor elkaar onbegrijpelijk werden.
 >
-> <blockquote><p>Sindsdien is het moeilijk voor mensen om te communiceren, zijn de geschillen voortgezet en is er geen Toren van Babel meer in de wereld.</p></blockquote>
+> Vanaf dat moment had de mensheid moeite om te communiceren, ontstonden er eindeloos conflicten en zag de wereld geen toren meer die tot aan de hemel reikte.
 
 De sciencefictionroman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fictionaliseert een buitenaardse beschaving die communiceert via elektromagnetische golven, geen taalbarrières kent en technologisch welvarend is.
 

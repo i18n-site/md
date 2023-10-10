@@ -12,11 +12,11 @@ Ba mhaith liom a rá gur **trí idirnáisiúnú a dhéanamh ar an suíomh iomlá
 
 "Bíobla·Genesis":
 
-> Ní dhearna na seanóirí idirdhealú idir teangacha. Rugadh iad le bród agus bhí siad ag iarraidh túr ard a thógáil leis an mbarr ag teacht go dtí an spéir.
+> I am ársa, nuair a bhí teanga amháin, rugadh daonnachta bródúil as. Rinne siad iarracht foirgneamh ard a thógáil, túr a chuaigh i dteagmháil leis na flaithis.
 >
-> <blockquote><p>Bhí Dia míshásta le sotal an duine, agus mar sin scaip sé gach neach beo in áiteanna éagsúla, gan a bheith in ann a chéile a thuiscint.</p></blockquote>
+> Gidheadh, do chuir an Dhiaga míshásta le n-a n-árdrígheacht, do na daoinibh do sgaoil ar fud an domhain, ag déanamh a dteanga dothuigthe dá chéile.
 >
-> <blockquote><p>Ó shin i leith, tá sé deacair do dhaoine cumarsáid a dhéanamh, tá díospóidí ag leanúint ar aghaidh, agus níl aon Túr Babel ar domhan.</p></blockquote>
+> As sin amach, bhí an cine daonna ag streachailt le cumarsáid a dhéanamh, d'eascair coinbhleachtaí gan stad, agus ní fhaca an domhan túr a shroich na spéartha níos mó.
 
 Déanann an t-úrscéal ficsean eolaíochta &quot;Three-Body&quot; (fuaimniú Síneach: `3Ti` ) sibhialtacht choimhthíoch a dhéanann cumarsáid trí thonnta leictreamaighnéadacha, nach bhfuil aon bhacainní teanga aici, agus atá rathúil ó thaobh na teicneolaíochta de.
 

@@ -12,11 +12,11 @@ Saya ingin mengatakan bahawa **hanya dengan mengantarabangsakan keseluruhan tapa
 
 "Bible·Genesis":
 
-> Orang dahulu tidak membezakan antara bahasa. Mereka dilahirkan dengan rasa bangga dan ingin membina menara tinggi dengan puncaknya mencecah langit.
+> Pada zaman dahulu, apabila bahasa adalah satu, manusia dilahirkan bangga. Mereka berusaha untuk membina sebuah bangunan yang menjulang tinggi, sebuah menara yang mencecah langit.
 >
-> <blockquote><p>Allah tidak redha dengan kesombongan manusia, maka Dia mencerai-beraikan semua yang bernyawa di berbagai tempat, tidak dapat memahami satu sama lain.</p></blockquote>
+> Namun, Ilahi, yang tidak senang dengan kesombongan mereka, menyebabkan manusia berselerak di seluruh bumi, menjadikan lidah mereka tidak dapat difahami antara satu sama lain.
 >
-> <blockquote><p>Sejak itu, sukar bagi manusia untuk berkomunikasi, perselisihan berterusan, dan tidak ada Menara Babel di dunia.</p></blockquote>
+> Sejak itu, manusia bergelut untuk berkomunikasi, konflik timbul tanpa henti, dan dunia tidak melihat lagi menara yang mencapai langit.
 
 Novel fiksyen sains &quot;Three-Body&quot; (sebutan bahasa Cina: `3Ti` ) menyifatkan tamadun asing yang berkomunikasi melalui gelombang elektromagnet, tidak mempunyai halangan bahasa, dan makmur dari segi teknologi.
 

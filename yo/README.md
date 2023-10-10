@@ -12,11 +12,11 @@ Mo fẹ lati sọ pe **nikan nipa sisẹ gbogbo aaye naa ni a le ṣe atilẹyin
 
 "Bibeli · Jẹnẹsisi":
 
-> Awon babalawo ko yato laarin ede. Wọ́n bí wọn pẹ̀lú ìgbéraga, wọ́n sì fẹ́ kọ́ ilé ìṣọ́ gíga kan tí òkè rẹ̀ dé ojú ọ̀run.
+> Láyé àtijọ́, nígbà tí èdè jẹ́ ọ̀kan, ìgbéraga ni a bí ènìyàn. Wọ́n wá ọ̀nà láti kọ́ ilé gíga kan, ilé gogoro kan tó kan ọ̀run.
 >
-> <blockquote><p>Inú Ọlọ́run dùn sí ìgbéraga ènìyàn, nítorí náà ó tú gbogbo ẹ̀dá alààyè ká sí onírúurú ibi, kò lè lóye ara wọn.</p></blockquote>
+> Bí ó ti wù kí ó rí, Ọlọ́run, tí inú rẹ̀ kò dùn sí ìgbéraga wọn, mú kí àwọn ènìyàn fọ́n káàkiri ayé, tí wọ́n sì sọ ahọ́n wọn di aláìmọ́ fún ara wọn.
 >
-> <blockquote><p>Sọn whenẹnu gbọ́n, e ko vẹawuna gbẹtọvi lẹ nado dọhodopọ, gbemanọpọ lẹ ko zindonukọn, podọ Atọ̀họ̀ Babẹli tọn ma tin to aihọn lọ mẹ.</p></blockquote>
+> Láti ìgbà yẹn lọ, aráyé ti ń tiraka láti bára wọn sọ̀rọ̀, ìjà ń dìde láìpẹ́, ayé kò sì rí ilé gogoro kan tí ó dé ojú ọ̀run mọ́.
 
 Iwe itan itan-akọọlẹ imọ-jinlẹ “Ara-mẹta” ( pronunciation Kannada: `3Ti` ) ṣe itanjẹ itanjẹ ọlaju ajeji ti o sọrọ nipasẹ awọn igbi itanna, ko ni awọn idena ede, ati pe o ni ilọsiwaju ni imọ-ẹrọ.
 

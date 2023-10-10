@@ -12,11 +12,11 @@ Ech wëll soen datt **nëmmen duerch d'Internationaliséierung vum ganze Site k�
 
 "Bibel · Genesis":
 
-> D'Alter hunn net tëscht Sproochen ënnerscheeden. Si goufe mat Stolz gebuer a wollten en héijen Tuerm bauen, mat der Spëtzt bis zum Himmel.
+> An alen Zäiten, wou d'Sprooch eng war, gouf d'Mënschheet stolz gebuer. Si hu gesicht fir en tierkescht Gebai ze bauen, en Tuerm deen den Himmel beréiert huet.
 >
-> <blockquote><p>Gott war onzefridden mat der Arroganz vum Mënsch, sou datt hien all Liewewiesen op verschiddene Plazen verspreet huet, net fäeg sech ze verstoen.</p></blockquote>
+> Wéi och ëmmer, d'Göttlech, onzefridden mat hirer Arroganz, huet d'Leit iwwer d'Äerd verstreet, wat hir Zong uneneen onverständlech gemaach huet.
 >
-> <blockquote><p>Zënterhier ass et schwéier fir d&#39;Mënschen ze kommunizéieren, Streidereien si weidergaang, an et gëtt keen Tuerm vu Babel op der Welt.</p></blockquote>
+> Vun do un huet d'Mënschheet gekämpft fir ze kommunizéieren, Konflikter entstanen endlos, an d'Welt huet keen Tuerm méi gesinn, deen den Himmel erreecht huet.
 
 De Science Fiction Roman &quot;Three-Body&quot; (Chinesesch Aussprooch: `3Ti` ) fictionaliséiert eng alien Zivilisatioun déi duerch elektromagnetesch Wellen kommunizéiert, keng Sproochbarrièren huet an technologesch räich ass.
 

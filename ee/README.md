@@ -12,11 +12,11 @@ Medi be magblɔ be **ne míetsɔ nyatakakadzraɖoƒe bliboa wɔ dukɔwo domee ko
 
 "Biblia·Mose Ƒe Agbalẽ Gbãtɔ".:
 
-> Blematɔwo mede vovototo gbegbɔgblɔwo dome o. Wodzi wo kple dada eye wodi be yewoatu xɔ kɔkɔ aɖe si tame naɖo dziƒo.
+> Le blema, esime gbegbɔgblɔ nye ɖeka la, wodzia ameƒomea dadatɔe. Wodi be yewoatu xɔ kɔkɔ aɖe, si nye xɔ kɔkɔ aɖe si ka dziƒowo.
 >
-> <blockquote><p>Amegbetɔ ƒe dada medze Mawu ŋu o, eyata ekaka nu gbagbewo katã ɖe teƒe vovovowo, eye womete ŋu se wo nɔewo gɔme o.</p></blockquote>
+> Gake Mawume la, esi woƒe dada medzɔ dzi na wo o la, na ameawo kaka ɖe anyigba dzi, si wɔe be woƒe aɖe megase wo nɔewo gɔme o.
 >
-> <blockquote><p>Tso ɣemaɣi la, esesẽna na amegbetɔwo be woaɖo dze, masɔmasɔwo yi edzi, eye Babel Mɔ̃ kɔkɔ aɖeke mele xexeame o.</p></blockquote>
+> Tso ɣemaɣi dzi la, ameƒomea nɔ agbagba dzem be yewoaɖo dze, masɔmasɔwo do mo ɖa nuwuwu manɔmee, eye xexeame megakpɔ xɔ kɔkɔ aɖe si ɖo yame o.
 
 Dzɔdzɔmeŋutinunya me nyakpakpa gbalẽ si nye &quot;Three-Body&quot; (Chinagbe me nyayɔyɔ: `3Ti` ) tsɔ amedzro deŋgɔ aɖe si ɖoa dze to elektrikŋusẽ ƒe ƒutsotsoewo dzi, gbegbɔgblɔ ƒe mɔxenu aɖeke mele eŋu o, eye wòkpɔ dzidzedze le mɔ̃ɖaŋununya me la ƒe nyakpakpa.
 

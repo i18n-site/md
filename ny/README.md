@@ -12,11 +12,11 @@ Ndikufuna kunena kuti **popanga tsamba lonselo kuti tithandizire kusaka ndi kukh
 
 "Baibulo Genesis":
 
-> Anthu akale sankasiyanitsa zinenero. Iwo anabadwa ali ndi mtima wonyada ndipo ankafuna kumanga nsanja yaitali yofika kumwamba.
+> Kale, pamene chinenero chinali chimodzi, anthu ankabadwa onyada. Iwo anafuna kumanga nyumba yaitali, nsanja yofika kumwamba.
 >
-> <blockquote><p>Mulungu adaipidwa ndi kudzikuza kwa munthu, kotero kuti adabalalitsa zamoyo zonse m’malo osiyanasiyana, osatha kumvana.</p></blockquote>
+> Komabe, Mulungu, poipidwa ndi kudzikuza kwawo, anachititsa anthu kubalalika padziko lonse lapansi, kupangitsa kuti lilime lawo likhale losamveka kwa wina ndi mnzake.
 >
-> <blockquote><p>Kuyambira pamenepo, zakhala zovuta kuti anthu azilankhulana, mikangano ikupitirirabe, ndipo kulibe Nsanja ya Babele padziko lapansi.</p></blockquote>
+> Kuyambira pamenepo, anthu anavutika kulankhulana, mikangano inabuka kosatha, ndipo dziko silinaonenso nsanja yofika kumwamba.
 
 Buku lopeka la sayansi &quot;Matupi Atatu&quot; (matchulidwe achi China: `3Ti` ) amapeka chitukuko chachilendo chomwe chimalumikizana ndi mafunde amagetsi, sichikhala ndi zolepheretsa chilankhulo, komanso chikuyenda bwino paukadaulo.
 

@@ -12,11 +12,11 @@ Ke nyaka go bolela gore **ke feela ka go dira gore lefelo ka moka e be la bodit�
 
 "Beibele·Genesi".:
 
-> Bagologolo ba be ba sa fapantšhe magareng ga maleme. Ba belegwe ka boikgantšho gomme ba nyaka go aga tora ye telele yeo ntlha ya yona e fihlago leratadimeng.
+> Mehleng ya bogologolo, ge polelo e be e le e tee, botho bo belegwe bo ikgantšha. Ba ile ba nyaka go aga moago o phagamego, e lego tora yeo e bego e kgoma magodimo.
 >
-> <blockquote><p>Modimo o be a sa kgahlwe ke boikgogomošo bja motho, ka fao a phatlalatša diphedi ka moka mafelong a go fapafapana, a sa kgone go kwešišana.</p></blockquote>
+> Le ge go le bjalo, Bomodimo, ka go se thabele boikgogomošo bja bona, bo ile bja dira gore batho ba phatlalale lefaseng, a dira gore maleme a bona a se kwešišege go yo mongwe le yo mongwe.
 >
-> <blockquote><p>Ga e sa le go tloga ka nako yeo, go bile thata gore batho ba boledišane, dingangišano di ile tša tšwela pele gomme ga go na Tora ya Babele lefaseng.</p></blockquote>
+> Go tloga ka nako yeo go ya pele, batho ba ile ba katana le go boledišana, dithulano tša tsoga ka mo go sa felego gomme lefase le se sa bona tora yeo e fihlago magodimong.
 
 Padi ya saense ya boikgopolelo ya &quot;Three-Body&quot; (mmiletšo wa Setšhaena: `3Ti` ) e itlhametše tlhabologo ya moeng yeo e boledišanago ka maphoto a mohlagase wa makenete, ga e na mapheko a polelo, gomme e atlegile ka theknolotši.
 

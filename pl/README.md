@@ -12,11 +12,11 @@ Chcę powiedzieć, że **tylko poprzez internacjonalizację całej witryny może
 
 „Biblia·Geneza”:
 
-> Starożytni nie rozróżniali języków. Urodzili się z dumą i chcieli zbudować wysoką wieżę, której szczyt sięgałby nieba.
+> W starożytności, kiedy język był jeden, ludzkość rodziła się dumna. Chcieli wznieść potężną budowlę, wieżę sięgającą nieba.
 >
-> <blockquote><p>Bóg był niezadowolony z arogancji człowieka, więc rozproszył wszystkie żyjące istoty po różnych miejscach, nie mogąc się porozumieć.</p></blockquote>
+> Jednak Bóg, niezadowolony z ich arogancji, spowodował, że ludzie rozproszyli się po ziemi, powodując, że ich języki stały się dla siebie niezrozumiałe.
 >
-> <blockquote><p>Od tego czasu ludziom trudno się porozumieć, trwają spory, a na świecie nie ma Wieży Babel.</p></blockquote>
+> Odtąd ludzkość miała trudności z komunikacją, konflikty narastały w nieskończoność, a świat nie widział już wieży sięgającej nieba.
 
 Powieść science fiction „Trzy ciała” (chińska wymowa: `3Ti` ) fabularyzuje obcą cywilizację, która komunikuje się za pomocą fal elektromagnetycznych, nie ma barier językowych i jest zamożna technologicznie.
 

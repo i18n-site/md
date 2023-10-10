@@ -12,11 +12,11 @@ Mepɛ sɛ meka sɛ **ɛdenam amanaman ntam wɛbsaet no nyinaa a yɛde bɛyɛ ama
 
 "Bible·Genesis":
 
-> Tetefo no anhu nsonsonoe a ɛda kasa ahorow ntam. Wɔde ahantan woo wɔn na na wɔpɛ sɛ wosi abantenten tenten bi a ne soro kodu soro.
+> Tete no, bere a na kasa yɛ biako no, wɔwoo adesamma ahantan. Wɔhwehwɛɛ sɛ wobesi ɔdan atenten, abantenten a ɛka ɔsoro.
 >
-> <blockquote><p>Onyankopɔn ani annye onipa ahantan ho, enti ɔbɔɔ abɔde a nkwa wom nyinaa hwetee mmeae ahorow, a wantumi ante wɔn ho wɔn ho ase.</p></blockquote>
+> Nanso, Ɔsoroni no a na n’ani nnye wɔn ahantan no ho no maa nkurɔfo no hwetee wɔ asase so, na ɛmaa wɔn tɛkrɛma yɛɛ nea wontumi nte ase.
 >
-> <blockquote><p>Efi saa bere no, ayɛ den ama nnipa sɛ wɔbɛbɔ nkɔmmɔ, akasakasa akɔ so, na Babel Abantenten biara nni wiase.</p></blockquote>
+> Efi saa bere no, adesamma bɔɔ mmɔden sɛ wɔbɛbɔ nkɔmmɔ, ntawntawdi sɔree a enni awiei, na wiase no anhu abantenten a ɛkɔ soro bio.
 
 Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din: `3Ti` ) yɛ ahɔho anibuei a ɛnam anyinam ahoɔden asorɔkye so di nkitaho, enni kasa mu akwanside biara, na ɛwɔ mfiridwuma mu yiyedi.
 

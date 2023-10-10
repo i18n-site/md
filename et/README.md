@@ -12,11 +12,11 @@ Tahan öelda, et **ainult kogu saidi rahvusvahelistumisega saame toetada mitmeke
 
 "Piibel · Genesis":
 
-> Vanad inimesed ei teinud keeltel vahet. Nad sündisid uhkusega ja tahtsid ehitada kõrge torni, mille tipp ulatub taeva poole.
+> Iidsetel aegadel, kui keel oli üks, sündis inimkond uhkena. Nad püüdsid ehitada kõrghoonet, torni, mis puudutas taevast.
 >
-> <blockquote><p>Jumalale ei meeldinud inimeste kõrkus, mistõttu ta hajutas kõik elusolendid erinevatesse kohtadesse, suutmata üksteist mõista.</p></blockquote>
+> Kuid Jumalik, kes ei olnud rahul nende ülbusega, pani inimesed mööda maad laiali, muutes nende keeled üksteisele arusaamatuks.
 >
-> <blockquote><p>Sellest ajast peale on inimestel olnud raske suhelda, vaidlused on jätkunud ja maailmas pole Paabeli torni.</p></blockquote>
+> Sellest ajast peale oli inimkonnal raske suhelda, konflikte tekkis lõputult ja maailm ei näinud enam taevani ulatuvat torni.
 
 Ulmeromaan &quot;Kolm keha&quot; (Hiina hääldus: `3Ti` ) kujutab endast välja tulnukat tsivilisatsiooni, mis suhtleb elektromagnetlainete kaudu, millel puuduvad keelebarjäärid ja mis on tehnoloogiliselt jõukas.
 

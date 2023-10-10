@@ -12,11 +12,11 @@ Gusto kong sabihin na **sa pamamagitan lamang ng pag-internationalize ng buong s
 
 "Bibliya·Genesis":
 
-> Ang mga sinaunang tao ay hindi nagtatangi sa pagitan ng mga wika. Sila ay ipinanganak na may pagmamalaki at nais na magtayo ng isang mataas na tore na ang tuktok ay umaabot sa langit.
+> Noong unang panahon, kapag ang wika ay iisa, ang sangkatauhan ay ipinanganak na mapagmataas. Sinikap nilang magtayo ng isang matayog na gusali, isang tore na umabot sa langit.
 >
-> <blockquote><p>Hindi nasiyahan ang Diyos sa pagmamataas ng tao, kaya&#39;t ikinalat niya ang lahat ng may buhay sa iba&#39;t ibang lugar, na hindi nagkakaintindihan.</p></blockquote>
+> Gayunpaman, ang Banal, na hindi nasisiyahan sa kanilang pagmamataas, ay naging sanhi ng pagkalat ng mga tao sa buong mundo, na ginagawang hindi maintindihan ang kanilang mga dila sa isa't isa.
 >
-> <blockquote><p>Simula noon, mahirap na ang mga tao na makipag-usap, nagpatuloy ang mga pagtatalo, at walang Tore ng Babel sa mundo.</p></blockquote>
+> Mula noon, ang sangkatauhan ay nagpupumilit na makipag-usap, ang mga salungatan ay lumitaw nang walang katapusan, at ang mundo ay wala nang nakitang isang tore na umabot sa kalangitan.
 
 Ang nobelang science fiction na &quot;Three-Body&quot; (pagbigkas ng Tsino: `3Ti` ) ay gawa-gawa ang isang dayuhan na sibilisasyon na nakikipag-usap sa pamamagitan ng mga electromagnetic wave, walang mga hadlang sa wika, at maunlad sa teknolohiya.
 

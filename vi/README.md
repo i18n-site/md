@@ -12,11 +12,11 @@ Tôi muốn nói rằng **chỉ bằng cách quốc tế hóa toàn bộ trang w
 
 "Kinh thánh·Sáng thế ký":
 
-> Người xưa không phân biệt ngôn ngữ. Họ sinh ra đã kiêu hãnh và muốn xây dựng một tòa tháp cao có đỉnh vươn tới tận trời.
+> Thời xa xưa, khi ngôn ngữ là một, loài người sinh ra đã kiêu hãnh. Họ tìm cách xây dựng một tòa lâu đài cao chót vót, một tòa tháp chạm tới tận trời.
 >
-> <blockquote><p>Đức Chúa Trời không hài lòng với sự kiêu ngạo của con người nên đã phân tán muôn loài sống ở nhiều nơi khác nhau, không thể hiểu được nhau.</p></blockquote>
+> Tuy nhiên, Thần thánh không hài lòng với sự kiêu ngạo của họ nên đã khiến con người phải tản mác khắp trái đất, khiến ngôn ngữ của họ trở nên khó hiểu với nhau.
 >
-> <blockquote><p>Kể từ đó, con người khó liên lạc, tranh chấp vẫn tiếp diễn và trên thế giới không có Tháp Babel.</p></blockquote>
+> Từ đó trở đi, nhân loại gặp khó khăn trong việc liên lạc, xung đột nảy sinh không ngừng, và thế giới không còn thấy một tòa tháp nào vươn tới bầu trời nữa.
 
 Tiểu thuyết khoa học viễn tưởng &quot;Three-Body&quot; (phát âm tiếng Trung: `3Ti` ) hư cấu về một nền văn minh ngoài hành tinh giao tiếp qua sóng điện từ, không có rào cản ngôn ngữ và thịnh vượng về mặt công nghệ.
 

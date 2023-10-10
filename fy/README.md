@@ -12,11 +12,11 @@ Ik wol sizze dat **allinich troch ynternasjonalisearjen fan 'e heule side wy mea
 
 "Bibel · Genesis":
 
-> De âlden makken gjin ûnderskied tusken talen. Se waarden berne mei grutskens en woenen in hege toer bouwe mei de top nei de himel.
+> Yn âlde tiden, doe't taal ien wie, waard it minskdom grutsk berne. Se sochten in grut gebou te bouwen, in toer dy't de himel rekke.
 >
-> <blockquote><p>God wie ûntefreden mei de arrogânsje fan &#39;e minske, sadat hy alle libbene wêzens op ferskate plakken ferspriede, net yn steat om inoar te begripen.</p></blockquote>
+> Lykwols, de godlike, ûntefreden mei harren arrogânsje, feroarsake de minsken ferspriede oer de ierde, rendering harren tongen ûnbegryplik foar inoar.
 >
-> <blockquote><p>Sûnt dy tiid hat it foar minsken lestich west om te kommunisearjen, konflikten binne trochgean, en d&#39;r is gjin Toer fan Babel yn &#39;e wrâld.</p></blockquote>
+> Fan doe ôf stride it minskdom om te kommunisearjen, konflikten ûntstiene einleaze, en de wrâld seach gjin toer mear dy't de loft berikte.
 
 De science fiction-roman &quot;Three-Body&quot; (Sineeske útspraak: `3Ti` ) fiksjonalisearret in frjemde beskaving dy't kommunisearret fia elektromagnetyske weagen, gjin taalbarriêres hat en technologysk foarspoedich is.
 

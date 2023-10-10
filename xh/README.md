@@ -12,11 +12,11 @@ Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase up
 
 "IBhayibhile · Genesis":
 
-> Abantu bamandulo babengahluli phakathi kweelwimi. Bazalwa benekratshi yaye bafuna ukwakha inqaba ende encopho ifikelela esibhakabhakeni.
+> Mandulo, xa ulwimi lwalulunye, uluntu lwaluzalwa luzidla. Babefuna ukwakha isakhiwo esiphakamileyo, inqaba efikelela emazulwini.
 >
-> <blockquote><p>UThixo ke wakruquka kukukhukhumala komntu, wachithachitha yonke imiphefumlo ephilileyo ezindaweni ngeendawo, ukuba zingakwazi ukuqondana.</p></blockquote>
+> Noko ke, uThixo, ecatshukiswe kukukhukhumala kwabo, wabangela ukuba abantu bachithachitheke emhlabeni, belunikela ulwimi lwabo ukuba lungaqondakali omnye komnye.
 >
-> <blockquote><p>Ukususela ngoko, bekunzima ukuba abantu banxibelelane, iingxabano ziye zaqhubeka, yaye ayikho iNqaba yeBhabheli ehlabathini.</p></blockquote>
+> Ukususela ngoko, uluntu lwatsala nzima ekunxibelelaneni, kwabakho ungquzulwano olungapheliyo, yaye ihlabathi alizange libe sabona inqaba efikelela esibhakabhakeni.
 
 Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina: `3Ti` ) ivelisa impucuko yasemzini enxibelelana ngamaza ombane wombane, ayinamiqobo yolwimi, kwaye inempumelelo kubuchwepheshe.
 

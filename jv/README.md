@@ -12,11 +12,11 @@ Aku pengin ngomong yen **mung kanthi internasionalisasi kabeh situs, kita bisa n
 
 "Alkitab·Purwaning Dumadi":
 
-> Wong kuna ora mbedakake basa. Dheweke lair kanthi bangga lan pengin mbangun menara sing dhuwur kanthi dhuwur nganti langit.
+> Ing jaman kuna, nalika basa iku siji, manungsa lair bangga. Wong-wong mau padha ngupaya yasa gedhong sing dhuwur, menara sing ndemek langit.
 >
-> <blockquote><p>Gusti Allah ora rena marang angkuhne manungsa, mula kabeh makhluk urip padha buyar ing panggonan-panggonan sing beda-beda, ora bisa ngerti.</p></blockquote>
+> Nanging, Ilahi, ora remen marang angkuh, njalari wong-wong padha buyar ing bumi, nggawe ilat ora bisa dingerteni siji liyane.
 >
-> <blockquote><p>Wiwit kuwi, manungsa angel komunikasi, perselisihan terus, lan ora ana Menara Babel ing jagad iki.</p></blockquote>
+> Wiwit saiki, manungsa berjuang kanggo komunikasi, konflik muncul tanpa henti, lan jagad ora weruh menara sing tekan langit.
 
 Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Basa Cina: `3Ti` ) minangka fiksi peradaban alien sing komunikasi liwat gelombang elektromagnetik, ora ana alangan basa, lan teknologi sing makmur.
 

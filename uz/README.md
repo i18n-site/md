@@ -12,11 +12,11 @@ Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko'p tilli sa
 
 "Injil · Ibtido":
 
-> Qadimgi odamlar tillarni farqlashmagan. Ular g'urur bilan tug'ilganlar va tepasi osmonga yetadigan baland minora qurishni xohlashgan.
+> Qadim zamonlarda, til bir bo'lganida, insoniyat mag'rur tug'ilgan. Ular baland bino, osmonga tegib turadigan minora qurishga intilishdi.
 >
-> <blockquote><p>Xudo insonning takabburligidan norozi bo&#39;lib, barcha tirik mavjudotlarni bir-birini tushuna olmay, turli joylarga tarqatib yubordi.</p></blockquote>
+> Biroq ilohiy ularning takabburligidan norozi bo'lib, odamlarning tillarini bir-birlariga tushunarsiz qilib, yer yuziga tarqalib ketishlariga sabab bo'ldi.
 >
-> <blockquote><p>O&#39;shandan beri odamlar uchun muloqot qilish qiyin bo&#39;ldi, tortishuvlar davom etdi va dunyoda Bobil minorasi yo&#39;q.</p></blockquote>
+> O'shandan beri insoniyat muloqot qilish uchun kurashdi, to'xtovsiz to'qnashuvlar paydo bo'ldi va dunyo osmonga yetib boradigan minorani ko'rmadi.
 
 “Uch tana” (xitoycha talaffuzi: `3Ti` ) ilmiy-fantastik romani elektromagnit to‘lqinlar orqali muloqot qiladigan, til to‘siqlariga ega bo‘lmagan va texnologik jihatdan gullab-yashnayotgan begona sivilizatsiyani o‘ylab topadi.
 

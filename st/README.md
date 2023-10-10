@@ -12,11 +12,11 @@ Ke batla ho bolela hore **ke feela ka ho etsa hore sebaka sohle sa marang-rang s
 
 "Bibele Genese":
 
-> Batho ba boholo-holo ba ne ba sa khetholle lipuo. Ba tsoetsoe ba le boikhohomoso ’me ba batla ho haha ​​tora e telele eo tlhōrō e fihlang leholimong.
+> Mehleng ea boholo-holo, ha puo e ne e le ntho e le 'ngoe, batho ba ne ba tsoaloa ba le motlotlo. Ba ne ba batla ho haha ​​mohaho o molelele, tora e fihlang leholimong.
 >
-> <blockquote><p>Molimo ha aa ka a khahlisoa ke boikakaso ba motho, kahoo a hasanya libōpuoa tsohle tse phelang libakeng tse fapaneng, li sitoa ho utloisisana.</p></blockquote>
+> Leha ho le joalo, Molimo, a halefisitsoe ke boikhohomoso ba bona, o ile a etsa hore batho ba hasane le lefatše, ba etsa hore maleme a bona a se ke a utloisisoa.
 >
-> <blockquote><p>Ho tloha ka nako eo, ho ’nile ha e-ba thata hore batho ba buisane, likhohlano li ’nile tsa tsoela pele, ’me ha ho na Tora ea Babele lefatšeng.</p></blockquote>
+> Ho tloha ka nako eo ho ea pele, moloko oa batho o ile oa thatafalloa ke ho buisana, likhohlano tsa hlaha ka ho sa feleng, ’me lefatše ha lea ka la hlola le bona tora e fihlang leholimong.
 
 Pale ea tšōmo ea mahlale &quot;Mele e Meraro&quot; (polelo ea Sechaena: `3Ti` ) e iqapetse tsoelopele esele e buisanang ka maqhubu a motlakase, e senang litšitiso tsa puo, 'me e atlehile ho tsa theknoloji.
 

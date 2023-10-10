@@ -12,11 +12,11 @@ Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə bi
 
 "İncil · Yaradılış":
 
-> Qədimlər dillər arasında fərq qoymurlar. Onlar qürurla doğulublar və zirvəsi göyə çatan hündür bir qüllə tikmək istəyirdilər.
+> Qədim dövrlərdə, dil bir olanda bəşəriyyət qürurla doğulmuşdu. Uca bir bina, göylərə toxunan bir qüllə tikməyə çalışdılar.
 >
-> <blockquote><p>İnsanın təkəbbürlü olması Tanrının narazılığına səbəb olub, bütün canlıları bir-birini başa düşə bilməyib müxtəlif yerlərə səpələyib.</p></blockquote>
+> Lakin İlahi onların təkəbbüründən narazı qalaraq, insanların dillərini bir-birləri üçün anlaşılmaz hala gətirərək yer üzünə səpələməyə səbəb oldu.
 >
-> <blockquote><p>O vaxtdan bəri insanlar üçün ünsiyyət qurmaq çətinləşdi, mübahisələr davam etdi və dünyada Babil qülləsi yoxdur.</p></blockquote>
+> Bundan sonra bəşəriyyət ünsiyyət qurmaq üçün mübarizə apardı, sonsuz münaqişələr yarandı və dünya daha səmaya çatan bir qüllə görmədi.
 
 Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Ti` ) elektromaqnit dalğaları vasitəsilə ünsiyyət quran, heç bir dil maneəsi olmayan və texnoloji cəhətdən çiçəklənən yadplanetli sivilizasiyanı xəyal edir.
 

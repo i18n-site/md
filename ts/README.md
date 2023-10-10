@@ -12,11 +12,11 @@ Ndzi lava ku vula leswaku **hi ku endla leswaku sayiti hinkwayo yi va ya matiko 
 
 "Bibele·Genesa".:
 
-> Vanhu va khale a va nga hambanisi tindzimi. Va velekiwe va tikukumuxa naswona a va lava ku aka xihondzo xo leha lexi nhlohlorhi ya xona yi fikaka empfhukeni.
+> Eminkarhini ya khale, loko ririmi ri ri rin’we, vumunhu a byi velekiwa byi tikukumuxa. Va lave ku aka muako lowu tlakukeke, xihondzo lexi khumbaka matilo.
 >
-> <blockquote><p>Xikwembu a xi nga tsakeriwi hi ku tikukumuxa ka munhu, kutani xi hangalase swivumbiwa hinkwaswo leswi hanyaka etindhawini to hambana-hambana, swi nga swi koti ku twisisana.</p></blockquote>
+> Hambiswiritano, Vukwembu, lebyi a byi nga tsakeriwi hi ku tikukumuxa ka vona, byi endle leswaku vanhu va hangalaka emisaveni hinkwayo, va endla leswaku tindzimi ta vona ti nga twisiseki eka un’wana ni un’wana.
 >
-> <blockquote><p>Ku sukela kwalaho, a swi tika eka vanhu ku vulavurisana, timholovo ti ye emahlweni naswona a ku na Xihondzo xa Babele emisaveni.</p></blockquote>
+> Ku sukela kwalaho, vanhu va lwile hi matimba ku vulavurisana, timholovo ti pfuke hi laha ku nga heriki naswona misava a yi nga ha voni xihondzo lexi fikaka ematilweni.
 
 Novhele ya sayense ya ntsheketo ya &quot;Three-Body&quot; (Mavitanelo ya Xichayina: `3Ti` ) yi endla nhluvuko wa le handle lowu vulavulaka hi magandlati ya gezi, lowu nga riki na swihinga swa ririmi, naswona wu humelerile hi tlhelo ra thekinoloji.
 

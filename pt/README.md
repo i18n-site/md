@@ -12,11 +12,11 @@ Quero dizer que **somente internacionalizando todo o site poderemos oferecer sup
 
 "Bíblia · Gênesis":
 
-> Os antigos não faziam distinção entre línguas. Eles nasceram com orgulho e queriam construir uma torre alta com o topo alcançando o céu.
+> Nos tempos antigos, quando a linguagem era uma só, a humanidade nascia orgulhosa. Eles procuraram construir um edifício imponente, uma torre que tocasse os céus.
 >
-> <blockquote><p>Deus ficou descontente com a arrogância do homem, por isso espalhou todos os seres vivos em vários lugares, incapazes de se entenderem.</p></blockquote>
+> Contudo, o Divino, descontente com a arrogância deles, fez com que o povo se espalhasse pela terra, tornando suas línguas ininteligíveis umas para as outras.
 >
-> <blockquote><p>Desde então, tem sido difícil para os humanos se comunicarem, as disputas continuaram e não existe Torre de Babel no mundo.</p></blockquote>
+> A partir de então, a humanidade lutou para se comunicar, os conflitos surgiram incessantemente e o mundo não viu mais uma torre que alcançasse os céus.
 
 O romance de ficção científica &quot;Três Corpos&quot; (pronúncia chinesa: `3Ti` ) ficcionaliza uma civilização alienígena que se comunica por meio de ondas eletromagnéticas, não tem barreiras linguísticas e é tecnologicamente próspera.
 

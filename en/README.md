@@ -12,11 +12,11 @@ I want to say that **only by internationalizing the entire site can we support m
 
 "Bible·Genesis":
 
-> The ancients did not distinguish between languages. They were born with pride and wanted to build a tall tower with the top reaching to the sky.
+> In ancient times, when language was one, humanity was born proud. They sought to construct a towering edifice, a tower that touched the heavens.
 >
-> God was displeased with man's arrogance, so he scattered all living beings in various places, unable to understand each other.
+> However, the Divine, displeased with their arrogance, caused the people to scatter across the earth, rendering their tongues unintelligible to one another.
 >
-> Since then, it has been difficult for humans to communicate, disputes have continued, and there is no Tower of Babel in the world.
+> From then on, mankind struggled to communicate, conflicts arose endlessly, and the world saw no more a tower that reached the skies.
 
 The science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes an alien civilization that communicates through electromagnetic waves, has no language barriers, and is technologically prosperous.
 

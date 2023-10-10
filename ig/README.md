@@ -12,11 +12,11 @@ Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka an
 
 "Bible·Jenesis":
 
-> Ndị ochie aghọtaghị ihe dị iche n’asụsụ. A mụrụ ha na mpako, ha chọkwara ịrụ ụlọ elu toro ogologo nke elu ya ruru n'eluigwe.
+> N'oge ochie, mgbe asụsụ bụ otu, mmadụ mụrụ mpako. Ha chọrọ ịrụ ụlọ dị elu, ụlọ elu metụrụ eluigwe.
 >
-> <blockquote><p>Chineke wedara npako madu iwe, ya mere o we chusa ihe nile di ndu n&#39;ebe di iche iche, n&#39;enweghi ike ighọta onwe-ha.</p></blockquote>
+> Otú ọ dị, Chineke, n’enweghị mmasị n’ihi mpako ha, mere ka ndị mmadụ gbasaa n’ụwa, na-eme ka asụsụ ha ghara ịghọta ibe ha.
 >
-> <blockquote><p>Kemgbe ahụ, ọ na-esiri ụmụ mmadụ ike ịna-ekwurịta okwu, esemokwu ka na-aga n’ihu, e nweghị Ụlọ Elu Bebel n’ụwa.</p></blockquote>
+> Site na mgbe ahụ gawa, ihe a kpọrọ mmadụ gbalịsiri ike ịkparịta ụka, esemokwu bilitere na-adịghị agwụ agwụ, ụwa ahụkwaghị ụlọ elu nke ruru eluigwe.
 
 Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation Chinese: `3Ti` ) na-akọwapụta echiche efu nke mba ọzọ nke na-ekwurịta okwu site na ebili mmiri electromagnetic, enweghị ihe mgbochi asụsụ, ma nwee ọganihu na nkà na ụzụ.
 

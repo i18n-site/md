@@ -12,11 +12,11 @@ Voglio dire che **solo internazionalizzando l'intero sito possiamo supportare la
 
 "Bibbia·Genesi":
 
-> Gli antichi non facevano distinzione tra le lingue. Sono nati con orgoglio e volevano costruire un'alta torre con la cima che raggiungesse il cielo.
+> Nell'antichità, quando la lingua era una, l'umanità nasceva orgogliosa. Cercavano di costruire un edificio imponente, una torre che toccasse il cielo.
 >
-> <blockquote><p>Dio era scontento dell&#39;arroganza dell&#39;uomo, così disperse tutti gli esseri viventi in vari luoghi, incapaci di capirsi.</p></blockquote>
+> Tuttavia, il Divino, scontento della loro arroganza, fece sì che le persone si disperdessero sulla terra, rendendo le loro lingue incomprensibili l'una all'altra.
 >
-> <blockquote><p>Da allora è diventato difficile per gli esseri umani comunicare, le controversie sono continuate e non esiste alcuna Torre di Babele al mondo.</p></blockquote>
+> Da quel momento in poi, l’umanità fece fatica a comunicare, i conflitti sorsero senza fine e il mondo non vide più una torre che raggiungesse il cielo.
 
 Il romanzo di fantascienza &quot;Three-Body&quot; (pronuncia cinese: `3Ti` ) immagina una civiltà aliena che comunica attraverso onde elettromagnetiche, non ha barriere linguistiche ed è tecnologicamente prospera.
 

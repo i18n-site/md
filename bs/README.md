@@ -12,11 +12,11 @@ Neki ljudi će možda htjeti da pitaju, sada kada pretraživači imaju ugrađene
 
 "Biblija·Postanak":
 
-> Stari nisu pravili razliku između jezika. Rođeni su s ponosom i hteli su da sagrade visoku kulu čiji vrh seže do neba.
+> U davna vremena, kada je jezik bio jedan, čovečanstvo se rađalo ponosno. Tražili su da sagrade visoko zdanje, kulu koja je dodirivala nebesa.
 >
-> <blockquote><p>Bog je bio nezadovoljan čovjekovom ohološću, pa je rastjerao sva živa bića po raznim mjestima, nesposobna da se razumiju.</p></blockquote>
+> Međutim, Božansko je, nezadovoljno njihovom arogancijom, natjeralo ljude da se rasprše po zemlji, čineći njihove jezike nerazumljivim jedni drugima.
 >
-> <blockquote><p>Od tada je ljudima bilo teško komunicirati, sporovi se nastavljaju, a na svijetu ne postoji vavilonska kula.</p></blockquote>
+> Od tada pa nadalje, čovječanstvo se borilo da komunicira, sukobi su nastajali beskonačno, a svijet više nije vidio toranj koji je dopirao do neba.
 
 Naučnofantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) fikcionalizira vanzemaljsku civilizaciju koja komunicira putem elektromagnetnih valova, nema jezičke barijere i tehnološki je prosperitetna.
 

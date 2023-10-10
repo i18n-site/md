@@ -12,11 +12,11 @@ Mi volas diri, ke **nur internaciigante la tutan retejon ni povas subteni plurli
 
 "Biblio · Genezo":
 
-> La antikvuloj ne distingis inter lingvoj. Ili naskiĝis kun fiero kaj volis konstrui altan turon kun la supro atinganta al la ĉielo.
+> En antikvaj tempoj, kiam lingvo estis unu, la homaro naskiĝis fiera. Ili serĉis konstrui altegan konstruaĵon, turon kiu tuŝis la ĉielon.
 >
-> <blockquote><p>Al Dio malplaĉis la aroganteco de la homo, do li disĵetis ĉiujn vivantajn estaĵojn en diversaj lokoj, ne povante interkompreniĝi.</p></blockquote>
+> Tamen, la Dia, malkontenta pri ilia aroganteco, igis la homojn disiĝi sur la tero, igante iliajn langojn nekompreneblaj unu al la alia.
 >
-> <blockquote><p>Ekde tiam, al homoj estis malfacile komuniki, disputoj daŭris, kaj ne ekzistas Babeloturo en la mondo.</p></blockquote>
+> De tiam la homaro luktis por komuniki, konfliktoj estiĝis senfine, kaj la mondo ne plu vidis turon, kiu atingis la ĉielon.
 
 La sciencfikcia romano &quot;Tri-korpoj&quot; (ĉine elparolo: `3Ti` ) fikciigas fremdan civilizon kiu komunikas per elektromagnetaj ondoj, havas neniujn lingvajn barojn, kaj estas teknologie prospera.
 

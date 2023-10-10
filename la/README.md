@@ -12,11 +12,11 @@ Nonnulli interrogare possunt, nunc navigatores in functionibus translationibus a
 
 "Bible· Genesis":
 
-> Antiqui inter linguas non distinxerunt. Superbia nati sunt et altam turrim cum summo caelo attingente aedificare voluerunt.
+> Antiquitus, cum una lingua esset, superbus natus est humanitas. Turrim quae coelos contigerat construere volebant.
 >
-> <blockquote><p>Displicuit Deus hominis arrogantiae, ita omnia animantia diversis in locis dispersit, se invicem intelligere non valens.</p></blockquote>
+> Divinus autem, displicens eorum arrogantia, populum per terram spargere fecit, linguas suas ad invicem non intelligendas reddens.
 >
-> <blockquote><p>Cum ergo difficile fuerit hominibus communicare, lites continuaverunt, et turris Babel nulla est in mundo.</p></blockquote>
+> Exinde certabant homines communicare, certamina sine fine orta sunt, et mundus amplius turrim caelos attingens vidit.
 
 Scientia fictionis novae &quot;Tres-Corporis&quot; (pronuntiatio Sinica: `3Ti` ) ficta civilizationem alienam, quae per undas electromagneticos communicat, linguae claustra non habet et technicae artis prosper est.
 

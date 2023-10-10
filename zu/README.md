@@ -12,11 +12,11 @@ Ngifuna ukusho ukuthi **kuphela ngokwenza isayithi yonke ibe ngamazwe ngamazwe l
 
 "Bible·Genesis":
 
-> Abantu basendulo babengahlukanisi izilimi. Bazalwa beqhosha futhi befuna ukwakha umbhoshongo omude ofinyelela phezulu esibhakabhakeni.
+> Emandulo uma ulimi lulodwa, isintu sazalwa sizidla. Babefuna ukwakha umbhoshongo ofinyelela emazulwini.
 >
-> <blockquote><p>UNkulunkulu akazange ajabule ngokuzikhukhumeza komuntu, ngakho wahlakaza zonke izidalwa eziphilayo ezindaweni ezihlukahlukene, zingakwazi ukuqondana.</p></blockquote>
+> Nokho, uMvelinqangi, ecasukile ngokuzikhukhumeza kwabo, wabangela ukuba abantu bahlakazeke emhlabeni, benze ulimi lwabo lungabonakali komunye nomunye.
 >
-> <blockquote><p>Kusukela ngaleso sikhathi, kuye kwaba nzima ngabantu ukuxhumana, izingxabano ziye zaqhubeka, futhi awukho uMbhoshongo WaseBabele emhlabeni.</p></blockquote>
+> Kusukela ngaleso sikhathi kuqhubeke, isintu sazabalaza ukuxhumana, kwaqubuka izingxabano ezingapheli, futhi umhlaba awubange usabona umbhoshongo ofinyelela esibhakabhakeni.
 
 Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphimbo lesiShayina: `3Ti` ) iqamba impucuko engaziwa exhumana namagagasi kagesi, engenazo izithiyo zolimi, futhi ephumelelayo kwezobuchwepheshe.
 

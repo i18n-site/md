@@ -12,11 +12,11 @@ Es gribu teikt, ka **tikai internacionalizējot visu vietni, mēs varam atbalst�
 
 "Bībele·Genesis":
 
-> Senie cilvēki nešķīra valodas. Viņi piedzima ar lepnumu un vēlējās uzcelt augstu torni, kura virsotne sniedzas līdz debesīm.
+> Senatnē, kad valoda bija viena, cilvēce dzima lepna. Viņi centās uzcelt augstu celtni, torni, kas pieskārās debesīm.
 >
-> <blockquote><p>Dievam nepatika cilvēka augstprātība, tāpēc viņš visas dzīvās būtnes izklīdināja pa dažādām vietām, nespējot viena otru saprast.</p></blockquote>
+> Tomēr Dievišķais, neapmierināts ar viņu augstprātību, lika ļaudīm izklīst pa zemi, padarot viņu mēles viens otram nesaprotamas.
 >
-> <blockquote><p>Kopš tā laika cilvēkiem ir bijis grūti sazināties, strīdi turpinās, un pasaulē nav Bābeles torņa.</p></blockquote>
+> Kopš tā laika cilvēcei bija grūti sazināties, konflikti radās bezgalīgi, un pasaule vairs neredzēja torni, kas sasniegtu debesis.
 
 Zinātniskās fantastikas romāns &quot;Trīsķermeņi&quot; (ķīniešu izruna: `3Ti` ) izdomāja citplanētiešu civilizāciju, kas sazinās ar elektromagnētisko viļņu palīdzību, kurai nav valodas barjeru un kas ir tehnoloģiski pārtikusi.
 

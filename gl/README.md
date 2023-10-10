@@ -12,11 +12,11 @@ Quero dicir que **só internacionalizando todo o sitio podemos admitir a busca d
 
 "Biblia · Xénese":
 
-> Os antigos non distinguían as linguas. Naceron con orgullo e querían construír unha torre alta coa cima chegando ata o ceo.
+> Nos tempos antigos, cando a lingua era unha, a humanidade naceu orgullosa. Buscaban construír un edificio alto, unha torre que tocase o ceo.
 >
-> <blockquote><p>Deus estaba descontento coa arrogancia do home, polo que dispersou a todos os seres vivos por varios lugares, incapaz de entenderse.</p></blockquote>
+> Non obstante, o Divino, descontento coa súa arrogancia, fixo que a xente se esparexese pola terra, facendo que as súas linguas se fosen inintelixibles entre si.
 >
-> <blockquote><p>Desde entón, aos humanos foi difícil comunicarse, as disputas continuaron e non hai Torre de Babel no mundo.</p></blockquote>
+> A partir de entón, a humanidade loitou por comunicarse, os conflitos xurdiron sen fin e o mundo xa non viu unha torre que chegase aos ceos.
 
 A novela de ciencia ficción &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) ficciona unha civilización alieníxena que se comunica a través de ondas electromagnéticas, non ten barreiras lingüísticas e é tecnoloxicamente próspera.
 

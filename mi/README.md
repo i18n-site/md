@@ -12,11 +12,11 @@ E hiahia ana ahau ki te kii **ma te panui i te pae katoa ka taea e tatou te taut
 
 "Bible·Genesis":
 
-> Kaore nga tangata o mua i wehe i nga reo. I whanau mai ratou me te whakahīhī me te hiahia ki te hanga i tetahi pourewa teitei kia eke te tihi ki te rangi.
+> I nga wa o mua, i te wa kotahi te reo, ka whanau te tangata i te whakapehapeha. I whai ratou ki te hanga i tetahi whare teitei, he pourewa e pa ana ki te rangi.
 >
-> <blockquote><p>Na ka riri te Atua ki te whakapehapeha o te tangata, na ka whakamararatia nga mea ora katoa ki nga wahi maha, te matau tetahi ki tetahi.</p></blockquote>
+> Heoi, na te Atua i riri ki to ratou whakahihi, ka whakamararatia te iwi ki te whenua, ka kore e marama o ratou arero tetahi ki tetahi.
 >
-> <blockquote><p>Mai reira mai, mea fifi no te taata ia aparau, ua tamau noa te mau aimârôraa, e aita e Pare o Babela i te ao nei.</p></blockquote>
+> Mai i tera wa, ka tohe te tangata ki te whakawhitiwhiti korero, ka ara ake nga pakanga kore mutunga, kaore ano te ao i kite i tetahi pourewa ka eke ki te rangi.
 
 Ko te pakimaero pakimaero &quot;Three-Body&quot; (te whakahua reo Hainamana: `3Ti` ) he korero pakiwaitara mo te ao tangata ke e korero ana ma nga ngaru hiko, karekau he arai reo, he pai te hangarau.
 

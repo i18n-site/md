@@ -12,11 +12,11 @@ Povedati želim, da **samo z internacionalizacijo celotnega spletnega mesta lahk
 
 "Biblija · Geneza":
 
-> Starodavni niso razlikovali med jeziki. Rodili so se s ponosom in želeli so zgraditi visok stolp z vrhom do neba.
+> V starih časih, ko je bil jezik en sam, se je človeštvo rodilo ponosno. Prizadevali so si zgraditi visoko zgradbo, stolp, ki se je dotikal nebes.
 >
-> <blockquote><p>Bogu ni bila všeč človekova ošabnost, zato je vsa živa bitja razkropil na različne kraje, ne da bi se razumela.</p></blockquote>
+> Vendar je Božansko, nezadovoljno z njihovo arogantnostjo, povzročilo, da so se ljudje razpršili po zemlji, tako da so njihovi jeziki drug drugemu postali nerazumljivi.
 >
-> <blockquote><p>Od takrat se ljudje težko sporazumevajo, spori se nadaljujejo in na svetu ni babilonskega stolpa.</p></blockquote>
+> Od takrat naprej se je človeštvo trudilo komunicirati, neskončno so nastajali konflikti in svet ni več videl stolpa, ki bi segal do neba.
 
 Znanstvenofantastični roman &quot;Three-Body&quot; (kitajska izgovorjava: `3Ti` ) fikcionalizira tujo civilizacijo, ki komunicira prek elektromagnetnih valov, nima jezikovnih ovir in je tehnološko uspešna.
 

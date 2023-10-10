@@ -12,11 +12,11 @@ Vull dir que **només internacionalitzant tot el lloc podem donar suport a la ce
 
 "Bíblia·Gènesi":
 
-> Els antics no distingien entre llengües. Van néixer amb orgull i volien construir una torre alta amb el cim arribant al cel.
+> En l'antiguitat, quan la llengua era una, la humanitat va néixer orgullosa. Van intentar construir un edifici altíssim, una torre que toqués el cel.
 >
-> <blockquote><p>Déu estava disgustat amb l&#39;arrogància de l&#39;home, així que va escampar tots els éssers vius per diversos llocs, incapaços d&#39;entendre&#39;s.</p></blockquote>
+> Tanmateix, el Diví, disgustat amb la seva arrogància, va fer que la gent s'escampés per la terra, fent que la seva llengua fos inintel·ligible.
 >
-> <blockquote><p>Des de llavors, als humans els ha costat comunicar-se, les disputes han continuat i no hi ha torre de Babel al món.</p></blockquote>
+> A partir d'aleshores, la humanitat va lluitar per comunicar-se, els conflictes van sorgir sense parar i el món ja no va veure una torre que arribés als cels.
 
 La novel·la de ciència-ficció &quot;Three-Body&quot; (pronunciació xinesa: `3Ti` ) narra una civilització alienígena que es comunica mitjançant ones electromagnètiques, no té barreres lingüístiques i és tecnològicament pròspera.
 

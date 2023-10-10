@@ -12,11 +12,11 @@ Vogliu dì chì **solu per l'internazionalizazione di u situ sanu pudemu sustene
 
 "Bibbia · Genesi":
 
-> L'antichi ùn distinguevanu trà e lingue. Sò nati cun orgogliu è vulianu custruisce una torre alta cù a cima chì ghjunghje sin'à u celu.
+> In i tempi antichi, quandu a lingua era una, l'umanità hè nata fiera. Hanu cercatu di custruisce un edifiziu tower, una torra chì toccu u celu.
 >
-> <blockquote><p>Diu era dispiaciutu cù l&#39;arroganza di l&#39;omu, cusì hà spargugliatu tutti l&#39;esseri viventi in parechji lochi, incapaci di capiscenu.</p></blockquote>
+> Tuttavia, u Divinu, dispiaciutu cù a so arroganza, hà causatu a ghjente à sparghje nantu à a terra, rendendu a so lingua inintelligibile l'una à l'altru.
 >
-> <blockquote><p>Da tandu, hè statu difficiule per l&#39;omu di cumunicà, i disputi anu cuntinuatu, è ùn ci hè micca Torre di Babele in u mondu.</p></blockquote>
+> Da tandu, l'umanità hà luttatu per cumunicà, i cunflitti sò ghjunti senza fine, è u mondu ùn hà più vistu una torre chì ghjunghje sin'à u celu.
 
 U rumanzu di fantascienza &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) fictionalizes una civilisazione straniera chì cumunica per mezu di onde elettromagnetiche, ùn hà micca barriere linguistiche, è hè tecnologicamente prusperu.
 

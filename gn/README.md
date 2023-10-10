@@ -12,11 +12,11 @@ Aipota **ha’e pe internacionalización rupive añoite pe sitio tuichakue ikatu
 
 "Biblia·Génesis".:
 
-> Ymaguare ndombojoavyiva’ekue umi ñe’ẽ. Heñói hikuái orgullo reheve ha omopu’ãse peteĩ tórre yvate ha ijyvate ohupyty yvága peve.
+> Ymave, ñe’ẽ peteĩnte ramo, yvypóra heñói oñemomba’eguasúva. Haʼekuéra oheka ojapo peteĩ edifísio ijyvatetereíva, peteĩ tórre opokóva yvágare.
 >
-> <blockquote><p>Ñandejára ndoguerohorýi yvypóra ñemomba’eguasu, upévare omosarambi opa tekove oikovéva opaichagua hendápe, ndaikatúiva oñontende.</p></blockquote>
+> Ha katu, pe Divino, ndoguerohorýigui iñemomba’eguasu, ojapo umi tavayguakuérape isarambi haĝua ko yvy ape ári, ojapo iñe’ẽ noñentendeporãiva ojupe.
 >
-> <blockquote><p>Upe guive ijetuʼu yvyporakuérape oñemongeta hag̃ua, osegi ojodiskuti ha ko múndope ndaipóri Torre de Babel.</p></blockquote>
+> Upe guive yvypóra oñehaʼãmbaite oñemongeta hag̃ua, opaʼỹre oiko ñorairõ ha ko múndo ndohechavéima peteĩ tórre og̃uahẽva yvágape.
 
 Pe novela ciencia ficción &quot;Mbohapy Cuerpo&quot; (pronunciación chino: `3Ti` ) oficciona peteĩ civilización extraterrestre oñemongeta va'ekue onda electromagnética rupive, ndorekóiva barrera idioma rehegua, ha tecnológicamente oñakãrapu'ã.
 

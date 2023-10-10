@@ -12,11 +12,11 @@ Sumir gætu viljað spyrja, nú þegar vafrar eru með innbyggða þýðingarað
 
 "Biblían · Genesis":
 
-> Fornmenn gerðu ekki greinarmun á tungumálum. Þeir fæddust með stolti og vildu byggja háan turn með toppinn til himins.
+> Í fornöld, þegar tungumálið var eitt, fæddist mannkynið stolt. Þeir reyndu að reisa risastórt byggingar, turn sem snerti himininn.
 >
-> <blockquote><p>Guði var óánægður með hroka mannsins, svo hann tvístraði öllum lifandi verum á ýmsa staði, ófær um að skilja hver aðra.</p></blockquote>
+> Hins vegar, hið guðlega, sem var óánægt með hroka þeirra, olli því að fólkið dreifðist um jörðina og gerði tungur þeirra óskiljanlega hver fyrir öðrum.
 >
-> <blockquote><p>Síðan þá hefur verið erfitt fyrir menn að eiga samskipti, deilur hafa haldið áfram og enginn Babelsturn er til í heiminum.</p></blockquote>
+> Upp frá því átti mannkynið í erfiðleikum með samskipti, endalaust komu upp átök og heimurinn sá ekki lengur turn sem náði til himins.
 
 Vísindaskáldsagan „Three-Body“ (kínverskur framburður: `3Ti` ) skáldar upp framandi siðmenningu sem hefur samskipti í gegnum rafsegulbylgjur, hefur engar tungumálahindranir og er tæknilega velmegandi.
 

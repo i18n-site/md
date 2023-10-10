@@ -12,11 +12,11 @@ Waxaan rabaa in aan sheego in **kaliya caalamiyeynta goobta oo dhan aan ku taage
 
 "Bible·Bilowgii":
 
-> Dadkii hore afafka ma kala saari jirin. Waxay ku dhasheen kibir, waxayna rabeen inay dhisaan daar dheer oo korkeedu cirka gaadho.
+> Waagii hore oo afku mid ahaa, bini-aadmigu kibir buu ka dhashay. Waxay damceen inay dhisaan dhisme aad u dheer, oo ah munaarad samada taabatay.
 >
-> <blockquote><p>Eebbana wuu ka cadhooday isla waynidii bini-aadmiga, sidaa darteed wuxuu ku kala firdhiyey dhammaan nooleyaal meelo kala duwan, iyagoo aan is fahmi karin.</p></blockquote>
+> Si kastaba ha ahaatee, Rabbaani oo ka cadhooday isla weynidooda, ayaa dadkii ku kala firdhiyey dhulka oo dhan, iyagoo carrabkoodiina ka dhigay kuwo aan midba midka kale garan karin.
 >
-> <blockquote><p>Tan iyo markaas, way ku adkeyd in bini&#39;aadamku wada xiriiraan, khilaafaadkuna wuu sii socday, mana jiro Tower of Baabel oo adduunka ku yaal.</p></blockquote>
+> Intaa wixii ka dambeeyay, bini’aadmigu waxa uu u halgami jiray is-gaadhsiinta, khilaafaadyo aan dhammaad lahayn ayaa ka dhashay, duniduna may arag daar cirka gaadhay.
 
 Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: `3Ti` ) waxay khayaaliyeed ka dhigtaa ilbaxnimada shisheeyaha ee ku wada xidhiidha mowjadaha elektromagnetic, ma laha caqabado luqadeed, waana barwaaqo tignoolajiyada.
 

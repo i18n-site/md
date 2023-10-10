@@ -12,11 +12,11 @@ Mwen vle di ke **se sèlman lè nou entènasyonalize sit la tout antye nou ka si
 
 "Labib · Jenèz":
 
-> Ansyen yo pa t fè distenksyon ant lang. Yo te fèt ak fyète e yo te vle bati yon gwo fò won ak tèt la rive nan syèl la.
+> Nan tan lontan, lè lang te youn, limanite te fèt fyè. Yo t ap chèche konstwi yon gwo bilding, yon gwo kay won ki touche syèl la.
 >
-> <blockquote><p>Bondye te fache ak awogans lèzòm, se konsa li gaye tout bèt vivan nan divès kote, yo pa t &#39;kapab konprann youn ak lòt.</p></blockquote>
+> Sepandan, Divine a, ki pa kontan ak awogans yo, te lakòz pèp la gaye sou tè a, rann lang yo enkonpreyansib youn ak lòt.
 >
-> <blockquote><p>Depi lè sa a, li te difisil pou lèzòm kominike, diskisyon kontinye, e pa gen okenn Tour Babèl nan monn nan.</p></blockquote>
+> Depi lè sa a, limanite te lite pou yo kominike, konfli te leve san rete, e mond lan pa wè yon gwo fò won ankò ki te rive nan syèl la.
 
 Roman syans fiksyon &quot;Three-Body&quot; (pwononsyasyon Chinwa: `3Ti` ) fiksyonalize yon sivilizasyon etranje ki kominike atravè onn elektwomayetik, pa gen okenn baryè lang, epi li se teknolojik pwospè.
 

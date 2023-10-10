@@ -12,11 +12,11 @@ Chci říci, že **pouze internacionalizací celého webu můžeme podpořit ví
 
 "Bible·Genesis":
 
-> Staří lidé nerozlišovali mezi jazyky. Narodili se s pýchou a chtěli postavit vysokou věž, jejíž vrchol sahá až k nebi.
+> V dávných dobách, kdy byl jazyk jeden, se lidstvo zrodilo hrdé. Snažili se postavit věžovou budovu, věž, která se dotýkala nebes.
 >
-> <blockquote><p>Bohu se nelíbila lidská arogance, a tak všechny živé bytosti rozptýlil na různá místa, aniž by si navzájem rozuměli.</p></blockquote>
+> Avšak Božské, nespokojené s jejich arogancí, způsobilo, že se lidé rozprchli po zemi a učinili jejich jazyky navzájem nesrozumitelnými.
 >
-> <blockquote><p>Od té doby je pro lidi obtížné komunikovat, spory pokračují a na světě není babylonská věž.</p></blockquote>
+> Od té doby se lidstvo snažilo komunikovat, donekonečna vznikaly konflikty a svět už neviděl věž, která dosáhla nebes.
 
 Sci-fi román „Three-Body“ (čínská výslovnost: `3Ti` ) beletrizuje mimozemskou civilizaci, která komunikuje prostřednictvím elektromagnetických vln, nemá žádné jazykové bariéry a je technologicky prosperující.
 

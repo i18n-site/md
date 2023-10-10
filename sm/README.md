@@ -12,11 +12,11 @@ Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e maf
 
 “Tusi Paia·Kenese”:
 
-> E le'i iloa e tagata anamua le eseesega o gagana. Na fananau mai i latou ma le faamaualuga ma mananao e fausia se olo maualuga e oo i le lagi le tumutumu.
+> I aso anamua, a o tasi le gagana, na fanau mai ai le tagata e mitamita. Sa latou saili e fausia se fale maualuluga, o se olo e paʻi atu i le lagi.
 >
-> <blockquote><p>Na le fiafia le Atua i le faasausili o le tagata, o lea na ia faataapeapeina ai mea ola uma i nofoaga eseese, e le mafai ona malamalama le tasi i le isi.</p></blockquote>
+> Ae peitai, o le Atua, na le fiafia i lo latou faasausili, na mafua ai ona faataapeapeina tagata i le lalolagi atoa, ma le malamalama ai o latou laulaufaiva i le tasi ma le isi.
 >
-> <blockquote><p>Talu mai lenā taimi, ua faigatā ona fesootaʻi tagata, ua faaauau pea feeseeseaʻiga, ma ua leai se Olo o Papelu i le lalolagi.</p></blockquote>
+> Talu mai lenā taimi, na tauivi ai tagata e fesootaʻi, na tulaʻi mai feteenaʻiga e lē gata, ma e leʻi toe vaaia e le lalolagi se ʻolo e oo atu i le lagi.
 
 O le tala fa'asaienisi talafatu &quot;Three-Body&quot; (Saina fa'auiga: `3Ti` ) fa'ata'oto se tagata mai fafo e feso'ota'i e ala i galu electromagnetic, e leai ni pa puipui o le gagana, ma o lo'o manuia fa'atekonolosi.
 

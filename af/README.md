@@ -12,11 +12,11 @@ Ek wil sê dat **ons slegs deur die hele webwerf te internasionalisering kan mee
 
 "Bybel · Genesis":
 
-> Die ou mense het nie tussen tale onderskei nie. Hulle is met trots gebore en wou 'n hoë toring bou met die bokant wat na die hemel reik.
+> In antieke tye, toe taal een was, is die mensdom trots gebore. Hulle het probeer om 'n toring gebou, 'n toring wat aan die hemel geraak het, te bou.
 >
-> <blockquote><p>God was ontevrede met die mens se arrogansie, en daarom het hy alle lewende wesens op verskillende plekke verstrooi, nie in staat om mekaar te verstaan ​​nie.</p></blockquote>
+> Die Goddelike, ontevrede met hul arrogansie, het egter die mense oor die aarde laat verstrooi, wat hul tonge vir mekaar onverstaanbaar gemaak het.
 >
-> <blockquote><p>Sedertdien was dit moeilik vir mense om te kommunikeer, geskille het voortgeduur en daar is geen toring van Babel in die wêreld nie.</p></blockquote>
+> Van toe af het die mensdom gesukkel om te kommunikeer, konflikte het eindeloos ontstaan, en die wêreld het nie meer 'n toring gesien wat die lug bereik het nie.
 
 Die wetenskapfiksie-roman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fiksionaliseer 'n uitheemse beskawing wat deur elektromagnetiese golwe kommunikeer, geen taalgrense het nie en tegnologies voorspoedig is.
 

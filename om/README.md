@@ -12,11 +12,11 @@ Ani akkan jechuu **barbaadu, guutummaa marsariitichaa idil-addunyaa gochuu qofaa
 
 "Macaafa Qulqulluu·Seera Uumamaa".:
 
-> Warri durii afaanota addaan hin baasan turan. Boonsaan dhalatanii masaraa dheeraa gubbaan isaa hanga samiitti gahu ijaaruu barbaadan.
+> Bara durii yeroo afaan tokko ture dhalli namaa boonsaan dhalate. Gamoo olkaʼaa, masaraa samii tuqu ijaaruuf yaalan.
 >
-> <blockquote><p>Waaqayyo of tuulummaa namaatti waan hin gammanneef, lubbu qabeeyyii hunda bakka adda addaatti facaase, wal hubachuu dadhabe.</p></blockquote>
+> Haa ta’u malee, Waaqni of tuulummaa isaaniitti waan hin gammanneef, ummanni lafa irratti akka faca’an taasisee, arrabni isaanii akka waliif hin hubatamne taasise.
 >
-> <blockquote><p>Ergasii as ilmaan namootaa waliin wal qunnamuun rakkisaa ta’eera, waldhabdeen itti fufee jira, addunyaa kanarras Masaraan Baabel hin jiru.</p></blockquote>
+> Yeroo sanaa kaasee ilmi namaa wal qunnamuuf rakkachaa, waldhabdeen dhuma hin qabne ka’ee, addunyaan kana booda masaraa samii ga’u hin argine.
 
 Asoosamni asoosama saayinsii &quot;Three-Body&quot; (Sagalee Chaayinaa: `3Ti` ) qaroomina alagaa karaa dalga elektiromaagneetikii walqunnamsiisu, danqaa afaanii hin qabnee fi teeknooloojiin badhaadhina qabu asoosama.
 

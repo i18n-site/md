@@ -12,11 +12,11 @@ Rwyf am ddweud mai **dim ond trwy ryngwladoli'r wefan gyfan y gallwn gefnogi chw
 
 "Beibl·Genesis":
 
-> Nid oedd yr henuriaid yn gwahaniaethu rhwng ieithoedd. Cawsant eu geni â balchder ac roeddent am adeiladu tŵr uchel gyda'r brig yn ymestyn i'r awyr.
+> Yn yr hen amser, pan oedd iaith yn un, ganwyd y ddynoliaeth yn falch. Ceisiasant adeiladu adeilad uchel, twr a gyffyrddai â'r nefoedd.
 >
-> <blockquote><p>Yr oedd Duw yn anfodlon â haerllugrwydd dyn, felly gwasgarodd bob bod byw mewn amrywiol leoedd, heb allu deall ei gilydd.</p></blockquote>
+> Pa fodd bynag, darfu i'r Dwyfol, yn anfoddlawn i'w haerllugrwydd, beri i'r bobl wasgaru ar draws y ddaear, gan wneud eu tafodau yn annealladwy i'w gilydd.
 >
-> <blockquote><p>Ers hynny, mae wedi bod yn anodd i fodau dynol gyfathrebu, mae anghydfodau wedi parhau, ac nid oes Tŵr Babel yn y byd.</p></blockquote>
+> O hynny ymlaen, roedd dynolryw yn ymdrechu i gyfathrebu, cododd gwrthdaro yn ddiddiwedd, ac ni welodd y byd mwyach dwr a gyrhaeddodd yr awyr.
 
 Mae'r nofel ffuglen wyddonol &quot;Three-Body&quot; (ynganiad Tsieineaidd: `3Ti` ) yn ffugio gwareiddiad estron sy'n cyfathrebu trwy donnau electromagnetig, heb unrhyw rwystrau iaith, ac sy'n lewyrchus yn dechnolegol.
 

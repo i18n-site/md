@@ -12,11 +12,11 @@ Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka si
 
 "Biblia·Génesis".:
 
-> Ñawpa pacha runakunaqa manan simikunata t’aqaqkuchu. Paykunaqa hatunchakuspankun nacerqanku, hinaspan huk hatun torreta ruwayta munarqanku, patantaq hanaq pachaman chayaq.
+> Ñawpa pachakunapi, simi huklla kaptin, runa kayqa hatun sunquyuqmi paqarirqa. Paykunaqa huk hatun wasi ruwaytan maskharqanku, chay torreqa hanaq pachatan llamiykurqan.
 >
-> <blockquote><p>Runapa hatunchakuyninwanmi Diosqa mana allinpaqchu hapirqa, chaymi lliw kawsaqkunata imaymana cheqaskunapi chiqichirqa, mana entiendenakuspa.</p></blockquote>
+> Ichaqa, Divino, hatunchakusqankuwan mana kusisqa kaspan, runakunata kay pachaman ch’eqechirqan, qallunkuta mana entiendenakunankupaq.
 >
-> <blockquote><p>Chaymantapachan runakunapaqqa sasa rimay, ch’aqwaykunapas hinallam, kay pachapiqa manañam kanchu Babel torrepas.</p></blockquote>
+> Chaymantapachan runakunaqa sasachakurqanku rimanakunankupaq, ch’aqwaykunapas mana tukukuqmi hatarirqan, kay pachapas manañan rikurqankuñachu hanaq pachaman chayaq torreta.
 
 &quot;Kimsa-Kurku&quot; (China simipi t'uqyay: `3Ti` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética olakunawan rimanakunku, mana simi hark'aykunayuqmi, tecnología nisqapipas qhapaqmi.
 

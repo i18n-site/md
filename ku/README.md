@@ -12,11 +12,11 @@ Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikar
 
 "Încîl · Destpêbûn":
 
-> Kalan ferq û cudahî di navbera zimanan de nekiriye. Ew bi serbilindî çêbûn û dixwestin ku bircek bilind ku serê wê bigihêje ezmanan ava bikin.
+> Di demên kevnare de, dema ziman yek bû, mirovahî serbilind çêbû. Wan dixwest ku avahiyek bilin, bircek ku bi ezmanan ve girêdayî ye ava bikin.
 >
-> <blockquote><p>Xwedê ji quretiya mirov aciz bû, ji ber vê yekê hemû zindiyan li cihên cuda belav kir û ji hev fêm nedikir.</p></blockquote>
+> Lêbelê Xwedayê ku ji quretiya wan ne razî bû, bû sedem ku mirov li ser rûyê erdê belav bibin û zimanên wan ji hev re nefêhm bikin.
 >
-> <blockquote><p>Ji wê demê û vir de, ji bo mirovan zehmet bû ku bi hev re têkilî daynin, nakokî berdewam bûn, û li dinyayê Birca Babîlê tune.</p></blockquote>
+> Ji hingê ve, mirovahî ji bo danûstandinê têkoşîn kir, pevçûnên bêdawî rabûn, û cîhanê êdî bircek ku bigihîje ezmanan nedît.
 
 Romana çîroka zanistî &quot;Three-Body&quot; (navdêra Çînî: `3Ti` ) şaristaniyeke biyanî ku bi pêlên elektromagnetîk pêwendiyê çêdike, astengên zimanî tune ne û ji hêla teknolojîk ve dewlemend e, xeyalî dike.
 

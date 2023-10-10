@@ -12,11 +12,11 @@ Noriu pasakyti, kad **tik internacionalizuodami visą svetainę galime palaikyti
 
 "Biblija · Pradžios knyga":
 
-> Senoliai neskyrė kalbų. Jie gimė su pasididžiavimu ir norėjo pastatyti aukštą bokštą, kurio viršus siektų dangų.
+> Senovėje, kai kalba buvo viena, žmonija gimdavo išdidi. Jie siekė pastatyti aukštą pastatą, bokštą, kuris paliestų dangų.
 >
-> <blockquote><p>Dievui nepatiko žmogaus arogancija, todėl jis visas gyvas būtybes išblaškė po įvairias vietas, negalėdamas suprasti viena kitos.</p></blockquote>
+> Tačiau Dieviškasis, nepatenkintas jų arogancija, privertė žmones išsibarstyti po žemę, todėl jų liežuviai vienas kitam buvo nesuprantami.
 >
-> <blockquote><p>Nuo tada žmonėms buvo sunku bendrauti, ginčai tęsėsi, o Babelio bokšto pasaulyje nėra.</p></blockquote>
+> Nuo tada žmonija sunkiai bendravo, konfliktų kilo be galo, o pasaulis nebematė dangų siekiančio bokšto.
 
 Mokslinės fantastikos romane „Trys kūnai“ (tarimas kiniškai: `3Ti` ) išgalvota ateivių civilizacija, kuri bendrauja per elektromagnetines bangas, neturi kalbos barjerų ir klesti technologiškai.
 

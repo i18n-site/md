@@ -12,11 +12,11 @@ Jeg vil sige, at **kun ved at internationalisere hele webstedet, kan vi underst�
 
 "Bibel · Genesis":
 
-> De gamle skelnede ikke mellem sprog. De blev født med stolthed og ønskede at bygge et højt tårn med toppen op til himlen.
+> I oldtiden, hvor sproget var ét, blev menneskeheden født stolt. De søgte at bygge et tårnhøjt bygningsværk, et tårn, der rørte himlen.
 >
-> <blockquote><p>Gud var utilfreds med menneskets arrogance, så han spredte alle levende væsener forskellige steder, ude af stand til at forstå hinanden.</p></blockquote>
+> Men det guddommelige, utilfreds med deres arrogance, fik folk til at sprede sig over jorden, hvilket gjorde deres tunger uforståelige for hinanden.
 >
-> <blockquote><p>Siden da har det været svært for mennesker at kommunikere, stridigheder har fortsat, og der er intet Babelstårn i verden.</p></blockquote>
+> Fra da af kæmpede menneskeheden for at kommunikere, konflikter opstod i det uendelige, og verden så ikke mere et tårn, der nåede himlen.
 
 Science fiction-romanen &quot;Three-Body&quot; (kinesisk udtale: `3Ti` ) fiktionaliserer en fremmed civilisation, der kommunikerer gennem elektromagnetiske bølger, har ingen sprogbarrierer og er teknologisk velstående.
 

@@ -12,11 +12,11 @@ Azt akarom mondani, hogy **csak a teljes webhely nemzetközivé tételével tudj
 
 "Biblia · Genesis":
 
-> A régiek nem tettek különbséget a nyelvek között. Büszkén születtek, és magas tornyot akartak építeni, melynek teteje az égig ér.
+> Az ókorban, amikor a nyelv egy volt, az emberiség büszkén született. Arra törekedtek, hogy egy tornyos építményt építsenek, egy tornyot, amely az eget érinti.
 >
-> <blockquote><p>Istennek nem tetszett az ember arroganciája, ezért minden élőlényt szétszórt különböző helyeken, nem tudták megérteni egymást.</p></blockquote>
+> Az isteni azonban, elégedetlen gőgjükkel, arra késztette az embereket, hogy szétszóródjanak a földön, nyelvüket érthetetlenné téve egymás számára.
 >
-> <blockquote><p>Azóta nehezen kommunikálnak az emberek, folytatódnak a viták, és nincs Bábel tornya a világon.</p></blockquote>
+> Ettől kezdve az emberiség küzdött a kommunikációért, a konfliktusok végtelenül alakultak ki, és a világ nem látott többé egy tornyot, amely elérte volna az eget.
 
 A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokon keresztül kommunikál, nincs nyelvi akadálya, és technológiailag virágzó.
 

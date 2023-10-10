@@ -12,11 +12,11 @@ Je tiens à dire que **ce n'est qu'en internationalisant l'ensemble du site que 
 
 "Bible·Genèse":
 
-> Les anciens ne faisaient pas de distinction entre les langues. Ils sont nés avec fierté et voulaient construire une haute tour dont le sommet s'élève vers le ciel.
+> Dans les temps anciens, lorsque la langue n’était qu’une, l’humanité naissait fière. Ils cherchaient à construire un édifice imposant, une tour qui touchait le ciel.
 >
-> <blockquote><p>Dieu était mécontent de l&#39;arrogance de l&#39;homme, alors il a dispersé tous les êtres vivants dans divers endroits, incapables de se comprendre.</p></blockquote>
+> Cependant, le Divin, mécontent de leur arrogance, poussa les gens à se disperser à travers la terre, rendant leurs langues inintelligibles les unes aux autres.
 >
-> <blockquote><p>Depuis, il est difficile pour les humains de communiquer, les disputes se poursuivent et il n’y a pas de Tour de Babel au monde.</p></blockquote>
+> Dès lors, l’humanité a eu du mal à communiquer, des conflits ont surgi sans fin et le monde n’a plus vu de tour atteignant le ciel.
 
 Le roman de science-fiction « Trois corps » (prononciation chinoise : `3Ti` ) met en scène une civilisation extraterrestre qui communique par ondes électromagnétiques, n'a pas de barrières linguistiques et est technologiquement prospère.
 

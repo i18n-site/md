@@ -12,11 +12,11 @@ Te-hilaza aho fa **amin'ny alalan'ny fanaovana iraisam-pirenena ny vohikala mano
 
 "Baiboly·Genesisy":
 
-> Tsy nanavaka ny fiteny ny Ntaolo. Teraka tamin'ny avonavona izy ireo ary naniry ny hanorina tilikambo avo izay mipaka any an-danitra ny tampony.
+> Tamin'ny andro fahiny, fony ny fiteny iray, dia teraka ny zanak'olombelona nirehareha. Nitady hanorina trano mijoalajoala izy ireo, dia tilikambo nikasika ny lanitra.
 >
-> <blockquote><p>Tsy sitrak’Andriamanitra ny fiavonavonan’ny olombelona, ​​ka naparitany tamin’ny toerana samihafa ny zavamananaina rehetra, ka tsy nifankahazo.</p></blockquote>
+> Tsy faly tamin’ny fireharehan’izy ireo anefa ilay Andriamanitra, ka nahatonga ny olona hiparitaka eran’ny tany, ka nahatonga ny lelany tsy ho takatry ny saina.
 >
-> <blockquote><p>Nanomboka teo, dia sarotra tamin’ny olombelona ny nifandray, nitohy ny fifandirana, ary tsy nisy Tilikambon’i Babela teto amin’izao tontolo izao.</p></blockquote>
+> Nanomboka teo dia sahirana ny olombelona mba hifampiresaka, nipoitra tsy nisy fiafarana ny fifandirana, ary tsy nahita tilikambo manakatra ny lanitra intsony izao tontolo izao.
 
 Ny tantara foronina momba ny siansa &quot;Vata Telo&quot; (fanononana amin'ny teny sinoa: `3Ti` ) dia mamorona sivilizasiona vahiny mifandray amin'ny alàlan'ny onjam-peo elektromagnetika, tsy misy sakana amin'ny fiteny ary mandroso ara-teknolojia.
 

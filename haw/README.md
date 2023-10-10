@@ -12,11 +12,11 @@ Makemake au e ʻōlelo **ma ka hoʻolaha ʻana i ka pūnaewele holoʻokoʻa e hi
 
 "Baibala·Genesis":
 
-> ʻAʻole ʻokoʻa ka poʻe kahiko ma waena o nā ʻōlelo. Ua hānau ʻia lākou me ka haʻaheo a makemake lākou e kūkulu i hale kiaʻi kiʻekiʻe me ke kiʻekiʻe e piʻi i ka lani.
+> I ka wā kahiko, i ka wā hoʻokahi ka ʻōlelo, hānau haʻaheo ke kanaka. Ua ʻimi lākou e kūkulu i hale kiʻekiʻe, he hale kiaʻi e pili ana i ka lani.
 >
-> <blockquote><p>ʻAʻole i ʻoluʻolu ke Akua i ka haʻaheo o ke kanaka, no laila ua hoʻopuehu ʻo ia i nā mea ola a pau ma nā wahi like ʻole, ʻaʻole hiki ke hoʻomaopopo kekahi i kekahi.</p></blockquote>
+> Akā naʻe, ʻaʻole i ʻoluʻolu ke Akua i ko lākou hoʻokiʻekiʻe, ua hoʻopuehu nā kānaka a puni ka honua, me ka hoʻomaopopo ʻole i ko lākou mau alelo.
 >
-> <blockquote><p>Mai ia manawa, ua paʻakikī ke kamaʻilio kanaka, ua hoʻomau ka hoʻopaʻapaʻa, ʻaʻohe hale kiaʻi o Babela ma ka honua.</p></blockquote>
+> Mai ia manawa mai, paʻakikī nā kānaka e kamaʻilio, ua ala mai nā hakakā me ka pau ʻole, ʻaʻole i ʻike hou ka honua i kahi hale kiaʻi i hiki i ka lewa.
 
 ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes a alien civilization e kamaʻilio ana ma o nā hawewe electromagnetic, ʻaʻohe mea pale ʻōlelo, a ua holomua ʻo ka ʻenehana.
 
