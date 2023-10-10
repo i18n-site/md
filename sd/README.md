@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · بغير سرحدن جي سوچ<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · Think No Borders<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site، هڪ گھڻ-ٻولي جامد سائيٽ جنريٽر، خود بخود مارڪ ڊائون کي [سؤ کان وڌيڪ مختلف ٻولين](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ۾ ترجمو ڪري سگھي ٿو.
 

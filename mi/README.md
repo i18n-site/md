@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Whakaaro kore rohe<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Whakaaro Kore Taitapa<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 Ka taea e 3Ti.Site, he kaiwhakaputa pae reo-maha, te whakamaori aunoa i a Markdown ki [te neke atu i te kotahi rau nga reo rereke](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

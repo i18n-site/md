@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Berfikir tanpa sempadan<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Think No Borders<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, penjana tapak statik berbilang bahasa, secara automatik boleh menterjemah Markdown ke [lebih daripada seratus bahasa yang berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

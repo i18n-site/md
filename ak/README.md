@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Dwene a enni ahye<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Susuw sɛ Ahye biara nni hɔ<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, kasa ahorow pii static site generator, betumi akyerɛ Markdown ase ankasa akɔ [kasa ahorow bɛboro ɔha mu](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
