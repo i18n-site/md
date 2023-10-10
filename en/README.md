@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Language without borders<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Thoughts without borders<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, a multi-language static site generator, can automatically translate Markdown into [more than a hundred different languages](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site，多语言的静态站点生成器，能将 Markdown 自动翻译为 [一百多种不同的语言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Some people may want to ask, now that browsers have built-in translation functions, is it unnecessary to internationalize the website?
 
 I want to say that **only by internationalizing the entire site can we support multi-lingual in-site full-text search and search engine optimization** .
+
+## Sequence
+
+"Bible·Genesis":
+
+> The ancients did not distinguish between languages. They were born with pride and wanted to build a tall tower with the top reaching to the sky.
+> > God was displeased with man's arrogance, so he scattered all living beings in various places, unable to understand each other.
+> > Since then, it has been difficult for humans to communicate, disputes have continued, and there is no Tower of Babel in the world.
+
+The science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes an alien civilization that communicates through electromagnetic waves, has no language barriers, and is technologically prosperous.
+
+I hope that with the help of this tool, the people of the earth will be like three-body people, communication will not be restricted by language, and all mankind will be united again.
 
 ## Tutorial
 
