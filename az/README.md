@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Bəzi insanlar soruşmaq istəyə bilər ki, indi brauzerlərdə daxili tərcümə funksiyaları var, veb-saytı beynəlxalqləşdirmək lazım deyilmi?
+Bəzi insanlar soruşa bilər ki, indi brauzerlərdə daxili tərcümə funksiyaları var, veb-saytı beynəlxalqləşdirməyə ehtiyac yoxdur?
 
 Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə biz çoxdilli saytdaxili tam mətn axtarışını və axtarış sisteminin optimallaşdırılmasını dəstəkləyə bilərik** .
 

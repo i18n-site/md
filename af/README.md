@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Sommige mense wil dalk vra, noudat blaaiers ingeboude vertaalfunksies het, is dit onnodig om die webwerf te internasionaliseer?
+Sommige mense vra dalk, noudat blaaiers ingeboude vertaalfunksies het, is dit onnodig om die webwerf te internasionaliseer?
 
 Ek wil sê dat **ons slegs deur die hele webwerf te internasionalisering kan meertalige voltekssoektog op die webwerf en soekenjinoptimalisering ondersteun** .
 

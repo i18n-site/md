@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byubuhinduzi, ntibikenewe kumenyekanisha urubuga?
+Abantu bamwe barashobora kubaza, none ko mushakisha zubatswe mubikorwa byo guhindura, ntibikenewe kumenyekanisha urubuga mpuzamahanga?
 
 Ndashaka kuvuga ko **muguhindura amahanga kurubuga rwose dushobora gushyigikira indimi nyinshi murubuga rwuzuye-gushakisha no gushakisha moteri ishakisha** .
 

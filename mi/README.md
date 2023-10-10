@@ -4,7 +4,7 @@ Ka taea e 3Ti.Site, he kaiwhakaputa pae reo-maha, te whakamaori aunoa i a Markdo
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ka hiahia pea etahi ki te patai, i te mea kua whakauruhia e nga kaitirotiro nga mahi whakamaori, kaore ranei e tika kia whakawhitia te paetukutuku ki te ao?
+Ka patai pea etahi, i te mea kua whakauruhia e nga kaitirotiro nga mahi whakamaori, kaore ranei e tika kia whakawhitia te paetukutuku ki te ao?
 
 E hiahia ana ahau ki te kii **ma te panui i te pae katoa ka taea e tatou te tautoko i nga reo maha i roto i te pae ki te rapu kupu-katoa me te arotautanga miihini rapu** .
 

@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Namoonni tokko tokko gaafachuu barbaadu ta’a, amma browsers functions hiikkaa of keessaa qaba, marsariiticha idil-addunyaa gochuun hin barbaachisuu?
+Namoonni tokko tokko gaafachuu danda’u, amma biraawzaroonni dalagaalee hiikkaa of keessaa qaban, marsariiticha idil-addunyaa gochuun hin barbaachisuu?
 
 Ani akkan jechuu **barbaadu, guutummaa marsariitichaa idil-addunyaa gochuu qofaan afaanota hedduu in-site full-text search fi search engine optimization** .
 

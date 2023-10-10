@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Có thể một số người muốn hỏi, hiện nay trình duyệt đã tích hợp sẵn chức năng dịch thuật, liệu có cần thiết phải quốc tế hóa website hay không?
+Có thể một số người sẽ thắc mắc, hiện nay trình duyệt đã tích hợp sẵn chức năng dịch thuật, liệu có cần thiết phải quốc tế hóa website hay không?
 
 Tôi muốn nói rằng **chỉ bằng cách quốc tế hóa toàn bộ trang web, chúng tôi mới có thể hỗ trợ tìm kiếm toàn văn bản đa ngôn ngữ tại chỗ và tối ưu hóa công cụ tìm kiếm** .
 

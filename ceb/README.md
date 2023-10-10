@@ -4,7 +4,7 @@ Ang 3Ti.Site, usa ka multi-language static site generator, awtomatik nga makahub
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ang ubang mga tawo tingali gusto nga mangutana, karon nga ang mga browser adunay built-in nga mga gimbuhaton sa paghubad, dili ba kinahanglan nga i-internationalize ang website?
+Mahimong mangutana ang pipila ka mga tawo, karon nga ang mga browser adunay mga built-in nga mga gimbuhaton sa paghubad, dili ba kinahanglan nga i-internationalize ang website?
 
 Gusto nakong isulti nga **pinaagi lamang sa pag-internationalize sa tibuok site masuportahan namo ang multi-lingual in-site nga full-text nga pagpangita ug search engine optimization** .
 

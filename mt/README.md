@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Xi nies jistgħu jixtiequ jistaqsu, issa li l-browsers għandhom funzjonijiet ta 'traduzzjoni inkorporati, mhuwiex meħtieġ li tiġi internazzjonalizzata l-websajt?
+Xi nies jistgħu jistaqsu, issa li l-browsers għandhom funzjonijiet ta' traduzzjoni integrati, mhuwiex meħtieġ li tiġi internazzjonalizzata l-websajt?
 
 Irrid ngħid li **biss billi ninternazzjonalizzaw is-sit kollu nistgħu nappoġġaw it-tfittxija b'test sħiħ fuq il-post b'ħafna lingwi u l-ottimizzazzjoni tal-magni tat-tiftix** .
 

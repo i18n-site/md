@@ -4,7 +4,7 @@ I-3Ti.Site, ijeneretha yesayithi emile yezilimi eziningi, ingahumushela ngokuzen
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Abanye abantu bangase bafune ukubuza, njengoba manje iziphequluli zinemisebenzi yokuhumusha eyakhelwe ngaphakathi, ingabe akudingekile ukwenza iwebhusayithi ibe yamazwe ngamazwe?
+Abanye abantu bangase babuze, njengoba manje iziphequluli zinemisebenzi yokuhumusha eyakhelwe ngaphakathi, ingabe akudingekile ukwenza iwebhusayithi ibe yamazwe ngamazwe?
 
 Ngifuna ukusho ukuthi **kuphela ngokwenza isayithi yonke ibe ngamazwe ngamazwe lapho singakwazi ukusekela ukusesha kwemibhalo egcwele yezilimi eziningi ngaphakathi kwesayithi kanye nokwenza kahle kwezinjini zokusesha** .
 

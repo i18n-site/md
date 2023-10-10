@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ame aɖewo adi be yewoabia be, fifia si gbegɔmeɖeɖedɔ siwo wotu ɖe web-browserwo me la, ɖe mehiã be woatsɔ nyatakakadzraɖoƒea awɔ dukɔwo domee oa?
+Ame aɖewo abia be, fifia si gbegɔmeɖeɖedɔ siwo wotu ɖe web-browserwo me la, ɖe mehiã be woatsɔ nyatakakadzraɖoƒea awɔ dukɔwo domee oa?
 
 Medi be magblɔ be **ne míetsɔ nyatakakadzraɖoƒe bliboa wɔ dukɔwo domee ko hafi míate ŋu ado alɔ gbegbɔgblɔ geɖe me nyatakakadzraɖoƒea ƒe nuŋɔŋlɔ bliboa didi kple mɔ̃ siwo dia nyatakakawo ƒe nyonyome** .
 

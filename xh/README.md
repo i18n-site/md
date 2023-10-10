@@ -4,7 +4,7 @@ I-3Ti.Site, isiza sokuvelisa esineelwimi ezininzi, singatolika iMarkdown ngokuze
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Abanye abantu banokufuna ukubuza, ngoku ekubeni izikhangeli zinemisebenzi yoguqulo eyakhelwe-ngaphakathi, ngaba akuyomfuneko ukwenza iwebhusayithi ibe yeyamazwe ngamazwe?
+Abanye abantu banokubuza, ngoku ukuba iibrowser zinemisebenzi eyakhelwe-ngaphakathi yokuguqulela, ngaba akuyomfuneko ukwenza iwebhusayithi yelizwe jikelele?
 
 Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase uphendlo lweelwimi ezininzi ezikwisayithi nokubhaliweyo okugcweleyo kunye nokwandisa injini yokukhangela** .
 

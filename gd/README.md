@@ -4,7 +4,7 @@ Faodaidh 3Ti.Site, gineadair làrach-lìn statach ioma-chànan, Markdown eadar-t
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Is dòcha gum bi cuid de dhaoine airson faighneachd, a-nis gu bheil gnìomhan eadar-theangachaidh stèidhichte aig brobhsairean, nach eil feum air an làrach-lìn a dhèanamh eadar-nàiseanta?
+Is dòcha gu bheil cuid de dhaoine a’ faighneachd, a-nis gu bheil gnìomhan eadar-theangachaidh stèidhichte aig brobhsairean, nach eil feum air an làrach-lìn a dhèanamh eadar-nàiseanta?
 
 Tha mi airson a ràdh gur **ann dìreach le bhith ag eadar-nàiseantachadh an làrach gu lèir as urrainn dhuinn taic a thoirt do sgrùdadh làn-theacsa ioma-chànanach air an làrach agus optimization einnsean sgrùdaidh** .
 

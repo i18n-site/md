@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Anthu ena angafune kufunsa, popeza asakatuli ali ndi ntchito zomasulira zomangidwira, kodi sikofunikira kuyika webusayiti padziko lonse lapansi?
+Anthu ena angafunse, popeza asakatuli ali ndi ntchito zomasulira, kodi sikofunikira kuti tsambalo likhale lapadziko lonse lapansi?
 
 Ndikufuna kunena kuti **popanga tsamba lonselo kuti tithandizire kusaka ndi kukhathamiritsa kwa injini zosaka ndi zilankhulo zambiri m'masamba** .
 

@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Atonu e fia fesili nisi tagata, o lea ua i ai i tagata suʻesuʻe ni galuega faaliliu, e le manaʻomia ea le faʻavaomaloina o le upega tafaʻilagi?
+Atonu e fesili nisi tagata, i le taimi nei o loʻo i ai i tagata suʻesuʻe galuega faʻaliliu, e le manaʻomia ea le faʻavaomaloina o le upega tafaʻilagi?
 
 Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e mafai ai ona matou lagolagoina le tele-gagana i totonu o le upega tafaʻilagi suʻesuʻega atoa ma suʻesuʻega afi suʻesuʻe** .
 

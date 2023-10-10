@@ -4,7 +4,7 @@ Köp dilli statiki saýt generatory 3Ti.Site Markdown-dan [ýüzden gowrak dürl
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Käbir adamlar soramak isläp bilerler, indi brauzerlerde içerki terjime funksiýalary bar, web sahypasyny halkaralaşdyrmak zerur dälmi?
+Käbir adamlar sorap bilerler, indi brauzerlerde içerki terjime funksiýalary bar, web sahypasyny halkaralaşdyrmak zerur dälmi?
 
 **Diňe tutuş sahypany halkaralaşdyrmak arkaly köp dilli saýtda doly tekstli gözleg we gözleg motory optimizasiýasyny goldap boljakdygyny** aýtmak isleýärin.
 

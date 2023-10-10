@@ -4,7 +4,7 @@ Hiki iā 3Ti.Site, kahi mea hoʻoheheʻe kahua paʻa ʻōlelo he nui, ke unuhi �
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Makemake paha kekahi poʻe e nīnau, i kēia manawa ua loaʻa i nā mākaʻikaʻi nā hana unuhi i kūkulu ʻia, ʻaʻole pono anei ka hoʻolaha ʻana i ka pūnaewele?
+Nīnau paha kekahi poʻe, i kēia manawa ua loaʻa i nā mākaʻikaʻi nā hana unuhi i loko, ʻaʻole pono anei ka hoʻolaha ʻana i ka pūnaewele?
 
 Makemake au e ʻōlelo **ma ka hoʻolaha ʻana i ka pūnaewele holoʻokoʻa e hiki ai iā mākou ke kākoʻo i nā ʻōlelo he nui i loko o ka pūnaewele i ka ʻimi kikokikona piha a me ka ʻenekini huli** .
 

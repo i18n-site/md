@@ -4,7 +4,7 @@ Ang 3Ti.Site, isang multi-language na static na site generator, ay maaaring awto
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Maaaring gustong magtanong ng ilang tao, ngayong may mga built-in na function sa pagsasalin ang mga browser, hindi na ba kailangang i-internationalize ang website?
+Maaaring magtanong ang ilang tao, ngayong may mga built-in na function sa pagsasalin ang mga browser, hindi na ba kailangang i-internationalize ang website?
 
 Gusto kong sabihin na **sa pamamagitan lamang ng pag-internationalize ng buong site maaari naming suportahan ang multi-lingual in-site na full-text na paghahanap at search engine optimization** .
 

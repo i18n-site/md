@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ụfọdụ ndị nwere ike ịjụ, ugbu a ihe nchọgharị nwere arụ ọrụ ntụgharị asụsụ, ọ dịghị mkpa ịmegharị webụsaịtị mba ụwa?
+Ụfọdụ ndị mmadụ nwere ike ịjụ, ugbu a ihe nchọgharị nwere ọrụ ntụgharị asụsụ arụnyere n'ime ya, ọ dịghị mkpa ịmegharị webụsaịtị ahụ n'ofe ụwa?
 
 Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka anyị nwere ike ịkwado nchọta ederede zuru oke na saịtị multilingual na njikarịcha search engine** .
 

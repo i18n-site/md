@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Diẹ ninu awọn eniyan le fẹ lati beere, ni bayi ti awọn aṣawakiri ti ni awọn iṣẹ itumọ ti a ṣe sinu, ṣe ko ṣe pataki lati sọ oju opo wẹẹbu naa di kariaye bi?
+Diẹ ninu awọn eniyan le beere, ni bayi ti awọn aṣawakiri ti ni awọn iṣẹ itumọ-itumọ, ṣe ko ṣe pataki lati sọ oju opo wẹẹbu di kariaye bi?
 
 Mo fẹ lati sọ pe **nikan nipa sisẹ gbogbo aaye naa ni a le ṣe atilẹyin wiwa ọrọ-kikun ni aaye pupọ-ede ati iṣapeye ẹrọ wiwa** .
 

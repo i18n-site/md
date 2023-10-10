@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Gen kèk moun ki ka vle mande, kounye a ke navigatè yo gen fonksyon tradiksyon bati, èske li pa nesesè entènasyonalize sit entènèt la?
+Gen kèk moun ki ka mande, kounye a ke navigatè yo gen fonksyon tradiksyon entegre, èske li pa nesesè entènasyonalize sit entènèt la?
 
 Mwen vle di ke **se sèlman lè nou entènasyonalize sit la tout antye nou ka sipòte rechèch ak tèks konplè sou sit ki nan plizyè lang ak optimize motè rechèch** .
 

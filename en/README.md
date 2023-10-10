@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Some people may want to ask, now that browsers have built-in translation functions, is it unnecessary to internationalize the website?
+Some people may ask, now that browsers have built-in translation functions, is it unnecessary to internationalize the website?
 
 I want to say that **only by internationalizing the entire site can we support multi-lingual in-site full-text search and search engine optimization** .
 

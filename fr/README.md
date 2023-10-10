@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Certains voudront peut-être se demander : maintenant que les navigateurs disposent de fonctions de traduction intégrées, est-il inutile d’internationaliser le site Web ?
+Certaines personnes pourraient se demander : maintenant que les navigateurs disposent de fonctions de traduction intégrées, est-il inutile d’internationaliser le site Web ?
 
 Je tiens à dire que **ce n'est qu'en internationalisant l'ensemble du site que nous pourrons prendre en charge la recherche multilingue en texte intégral sur le site et l'optimisation des moteurs de recherche** .
 

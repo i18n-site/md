@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Ba'zi odamlar so'rashlari mumkin, endi brauzerlarda o'rnatilgan tarjima funktsiyalari mavjud, veb-saytni xalqarolashtirish kerak emasmi?
+Ba'zi odamlar so'rashi mumkin, endi brauzerlarda o'rnatilgan tarjima funktsiyalari mavjud, veb-saytni xalqarolashtirish kerak emasmi?
 
 Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko'p tilli sayt ichidagi to'liq matnli qidiruv va qidiruv tizimini optimallashtirishni qo'llab-quvvatlashimiz mumkin** .
 

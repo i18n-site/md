@@ -4,7 +4,7 @@
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Wasu mutane na iya so su yi tambaya, yanzu da masu bincike sun gina ayyukan fassarar, shin ba lallai ba ne a mayar da gidan yanar gizon zuwa ƙasashen duniya?
+Wasu mutane na iya tambaya, yanzu da masu bincike sun gina ayyukan fassarar, shin ba lallai ba ne a mayar da gidan yanar gizon zuwa ƙasashen duniya?
 
 Ina so in faɗi cewa **ta hanyar ƙaddamar da duk rukunin yanar gizon kawai za mu iya tallafawa binciken cikakken rubutu na cikin harsuna da yawa da haɓaka injin bincike** .
 

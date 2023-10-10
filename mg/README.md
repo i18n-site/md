@@ -4,7 +4,7 @@ Ny 3Ti.Site, mpamokatra tranokala static amin'ny fiteny maro, dia afaka mandika 
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
-Mety te hanontany ny olona sasany, amin'izao fotoana izao ny mpitety tranonkala dia manana asa fandikan-teny ao anatiny, tsy ilaina ve ny manao iraisam-pirenena ny tranokala?
+Mety hanontany ny olona sasany, amin'izao fotoana izao ny mpitety tranonkala dia manana asa fandikan-teny ao anatiny, tsy ilaina ve ny manao iraisam-pirenena ny tranokala?
 
 Te-hilaza aho fa **amin'ny alalan'ny fanaovana iraisam-pirenena ny vohikala manontolo ihany no ahafahantsika manohana ny fikarohana lahatsoratra feno amin'ny fiteny maro ao amin'ny tranokala sy ny fanatsarana ny milina fikarohana** .
 
