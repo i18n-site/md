@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Sərhədsiz dil<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Sərhədsiz düşüncələr<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-Çoxdilli statik sayt generatoru olan I18N.SITE Markdown-u avtomatik olaraq [yüzdən çox fərqli dilə](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tərcümə edə bilər.
+Çoxdilli statik sayt generatoru olan 3Ti.Site Markdown-u avtomatik olaraq [yüzdən çox fərqli dilə](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tərcümə edə bilər.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Bəzi insanlar soruşmaq istəyə bilər ki, indi brauzerlərdə daxili tərcümə funksiyaları var, veb-saytı beynəlxalqləşdirmək lazım deyilmi?
 
 Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə biz çoxdilli saytdaxili tam mətn axtarışını və axtarış sisteminin optimallaşdırılmasını dəstəkləyə bilərik** .
+
+## Ardıcıllıq
+
+"İncil · Yaradılış":
+
+> Qədimlər dillər arasında fərq qoymurlar. Onlar qürurla doğulublar və zirvəsi göyə çatan hündür bir qüllə tikmək istəyirdilər.
+> <blockquote><p>İnsanın təkəbbürlü olması Tanrının narazılığına səbəb olub, bütün canlıları bir-birini başa düşə bilməyib müxtəlif yerlərə səpələyib.</p></blockquote>
+> <blockquote><p>O vaxtdan bəri insanlar üçün ünsiyyət qurmaq çətinləşdi, mübahisələr davam etdi və dünyada Babil qülləsi yoxdur.</p></blockquote>
+
+Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Ti` ) elektromaqnit dalğaları vasitəsilə ünsiyyət quran, heç bir dil maneəsi olmayan və texnoloji cəhətdən çiçəklənən yadplanetli sivilizasiyanı xəyal edir.
+
+Ümid edirəm ki, bu alətin köməyi ilə yer əhli üç bədənli insanlar kimi olacaq, ünsiyyət dillə məhdudlaşdırılmayacaq və bütün bəşəriyyət yenidən birləşəcək.
 
 ## Dərslik
 

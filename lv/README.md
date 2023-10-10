@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Valoda bez robežām<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Domas bez robežām<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, vairāku valodu statisko vietņu ģenerators, var automātiski tulkot Markdown [vairāk nekā simts dažādās valodās](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, vairāku valodu statisko vietņu ģenerators, var automātiski tulkot Markdown [vairāk nekā simts dažādās valodās](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Daži cilvēki var jautāt, vai tagad, kad pārlūkprogrammās ir iebūvētas tulkošanas funkcijas, nav nepieciešams internacionalizēt vietni?
 
 Es gribu teikt, ka **tikai internacionalizējot visu vietni, mēs varam atbalstīt daudzvalodu vietnes pilna teksta meklēšanu un meklētājprogrammu optimizāciju** .
+
+## Secība
+
+"Bībele·Genesis":
+
+> Senie cilvēki nešķīra valodas. Viņi piedzima ar lepnumu un vēlējās uzcelt augstu torni, kura virsotne sniedzas līdz debesīm.
+> <blockquote><p>Dievam nepatika cilvēka augstprātība, tāpēc viņš visas dzīvās būtnes izklīdināja pa dažādām vietām, nespējot viena otru saprast.</p></blockquote>
+> <blockquote><p>Kopš tā laika cilvēkiem ir bijis grūti sazināties, strīdi turpinās, un pasaulē nav Bābeles torņa.</p></blockquote>
+
+Zinātniskās fantastikas romāns &quot;Trīsķermeņi&quot; (ķīniešu izruna: `3Ti` ) izdomāja citplanētiešu civilizāciju, kas sazinās ar elektromagnētisko viļņu palīdzību, kurai nav valodas barjeru un kas ir tehnoloģiski pārtikusi.
+
+Ceru, ka ar šī rīka palīdzību zemes cilvēki būs kā trīsķermeņi, komunikāciju neierobežos valoda un visa cilvēce atkal būs vienota.
 
 ## Apmācība
 

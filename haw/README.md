@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · ʻŌlelo palena ʻole<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Nā manaʻo palena ʻole<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-ʻO I18N.SITE, kahi mea hoʻoheheʻe kahua paʻa ʻōlelo he nui, hiki ke unuhi ʻakomi iā Markdown i loko [o hoʻokahi haneli mau ʻōlelo like ʻole](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+Hiki iā 3Ti.Site, kahi mea hoʻoheheʻe kahua paʻa ʻōlelo he nui, ke unuhi ʻakomi iā Markdown i loko [o hoʻokahi haneli mau ʻōlelo like ʻole](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Makemake paha kekahi poʻe e nīnau, i kēia manawa ua loaʻa i nā mākaʻikaʻi nā hana unuhi i kūkulu ʻia, ʻaʻole pono anei ka hoʻolaha ʻana i ka pūnaewele?
 
 Makemake au e ʻōlelo **ma ka hoʻolaha ʻana i ka pūnaewele holoʻokoʻa e hiki ai iā mākou ke kākoʻo i nā ʻōlelo he nui i loko o ka pūnaewele i ka ʻimi kikokikona piha a me ka ʻenekini huli** .
+
+## Kaʻina
+
+"Baibala·Genesis":
+
+> ʻAʻole ʻokoʻa ka poʻe kahiko ma waena o nā ʻōlelo. Ua hānau ʻia lākou me ka haʻaheo a makemake lākou e kūkulu i hale kiaʻi kiʻekiʻe me ke kiʻekiʻe e piʻi i ka lani.
+> <blockquote><p>ʻAʻole i ʻoluʻolu ke Akua i ka haʻaheo o ke kanaka, no laila ua hoʻopuehu ʻo ia i nā mea ola a pau ma nā wahi like ʻole, ʻaʻole hiki ke hoʻomaopopo kekahi i kekahi.</p></blockquote>
+> <blockquote><p>Mai ia manawa, ua paʻakikī ke kamaʻilio kanaka, ua hoʻomau ka hoʻopaʻapaʻa, ʻaʻohe hale kiaʻi o Babela ma ka honua.</p></blockquote>
+
+ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes a alien civilization e kamaʻilio ana ma o nā hawewe electromagnetic, ʻaʻohe mea pale ʻōlelo, a ua holomua ʻo ka ʻenehana.
+
+Ke lana nei ko'u manao, me ke kokua ana mai o keia mea paahana, e like auanei na kanaka o ka honua me he mau kanaka kino ekolu, aole e kaohiia ka launa ana ma ka olelo, a e hui hou na kanaka a pau.
 
 ## Aʻoaʻo
 

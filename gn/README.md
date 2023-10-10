@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Ñe’ẽ rembe’y’ỹva<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Temiandu rembe’y’ỹva<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, peteĩ generador sitio estático heta ñe’ẽ rehegua, ikatu ombohasa ijeheguiete Markdown [hetave cien ñe’ẽ iñambuévape](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, peteĩ generador sitio estático heta ñe’ẽ rehegua, ikatu ombohasa ijeheguiete Markdown [hetave cien ñe’ẽ iñambuévape](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Oĩ tapicha ikatu oporandúva, ko’áĝa umi navegador oguerekóma función de traducción incorporada, natekotevẽipa oñeinternacionalisa pe página web?
 
 Aipota **ha’e pe internacionalización rupive añoite pe sitio tuichakue ikatuha ñaipytyvõ heta ñe’ẽme pe sitio-pe jeheka jeheka pukukue ha motor de búsqueda optimización** .
+
+## Takykuerigua
+
+"Biblia·Génesis".:
+
+> Ymaguare ndombojoavyiva’ekue umi ñe’ẽ. Heñói hikuái orgullo reheve ha omopu’ãse peteĩ tórre yvate ha ijyvate ohupyty yvága peve.
+> <blockquote><p>Ñandejára ndoguerohorýi yvypóra ñemomba’eguasu, upévare omosarambi opa tekove oikovéva opaichagua hendápe, ndaikatúiva oñontende.</p></blockquote>
+> <blockquote><p>Upe guive ijetuʼu yvyporakuérape oñemongeta hag̃ua, osegi ojodiskuti ha ko múndope ndaipóri Torre de Babel.</p></blockquote>
+
+Pe novela ciencia ficción &quot;Mbohapy Cuerpo&quot; (pronunciación chino: `3Ti` ) oficciona peteĩ civilización extraterrestre oñemongeta va&#39;ekue onda electromagnética rupive, ndorekóiva barrera idioma rehegua, ha tecnológicamente oñakãrapu&#39;ã.
+
+Aha’arõ ko tembiporu pytyvõ rupive, yvy ape ári tavayguakuéra ha’e peteĩ tapicha mbohapy hete reheguaicha, ñe’ẽmondo ndojejokói ñe’ẽ rupive, ha opavave yvypóra peteĩcha jey.
 
 ## Mbo’epy Rehegua
 

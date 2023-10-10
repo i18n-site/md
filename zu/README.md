@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Ulimi olungenayo imingcele<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Isizinda · Imicabango engenamingcele<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I-I18N.SITE, ijeneretha yesayithi emile yezilimi eziningi, ingahumushela ngokuzenzakalelayo i-Markdown [ezilimini ezingaphezu kwekhulu ezahlukene](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I-3Ti.Site, ijeneretha yesayithi emile yezilimi eziningi, ingahumushela ngokuzenzakalelayo i-Markdown [ezilimini ezingaphezu kwekhulu ezahlukene](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Abanye abantu bangase bafune ukubuza, njengoba manje iziphequluli zinemisebenzi yokuhumusha eyakhelwe ngaphakathi, ingabe akudingekile ukwenza iwebhusayithi ibe yamazwe ngamazwe?
 
 Ngifuna ukusho ukuthi **kuphela ngokwenza isayithi yonke ibe ngamazwe ngamazwe lapho singakwazi ukusekela ukusesha kwemibhalo egcwele yezilimi eziningi ngaphakathi kwesayithi kanye nokwenza kahle kwezinjini zokusesha** .
+
+## Ukulandelana
+
+"Bible·Genesis":
+
+> Abantu basendulo babengahlukanisi izilimi. Bazalwa beqhosha futhi befuna ukwakha umbhoshongo omude ofinyelela phezulu esibhakabhakeni.
+> <blockquote><p>UNkulunkulu akazange ajabule ngokuzikhukhumeza komuntu, ngakho wahlakaza zonke izidalwa eziphilayo ezindaweni ezihlukahlukene, zingakwazi ukuqondana.</p></blockquote>
+> <blockquote><p>Kusukela ngaleso sikhathi, kuye kwaba nzima ngabantu ukuxhumana, izingxabano ziye zaqhubeka, futhi awukho uMbhoshongo WaseBabele emhlabeni.</p></blockquote>
+
+Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphimbo lesiShayina: `3Ti` ) iqamba impucuko engaziwa exhumana namagagasi kagesi, engenazo izithiyo zolimi, futhi ephumelelayo kwezobuchwepheshe.
+
+Ngethemba ukuthi ngosizo lwaleli thuluzi, abantu basemhlabeni bayoba njengabantu abanemizimba emithathu, ukuxhumana ngeke kuvinjelwe ulimi, futhi sonke isintu siyophinde sihlangane.
 
 ## Okokufundisa
 

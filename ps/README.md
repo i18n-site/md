@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">I18N.SITE · بې سرحده ژبه<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · بې سرحده فکرونه<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE، د څو ژبو جامد سایټ جنراتور، کولی شي په اتوماتيک ډول مارک ڈاون [له سلو څخه ډیرو مختلفو ژبو](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ته وژباړي.
+3Ti.Site، د څو ژبو جامد سایټ جنراتور، کولی شي په اتوماتيک ډول مارک ڈاون [له سلو څخه ډیرو مختلفو ژبو](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ته وژباړي.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 ځینې ​​​​خلک ممکن پوښتنه وکړي، اوس چې براوزرونه د ژباړې فعالیت لري، ایا د ویب پاڼې نړیوال کول غیر ضروري دي؟
 
 زه غواړم ووایم چې **یوازې د ټول سایټ نړیوال کولو سره موږ کولی شو د څو ژبو دننه سایټ بشپړ متن لټون او د لټون انجن اصلاح کولو ملاتړ وکړو** .
+
+## ترتیب
+
+"بائبل · پیدایښت":
+
+> پخوانیو ژبو توپیر نه کاوه. دوی د غرور سره زیږیدلي وو او غوښتل یې یو لوړ برج جوړ کړي چې اسمان ته ورسیږي.
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">خدای د انسان له غرور څخه ناراضه شو، نو ټول ژوندي موجودات یې په مختلفو ځایونو کې خپاره کړل، د یو بل د پوهیدو توان یې نه درلود.</p></blockquote>
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">له هغه وخت راهیسې، د انسانانو لپاره خبرې کول ستونزمن شوي، شخړې دوام لري، او په نړۍ کې د بابل برج شتون نلري.</p></blockquote>
+
+د ساینسي افسانې ناول &quot;درې بدن&quot; (چینایي تلفظ: `3Ti` ) د یو اجنبی تمدن افسانه کوي چې د بریښنایی مقناطیسي څپو له لارې اړیکه لري، د ژبې خنډونه نلري، او د ټیکنالوژیک پلوه خوشحاله دی.
+
+زه امید لرم چې د دې وسیلې په مرسته به د ځمکې خلک د دریو بدنونو خلکو په څیر شي، ارتباط به د ژبې محدود نه وي او ټول انسانان به بیا سره متحد شي.
 
 ## ټیوټوریل
 

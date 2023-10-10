@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Bahasa tanpa batas<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Pikiran tanpa batas<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, generator situs statis multi-bahasa, dapat secara otomatis menerjemahkan Markdown ke [lebih dari seratus bahasa berbeda](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, generator situs statis multi-bahasa, dapat secara otomatis menerjemahkan Markdown ke [lebih dari seratus bahasa berbeda](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Beberapa orang mungkin ingin bertanya, karena browser memiliki fungsi terjemahan bawaan, apakah situs web tidak perlu diinternasionalkan?
 
 Saya ingin mengatakan bahwa **hanya dengan menginternasionalkan seluruh situs kita dapat mendukung pencarian teks lengkap dalam situs multi-bahasa dan optimasi mesin pencari** .
+
+## Urutan
+
+"Alkitab·Kejadian":
+
+> Orang dahulu tidak membedakan bahasa. Mereka terlahir dengan rasa bangga dan ingin membangun menara tinggi yang puncaknya mencapai langit.
+> <blockquote><p>Tuhan tidak senang dengan kesombongan manusia, sehingga Ia mencerai-beraikan seluruh makhluk hidup di berbagai tempat, tidak mampu memahami satu sama lain.</p></blockquote>
+> <blockquote><p>Sejak saat itu, manusia sulit berkomunikasi, perselisihan terus berlanjut, dan tidak ada Menara Babel di dunia.</p></blockquote>
+
+Novel fiksi ilmiah &quot;Three-Body&quot; (pengucapan China: `3Ti` ) mengarang fiksi peradaban alien yang berkomunikasi melalui gelombang elektromagnetik, tidak memiliki kendala bahasa, dan makmur secara teknologi.
+
+Saya berharap dengan bantuan alat ini, masyarakat bumi akan menjadi seperti manusia yang beranggotakan tiga orang, komunikasi tidak dibatasi oleh bahasa, dan seluruh umat manusia dapat bersatu kembali.
 
 ## Tutorial
 

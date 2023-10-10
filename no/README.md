@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Språk uten grenser<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Tanker uten grenser<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, en flerspråklig statisk nettstedsgenerator, kan automatisk oversette Markdown til [mer enn hundre forskjellige språk](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, en flerspråklig statisk nettstedsgenerator, kan automatisk oversette Markdown til [mer enn hundre forskjellige språk](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Noen vil kanskje spørre, nå som nettlesere har innebygde oversettelsesfunksjoner, er det unødvendig å internasjonalisere nettstedet?
 
 Jeg vil si at **bare ved å internasjonalisere hele nettstedet kan vi støtte flerspråklige fulltekstsøk på stedet og søkemotoroptimalisering .**
+
+## Sekvens
+
+"Bibel · Genesis":
+
+> De gamle skilte ikke mellom språk. De ble født med stolthet og ønsket å bygge et høyt tårn med toppen til himmelen.
+> <blockquote><p>Gud var misfornøyd med menneskets arroganse, så han spredte alle levende vesener på forskjellige steder, ute av stand til å forstå hverandre.</p></blockquote>
+> <blockquote><p>Siden den gang har det vært vanskelig for mennesker å kommunisere, tvister har fortsatt, og det er ikke noe Babelstårn i verden.</p></blockquote>
+
+Science fiction-romanen &quot;Three-Body&quot; (kinesisk uttale: `3Ti` ) fiksjonaliserer en fremmed sivilisasjon som kommuniserer gjennom elektromagnetiske bølger, har ingen språkbarrierer og er teknologisk velstående.
+
+Jeg håper at ved hjelp av dette verktøyet vil menneskene på jorden bli som trekroppsmennesker, kommunikasjon vil ikke bli begrenset av språk, og hele menneskeheten vil bli forent igjen.
 
 ## Opplæringen
 

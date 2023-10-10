@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITO · Mana fronterayuq simi<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Siti · Mana fronterayuq yuyaykuna<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, achka simiyuq mana kuyukuq sitio ruwaq, kikinmanta Markdown [pachakmanta aswan hukniray simikunaman](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tikrayta atin .
+3Ti.Site, achka simiyuq mana kuyukuq sitio ruwaq, kikinmanta Markdown [pachakmanta aswan hukniray simikunaman](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tikrayta atin .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Wakin runakuna tapuyta munankuman, kunan navegadorkuna tikray ruwanakuna ruwasqayuq kasqankurayku, ¿mana necesariochu web kitita internacionalización ruway?
 
 Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka simiyuq sitiopi hunt&#39;asqa qillqa maskana chaymanta maskana motor allinchay** .
+
+## Qati Qati
+
+"Biblia·Génesis".:
+
+> Ñawpa pacha runakunaqa manan simikunata t’aqaqkuchu. Paykunaqa hatunchakuspankun nacerqanku, hinaspan huk hatun torreta ruwayta munarqanku, patantaq hanaq pachaman chayaq.
+> <blockquote><p>Runapa hatunchakuyninwanmi Diosqa mana allinpaqchu hapirqa, chaymi lliw kawsaqkunata imaymana cheqaskunapi chiqichirqa, mana entiendenakuspa.</p></blockquote>
+> <blockquote><p>Chaymantapachan runakunapaqqa sasa rimay, ch’aqwaykunapas hinallam, kay pachapiqa manañam kanchu Babel torrepas.</p></blockquote>
+
+&quot;Kimsa-Kurku&quot; (China simipi t&#39;uqyay: `3Ti` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética olakunawan rimanakunku, mana simi hark&#39;aykunayuqmi, tecnología nisqapipas qhapaqmi.
+
+Suyachkani kay yanapakuypa yanapayninwan kay pachapi runakunaqa kimsa kurkuyuq runakuna hina kanankuta, rimanakuy mana simiwan hark’asqa kananta, llapa runa hukmanta hukllachasqa kananta.
 
 ## Yachachiy
 

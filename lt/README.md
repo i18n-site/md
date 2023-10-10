@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Kalba be sienų<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Mintys be sienų<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, kelių kalbų statinių svetainių generatorius, gali automatiškai išversti Markdown į [daugiau nei šimtą skirtingų kalbų](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, kelių kalbų statinių svetainių generatorius, gali automatiškai išversti Markdown į [daugiau nei šimtą skirtingų kalbų](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Kai kurie žmonės gali paklausti, ar dabar, kai naršyklėse yra įmontuotos vertimo funkcijos, nereikia internacionalizuoti svetainės?
 
 Noriu pasakyti, kad **tik internacionalizuodami visą svetainę galime palaikyti daugiakalbę viso teksto paiešką svetainėje ir paieškos variklio optimizavimą** .
+
+## Seka
+
+"Biblija · Pradžios knyga":
+
+> Senoliai neskyrė kalbų. Jie gimė su pasididžiavimu ir norėjo pastatyti aukštą bokštą, kurio viršus siektų dangų.
+> <blockquote><p>Dievui nepatiko žmogaus arogancija, todėl jis visas gyvas būtybes išblaškė po įvairias vietas, negalėdamas suprasti viena kitos.</p></blockquote>
+> <blockquote><p>Nuo tada žmonėms buvo sunku bendrauti, ginčai tęsėsi, o Babelio bokšto pasaulyje nėra.</p></blockquote>
+
+Mokslinės fantastikos romane „Trys kūnai“ (tarimas kiniškai: `3Ti` ) išgalvota ateivių civilizacija, kuri bendrauja per elektromagnetines bangas, neturi kalbos barjerų ir klesti technologiškai.
+
+Tikiuosi, kad šio įrankio pagalba žemės žmonės bus tarsi trijų kūno žmonių, bendravimo nevaržys kalba ir visa žmonija vėl bus vieninga.
 
 ## Pamoka
 

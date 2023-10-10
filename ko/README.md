@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · 국경 없는 언어<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · 국경 없는 생각<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-다국어 정적 사이트 생성기인 I18N.SITE는 Markdown을 [100개 이상의 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역할 수 있습니다.
+다국어 정적 사이트 생성기인 3Ti.Site는 Markdown을 [100개 이상의 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역할 수 있습니다.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 어떤 사람들은 이제 브라우저에 번역 기능이 내장되어 있으므로 웹사이트를 국제화할 필요가 없는지 묻고 싶어할 수도 있습니다.
 
 **전체 사이트를 국제화해야만 다국어 사이트 내 전체 텍스트 검색 및 검색 엔진 최적화를 지원할 수 있다고** 말하고 싶습니다.
+
+## 순서
+
+"성경·창세기":
+
+> 고대인들은 언어를 구별하지 않았습니다. 그들은 자부심을 가지고 태어났으며 꼭대기가 하늘에 닿는 높은 탑을 만들고 싶었습니다.
+> <blockquote><p>하나님은 사람의 교만을 노엽게 여기사 모든 중생을 서로 깨닫지 못하게 하시고 각처에 흩으셨느니라.</p></blockquote>
+> <blockquote><p>그 이후로 인간의 의사소통이 어려워지고 분쟁이 계속되어 세상에 바벨탑은 없습니다.</p></blockquote>
+
+SF 소설 &#39;삼체&#39;(중국어 발음: `3Ti` )는 전자파를 통해 소통하고, 언어 장벽이 없으며, 기술적으로 번영하는 외계 문명을 가상화한 작품입니다.
+
+이 도구의 도움으로 지구상의 사람들이 삼체의 사람들처럼 되고, 의사소통이 언어의 제약을 받지 않고, 온 인류가 다시 하나가 되기를 바랍니다.
 
 ## 지도 시간
 

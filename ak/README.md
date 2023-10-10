@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Kasa a enni ahye<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Adwene a enni ahye<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, kasa ahorow pii static site generator, betumi akyerɛ Markdown ase ankasa akɔ [kasa ahorow bɛboro ɔha mu](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, kasa ahorow pii static site generator, betumi akyerɛ Markdown ase ankasa akɔ [kasa ahorow bɛboro ɔha mu](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Ebia nnipa binom bɛpɛ sɛ wobisa sɛ, afei a browser ahorow no wɔ nkyerɛase dwumadi ahorow a wɔde ahyɛ mu no, so ɛho nhia sɛ wɔde wɛbsaet no bɛyɛ amanaman ntam?
 
 Mepɛ sɛ meka sɛ **ɛdenam amanaman ntam wɛbsaet no nyinaa a yɛde bɛyɛ amanaman ntam nkutoo so na yebetumi aboa kasa horow pii wɔ wɛbsaet no mu nsɛm nyinaa a wɔhwehwɛ ne nhwehwɛmu engine optimization** .
+
+## Ntoasoɔ
+
+"Bible·Genesis":
+
+> Tetefo no anhu nsonsonoe a ɛda kasa ahorow ntam. Wɔde ahantan woo wɔn na na wɔpɛ sɛ wosi abantenten tenten bi a ne soro kodu soro.
+> <blockquote><p>Onyankopɔn ani annye onipa ahantan ho, enti ɔbɔɔ abɔde a nkwa wom nyinaa hwetee mmeae ahorow, a wantumi ante wɔn ho wɔn ho ase.</p></blockquote>
+> <blockquote><p>Efi saa bere no, ayɛ den ama nnipa sɛ wɔbɛbɔ nkɔmmɔ, akasakasa akɔ so, na Babel Abantenten biara nni wiase.</p></blockquote>
+
+Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din: `3Ti` ) yɛ ahɔho anibuei a ɛnam anyinam ahoɔden asorɔkye so di nkitaho, enni kasa mu akwanside biara, na ɛwɔ mfiridwuma mu yiyedi.
+
+Mewɔ anidaso sɛ ɛdenam adwinnade yi mmoa so no, asase so nnipa bɛyɛ sɛ nnipa a wɔwɔ nipadua abiɛsa, kasa rensiw nkitahodi ano, na adesamma nyinaa ayɛ biako bio.
 
 ## Nkyerɛkyerɛmu
 

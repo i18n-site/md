@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Wikang walang hangganan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Mga kaisipang walang hangganan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-Ang I18N.SITE, isang multi-language static na site generator, ay maaaring awtomatikong isalin ang Markdown sa [higit sa isang daang iba&#39;t ibang wika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+Ang 3Ti.Site, isang multi-language na static na site generator, ay maaaring awtomatikong isalin ang Markdown sa [higit sa isang daang iba&#39;t ibang wika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Maaaring gustong magtanong ng ilang tao, ngayong may mga built-in na function sa pagsasalin ang mga browser, hindi na ba kailangang i-internationalize ang website?
 
 Gusto kong sabihin na **sa pamamagitan lamang ng pag-internationalize ng buong site maaari naming suportahan ang multi-lingual in-site na full-text na paghahanap at search engine optimization** .
+
+## Pagkakasunod-Sunod
+
+"Bibliya·Genesis":
+
+> Ang mga sinaunang tao ay hindi nagtatangi sa pagitan ng mga wika. Sila ay ipinanganak na may pagmamalaki at nais na magtayo ng isang mataas na tore na ang tuktok ay umaabot sa langit.
+> <blockquote><p>Hindi nasiyahan ang Diyos sa pagmamataas ng tao, kaya&#39;t ikinalat niya ang lahat ng may buhay sa iba&#39;t ibang lugar, na hindi nagkakaintindihan.</p></blockquote>
+> <blockquote><p>Simula noon, mahirap na ang mga tao na makipag-usap, nagpatuloy ang mga pagtatalo, at walang Tore ng Babel sa mundo.</p></blockquote>
+
+Ang nobelang science fiction na &quot;Three-Body&quot; (pagbigkas ng Tsino: `3Ti` ) ay gawa-gawa ang isang dayuhan na sibilisasyon na nakikipag-usap sa pamamagitan ng mga electromagnetic wave, walang mga hadlang sa wika, at maunlad sa teknolohiya.
+
+Umaasa ako na sa tulong ng kasangkapang ito, ang mga tao sa daigdig ay magiging tulad ng mga taong may tatlong katawan, ang komunikasyon ay hindi mapipigilan ng wika, at ang buong sangkatauhan ay muling magkakaisa.
 
 ## Pagtuturo
 

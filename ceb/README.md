@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Pinulongan nga walay utlanan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Mga hunahuna nga walay utlanan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-Ang I18N.SITE, usa ka multi-language static site generator, awtomatik nga makahubad sa Markdown ngadto sa [labaw sa usa ka gatos ka lain-laing mga pinulongan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+Ang 3Ti.Site, usa ka multi-language static site generator, awtomatik nga makahubad sa Markdown ngadto sa [labaw sa usa ka gatos ka lain-laing mga pinulongan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Ang ubang mga tawo tingali gusto nga mangutana, karon nga ang mga browser adunay built-in nga mga gimbuhaton sa paghubad, dili ba kinahanglan nga i-internationalize ang website?
 
 Gusto nakong isulti nga **pinaagi lamang sa pag-internationalize sa tibuok site masuportahan namo ang multi-lingual in-site nga full-text nga pagpangita ug search engine optimization** .
+
+## Pagkasunodsunod
+
+"Bibliya·Genesis":
+
+> Ang mga karaan wala makaila sa mga pinulongan. Natawo sila nga adunay garbo ug gusto nga magtukod usa ka taas nga tore nga ang tumoy hangtod sa langit.
+> <blockquote><p>Ang Dios wala mahimuot sa pagkamapahitas-on sa tawo, mao nga iyang gipatibulaag ang tanang buhing binuhat sa lain-laing mga dapit, nga dili makasabut sa usag usa.</p></blockquote>
+> <blockquote><p>Sukad niadto, lisod na alang sa mga tawo ang pagpakigkomunikar, nagpadayon ang mga panaglalis, ug walay Torre sa Babel sa kalibotan.</p></blockquote>
+
+Ang science fiction nga nobela nga &quot;Three-Body&quot; (Intsik nga paglitok: `3Ti` ) nagmugna sa usa ka langyaw nga sibilisasyon nga nakigkomunikar pinaagi sa electromagnetic waves, walay mga babag sa pinulongan, ug sa teknolohiya mauswagon.
+
+Nanghinaut ko nga uban sa tabang niini nga himan, ang mga tawo sa yuta mahisama sa tulo ka lawas nga mga tawo, ang komunikasyon dili mapugngan sa pinulongan, ug ang tanang katawhan mahiusa pag-usab.
 
 ## Tutorial
 

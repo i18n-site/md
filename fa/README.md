@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">I18N.SITE · زبان بدون مرز<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · افکار بدون مرز<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE، یک مولد سایت ایستا چند زبانه، می تواند Markdown را به طور خودکار به [بیش از صد زبان مختلف](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ترجمه کند.
+3Ti.Site، یک مولد سایت ایستا چند زبانه، می تواند Markdown را به طور خودکار به [بیش از صد زبان مختلف](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ترجمه کند.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 برخی از افراد ممکن است بخواهند بپرسند، اکنون که مرورگرها عملکردهای ترجمه داخلی دارند، آیا بین المللی کردن وب سایت ضروری نیست؟
 
 می‌خواهم بگویم که **تنها با بین‌المللی کردن کل سایت می‌توانیم از جستجوی متن کامل چند زبانه در سایت و بهینه‌سازی موتور جستجو پشتیبانی کنیم** .
+
+## توالی
+
+"کتاب مقدس · پیدایش":
+
+> قدیم ها بین زبان ها فرق نمی گذاشتند. آنها با غرور متولد شدند و می خواستند برجی بلند بسازند که بالای آن به آسمان برسد.
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">خداوند از تکبر انسان ناراضی بود، پس همه موجودات زنده را در جاهای مختلف پراکنده کرد و نتوانستند یکدیگر را درک کنند.</p></blockquote>
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">از آن زمان، برقراری ارتباط برای انسان ها دشوار بوده، اختلافات ادامه دارد و برج بابل در جهان وجود ندارد.</p></blockquote>
+
+رمان علمی تخیلی &quot;Three-Body&quot; (تلفظ چینی: `3Ti` ) تمدنی بیگانه را تخیلی به تصویر می کشد که از طریق امواج الکترومغناطیسی ارتباط برقرار می کند، هیچ مانع زبانی ندارد و از نظر فناوری موفق است.
+
+امیدوارم با کمک این ابزار، مردم زمین مانند سه تن باشند، ارتباط با زبان محدود نشود و همه بشریت دوباره متحد شوند.
 
 ## آموزش
 

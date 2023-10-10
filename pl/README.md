@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Język bez granic<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Myśli bez granic<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, wielojęzyczny generator stron statycznych, może automatycznie przetłumaczyć Markdown na [ponad sto różnych języków](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, wielojęzyczny generator stron statycznych, może automatycznie przetłumaczyć Markdown na [ponad sto różnych języków](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Niektórzy ludzie mogą chcieć zapytać, czy teraz, gdy przeglądarki mają wbudowane funkcje tłumaczenia, niepotrzebne jest umiędzynarodowienie witryny?
 
 Chcę powiedzieć, że **tylko poprzez internacjonalizację całej witryny możemy wspierać wielojęzyczne wyszukiwanie pełnotekstowe w witrynie i optymalizację wyszukiwarek** .
+
+## Sekwencja
+
+„Biblia·Geneza”:
+
+> Starożytni nie rozróżniali języków. Urodzili się z dumą i chcieli zbudować wysoką wieżę, której szczyt sięgałby nieba.
+> <blockquote><p>Bóg był niezadowolony z arogancji człowieka, więc rozproszył wszystkie żyjące istoty po różnych miejscach, nie mogąc się porozumieć.</p></blockquote>
+> <blockquote><p>Od tego czasu ludziom trudno się porozumieć, trwają spory, a na świecie nie ma Wieży Babel.</p></blockquote>
+
+Powieść science fiction „Trzy ciała” (chińska wymowa: `3Ti` ) fabularyzuje obcą cywilizację, która komunikuje się za pomocą fal elektromagnetycznych, nie ma barier językowych i jest zamożna technologicznie.
+
+Mam nadzieję, że za pomocą tego narzędzia ludzie na ziemi będą jak ludzie w trzech ciałach, komunikacja nie będzie ograniczona językiem, a cała ludzkość ponownie się zjednoczy.
 
 ## Instruktaż
 

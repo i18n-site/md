@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Kieli ilman rajoja<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Ajatuksia ilman rajoja<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, monikielinen staattinen sivustogeneraattori, voi kääntää Markdownin automaattisesti [yli sadalle eri kielelle](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, monikielinen staattinen sivustogeneraattori, voi kääntää Markdownin automaattisesti [yli sadalle eri kielelle](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Jotkut saattavat haluta kysyä, onko nyt tarpeetonta kansainvälistää verkkosivustoa, kun selaimissa on sisäänrakennetut käännöstoiminnot?
 
 Haluan sanoa, että **vain kansainvälistämällä koko sivusto voimme tukea monikielistä sivuston sisäistä kokotekstihakua ja hakukoneoptimointia** .
+
+## Järjestys
+
+"Raamattu · Genesis":
+
+> Muinaiset ihmiset eivät tehneet eroa kielien välillä. He syntyivät ylpeinä ja halusivat rakentaa korkean tornin, jonka huippu ulottuu taivaalle.
+> <blockquote><p>Jumala oli tyytymätön ihmisen ylimielisyyteen, joten hän hajotti kaikki elävät olennot eri paikkoihin, eivätkä kyenneet ymmärtämään toisiaan.</p></blockquote>
+> <blockquote><p>Siitä lähtien ihmisten on ollut vaikea kommunikoida, kiistat ovat jatkuneet, eikä Baabelin tornia ole maailmassa.</p></blockquote>
+
+Tieteiskirjallisuusromaani &quot;Three-Body&quot; (ääntäminen kiinaksi: `3Ti` ) fiktioi ulkomaalaisen sivilisaation, joka kommunikoi sähkömagneettisten aaltojen kautta, jolla ei ole kielimuuria ja joka on teknisesti vauras.
+
+Toivon, että tämän työkalun avulla maan ihmiset ovat kuin kolmiruumiisia ihmisiä, kieli ei rajoita viestintää ja koko ihmiskunta yhdistyy jälleen.
 
 ## Opastus
 

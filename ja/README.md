@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · 国境のない言語<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · 国境なき思考<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-多言語静的サイト ジェネレーターである I18N.SITE は、Markdown を[100 以上の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)に自動的に翻訳できます。
+多言語静的サイト ジェネレーターである 3Ti.Site は、Markdown を[100 以上の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)に自動的に翻訳できます。
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 ブラウザに翻訳機能が組み込まれているので、Web サイトを国際化する必要はないのではないかと疑問に思う人もいるかもしれません。
 
 **サイト全体を国際化することによってのみ、多言語のサイト内全文検索と検索エンジンの最適化をサポートできると**言いたいのです。
+
+## 順序
+
+『聖書・創世記』:
+
+> 古代人は言語を区別していませんでした。彼らは誇りを持って生まれ、頂上が天まで届く高い塔を建てたいと思っていました。
+> <blockquote><p>神は人間の傲慢さに不満を抱き、すべての生き物を互いに理解できないまま各地に散らしました。</p></blockquote>
+> <blockquote><p>それ以来、人間同士の意思疎通は難しく、争いは絶えず、世界にはバベルの塔は存在しませんでした。</p></blockquote>
+
+SF 小説「三体」（中国語発音: `3Ti` ）は、電磁波を通じて通信し、言語の壁がなく、技術的に繁栄している異星文明を架空の小説にしています。
+
+このツールの助けを借りて、地球の人々が三体の人間のようになり、コミュニケーションが言語によって制限されなくなり、すべての人類が再び団結することを願っています。
 
 ## チュートリアル
 

@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Luuqad aan xuduud lahayn<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Fikrado aan xuduud lahayn<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, dhaliyaha goobta taagan ee luuqadaha badan leh, ayaa si toos ah Markdown u tarjumi kara [in ka badan boqol luqadood oo kala duwan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, dhaliyaha goobta taagan ee luuqadaha badan leh, ayaa si toos ah Markdown ugu turjumi kara [in ka badan boqol luqadood oo kala duwan](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Dadka qaar ayaa laga yaabaa inay rabaan inay waydiiyaan, hadda daalacayaashu waxay leeyihiin hawlo tarjumaad ah, miyayna loo baahnayn in la caalamiyeeyo mareegaha?
 
 Waxaan rabaa in aan sheego in **kaliya caalamiyeynta goobta oo dhan aan ku taageeri karno raadinta qoraalka buuxa ee luqadaha badan ee goobta iyo hagaajinta mashiinka raadinta** .
+
+## Isku Xigxiga
+
+"Bible·Bilowgii":
+
+> Dadkii hore afafka ma kala saari jirin. Waxay ku dhasheen kibir, waxayna rabeen inay dhisaan daar dheer oo korkeedu cirka gaadho.
+> <blockquote><p>Eebbana wuu ka cadhooday isla waynidii bini-aadmiga, sidaa darteed wuxuu ku kala firdhiyey dhammaan nooleyaal meelo kala duwan, iyagoo aan is fahmi karin.</p></blockquote>
+> <blockquote><p>Tan iyo markaas, way ku adkeyd in bini&#39;aadamku wada xiriiraan, khilaafaadkuna wuu sii socday, mana jiro Tower of Baabel oo adduunka ku yaal.</p></blockquote>
+
+Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: `3Ti` ) waxay khayaaliyeed ka dhigtaa ilbaxnimada shisheeyaha ee ku wada xidhiidha mowjadaha elektromagnetic, ma laha caqabado luqadeed, waana barwaaqo tignoolajiyada.
+
+Waxaan rajeynayaa in iyadoo la kaashanayo qalabkan, dadka dhulku ay noqon doonaan sida dad saddex jir ah, isgaarsiintuna ma xaddidi doonto luqadda, dhammaan bani-aadmigana mar kale waa midoobaan.
 
 ## Waxbarashada
 

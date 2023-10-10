@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Mugarik gabeko hizkuntza<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Gunea · Mugarik gabeko pentsamenduak<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, hizkuntza anitzeko gune estatikoko sorgailuak, Markdown automatikoki itzul dezake [ehun hizkuntza ezberdin baino gehiagotara](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Sitek, hizkuntza anitzeko gune estatikoko sorgailuak, Markdown automatikoki itzul dezake [ehun hizkuntza ezberdin baino gehiagotara](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Batzuek galdetu nahiko lukete, orain arakatzaileek itzulpen funtzioak barneratuta dituztela, ez al da beharrezkoa webgunea nazioartekotzea?
 
 Esan nahi dut **gune osoa nazioartekotuz soilik onartzen ahal izango ditugula hizkuntza anitzeko guneko testu osoko bilaketa eta bilatzaileen optimizazioa** .
+
+## Sekuentzia
+
+"Biblia·Genesia":
+
+> Antzinakoek ez zituzten hizkuntzak bereizten. Harrotasunez jaio ziren eta goia zerura iristen zen dorre altu bat eraiki nahi zuten.
+> <blockquote><p>Jainkoa atsekabetzen zen gizakiaren harrokeriaz, beraz, izaki bizidun guztiak sakabanatu zituen hainbat tokitan, elkar ulertu ezinik.</p></blockquote>
+> <blockquote><p>Harrezkero, zaila izan da gizakiak komunikatzea, liskarrek jarraitu dute eta munduan ez dago Babeleko Dorrerik.</p></blockquote>
+
+&quot;Three-Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Ti` ) uhin elektromagnetikoen bidez komunikatzen den, hizkuntza-hesirik ez duen eta teknologikoki oparoa den zibilizazio arrotz bat fikzionatu du.
+
+Tresna honen laguntzaz, lurreko jendea hiru gorputzeko pertsonak bezalakoa izatea espero dut, komunikazioa hizkuntzak ez du mugarik izango eta gizadi osoa berriro elkartuko dela.
 
 ## Tutoretza
 

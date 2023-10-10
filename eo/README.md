@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Lingvo sen limoj<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Retejo · Pensoj sen limoj<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, plurlingva senmova reteja generatoro, povas aŭtomate traduki Markdown en [pli ol cent malsamajn lingvojn](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, plurlingva senmova reteja generatoro, povas aŭtomate traduki Markdown en [pli ol cent malsamajn lingvojn](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Iuj homoj eble volas demandi, nun kiam retumiloj havas enkonstruitajn tradukajn funkciojn, ĉu estas nenecese internaciigi la retejon?
 
 Mi volas diri, ke **nur internaciigante la tutan retejon ni povas subteni plurlingvan enretejan plentekstan serĉon kaj serĉilon-optimumigo** .
+
+## Sekvenco
+
+"Biblio · Genezo":
+
+> La antikvuloj ne distingis inter lingvoj. Ili naskiĝis kun fiero kaj volis konstrui altan turon kun la supro atinganta al la ĉielo.
+> <blockquote><p>Al Dio malplaĉis la aroganteco de la homo, do li disĵetis ĉiujn vivantajn estaĵojn en diversaj lokoj, ne povante interkompreniĝi.</p></blockquote>
+> <blockquote><p>Ekde tiam, al homoj estis malfacile komuniki, disputoj daŭris, kaj ne ekzistas Babeloturo en la mondo.</p></blockquote>
+
+La sciencfikcia romano &quot;Tri-korpoj&quot; (ĉine elparolo: `3Ti` ) fikciigas fremdan civilizon kiu komunikas per elektromagnetaj ondoj, havas neniujn lingvajn barojn, kaj estas teknologie prospera.
+
+Mi esperas, ke helpe de ĉi tiu ilo, la homoj de la tero estos kiel trikorpaj homoj, komunikado ne estos limigita de lingvo, kaj la tuta homaro denove kuniĝos.
 
 ## Lernilo
 

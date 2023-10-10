@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Serhetsiz dil<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Saýt · Serhetsiz pikirler<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-Köp dilli statiki saýt generatory I18N.SITE Markdown-dan [ýüzden gowrak dürli dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) awtomatiki terjime edip biler.
+Köp dilli statiki saýt generatory 3Ti.Site Markdown-dan [ýüzden gowrak dürli dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) terjime edip biler.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Käbir adamlar soramak isläp bilerler, indi brauzerlerde içerki terjime funksiýalary bar, web sahypasyny halkaralaşdyrmak zerur dälmi?
 
 **Diňe tutuş sahypany halkaralaşdyrmak arkaly köp dilli saýtda doly tekstli gözleg we gözleg motory optimizasiýasyny goldap boljakdygyny** aýtmak isleýärin.
+
+## Yzygiderlilik
+
+"Injil · Gelip çykyş":
+
+> Gadymylar dilleri tapawutlandyrmandyrlar. Olar buýsanç bilen doguldy we ýokarsy asmana ýetýän beýik diň gurmak isledi.
+> <blockquote><p>Hudaý adamyň ulumsylygyndan razy däldi, şonuň üçin ähli janly-jandarlary biri-birine düşünip bilmän dürli ýerlere dargatdy.</p></blockquote>
+> <blockquote><p>Şondan bäri adamlar bilen aragatnaşyk gurmak kyn boldy, jedeller dowam etdi we dünýäde Babel diňi ýok.</p></blockquote>
+
+Ylmy fantastika romany &quot;Üç beden&quot; (hytaýça aýdylyşy: `3Ti` ) elektromagnit tolkunlar arkaly aragatnaşyk saklaýan, dil päsgelçilikleri bolmadyk we tehnologiki taýdan gülläp ösýän keseki siwilizasiýany toslaýar.
+
+Bu guralyň kömegi bilen ýer ýüzündäki adamlar üç bedenli adamlar ýaly bolar, aragatnaşyk dil bilen çäklendirilmez we bütin adamzat ýene birleşer diýip umyt edýärin.
 
 ## Tutorial
 

@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Ulwimi olungenamida<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Iingcinga ezingenamida<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I-I18N.SITE, umvelisi wesiza esineelwimi ezininzi, unokuguqulela iMarkdown ngokuzenzekelayo kwiilwimi [ezingaphezu kwekhulu ezahlukeneyo](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+I-3Ti.Site, isiza sokuvelisa esineelwimi ezininzi, singatolika iMarkdown ngokuzenzekelayo kwiilwimi [ezingaphezu kwekhulu ezahlukeneyo](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Abanye abantu banokufuna ukubuza, ngoku ekubeni izikhangeli zinemisebenzi yoguqulo eyakhelwe-ngaphakathi, ngaba akuyomfuneko ukwenza iwebhusayithi ibe yeyamazwe ngamazwe?
 
 Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase uphendlo lweelwimi ezininzi ezikwisayithi nokubhaliweyo okugcweleyo kunye nokwandisa injini yokukhangela** .
+
+## Ulandelelwano
+
+"IBhayibhile · Genesis":
+
+> Abantu bamandulo babengahluli phakathi kweelwimi. Bazalwa benekratshi yaye bafuna ukwakha inqaba ende encopho ifikelela esibhakabhakeni.
+> <blockquote><p>UThixo ke wakruquka kukukhukhumala komntu, wachithachitha yonke imiphefumlo ephilileyo ezindaweni ngeendawo, ukuba zingakwazi ukuqondana.</p></blockquote>
+> <blockquote><p>Ukususela ngoko, bekunzima ukuba abantu banxibelelane, iingxabano ziye zaqhubeka, yaye ayikho iNqaba yeBhabheli ehlabathini.</p></blockquote>
+
+Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina: `3Ti` ) ivelisa impucuko yasemzini enxibelelana ngamaza ombane wombane, ayinamiqobo yolwimi, kwaye inempumelelo kubuchwepheshe.
+
+Ndiyathemba ukuba ngoncedo lwesi sixhobo, abantu bomhlaba baya kuba njengabantu abanemizimba emithathu, unxibelelwano aluyi kuthintelwa lulwimi, kwaye lonke uluntu luya kumanyana kwakhona.
 
 ## Isifundo
 

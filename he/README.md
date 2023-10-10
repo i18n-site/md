@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">I18N.SITE · שפה ללא גבולות<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · מחשבות ללא גבולות<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, מחולל אתרים סטטי רב שפות, יכול לתרגם אוטומטית את Markdown [ליותר ממאה שפות שונות](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, מחולל אתרים סטטי רב שפות, יכול לתרגם את Markdown אוטומטית [ליותר ממאה שפות שונות](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 יש אנשים שירצו לשאול, עכשיו שלדפדפנים יש פונקציות תרגום מובנות, האם זה מיותר לבצע אינטרנציונל של האתר?
 
 אני רוצה לומר שרק **על ידי אינטרנציונל של האתר כולו נוכל לתמוך בחיפוש טקסט מלא רב-לשוני באתר ובאופטימיזציה למנועי חיפוש** .
+
+## סדר פעולות
+
+"תנ"ך · בראשית":
+
+> הקדמונים לא הבחינו בין שפות. הם נולדו בגאווה ורצו לבנות מגדל גבוה שהפסגה מגיעה עד השמים.
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">אלוהים לא היה מרוצה מהיהירות של האדם, אז הוא פיזר את כל היצורים החיים במקומות שונים, בלי יכולת להבין זה את זה.</p></blockquote>
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">מאז, היה קשה לבני אדם לתקשר, המחלוקות נמשכו, ואין מגדל בבל בעולם.</p></blockquote>
+
+רומן המדע הבדיוני &quot;שלושה גופים&quot; (הגייה בסינית: `3Ti` ) מציג ציוויליזציה חייזרית המתקשרת באמצעות גלים אלקטרומגנטיים, אין לה מחסומי שפה ומשגשגת מבחינה טכנולוגית.
+
+אני מקווה שבעזרת הכלי הזה, אנשי כדור הארץ יהיו כמו אנשים בעלי שלושה גופים, התקשורת לא תוגבל בשפה, וכל האנושות תתאחד שוב.
 
 ## הדרכה
 

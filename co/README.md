@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Lingua senza cunfini<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Pensieri senza frontiere<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, un generatore di siti statici multilingue, pò traduce automaticamente Markdown in [più di centu lingue diverse](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, un generatore di siti statici multilingue, pò traduce automaticamente Markdown in [più di centu lingue diverse](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Qualchidunu pò vulete dumandà, avà chì i navigatori anu una funzione di traduzzione integrata, ùn hè micca necessariu d'internazionalizà u situ web?
 
 Vogliu dì chì **solu per l&#39;internazionalizazione di u situ sanu pudemu sustene a ricerca multilingue in-situ in u testu pienu è l&#39;optimizazione di u mutore di ricerca** .
+
+## Sequenza
+
+"Bibbia · Genesi":
+
+> L'antichi ùn distinguevanu trà e lingue. Sò nati cun orgogliu è vulianu custruisce una torre alta cù a cima chì ghjunghje sin'à u celu.
+> <blockquote><p>Diu era dispiaciutu cù l&#39;arroganza di l&#39;omu, cusì hà spargugliatu tutti l&#39;esseri viventi in parechji lochi, incapaci di capiscenu.</p></blockquote>
+> <blockquote><p>Da tandu, hè statu difficiule per l&#39;omu di cumunicà, i disputi anu cuntinuatu, è ùn ci hè micca Torre di Babele in u mondu.</p></blockquote>
+
+U rumanzu di fantascienza &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) fictionalizes una civilisazione straniera chì cumunica per mezu di onde elettromagnetiche, ùn hà micca barriere linguistiche, è hè tecnologicamente prusperu.
+
+Spergu chì cù l'aiutu di stu strumentu, u populu di a terra serà cum'è persone di trè corpi, a cumunicazione ùn serà micca limitata da a lingua, è tutta l'umanità serà unita di novu.
 
 ## Tutorial
 

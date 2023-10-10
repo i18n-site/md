@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Piirideta keel<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Piirideta mõtted<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, mitmekeelne staatiline saidigeneraator, suudab Markdowni automaatselt tõlkida [enam kui saja erinevasse keelde](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, mitmekeelne staatiline saidigeneraator, suudab Markdowni automaatselt tõlkida [enam kui sajasse erinevasse keelde](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Mõned inimesed võivad küsida, kas nüüd, kui brauseritel on sisseehitatud tõlkefunktsioonid, pole vaja veebisaiti rahvusvahelistuda?
 
 Tahan öelda, et **ainult kogu saidi rahvusvahelistumisega saame toetada mitmekeelset saidisisest täistekstiotsingut ja otsingumootoritele optimeerimist** .
+
+## Jada
+
+"Piibel · Genesis":
+
+> Vanad inimesed ei teinud keeltel vahet. Nad sündisid uhkusega ja tahtsid ehitada kõrge torni, mille tipp ulatub taeva poole.
+> <blockquote><p>Jumalale ei meeldinud inimeste kõrkus, mistõttu ta hajutas kõik elusolendid erinevatesse kohtadesse, suutmata üksteist mõista.</p></blockquote>
+> <blockquote><p>Sellest ajast peale on inimestel olnud raske suhelda, vaidlused on jätkunud ja maailmas pole Paabeli torni.</p></blockquote>
+
+Ulmeromaan &quot;Kolm keha&quot; (Hiina hääldus: `3Ti` ) kujutab endast välja tulnukat tsivilisatsiooni, mis suhtleb elektromagnetlainete kaudu, millel puuduvad keelebarjäärid ja mis on tehnoloogiliselt jõukas.
+
+Loodan, et selle tööriista abil on maa inimesed nagu kolmekehalised, suhtlemist keel ei piira ja kogu inimkond on taas ühendatud.
 
 ## Õpetus
 

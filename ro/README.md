@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Limbă fără margini<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Gânduri fără margini<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, un generator de site-uri static în mai multe limbi, poate traduce automat Markdown în [mai mult de o sută de limbi diferite](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, un generator de site-uri static în mai multe limbi, poate traduce automat Markdown în [mai mult de o sută de limbi diferite](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Unii oameni ar dori să întrebe, acum că browserele au funcții de traducere încorporate, nu este necesară internaționalizarea site-ului?
 
 Vreau să spun că **numai prin internaționalizarea întregului site putem susține căutarea în text integral în mai multe limbi și optimizarea motoarelor de căutare** .
+
+## Secvenţă
+
+„Biblie·Geneza”:
+
+> Anticii nu făceau distincție între limbi. Ei s-au născut cu mândrie și au vrut să construiască un turn înalt, cu vârful până la cer.
+> <blockquote><p>Dumnezeu a fost nemulțumit de aroganța omului, așa că a împrăștiat toate ființele vii în diverse locuri, neputând să se înțeleagă.</p></blockquote>
+> <blockquote><p>De atunci, oamenilor le-a fost greu să comunice, disputele au continuat și nu există Turnul Babel în lume.</p></blockquote>
+
+Romanul științifico-fantastic „Three-Body” (pronunție chineză: `3Ti` ) ficționalizează o civilizație extraterestră care comunică prin unde electromagnetice, nu are bariere lingvistice și este prosperă din punct de vedere tehnologic.
+
+Sper că, cu ajutorul acestui instrument, oamenii pământului vor fi ca oameni cu trei corpuri, comunicarea nu va fi restricționată de limbaj și toată omenirea va fi din nou unită.
 
 ## Tutorial
 

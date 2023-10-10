@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Monoko oyo ezangi ndelo<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Makanisi ezanga ndelo<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, générateur ya site statique ya minoko mingi, ekoki kobongola na ndenge ya automatique Markdown na [minoko koleka nkama ekeseni](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, générateur ya site statique ya minoko ebele, ekoki kobongola automatiquement Markdown na [minoko koleka nkama ekeseni](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Bato mosusu bakoki kotuna, sikoyo lokola ba navigateurs ezali na misala ya kobongola oyo etongami na kati, ezali na ntina te kosala ete site Internet yango ezala na mikili mosusu?
 
 Nalingi koloba ete **kaka na internationalisation ya site mobimba nde tokoki ko soutenir multi-lingual in-site recherche ya texte mobimba mpe optimisation ya moteur de recherche** .
+
+## Ndenge Esalemaka
+
+"Biblia·Ebandeli".:
+
+> Bato ya kala bazalaki kokesenisa minɔkɔ te. Babotamaki na lolendo mpe balingaki kotonga ndako molai oyo nsɔngɛ na yango ekómaki tii na likoló.
+> <blockquote><p>Nzambe asepelaki te na lolendo ya moto, yango wana apalanganisaki bikelamu nyonso ya bomoi na bisika ndenge na ndenge, kozanga kokoka kososolana.</p></blockquote>
+> <blockquote><p>Banda wana, ezalaki mpasi mpo bato básolola, matata ezali kokoba, mpe Linɔ́ngi ya Babele ezali te na mokili.</p></blockquote>
+
+Roman ya science fiction &quot;Tree-Body&quot; (prononciation chinois: `3Ti` ) e fictionaliser civilisation alienne oyo e communiquer na nzela ya ba mbonge électromagnétique, ezali na ba barrières ya langue te, mpe ezali na prospère technologique.
+
+Nazali na elikya ete na lisalisi ya esaleli oyo, bato ya mabele bakozala lokola bato ya nzoto misato, bosololi ekopekisama na monoko te, mpe bato banso bakosangana lisusu.
 
 ## Mateya Ya Koyekola
 

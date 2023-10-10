@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Lenguahe nga awan ti beddeng<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Pampanunot nga awan beddeng<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-Ti I18N.SITE, ti adu a pagsasao nga estatiko a site generator, ket automatiko a makaipatarus iti Markdown iti [nasurok a sangagasut a nadumaduma a pagsasao](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, maysa a multi-language static site generator, ket automatiko nga ipatarusna ti Markdown iti [nasurok a sangagasut a nadumaduma a pagsasao](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Mabalin a kayat ti dadduma a tattao ti agsaludsod, ita ta addaan dagiti browser kadagiti naibangon a panagandar ti panagipatarus, saan kadi a kasapulan nga internasionalisaren ti website?
 
 Kayatko nga ibaga a **babaen laeng ti pananginternasional iti intero a site a suportarantayo ti multi-lingual in-site full-text search ken search engine optimization** .
+
+## Panagsasaruno
+
+"Biblia·Genesis":
+
+> Saan a naglasin dagiti nagkauna a pagsasao. Naipasngayda a natangsit ken kayatda ti mangbangon iti natayag a torre a ti tuktokna ket dumanon iti langit.
+> <blockquote><p>Saan a naay-ayo ti Dios iti kinatangsit ti tao, isu nga inwarasna amin a sibibiag a parsua iti nadumaduma a lugar, a di makaawat iti tunggal maysa.</p></blockquote>
+> <blockquote><p>Sipud idin, narigaten ti makikomunikar dagiti tattao, nagtultuloy dagiti riri, ken awanen ti Torre ti Babel iti lubong.</p></blockquote>
+
+Ti nobela ti siensia a piksion a &quot;Tallo-a-Bagi&quot; (Insik a panagibalikas: `3Ti` ) ket piksionario ti maysa a ganggannaet a sibilisasion a makikomunikar babaen dagiti elektromagnetiko nga allon, awan dagiti lapped ti pagsasao, ken narang-ay iti teknolohia.
+
+Sapay koma ta babaen ti tulong daytoy nga alikamen, dagiti tattao ditoy daga ket kasla tallo ti bagina a tattao, saanton a lapdan ti komunikasion babaen ti pagsasao, ken agkaykaysa manen ti amin a sangatauan.
 
 ## Tutorial
 

@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Afaan daangaa hin qabne<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Yaada daangaa hin qabne<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, jenereetarii saayitii istaatiksii afaanota hedduu, ofumaan Markdown gara [afaanota adda addaa dhibbaa ol ta&#39;etti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) hiikuu danda&#39;a .
+3Ti.Site, afaanota hedduu kan ta&#39;e jenereetarii saayitii istaatiksii, ofumaan Markdown gara [afaanota adda addaa dhibbaa ol ta&#39;etti](https://github.com/i18n-site/node/blob/main/lang/src/index.js) hiikuu danda&#39;a .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Namoonni tokko tokko gaafachuu barbaadu ta’a, amma browsers functions hiikkaa of keessaa qaba, marsariiticha idil-addunyaa gochuun hin barbaachisuu?
 
 Ani akkan jechuu **barbaadu, guutummaa marsariitichaa idil-addunyaa gochuu qofaan afaanota hedduu in-site full-text search fi search engine optimization** .
+
+## Tartiiba
+
+"Macaafa Qulqulluu·Seera Uumamaa".:
+
+> Warri durii afaanota addaan hin baasan turan. Boonsaan dhalatanii masaraa dheeraa gubbaan isaa hanga samiitti gahu ijaaruu barbaadan.
+> <blockquote><p>Waaqayyo of tuulummaa namaatti waan hin gammanneef, lubbu qabeeyyii hunda bakka adda addaatti facaase, wal hubachuu dadhabe.</p></blockquote>
+> <blockquote><p>Ergasii as ilmaan namootaa waliin wal qunnamuun rakkisaa ta’eera, waldhabdeen itti fufee jira, addunyaa kanarras Masaraan Baabel hin jiru.</p></blockquote>
+
+Asoosamni asoosama saayinsii &quot;Three-Body&quot; (Sagalee Chaayinaa: `3Ti` ) qaroomina alagaa karaa dalga elektiromaagneetikii walqunnamsiisu, danqaa afaanii hin qabnee fi teeknooloojiin badhaadhina qabu asoosama.
+
+Gargaarsa meeshaa kanaatiin ummanni lafaa akka namoota qaama sadii ta’ee, walqunnamtiin afaaniin akka hin daangeffamne, ilmi namaa hundi deebi’ee akka tokko ta’u abdiin qaba.
 
 ## Barnoota
 

@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">I18N.SITE · لغة بلا حدود<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · خواطر بلا حدود<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-يمكن لـ I18N.SITE، وهو منشئ مواقع ثابتة متعدد اللغات، ترجمة Markdown تلقائيًا إلى [أكثر من مائة لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+يمكن لـ 3Ti.Site، وهو منشئ مواقع ثابتة متعدد اللغات، ترجمة Markdown تلقائيًا إلى [أكثر من مائة لغة مختلفة](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 قد يرغب بعض الأشخاص في التساؤل، بعد أن أصبحت المتصفحات تحتوي على وظائف ترجمة مدمجة، هل من الضروري تدويل الموقع؟
 
 أريد أن أقول أنه **فقط من خلال تدويل الموقع بأكمله يمكننا دعم البحث عن النص الكامل متعدد اللغات في الموقع وتحسين محرك البحث** .
+
+## تسلسل
+
+"الكتاب المقدس · سفر التكوين":
+
+> ولم يميز القدماء بين اللغات. لقد ولدوا بفخر وأرادوا بناء برج طويل يصل قمته إلى السماء.
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">استاء الله من كبرياء الإنسان، فشتت جميع الكائنات الحية في أماكن مختلفة، غير قادرة على فهم بعضها البعض.</p></blockquote>
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">ومنذ ذلك الحين، أصبح من الصعب على البشر التواصل، واستمرت الخلافات، ولا يوجد برج بابل في العالم.</p></blockquote>
+
+رواية الخيال العلمي &quot;ثلاثة أجسام&quot; (النطق الصيني: `3Ti` ) تصور حضارة غريبة تتواصل من خلال الموجات الكهرومغناطيسية، وليس لديها حواجز لغوية، وهي مزدهرة من الناحية التكنولوجية.
+
+آمل أنه بمساعدة هذه الأداة، سيصبح سكان الأرض مثل الأشخاص الثلاثة، ولن يتم تقييد التواصل باللغة، وسوف تتحد البشرية جمعاء مرة أخرى.
 
 ## درس تعليمي
 

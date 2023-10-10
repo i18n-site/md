@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Gjuhë pa kufij<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Mendime pa kufi<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, një gjenerues i faqeve statike me shumë gjuhë, mund të përkthejë automatikisht Markdown në [më shumë se njëqind gjuhë të ndryshme](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, një gjenerues i faqeve statike me shumë gjuhë, mund të përkthejë automatikisht Markdown në [më shumë se njëqind gjuhë të ndryshme](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Disa njerëz mund të duan të pyesin, tani që shfletuesit kanë funksione të integruara përkthimi, a është e panevojshme ndërkombëtarizimi i faqes së internetit?
 
 Dua të them se **vetëm duke ndërkombëtarizuar të gjithë sajtin mund të mbështesim kërkimin me tekst të plotë në faqe shumëgjuhëshe dhe optimizimin e motorëve të kërkimit** .
+
+## Sekuenca
+
+"Bibla · Zanafilla":
+
+> Të lashtët nuk bënin dallime midis gjuhëve. Ata lindën me krenari dhe donin të ndërtonin një kullë të lartë me majën që arrinte deri në qiell.
+> <blockquote><p>Zoti ishte i pakënaqur me arrogancën e njeriut, kështu që ai i shpërndau të gjitha gjallesat në vende të ndryshme, të paaftë për të kuptuar njëra-tjetrën.</p></blockquote>
+> <blockquote><p>Që atëherë, ka qenë e vështirë për njerëzit të komunikojnë, mosmarrëveshjet kanë vazhduar dhe nuk ka Kullë të Babelit në botë.</p></blockquote>
+
+Romani fantastiko-shkencor &quot;Tre-trupi&quot; (shqiptimi kinez: `3Ti` ) imagjinon një qytetërim alien që komunikon përmes valëve elektromagnetike, nuk ka barriera gjuhësore dhe është teknologjikisht i begatë.
+
+Shpresoj që me ndihmën e këtij mjeti, njerëzit e tokës do të jenë si njerëz me tre trupa, komunikimi nuk do të kufizohet nga gjuha dhe i gjithë njerëzimi do të bashkohet përsëri.
 
 ## Tutorial
 

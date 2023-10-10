@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Gagana e leai ni tuaoi<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Mafaufauga e leai se tuaoi<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, o le tele-gagana static site generator, e mafai ona faaliliu otometi Markdown i [le silia ma le selau gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, o le tele-gagana static site generator, e mafai ona otometi ona faaliliuina Markdown i [le silia ma le selau gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Atonu e fia fesili nisi tagata, o lea ua i ai i tagata suʻesuʻe ni galuega faaliliu, e le manaʻomia ea le faʻavaomaloina o le upega tafaʻilagi?
 
 Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e mafai ai ona matou lagolagoina le tele-gagana i totonu o le upega tafaʻilagi suʻesuʻega atoa ma suʻesuʻega afi suʻesuʻe** .
+
+## Fa'asologa
+
+“Tusi Paia·Kenese”:
+
+> E le'i iloa e tagata anamua le eseesega o gagana. Na fananau mai i latou ma le faamaualuga ma mananao e fausia se olo maualuga e oo i le lagi le tumutumu.
+> <blockquote><p>Na le fiafia le Atua i le faasausili o le tagata, o lea na ia faataapeapeina ai mea ola uma i nofoaga eseese, e le mafai ona malamalama le tasi i le isi.</p></blockquote>
+> <blockquote><p>Talu mai lenā taimi, ua faigatā ona fesootaʻi tagata, ua faaauau pea feeseeseaʻiga, ma ua leai se Olo o Papelu i le lalolagi.</p></blockquote>
+
+O le tala fa&#39;asaienisi talafatu &quot;Three-Body&quot; (Saina fa&#39;auiga: `3Ti` ) fa&#39;ata&#39;oto se tagata mai fafo e feso&#39;ota&#39;i e ala i galu electromagnetic, e leai ni pa puipui o le gagana, ma o lo&#39;o manuia fa&#39;atekonolosi.
+
+Ou te faamoemoe o le fesoasoani a lenei meafaigaluega, o le a avea ai tagata o le lalolagi e pei o ni tagata tino-tolu, o le a le faatapulaaina fesootaiga e le gagana, ma o le a toe tuufaatasia tagata uma.
 
 ## A'oa'oga
 

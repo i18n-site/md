@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Chegarasiz til<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Chegarasiz fikrlar<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, ko&#39;p tilli statik sayt generatori Markdownni avtomatik ravishda [yuzdan ortiq turli tillarga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tarjima qilishi mumkin.
+3Ti.Site, ko&#39;p tilli statik sayt generatori Markdownni avtomatik ravishda [yuzdan ortiq turli tillarga](https://github.com/i18n-site/node/blob/main/lang/src/index.js) tarjima qilishi mumkin.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Ba'zi odamlar so'rashlari mumkin, endi brauzerlarda o'rnatilgan tarjima funktsiyalari mavjud, veb-saytni xalqarolashtirish kerak emasmi?
 
 Aytmoqchimanki **, faqat butun saytni xalqarolashtirish orqali biz ko&#39;p tilli sayt ichidagi to&#39;liq matnli qidiruv va qidiruv tizimini optimallashtirishni qo&#39;llab-quvvatlashimiz mumkin** .
+
+## Ketma-Ketlik
+
+"Injil · Ibtido":
+
+> Qadimgi odamlar tillarni farqlashmagan. Ular g'urur bilan tug'ilganlar va tepasi osmonga yetadigan baland minora qurishni xohlashgan.
+> <blockquote><p>Xudo insonning takabburligidan norozi bo&#39;lib, barcha tirik mavjudotlarni bir-birini tushuna olmay, turli joylarga tarqatib yubordi.</p></blockquote>
+> <blockquote><p>O&#39;shandan beri odamlar uchun muloqot qilish qiyin bo&#39;ldi, tortishuvlar davom etdi va dunyoda Bobil minorasi yo&#39;q.</p></blockquote>
+
+“Uch tana” (xitoycha talaffuzi: `3Ti` ) ilmiy-fantastik romani elektromagnit to‘lqinlar orqali muloqot qiladigan, til to‘siqlariga ega bo‘lmagan va texnologik jihatdan gullab-yashnayotgan begona sivilizatsiyani o‘ylab topadi.
+
+Umid qilamanki, bu vosita yordamida yer yuzidagi odamlar uch tanali odamlardek bo‘ladi, muloqot til bilan cheklanmaydi, butun insoniyat yana birlashadi.
 
 ## Oʻquv Qoʻllanma
 

@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Sınır tanımayan dil<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Sınır tanımayan düşünceler<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-Çok dilli bir statik site oluşturucu olan I18N.SITE, Markdown&#39;ı [yüzden fazla farklı dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) otomatik olarak çevirebilir.
+Çok dilli bir statik site oluşturucu olan 3Ti.Site, Markdown&#39;ı [yüzden fazla farklı dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) otomatik olarak çevirebilir.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Bazı insanlar, artık tarayıcıların yerleşik çeviri işlevlerine sahip olduğuna göre, web sitesini uluslararası hale getirmenin gereksiz olup olmadığını sormak isteyebilir.
 
 **Çok dilli site içi tam metin arama ve arama motoru optimizasyonunu ancak sitenin tamamını uluslararası hale getirerek destekleyebileceğimizi** söylemek istiyorum.
+
+## Sekans
+
+"İncil·Genesis":
+
+> Eskiler diller arasında ayrım yapmıyorlardı. Gururla doğmuşlardı ve tepesi gökyüzüne kadar uzanan yüksek bir kule inşa etmek istiyorlardı.
+> <blockquote><p>Allah, insanın kibrinden hoşlanmamış, bu yüzden bütün canlıları birbirlerini anlayamayacak şekilde çeşitli yerlere dağıtmıştır.</p></blockquote>
+> <blockquote><p>O günden bu yana insanların iletişim kurması zorlaştı, anlaşmazlıklar devam etti ve dünyada Babil Kulesi yok.</p></blockquote>
+
+Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektromanyetik dalgalar aracılığıyla iletişim kuran, dil engeli olmayan ve teknolojik açıdan zengin bir uzaylı uygarlığını kurguluyor.
+
+Umuyorum ki bu alet sayesinde dünya insanları üç vücutlu insanlar gibi olacak, iletişim dille sınırlı kalmayacak ve tüm insanlık yeniden birlik olacaktır.
 
 ## Öğretici
 

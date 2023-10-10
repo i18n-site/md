@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Bahasa tanpa sempadan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Pemikiran tanpa sempadan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, penjana tapak statik berbilang bahasa, secara automatik boleh menterjemah Markdown ke dalam [lebih daripada seratus bahasa berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, penjana tapak statik berbilang bahasa, secara automatik boleh menterjemah Markdown ke [lebih daripada seratus bahasa yang berbeza](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Sesetengah orang mungkin ingin bertanya, sekarang pelayar mempunyai fungsi terjemahan terbina dalam, adakah tidak perlu untuk mengantarabangsakan tapak web?
 
 Saya ingin mengatakan bahawa **hanya dengan mengantarabangsakan keseluruhan tapak kami boleh menyokong carian teks penuh dalam tapak berbilang bahasa dan pengoptimuman enjin carian** .
+
+## Urutan
+
+"Bible·Genesis":
+
+> Orang dahulu tidak membezakan antara bahasa. Mereka dilahirkan dengan rasa bangga dan ingin membina menara tinggi dengan puncaknya mencecah langit.
+> <blockquote><p>Allah tidak redha dengan kesombongan manusia, maka Dia mencerai-beraikan semua yang bernyawa di berbagai tempat, tidak dapat memahami satu sama lain.</p></blockquote>
+> <blockquote><p>Sejak itu, sukar bagi manusia untuk berkomunikasi, perselisihan berterusan, dan tidak ada Menara Babel di dunia.</p></blockquote>
+
+Novel fiksyen sains &quot;Three-Body&quot; (sebutan bahasa Cina: `3Ti` ) menyifatkan tamadun asing yang berkomunikasi melalui gelombang elektromagnet, tidak mempunyai halangan bahasa, dan makmur dari segi teknologi.
+
+Saya berharap dengan bantuan alat ini, penduduk bumi akan menjadi seperti orang tiga badan, komunikasi tidak akan disekat oleh bahasa, dan semua manusia akan bersatu kembali.
 
 ## Tutorial
 

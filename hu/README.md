@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Nyelv határok nélkül<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Gondolatok határok nélkül<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-Az I18N.SITE egy többnyelvű statikus webhelygenerátor, amely automatikusan le tudja fordítani a Markdown-t [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+A 3Ti.Site egy többnyelvű statikus webhelygenerátor, amely automatikusan le tudja fordítani a Markdown-t [több mint száz különböző nyelvre](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Néhányan feltehetik a kérdést, hogy most, hogy a böngészők beépített fordítási funkcióval rendelkeznek, nem szükséges-e nemzetközivé tenni a webhelyet?
 
 Azt akarom mondani, hogy **csak a teljes webhely nemzetközivé tételével tudjuk támogatni a többnyelvű webhelyen belüli teljes szöveges keresést és a keresőoptimalizálást** .
+
+## Sorrend
+
+"Biblia · Genesis":
+
+> A régiek nem tettek különbséget a nyelvek között. Büszkén születtek, és magas tornyot akartak építeni, melynek teteje az égig ér.
+> <blockquote><p>Istennek nem tetszett az ember arroganciája, ezért minden élőlényt szétszórt különböző helyeken, nem tudták megérteni egymást.</p></blockquote>
+> <blockquote><p>Azóta nehezen kommunikálnak az emberek, folytatódnak a viták, és nincs Bábel tornya a világon.</p></blockquote>
+
+A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokon keresztül kommunikál, nincs nyelvi akadálya, és technológiailag virágzó.
+
+Remélem, hogy ennek az eszköznek a segítségével a földi emberek olyanok lesznek, mint a háromtestűek, a kommunikációt nem korlátozza a nyelv, és újra egyesül az egész emberiség.
 
 ## Oktatóanyag
 

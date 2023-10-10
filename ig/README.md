@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Asụsụ enweghị oke<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Echiche enweghị oke<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, onye na-emepụta saịtị static asụsụ ọtụtụ asụsụ, nwere ike ịtụgharị Markdown na-akpaghị aka ka ọ bụrụ [asụsụ karịrị narị asụsụ dị iche iche](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, onye na-emepụta saịtị static asụsụ ọtụtụ asụsụ, nwere ike ịtụgharị Markdown na-akpaghị aka n&#39;ime [ihe karịrị narị asụsụ dị iche iche](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Ụfọdụ ndị nwere ike ịjụ, ugbu a ihe nchọgharị nwere arụ ọrụ ntụgharị asụsụ, ọ dịghị mkpa ịmegharị webụsaịtị mba ụwa?
 
 Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka anyị nwere ike ịkwado nchọta ederede zuru oke na saịtị multilingual na njikarịcha search engine** .
+
+## Usoro
+
+"Bible·Jenesis":
+
+> Ndị ochie aghọtaghị ihe dị iche n’asụsụ. A mụrụ ha na mpako, ha chọkwara ịrụ ụlọ elu toro ogologo nke elu ya ruru n'eluigwe.
+> <blockquote><p>Chineke wedara npako madu iwe, ya mere o we chusa ihe nile di ndu n&#39;ebe di iche iche, n&#39;enweghi ike ighọta onwe-ha.</p></blockquote>
+> <blockquote><p>Kemgbe ahụ, ọ na-esiri ụmụ mmadụ ike ịna-ekwurịta okwu, esemokwu ka na-aga n’ihu, e nweghị Ụlọ Elu Bebel n’ụwa.</p></blockquote>
+
+Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation Chinese: `3Ti` ) na-akọwapụta echiche efu nke mba ọzọ nke na-ekwurịta okwu site na ebili mmiri electromagnetic, enweghị ihe mgbochi asụsụ, ma nwee ọganihu na nkà na ụzụ.
+
+Enwere m olileanya na site n'enyemaka nke ngwá ọrụ a, ndị bi n'ụwa ga-adị ka mmadụ atọ, a gaghị egbochi nkwurịta okwu site n'asụsụ, a ga-ejikọtakwa mmadụ nile ọzọ.
 
 ## Nkuzi
 

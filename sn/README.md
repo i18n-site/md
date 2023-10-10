@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Mutauro usina miganhu<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Pfungwa dzisina miganhu<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, jenareta yesaiti yemitauro yakawanda, inogona kushandura yega Markdown [mumitauro inopfuura zana yakasiyana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, jenareta yesaiti yemitauro yakawanda, inokwanisa kushandura Markdown [mumitauro inodarika zana yakasiyana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Vamwe vanhu vangangoda kubvunza, sezvo mabhurawuza ane akavakirwa-mukati mabasa eshanduro, hazvina basa here kuita kuti webhusaiti iyi ive nenyika?
 
 Ndinoda kutaura kuti **nekuita saiti yese pasi rese tinogona kutsigira mitauro yakawanda-in-saiti yakazara-zvinyorwa kutsvaga uye kutsvaga injini optimization** .
+
+## Zvinoteverana
+
+"Bhaibheri Genesisi":
+
+> Vanhu vekare vaisasiyanisa mitauro. Vakaberekwa vachizvikudza uye vaida kuvaka shongwe refu ine musoro unosvika kudenga.
+> <blockquote><p>Mwari haana kufadzwa nokuzvikudza kwomunhu, saka akaparadzira zvisikwa zvipenyu munzvimbo dzakasiyana-siyana, zvisingakwanisi kunzwisisa mumwe nomumwe.</p></blockquote>
+> <blockquote><p>Kubvira ipapo, kwave kwakaomera vanhu kukurukura, kukakavadzana kwakapfuurira, uye hakuna Shongwe yeBhabheri munyika.</p></blockquote>
+
+Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Ti` ) inofungidzira budiriro yevatorwa inotaurirana kuburikidza nemasaisai emagetsi, haina zvipingamupinyi zvemutauro, uye yakabudirira muhunyanzvi.
+
+Ndinovimba kuti nerubatsiro rwechishandiso ichi, vanhu vepanyika vachava sevanhu vane miviri mitatu, kukurukurirana hakuzoganhurirwi nemutauro, uye vanhu vose vachabatanidzwa zvakare.
 
 ## Tutorial
 

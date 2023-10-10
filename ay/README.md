@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITIO · Jani qunuñani aru<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Amuyunakax jan fronteranakaniwa<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, walja arunakan sitio estático generador, ukax Markdown [ukax patak jila arunakaruw](https://github.com/i18n-site/node/blob/main/lang/src/index.js) jaqukipaspa .
+3Ti.Site, walja arunakan sitio estático generador ukax Markdown ukax [patak jila arunakaruw](https://github.com/i18n-site/node/blob/main/lang/src/index.js) jaqukipaspa .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Yaqhip jaqinakax jiskt’asiñ munapxaspaw, jichhax navegadores ukanakax jaqukipañ lurawinakaniwa, ¿janit sitio web ukar internacionalización lurañax wakiskiti?
 
 Nayax sañ muntwa **, taqpach sitio ukar internacionalización ukampikiw walja arunakan sitio ukan taqpach qillqat thaqhañ ukhamarak motor de búsqueda optimización ukar yanapt’sna** .
+
+## Sikunsya
+
+"Biblia·Génesis qillqata".:
+
+> Nayra jaqinakax janiw arunak yaqhachapkänti. Jupanakax jach’a jach’a tukusaw yuripxäna ukat mä jach’a torre lurañ munapxäna, patat alaxpachar puriñkama.
+> <blockquote><p>Diosax jaqin jach’a jach’a tukutapatxa janiw walïkänti, ukatwa taqi jakirinakaruw kunayman chiqanakar ch’iqiyäna, janiw maynit maynikam amuyañjamäkänti.</p></blockquote>
+> <blockquote><p>Ukhat aksarojja, jaqenakatakejj parltʼasiñajj chʼamakïjjänwa, chʼajjwañanakas utjaskakiwa, ukat akapachanjja janiw Torre de Babel sat torrejj utj-jjeti.</p></blockquote>
+
+Novela de ciencia ficción &quot;Kimsa Cuerpo&quot; (chino aruchja: `3Ti` ) ukax mä civilización extranjera ukar uñt&#39;ayi, ukax olas electromagnéticas ukanakampiw aruskipt&#39;i, janiw arut jark&#39;atäkiti, ukatx tecnología tuqitx wali ch&#39;amanchatawa.
+
+Nayax suyt’twa, aka yän yanapt’apampixa, aka uraqin jaqinakax kimsa janchini jaqinakjamaw tukupxani, aruskipt’añax janiw arumpi jark’atäkaniti, ukat taqi jaqinakaw wasitat mayacht’asipxani.
 
 ## Yatichäwi
 

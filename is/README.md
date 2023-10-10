@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between">I18N.SITE · Tungumál án landamæra<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Hugsanir án landamæra<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE, margra tungumála kyrrstæður síða rafall, getur sjálfkrafa þýtt Markdown á [meira en hundrað mismunandi tungumál](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, margra tungumála kyrrstæður síða rafall, getur sjálfkrafa þýtt Markdown á [meira en hundrað mismunandi tungumál](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 Sumir gætu viljað spyrja, nú þegar vafrar eru með innbyggða þýðingaraðgerðir, er óþarfi að alþjóðavæða vefsíðuna?
 
 Ég vil segja að **aðeins með því að alþjóðavæða alla síðuna getum við stutt fjöltyngda leit í fullum texta á staðnum og leitarvélabestun** .
+
+## Röð
+
+"Biblían · Genesis":
+
+> Fornmenn gerðu ekki greinarmun á tungumálum. Þeir fæddust með stolti og vildu byggja háan turn með toppinn til himins.
+> <blockquote><p>Guði var óánægður með hroka mannsins, svo hann tvístraði öllum lifandi verum á ýmsa staði, ófær um að skilja hver aðra.</p></blockquote>
+> <blockquote><p>Síðan þá hefur verið erfitt fyrir menn að eiga samskipti, deilur hafa haldið áfram og enginn Babelsturn er til í heiminum.</p></blockquote>
+
+Vísindaskáldsagan „Three-Body“ (kínverskur framburður: `3Ti` ) skáldar upp framandi siðmenningu sem hefur samskipti í gegnum rafsegulbylgjur, hefur engar tungumálahindranir og er tæknilega velmegandi.
+
+Ég vona að með hjálp þessa verkfæris verði fólk á jörðinni eins og þriggja líkama fólk, samskipti verði ekki takmörkuð af tungumáli og allt mannkyn muni sameinast á ný.
 
 ## Kennsla
 

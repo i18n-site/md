@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Gedanken ohne Grenzen<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-3Ti.Site，多语言的静态站点生成器，能将 Markdown 自动翻译为 [一百多种不同的语言](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 。
+3Ti.Site, ein mehrsprachiger statischer Site-Generator, kann Markdown automatisch in [mehr als hundert verschiedene Sprachen](https://github.com/i18n-site/node/blob/main/lang/src/index.js) übersetzen.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 

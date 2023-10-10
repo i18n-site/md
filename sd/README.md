@@ -1,12 +1,24 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">I18N.SITE · ٻولي بغير سرحدن جي<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · سوچون بغير سرحدون<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
 
-I18N.SITE، هڪ گھڻ-ٻولي جامد سائيٽ جنريٽر، خود بخود مارڪ ڊائون کي [سؤ کان وڌيڪ مختلف ٻولين](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ۾ ترجمو ڪري سگھي ٿو.
+3Ti.Site، هڪ گھڻ-ٻولي جامد سائيٽ جنريٽر، خود بخود مارڪ ڊائون کي [سؤ کان وڌيڪ مختلف ٻولين](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ۾ ترجمو ڪري سگھي ٿو.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
 ڪجھ ماڻھو پڇڻ چاھين ٿا، ھاڻي ته برائوزرن ۾ ترجمي جا ڪم شامل آھن، ڇا ويب سائيٽ کي بين الاقوامي بڻائڻ غير ضروري آھي؟
 
 مان اهو چوڻ چاهيان ٿو ته **سڄي سائيٽ کي بين الاقوامي ڪرڻ سان ئي اسان کي سپورٽ ڪري سگهون ٿا گهڻ لساني اندر-سائيٽ مڪمل-ٽيڪسٽ سرچ ۽ سرچ انجڻ جي اصلاح** .
+
+## تسلسل
+
+"بائبل · پيدائش":
+
+> پراڻن ٻولين ۾ فرق نه ڪيو. اهي فخر سان پيدا ٿيا هئا ۽ هڪ ڊگهو ٽاور ٺاهڻ چاهيندا هئا جنهن جي چوٽي آسمان تائين پهچي.
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">خدا انسان جي وڏائي کان ناراض هو، تنهنڪري هن سڀني جاندارن کي مختلف هنڌن تي ورهائي ڇڏيو، هڪ ٻئي کي سمجهي نه سگهيو.</p></blockquote>
+> <blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl">ان وقت کان وٺي، انسانن لاء گفتگو ڪرڻ ڏکيو ٿي ويو آهي، تڪرار جاري آهي، ۽ دنيا ۾ بابل جو ڪو به ٽاور ناهي.</p></blockquote>
+
+سائنس فڪشن ناول &quot;Three-Body&quot; (چيني تلفظ: `3Ti` ) هڪ اجنبي تهذيب کي افسانوي بڻائي ٿو جيڪا برقي مقناطيسي لهرن ذريعي ڳالهائي ٿي، ٻولي جي رڪاوٽ ناهي، ۽ ٽيڪنالاجي طور تي خوشحال آهي.
+
+مون کي اميد آهي ته هن اوزار جي مدد سان ڌرتيءَ جا ماڻهو ٽن جسمن وارن ماڻهن وانگر ٿي ويندا، رابطي ۾ ٻولي جي پابندي نه رهندي ۽ سموري انسان ذات ٻيهر متحد ٿي ويندي.
 
 ## ٽيوشن
 
