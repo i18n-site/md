@@ -13,7 +13,9 @@ Mwen vle di ke **se sèlman lè nou entènasyonalize sit la tout antye nou ka si
 "Labib · Jenèz":
 
 > Ansyen yo pa t fè distenksyon ant lang. Yo te fèt ak fyète e yo te vle bati yon gwo fò won ak tèt la rive nan syèl la.
+>
 > <blockquote><p>Bondye te fache ak awogans lèzòm, se konsa li gaye tout bèt vivan nan divès kote, yo pa t &#39;kapab konprann youn ak lòt.</p></blockquote>
+>
 > <blockquote><p>Depi lè sa a, li te difisil pou lèzòm kominike, diskisyon kontinye, e pa gen okenn Tour Babèl nan monn nan.</p></blockquote>
 
 Roman syans fiksyon &quot;Three-Body&quot; (pwononsyasyon Chinwa: `3Ti` ) fiksyonalize yon sivilizasyon etranje ki kominike atravè onn elektwomayetik, pa gen okenn baryè lang, epi li se teknolojik pwospè.

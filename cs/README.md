@@ -13,7 +13,9 @@ Chci říci, že **pouze internacionalizací celého webu můžeme podpořit ví
 "Bible·Genesis":
 
 > Staří lidé nerozlišovali mezi jazyky. Narodili se s pýchou a chtěli postavit vysokou věž, jejíž vrchol sahá až k nebi.
+>
 > <blockquote><p>Bohu se nelíbila lidská arogance, a tak všechny živé bytosti rozptýlil na různá místa, aniž by si navzájem rozuměli.</p></blockquote>
+>
 > <blockquote><p>Od té doby je pro lidi obtížné komunikovat, spory pokračují a na světě není babylonská věž.</p></blockquote>
 
 Sci-fi román „Three-Body“ (čínská výslovnost: `3Ti` ) beletrizuje mimozemskou civilizaci, která komunikuje prostřednictvím elektromagnetických vln, nemá žádné jazykové bariéry a je technologicky prosperující.

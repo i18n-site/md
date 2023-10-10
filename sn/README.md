@@ -13,7 +13,9 @@ Ndinoda kutaura kuti **nekuita saiti yese pasi rese tinogona kutsigira mitauro y
 "Bhaibheri Genesisi":
 
 > Vanhu vekare vaisasiyanisa mitauro. Vakaberekwa vachizvikudza uye vaida kuvaka shongwe refu ine musoro unosvika kudenga.
+>
 > <blockquote><p>Mwari haana kufadzwa nokuzvikudza kwomunhu, saka akaparadzira zvisikwa zvipenyu munzvimbo dzakasiyana-siyana, zvisingakwanisi kunzwisisa mumwe nomumwe.</p></blockquote>
+>
 > <blockquote><p>Kubvira ipapo, kwave kwakaomera vanhu kukurukura, kukakavadzana kwakapfuurira, uye hakuna Shongwe yeBhabheri munyika.</p></blockquote>
 
 Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Ti` ) inofungidzira budiriro yevatorwa inotaurirana kuburikidza nemasaisai emagetsi, haina zvipingamupinyi zvemutauro, uye yakabudirira muhunyanzvi.

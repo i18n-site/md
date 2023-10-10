@@ -13,10 +13,12 @@ Ou te fia fai atu **e naʻo le faʻasalalauina o le upega tafaʻilagi atoa e maf
 “Tusi Paia·Kenese”:
 
 > E le'i iloa e tagata anamua le eseesega o gagana. Na fananau mai i latou ma le faamaualuga ma mananao e fausia se olo maualuga e oo i le lagi le tumutumu.
+>
 > <blockquote><p>Na le fiafia le Atua i le faasausili o le tagata, o lea na ia faataapeapeina ai mea ola uma i nofoaga eseese, e le mafai ona malamalama le tasi i le isi.</p></blockquote>
+>
 > <blockquote><p>Talu mai lenā taimi, ua faigatā ona fesootaʻi tagata, ua faaauau pea feeseeseaʻiga, ma ua leai se Olo o Papelu i le lalolagi.</p></blockquote>
 
-O le tala fa&#39;asaienisi talafatu &quot;Three-Body&quot; (Saina fa&#39;auiga: `3Ti` ) fa&#39;ata&#39;oto se tagata mai fafo e feso&#39;ota&#39;i e ala i galu electromagnetic, e leai ni pa puipui o le gagana, ma o lo&#39;o manuia fa&#39;atekonolosi.
+O le tala fa'asaienisi talafatu &quot;Three-Body&quot; (Saina fa'auiga: `3Ti` ) fa'ata'oto se tagata mai fafo e feso'ota'i e ala i galu electromagnetic, e leai ni pa puipui o le gagana, ma o lo'o manuia fa'atekonolosi.
 
 Ou te faamoemoe o le fesoasoani a lenei meafaigaluega, o le a avea ai tagata o le lalolagi e pei o ni tagata tino-tolu, o le a le faatapulaaina fesootaiga e le gagana, ma o le a toe tuufaatasia tagata uma.
 
@@ -32,11 +34,11 @@ A maeʻa ona suia le faʻaliliuga, e tatau ona e toe tamoʻe `./i18n.sh` e faʻa
 
 ### Fa'aliliuga Fa'amatalaga
 
-E mana&#39;omia e fa&#39;amatalaga fa&#39;aliliuga le gagana pe a uma le \```, pei o le ` ```rust` .
+E mana'omia e fa'amatalaga fa'aliliuga le gagana pe a uma le \```, pei o le ` ```rust` .
 
 O lo'o lagolagoina nei fa'aliliuga fa'amatalaga mo le 'ele, c, cpp, java, js, kofe, python, ma le bash.
 
-Fa&#39;asa&#39;o [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) e fa&#39;aopoopo le lagolago fa&#39;aliliu mo fa&#39;amatalaga i le tele o gagana.
+Fa'asa'o [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) e fa'aopoopo le lagolago fa'aliliu mo fa'amatalaga i le tele o gagana.
 
 ### Fa'atonu Le Sui
 

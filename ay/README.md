@@ -13,10 +13,12 @@ Nayax sañ muntwa **, taqpach sitio ukar internacionalización ukampikiw walja a
 "Biblia·Génesis qillqata".:
 
 > Nayra jaqinakax janiw arunak yaqhachapkänti. Jupanakax jach’a jach’a tukusaw yuripxäna ukat mä jach’a torre lurañ munapxäna, patat alaxpachar puriñkama.
+>
 > <blockquote><p>Diosax jaqin jach’a jach’a tukutapatxa janiw walïkänti, ukatwa taqi jakirinakaruw kunayman chiqanakar ch’iqiyäna, janiw maynit maynikam amuyañjamäkänti.</p></blockquote>
+>
 > <blockquote><p>Ukhat aksarojja, jaqenakatakejj parltʼasiñajj chʼamakïjjänwa, chʼajjwañanakas utjaskakiwa, ukat akapachanjja janiw Torre de Babel sat torrejj utj-jjeti.</p></blockquote>
 
-Novela de ciencia ficción &quot;Kimsa Cuerpo&quot; (chino aruchja: `3Ti` ) ukax mä civilización extranjera ukar uñt&#39;ayi, ukax olas electromagnéticas ukanakampiw aruskipt&#39;i, janiw arut jark&#39;atäkiti, ukatx tecnología tuqitx wali ch&#39;amanchatawa.
+Novela de ciencia ficción &quot;Kimsa Cuerpo&quot; (chino aruchja: `3Ti` ) ukax mä civilización extranjera ukar uñt'ayi, ukax olas electromagnéticas ukanakampiw aruskipt'i, janiw arut jark'atäkiti, ukatx tecnología tuqitx wali ch'amanchatawa.
 
 Nayax suyt’twa, aka yän yanapt’apampixa, aka uraqin jaqinakax kimsa janchini jaqinakjamaw tukupxani, aruskipt’añax janiw arumpi jark’atäkaniti, ukat taqi jaqinakaw wasitat mayacht’asipxani.
 

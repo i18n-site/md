@@ -13,7 +13,9 @@ Haluan sanoa, että **vain kansainvälistämällä koko sivusto voimme tukea mon
 "Raamattu · Genesis":
 
 > Muinaiset ihmiset eivät tehneet eroa kielien välillä. He syntyivät ylpeinä ja halusivat rakentaa korkean tornin, jonka huippu ulottuu taivaalle.
+>
 > <blockquote><p>Jumala oli tyytymätön ihmisen ylimielisyyteen, joten hän hajotti kaikki elävät olennot eri paikkoihin, eivätkä kyenneet ymmärtämään toisiaan.</p></blockquote>
+>
 > <blockquote><p>Siitä lähtien ihmisten on ollut vaikea kommunikoida, kiistat ovat jatkuneet, eikä Baabelin tornia ole maailmassa.</p></blockquote>
 
 Tieteiskirjallisuusromaani &quot;Three-Body&quot; (ääntäminen kiinaksi: `3Ti` ) fiktioi ulkomaalaisen sivilisaation, joka kommunikoi sähkömagneettisten aaltojen kautta, jolla ei ole kielimuuria ja joka on teknisesti vauras.

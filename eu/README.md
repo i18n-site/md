@@ -13,7 +13,9 @@ Esan nahi dut **gune osoa nazioartekotuz soilik onartzen ahal izango ditugula hi
 "Biblia·Genesia":
 
 > Antzinakoek ez zituzten hizkuntzak bereizten. Harrotasunez jaio ziren eta goia zerura iristen zen dorre altu bat eraiki nahi zuten.
+>
 > <blockquote><p>Jainkoa atsekabetzen zen gizakiaren harrokeriaz, beraz, izaki bizidun guztiak sakabanatu zituen hainbat tokitan, elkar ulertu ezinik.</p></blockquote>
+>
 > <blockquote><p>Harrezkero, zaila izan da gizakiak komunikatzea, liskarrek jarraitu dute eta munduan ez dago Babeleko Dorrerik.</p></blockquote>
 
 &quot;Three-Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Ti` ) uhin elektromagnetikoen bidez komunikatzen den, hizkuntza-hesirik ez duen eta teknologikoki oparoa den zibilizazio arrotz bat fikzionatu du.

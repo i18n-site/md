@@ -13,7 +13,9 @@ Mepɛ sɛ meka sɛ **ɛdenam amanaman ntam wɛbsaet no nyinaa a yɛde bɛyɛ ama
 "Bible·Genesis":
 
 > Tetefo no anhu nsonsonoe a ɛda kasa ahorow ntam. Wɔde ahantan woo wɔn na na wɔpɛ sɛ wosi abantenten tenten bi a ne soro kodu soro.
+>
 > <blockquote><p>Onyankopɔn ani annye onipa ahantan ho, enti ɔbɔɔ abɔde a nkwa wom nyinaa hwetee mmeae ahorow, a wantumi ante wɔn ho wɔn ho ase.</p></blockquote>
+>
 > <blockquote><p>Efi saa bere no, ayɛ den ama nnipa sɛ wɔbɛbɔ nkɔmmɔ, akasakasa akɔ so, na Babel Abantenten biara nni wiase.</p></blockquote>
 
 Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din: `3Ti` ) yɛ ahɔho anibuei a ɛnam anyinam ahoɔden asorɔkye so di nkitaho, enni kasa mu akwanside biara, na ɛwɔ mfiridwuma mu yiyedi.

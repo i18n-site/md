@@ -13,7 +13,9 @@ Ba mhaith liom a rá gur **trí idirnáisiúnú a dhéanamh ar an suíomh iomlá
 "Bíobla·Genesis":
 
 > Ní dhearna na seanóirí idirdhealú idir teangacha. Rugadh iad le bród agus bhí siad ag iarraidh túr ard a thógáil leis an mbarr ag teacht go dtí an spéir.
+>
 > <blockquote><p>Bhí Dia míshásta le sotal an duine, agus mar sin scaip sé gach neach beo in áiteanna éagsúla, gan a bheith in ann a chéile a thuiscint.</p></blockquote>
+>
 > <blockquote><p>Ó shin i leith, tá sé deacair do dhaoine cumarsáid a dhéanamh, tá díospóidí ag leanúint ar aghaidh, agus níl aon Túr Babel ar domhan.</p></blockquote>
 
 Déanann an t-úrscéal ficsean eolaíochta &quot;Three-Body&quot; (fuaimniú Síneach: `3Ti` ) sibhialtacht choimhthíoch a dhéanann cumarsáid trí thonnta leictreamaighnéadacha, nach bhfuil aon bhacainní teanga aici, agus atá rathúil ó thaobh na teicneolaíochta de.

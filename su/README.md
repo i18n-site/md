@@ -13,7 +13,9 @@ Abdi hoyong disebutkeun yen **ngan ku internationalizing sakabéh situs urang ti
 "Alkitab·Kajadian":
 
 > Baheula mah teu ngabedakeun basa. Aranjeunna dilahirkeun kalayan kareueus sareng hoyong ngawangun munara jangkung kalayan puncakna dugi ka langit.
+>
 > <blockquote><p>Allah teu ridho kana kaangkuhan manusa, ku kituna Mantenna paburencay sakabeh mahluk di sagala rupa tempat, teu bisa ngarti.</p></blockquote>
+>
 > <blockquote><p>Ti saprak éta, manusa hésé pikeun komunikasi, pasea terus-terusan, sareng teu aya Menara Babel di dunya.</p></blockquote>
 
 Novel fiksi ilmiah &quot;Tilu Badan&quot; (lafal Basa Cina: `3Ti` ) ngafiksasikeun peradaban alien anu komunikasi ngaliwatan gelombang éléktromagnétik, teu aya halangan basa, sareng makmur sacara téknologi.

@@ -13,7 +13,9 @@ Kayatko nga ibaga a **babaen laeng ti pananginternasional iti intero a site a su
 "Biblia·Genesis":
 
 > Saan a naglasin dagiti nagkauna a pagsasao. Naipasngayda a natangsit ken kayatda ti mangbangon iti natayag a torre a ti tuktokna ket dumanon iti langit.
+>
 > <blockquote><p>Saan a naay-ayo ti Dios iti kinatangsit ti tao, isu nga inwarasna amin a sibibiag a parsua iti nadumaduma a lugar, a di makaawat iti tunggal maysa.</p></blockquote>
+>
 > <blockquote><p>Sipud idin, narigaten ti makikomunikar dagiti tattao, nagtultuloy dagiti riri, ken awanen ti Torre ti Babel iti lubong.</p></blockquote>
 
 Ti nobela ti siensia a piksion a &quot;Tallo-a-Bagi&quot; (Insik a panagibalikas: `3Ti` ) ket piksionario ti maysa a ganggannaet a sibilisasion a makikomunikar babaen dagiti elektromagnetiko nga allon, awan dagiti lapped ti pagsasao, ken narang-ay iti teknolohia.

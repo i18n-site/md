@@ -6,14 +6,16 @@
 
 E puer Leit wëlle vläicht froen, elo datt Browser agebaute Iwwersetzungsfunktiounen hunn, ass et onnéideg fir d'Websäit ze internationaliséieren?
 
-Ech wëll soen datt **nëmmen duerch d&#39;Internationaliséierung vum ganze Site kënne mir méisproocheg In-Site Volltext Sich a Sichmotoroptimiséierung ënnerstëtzen** .
+Ech wëll soen datt **nëmmen duerch d'Internationaliséierung vum ganze Site kënne mir méisproocheg In-Site Volltext Sich a Sichmotoroptimiséierung ënnerstëtzen** .
 
 ## Sequenz
 
 "Bibel · Genesis":
 
 > D'Alter hunn net tëscht Sproochen ënnerscheeden. Si goufe mat Stolz gebuer a wollten en héijen Tuerm bauen, mat der Spëtzt bis zum Himmel.
+>
 > <blockquote><p>Gott war onzefridden mat der Arroganz vum Mënsch, sou datt hien all Liewewiesen op verschiddene Plazen verspreet huet, net fäeg sech ze verstoen.</p></blockquote>
+>
 > <blockquote><p>Zënterhier ass et schwéier fir d&#39;Mënschen ze kommunizéieren, Streidereien si weidergaang, an et gëtt keen Tuerm vu Babel op der Welt.</p></blockquote>
 
 De Science Fiction Roman &quot;Three-Body&quot; (Chinesesch Aussprooch: `3Ti` ) fictionaliséiert eng alien Zivilisatioun déi duerch elektromagnetesch Wellen kommunizéiert, keng Sproochbarrièren huet an technologesch räich ass.
@@ -28,11 +30,11 @@ Ech hoffen, datt mat der Hëllef vun dësem Tool d'Leit vun der Äerd wéi dräi
 
 ### Iwwersetzung Änneren
 
-Nodeems Dir d&#39;Iwwersetzung geännert hutt, musst Dir `./i18n.sh` nei lafen fir de Cache ze aktualiséieren.
+Nodeems Dir d'Iwwersetzung geännert hutt, musst Dir `./i18n.sh` nei lafen fir de Cache ze aktualiséieren.
 
 ### Iwwersetzung Notizen
 
-Iwwersetzungskommentarer mussen d&#39;Sprooch no \``` uginn, sou wéi ` ```rust` .
+Iwwersetzungskommentarer mussen d'Sprooch no \``` uginn, sou wéi ` ```rust` .
 
 Ënnerstëtzt de Moment Kommentar Iwwersetzung fir Rust, c, cpp, Java, js, Kaffi, Python, a Bash.
 

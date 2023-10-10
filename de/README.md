@@ -13,7 +13,9 @@ Ich möchte sagen, dass **wir nur durch die Internationalisierung der gesamten W
 „Bibel·Genesis“:
 
 > Die Alten unterschieden nicht zwischen Sprachen. Sie wurden mit Stolz geboren und wollten einen hohen Turm bauen, dessen Spitze bis zum Himmel reichte.
+>
 > <blockquote><p>Gott war mit der Arroganz der Menschen unzufrieden und so zerstreute er alle Lebewesen an verschiedene Orte, da sie einander nicht verstehen konnten.</p></blockquote>
+>
 > <blockquote><p>Seitdem ist es für Menschen schwierig zu kommunizieren, die Streitigkeiten dauern an und es gibt keinen Turmbau zu Babel auf der Welt.</p></blockquote>
 
 Der Science-Fiction-Roman „Three-Body“ (chinesische Aussprache: `3Ti` ) fiktionalisiert eine außerirdische Zivilisation, die über elektromagnetische Wellen kommuniziert, keine Sprachbarrieren kennt und technologisch erfolgreich ist.

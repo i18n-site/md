@@ -13,7 +13,9 @@ Neki ljudi će možda htjeti da pitaju, sada kada pretraživači imaju ugrađene
 "Biblija·Postanak":
 
 > Stari nisu pravili razliku između jezika. Rođeni su s ponosom i hteli su da sagrade visoku kulu čiji vrh seže do neba.
+>
 > <blockquote><p>Bog je bio nezadovoljan čovjekovom ohološću, pa je rastjerao sva živa bića po raznim mjestima, nesposobna da se razumiju.</p></blockquote>
+>
 > <blockquote><p>Od tada je ljudima bilo teško komunicirati, sporovi se nastavljaju, a na svijetu ne postoji vavilonska kula.</p></blockquote>
 
 Naučnofantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) fikcionalizira vanzemaljsku civilizaciju koja komunicira putem elektromagnetnih valova, nema jezičke barijere i tehnološki je prosperitetna.

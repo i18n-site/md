@@ -13,7 +13,9 @@ Saya ingin mengatakan bahwa **hanya dengan menginternasionalkan seluruh situs ki
 "Alkitab·Kejadian":
 
 > Orang dahulu tidak membedakan bahasa. Mereka terlahir dengan rasa bangga dan ingin membangun menara tinggi yang puncaknya mencapai langit.
+>
 > <blockquote><p>Tuhan tidak senang dengan kesombongan manusia, sehingga Ia mencerai-beraikan seluruh makhluk hidup di berbagai tempat, tidak mampu memahami satu sama lain.</p></blockquote>
+>
 > <blockquote><p>Sejak saat itu, manusia sulit berkomunikasi, perselisihan terus berlanjut, dan tidak ada Menara Babel di dunia.</p></blockquote>
 
 Novel fiksi ilmiah &quot;Three-Body&quot; (pengucapan China: `3Ti` ) mengarang fiksi peradaban alien yang berkomunikasi melalui gelombang elektromagnetik, tidak memiliki kendala bahasa, dan makmur secara teknologi.

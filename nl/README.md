@@ -13,7 +13,9 @@ Ik wil zeggen dat **we alleen door de hele site te internationaliseren meertalig
 "Bijbel·Genesis":
 
 > De Ouden maakten geen onderscheid tussen talen. Ze waren met trots geboren en wilden een hoge toren bouwen waarvan de top tot aan de hemel reikte.
+>
 > <blockquote><p>God was ontevreden over de arrogantie van de mens, dus verspreidde hij alle levende wezens over verschillende plaatsen, niet in staat elkaar te begrijpen.</p></blockquote>
+>
 > <blockquote><p>Sindsdien is het moeilijk voor mensen om te communiceren, zijn de geschillen voortgezet en is er geen Toren van Babel meer in de wereld.</p></blockquote>
 
 De sciencefictionroman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fictionaliseert een buitenaardse beschaving die communiceert via elektromagnetische golven, geen taalbarrières kent en technologisch welvarend is.

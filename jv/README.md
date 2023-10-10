@@ -13,7 +13,9 @@ Aku pengin ngomong yen **mung kanthi internasionalisasi kabeh situs, kita bisa n
 "Alkitab·Purwaning Dumadi":
 
 > Wong kuna ora mbedakake basa. Dheweke lair kanthi bangga lan pengin mbangun menara sing dhuwur kanthi dhuwur nganti langit.
+>
 > <blockquote><p>Gusti Allah ora rena marang angkuhne manungsa, mula kabeh makhluk urip padha buyar ing panggonan-panggonan sing beda-beda, ora bisa ngerti.</p></blockquote>
+>
 > <blockquote><p>Wiwit kuwi, manungsa angel komunikasi, perselisihan terus, lan ora ana Menara Babel ing jagad iki.</p></blockquote>
 
 Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Basa Cina: `3Ti` ) minangka fiksi peradaban alien sing komunikasi liwat gelombang elektromagnetik, ora ana alangan basa, lan teknologi sing makmur.

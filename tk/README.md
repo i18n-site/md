@@ -13,7 +13,9 @@ Käbir adamlar soramak isläp bilerler, indi brauzerlerde içerki terjime funksi
 "Injil · Gelip çykyş":
 
 > Gadymylar dilleri tapawutlandyrmandyrlar. Olar buýsanç bilen doguldy we ýokarsy asmana ýetýän beýik diň gurmak isledi.
+>
 > <blockquote><p>Hudaý adamyň ulumsylygyndan razy däldi, şonuň üçin ähli janly-jandarlary biri-birine düşünip bilmän dürli ýerlere dargatdy.</p></blockquote>
+>
 > <blockquote><p>Şondan bäri adamlar bilen aragatnaşyk gurmak kyn boldy, jedeller dowam etdi we dünýäde Babel diňi ýok.</p></blockquote>
 
 Ylmy fantastika romany &quot;Üç beden&quot; (hytaýça aýdylyşy: `3Ti` ) elektromagnit tolkunlar arkaly aragatnaşyk saklaýan, dil päsgelçilikleri bolmadyk we tehnologiki taýdan gülläp ösýän keseki siwilizasiýany toslaýar.

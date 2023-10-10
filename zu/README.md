@@ -13,7 +13,9 @@ Ngifuna ukusho ukuthi **kuphela ngokwenza isayithi yonke ibe ngamazwe ngamazwe l
 "Bible·Genesis":
 
 > Abantu basendulo babengahlukanisi izilimi. Bazalwa beqhosha futhi befuna ukwakha umbhoshongo omude ofinyelela phezulu esibhakabhakeni.
+>
 > <blockquote><p>UNkulunkulu akazange ajabule ngokuzikhukhumeza komuntu, ngakho wahlakaza zonke izidalwa eziphilayo ezindaweni ezihlukahlukene, zingakwazi ukuqondana.</p></blockquote>
+>
 > <blockquote><p>Kusukela ngaleso sikhathi, kuye kwaba nzima ngabantu ukuxhumana, izingxabano ziye zaqhubeka, futhi awukho uMbhoshongo WaseBabele emhlabeni.</p></blockquote>
 
 Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphimbo lesiShayina: `3Ti` ) iqamba impucuko engaziwa exhumana namagagasi kagesi, engenazo izithiyo zolimi, futhi ephumelelayo kwezobuchwepheshe.

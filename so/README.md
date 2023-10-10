@@ -13,7 +13,9 @@ Waxaan rabaa in aan sheego in **kaliya caalamiyeynta goobta oo dhan aan ku taage
 "Bible·Bilowgii":
 
 > Dadkii hore afafka ma kala saari jirin. Waxay ku dhasheen kibir, waxayna rabeen inay dhisaan daar dheer oo korkeedu cirka gaadho.
+>
 > <blockquote><p>Eebbana wuu ka cadhooday isla waynidii bini-aadmiga, sidaa darteed wuxuu ku kala firdhiyey dhammaan nooleyaal meelo kala duwan, iyagoo aan is fahmi karin.</p></blockquote>
+>
 > <blockquote><p>Tan iyo markaas, way ku adkeyd in bini&#39;aadamku wada xiriiraan, khilaafaadkuna wuu sii socday, mana jiro Tower of Baabel oo adduunka ku yaal.</p></blockquote>
 
 Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: `3Ti` ) waxay khayaaliyeed ka dhigtaa ilbaxnimada shisheeyaha ee ku wada xidhiidha mowjadaha elektromagnetic, ma laha caqabado luqadeed, waana barwaaqo tignoolajiyada.

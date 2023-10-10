@@ -6,14 +6,16 @@
 
 Alcune persone potrebbero chiedersi, ora che i browser hanno funzioni di traduzione integrate, non è necessario internazionalizzare il sito web?
 
-Voglio dire che **solo internazionalizzando l&#39;intero sito possiamo supportare la ricerca full-text multilingue nel sito e l&#39;ottimizzazione dei motori di ricerca** .
+Voglio dire che **solo internazionalizzando l'intero sito possiamo supportare la ricerca full-text multilingue nel sito e l'ottimizzazione dei motori di ricerca** .
 
 ## Sequenza
 
 "Bibbia·Genesi":
 
 > Gli antichi non facevano distinzione tra le lingue. Sono nati con orgoglio e volevano costruire un'alta torre con la cima che raggiungesse il cielo.
+>
 > <blockquote><p>Dio era scontento dell&#39;arroganza dell&#39;uomo, così disperse tutti gli esseri viventi in vari luoghi, incapaci di capirsi.</p></blockquote>
+>
 > <blockquote><p>Da allora è diventato difficile per gli esseri umani comunicare, le controversie sono continuate e non esiste alcuna Torre di Babele al mondo.</p></blockquote>
 
 Il romanzo di fantascienza &quot;Three-Body&quot; (pronuncia cinese: `3Ti` ) immagina una civiltà aliena che comunica attraverso onde elettromagnetiche, non ha barriere linguistiche ed è tecnologicamente prospera.

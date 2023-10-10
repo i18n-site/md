@@ -13,7 +13,9 @@ Neki se ljudi možda žele pitati, sada kada preglednici imaju ugrađene funkcij
 "Biblija · Postanak":
 
 > Drevni ljudi nisu razlikovali jezike. Rođeni su s ponosom i htjeli su sagraditi visoku kulu s vrhom do neba.
+>
 > <blockquote><p>Bogu je bila nezadovoljna ljudska oholost, pa je sva živa bića raspršio na razna mjesta, ne mogavši ​​se međusobno razumjeti.</p></blockquote>
+>
 > <blockquote><p>Od tada je ljudima bilo teško komunicirati, sporovi se nastavljaju, a na svijetu ne postoji kula Babilonska.</p></blockquote>
 
 Znanstveno-fantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) fikcionalizira izvanzemaljsku civilizaciju koja komunicira putem elektromagnetskih valova, nema jezičnih barijera i tehnološki je napredna.

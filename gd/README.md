@@ -13,10 +13,12 @@ Tha mi airson a ràdh gur **ann dìreach le bhith ag eadar-nàiseantachadh an l�
 "Bìoball · Genesis":
 
 > Cha do rinn na seanairean dealachadh eadar cànanan. Rugadh iad le moit agus bha iad airson tùr àrd a thogail leis a 'mhullach a' ruighinn chun na speuran.
+>
 > <blockquote><p>Bha Dia mi-thaitneach le àrdan an duine, agus mar sin sgap e gach creutair beò ann an caochladh àitean, gun chomas a chèile a thuigsinn.</p></blockquote>
+>
 > <blockquote><p>Bhon uairsin, tha e air a bhith duilich dha daoine conaltradh a dhèanamh, tha connspaidean air leantainn, agus chan eil Tùr Babel air an t-saoghal.</p></blockquote>
 
-Tha an nobhail ficsean saidheans &quot;Three-Body&quot; (fuaimneachadh Sìneach: `3Ti` ) a &#39;dèanamh ficsean air sìobhaltas coimheach a bhios a&#39; conaltradh tro thonnan electromagnetic, aig nach eil cnapan-starra cànain, agus a tha soirbheachail gu teicneòlach.
+Tha an nobhail ficsean saidheans &quot;Three-Body&quot; (fuaimneachadh Sìneach: `3Ti` ) a 'dèanamh ficsean air sìobhaltas coimheach a bhios a' conaltradh tro thonnan electromagnetic, aig nach eil cnapan-starra cànain, agus a tha soirbheachail gu teicneòlach.
 
 Tha mi an dòchas le cuideachadh bhon inneal seo, gum bi muinntir na talmhainn coltach ri daoine trì-bodhaig, nach bi conaltradh air a chuingealachadh le cànan, agus gum bi mac an duine aonaichte a-rithist.
 

@@ -13,7 +13,9 @@ Povedati želim, da **samo z internacionalizacijo celotnega spletnega mesta lahk
 "Biblija · Geneza":
 
 > Starodavni niso razlikovali med jeziki. Rodili so se s ponosom in želeli so zgraditi visok stolp z vrhom do neba.
+>
 > <blockquote><p>Bogu ni bila všeč človekova ošabnost, zato je vsa živa bitja razkropil na različne kraje, ne da bi se razumela.</p></blockquote>
+>
 > <blockquote><p>Od takrat se ljudje težko sporazumevajo, spori se nadaljujejo in na svetu ni babilonskega stolpa.</p></blockquote>
 
 Znanstvenofantastični roman &quot;Three-Body&quot; (kitajska izgovorjava: `3Ti` ) fikcionalizira tujo civilizacijo, ki komunicira prek elektromagnetnih valov, nima jezikovnih ovir in je tehnološko uspešna.

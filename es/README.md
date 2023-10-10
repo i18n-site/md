@@ -13,7 +13,9 @@ Quiero decir que **solo internacionalizando todo el sitio podremos admitir la b�
 "Biblia · Génesis":
 
 > Los antiguos no distinguían entre lenguas. Nacieron con orgullo y querían construir una torre alta cuya cima llegara al cielo.
+>
 > <blockquote><p>Dios estaba disgustado con la arrogancia del hombre, por lo que dispersó a todos los seres vivientes en varios lugares, incapaces de entenderse unos a otros.</p></blockquote>
+>
 > <blockquote><p>Desde entonces, a los humanos les ha resultado difícil comunicarse, las disputas han continuado y no existe la Torre de Babel en el mundo.</p></blockquote>
 
 La novela de ciencia ficción &quot;Three-Body&quot; (pronunciación china: `3Ti` ) ficcionaliza una civilización extraterrestre que se comunica a través de ondas electromagnéticas, no tiene barreras idiomáticas y es tecnológicamente próspera.

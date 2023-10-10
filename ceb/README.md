@@ -13,7 +13,9 @@ Gusto nakong isulti nga **pinaagi lamang sa pag-internationalize sa tibuok site 
 "Bibliya·Genesis":
 
 > Ang mga karaan wala makaila sa mga pinulongan. Natawo sila nga adunay garbo ug gusto nga magtukod usa ka taas nga tore nga ang tumoy hangtod sa langit.
+>
 > <blockquote><p>Ang Dios wala mahimuot sa pagkamapahitas-on sa tawo, mao nga iyang gipatibulaag ang tanang buhing binuhat sa lain-laing mga dapit, nga dili makasabut sa usag usa.</p></blockquote>
+>
 > <blockquote><p>Sukad niadto, lisod na alang sa mga tawo ang pagpakigkomunikar, nagpadayon ang mga panaglalis, ug walay Torre sa Babel sa kalibotan.</p></blockquote>
 
 Ang science fiction nga nobela nga &quot;Three-Body&quot; (Intsik nga paglitok: `3Ti` ) nagmugna sa usa ka langyaw nga sibilisasyon nga nakigkomunikar pinaagi sa electromagnetic waves, walay mga babag sa pinulongan, ug sa teknolohiya mauswagon.

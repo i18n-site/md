@@ -13,10 +13,12 @@ Njagala okugamba nti **nga tufuula omukutu gwonna ogw’ensi yonna gwokka gwe tu
 "Baibuli·Olubereberye".:
 
 > Ab’edda tebaawulamu nnimi. Baazaalibwa n’amalala era nga baagala okuzimba omunaala omuwanvu nga waggulu gutuuka mu bbanga.
+>
 > <blockquote><p>Katonda teyasanyukira malala g’omuntu, bwatyo n’asaasaanya ebiramu byonna mu bifo eby’enjawulo, nga tasobola kutegeeragana.</p></blockquote>
+>
 > <blockquote><p>Okuva olwo, abantu kibadde kizibu okuwuliziganya, enkaayana zaagenda mu maaso, era tewali Munaala gwa Baberi mu nsi.</p></blockquote>
 
-Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y&#39;Oluchina: `3Ti` ) kifuula embuga y&#39;abagwira ewuliziganya okuyita mu mayengo ga masanyalaze, etaliiko biziyiza lulimi, era ekulaakulana mu tekinologiya.
+Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y'Oluchina: `3Ti` ) kifuula embuga y'abagwira ewuliziganya okuyita mu mayengo ga masanyalaze, etaliiko biziyiza lulimi, era ekulaakulana mu tekinologiya.
 
 Nsuubira nti nga tuyambibwako ekintu kino, abantu b’ensi bajja kuba ng’abantu ab’emibiri esatu, empuliziganya tegenda kuziyizibwa lulimi, era abantu bonna bajja kuddamu okwegatta.
 
@@ -28,15 +30,15 @@ Nsuubira nti nga tuyambibwako ekintu kino, abantu b’ensi bajja kuba ng’abant
 
 ### Kyuusa Enkyusa
 
-Oluvannyuma lw&#39;okukyusa enkyusa, olina okuddamu okuddukanya `./i18n.sh` okulongoosa cache.
+Oluvannyuma lw'okukyusa enkyusa, olina okuddamu okuddukanya `./i18n.sh` okulongoosa cache.
 
 ### Ebiwandiiko By’Okuvvuunula
 
-Ebigambo by&#39;okuvvuunula byetaaga okulaga olulimi oluvannyuma lwa \```, nga ` ```rust` .
+Ebigambo by'okuvvuunula byetaaga okulaga olulimi oluvannyuma lwa \```, nga ` ```rust` .
 
 Mu kiseera kino ewagira okuvvuunula endowooza ku rust, c, cpp, java, js, kaawa, python, ne bash.
 
-Edit [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) okwongera obuwagizi bw&#39;okuvvuunula ku comments mu nnimi endala.
+Edit [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) okwongera obuwagizi bw'okuvvuunula ku comments mu nnimi endala.
 
 ### Tegeka Proxy
 

@@ -13,7 +13,9 @@ Mi volas diri, ke **nur internaciigante la tutan retejon ni povas subteni plurli
 "Biblio · Genezo":
 
 > La antikvuloj ne distingis inter lingvoj. Ili naskiĝis kun fiero kaj volis konstrui altan turon kun la supro atinganta al la ĉielo.
+>
 > <blockquote><p>Al Dio malplaĉis la aroganteco de la homo, do li disĵetis ĉiujn vivantajn estaĵojn en diversaj lokoj, ne povante interkompreniĝi.</p></blockquote>
+>
 > <blockquote><p>Ekde tiam, al homoj estis malfacile komuniki, disputoj daŭris, kaj ne ekzistas Babeloturo en la mondo.</p></blockquote>
 
 La sciencfikcia romano &quot;Tri-korpoj&quot; (ĉine elparolo: `3Ti` ) fikciigas fremdan civilizon kiu komunikas per elektromagnetaj ondoj, havas neniujn lingvajn barojn, kaj estas teknologie prospera.

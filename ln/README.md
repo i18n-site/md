@@ -13,7 +13,9 @@ Nalingi koloba ete **kaka na internationalisation ya site mobimba nde tokoki ko 
 "Biblia·Ebandeli".:
 
 > Bato ya kala bazalaki kokesenisa minɔkɔ te. Babotamaki na lolendo mpe balingaki kotonga ndako molai oyo nsɔngɛ na yango ekómaki tii na likoló.
+>
 > <blockquote><p>Nzambe asepelaki te na lolendo ya moto, yango wana apalanganisaki bikelamu nyonso ya bomoi na bisika ndenge na ndenge, kozanga kokoka kososolana.</p></blockquote>
+>
 > <blockquote><p>Banda wana, ezalaki mpasi mpo bato básolola, matata ezali kokoba, mpe Linɔ́ngi ya Babele ezali te na mokili.</p></blockquote>
 
 Roman ya science fiction &quot;Tree-Body&quot; (prononciation chinois: `3Ti` ) e fictionaliser civilisation alienne oyo e communiquer na nzela ya ba mbonge électromagnétique, ezali na ba barrières ya langue te, mpe ezali na prospère technologique.

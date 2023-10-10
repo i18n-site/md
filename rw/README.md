@@ -13,10 +13,12 @@ Ndashaka kuvuga ko **muguhindura amahanga kurubuga rwose dushobora gushyigikira 
 "Bibiliya · Itangiriro":
 
 > Abakera ntibatandukanije indimi. Bavutse bafite ishema kandi bashaka kubaka umunara muremure hejuru ugana mwijuru.
+>
 > <blockquote><p>Imana ntiyishimiye ubwibone bw&#39;umuntu, nuko ikwirakwiza ibinyabuzima byose ahantu hatandukanye, idashobora kumvikana.</p></blockquote>
+>
 > <blockquote><p>Kuva icyo gihe, byagoye abantu gushyikirana, amakimbirane arakomeza, kandi nta Munara wa Babeli ku isi.</p></blockquote>
 
-Igitabo gihimbano cya siyansi &quot;Imibiri itatu&quot; (Imvugo y&#39;Igishinwa: `3Ti` ) gihimbano umuco w&#39;abanyamahanga uvugana binyuze mu muhengeri wa electroniki, nta mbogamizi z’ururimi, kandi utera imbere mu ikoranabuhanga.
+Igitabo gihimbano cya siyansi &quot;Imibiri itatu&quot; (Imvugo y'Igishinwa: `3Ti` ) gihimbano umuco w'abanyamahanga uvugana binyuze mu muhengeri wa electroniki, nta mbogamizi z’ururimi, kandi utera imbere mu ikoranabuhanga.
 
 Nizere ko hifashishijwe iki gikoresho, abatuye isi bazamera nkabantu batatu, itumanaho ntirizagabanywa nururimi, kandi abantu bose bazongera ubumwe.
 

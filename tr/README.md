@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Sınır Tanımayın<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-Çok dilli bir statik site oluşturucu olan 3Ti.Site, Markdown&#39;ı [yüzden fazla farklı dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) otomatik olarak çevirebilir.
+Çok dilli bir statik site oluşturucu olan 3Ti.Site, Markdown'ı [yüzden fazla farklı dile](https://github.com/i18n-site/node/blob/main/lang/src/index.js) otomatik olarak çevirebilir.
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
@@ -13,7 +13,9 @@ Bazı insanlar, artık tarayıcıların yerleşik çeviri işlevlerine sahip old
 "İncil·Genesis":
 
 > Eskiler diller arasında ayrım yapmıyorlardı. Gururla doğmuşlardı ve tepesi gökyüzüne kadar uzanan yüksek bir kule inşa etmek istiyorlardı.
+>
 > <blockquote><p>Allah, insanın kibrinden hoşlanmamış, bu yüzden bütün canlıları birbirlerini anlayamayacak şekilde çeşitli yerlere dağıtmıştır.</p></blockquote>
+>
 > <blockquote><p>O günden bu yana insanların iletişim kurması zorlaştı, anlaşmazlıklar devam etti ve dünyada Babil Kulesi yok.</p></blockquote>
 
 Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektromanyetik dalgalar aracılığıyla iletişim kuran, dil engeli olmayan ve teknolojik açıdan zengin bir uzaylı uygarlığını kurguluyor.

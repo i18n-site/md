@@ -13,7 +13,9 @@ Tahan öelda, et **ainult kogu saidi rahvusvahelistumisega saame toetada mitmeke
 "Piibel · Genesis":
 
 > Vanad inimesed ei teinud keeltel vahet. Nad sündisid uhkusega ja tahtsid ehitada kõrge torni, mille tipp ulatub taeva poole.
+>
 > <blockquote><p>Jumalale ei meeldinud inimeste kõrkus, mistõttu ta hajutas kõik elusolendid erinevatesse kohtadesse, suutmata üksteist mõista.</p></blockquote>
+>
 > <blockquote><p>Sellest ajast peale on inimestel olnud raske suhelda, vaidlused on jätkunud ja maailmas pole Paabeli torni.</p></blockquote>
 
 Ulmeromaan &quot;Kolm keha&quot; (Hiina hääldus: `3Ti` ) kujutab endast välja tulnukat tsivilisatsiooni, mis suhtleb elektromagnetlainete kaudu, millel puuduvad keelebarjäärid ja mis on tehnoloogiliselt jõukas.

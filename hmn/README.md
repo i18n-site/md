@@ -13,7 +13,9 @@ Kuv xav hais tias **tsuas yog los ntawm kev nthuav dav thoob ntiaj teb tag nrho 
 "Bible · Chiv Keeb":
 
 > Cov ancients tsis paub qhov txawv ntawm cov lus. Lawv yug los nrog kev khav theeb thiab xav ua ib tug pej thuam siab nrog rau saum ntuj.
+>
 > <blockquote><p>Vajtswv tsis txaus siab rau tus txiv neej txoj kev khav theeb, yog li ntawd nws thiaj ua rau txhua tus muaj sia nyob hauv ntau qhov chaw, tsis tuaj yeem nkag siab ib leeg.</p></blockquote>
+>
 > <blockquote><p>Txij thaum ntawd los, nws nyuaj rau tib neeg sib txuas lus, kev tsis sib haum xeeb tau txuas ntxiv mus, thiab tsis muaj Ntauwd ntawm Babel hauv ntiaj teb.</p></blockquote>
 
 Cov ntawv tseeb tshiab &quot;Three-Lub Cev&quot; (Suav hais: `3Ti` ) fictionalizes ib tug neeg txawv teb chaws kev vam meej uas sib txuas lus los ntawm electromagnetic nthwv dej, tsis muaj lus teeb meem, thiab yog technologically vam meej.

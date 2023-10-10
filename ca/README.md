@@ -6,14 +6,16 @@
 
 És possible que algunes persones vulguin preguntar, ara que els navegadors tenen funcions de traducció integrades, és innecessari internacionalitzar el lloc web?
 
-Vull dir que **només internacionalitzant tot el lloc podem donar suport a la cerca multilingüe de text complet al lloc i l&#39;optimització de motors de cerca** .
+Vull dir que **només internacionalitzant tot el lloc podem donar suport a la cerca multilingüe de text complet al lloc i l'optimització de motors de cerca** .
 
 ## Seqüència
 
 "Bíblia·Gènesi":
 
 > Els antics no distingien entre llengües. Van néixer amb orgull i volien construir una torre alta amb el cim arribant al cel.
+>
 > <blockquote><p>Déu estava disgustat amb l&#39;arrogància de l&#39;home, així que va escampar tots els éssers vius per diversos llocs, incapaços d&#39;entendre&#39;s.</p></blockquote>
+>
 > <blockquote><p>Des de llavors, als humans els ha costat comunicar-se, les disputes han continuat i no hi ha torre de Babel al món.</p></blockquote>
 
 La novel·la de ciència-ficció &quot;Three-Body&quot; (pronunciació xinesa: `3Ti` ) narra una civilització alienígena que es comunica mitjançant ones electromagnètiques, no té barreres lingüístiques i és tecnològicament pròspera.
@@ -32,7 +34,7 @@ Després de modificar la traducció, heu de tornar a executar `./i18n.sh` per ac
 
 ### Notes De Traducció
 
-Els comentaris de traducció han d&#39;indicar l&#39;idioma després de \```, com ara ` ```rust` .
+Els comentaris de traducció han d'indicar l'idioma després de \```, com ara ` ```rust` .
 
 Actualment admet la traducció de comentaris per a rust, c, cpp, java, js, coffee, python i bash.
 

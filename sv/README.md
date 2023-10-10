@@ -13,7 +13,9 @@ Jag vill säga att **endast genom att internationalisera hela webbplatsen kan vi
 "Bibel · Genesis":
 
 > De gamla gjorde ingen skillnad på språk. De föddes med stolthet och ville bygga ett högt torn med toppen nådd mot himlen.
+>
 > <blockquote><p>Gud var missnöjd med människans arrogans, så han spred alla levande varelser på olika platser, oförmögna att förstå varandra.</p></blockquote>
+>
 > <blockquote><p>Sedan dess har det varit svårt för människor att kommunicera, tvister har fortsatt och det finns inget Babels torn i världen.</p></blockquote>
 
 Science fiction-romanen &quot;Three-Body&quot; (kinesiskt uttal: `3Ti` ) fiktionaliserar en främmande civilisation som kommunicerar genom elektromagnetiska vågor, har inga språkbarriärer och är teknologiskt välmående.

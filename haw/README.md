@@ -13,7 +13,9 @@ Makemake au e ʻōlelo **ma ka hoʻolaha ʻana i ka pūnaewele holoʻokoʻa e hi
 "Baibala·Genesis":
 
 > ʻAʻole ʻokoʻa ka poʻe kahiko ma waena o nā ʻōlelo. Ua hānau ʻia lākou me ka haʻaheo a makemake lākou e kūkulu i hale kiaʻi kiʻekiʻe me ke kiʻekiʻe e piʻi i ka lani.
+>
 > <blockquote><p>ʻAʻole i ʻoluʻolu ke Akua i ka haʻaheo o ke kanaka, no laila ua hoʻopuehu ʻo ia i nā mea ola a pau ma nā wahi like ʻole, ʻaʻole hiki ke hoʻomaopopo kekahi i kekahi.</p></blockquote>
+>
 > <blockquote><p>Mai ia manawa, ua paʻakikī ke kamaʻilio kanaka, ua hoʻomau ka hoʻopaʻapaʻa, ʻaʻohe hale kiaʻi o Babela ma ka honua.</p></blockquote>
 
 ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes a alien civilization e kamaʻilio ana ma o nā hawewe electromagnetic, ʻaʻohe mea pale ʻōlelo, a ua holomua ʻo ka ʻenehana.

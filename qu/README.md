@@ -6,17 +6,19 @@
 
 Wakin runakuna tapuyta munankuman, kunan navegadorkuna tikray ruwanakuna ruwasqayuq kasqankurayku, ¿mana necesariochu web kitita internacionalización ruway?
 
-Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka simiyuq sitiopi hunt&#39;asqa qillqa maskana chaymanta maskana motor allinchay** .
+Munani **niyta tukuy sitiota internacionalizaspalla yanapayta atiykuman achka simiyuq sitiopi hunt'asqa qillqa maskana chaymanta maskana motor allinchay** .
 
 ## Qati Qati
 
 "Biblia·Génesis".:
 
 > Ñawpa pacha runakunaqa manan simikunata t’aqaqkuchu. Paykunaqa hatunchakuspankun nacerqanku, hinaspan huk hatun torreta ruwayta munarqanku, patantaq hanaq pachaman chayaq.
+>
 > <blockquote><p>Runapa hatunchakuyninwanmi Diosqa mana allinpaqchu hapirqa, chaymi lliw kawsaqkunata imaymana cheqaskunapi chiqichirqa, mana entiendenakuspa.</p></blockquote>
+>
 > <blockquote><p>Chaymantapachan runakunapaqqa sasa rimay, ch’aqwaykunapas hinallam, kay pachapiqa manañam kanchu Babel torrepas.</p></blockquote>
 
-&quot;Kimsa-Kurku&quot; (China simipi t&#39;uqyay: `3Ti` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética olakunawan rimanakunku, mana simi hark&#39;aykunayuqmi, tecnología nisqapipas qhapaqmi.
+&quot;Kimsa-Kurku&quot; (China simipi t'uqyay: `3Ti` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética olakunawan rimanakunku, mana simi hark'aykunayuqmi, tecnología nisqapipas qhapaqmi.
 
 Suyachkani kay yanapakuypa yanapayninwan kay pachapi runakunaqa kimsa kurkuyuq runakuna hina kanankuta, rimanakuy mana simiwan hark’asqa kananta, llapa runa hukmanta hukllachasqa kananta.
 
@@ -36,7 +38,7 @@ Tikray rimaykunaqa \``` nisqamanta qhipaman simita rikuchinan tiyan, ahinataq ` 
 
 Kunanqa yanapakunmi rimay tikrayta rust, c, cpp, java, js, café, python, chaymanta bash kaqpaq.
 
-[tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) llamk&#39;apuy, aswan simikunapi rimaykunapaq tikray yanapakuy yapanaykipaq.
+[tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) llamk'apuy, aswan simikunapi rimaykunapaq tikray yanapakuy yapanaykipaq.
 
 ### Proxy Nisqa Wakichiy
 

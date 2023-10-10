@@ -13,7 +13,9 @@ Dua të them se **vetëm duke ndërkombëtarizuar të gjithë sajtin mund të mb
 "Bibla · Zanafilla":
 
 > Të lashtët nuk bënin dallime midis gjuhëve. Ata lindën me krenari dhe donin të ndërtonin një kullë të lartë me majën që arrinte deri në qiell.
+>
 > <blockquote><p>Zoti ishte i pakënaqur me arrogancën e njeriut, kështu që ai i shpërndau të gjitha gjallesat në vende të ndryshme, të paaftë për të kuptuar njëra-tjetrën.</p></blockquote>
+>
 > <blockquote><p>Që atëherë, ka qenë e vështirë për njerëzit të komunikojnë, mosmarrëveshjet kanë vazhduar dhe nuk ka Kullë të Babelit në botë.</p></blockquote>
 
 Romani fantastiko-shkencor &quot;Tre-trupi&quot; (shqiptimi kinez: `3Ti` ) imagjinon një qytetërim alien që komunikon përmes valëve elektromagnetike, nuk ka barriera gjuhësore dhe është teknologjikisht i begatë.

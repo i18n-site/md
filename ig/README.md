@@ -1,6 +1,6 @@
 <h1 style="justify-content:space-between">3Ti.Site · Chee Onweghị ókè<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, onye na-emepụta saịtị static asụsụ ọtụtụ asụsụ, nwere ike ịtụgharị Markdown na-akpaghị aka n&#39;ime [ihe karịrị narị asụsụ dị iche iche](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
+3Ti.Site, onye na-emepụta saịtị static asụsụ ọtụtụ asụsụ, nwere ike ịtụgharị Markdown na-akpaghị aka n'ime [ihe karịrị narị asụsụ dị iche iche](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
 <img src="//i-01.eu.org/i18n/lang.webp" alt="" />
 
@@ -13,7 +13,9 @@ Achọrọ m ịsị na **naanị site na ịmegharị saịtị ahụ dum ka an
 "Bible·Jenesis":
 
 > Ndị ochie aghọtaghị ihe dị iche n’asụsụ. A mụrụ ha na mpako, ha chọkwara ịrụ ụlọ elu toro ogologo nke elu ya ruru n'eluigwe.
+>
 > <blockquote><p>Chineke wedara npako madu iwe, ya mere o we chusa ihe nile di ndu n&#39;ebe di iche iche, n&#39;enweghi ike ighọta onwe-ha.</p></blockquote>
+>
 > <blockquote><p>Kemgbe ahụ, ọ na-esiri ụmụ mmadụ ike ịna-ekwurịta okwu, esemokwu ka na-aga n’ihu, e nweghị Ụlọ Elu Bebel n’ụwa.</p></blockquote>
 
 Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation Chinese: `3Ti` ) na-akọwapụta echiche efu nke mba ọzọ nke na-ekwurịta okwu site na ebili mmiri electromagnetic, enweghị ihe mgbochi asụsụ, ma nwee ọganihu na nkà na ụzụ.
@@ -36,7 +38,7 @@ Okwu ntụgharị asụsụ kwesịrị igosi asụsụ ahụ ka \``` gachara, d
 
 Ugbu a na-akwado ntụgharị okwu nkọwa maka nchara, c, cpp, java, js, kọfị, python na bash.
 
-Dezie [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) ka ịgbakwunye nkwado ntụgharị asụsụ maka nzaghachi n&#39;asụsụ ndị ọzọ.
+Dezie [tran_md/src/comment.coffee](https://github.com/i18n-site/node/blob/main/tran_md/src/comment.coffee) ka ịgbakwunye nkwado ntụgharị asụsụ maka nzaghachi n'asụsụ ndị ọzọ.
 
 ### Hazie Proxy
 

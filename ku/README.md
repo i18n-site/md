@@ -13,7 +13,9 @@ Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikar
 "Încîl · Destpêbûn":
 
 > Kalan ferq û cudahî di navbera zimanan de nekiriye. Ew bi serbilindî çêbûn û dixwestin ku bircek bilind ku serê wê bigihêje ezmanan ava bikin.
+>
 > <blockquote><p>Xwedê ji quretiya mirov aciz bû, ji ber vê yekê hemû zindiyan li cihên cuda belav kir û ji hev fêm nedikir.</p></blockquote>
+>
 > <blockquote><p>Ji wê demê û vir de, ji bo mirovan zehmet bû ku bi hev re têkilî daynin, nakokî berdewam bûn, û li dinyayê Birca Babîlê tune.</p></blockquote>
 
 Romana çîroka zanistî &quot;Three-Body&quot; (navdêra Çînî: `3Ti` ) şaristaniyeke biyanî ku bi pêlên elektromagnetîk pêwendiyê çêdike, astengên zimanî tune ne û ji hêla teknolojîk ve dewlemend e, xeyalî dike.

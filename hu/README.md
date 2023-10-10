@@ -13,7 +13,9 @@ Azt akarom mondani, hogy **csak a teljes webhely nemzetközivé tételével tudj
 "Biblia · Genesis":
 
 > A régiek nem tettek különbséget a nyelvek között. Büszkén születtek, és magas tornyot akartak építeni, melynek teteje az égig ér.
+>
 > <blockquote><p>Istennek nem tetszett az ember arroganciája, ezért minden élőlényt szétszórt különböző helyeken, nem tudták megérteni egymást.</p></blockquote>
+>
 > <blockquote><p>Azóta nehezen kommunikálnak az emberek, folytatódnak a viták, és nincs Bábel tornya a világon.</p></blockquote>
 
 A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokon keresztül kommunikál, nincs nyelvi akadálya, és technológiailag virágzó.

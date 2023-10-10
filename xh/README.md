@@ -13,7 +13,9 @@ Ndifuna ukuthi **kuphela ngokwazisa isayithi xa iyonke apho sinokuthi sixhase up
 "IBhayibhile · Genesis":
 
 > Abantu bamandulo babengahluli phakathi kweelwimi. Bazalwa benekratshi yaye bafuna ukwakha inqaba ende encopho ifikelela esibhakabhakeni.
+>
 > <blockquote><p>UThixo ke wakruquka kukukhukhumala komntu, wachithachitha yonke imiphefumlo ephilileyo ezindaweni ngeendawo, ukuba zingakwazi ukuqondana.</p></blockquote>
+>
 > <blockquote><p>Ukususela ngoko, bekunzima ukuba abantu banxibelelane, iingxabano ziye zaqhubeka, yaye ayikho iNqaba yeBhabheli ehlabathini.</p></blockquote>
 
 Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina: `3Ti` ) ivelisa impucuko yasemzini enxibelelana ngamaza ombane wombane, ayinamiqobo yolwimi, kwaye inempumelelo kubuchwepheshe.

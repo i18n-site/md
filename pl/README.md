@@ -13,7 +13,9 @@ Chcę powiedzieć, że **tylko poprzez internacjonalizację całej witryny może
 „Biblia·Geneza”:
 
 > Starożytni nie rozróżniali języków. Urodzili się z dumą i chcieli zbudować wysoką wieżę, której szczyt sięgałby nieba.
+>
 > <blockquote><p>Bóg był niezadowolony z arogancji człowieka, więc rozproszył wszystkie żyjące istoty po różnych miejscach, nie mogąc się porozumieć.</p></blockquote>
+>
 > <blockquote><p>Od tego czasu ludziom trudno się porozumieć, trwają spory, a na świecie nie ma Wieży Babel.</p></blockquote>
 
 Powieść science fiction „Trzy ciała” (chińska wymowa: `3Ti` ) fabularyzuje obcą cywilizację, która komunikuje się za pomocą fal elektromagnetycznych, nie ma barier językowych i jest zamożna technologicznie.

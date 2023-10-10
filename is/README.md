@@ -13,7 +13,9 @@ Sumir gætu viljað spyrja, nú þegar vafrar eru með innbyggða þýðingarað
 "Biblían · Genesis":
 
 > Fornmenn gerðu ekki greinarmun á tungumálum. Þeir fæddust með stolti og vildu byggja háan turn með toppinn til himins.
+>
 > <blockquote><p>Guði var óánægður með hroka mannsins, svo hann tvístraði öllum lifandi verum á ýmsa staði, ófær um að skilja hver aðra.</p></blockquote>
+>
 > <blockquote><p>Síðan þá hefur verið erfitt fyrir menn að eiga samskipti, deilur hafa haldið áfram og enginn Babelsturn er til í heiminum.</p></blockquote>
 
 Vísindaskáldsagan „Three-Body“ (kínverskur framburður: `3Ti` ) skáldar upp framandi siðmenningu sem hefur samskipti í gegnum rafsegulbylgjur, hefur engar tungumálahindranir og er tæknilega velmegandi.

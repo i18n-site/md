@@ -13,8 +13,10 @@ I want to say that **only by internationalizing the entire site can we support m
 "Bible·Genesis":
 
 > The ancients did not distinguish between languages. They were born with pride and wanted to build a tall tower with the top reaching to the sky.
-> > God was displeased with man's arrogance, so he scattered all living beings in various places, unable to understand each other.
-> > Since then, it has been difficult for humans to communicate, disputes have continued, and there is no Tower of Babel in the world.
+>
+> God was displeased with man's arrogance, so he scattered all living beings in various places, unable to understand each other.
+>
+> Since then, it has been difficult for humans to communicate, disputes have continued, and there is no Tower of Babel in the world.
 
 The science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes an alien civilization that communicates through electromagnetic waves, has no language barriers, and is technologically prosperous.
 

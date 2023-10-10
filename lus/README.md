@@ -13,7 +13,9 @@ Ka sawi duh chu **site pumpui internationalise chauhvin multi-lingual in-site fu
 "Bible·Genesis" tih a ni.:
 
 > Hmanlai mite chuan tawng an thliar hrang lo. Chhuang takin an piang a, a chunglam chu van lam thlenga sei kulh sang tak siam an duh a ni.
+>
 > <blockquote><p>Mihring chapona chu Pathian a lungawi loh avangin thil nung zawng zawng chu hmun hrang hrangah, inhriatthiam tawn thei lovin a theh darh vek a.</p></blockquote>
+>
 > <blockquote><p>Chuta tang chuan mihringte tan inbiak pawh a harsa tawh a, inhnialna a la awm zel a, khawvelah Babel Kulh a awm tawh lo.</p></blockquote>
 
 Science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) hian electromagnetic wave hmanga inbiakpawhna nei, tawng lama harsatna nei lo, technology lama hausa, alien civilization fictionalize a ni.

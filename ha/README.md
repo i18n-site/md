@@ -13,7 +13,9 @@ Ina so in faɗi cewa **ta hanyar ƙaddamar da duk rukunin yanar gizon kawai za m
 "Bible · Farawa":
 
 > Magabata ba su bambanta tsakanin harsuna ba. An haife su da girman kai kuma suna so su gina hasumiya mai tsayi wanda saman ya kai sama.
+>
 > <blockquote><p>Allah bai ji dadin girman kan mutum ba, don haka ya warwatsa duk wani mai rai a wurare daban-daban, ya kasa fahimtar juna.</p></blockquote>
+>
 > <blockquote><p>Tun daga lokacin, ya yi wa ’yan Adam wuya su iya sadarwa, an ci gaba da yin jayayya, kuma babu Hasumiyar Babel a duniya.</p></blockquote>
 
 Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci: `3Ti` ) ya ƙirƙira wani baƙon wayewa wanda ke sadarwa ta hanyar igiyoyin lantarki, ba shi da shingen harshe, kuma yana da wadata ta fasaha.

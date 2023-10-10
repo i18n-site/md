@@ -13,7 +13,9 @@ Ninataka kusema kwamba **ni kwa kuifanya tovuti nzima kuwa ya kimataifa pekee nd
 "Biblia · Mwanzo":
 
 > Watu wa kale hawakutofautisha lugha. Walizaliwa na kiburi na walitaka kujenga mnara mrefu na kilele kinachofika angani.
+>
 > <blockquote><p>Mungu alichukizwa na majivuno ya mwanadamu, kwa hiyo alitawanya viumbe vyote vilivyo hai katika sehemu mbalimbali, wasiweze kuelewana.</p></blockquote>
+>
 > <blockquote><p>Tangu wakati huo, imekuwa vigumu kwa wanadamu kuwasiliana, mizozo imeendelea, na hakuna Mnara wa Babeli ulimwenguni.</p></blockquote>
 
 Riwaya ya kisayansi ya kubuni &quot;Miili Mitatu&quot; (Matamshi ya Kichina: `3Ti` ) inabuni ustaarabu ngeni ambao huwasiliana kupitia mawimbi ya sumakuumeme, hauna vizuizi vya lugha, na umestawi kiteknolojia.

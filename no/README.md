@@ -13,7 +13,9 @@ Jeg vil si at **bare ved å internasjonalisere hele nettstedet kan vi støtte fl
 "Bibel · Genesis":
 
 > De gamle skilte ikke mellom språk. De ble født med stolthet og ønsket å bygge et høyt tårn med toppen til himmelen.
+>
 > <blockquote><p>Gud var misfornøyd med menneskets arroganse, så han spredte alle levende vesener på forskjellige steder, ute av stand til å forstå hverandre.</p></blockquote>
+>
 > <blockquote><p>Siden den gang har det vært vanskelig for mennesker å kommunisere, tvister har fortsatt, og det er ikke noe Babelstårn i verden.</p></blockquote>
 
 Science fiction-romanen &quot;Three-Body&quot; (kinesisk uttale: `3Ti` ) fiksjonaliserer en fremmed sivilisasjon som kommuniserer gjennom elektromagnetiske bølger, har ingen språkbarrierer og er teknologisk velstående.

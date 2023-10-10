@@ -13,7 +13,9 @@ Medi be magblɔ be **ne míetsɔ nyatakakadzraɖoƒe bliboa wɔ dukɔwo domee ko
 "Biblia·Mose Ƒe Agbalẽ Gbãtɔ".:
 
 > Blematɔwo mede vovototo gbegbɔgblɔwo dome o. Wodzi wo kple dada eye wodi be yewoatu xɔ kɔkɔ aɖe si tame naɖo dziƒo.
+>
 > <blockquote><p>Amegbetɔ ƒe dada medze Mawu ŋu o, eyata ekaka nu gbagbewo katã ɖe teƒe vovovowo, eye womete ŋu se wo nɔewo gɔme o.</p></blockquote>
+>
 > <blockquote><p>Tso ɣemaɣi la, esesẽna na amegbetɔwo be woaɖo dze, masɔmasɔwo yi edzi, eye Babel Mɔ̃ kɔkɔ aɖeke mele xexeame o.</p></blockquote>
 
 Dzɔdzɔmeŋutinunya me nyakpakpa gbalẽ si nye &quot;Three-Body&quot; (Chinagbe me nyayɔyɔ: `3Ti` ) tsɔ amedzro deŋgɔ aɖe si ɖoa dze to elektrikŋusẽ ƒe ƒutsotsoewo dzi, gbegbɔgblɔ ƒe mɔxenu aɖeke mele eŋu o, eye wòkpɔ dzidzedze le mɔ̃ɖaŋununya me la ƒe nyakpakpa.

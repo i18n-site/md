@@ -13,7 +13,9 @@ Nonnulli interrogare possunt, nunc navigatores in functionibus translationibus a
 "Bible· Genesis":
 
 > Antiqui inter linguas non distinxerunt. Superbia nati sunt et altam turrim cum summo caelo attingente aedificare voluerunt.
+>
 > <blockquote><p>Displicuit Deus hominis arrogantiae, ita omnia animantia diversis in locis dispersit, se invicem intelligere non valens.</p></blockquote>
+>
 > <blockquote><p>Cum ergo difficile fuerit hominibus communicare, lites continuaverunt, et turris Babel nulla est in mundo.</p></blockquote>
 
 Scientia fictionis novae &quot;Tres-Corporis&quot; (pronuntiatio Sinica: `3Ti` ) ficta civilizationem alienam, quae per undas electromagneticos communicat, linguae claustra non habet et technicae artis prosper est.
@@ -32,7 +34,7 @@ Post translationem modificatam, debes re-currere `./i18n.sh` ad cella renovare.
 
 ### Notae Translationis
 
-Commentaria translationis opus est ad indicandam linguam \````, sicut ` ```rust` .
+Commentaria translationis opus est ad indicandam linguam ``, sicut ` `rust` .
 
 In statu interpretationem commentarium sustinet pro rubigine, c, cpp, java, js, capulus, python, et vercundus.
 
