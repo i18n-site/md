@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · बिना सीमा दे विचार<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · बिना सीमा दे सोचो<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, इक बहु-भाषा स्थिर साइट जनरेटर, मार्कडाउन दा स्वतः [सौ शा मती बक्ख-बक्ख भाशाएं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) च अनुवाद करी सकदा ऐ .
 

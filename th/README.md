@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · ความคิดไร้ขอบเขต<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · คิดอย่างไร้ขอบเขต<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site ซึ่งเป็นเครื่องมือสร้างเว็บไซต์คงที่หลายภาษา สามารถแปล Markdown เป็น [ภาษาต่างๆ มากกว่าร้อยภาษา](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ได้โดยอัตโนมัติ
 

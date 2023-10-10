@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Isizinda · Imicabango engenamingcele<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Isizinda · Cabanga ngaphandle kwemingcele<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 I-3Ti.Site, ijeneretha yesayithi emile yezilimi eziningi, ingahumushela ngokuzenzakalelayo i-Markdown [ezilimini ezingaphezu kwekhulu ezahlukene](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

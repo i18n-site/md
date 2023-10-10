@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Temiandu rembe’y’ỹva<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Ñapensa frontera’ỹre<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, peteĩ generador sitio estático heta ñe’ẽ rehegua, ikatu ombohasa ijeheguiete Markdown [hetave cien ñe’ẽ iñambuévape](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

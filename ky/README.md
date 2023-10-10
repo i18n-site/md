@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Чек арасыз ойлор<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Чек арасыз ойлонуңуз<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, көп тилдүү статикалык сайт генератору, Markdown&#39;ду автоматтык түрдө [жүздөн ашык башка тилдерге](https://github.com/i18n-site/node/blob/main/lang/src/index.js) которо алат.
 

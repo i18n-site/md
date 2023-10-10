@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Malingaliro opanda malire<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Ganizani popanda malire<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, jenereta ya webusayiti ya zinenero zambiri, imatha kumasulira Markdown [m&#39;zilankhulo zoposa zana](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

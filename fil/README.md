@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Mga kaisipang walang hangganan<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Mag-isip nang walang hangganan<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 Ang 3Ti.Site, isang multi-language na static na site generator, ay maaaring awtomatikong isalin ang Markdown sa [higit sa isang daang iba&#39;t ibang wika](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

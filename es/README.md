@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Pensamientos sin fronteras<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Pensar sin fronteras<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, un generador de sitios estáticos en varios idiomas, puede traducir automáticamente Markdown a [más de cien idiomas diferentes](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

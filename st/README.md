@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Sebaka · Menahano e se nang meedi<img src="//i-01.eu.org/i18n/logo.svg" style="width:42px;margin-top:-1px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Nahana ntle le meeli<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, jenereithara ea sebaka se sa fetoheng sa lipuo tse ngata, e ka fetolela Markdown [lipuong tse fetang lekholo tse fapaneng](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
