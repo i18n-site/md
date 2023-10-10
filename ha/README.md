@@ -14,7 +14,7 @@ Littafi Mai Tsarki · Farawa :
 
 > A zamanin dā, sa’ad da harsuna ɗaya suke, ’yan Adam sun gina hasumiya da ta kai zuwa sama, hanyar shiga yankin Allah, da ke shelar ikon ’yan Adam.
 >
-> Allah ya ce: “Mutane sun haɗu a matsayin kabila ɗaya, da harshe ɗaya, kuma wannan hasumiya ba ta zama ba face ginshiƙi.
+> Allah ya ce: “Mutane sun haɗu a matsayin kabila ɗaya, da harshe ɗaya, kuma wannan hasumiya ba ta zama ba face gabatarwa. Yanzu sun cimma burinsu, kuma ba za a ƙara samun tsoro ba.
 >
 > Ta haka ne Allah ya sauko, ya watsar da mutane zuwa kusurwoyi daban-daban, yana amfani da harsuna daban-daban.
 >

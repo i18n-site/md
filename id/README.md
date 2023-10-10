@@ -14,7 +14,7 @@ Alkitab · Kejadian :
 
 > Pada zaman kuno, ketika bahasa-bahasa masih satu, umat manusia membangun sebuah menara yang mencapai langit, sebuah portal menuju wilayah kekuasaan Tuhan, memberitakan kekuatan umat manusia.
 >
-> Tuhan menyatakan, "Manusia bersatu sebagai satu suku, dengan bahasa yang sama, dan menara ini hanyalah sebuah prolog. Sekarang mereka mencapai keinginan mereka, dan tidak ada rasa hormat yang tersisa."
+> Tuhan menyatakan, "Manusia bersatu sebagai satu suku, dengan bahasa yang sama, dan menara ini hanyalah sebuah prolog. Sekarang mereka mencapai keinginan mereka, dan tidak akan ada lagi rasa takut."
 >
 > Jadi, Tuhan turun, menyebarkan manusia ke berbagai penjuru, menggunakan bahasa yang berbeda.
 >

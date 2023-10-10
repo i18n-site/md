@@ -14,7 +14,7 @@ Bib · Jenèz :
 
 > Nan tan lontan, lè lang yo te yon sèl, limanite te bati yon gwo fò won rive nan syèl la, yon pòtal nan domèn Bondye a, pwoklame pisans limanite.
 >
-> Bondye te deklare, "Gason ini kòm yon sèl tribi, ak yon lang pataje, ak gwo kay won sa a se sèlman yon pwològ. Kounye a yo reyalize dezi yo, epi pa gen okenn respè ap rete."
+> Bondye te deklare, "Gason ini kòm yon sèl branch fanmi, ak yon lang pataje, ak gwo kay won sa a se sèlman yon pwològ. Kounye a yo reyalize dezi yo, epi p ap gen laperèz ankò."
 >
 > Kidonk, Bondye desann, gaye moun nan diferan kwen, sèvi ak lang diferan.
 >

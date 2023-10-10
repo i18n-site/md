@@ -14,7 +14,7 @@ Paipera · Genesis :
 
 > I nga wa onamata, i te kotahitanga o nga reo, i hanga e te tangata he pourewa e eke ana ki te rangi, he tomokanga ki te rohe o te Atua, hei whakaatu i te kaha o te tangata.
 >
-> Ka kii te Atua, "Ka whakakotahi nga tangata hei iwi kotahi, me te reo tahi, ko tenei pourewa he kupu tuatahi. Inaianei kua tutuki to ratou hiahia, kare he wehi e mau."
+> Ka mea te Atua, "Ka hui nga tangata ki te iwi kotahi, ki te reo tahi, ko tenei pourewa he kupu tuatahi. Inaianei kua tutuki i a ratou to ratou hiahia, a kore ake he wehi."
 >
 > No reira, ka heke iho te Atua, whakamararatia nga tangata ki nga kokonga rereke, whakamahi reo rereke.
 >

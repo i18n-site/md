@@ -14,7 +14,7 @@ Biblija · Postanak :
 
 > U davna vremena, kada su jezici bili jedan, čovječanstvo je izgradilo kulu koja seže do nebesa, portal u Božju oblast, proglašavajući moć čovječanstva.
 >
-> Bog je izjavio: "Ljudi se ujedinjuju kao jedno pleme, sa zajedničkim jezikom, a ova kula je samo prolog. Sada oni ostvaruju svoju želju i nikakvo poštovanje neće ostati."
+> Bog je objavio: "Ljudi se ujedinjuju kao jedno pleme, sa zajedničkim jezikom, a ova kula je samo prolog. Sada ostvaruju svoju želju i više neće biti straha."
 >
 > Tako je Bog sišao, raspršivši ljude u različite kutove, koristeći različite jezike.
 >

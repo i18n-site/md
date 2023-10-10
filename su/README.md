@@ -14,7 +14,7 @@ Alkitab · Kajadian :
 
 > Jaman baheula, nalika basa hiji, umat manusa ngawangun munara nepi ka langit, hiji portal ka domain Allah, proclaiming kakuatan umat manusa.
 >
-> Allah nyatakeun, "Lalaki ngahiji salaku hiji suku, kalawan basa dibagikeun, sarta munara ieu ngan hiji prolog. Ayeuna aranjeunna ngahontal kahayang maranéhanana, sarta euweuh reverence bakal tetep."
+> Allah nyatakeun, "Lalaki ngahiji salaku hiji suku, kalawan basa dibagikeun, sarta munara ieu ngan prolog. Ayeuna aranjeunna ngahontal kahayang maranéhanana, sarta moal aya deui sieun."
 >
 > Ku kituna, Allah lungsur, scattering jalma ka béda sudut, make basa béda.
 >

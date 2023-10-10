@@ -14,7 +14,7 @@ Macaafa Qulqulluu · Seera Uumamaa :
 
 > Bara durii, yeroo afaanonni tokko turanitti, dhalli namaa masaraa hanga samiitti gahu, balbala gara bulchiinsa Waaqayyootti geessu ijaaree, humna dhala namaa labsaa ture.
 >
-> Waaqayyo, "Dhiironni akka gosa tokkootti, arraba waliinii wajjin tokko ta'u, masaraan kun seensa qofa. Amma fedhii isaanii galmaan ga'u, kabajni tokkollee hin hafu" jedhee labseera.
+> Waaqayyo, "Dhiironni akka gosa tokkootti, arraba waliinii wajjin tokko ta'u, masaraan kun seensa qofa. Amma fedhii isaanii galmaan ga'u, kana booda sodaan hin jiraatu" jedhee labseera.
 >
 > Akkasitti Waaqayyo gadi bu'e, namoota gara golee adda addaatti facaase, afaan adda addaa fayyadame.
 >

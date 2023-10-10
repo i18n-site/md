@@ -14,7 +14,7 @@ Bibbja · Ġenesi :
 
 > Fi żminijiet tal-qedem, meta l-lingwi kienu ħaġa waħda, l-umanità bniet torri li jilħaq is-smewwiet, portal għad-dominju t’Alla, u pproklama l-qawwa tal-umanità.
 >
-> Alla ddikjara, "L-irġiel jingħaqdu bħala tribù wieħed, b'ilsien komuni, u dan it-torri huwa biss prologu. Issa jilħqu x-xewqa tagħhom, u l-ebda riverenza ma tibqa '."
+> Alla ddikjara, "L-irġiel jingħaqdu bħala tribù wieħed, b'ilsien komuni, u dan it-torri huwa biss prologu. Issa jilħqu x-xewqa tagħhom, u ma jkunx hemm aktar biża '."
 >
 > Għalhekk, Alla niżel, ixerred lin-nies lejn irkejjen differenti, juża lingwi differenti.
 >

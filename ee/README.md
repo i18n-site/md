@@ -14,7 +14,7 @@ Biblia · Mose ƒe Agbalẽ Gbãtɔ :
 
 > Le blemaɣeyiɣiwo me, esime gbegbɔgblɔwo nye ɖeka la, ameƒomea tu xɔ kɔkɔ aɖe si keke ta ɖo dziƒo, si nye agbo si dzi woato ayi Mawu ƒe dziɖuƒe, henɔ gbeƒã ɖem ameƒomea ƒe ŋusẽ.
 >
-> Mawu ɖe gbeƒãe be, "Ŋutsuwo wɔa ɖeka abe to ɖeka ene, kple aɖe ɖeka, eye xɔ kɔkɔ sia nye ŋgɔdonya ko. Fifia woɖo woƒe didi gbɔ, eye bubu aɖeke maganɔ anyi o."
+> Mawu ɖe gbeƒãe be, "Ŋutsuwo wɔa ɖeka abe to ɖeka ene, kple aɖe ɖeka, eye xɔ kɔkɔ sia nye ŋgɔdonya ko. Fifia woɖo woƒe didi gbɔ, eye vɔvɔ̃ maganɔ anyi o."
 >
 > Eyata Mawu ɖiɖi, kaka amewo ɖe dzogoe vovovowo dzi, zã gbegbɔgblɔ vovovowo.
 >

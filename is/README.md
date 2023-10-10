@@ -14,7 +14,7 @@ Biblían · Fyrsta Mósebók :
 
 > Í fornöld, þegar tungumál voru eitt, byggði mannkynið turn sem náði til himins, gátt að ríki Guðs og boðaði mátt mannkyns.
 >
-> Guð lýsti yfir: "Menn sameinast sem ein ættkvísl, með sameiginlegri tungu, og þessi turn er aðeins formáli. Nú ná þeir löngun sinni og engin lotning verður eftir."
+> Guð lýsti yfir: "Menn sameinast sem ein ættkvísl, með sameiginlegri tungu, og þessi turn er aðeins formáli. Nú ná þeir löngun sinni og ótti verður ekki lengur til."
 >
 > Þannig kom Guð niður, tvístraði fólki í mismunandi horn, notaði mismunandi tungumál.
 >

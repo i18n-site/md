@@ -14,7 +14,7 @@ Bible · Genèse :
 
 > Dans les temps anciens, lorsque les langues n'en faisaient qu'une, l'humanité construisait une tour atteignant les cieux, un portail vers le domaine de Dieu, proclamant la puissance de l'humanité.
 >
-> Dieu a déclaré : « Les hommes s'unissent en une seule tribu, avec une langue commune, et cette tour n'est qu'un prologue. Maintenant, ils réalisent leur désir, et aucune révérence ne subsistera. »
+> Dieu a déclaré : « Les hommes s'unissent en une seule tribu, avec une langue commune, et cette tour n'est qu'un prologue. Maintenant, ils réalisent leur désir et il n'y aura plus de peur. »
 >
 > Ainsi, Dieu est descendu, dispersant les gens dans différents coins et utilisant différentes langues.
 >

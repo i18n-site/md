@@ -14,7 +14,7 @@ Raamattu · Genesis :
 
 > Muinaisina aikoina, kun kielet olivat yhtä, ihmiskunta rakensi tornin, joka ulottui taivaaseen, portin Jumalan valtakuntaan, joka julisti ihmiskunnan voimaa.
 >
-> Jumala julisti: "Ihmiset yhdistyvät yhdeksi heimoksi, joilla on yhteinen kieli, ja tämä torni on vain prologi. Nyt he saavuttavat halunsa, eikä kunnioitusta jää jäljelle."
+> Jumala julisti: "Ihmiset yhdistyvät yhdeksi heimoksi, joilla on yhteinen kieli, ja tämä torni on vain prologi. Nyt he saavuttavat halunsa, eikä enää ole pelkoa."
 >
 > Siten Jumala laskeutui, hajoten ihmisiä eri kulmiin, käyttivät eri kieliä.
 >

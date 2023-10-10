@@ -14,7 +14,7 @@ IBhayibhile · Genesis :
 
 > Mandulo, xa iilwimi zazinye, abantu babesakha inqaba efikelela emazulwini, isango lolawulo lukaThixo, bevakalisa amandla oluntu.
 >
-> UThixo wathi: “Abantu bamanyene njengesizwe esinye, bethetha ngazwi linye, yaye le nqaba iyintshayelelo.
+> UThixo wathi, “Abantu bamanyene njengesizwe esinye, bethetha ulwimi olumanyeneyo, yaye le nqaba iyintshayelelo. Ngoku bayawufeza umnqweno wabo, yaye akusayi kubakho loyiko.”
 >
 > Ngaloo ndlela, uThixo wehla, wabachithachitha abantu kwiimbombo ezahlukahlukeneyo, esebenzisa iilwimi ezahlukahlukeneyo.
 >

@@ -14,7 +14,7 @@ Bible · Chiv Keeb :
 
 > Nyob rau hauv ancient sij hawm, thaum hom lus yog ib tug, tib neeg tsim ib tug pej thuam mus txog saum ntuj ceeb tsheej, lub portal rau Vajtswv lub teb chaws, tshaj tawm lub hwj chim ntawm noob neej.
 >
-> Vajtswv hais tias, "Cov txiv neej sib sau ua ib pab neeg, nrog ib tus nplaig sib koom, thiab lub pej thuam no tsuas yog hais lus, tam sim no lawv ua tiav lawv lub siab nyiam, thiab tsis muaj kev hwm yuav nyob twj ywm."
+> Vajtswv hais tias, "Cov txiv neej sib sau ua ib pab neeg, nrog ib tus nplaig sib koom, thiab lub pej thuam no tsuas yog hais lus, tam sim no lawv ua tiav lawv lub siab nyiam, thiab yuav tsis muaj kev ntshai ntxiv lawm."
 >
 > Yog li ntawd, Tswv Ntuj tau nqis los, faib neeg mus rau lwm qhov chaw, siv ntau hom lus.
 >

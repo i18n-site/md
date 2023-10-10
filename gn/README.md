@@ -14,7 +14,7 @@ Biblia · Génesis :
 
 > Ymave, ñe’ẽnguéra peteĩnte jave, yvypóra omopu’ã peteĩ tórre oĝuahẽva yvága peve, peteĩ portal Ñandejára dominio-pe, omoherakuãvo yvypóra pu’aka.
 >
-> Ñandejára odeclara: "Kuimba'ekuéra oñembojoaju peteĩ tribu ramo, peteĩ lengua compartida reheve, ha ko torre ha'e peteĩ prólogo añónte. Ko'ágã ohupyty hikuái hembipota, ha ndopytamo'ãi reverencia".
+> Ñandejára odeclara: "Kuimba'ekuéra oñembojoaju peteĩ tribu ramo, peteĩ lengua compartida reheve, ha ko torre ha'e peteĩ prólogo añónte. Ko'ágã ohupyty hikuái hembipota, ha ndaiporimo'ãvéima kyhyje".
 >
 > Péicha, Tupã oguejy, omosarambívo tapichakuérape diferente esquina-pe, oiporu diferente idioma.
 >

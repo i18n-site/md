@@ -14,7 +14,7 @@ Biblia · Genezis :
 
 > V dávnych dobách, keď jazyky boli jedným, ľudstvo postavilo vežu siahajúcu až do nebies, portál do Božej ríše, hlásajúc silu ľudstva.
 >
-> Boh vyhlásil: "Ľudia sa zjednocujú ako jeden kmeň so spoločným jazykom a táto veža je len prológom. Teraz dosiahli svoju túžbu a nezostane im žiadna úcta."
+> Boh vyhlásil: "Ľudia sa zjednocujú ako jeden kmeň so spoločným jazykom a táto veža je len prológom. Teraz dosiahnu svoju túžbu a už nebude viac strachu."
 >
 > Boh teda zostúpil, rozptýlil ľudí do rôznych kútov, používal rôzne jazyky.
 >

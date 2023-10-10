@@ -14,7 +14,7 @@ Baiboly · Genesisy :
 
 > Tamin’ny andro fahiny, fony mbola iray ihany ny fiteny, ny olombelona dia nanorina tilikambo mipaka hatrany amin’ny lanitra, vavahadin’ny fanjakan’Andriamanitra, manambara ny herin’ny olombelona.
 >
-> Hoy Andriamanitra: “Mitambatra ho firenena iray ny olona, ​​manana lela iombonan’ny olona, ​​ary safon-teny fotsiny ity tilikambo ity;
+> Izao no nambaran’Andriamanitra: “Mitambatra ho firenena iray ny olona, ​​ary iombonan’ny olona ny lelany, ary ity tilikambo ity dia sarin-teny.
 >
 > Noho izany, Andriamanitra dia nidina, nampiely ny olona amin'ny vazan-tany samihafa, mampiasa fiteny samihafa.
 >

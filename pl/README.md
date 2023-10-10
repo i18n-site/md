@@ -14,7 +14,7 @@ Biblia · Geneza :
 
 > W starożytności, kiedy języki były jednym, ludzkość zbudowała wieżę sięgającą nieba, portal do królestwa Boga, głoszący potęgę ludzkości.
 >
-> Bóg oświadczył: „Ludzie jednoczą się jako jedno plemię i mają wspólny język, a ta wieża to tylko prolog. Teraz spełniają swoje pragnienia i nie pozostanie już żaden szacunek”.
+> Bóg oświadczył: „Ludzie jednoczą się jako jedno plemię i mają wspólny język, a ta wieża to tylko prolog. Teraz spełnili swoje pragnienia i nie będzie już strachu”.
 >
 > W ten sposób zstąpił Bóg, rozpraszając ludzi w różne zakątki, posługując się różnymi językami.
 >

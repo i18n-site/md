@@ -14,7 +14,7 @@ Biblia · Geneza :
 
 > În vremurile străvechi, când limbile erau una, omenirea a construit un turn care ajungea până la ceruri, un portal către domeniul lui Dumnezeu, proclamând puterea omenirii.
 >
-> Dumnezeu a declarat: „Oamenii se unesc ca un singur trib, cu o limbă comună, iar acest turn nu este decât un prolog.
+> Dumnezeu a declarat: „Oamenii se unesc ca un singur trib, cu o limbă comună, iar acest turn este doar un prolog. Acum ei își îndeplinesc dorința și nu va mai fi frică”.
 >
 > Astfel, Dumnezeu a coborât, împrăștiind oamenii în diferite colțuri, folosesc diferite limbi.
 >

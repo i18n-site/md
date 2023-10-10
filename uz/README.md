@@ -14,7 +14,7 @@ Injil · Ibtido :
 
 > Qadim zamonlarda, tillar bir bo‘lganida, insoniyat osmonga yetib boruvchi minora, Xudoning qudratini e’lon qiladigan darvoza qurgan.
 >
-> Xudo: "Odamlar bir qabila bo'lib birlashadilar, tillari umumiydir va bu minora faqat muqaddimadir. Endi ular o'z xohishlariga erishadilar va hech qanday hurmat qolmaydi".
+> Xudo shunday dedi: "Odamlar bir qabila bo'lib, umumiy til bilan birlashadilar va bu minora faqat muqaddimadir. Endi ular o'z xohishlariga erishadilar va endi qo'rquv bo'lmaydi".
 >
 > Shunday qilib, Xudo odamlarni turli burchaklarga tarqatib, turli tillarni ishlatib, tushdi.
 >

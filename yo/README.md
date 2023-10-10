@@ -14,7 +14,7 @@ Bibeli · Genesisi :
 
 > Láyé àtijọ́, nígbà táwọn èdè jẹ́ ọ̀kan, ẹ̀dá ènìyàn kọ́ ilé gogoro kan tí ó kan ọ̀run, ọ̀nà àbáwọlé kan sí ìṣàkóso Ọlọ́run, tí ń kéde agbára ìran ènìyàn.
 >
-> Ọlọ́run sọ pé: “Àwọn ènìyàn para pọ̀ ṣọ̀kan gẹ́gẹ́ bí ẹ̀yà kan, ní ahọ́n pínpín, ilé ìṣọ́ yìí kì í sì í ṣe ọ̀rọ̀ ìṣísẹ̀.
+> Ọlọ́run sọ pé: “Àwọn ènìyàn para pọ̀ jẹ́ ẹ̀yà kan, ní ahọ́n pínpín, ilé ìṣọ́ yìí kì í sì í ṣe ọ̀rọ̀ ìṣáájú. Ní báyìí, wọ́n ṣe ìfẹ́ ọkàn wọn, kì yóò sì sí ẹ̀rù mọ́.”
 >
 > Nípa bẹ́ẹ̀, Ọlọ́run sọ̀ kalẹ̀, ó sì tú àwọn ènìyàn ká sí oríṣiríṣi ìhà, ó ń lo èdè.
 >

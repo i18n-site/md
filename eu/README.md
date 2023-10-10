@@ -14,7 +14,7 @@ Biblia · Genesis :
 
 > Antzina, hizkuntzak bat zirenean, gizateriak zeruraino iristen zen dorre bat eraiki zuen, Jainkoaren domeinurako atari bat, gizakiaren boterea aldarrikatuz.
 >
-> Jainkoak adierazi zuen: "Gizonak tribu bat bezala elkartzen dira, hizkuntza partekatuarekin, eta dorre hau hitzaurre bat baino ez da. Orain beren nahia lortzen dute, eta ez da begirunerik geratuko".
+> Jainkoak adierazi zuen: "Gizonak tribu bat bezala elkartzen dira, hizkuntza partekatuarekin, eta dorre hau hitzaurre bat besterik ez da. Orain beren nahia lortzen dute, eta ez da gehiago beldurrik izango".
 >
 > Horrela, Jainkoa jaitsi zen, jendea bazter ezberdinetara sakabanatzen, hizkuntza desberdinak erabiltzen.
 >

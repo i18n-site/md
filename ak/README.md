@@ -14,7 +14,7 @@ Bible · Genesis :
 
 > Tete mmere mu, bere a na kasa horow yɛ biako no, adesamma sii abantenten bi a ɛkɔ soro, ɔpon a ɛkɔ Onyankopɔn ahenni mu, na wɔbɔɔ adesamma tumi ho dawuru.
 >
-> Onyankopɔn paee mu kae sɛ, "Mmarima ka bom sɛ abusuakuw biako, a wɔde tɛkrɛma kyɛ, na abantenten yi yɛ nnianim asɛm ara kwa. Afei wodu wɔn akɔnnɔ ho, na obu biara renka."
+> Onyankopɔn paee mu kae sɛ, "Mmarima ka bom sɛ abusuakuw biako, a wɔde tɛkrɛma a wɔkyɛ, na abantenten yi yɛ nnianim asɛm ara kwa. Afei wodu wɔn akɔnnɔ ho, na ehu biara nni hɔ bio."
 >
 > Enti, Onyankopɔn siane, ɔbɔɔ nnipa hwetee kɔɔ mmeae ahorow, de kasa ahorow dii dwuma.
 >

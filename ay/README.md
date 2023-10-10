@@ -14,7 +14,7 @@ Biblia · Génesis qillqata :
 
 > Nayra tiemponjja, arunakajj mayakïkäna ukhajja, jaqenakajj alajjpachar puriñkamaw mä torre lurapjjerïna, Diosan apnaqäwipar mantañatak mä punku, jaqenakan chʼamap yatiyasa.
 >
-> Diosax akham sasaw yatiyäna: "Chachanakax mä tribur uñtataw mayacht'asipxi, mä sapa arumpiw mayacht'asipxi, ukat aka torrex mä prologo ukhamakiwa. Jichhax munañanakap phuqhapxi, janiw kuna respetos qhiparakaniti".
+> Diosax akham sasaw yatiyäna: "Jaqinakax mä tribur uñtataw mayacht'asipxi, mä sapa arumpiw mayacht'asipxi, ukat aka torrex mä prologo ukhamakiwa. Jichhax munañanakap phuqhapxi, janiw juk'amp axsarañax utjxaniti".
 >
 > Ukhamatwa Diosax saraqanïna, jaqinakarux kunayman k’uchunakaruw ch’iqiyatayna, kunayman arunak apnaqatayna.
 >

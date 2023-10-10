@@ -14,7 +14,7 @@ Biblia · Génesis :
 
 > Ñawpa pachakunapi, simikuna huklla kaptin, runa kayqa hanaq pachaman chayaq torreta ruwarqanku, Diospa kamachiyninman haykunapaq punkuta, runaq atiyninta willaspa.
 >
-> Diosmi willarqan: "Runakunaqa hukllachakunku huk ayllu hina, huk simillawan, kay torretaq huk prologolla. Kunanqa munasqankuta hunt'anku, manataqmi yupaychaypas qhepanqachu".
+> Diosmi willarqan: "Runakunaqa hukllachakunku huk ayllu hina, huk simillawan, kay torretaq huk prologolla. Kunanqa munasqankuta hunt'anku, manañan manchakuy kanqachu".
 >
 > Chhaynapin Diosqa uraykamurqan, imaymana k’uchukunaman runakunata ch’eqechispa, hukniray simikunata rimaspa.
 >

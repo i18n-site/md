@@ -14,7 +14,7 @@ Biblija · Pradžios knyga :
 
 > Senovėje, kai kalbos buvo viena, žmonija pastatė bokštą, siekiantį dangų, vartą į Dievo sritį, skelbiantį žmonijos galią.
 >
-> Dievas pareiškė: "Žmonės vienijasi kaip viena gentis, bendru liežuviu, ir šis bokštas tėra prologas. Dabar jie pasiekia savo troškimą ir pagarbos neliks."
+> Dievas pareiškė: "Vyrai susivienija kaip viena gentis, bendru liežuviu, ir šis bokštas yra tik prologas. Dabar jie pasiekia savo troškimą ir nebebus baimės."
 >
 > Taigi Dievas nusileido, išsklaidydamas žmones į skirtingus kampelius, vartodamas skirtingas kalbas.
 >

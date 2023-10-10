@@ -14,7 +14,7 @@ Bazı insanlar, artık tarayıcıların yerleşik çeviri işlevlerine sahip old
 
 > Dillerin bir olduğu eski çağlarda insanlık, insanoğlunun gücünü ilan eden, Tanrı'nın hakimiyetine açılan bir kapı olan göklere uzanan bir kule inşa etti.
 >
-> Tanrı şöyle ilan etti: "İnsanlar ortak bir dille tek bir kabile olarak birleşiyorlar ve bu kule yalnızca bir giriş. Artık arzularına ulaşıyorlar ve geriye hiçbir saygı kalmayacak."
+> Tanrı şöyle ilan etti: "İnsanlar ortak bir dille tek bir kabile olarak birleşiyorlar ve bu kule yalnızca bir giriş. Artık arzularına ulaşıyorlar ve artık korku olmayacak."
 >
 > Böylece Tanrı inmiş, insanları farklı köşelere dağıtmış, farklı diller kullanmıştır.
 >

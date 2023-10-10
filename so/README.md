@@ -14,7 +14,7 @@ Baybalka · Bilowgii :
 
 > Waagii hore, markii afafku midaysnaayeen, bini'aadmigu waxay dhiseen munaarad samada gaadhaysa, oo marin u ah xuddunta Ilaah, oo ku dhawaaqda xoogga aadanaha.
 >
-> Illahay wuxuu yidhi, "Raggu waxay ku midoobaan hal qabiil, oo af la wadaago, oo munaaraddani waa horudhac, hadda waxay gaadhaan rabitaankooda, ixtiraamna ma hadhi doonaan."
+> Illahay waxa uu yidhi, “Ragu waxay ku midoobaan hal qabiil, oo af la wadaaga, munaaraddani waa horudhac, hadda waxay gaadhaan rabitaankooda, cabsi dambena ma jiri doonto.
 >
 > Sidaa darteed, Ilaah baa soo degay, oo dadka u kala firdhiyey geeso kala duwan, oo afaf kala duwan u adeegsaday.
 >

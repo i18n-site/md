@@ -14,7 +14,7 @@ Ez dixwazim bibêjim ku **tenê bi navneteweyîkirina tevahiya malperê em dikar
 
 > Di demên kevnare de, dema ku ziman yek bûn, mirovahiyê bircek ku digihije ezmanan, dergehek ji qada Xwedê re ava kir û hêza mirovahiyê ragihand.
 >
-> Xwedê daxuyand, "Mirov wek yek eşîrê, bi zimanekî hevpar dibin yek, û ev birca pêşgotinek e. Niha ew digihîjin daxwaza xwe, û hurmetek wê nemîne."
+> Xwedê daxuyand, "Mirov wek yek qebîle, bi zimanekî hevpar dibin yek û ev birca pêşgotinek e. Niha ew digihîjin daxwaza xwe û êdî tirs tune."
 >
 > Ji ber vê yekê, Xwedê daket, mirovan li quncikên cihê belav kir, zimanên cihê bikar anîn.
 >

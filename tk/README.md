@@ -14,7 +14,7 @@ Injil · Gelip çykyş :
 
 > Gadymy döwürlerde diller bir bolan mahaly adamzat gudratyny yglan edip, asmana ýetýän diň, Taňrynyň ygtyýaryna girýän diň gurupdyr.
 >
-> Hudaý: "Adamlar bir taýpa bolup, umumy dilde birleşýärler, bu diň diňe başlangyç söz. Indi isleglerine ýetýärler, hormat galmaz" -diýdi.
+> Hudaý "Adamlar bir taýpa bolup, umumy dilde birleşýärler, bu diň diňe başlangyç söz. Indi isleglerine ýetdiler, mundan beýläk gorky bolmaz" -diýdi.
 >
 > Şeýlelik bilen, Hudaý inip, adamlary dürli burçlara ýaýratdy, dürli dilleri ulandy.
 >

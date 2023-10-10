@@ -14,7 +14,7 @@ Bibelen · Første Mosebog :
 
 > I oldtiden, hvor sprog var ét, byggede menneskeheden et tårn, der nåede til himlen, en portal til Guds domæne, der forkyndte menneskehedens magt.
 >
-> Gud erklærede: "Mænd forenes som én stamme, med en fælles tunge, og dette tårn er kun en prolog. Nu opnår de deres ønske, og ingen ærbødighed vil blive tilbage."
+> Gud erklærede: "Mænd forenes som én stamme, med en fælles tunge, og dette tårn er kun en prolog. Nu opnår de deres ønske, og der vil ikke være mere frygt."
 >
 > Således kom Gud ned, spredte mennesker til forskellige hjørner, bruger forskellige sprog.
 >

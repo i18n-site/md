@@ -14,7 +14,7 @@ Baibulo · Genesis :
 
 > M’nthaŵi zakale, pamene zinenero zinali chimodzi, anthu anamanga nsanja yofika kumwamba, khomo lolowera ku ulamuliro wa Mulungu, yolengeza mphamvu za anthu.
 >
-> Mulungu anati: “Anthu amalumikizana ngati fuko limodzi ndi lilime logawana, ndipo nsanja iyi ndi mawu oyambira.
+> Mulungu ananena kuti: “Anthu agwirizana ngati fuko limodzi ndi lilime lofanana, ndipo nsanja iyi ndi mawu oyambira.
 >
 > Chotero, Mulungu anatsika, nabalalitsa anthu kumakona osiyanasiyana, akugwiritsa ntchito zilankhulo zosiyanasiyana.
 >

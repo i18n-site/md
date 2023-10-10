@@ -14,7 +14,7 @@ Demək istəyirəm ki **, yalnız bütün saytı beynəlmiləlləşdirməklə bi
 
 > Qədim dövrlərdə, dillər bir olanda, bəşəriyyət göylərə uzanan bir qüllə, Allahın qüdrətini elan edən bir qapı tikdi.
 >
-> Allah bəyan etdi: "İnsanlar bir qəbilə kimi, ortaq dildə birləşirlər və bu qüllə yalnız bir müqəddimədir. İndi onlar öz arzularına çatırlar və heç bir ehtiram qalmayacaq."
+> Allah bəyan etdi: "İnsanlar bir qəbilə kimi, ortaq dildə birləşirlər və bu qüllə yalnız bir müqəddimədir. İndi onlar öz istəklərinə çatırlar və artıq qorxu olmayacaq".
 >
 > Beləliklə, Allah nazil olub, insanları müxtəlif guşələrə səpələyib, müxtəlif dillərdən istifadə edir.
 >

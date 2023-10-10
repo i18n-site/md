@@ -14,7 +14,7 @@ Piibel · Genesis :
 
 > Iidsetel aegadel, kui keeled olid üks, ehitas inimkond taevasse ulatuva torni, portaali Jumala valdusse, kuulutades inimkonna vägevust.
 >
-> Jumal kuulutas: "Mehed ühinevad üheks hõimuks, kellel on ühine keel, ja see torn on vaid proloog. Nüüd saavutavad nad oma soovi ja austust ei jää."
+> Jumal kuulutas: "Mehed ühinevad üheks hõimuks, kellel on ühine keel, ja see torn on vaid proloog. Nüüd saavutavad nad oma soovi ja hirmu ei ole enam."
 >
 > Seega laskus Jumal alla, hajutades inimesi erinevatesse nurkadesse, kasutades erinevaid keeli.
 >

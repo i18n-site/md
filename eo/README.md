@@ -14,7 +14,7 @@ Biblio · Genezo :
 
 > En antikvaj tempoj, kiam lingvoj estis unu, la homaro konstruis turon atingantan al la ĉielo, portalo al la domajno de Dio, proklamante la potencon de la homaro.
 >
-> Dio deklaris, "Homoj kuniĝas kiel unu tribo, kun komuna lango, kaj ĉi tiu turo estas nur prologo. Nun ili atingas sian deziron, kaj neniu respekto restos."
+> Dio deklaris: "Homoj kuniĝas kiel unu tribo, kun komuna lango, kaj ĉi tiu turo estas nur antaŭparolo. Nun ili atingas sian deziron, kaj ne plu estos timo."
 >
 > Tiel, Dio malsupreniris, disĵetante homojn al malsamaj anguloj, uzi malsamajn lingvojn.
 >

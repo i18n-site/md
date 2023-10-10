@@ -14,7 +14,7 @@ Biblia · Xénese :
 
 > Nos tempos antigos, cando as linguas eran unha soa, a humanidade construíu unha torre que chegaba ata o ceo, un portal ao dominio de Deus, proclamando o poder da humanidade.
 >
-> Deus declarou: "Os homes únense como unha soa tribo, cunha lingua compartida, e esta torre non é máis que un prólogo. Agora conseguen o seu desexo e non quedará ningunha reverencia".
+> Deus declarou: "Os homes únense como unha soa tribo, cunha lingua compartida, e esta torre non é máis que un prólogo. Agora conseguen o seu desexo e xa non haberá máis medo".
 >
 > Así, Deus descendeu, espallando a xente a diferentes recunchos, usa diferentes linguas.
 >

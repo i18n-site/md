@@ -14,7 +14,7 @@ Bible · Jenesis :
 
 > N’oge ochie, mgbe asụsụ dị otu, ihe a kpọrọ mmadụ rụrụ ụlọ elu ruru n’eluigwe, bụ́ ọnụ ụzọ ámá Chineke, na-ekwusa ịdị ike nke ihe a kpọrọ mmadụ.
 >
-> Chineke kwuru, sị, "Ndị mmadụ na-ejikọta dị ka otu ebo, n'asụsụ nkekọrịta, ma ụlọ elu a bụ naanị okwu mmalite. Ugbu a ha na-emezu ọchịchọ ha, ọ dịghịkwa nsọpụrụ ga-anọgide."
+> Chineke kwuru, sị, "Ndị mmadụ na-ejikọta dị ka otu ebo, na-akọrọ asụsụ, na ụlọ elu a bụ naanị okwu mmalite. Ugbu a ha na-emezu ọchịchọ ha, na a ga-enweghị ọzọ egwu."
 >
 > Ya mere, Chineke rịdata, na-achụsasị ndị mmadụ n'akụkụ dị iche iche, jiri asụsụ dị iche iche.
 >

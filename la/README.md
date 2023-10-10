@@ -14,7 +14,7 @@ Bible :
 
 > Antiquis temporibus, una cum linguis, humanitas turrim ad caelos perveniens aedificavit, ianuam dominii Dei, hominum potentiam nuntians.
 >
-> Deus declaravit, "Vinunt homines in unam tribum communi lingua, et turris haec prologus est. Nunc adipiscuntur desiderium suum, et nulla reverentia remanebit."
+> Deus declaravit: « Homines in unam tribum iungunt communi lingua, turrisque haec prologus est. Nunc adipiscuntur desiderium suum, et timor non erit ».
 >
 > Sic Deus descendit, populos ad diversos angulos spargens, diversis linguis utens.
 >

@@ -14,7 +14,7 @@ Bhaibheri · Genesisi :
 
 > Munguva dzekare, mitauro payaiva imwe chete, vanhu vakavaka shongwe yaisvika kudenga, musuo wenzvimbo yaMwari, inozivisa simba rorudzi rwomunhu.
 >
-> Mwari akati, "Vanhu vanobatana sorudzi rumwe, norurimi rwakafanana, uye shongwe iyi ingori sumo. Zvino vava kuita kuda kwavo, uye hakuna rukudzo ruchasara."
+> Mwari akazivisa kuti, "Vanhu vanobatana sorudzi rumwe, norurimi rwakafanana, uye shongwe iyi yangova sumo. Zvino vazadzisa chido chavo, uye hapachazovi nekutya."
 >
 > Nokudaro, Mwari akaburuka, achiparadzira vanhu kumativi akasiyana-siyana, vachishandisa mitauro yakasiyana.
 >

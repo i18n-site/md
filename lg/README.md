@@ -14,7 +14,7 @@ Baibuli · Olubereberye :
 
 > Mu biseera eby’edda, ennimi bwe zaali zimu, abantu baazimba omunaala ogwatuuka mu ggulu, omulyango oguyingira mu bufuzi bwa Katonda, nga balangirira amaanyi g’omuntu.
 >
-> Katonda yalangirira nti, "Abasajja beegatta ng'ekika kimu, n'olulimi olugabana, era omunaala guno gwa nnyanjula yokka. Kati batuuka ku kwegomba kwabwe, era tewali kitiibwa kyonna kijja kusigalawo."
+> Katonda yalangirira nti, "Abantu beegatta ng'ekika kimu, n'olulimi olugabana, era omunaala guno gwa nnyanjula yokka. Kati batuuka ku kwegomba kwabwe, era tewajja kubaawo kutya nate."
 >
 > Bwe kityo, Katonda yakka, n’asaasaanya abantu mu nsonda ez’enjawulo, nga bakozesa ennimi ez’enjawulo.
 >

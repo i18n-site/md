@@ -14,7 +14,7 @@ Beibele · Genesi :
 
 > Mehleng ya bogologolo, ge maleme e be e le a tee, batho ba ile ba aga tora yeo e fihlago magodimong, e lego kgoro ya go ya mmušong wa Modimo, ba tsebatša matla a batho.
 >
-> Modimo o ile a tsebagatša gore, "Banna ba kopana bjalo ka morafe o tee, ka leleme leo le abelanwago, gomme tora ye e no ba ketapele. Bjale ba fihlelela kganyogo ya bona, gomme ga go tlhompho yeo e tlago go šala."
+> Modimo o tsebagaditše gore, "Banna ba kopana bjalo ka morafe o tee, ka leleme le le abelanwago, gomme tora ye e no ba ketapele. Bjale ba fihlelela kganyogo ya bona, gomme go ka se sa ba le poifo."
 >
 > Ka go realo, Modimo o ile a theoga, a phatlalatša batho dikhutlo tše di fapanego, a šomiša maleme a go fapana.
 >

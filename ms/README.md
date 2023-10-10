@@ -14,7 +14,7 @@ Alkitab · Kejadian :
 
 > Pada zaman dahulu, apabila bahasa adalah satu, manusia membina sebuah menara yang menjangkau ke langit, sebuah portal ke wilayah Tuhan, mengisytiharkan kuasa manusia.
 >
-> Tuhan mengisytiharkan, "Manusia bersatu sebagai satu suku, dengan lidah yang sama, dan menara ini hanyalah prolog. Sekarang mereka mencapai keinginan mereka, dan tiada penghormatan akan kekal."
+> Tuhan menyatakan, "Manusia bersatu sebagai satu suku, dengan lidah yang sama, dan menara ini hanyalah prolog. Sekarang mereka mencapai keinginan mereka, dan tidak akan ada lagi ketakutan."
 >
 > Oleh itu, Tuhan turun, menyerakkan manusia ke sudut yang berbeza, menggunakan bahasa yang berbeza.
 >

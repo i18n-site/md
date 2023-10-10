@@ -14,7 +14,7 @@ Baibala · Genesis :
 
 > I ka wā kahiko, i ka wā i hoʻokahi ai nā ʻōlelo, ua kūkulu ke kanaka i hale kiaʻi a hiki i ka lani, i puka i ke aupuni o ke Akua, e hoʻolaha ana i ka mana o ke kanaka.
 >
-> Olelo mai ke Akua, "Ua hui na kanaka me he ohana hookahi la, me ke alelo like, a o keia halekiai, he olelo mua ia.
+> Olelo mai ke Akua, "Ua hui na kanaka me he ohana hookahi la, me ke alelo like, a o keia halekiai he olelo mua. Ano, ua hooko lakou i ko lakou makemake, aohe makau hou."
 >
 > No laila, iho mai ke Akua, hoʻopuehu kanaka i nā kihi like ʻole, hoʻohana i nā ʻōlelo like ʻole.
 >

@@ -14,7 +14,7 @@ Bibiliya · Itangiriro :
 
 > Mu bihe bya kera, igihe indimi zari imwe, ikiremwamuntu cyubatse umunara ugera mwijuru, umuyoboro ugenga Imana, utangaza imbaraga zabantu.
 >
-> Imana yatangaje iti: "Abantu bishyira hamwe nkumuryango umwe, bafite ururimi rusangiwe, kandi uyu munara ni intangiriro. Noneho bageze ku cyifuzo cyabo, kandi nta cyubahiro kizagumaho."
+> Imana yatangaje iti: "Abantu bishyira hamwe nk'umuryango umwe, bafite ururimi rusangiwe, kandi uyu munara ni intangiriro. Noneho bageze ku cyifuzo cyabo, kandi nta bwoba buzongera kubaho."
 >
 > Rero, Imana yamanutse, ikwirakwiza abantu mu mpande zitandukanye, ikoresha indimi zitandukanye.
 >

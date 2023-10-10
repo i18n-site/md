@@ -14,7 +14,7 @@ Bibele · Genesa :
 
 > Eminkarhini ya khale, loko tindzimi ti ri yin’we, vanhu va ake xihondzo lexi fikaka ematilweni, nyangwa lowu nghenaka eka vulawuri bya Xikwembu, wu twarisa matimba ya vanhu.
 >
-> Xikwembu xi tivise, "Vavanuna va hlangana tani hi rixaka rin'we, hi ririmi leri avelanakaka, naswona xihondzo lexi i xingheniso ntsena. Sweswi va fikelela ku navela ka vona, naswona ku hava xichavo lexi nga ta sala."
+> Xikwembu xi tivise, "Vavanuna va hlangana tani hi rixaka rin'we, hi ririmi leri avelanakaka, naswona xihondzo lexi i xingheniso ntsena. Sweswi va fikelela ku navela ka vona, naswona a ku nge he vi na ku chava."
 >
 > Xisweswo, Xikwembu xi xikile, xi hangalasa vanhu etindhawini to hambana-hambana, xi tirhisa tindzimi to hambana-hambana.
 >

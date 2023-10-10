@@ -14,7 +14,7 @@ Beibl · Genesis :
 
 > Yn yr hen amser, pan oedd ieithoedd yn un, adeiladodd y ddynoliaeth dwr yn ymestyn i'r nefoedd, porth i barth Duw, gan gyhoeddi nerth dynolryw.
 >
-> Datganodd Duw, "Mae dynion yn uno yn un llwyth, â thafodau rhanedig, ac nid yw'r tŵr hwn ond rhaglith. Yn awr y maent yn cyflawni eu dymuniad, ac ni erys unrhyw barch."
+> Dywedodd Duw, "Mae dynion yn uno yn un llwyth, â thafodau rhanedig, ac nid yw'r tŵr hwn ond rhaglith. Yn awr y maent yn cyflawni eu dymuniad, ac ni bydd mwy o ofn."
 >
 > Felly, disgynnodd Duw, gan wasgaru pobl i wahanol gorneli, defnyddio gwahanol ieithoedd.
 >

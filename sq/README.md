@@ -14,7 +14,7 @@ Bibla · Zanafilla :
 
 > Në kohët e lashta, kur gjuhët ishin një, njerëzimi ndërtoi një kullë që arrinte deri në qiej, një portal në domenin e Zotit, duke shpallur fuqinë e njerëzimit.
 >
-> Zoti deklaroi: "Njerëzit bashkohen si një fis i vetëm, me një gjuhë të përbashkët, dhe kjo kullë nuk është veçse një prolog. Tani ata e arrijnë dëshirën e tyre dhe asnjë nderim nuk do të mbetet."
+> Zoti deklaroi: "Njerëzit bashkohen si një fis, me një gjuhë të përbashkët, dhe kjo kullë nuk është veçse një prolog. Tani ata arrijnë dëshirën e tyre dhe nuk do të ketë më frikë."
 >
 > Kështu, Zoti zbriti, duke shpërndarë njerëz në qoshe të ndryshme, përdorin gjuhë të ndryshme.
 >

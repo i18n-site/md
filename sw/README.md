@@ -14,7 +14,7 @@ Biblia · Mwanzo :
 
 > Katika nyakati za kale, lugha zilipokuwa moja, wanadamu walijenga mnara unaofika mbinguni, mlango wa milki ya Mungu, ukitangaza uwezo wa mwanadamu.
 >
-> Mungu alisema, "Watu huungana kama kabila moja, kwa lugha ya pamoja, na mnara huu ni utangulizi tu. Sasa wanatimiza matakwa yao, na heshima haitabaki."
+> Mungu alitangaza, "Wanadamu wanaungana kama kabila moja, kwa lugha ya pamoja, na mnara huu ni utangulizi. Sasa wanatimiza matakwa yao, na hakuna hofu tena."
 >
 > Kwa hivyo, Mungu alishuka, akiwatawanya watu katika pembe tofauti, kutumia lugha tofauti.
 >

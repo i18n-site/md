@@ -14,7 +14,7 @@ Kitab Suci · Purwaning Dumadi :
 
 > Ing jaman kuna, nalika basa dadi siji, manungsa mbangun menara sing tekan langit, minangka portal kanggo wilayahe Gusti Allah, ngumumake kekuwatane manungsa.
 >
-> Gusti Allah ngandika, "Wong-wong padha nyawiji dadi siji taler, kanthi basa sing padha, lan menara iki mung minangka prolog. Saiki padha bisa nggayuh kekarepane, lan ora bakal ana rasa hormat."
+> Gusti Allah ngandika, "Wong-wong padha nyawiji dadi siji taler, kanthi basa sing padha, lan menara iki mung minangka prolog. Saiki padha bisa nggayuh kekarepane, lan ora ana rasa wedi maneh."
 >
 > Mangkono, Gusti Allah tumurun, nyebarake wong menyang sudhut sing beda-beda, nggunakake basa sing beda-beda.
 >

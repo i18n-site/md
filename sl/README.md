@@ -14,7 +14,7 @@ Sveto pismo · Geneza :
 
 > V starih časih, ko so bili jeziki enotni, je človeštvo zgradilo stolp, ki je segal do nebes, portal v Božjo domeno, ki je oznanjal človeško moč.
 >
-> Bog je izjavil: "Ljudje se združijo kot eno pleme, s skupnim jezikom, in ta stolp je le prolog. Zdaj izpolnijo svojo željo in ne bo več nobenega spoštovanja."
+> Bog je izjavil: "Ljudje se združijo kot eno pleme, s skupnim jezikom, in ta stolp je le prolog. Zdaj izpolnijo svojo željo in ne bo več strahu."
 >
 > Tako se je Bog spustil in ljudi razpršil na različne konce, uporabljal različne jezike.
 >

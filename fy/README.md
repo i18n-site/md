@@ -14,7 +14,7 @@ Bibel · Genesis :
 
 > Yn âlde tiden, doe't talen ien wiene, boude it minskdom in toer dy't nei de himel berikte, in poarte nei Gods domein, dy't de macht fan 'e minske ferkundige.
 >
-> God ferklearre: "Minsken ferienigje as ien stam, mei in dielde tonge, en dizze toer is mar in prolooch. No berikke se har winsk, en gjin earbied sil bliuwe."
+> God ferklearre: "Minsken ferienigje as ien stam, mei in dielde tonge, en dizze toer is mar in prolooch. No berikke se har winsk, en der sil gjin eangst mear wêze."
 >
 > Sa kaam God del, ferspriede minsken nei ferskate hoeken, brûke ferskate talen.
 >

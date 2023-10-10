@@ -14,7 +14,7 @@ Bibele · Genese :
 
 > Mehleng ea boholo-holo, ha lipuo e ne e le ntho e le ’ngoe, batho ba ile ba haha ​​tora e fihlang maholimong, monyako oa sebaka sa puso ea Molimo, e phatlalatsang matla a moloko oa batho.
 >
-> Modimo o boletse, "Batho ba kopana jwalo ka morabe o le mong, ka leleme le le leng, mme tora ena ke selelekela. Jwale ba fihlela takatso ya bona, mme ha ho hlompho e tla sala."
+> Modimo o boletse, "Batho ba kopana jwalo ka morabe o le mong, ka leleme le le leng, mme tora ena ke selelekela. Jwale ba fihlela takatso ya bona, mme ha ho sa tla ba le tshabo."
 >
 > Kahoo, Molimo o ile a theoha, a hasanya batho likhutlong tse fapaneng, a sebelisa lipuo tse fapaneng.
 >

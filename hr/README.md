@@ -14,7 +14,7 @@ Biblija · Postanak :
 
 > U davna vremena, kada su jezici bili jedan, čovječanstvo je izgradilo toranj koji je sezao do neba, portal u Božju domenu, objavljujući moć čovječanstva.
 >
-> Bog je objavio: "Ljudi se ujedinjuju kao jedno pleme, sa zajedničkim jezikom, a ova kula je samo prolog. Sada oni ostvaruju svoju želju, i nikakvo poštovanje neće preostati."
+> Bog je objavio: "Ljudi se ujedinjuju kao jedno pleme, sa zajedničkim jezikom, a ova je kula samo prolog. Sada su ostvarili svoju želju i više neće biti straha."
 >
 > Tako se Bog spustio, raspršio ljude u različite kutove, koristio različite jezike.
 >

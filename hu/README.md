@@ -14,7 +14,7 @@ Biblia · Genezis :
 
 > Az ókorban, amikor a nyelvek egyek voltak, az emberiség az egekig érő tornyot épített, kaput Isten birodalmába, hirdetve az emberiség erejét.
 >
-> Isten kijelentette: "Az emberek egy törzsként egyesülnek, közös nyelvvel, és ez a torony csak egy prológus. Most elérik vágyukat, és semmiféle tisztelet nem marad."
+> Isten kijelentette: "Az emberek egy törzsként egyesülnek, közös nyelvvel, és ez a torony csak egy prológ. Most elérik vágyukat, és nem lesz többé félelem."
 >
 > Így Isten leszállt, szétszórta az embereket a különböző sarkokba, és különböző nyelveket használt.
 >

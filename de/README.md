@@ -14,7 +14,7 @@ Bibel · Genesis :
 
 > In der Antike, als die Sprachen noch eine Sprache waren, baute die Menschheit einen Turm, der bis zum Himmel reichte, ein Portal zum Reich Gottes, um die Macht der Menschheit zu verkünden.
 >
-> Gott erklärte: „Die Menschen vereinen sich als ein Stamm mit einer gemeinsamen Sprache, und dieser Turm ist nur ein Prolog. Jetzt erfüllen sie ihren Wunsch, und keine Ehrfurcht wird mehr übrig bleiben.“
+> Gott erklärte: „Die Menschen vereinen sich als ein Stamm mit einer gemeinsamen Zunge, und dieser Turm ist nur ein Prolog. Jetzt erreichen sie ihren Wunsch, und es wird keine Angst mehr geben.“
 >
 > So kam Gott herab, zerstreute die Menschen in verschiedene Ecken und benutzte verschiedene Sprachen.
 >

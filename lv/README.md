@@ -14,7 +14,7 @@ Bībele · Genesis :
 
 > Senos laikos, kad valodas bija viena, cilvēce uzcēla torni, kas sniedzās līdz debesīm, portālu uz Dieva sfēru, sludinot cilvēces spēku.
 >
-> Dievs paziņoja: "Vīri apvienojas kā viena cilts, ar kopīgu mēli, un šis tornis ir tikai prologs. Tagad viņi sasniedz savu vēlmi, un nekāda godbijība nepaliks."
+> Dievs paziņoja: "Vīri apvienojas kā viena cilts, ar kopīgu mēli, un šis tornis ir tikai prologs. Tagad viņi sasniedz savu vēlmi, un baiļu vairs nebūs."
 >
 > Tā Dievs nolaidās, izklīdināja cilvēkus uz dažādiem stūriem, lietoja dažādas valodas.
 >

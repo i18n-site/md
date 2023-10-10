@@ -14,7 +14,7 @@ Bible · Genesis :
 
 > V dávných dobách, kdy jazyky byly jedním, lidstvo postavilo věž sahající až k nebesům, portál do Božího panství, hlásající sílu lidstva.
 >
-> Bůh prohlásil: "Lidé se spojují jako jeden kmen se společným jazykem a tato věž je pouze prologem. Nyní dosáhli svého přání a nezůstane jim žádná úcta."
+> Bůh prohlásil: "Lidé se spojí jako jeden kmen se společným jazykem a tato věž je pouze prologem. Nyní dosáhnou své touhy a již nebude žádný strach."
 >
 > Bůh tedy sestoupil, rozptýlil lidi do různých koutů a používal různé jazyky.
 >

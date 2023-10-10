@@ -14,7 +14,7 @@ Kinh thánh · Sáng thế ký :
 
 > Vào thời cổ đại, khi các ngôn ngữ còn là một, loài người đã xây dựng một tòa tháp cao tới tận trời, cánh cổng dẫn đến lãnh địa của Chúa, tuyên bố sức mạnh của loài người.
 >
-> Chúa tuyên bố, "Con người đoàn kết như một bộ tộc, có chung một ngôn ngữ, và tòa tháp này chỉ là lời mở đầu. Bây giờ họ đã đạt được mong muốn của mình, và sẽ không còn sự tôn kính nào nữa."
+> Chúa tuyên bố, "Con người đoàn kết thành một bộ tộc, có chung một ngôn ngữ, và tòa tháp này chỉ là lời mở đầu. Bây giờ họ đã đạt được mong muốn của mình và sẽ không còn sợ hãi nữa."
 >
 > Vì vậy, Chúa giáng trần, phân tán con người đến các ngóc ngách khác nhau, sử dụng các ngôn ngữ khác nhau.
 >

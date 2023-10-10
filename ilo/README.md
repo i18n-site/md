@@ -14,7 +14,7 @@ Biblia · Genesis :
 
 > Idi un-unana a panawen, idi agmaymaysa dagiti pagsasao, nangibangon ti sangatauan iti torre a dumanon iti langit, maysa a ruangan nga agturong iti sakup ti Dios, a mangiwaragawag iti pannakabalin ti sangatauan.
 >
-> Indeklara ti Dios, "Agkaykaysa dagiti lallaki kas maymaysa a tribu, nga addaan iti nabingbingay a dila, ket daytoy a torre ket maysa laeng a prologo. Ita maragpatda ti tarigagayda, ket awan ti agtalinaed a panagraem."
+> Indeklara ti Dios, "Agkaykaysa dagiti lallaki kas maymaysa a tribu, nga addaan iti nabingbingay a dila, ket daytoy a torre ket maysa laeng a prologo. Ita maragpatda ti tarigagayda, ket awanton ti buteng."
 >
 > Gapuna, bimmaba ti Dios, a nangiwaras kadagiti tattao iti nagduduma a suli, agusar iti nagduduma a pagsasao.
 >

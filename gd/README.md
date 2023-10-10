@@ -14,7 +14,7 @@ Bìoball · Genesis :
 
 > Anns na seann linntean, nuair a bha cànanan mar aon, thog an cinne-daonna tùr a 'ruigsinn nan nèamhan, doras gu fearann ​​​​Dhè, a' searmonachadh cumhachd a 'chinne-daonna.
 >
-> Dh' ainmich Dia, " Tha daoin' a' aonadh mar aon treubh, le teangaidh comh-roinn, agus cha 'n 'eil anns an tùr so ach prologue. A nis tha iad a' coimhlionadh am miann, agus cha 'n fhuirich urram."
+> Dh' ainmich Dia, " Tha daoine ag aonadh mar aon treubh, le teangaidh roinnte, agus cha 'n 'eil anns an tùr so ach prologue. A nis tha iad a' coilionadh am miann, agus cha bhi eagal ann ni 's mò."
 >
 > Mar sin, thàinig Dia sìos, a 'sgapadh dhaoine gu diofar oiseanan, a' cleachdadh diofar chànanan.
 >

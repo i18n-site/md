@@ -14,7 +14,7 @@ Bijbel · Genesis :
 
 > In de oudheid, toen de talen één waren, bouwde de mensheid een toren die tot aan de hemel reikte, een poort naar Gods domein, die de macht van de mensheid verkondigde.
 >
-> God verklaarde: "Mensen verenigen zich als één stam, met een gedeelde taal, en deze toren is slechts een proloog. Nu verwezenlijken ze hun verlangen, en er zal geen eerbied meer overblijven."
+> God verklaarde: "Mensen verenigen zich als één stam, met een gedeelde taal, en deze toren is slechts een proloog. Nu verwezenlijken ze hun verlangen, en er zal geen angst meer zijn."
 >
 > Zo daalde God neer, waardoor mensen naar verschillende hoeken werden verspreid en verschillende talen werden gebruikt.
 >

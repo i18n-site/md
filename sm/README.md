@@ -14,7 +14,7 @@ Tusi Paia · Kenese :
 
 > I aso anamua, a o tasi gagana, na fausia ai e tagata se ʻolo e oo atu i le lagi, o se faitotoʻa i le pulega a le Atua, e folafola atu ai le malosi o tagata.
 >
-> Na fetalai le Atua, “Ua autasi tagata e pei o le itu aiga e tasi, ma le laulaufaiva e tasi, ma o lenei olo ua na o se faatomuaga. O lenei ua latou ausia lo latou manao, ma e leai se migao e tumau”.
+> Na folafola mai e le Atua, “Ua autasi tagata e pei o le ituaiga e tasi, ma le laulaufaiva e tasi, ma o lenei ‘olo ua na o se faatomuaga.
 >
 > O lea, na afio ifo ai le Atua, faataapeapeina tagata i tulimanu eseese, faaaoga gagana eseese.
 >

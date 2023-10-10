@@ -14,7 +14,7 @@ IBhayibheli · Genesise :
 
 > Ezikhathini zasendulo, lapho izilimi zimunye, isintu sakha umbhoshongo ofinyelela emazulwini, ingosi yombuso kaNkulunkulu, omemezela amandla esintu.
 >
-> UNkulunkulu wathi, "Abantu bahlangana njengesizwe esisodwa, ngolimi oluhlanganyelwe, futhi lo mbhoshongo uyisandulela. Manje sebefeza isifiso sabo, futhi akukho nhlonipho eyosala."
+> UNkulunkulu wathi, "Abantu bahlangana njengesizwe esisodwa, ngolimi oluhlanganyelwe, futhi lo mbhoshongo uyisandulela. Manje sebefeza isifiso sabo, futhi ngeke kusaba khona ukwesaba."
 >
 > Ngakho, uNkulunkulu wehla, ehlakaza abantu emagumbini ahlukene, esebenzisa izilimi ezahlukene.
 >

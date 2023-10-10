@@ -14,7 +14,7 @@ Bibliya · Genesis :
 
 > Noong sinaunang panahon, noong iisa ang mga wika, ang sangkatauhan ay nagtayo ng isang tore na umaabot hanggang sa langit, isang portal patungo sa nasasakupan ng Diyos, na naghahayag ng kapangyarihan ng sangkatauhan.
 >
-> Ipinahayag ng Diyos, "Ang mga tao ay nagkakaisa bilang isang lipi, na may iisang wika, at ang tore na ito ay isang pambungad lamang.
+> Ipinahayag ng Diyos, "Ang mga tao ay nagkakaisa bilang isang lipi, na may iisang wika, at ang tore na ito ay pasimula lamang.
 >
 > Kaya, bumaba ang Diyos, pinangalat ang mga tao sa iba't ibang sulok, gumamit ng iba't ibang wika.
 >

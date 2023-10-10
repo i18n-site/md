@@ -14,7 +14,7 @@ Bibbia · Genesi :
 
 > Nei tempi antichi, quando le lingue erano una sola, l'umanità costruì una torre che arrivava fino al cielo, un portale verso il dominio di Dio, proclamando la potenza dell'umanità.
 >
-> Dio dichiarò: "Gli uomini si uniscono come un'unica tribù, con una lingua condivisa, e questa torre non è che un prologo. Ora realizzano il loro desiderio e non rimarrà alcuna riverenza".
+> Dio dichiarò: "Gli uomini si uniscono come un'unica tribù, con una lingua condivisa, e questa torre non è che un prologo. Ora realizzano il loro desiderio e non ci sarà più paura".
 >
 > Pertanto, Dio discese, disperdendo le persone in angoli diversi, usando lingue diverse.
 >

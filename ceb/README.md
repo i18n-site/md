@@ -14,7 +14,7 @@ Bibliya · Genesis :
 
 > Sa karaang mga panahon, sa dihang usa pa ang mga pinulongan, ang katawhan nagtukod ug usa ka torre nga moabot hangtod sa langit, usa ka ganghaan ngadto sa dominyo sa Diyos, nga nagmantala sa gahom sa katawhan.
 >
-> Ang Dios nagpahayag, "Ang mga tawo nagkahiusa ingon nga usa ka banay, uban ang usa ka sinultihan, ug kini nga torre usa lamang ka pasiuna. Karon ilang makab-ot ang ilang tinguha, ug walay pagtahod nga magpabilin."
+> Ang Dios nagpahayag, "Ang mga tawo nagkahiusa ingon nga usa ka banay, uban ang usa ka sinultihan, ug kini nga torre usa lamang ka pasiuna. Karon ilang makab-ot ang ilang tinguha, ug wala nay kahadlok."
 >
 > Busa, ang Dios mikunsad, nagpatibulaag sa mga tawo ngadto sa lain-laing mga suok, naggamit sa lain-laing mga pinulongan.
 >

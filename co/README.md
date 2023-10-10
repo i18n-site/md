@@ -14,7 +14,7 @@ Bibbia · Genesi :
 
 > In i tempi antichi, quandu e lingue eranu una, l'umanità hà custruitu una torre chì ghjunghje sin'à u celu, un portale à u duminiu di Diu, pruclamendu a putenza di l'umanità.
 >
-> Diu hà dichjaratu: "L'omi s'uniscenu cum'è una tribù, cù una lingua cumuna, è sta torre ùn hè chè un prologu. Avà ghjunghjenu u so desideriu, è ùn resta micca reverenza ".
+> Diu hà dichjaratu: "L'omi s'uniscenu cum'è una tribù, cù una lingua cumuna, è sta torre hè solu un prologu. Avà ghjunghjenu u so desideriu, è ùn ci sarà più paura ".
 >
 > Cusì, Diu scendinu, sparghje a ghjente in diverse anguli, utilizate diverse lingue.
 >

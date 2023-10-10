@@ -14,7 +14,7 @@ Bíblia · Gènesi :
 
 > En l'antiguitat, quan les llengües eren una, la humanitat va construir una torre que arribava fins al cel, un portal al domini de Déu, proclamant el poder de la humanitat.
 >
-> Déu va declarar: "Els homes s'uneixen com una tribu, amb una llengua compartida, i aquesta torre no és més que un pròleg. Ara aconsegueixen el seu desig, i no hi haurà reverència".
+> Déu va declarar: "Els homes s'uneixen com una tribu, amb una llengua compartida, i aquesta torre no és més que un pròleg. Ara aconsegueixen el seu desig, i no hi haurà més por".
 >
 > Així, Déu va baixar, dispersant la gent a diferents racons, utilitzant diferents idiomes.
 >

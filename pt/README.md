@@ -14,7 +14,7 @@ Bíblia · Gênesis :
 
 > Nos tempos antigos, quando as línguas eram uma só, a humanidade construiu uma torre que chegava aos céus, um portal para o domínio de Deus, proclamando o poder da humanidade.
 >
-> Deus declarou: "Os homens se unem como uma tribo, com uma língua compartilhada, e esta torre é apenas um prólogo. Agora eles realizam seu desejo e nenhuma reverência permanecerá."
+> Deus declarou: "Os homens se unem como uma tribo, com uma língua compartilhada, e esta torre é apenas um prólogo. Agora eles realizam seu desejo e não haverá mais medo."
 >
 > Assim, Deus desceu, espalhando as pessoas em diferentes cantos, usando diferentes línguas.
 >

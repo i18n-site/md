@@ -14,7 +14,7 @@ Bíobla · Geineasas :
 
 > Sa tseanaimsir, nuair a bhí teangacha ina gceann, thóg an chine daonna túr a shroich na flaithis, tairseach chuig fearann ​​Dé, ag fógairt neart an chine daonna.
 >
-> Dhearbhaigh Dia, "Aontaíonn fir mar aon treibh amháin, le teanga roinnte, agus níl sa túr seo ach réamhrá. Anois baineann siad a mhian amach, agus ní bheidh aon urraim fós."
+> Dhearbhaigh Dia, "Aontaíonn fir mar aon treibh amháin, le teanga roinnte, agus níl sa túr seo ach réamhrá. Anois baineann siad amach a mian, agus ní bheidh eagla níos mó."
 >
 > Mar sin, shliocht Dia, daoine a scaipeadh go coirnéil éagsúla, úsáid teangacha éagsúla.
 >

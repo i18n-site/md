@@ -14,7 +14,7 @@ Bybel · Genesis :
 
 > In antieke tye, toe tale een was, het die mensdom 'n toring gebou wat na die hemel reik, 'n poort na God se domein, wat die mensdom se mag verkondig het.
 >
-> God het verklaar, "Mens verenig as een stam, met 'n gedeelde tong, en hierdie toring is maar 'n proloog. Nou bereik hulle hul begeerte, en geen eerbied sal oorbly nie."
+> God het verklaar: "Mans verenig as een stam, met 'n gedeelde tong, en hierdie toring is maar 'n proloog. Nou bereik hulle hul begeerte, en daar sal geen vrees meer wees nie."
 >
 > So het God neergedaal, mense na verskillende uithoeke verstrooi, verskillende tale gebruik.
 >
