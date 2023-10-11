@@ -10,17 +10,19 @@ Käbir adamlar sorap bilerler, ähli brauzerlerde terjime funksiýalary bar, web
 
 ## Giriş
 
+Ylmy fantastika romany &quot;Üç beden&quot; (hytaýça aýdylyşy: `3Ti` ) elektromagnit tolkunlar arkaly aragatnaşyk saklaýan, dil päsgelçilikleri bolmadyk we tehnologiki taýdan gülläp ösýän keseki siwilizasiýany toslaýar.
+
 Injil · Gelip çykyş :
 
-> Gadymy döwürlerde diller bir bolan mahaly adamzat gudratyny yglan edip, asmana ýetýän diň, Taňrynyň ygtyýaryna girýän diň gurupdyr.
+> Şol döwürde dünýäniň dürli künjeginde adamlar birmeňzeş aksent we dil bilen gürleşýärdiler.
 >
-> Hudaý "Adamlar bir taýpa bolup, umumy dilde birleşýärler, bu diň diňe başlangyç söz. Indi isleglerine ýetdiler, mundan beýläk gorky bolmaz" -diýdi.
+> Asmana ýetýän, Hudaýyň derwezesine ýetýän, adamlaryň ýüregini ýygnaýan we abraýyňyzy ýaýradýan diň guruň.
 >
-> Şeýlelik bilen, Hudaý inip, adamlary dürli burçlara ýaýratdy, dürli dilleri ulandy.
+> Reb şeýle diýdi: Bir medeniýetli we jynsly adamlar öz uruglaryny emele getirýärler. Häzirki wagtda diň gurmak diňe başlangyç, ýöne geljekde hemme zady ederis.
 >
-> Şondan bäri adam aragatnaşygy kynlaşdy, jedeller tükeniksiz boldy, asmana degen diň ýokdy.
-
-Ylmy fantastika romany &quot;Üç beden&quot; (hytaýça aýdylyşy: `3Ti` ) elektromagnit tolkunlar arkaly aragatnaşyk saklaýan, dil päsgelçilikleri bolmadyk we tehnologiki taýdan gülläp ösýän keseki siwilizasiýany toslaýar.
+> Soň bolsa gelip, birek-birege düşünip bilmän adamlary dürli ýerlere dargatdy.
+>
+> Şondan bäri jedeller dowam etdi we dünýäde Babel diňi ýok.
 
 Earther togalagynyň adamlaryna üç bedenli adamlar ýaly bolmaga, dil bilen baglanyşyksyz gürleşmäge we bütin adamzady täzeden birleşdirmäge mümkinçilik berýän gural döretmäge umyt edýärin.
 

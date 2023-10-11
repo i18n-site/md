@@ -14,13 +14,15 @@ Vísindaskáldsagan „Three-Body“ (kínverskur framburður: `3Ti` ) skáldar 
 
 Biblían · Fyrsta Mósebók :
 
-> Fornmenn byggðu turna sem náðu til himins, náðu að hliði Guðs og ýttu undir álit mannkynsins.
+> Á þeim tíma hafði fólk um allan heim sama hreim og tungumál.
 >
-> Drottinn sagði að fólk myndi sína eigin ætti og tala sama tungumál. Að byggja turn er bara forleikur. Nú þegar það er gert munu þeir gera allt í framtíðinni.
+> Byggðu turn sem nær til himins, náðu að hliði Guðs, safnaðu hjörtum fólks og dreifðu orðspori þínu.
 >
-> Síðan kom Drottinn og tvístraði fólkinu á ýmsa staði, ófær um að skilja hvert annað.
+> Drottinn sagði: Fólk af sömu menningu og kynstofni myndar sína eigin ætti. Að byggja turn í dag er bara undanfari, en við munum gera allt í framtíðinni.
 >
-> Síðan þá hafa mannlegar deilur haldið áfram og það er ekki lengur Babelsturn í heiminum.
+> Svo kom hann og tvístraði fólkinu á ýmsa staði, ófært um að skilja hver annan.
+>
+> Síðan þá hafa deilur haldið áfram og enginn Babel-turn er til í heiminum.
 
 Ég vonast til að búa til tæki sem gerir jarðarbúum kleift að vera eins og þrír líkama fólk, eiga samskipti án þess að vera bundin af tungumáli og sameina allt mannkynið aftur.
 

@@ -14,13 +14,15 @@ Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci: `3Ti` )
 
 Littafi Mai Tsarki · Farawa :
 
-> Magabata sun gina hasumiyai har zuwa sama, suna isa kofar Allah, suna daukaka darajar bil'adama.
+> A lokacin, mutane a duk faɗin duniya suna da lafazi da harshe iri ɗaya.
 >
-> Ubangiji ya ce mutane sun kafa danginsu kuma suna magana da yare ɗaya. Gina hasumiya shine kawai share fage. Yanzu da aka yi, za su yi komai a nan gaba.
+> Ka gina hasumiya wadda ta kai sama, ka isa kofar Allah, ka tattaro zukatan mutane, ka yada sunanka.
 >
-> Sai Ubangiji ya zo ya warwatsa mutane a wurare daban-daban, sun kasa fahimtar juna.
+> Ubangiji ya ce: Mutanen da suke da al'adu da kabila iri daya ne suka kafa danginsu. Gina hasumiya a yau shine kawai share fage, amma za mu yi komai a nan gaba.
 >
-> Tun daga lokacin, jayayyar ’yan Adam ta ci gaba, kuma babu wani Hasumiyar Babila a duniya.
+> Sai ya zo ya warwatsa mutane a wurare daban-daban, sun kasa fahimtar juna.
+>
+> Tun daga wannan lokacin, jayayya ta ci gaba, kuma babu Hasumiyar Babel a duniya.
 
 Ina fata in ƙirƙiro wani kayan aiki da zai sa mutanen duniya su zama kamar mutane uku, su sadarwa ba tare da ɗaure su da harshe ba, da kuma sake haɗa dukan ’yan Adam.
 

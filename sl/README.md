@@ -14,13 +14,15 @@ Znanstvenofantastični roman &quot;Three-Body&quot; (kitajska izgovorjava: `3Ti`
 
 Sveto pismo · Geneza :
 
-> Starodavni so gradili stolpe, ki so segali do neba, do božjih vrat in spodbujali prestiž človeške rase.
+> Takrat so imeli ljudje po vsem svetu enak naglas in jezik.
 >
-> Gospod je rekel, da ljudje tvorijo svoj klan in govorijo isti jezik. Gradnja stolpa je le uvod. Zdaj, ko je narejeno, bodo naredili vse v prihodnje.
+> Zgradite stolp, ki sega do neba, dosežete božja vrata, zberite srca ljudi in razširite svoj ugled.
 >
-> Nato je prišel Gospod in ljudi razkropil na različne kraje, da se niso mogli razumeti.
+> Gospod je rekel: Ljudje iste kulture in rase tvorijo svoj klan. Danes je gradnja stolpa le uvod, v prihodnosti pa bomo naredili vse.
 >
-> Od takrat se človeški spori nadaljujejo in na svetu ni več babilonskega stolpa.
+> Potem je prišel in ljudi razkropil na različne kraje, da se niso mogli razumeti.
+>
+> Od takrat se spori nadaljujejo in na svetu ni babilonskega stolpa.
 
 Upam, da bom ustvaril orodje, ki bo ljudem na zemlji omogočilo, da bodo kot ljudje s tremi telesi, da bodo komunicirali, ne da bi bili vezani na jezik, in ponovno združili vse človeštvo.
 

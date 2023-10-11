@@ -10,17 +10,19 @@ Waxaan jeclaan lahaa inaan sheego in **shabakadaha soo saara tarjumaadaha taagan
 
 ## Hordhac
 
+Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: `3Ti` ) waxay khayaaliyeed ka dhigtaa ilbaxnimada shisheeyaha ee ku wada xidhiidha mowjadaha elektromagnetic, ma laha caqabado luqadeed, waana barwaaqo tignoolajiyada.
+
 Baybalka · Bilowgii :
 
-> Waagii hore, markii afafku midaysnaayeen, bini'aadmigu waxay dhiseen munaarad samada gaadhaysa, oo marin u ah xuddunta Ilaah, oo ku dhawaaqda xoogga aadanaha.
+> Waqtigaas, dadka adduunka oo dhan waxay lahaayeen lahjad iyo isku af.
 >
-> Illahay waxa uu yidhi, “Ragu waxay ku midoobaan hal qabiil, oo af la wadaaga, munaaraddani waa horudhac, hadda waxay gaadhaan rabitaankooda, cabsi dambena ma jiri doonto.
+> Samo daar samada gaadha, ka gaadh albaabka Eebbe, dadka quluubtooda soo ururi, sumcaddaadana faafi.
 >
-> Sidaa darteed, Ilaah baa soo degay, oo dadka u kala firdhiyey geeso kala duwan, oo afaf kala duwan u adeegsaday.
+> Sayidku wuxuu yidhi: Dad isku dhaqan iyo isku isir ah ayaa samaysta qabiil iyaga u gaar ah. Dhismaha daar maanta waa horudhac, laakiin wax walba waanu samayn doonaa mustaqbalka.
 >
-> Intaa wixii ka dambeeyey xidhiidhka dadku waxa uu noqday mid adag, khilaafkuna ma dhamaado, mana jirin taawar cirka taabtay.
-
-Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: `3Ti` ) waxay khayaaliyeed ka dhigtaa ilbaxnimada shisheeyaha ee ku wada xidhiidha mowjadaha elektromagnetic, ma laha caqabado luqadeed, waana barwaaqo tignoolajiyada.
+> Dabadeed wuu yimid oo dadkii meelo kala duwan ku kala firdhiyey, isma fahmin.
+>
+> Tan iyo markaas, khilaafyadu waa sii socdeen, mana jiro Tower Babel adduunka.
 
 Waxa aan rajaynayaa in aan sameeyo qalab u sahla dadka dunida ku nool in ay la mid noqdaan dad saddex jir ah, oo ay ku wada xidhiidhaan iyaga oo aan af ku xidhin, oo haddana mar kale mideeya bani-aadmiga oo dhan.
 

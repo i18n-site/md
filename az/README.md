@@ -14,13 +14,15 @@ Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Ti` ) el
 
 İncil · Yaradılış :
 
-> Qədimlər göyə çatan, Allahın qapısına çatan və insan övladının nüfuzunu yüksəldən qüllələr tikdilər.
+> O zaman bütün dünyada insanların ləhcəsi və dili eyni idi.
 >
-> Rəbb dedi ki, insanlar öz qəbilələrini yaradırlar və eyni dildə danışırlar. Qüllə tikmək sadəcə bir müqəddimədir. İndi bu iş bitib, gələcəkdə hər şeyi edəcəklər.
+> Göylərə çatan bir qüllə tik, Allahın qapısına çat, insanların könlünü topla, nüfuzunu yay.
 >
-> Sonra Rəbb gəlib xalqı bir-birini başa düşə bilməyib müxtəlif yerlərə səpələdi.
+> Rəbb dedi: Eyni mədəniyyət və irqdən olan insanlar öz qəbilələrini təşkil edirlər. Bu gün qüllə tikmək sadəcə bir müqəddimədir, lakin biz gələcəkdə hər şeyi edəcəyik.
 >
-> O vaxtdan bəri insan mübahisələri davam edir və artıq dünyada Babil qülləsi yoxdur.
+> Sonra gəlib camaatı bir-birini başa düşə bilməyib müxtəlif yerlərə səpələdi.
+>
+> O vaxtdan bəri mübahisələr davam edir və dünyada Babil qülləsi yoxdur.
 
 Ümid edirəm ki, yer kürəsinin insanları üç bədənli insanlar kimi olmağa, dilə bağlı olmadan ünsiyyət qurmağa və bütün bəşəriyyəti yenidən birləşdirməyə imkan verəcək bir vasitə yaradacam.
 

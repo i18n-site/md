@@ -10,17 +10,19 @@ Hoffwn ddweud mai **dim ond gwefannau sy&#39;n cynhyrchu cyfieithiadau statig sy
 
 ## Rhagymadrodd
 
+Mae'r nofel ffuglen wyddonol &quot;Three-Body&quot; (ynganiad Tsieineaidd: `3Ti` ) yn ffugio gwareiddiad estron sy'n cyfathrebu trwy donnau electromagnetig, heb unrhyw rwystrau iaith, ac sy'n lewyrchus yn dechnolegol.
+
 Beibl · Genesis :
 
-> Yn yr hen amser, pan oedd ieithoedd yn un, adeiladodd y ddynoliaeth dwr yn ymestyn i'r nefoedd, porth i barth Duw, gan gyhoeddi nerth dynolryw.
+> Bryd hynny, roedd gan bobl ar draws y byd yr un acen ac iaith.
 >
-> Dywedodd Duw, "Mae dynion yn uno yn un llwyth, â thafodau rhanedig, ac nid yw'r tŵr hwn ond rhaglith. Yn awr y maent yn cyflawni eu dymuniad, ac ni bydd mwy o ofn."
+> Adeiladwch dwr sy'n cyrraedd yr awyr, cyrraedd porth Duw, casglwch galonnau pobl, a lledaewch eich enw da.
 >
-> Felly, disgynnodd Duw, gan wasgaru pobl i wahanol gorneli, defnyddio gwahanol ieithoedd.
+> Dywedodd yr Arglwydd: Mae pobl o'r un diwylliant a hil yn ffurfio clan eu hunain. Rhagarweiniad yn unig yw adeiladu tŵr heddiw, ond fe wnawn ni bopeth yn y dyfodol.
 >
-> O hynny ymlaen, daeth cyfathrebu dynol yn heriol, anghydfodau'n ddiddiwedd, a dim mwy oedd twr a gyffyrddodd â'r awyr.
-
-Mae'r nofel ffuglen wyddonol &quot;Three-Body&quot; (ynganiad Tsieineaidd: `3Ti` ) yn ffugio gwareiddiad estron sy'n cyfathrebu trwy donnau electromagnetig, heb unrhyw rwystrau iaith, ac sy'n lewyrchus yn dechnolegol.
+> Yna efe a ddaeth ac a wasgarodd y bobl mewn amrywiol leoedd, heb allu deall ei gilydd.
+>
+> Ers hynny, mae anghydfodau wedi parhau, ac nid oes Tŵr Babel yn y byd.
 
 Rwy’n gobeithio creu arf a fydd yn galluogi pobl y ddaear i fod fel pobl tri chorff, cyfathrebu heb fod yn rhwym wrth iaith, ac uno holl ddynolryw eto.
 

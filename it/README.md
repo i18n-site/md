@@ -14,13 +14,15 @@ Il romanzo di fantascienza &quot;Three-Body&quot; (pronuncia cinese: `3Ti` ) imm
 
 Bibbia · Genesi :
 
-> Gli antichi costruivano torri che raggiungevano il cielo, raggiungendo la porta di Dio e promuovendo il prestigio della razza umana.
+> A quel tempo, le persone di tutto il mondo avevano lo stesso accento e la stessa lingua.
 >
-> Il Signore ha detto che le persone formano il proprio clan e parlano la stessa lingua. Costruire una torre è solo un preludio. Adesso che è fatto, faranno tutto in futuro.
+> Costruisci una torre che raggiunga il cielo, raggiungi la porta di Dio, raccogli i cuori delle persone e diffondi la tua reputazione.
 >
-> Poi venne il Signore e disperse le persone in vari luoghi, incapaci di capirsi.
+> Il Signore ha detto: Persone della stessa cultura e razza formano un clan a parte. Costruire una torre oggi è solo un preludio, ma faremo tutto in futuro.
 >
-> Da allora le dispute umane sono continuate e non esiste più una Torre di Babele al mondo.
+> Poi venne e disperse le persone in vari luoghi, incapaci di capirsi.
+>
+> Da allora le controversie sono continuate e non esiste alcuna Torre di Babele al mondo.
 
 Spero di creare uno strumento che consentirà alle persone della terra di essere come persone a tre corpi, comunicare senza essere vincolati dal linguaggio e unire nuovamente tutta l'umanità.
 

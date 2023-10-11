@@ -10,17 +10,19 @@ Aytmoqchimanki **, faqat statik tarjimalarni yaratadigan veb-saytlar ko&#39;p ti
 
 ## Kirish
 
+“Uch tana” (xitoycha talaffuzi: `3Ti` ) ilmiy-fantastik romani elektromagnit to‘lqinlar orqali muloqot qiladigan, til to‘siqlariga ega bo‘lmagan va texnologik jihatdan gullab-yashnayotgan begona sivilizatsiyani o‘ylab topadi.
+
 Injil · Ibtido :
 
-> Qadim zamonlarda, tillar bir bo‘lganida, insoniyat osmonga yetib boruvchi minora, Xudoning qudratini e’lon qiladigan darvoza qurgan.
+> O'sha paytda butun dunyoda odamlarning urg'u va tili bir xil edi.
 >
-> Xudo shunday dedi: "Odamlar bir qabila bo'lib, umumiy til bilan birlashadilar va bu minora faqat muqaddimadir. Endi ular o'z xohishlariga erishadilar va endi qo'rquv bo'lmaydi".
+> Osmonga yetadigan minora qur, Xudoning darvozasiga yet, odamlarning qalbini to‘pla, obro‘ingni yoy.
 >
-> Shunday qilib, Xudo odamlarni turli burchaklarga tarqatib, turli tillarni ishlatib, tushdi.
+> Rabbiy aytdi: Bir xil madaniyat va irqdagi odamlar o'z urug'ini tashkil qiladilar. Bugungi kunda minora qurish - bu shunchaki muqaddima, ammo biz kelajakda hamma narsani qilamiz.
 >
-> O'shandan beri odamlarning muloqoti qiyinlashdi, tortishuvlar cheksiz edi va endi osmonga tegadigan minora yo'q edi.
-
-“Uch tana” (xitoycha talaffuzi: `3Ti` ) ilmiy-fantastik romani elektromagnit to‘lqinlar orqali muloqot qiladigan, til to‘siqlariga ega bo‘lmagan va texnologik jihatdan gullab-yashnayotgan begona sivilizatsiyani o‘ylab topadi.
+> Keyin kelib, odamlarni bir-birini tushunolmay, turli joylarga tarqatib yubordi.
+>
+> O'shandan beri tortishuvlar davom etmoqda va dunyoda Bobil minorasi yo'q.
 
 Umid qilamanki, yer yuzidagi odamlar uch tanali odamlarga o‘xshab, tilga bog‘lanmagan holda muloqot qilish va butun insoniyatni yana birlashtirish imkonini beradigan vosita yarataman.
 

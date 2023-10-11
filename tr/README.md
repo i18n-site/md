@@ -10,17 +10,19 @@ Bazı insanlar, tüm tarayıcıların çeviri işlevlerine sahip olması nedeniy
 
 ## Giriiş
 
+Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektromanyetik dalgalar aracılığıyla iletişim kuran, dil engeli olmayan ve teknolojik açıdan zengin bir uzaylı uygarlığını kurguluyor.
+
 İncil · Yaratılış :
 
-> Dillerin bir olduğu eski çağlarda insanlık, insanoğlunun gücünü ilan eden, Tanrı'nın hakimiyetine açılan bir kapı olan göklere uzanan bir kule inşa etti.
+> O zamanlar dünyanın her yerindeki insanlar aynı aksan ve dile sahipti.
 >
-> Tanrı şöyle ilan etti: "İnsanlar ortak bir dille tek bir kabile olarak birleşiyorlar ve bu kule yalnızca bir giriş. Artık arzularına ulaşıyorlar ve artık korku olmayacak."
+> Göğe uzanan bir kule inşa et, Allah'ın kapısına ulaş, insanların gönüllerini topla, itibarını yayalım.
 >
-> Böylece Tanrı inmiş, insanları farklı köşelere dağıtmış, farklı diller kullanmıştır.
+> Rab şöyle dedi: Aynı kültür ve ırktan insanlar kendilerine ait bir klan oluştururlar. Bugün bir kule inşa etmek sadece bir başlangıç ​​ama gelecekte her şeyi yapacağız.
 >
-> O andan itibaren insanların iletişimi zorlaştı, anlaşmazlıklar bitmedi ve artık gökyüzüne dokunan bir kule kalmadı.
-
-Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektromanyetik dalgalar aracılığıyla iletişim kuran, dil engeli olmayan ve teknolojik açıdan zengin bir uzaylı uygarlığını kurguluyor.
+> Daha sonra gelip, birbirlerini anlayamayan insanları çeşitli yerlere dağıttı.
+>
+> O tarihten bu yana tartışmalar devam ediyor ve dünyada Babil Kulesi yok.
 
 Dünya insanlarının üç bedenli insanlar gibi olmasını, dile bağlı kalmadan iletişim kurmasını ve tüm insanlığı yeniden birleştirmesini sağlayacak bir araç yaratmayı umuyorum.
 

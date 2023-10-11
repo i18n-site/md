@@ -14,13 +14,15 @@ Roman syans fiksyon &quot;Three-Body&quot; (pwononsyasyon Chinwa: `3Ti` ) fiksyo
 
 Bib · Jenèz :
 
-> Ansyen yo te bati gwo fò tou won ki rive nan syèl la, rive nan pòtay Bondye a, ak pwomosyon prestij la nan ras imen an.
+> Lè sa a, moun toupatou nan mond lan te gen menm aksan ak lang.
 >
-> Senyè a te di ke moun fòme pwòp fanmi yo epi yo pale menm lang. Bati yon gwo kay won se jis yon prelid. Kounye a ke li se fè, yo pral fè tout bagay nan tan kap vini an.
+> Bati yon gwo fò won ki rive nan syèl la, rive nan pòtay Bondye a, rasanble kè moun, epi gaye repitasyon ou.
 >
-> Lè sa a, Seyè a te vini ak gaye pèp la nan divès kote, yo pa t 'kapab konprann youn ak lòt.
+> Senyè a te di: Moun ki gen menm kilti ak ras yo fòme yon fanmi pa yo. Bati yon gwo kay won jodi a se jis yon prelid, men nou pral fè tout bagay nan lavni.
 >
-> Depi lè sa a, diskisyon lèzòm yo kontinye, e pa gen okenn Tour Babèl ankò nan monn nan.
+> Lè sa a, li rive, li gaye moun yo nan divès kote, yo pa t 'kapab konprann youn ak lòt.
+>
+> Depi lè sa a, diskisyon yo kontinye, e pa gen okenn Tour Babel nan mond lan.
 
 Mwen espere kreye yon zouti ki pral pèmèt moun ki sou tè a vin tankou moun ki gen twa kò, kominike san yo pa mare nan lang, epi ini tout limanite ankò.
 

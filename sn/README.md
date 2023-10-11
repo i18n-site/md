@@ -10,17 +10,19 @@ Ndinoda kutaura kuti **mawebhusaiti chete anogadzira shanduro dzakasimba anogona
 
 ## Nhanganyaya
 
+Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Ti` ) inofungidzira budiriro yevatorwa inotaurirana kuburikidza nemasaisai emagetsi, haina zvipingamupinyi zvemutauro, uye yakabudirira muhunyanzvi.
+
 Bhaibheri · Genesisi :
 
-> Munguva dzekare, mitauro payaiva imwe chete, vanhu vakavaka shongwe yaisvika kudenga, musuo wenzvimbo yaMwari, inozivisa simba rorudzi rwomunhu.
+> Panguva iyoyo, vanhu munyika yose vaiva nematauriro uye mutauro wakafanana.
 >
-> Mwari akazivisa kuti, "Vanhu vanobatana sorudzi rumwe, norurimi rwakafanana, uye shongwe iyi yangova sumo. Zvino vazadzisa chido chavo, uye hapachazovi nekutya."
+> Vaka shongwe inosvika kudenga, svika pasuwo raMwari, unganidza mwoyo yavanhu, uye zivisa zita rako.
 >
-> Nokudaro, Mwari akaburuka, achiparadzira vanhu kumativi akasiyana-siyana, vachishandisa mitauro yakasiyana.
+> Jehovha akati: Vanhu vetsika nedzinza rimwe chete vanoumba mhuri yavo pachavo. Kuvaka shongwe nhasi ingori nhanganyaya, asi tichaita zvese mune ramangwana.
 >
-> Kubva ipapo, kutaurirana kwevanhu kwakava kunonetsa, kukakavadzana kusingagumi, uye pakanga pasisina shongwe yaibata denga.
-
-Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Ti` ) inofungidzira budiriro yevatorwa inotaurirana kuburikidza nemasaisai emagetsi, haina zvipingamupinyi zvemutauro, uye yakabudirira muhunyanzvi.
+> Ipapo akauya akaparadzira vanhu munzvimbo dzakasiyana-siyana, vasinganzwisisi.
+>
+> Kubva ipapo, kukakavadzana kwakaenderera mberi, uye hapana Babel Tower munyika.
 
 Ndinotarisira kugadzira chishandiso chichaita kuti vanhu vari panyika vave sevanhu vane miviri mitatu, vataure vasingabatanidzwi nomutauro, uye vabatanezve vanhu vose.
 

@@ -10,17 +10,19 @@ Makemake au e ʻōlelo ʻo **nā pūnaewele wale nō e hoʻopuka ana i nā unuhi
 
 ## Hoʻolauna
 
+ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes a alien civilization e kamaʻilio ana ma o nā hawewe electromagnetic, ʻaʻohe mea pale ʻōlelo, a ua holomua ʻo ka ʻenehana.
+
 Baibala · Genesis :
 
-> I ka wā kahiko, i ka wā i hoʻokahi ai nā ʻōlelo, ua kūkulu ke kanaka i hale kiaʻi a hiki i ka lani, i puka i ke aupuni o ke Akua, e hoʻolaha ana i ka mana o ke kanaka.
+> I kēlā manawa, ua like ka leo a me ka ʻōlelo o nā kānaka a puni ka honua.
 >
-> Olelo mai ke Akua, "Ua hui na kanaka me he ohana hookahi la, me ke alelo like, a o keia halekiai he olelo mua. Ano, ua hooko lakou i ko lakou makemake, aohe makau hou."
+> E kūkulu i hale kiaʻi a hiki i ka lani, a hiki i ka ʻīpuka o ke Akua, e hōʻuluʻulu i nā naʻau o kānaka, a hoʻolaha i kou inoa.
 >
-> No laila, iho mai ke Akua, hoʻopuehu kanaka i nā kihi like ʻole, hoʻohana i nā ʻōlelo like ʻole.
+> Ua ʻōlelo ka Haku: ʻO ka poʻe o ka moʻomeheu a me ka lāhui hoʻokahi he ʻohana no lākou iho. ʻO ke kūkulu ʻana i hale kiaʻi i kēia lā he mea mua wale nō ia, akā e hana mākou i nā mea āpau i ka wā e hiki mai ana.
 >
-> Mai ia manawa mai, ua lilo ke kamaʻilio kanaka i mea paʻakikī, ʻaʻohe hoʻopaʻapaʻa pau ʻole, ʻaʻohe hale kiaʻi i pā i ka lani.
-
-ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes a alien civilization e kamaʻilio ana ma o nā hawewe electromagnetic, ʻaʻohe mea pale ʻōlelo, a ua holomua ʻo ka ʻenehana.
+> Alaila, hele mai la ia a hoopuehu i na kanaka ma na wahi like ole, me ka hoomaopopo ole i kekahi i kekahi.
+>
+> Mai ia manawa mai, ua hoʻomau ka hoʻopaʻapaʻa, ʻaʻohe hale kiaʻi Babel ma ka honua.
 
 Manaʻo wau e hana i kahi mea hana e hiki ai i nā poʻe o ka honua ke like me nā poʻe kino ʻekolu, e kamaʻilio me ka hoʻopaʻa ʻole ʻia e ka ʻōlelo, a e hui hou i nā kānaka a pau.
 

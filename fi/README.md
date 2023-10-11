@@ -10,17 +10,19 @@ Haluaisin sanoa, että **vain staattisia käännöksiä tuottavat verkkosivustot
 
 ## Johdanto
 
+Tieteiskirjallisuusromaani &quot;Three-Body&quot; (ääntäminen kiinaksi: `3Ti` ) fiktioi ulkomaalaisen sivilisaation, joka kommunikoi sähkömagneettisten aaltojen kautta, jolla ei ole kielimuuria ja joka on teknisesti vauras.
+
 Raamattu · Genesis :
 
-> Muinaisina aikoina, kun kielet olivat yhtä, ihmiskunta rakensi tornin, joka ulottui taivaaseen, portin Jumalan valtakuntaan, joka julisti ihmiskunnan voimaa.
+> Tuolloin ihmisillä kaikkialla maailmassa oli sama aksentti ja kieli.
 >
-> Jumala julisti: "Ihmiset yhdistyvät yhdeksi heimoksi, joilla on yhteinen kieli, ja tämä torni on vain prologi. Nyt he saavuttavat halunsa, eikä enää ole pelkoa."
+> Rakenna torni, joka ulottuu taivaalle, tavoita Jumalan portti, kokoa ihmisten sydämet ja levitä mainettasi.
 >
-> Siten Jumala laskeutui, hajoten ihmisiä eri kulmiin, käyttivät eri kieliä.
+> Herra sanoi: Saman kulttuurin ja rodun ihmiset muodostavat oman klaaninsa. Tornin rakentaminen tänään on vain alkusoitto, mutta teemme kaiken tulevaisuudessa.
 >
-> Siitä lähtien inhimillinen kommunikaatio muuttui haastavaksi, riidat loputtomat, eikä enää ollut tornia, joka olisi koskettanut taivasta.
-
-Tieteiskirjallisuusromaani &quot;Three-Body&quot; (ääntäminen kiinaksi: `3Ti` ) fiktioi ulkomaalaisen sivilisaation, joka kommunikoi sähkömagneettisten aaltojen kautta, jolla ei ole kielimuuria ja joka on teknisesti vauras.
+> Sitten hän tuli ja hajotti ihmiset eri paikkoihin, eivätkä he kyenneet ymmärtämään toisiaan.
+>
+> Siitä lähtien kiistat ovat jatkuneet, eikä Baabelin tornia ole maailmassa.
 
 Toivon voivani luoda työkalun, jonka avulla maan ihmiset voivat olla kuin kolmiruumiisia ihmisiä, kommunikoida ilman kielen sitomista ja yhdistää koko ihmiskunnan uudelleen.
 

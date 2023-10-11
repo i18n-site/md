@@ -14,13 +14,15 @@ Science fiction-romanen &quot;Three-Body&quot; (kinesisk udtale: `3Ti` ) fiktion
 
 Bibelen · Første Mosebog :
 
-> De gamle byggede tårne, der nåede himlen, nåede Guds port og fremmede den menneskelige races prestige.
+> På det tidspunkt havde folk over hele verden den samme accent og sprog.
 >
-> Herren sagde, at folk danner deres egen klan og taler det samme sprog. At bygge et tårn er blot en optakt. Nu hvor det er gjort, vil de gøre alt i fremtiden.
+> Byg et tårn, der når himlen, nå frem til Guds port, saml folks hjerter og spred dit ry.
 >
-> Så kom Herren og spredte folket forskellige steder, ude af stand til at forstå hinanden.
+> Herren sagde: Mennesker af samme kultur og race danner deres egen klan. At bygge et tårn i dag er kun en optakt, men vi vil gøre alt i fremtiden.
 >
-> Siden da er menneskelige stridigheder fortsat, og der er ikke længere et Babelstårn i verden.
+> Så kom han og spredte folket forskellige steder, ude af stand til at forstå hinanden.
+>
+> Siden da er stridigheder fortsat, og der er ikke noget Babeltårn i verden.
 
 Jeg håber at skabe et værktøj, der vil gøre det muligt for jordens mennesker at være som tre-kroppe mennesker, kommunikere uden at være bundet af sprog og forene hele menneskeheden igen.
 

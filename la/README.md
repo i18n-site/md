@@ -14,13 +14,15 @@ Scientia fictionis novae &quot;Tres-Corporis&quot; (pronuntiatio Sinica: `3Ti` )
 
 Bible :
 
-> Turres antiqui struxerunt coelum attingentes portam Dei, et pro- nuant generis humani.
+> Illo tempore homines ubique terrarum eundem accentum ac linguam habebant.
 >
-> Dominus dixit quod homines formam suam faciunt et eadem lingua loquuntur. Aedificare turrim praeludium est. Quod autem factum est, omnia in futurum facient.
+> Aedificare turrim quae caelum attingit, portam Dei attinge, corda hominum congregate, famam tuam diffunde.
 >
-> Tunc Dominus venit et dispersit plebem per diversa loca, nec se intelligere valens.
+> Dominus dixit: Homines eiusdem culturae ac generis propriam constituunt familiam. Aedificare turrim hodie praeludium tantum est, sed omnia in futuro faciemus.
 >
-> Cum igitur controversiae humanae permanserint, et turris Babel iam non est in mundo.
+> Deinde venit et dispersit turbas per loca, nec se intelligere valens.
+>
+> Cum igitur lites permanserunt, et Turris Babel nulla est in mundo.
 
 Instrumentum spero efficere ut homines terrae quasi tres homines efficere possint, quin lingua ligata communicent et omnes homines iterum uniant.
 

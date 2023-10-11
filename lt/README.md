@@ -14,13 +14,15 @@ Mokslinės fantastikos romane „Trys kūnai“ (tarimas kiniškai: `3Ti` ) išg
 
 Biblija · Pradžios knyga :
 
-> Senovės žmonės statė bokštus, siekiančius dangų, siekiančius Dievo vartus ir skatinančius žmonių rasės prestižą.
+> Tuo metu žmonės visame pasaulyje turėjo tą patį akcentą ir kalbą.
 >
-> Viešpats pasakė, kad žmonės sudaro savo klaną ir kalba ta pačia kalba. Bokšto statyba – tik įžanga. Dabar, kai tai padaryta, jie viską darys ir ateityje.
+> Pastatykite bokštą, kuris siekia dangų, pasiekite Dievo vartus, surinkite žmonių širdis ir skleiskite savo reputaciją.
 >
-> Tada atėjo Viešpats ir išsklaidė žmones į įvairias vietas, nesupratusius vieni kitų.
+> Viešpats pasakė: Tos pačios kultūros ir rasės žmonės sudaro savo klaną. Bokšto statyba šiandien – tik įžanga, bet viską darysime ateityje.
 >
-> Nuo tada žmonių ginčai tęsiasi ir Babelio bokšto pasaulyje nebėra.
+> Tada jis atėjo ir išblaškė žmones po įvairias vietas, nesuprato vienas kito.
+>
+> Nuo tada ginčai tęsėsi ir Babelio bokšto pasaulyje nėra.
 
 Tikiuosi sukurti įrankį, kuris leis žemės žmonėms būti tarsi trijų kūnų žmonėmis, bendrauti nesirišant kalbos ir vėl suvienyti visą žmoniją.
 

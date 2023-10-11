@@ -14,13 +14,15 @@ Science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) hia
 
 Bible · Genesis :
 
-> Hmanlai mite chuan van lam thleng thei, Pathian kawngkhar thleng thei leh mihringte chawimawina tisangtu kulh an siam a.
+> Chutih lai chuan khawvel hmun hrang hranga mite chuan accent leh tawng inang an nei a.
 >
-> Lalpa chuan miten mahni hnam an siam a, tawng inang an hmang a ni a ti. Tower sak hi a hmahruaitu mai a ni. Tunah chuan tih zawh a ni tawh a, nakin lawkah engkim an ti vek tawh ang.
+> Van thleng phak kulh siam la, Pathian kawtthler thleng la, mi thinlung khawn khawm la, i hmingthatna thehdarh rawh.
 >
-> Tichuan, Lalpa chu a lo kal a, mipuite chu hmun hrang hrangah, inhriatthiam tawn thei lovin a theh darh ta a.
+> Lalpa chuan heti hian a sawi: Mihring nunphung leh hnam inang mite chuan anmahni chi (clan) an siam a. Vawiina tower sak hi hmahruaitu mai a ni a, mahse nakin lawkah chuan engkim kan ti vek ang.
 >
-> Chuta tang chuan mihring inhnialna a la awm zel a, khawvelah Babel Kulh a awm tawh lo.
+> Chutah a lo kal a, mipuite chu hmun hrang hrangah a darh darh a, inhriatthiam tawn thei loin a tidarh ta a.
+>
+> Chumi hnuah chuan inhnialna a la awm chhunzawm zel a, khawvelah Babel Tower a awm tawh lo.
 
 Leilung mipuite hi taksa pathum nei ang maia awm thei tur, tawngkam phuar lova inbiakpawhna nei thei tur leh mihring zawng zawng inpumkhatna tur hmanrua siam ka beisei.
 

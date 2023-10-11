@@ -14,13 +14,15 @@ Niyta munani **, web kitikunalla tikraykunata ruwaqkunalla yanapayta atinku achk
 
 Biblia · Génesis :
 
-> Ñawpa pacha runakunaqa hanaq pachaman chayaq torrekunatan ruwarqanku, Diospa punkunman chayaspa, runaq allin qhawarisqa kaynintapas kallpacharqanku.
+> Chay tiempopiqa enteron pachapi runakunam huk acentoyuq hinaspa huk rimayniyuq karqaku.
 >
-> Señor Diosmi nirqan runakunaqa ayllunkuta ruwaspa huk simillata rimasqankuta. Torreta ruwayqa qallariylla. Kunanqa tukusqaña kaptin, hamuq tiempopi tukuy imata ruwanqaku.
+> Hanaq pachaman chayaq torreta ruway, Diospa punkunman chayay, runakunaq sonqonta huñuy, allin reqsisqa kayniykita mast’ariy.
 >
-> Chaymanta, Wiraqocha hamuspa imaymana cheqaskunapi runakunata ch’eqechirqan, mana entiendenakuspa.
+> Wiraqochataq nirqan: Huk culturayoq, huk razayoq runakunaqa kikinkumanta huk ayllutan ruwanku. Kunan punchaw torre ruwayqa qallariyllam, ichaqa hamuq punchawkunapim tukuy imata ruwasaqku.
 >
-> Chaymantapachan runakunaq ch’aqwayninkuna hinalla kashan, manañan kay pachapi Babel torrepas kanñachu.
+> Chaymanta hamuspa runakunata imaymana cheqaskunapi ch’eqechirqan, mana entiendenakuspa.
+>
+> Chaymantapachan ch’aqwaykunaqa hinalla kashan, manataqmi kay pachapi Babel torreqa kanchu.
 
 Suyachkani huk yanapakuyta paqarichiyta, chaywanmi kay pachapi runakuna kimsa kurkuyuq runakuna hina kanankupaq, rimaywan mana watasqa kaspa rimanakunankupaq, llapa runakunata yapamanta hukllawanankupaq.
 

@@ -10,17 +10,19 @@ Szeretném elmondani, hogy **csak a statikus fordításokat generáló webhelyek
 
 ## Bevezetés
 
+A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokon keresztül kommunikál, nincs nyelvi akadálya, és technológiailag virágzó.
+
 Biblia · Genezis :
 
-> Az ókorban, amikor a nyelvek egyek voltak, az emberiség az egekig érő tornyot épített, kaput Isten birodalmába, hirdetve az emberiség erejét.
+> Abban az időben az embereknek a világ minden táján ugyanaz volt az akcentus és a nyelv.
 >
-> Isten kijelentette: "Az emberek egy törzsként egyesülnek, közös nyelvvel, és ez a torony csak egy prológ. Most elérik vágyukat, és nem lesz többé félelem."
+> Építs egy tornyot, amely eléri az eget, elérje Isten kapuját, gyűjtse össze az emberek szívét, és terjessze hírnevét.
 >
-> Így Isten leszállt, szétszórta az embereket a különböző sarkokba, és különböző nyelveket használt.
+> Az Úr azt mondta: Az azonos kultúrájú és fajú emberek saját klánt alkotnak. A mai toronyépítés csak előjáték, de a jövőben mindent megteszünk.
 >
-> Ettől kezdve az emberi kommunikáció kihívást jelent, a viták végtelenek, és nem volt többé torony, amely az eget érintette volna.
-
-A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokon keresztül kommunikál, nincs nyelvi akadálya, és technológiailag virágzó.
+> Aztán jött, és szétszórta az embereket különböző helyeken, nem tudták megérteni egymást.
+>
+> Azóta folytatódnak a viták, és a világon nincs Bábel-torony.
 
 Remélem, hogy létrehozok egy olyan eszközt, amely lehetővé teszi a földi emberek számára, hogy olyanok legyenek, mint a háromtestű emberek, kommunikáljanak anélkül, hogy a nyelvhez kötnék őket, és újra egyesítsék az egész emberiséget.
 

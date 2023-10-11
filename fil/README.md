@@ -14,13 +14,15 @@ Ang nobelang science fiction na &quot;Three-Body&quot; (pagbigkas ng Tsino: `3Ti
 
 Bibliya · Genesis :
 
-> Ang mga sinaunang tao ay nagtayo ng mga tore na umaabot sa langit, na umaabot sa pintuan ng Diyos, at nagtataguyod ng prestihiyo ng sangkatauhan.
+> Sa oras na iyon, ang mga tao sa buong mundo ay may parehong accent at wika.
 >
-> Sinabi ng Panginoon na ang mga tao ay bumubuo ng kanilang sariling angkan at nagsasalita ng parehong wika. Ang pagtatayo ng tore ay panimula lamang. Ngayong tapos na, gagawin nila ang lahat sa hinaharap.
+> Magtayo ng tore na umaabot sa langit, abutin ang pintuan ng Diyos, tipunin ang puso ng mga tao, at ipalaganap ang iyong reputasyon.
 >
-> Pagkatapos, dumating ang Panginoon at ikinalat ang mga tao sa iba't ibang lugar, na hindi nagkakaintindihan.
+> Sinabi ng Panginoon: Ang mga taong may parehong kultura at lahi ay bumubuo ng kanilang sariling angkan. Ang pagtatayo ng tore ngayon ay panimula lamang, ngunit gagawin natin ang lahat sa hinaharap.
 >
-> Mula noon, nagpatuloy ang mga alitan ng tao, at wala nang Tore ng Babel sa mundo.
+> Pagkatapos ay dumating siya at ikinalat ang mga tao sa iba't ibang lugar, na hindi nagkakaintindihan.
+>
+> Mula noon, nagpatuloy ang mga pagtatalo, at walang Babel Tower sa mundo.
 
 Umaasa akong lumikha ng isang kasangkapan na magbibigay-daan sa mga tao sa mundo na maging tulad ng tatlong-katawan na mga tao, makipag-usap nang hindi nakagapos sa wika, at muling magkaisa ang buong sangkatauhan.
 

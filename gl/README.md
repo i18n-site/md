@@ -14,13 +14,15 @@ A novela de ciencia ficción &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) 
 
 Biblia · Xénese :
 
-> Os antigos construíron torres que chegaban ao ceo, chegaban á porta de Deus e promovían o prestixio da raza humana.
+> Naquela época, a xente de todo o mundo tiña o mesmo acento e lingua.
 >
-> O Señor dixo que as persoas forman o seu propio clan e falan a mesma lingua. Construír unha torre é só un preludio. Agora que está feito, farán todo no futuro.
+> Constrúe unha torre que chegue ao ceo, chega á porta de Deus, reúne os corazóns das persoas e espalla a túa reputación.
 >
-> Entón, veu o Señor e dispersou á xente por varios lugares, sen poder entenderse.
+> O Señor dixo: As persoas da mesma cultura e raza forman un clan propio. Construír unha torre hoxe é só un preludio, pero faremos todo no futuro.
 >
-> Desde entón, as disputas humanas continuaron, e xa non hai unha Torre de Babel no mundo.
+> Despois veu e esparexeu á xente por varios lugares, sen poder entenderse.
+>
+> Desde entón, as disputas continuaron e non hai Torre Babel no mundo.
 
 Espero crear unha ferramenta que permita aos pobos da terra ser como persoas de tres corpos, comunicarse sen estar ligados pola linguaxe e unir de novo a toda a humanidade.
 

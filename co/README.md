@@ -14,13 +14,15 @@ U rumanzu di fantascienza &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) fic
 
 Bibbia · Genesi :
 
-> L'antichi custruìu turri chì ghjunghjenu à u celu, ghjunghjenu à a porta di Diu, è prumove u prestigiu di a razza umana.
+> À quellu tempu, a ghjente in tuttu u mondu avia u stessu accentu è lingua.
 >
-> U Signore hà dettu chì e persone formanu u so propiu clan è parlanu a stessa lingua. Custruì una torre hè solu un preludiu. Avà chì hè fattu, facenu tuttu in u futuru.
+> Custruite una torre chì ghjunghje à u celu, ghjunghje à a porta di Diu, riunite i cori di e persone è sparghje a vostra reputazione.
 >
-> Allora, u Signore hè vinutu è sparghje a ghjente in parechji lochi, incapaci di capiscenu.
+> U Signore hà dettu: E persone di a listessa cultura è razza formanu un clan propiu. Custruì una torre oghje hè solu un preludiu, ma faremu tuttu in u futuru.
 >
-> Da tandu, i disputi umani anu cuntinuatu, è ùn ci hè più una Torre di Babele in u mondu.
+> Allora ghjunse è sparghje a ghjente in parechji lochi, incapaci à capiscenu.
+>
+> Da tandu, i disputi anu cuntinuatu, è ùn ci hè micca Babel Tower in u mondu.
 
 Spergu di creà un strumentu chì permetterà à a ghjente di a terra di esse cum'è e persone di trè corpi, di cumunicà senza esse ligatu da a lingua, è unisce di novu tutta l'umanità.
 

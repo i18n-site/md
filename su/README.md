@@ -10,17 +10,19 @@ Abdi hoyong nyebatkeun yén **ngan ukur situs wéb anu ngahasilkeun tarjamahan s
 
 ## Bubuka
 
+Novel fiksi ilmiah &quot;Tilu Badan&quot; (lafal Basa Cina: `3Ti` ) ngafiksasikeun peradaban alien anu komunikasi ngaliwatan gelombang éléktromagnétik, teu aya halangan basa, sareng makmur sacara téknologi.
+
 Alkitab · Kajadian :
 
-> Jaman baheula, nalika basa hiji, umat manusa ngawangun munara nepi ka langit, hiji portal ka domain Allah, proclaiming kakuatan umat manusa.
+> Waktu éta, jalma di sakuliah dunya miboga logat jeung basa nu sarua.
 >
-> Allah nyatakeun, "Lalaki ngahiji salaku hiji suku, kalawan basa dibagikeun, sarta munara ieu ngan prolog. Ayeuna aranjeunna ngahontal kahayang maranéhanana, sarta moal aya deui sieun."
+> Ngawangun munara anu ngahontal langit, ngahontal gapura Allah, ngumpulkeun hate jalma, sarta nyebarkeun reputasi Anjeun.
 >
-> Ku kituna, Allah lungsur, scattering jalma ka béda sudut, make basa béda.
+> PANGERAN ngandika: Jalma-jalma nu sabangsa jeung budayana sarua ngabentuk marga sorangan. Ngawangun munara ayeuna ngan ukur prelude, tapi urang bakal ngalakukeun sadayana di hareup.
 >
-> Ti harita, komunikasi manusa jadi nangtang, sengketa teu aya tungtungna, teu aya deui munara nu noel ka langit.
-
-Novel fiksi ilmiah &quot;Tilu Badan&quot; (lafal Basa Cina: `3Ti` ) ngafiksasikeun peradaban alien anu komunikasi ngaliwatan gelombang éléktromagnétik, teu aya halangan basa, sareng makmur sacara téknologi.
+> Lajeng anjeunna sumping sarta paburencay jalma di sagala rupa tempat, teu bisa ngarti silih.
+>
+> Ti saprak éta, sengketa terus-terusan, sareng teu aya Menara Babel di dunya.
 
 Mugi-mugi tiasa nyiptakeun alat anu tiasa ngajantenkeun jalma-jalma di bumi janten sapertos jalma tilu awak, komunikasi tanpa kabeungkeut ku basa, sareng ngahijikeun deui sakumna umat manusa.
 

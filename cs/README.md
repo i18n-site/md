@@ -14,13 +14,15 @@ Sci-fi román „Three-Body“ (čínská výslovnost: `3Ti` ) beletrizuje mimoz
 
 Bible · Genesis :
 
-> Staří lidé stavěli věže, které dosahovaly k nebi, dosahovaly Boží brány a podporovaly prestiž lidské rasy.
+> V té době měli lidé na celém světě stejný přízvuk a jazyk.
 >
-> Pán řekl, že lidé tvoří svůj vlastní klan a mluví stejným jazykem. Stavba věže je jen předehra. Nyní, když je hotovo, udělají vše v budoucnu.
+> Postavte věž, která dosáhne nebe, dostaňte se k bráně Boží, shromážděte srdce lidí a šiřte svou pověst.
 >
-> Potom přišel Pán a rozptýlil lidi na různá místa, aniž by si navzájem rozuměli.
+> Pán řekl: Lidé stejné kultury a rasy tvoří svůj vlastní klan. Stavba věže je dnes jen předehrou, ale vše uděláme v budoucnu.
 >
-> Od té doby lidské spory pokračují a Babylonská věž už na světě není.
+> Pak přišel a rozptýlil lidi na různá místa, neschopni se navzájem pochopit.
+>
+> Od té doby spory pokračují a Babylonská věž na světě není.
 
 Doufám, že vytvořím nástroj, který lidem na Zemi umožní, aby byli jako lidé se třemi těly, komunikovali bez svazování jazykem a znovu sjednotili celé lidstvo.
 

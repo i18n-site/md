@@ -10,17 +10,19 @@ Saya ingin mengatakan bahwa **hanya situs web yang menghasilkan terjemahan stati
 
 ## Perkenalan
 
+Novel fiksi ilmiah &quot;Three-Body&quot; (pengucapan China: `3Ti` ) mengarang fiksi peradaban alien yang berkomunikasi melalui gelombang elektromagnetik, tidak memiliki kendala bahasa, dan makmur secara teknologi.
+
 Alkitab · Kejadian :
 
-> Pada zaman kuno, ketika bahasa-bahasa masih satu, umat manusia membangun sebuah menara yang mencapai langit, sebuah portal menuju wilayah kekuasaan Tuhan, memberitakan kekuatan umat manusia.
+> Saat itu, orang-orang di seluruh dunia mempunyai aksen dan bahasa yang sama.
 >
-> Tuhan menyatakan, "Manusia bersatu sebagai satu suku, dengan bahasa yang sama, dan menara ini hanyalah sebuah prolog. Sekarang mereka mencapai keinginan mereka, dan tidak akan ada lagi rasa takut."
+> Bangun menara yang mencapai langit, raih gerbang Tuhan, kumpulkan hati orang-orang, dan sebarkan reputasi Anda.
 >
-> Jadi, Tuhan turun, menyebarkan manusia ke berbagai penjuru, menggunakan bahasa yang berbeda.
+> Tuhan bersabda: Orang-orang dari budaya dan ras yang sama membentuk klan mereka sendiri. Membangun menara saat ini hanyalah permulaan, tapi kami akan melakukan segalanya di masa depan.
 >
-> Sejak saat itu, komunikasi manusia menjadi penuh tantangan, perselisihan tiada akhir, dan tidak ada lagi menara yang menyentuh langit.
-
-Novel fiksi ilmiah &quot;Three-Body&quot; (pengucapan China: `3Ti` ) mengarang fiksi peradaban alien yang berkomunikasi melalui gelombang elektromagnetik, tidak memiliki kendala bahasa, dan makmur secara teknologi.
+> Kemudian dia datang dan mencerai-beraikan orang-orang itu di berbagai tempat, karena tidak dapat saling memahami.
+>
+> Sejak itu, perselisihan terus berlanjut, dan tidak ada Menara Babel di dunia.
 
 Saya berharap dapat menciptakan alat yang memungkinkan manusia di bumi menjadi seperti manusia yang bertubuh tiga, berkomunikasi tanpa terikat oleh bahasa, dan menyatukan kembali seluruh umat manusia.
 

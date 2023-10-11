@@ -14,13 +14,15 @@ De Science Fiction Roman &quot;Three-Body&quot; (Chinesesch Aussprooch: `3Ti` ) 
 
 Bibel · Genesis :
 
-> D'Alter hunn Tierm gebaut, déi den Himmel erreechen, d'Paart vu Gott erreechen an de Prestige vun der Mënschheet förderen.
+> Deemools haten d'Leit op der ganzer Welt deeselwechten Akzent a Sprooch.
 >
-> Den Här sot, datt d'Leit hiren eegene Clan bilden an déi selwecht Sprooch schwätzen. En Tuerm bauen ass just en Optakt. Elo wou et fäerdeg ass, wäerte se an Zukunft alles maachen.
+> Baut en Tuerm deen den Himmel erreecht, erreecht d'Paart vu Gott, sammelt d'Häerzer vun de Leit, a verbreet Äre Ruff.
 >
-> Dunn ass den Här komm an huet d'Leit op verschiddene Plazen verspreet, net fäeg sech géigesäiteg ze verstoen.
+> Den Här sot: Leit vun der selwechter Kultur a Rass bilden en eegene Clan. Haut en Tuerm bauen ass just en Optakt, mä mir wäerten an Zukunft alles maachen.
 >
-> Zanterhier sinn d'mënschlech Streidereien weidergaang, an et gëtt keen Tuerm vu Babel méi op der Welt.
+> Dunn ass hien komm an huet d'Leit op verschiddene Plazen verspreet, onfäheg sech ze verstoen.
+>
+> Zënterhier sinn Streidereien weidergaangen, an et gëtt kee Babeltuerm op der Welt.
 
 Ech hoffen e Tool ze kreéieren deen d'Leit vun der Äerd erméigleche wéi dräi-Kierper Leit ze sinn, ouni Sprooch gebonnen ze kommunizéieren an d'ganz Mënschheet erëm ze verbannen.
 

@@ -14,13 +14,15 @@ Pe novela ciencia ficción &quot;Mbohapy Cuerpo&quot; (pronunciación chino: `3T
 
 Biblia · Génesis :
 
-> Ymaguare omopu’ã tórre og̃uahẽva yvága peve, og̃uahẽva Ñandejára rokẽme ha omoherakuãva yvypóra ñemomba’eguasu.
+> Upe tiémpope umi hénte oĩva oparupiete ko múndope oreko peteĩchapa acento ha idióma.
 >
-> Ñandejára he’i umi tapicha ojapoha ijyvy tee ha oñe’ẽha peteĩ ñe’ẽme. Oñemopu’ãvo peteĩ tórre ha’e peteĩ ñepyrũrãnte. Koʼág̃a ojejapóma, haʼekuéra ojapóta opa mbaʼe amo gotyove.
+> Emopu’ã peteĩ tórre oguahẽva yvága peve, eguahẽ Ñandejára rokẽme, embyaty tapichakuéra korasõ ha emyasãi nde réra.
 >
-> Upéi, Ñandejára ou ha omosarambi tavayguakuérape opaichagua hendápe, ndaikatúi oñontende.
+> Ñandejára he’i: Umi tapicha peteĩchagua cultura ha raza-pegua ojapo peteĩ clan imba’éva. Oñemopu’ãvo peteĩ torre ko árape ha’e peteĩ preludio-nte, ha katu opa mba’e jajapóta tenonderãme.
 >
-> Upe guive osegi ojodiskuti yvyporakuéra, ha ndaiporivéima peteĩ Torre de Babel ko múndope.
+> Upéi ou ha omosarambi umi tavayguakuérape opaichagua hendápe, ndaikatúi oñontende.
+>
+> Upe guive osegi umi disputa, ha ndaipóri Torre de Babel ko múndope.
 
 Aha’arõ amoheñói peteĩ tembiporu ikatútava yvy ape ári tavayguakuéra ha’e haĝua tapicha mbohapy hete reheguaicha, oñemongeta ojejokua’ỹre ñe’ẽme ha ombojoaju jey mayma yvypórape.
 

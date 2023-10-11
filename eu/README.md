@@ -10,17 +10,19 @@ Esan nahiko nuke **itzulpen estatikoak sortzen dituzten webguneek soilik onartze
 
 ## Sarrera
 
+&quot;Three-Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Ti` ) uhin elektromagnetikoen bidez komunikatzen den, hizkuntza-hesirik ez duen eta teknologikoki oparoa den zibilizazio arrotz bat fikzionatu du.
+
 Biblia · Genesis :
 
-> Antzina, hizkuntzak bat zirenean, gizateriak zeruraino iristen zen dorre bat eraiki zuen, Jainkoaren domeinurako atari bat, gizakiaren boterea aldarrikatuz.
+> Garai hartan, mundu osoko jendeak azentu eta hizkuntza bera zuten.
 >
-> Jainkoak adierazi zuen: "Gizonak tribu bat bezala elkartzen dira, hizkuntza partekatuarekin, eta dorre hau hitzaurre bat besterik ez da. Orain beren nahia lortzen dute, eta ez da gehiago beldurrik izango".
+> Eraiki zerura iristen den dorre bat, heldu Jainkoaren atarira, bildu jendearen bihotzak eta zabaldu zure ospea.
 >
-> Horrela, Jainkoa jaitsi zen, jendea bazter ezberdinetara sakabanatzen, hizkuntza desberdinak erabiltzen.
+> Jaunak esan zuen: Kultura eta arraza bereko pertsonek beren klan bat osatzen dute. Gaur dorre bat eraikitzea aurresku bat besterik ez da, baina etorkizunean dena egingo dugu.
 >
-> Handik aurrera, giza komunikazioa erronka bihurtu zen, gatazkak amaigabeak, eta ez zen gehiago zerua ukitzen zuen dorrerik.
-
-&quot;Three-Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Ti` ) uhin elektromagnetikoen bidez komunikatzen den, hizkuntza-hesirik ez duen eta teknologikoki oparoa den zibilizazio arrotz bat fikzionatu du.
+> Orduan etorri zen eta jendea hainbat tokitan barreiatu zuen, elkar ulertu ezinik.
+>
+> Harrezkero, liskarrek jarraitu dute, eta munduan ez dago Babel Dorrerik.
 
 Espero dut lurreko jendea hiru gorputzeko pertsonak bezalakoa izatea, hizkuntzari lotu gabe komunikatzea eta gizadi osoa berriro batzea ahalbidetuko duen tresna sortzea.
 

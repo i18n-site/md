@@ -14,13 +14,15 @@ Ir-rumanz tal-fantaxjenza &quot;Three-Body&quot; (pronunzja Ċiniża: `3Ti` ) ji
 
 Bibbja · Ġenesi :
 
-> Il-qedem bnew torrijiet li jilħqu s-sema, jilħqu l-bieb ta 'Alla, u jippromwovu l-prestiġju tar-razza umana.
+> Dak iż-żmien, in-nies madwar id-dinja kollha kellhom l-istess aċċent u lingwa.
 >
-> Il-Mulej qal li n-nies jiffurmaw il-klann tagħhom stess u jitkellmu l-istess lingwa. Il-bini ta’ torri huwa biss preludju. Issa li sar, se jagħmlu kollox fil-futur.
+> Ibni torri li jilħaq is-sema, ilħaq il-bieb ta’ Alla, iġbor il-qlub tan-nies, u xerred ir-reputazzjoni tiegħek.
 >
-> Imbagħad, ġie l-Mulej u xerred lill-poplu f’diversi postijiet, ma setgħux jifhmu lil xulxin.
+> Il-Mulej qal: Nies tal-istess kultura u razza jiffurmaw klann tagħhom stess. Il-bini ta’ torri llum huwa biss preludju, imma se nagħmlu kollox fil-futur.
 >
-> Minn dakinhar, it-tilwim bejn il-bnedmin baqa’ għaddej, u m’għadx hemm Torri ta’ Babel fid-dinja.
+> Imbagħad ġie u xerred lin-nies f’diversi postijiet, ma setgħux jifhmu lil xulxin.
+>
+> Minn dakinhar, it-​tilwim komplew, u m’hemm l-​ebda Torri taʼ Babel fid-​dinja.
 
 Nittama li noħloq għodda li tippermetti lin-nies tad-dinja jkunu bħal nies bi tliet iġsma, jikkomunikaw mingħajr ma jkunu marbuta bil-lingwa, u jerġgħu jgħaqqdu l-umanità kollha.
 

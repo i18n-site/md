@@ -14,13 +14,15 @@ Dɔnniya gafe min tɔgɔ ye ko &quot;Three-Body&quot; (Sinuwakan fɔcogo: `3Ti` 
 
 Bibulu · Jenɛse :
 
-> Fɔlɔw ye sankansobaw jɔ minnu bɛ se sankolo la, ka se Ala da la, ka hadamadenw ka siya bonya.
+> O waati la, diɲɛ fan bɛɛ la, mɔgɔw ka fɔcogo ni u ka kan tun ye kelen ye.
 >
-> Matigi ko mɔgɔw bɛ u ka jamu da, ka kan kelen fɔ. Sankanso jɔli ye daminɛ dɔrɔn de ye. Sisan, a kɛlen kɔ, u bɛna fɛn bɛɛ kɛ don nataw la.
+> Aw ye sankanso jɔ min bɛ se sankolo la, ka se Ala da la, ka mɔgɔw dusukunw lajɛ, ka aw tɔgɔ jɛnsɛn.
 >
-> O kɔ, Matigi nana ka mɔgɔw jɛnsɛn yɔrɔ caman na, u ma se ka ɲɔgɔn faamu.
+> Matigi ko: Mɔgɔ minnu ka ladamu ni u siya ye kelen ye, olu bɛ jamu dɔ sigi u yɛrɛ ye. Sankanso jɔli bi, o ye daminɛ dɔrɔn de ye, nka an bɛna fɛn bɛɛ kɛ don nataw la.
 >
-> Kabini o waati, hadamadenw ka sɔsɔliw tora senna, wa Babɛli sankanso tɛ diɲɛ kɔnɔ tugun.
+> O kɔ, a nana mɔgɔw jɛnsɛn yɔrɔ caman na, u ma se ka ɲɔgɔn faamu.
+>
+> Kabini o waati, sɔsɔliw tora senna, wa Babɛl sankanso tɛ diɲɛ kɔnɔ.
 
 N jigi b’a kan ka baarakɛminɛn dɔ da min bɛna kɛ sababu ye dugukolo mɔgɔw ka kɛ i n’a fɔ farikolo saba, ka kumaɲɔgɔnya kɛ k’a sɔrɔ u ma siri kan na, ka hadamaden bɛɛ fara ɲɔgɔn kan kokura.
 

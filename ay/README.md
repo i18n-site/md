@@ -14,13 +14,15 @@ Novela de ciencia ficción &quot;Kimsa Cuerpo&quot; (chino aruchja: `3Ti` ) ukax
 
 Biblia · Génesis qillqata :
 
-> Nayra jaqinakax alaxpachar puriñkama, Diosan punkupar puriñkamaw torrenak lurapxäna, ukat jaqinakan jachʼañchatäñapatakiw chʼamañchapxäna.
+> Uka tiemponjja, oraqpachankir jaqenakajj pachpa acento ukat arunak parlapjjerïna.
 >
-> Tatitux jaqinakax jupanakan clan ukanakap utt’ayasipxi ukat pachpa arunak arsupxi sasaw säna. Mä torre lurañajj mä nayrïr uñachtʼäwikiwa. Jichhajj luratäjjewa, jutïrinjja taqe kunwa lurapjjani.
+> Alaxpachar puriñkamaw mä torre lurapxam, Diosan punkupar puripxam, jaqinakan chuymanakap apthapipxam, ukat sutim yatiyapxam.
 >
-> Ukatxa, Tatitux jutasinx kunayman chiqanakaruw jaqinakar ch’iqiyäna, janiw maynit maynikam amuyañjamäkänti.
+> Tatitux akham sänwa: Pachpa saräwini ukat pachpa jañchin jaqinakax jupanakan mä clan uñstayapxi. Jichhürunakan mä torre lurañax mä qalltawikiwa, ukampis jutïrinx taqi kuns lurañäni.
 >
-> Ukhat aksarojja, jaqenakan chʼajjwañanakapajj utjaskakiwa, janiw mä Torre de Babel akapachan utj-jjeti.
+> Ukatxa jupax jutasinx kunayman chiqanakaruw jaqinakar ch’iqiyatayna, janiw maynit maynikam amuyañjamäkänti.
+>
+> Uka tiempot aksarojja, chʼajjwañanakajj utjaskakiwa, janiw akapachanjja Babel sat torrejj utj-jjeti.
 
 Nayax mä herramienta lurañ suyt’askta, ukax aka uraqin jaqinakax kimsa janchini jaqinakjam uñt’ayasiñataki, jan arump chint’asis aruskipt’añataki, ukat taqpach jaqinakar wasitat mayacht’añataki.
 

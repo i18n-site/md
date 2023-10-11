@@ -14,13 +14,15 @@ La sciencfikcia romano &quot;Tri-korpoj&quot; (ĉine elparolo: `3Ti` ) fikciigas
 
 Biblio · Genezo :
 
-> La antikvuloj konstruis turojn atingantajn la ĉielon, atingante la pordegon de Dio, kaj antaŭenigante la prestiĝon de la homa raso.
+> Tiutempe homoj tra la mondo havis la saman akĉenton kaj lingvon.
 >
-> La Sinjoro diris, ke homoj formas sian propran klanon kaj parolas la saman lingvon. Konstrui turon estas nur preludo. Nun kiam ĝi estas farita, ili faros ĉion estonte.
+> Konstruu turon, kiu atingas la ĉielon, atingu la pordegon de Dio, kolektu la korojn de homoj kaj disvastigu vian reputacion.
 >
-> Tiam, la Sinjoro venis kaj disĵetis la homojn en diversajn lokojn, ne povante kompreni unu la alian.
+> La Sinjoro diris: Homoj de la sama kulturo kaj raso formas propran klanon. Konstrui turon hodiaŭ estas nur preludo, sed ni faros ĉion estonte.
 >
-> Ekde tiam, homaj disputoj daŭris, kaj ne plu ekzistas Babeloturo en la mondo.
+> Tiam li venis kaj disĵetis la homojn en diversajn lokojn, ne povante interkompreniĝi.
+>
+> Ekde tiam, disputoj daŭris, kaj ne ekzistas Babela Turo en la mondo.
 
 Mi esperas krei ilon, kiu ebligos al la homoj de la tero esti kiel trikorpaj homoj, komuniki sen esti ligita per lingvo, kaj unuigi denove la tutan homaron.
 

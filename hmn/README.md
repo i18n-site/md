@@ -14,13 +14,15 @@ Cov ntawv tseeb tshiab &quot;Three-Lub Cev&quot; (Suav hais: `3Ti` ) fictionaliz
 
 Bible · Chiv Keeb :
 
-> Cov neeg thaum ub tau tsim cov pej thuam nce mus txog saum ntuj, mus txog lub qhov rooj ntawm Vajtswv, thiab txhawb nqa lub meej mom ntawm tib neeg.
+> Lub sijhawm ntawd, tib neeg thoob plaws lub ntiaj teb no muaj tib lub suab thiab lus.
 >
-> Tus Tswv hais tias tib neeg tsim lawv xeem thiab hais ib yam lus. Tsim ib tug pej thuam tsuas yog ua ntej xwb. Tam sim no nws ua tiav, lawv yuav ua txhua yam yav tom ntej.
+> Ua ib tug pej thuam uas nce mus txog saum ntuj, ncav cuag Vajtswv lub qhov rooj, sau neeg lub siab, thiab nthuav koj lub koob npe nrov.
 >
-> Tom qab ntawd, tus Tswv los thiab ua kom cov neeg nyob rau ntau qhov chaw, tsis muaj kev sib nkag siab.
+> Tus Tswv hais tias: Cov tib neeg ntawm tib kab lis kev cai thiab haiv neeg tsim ib pawg ntawm lawv tus kheej. Kev tsim lub pej thuam niaj hnub no tsuas yog ua ntej xwb, tab sis peb yuav ua txhua yam yav tom ntej.
 >
-> Txij thaum ntawd los, tib neeg kev tsis sib haum xeeb tau txuas ntxiv mus, thiab tsis muaj Ntauwd ntawm Babel hauv ntiaj teb.
+> Tom qab ntawd nws los thiab ua kom cov neeg nyob hauv ntau qhov chaw, tsis muaj peev xwm nkag siab ib leeg.
+>
+> Txij thaum ntawd los, kev tsis sib haum xeeb tau txuas ntxiv mus, thiab tsis muaj Babel Tower hauv ntiaj teb.
 
 Kuv vam tias yuav tsim ib lub cuab yeej uas yuav pab kom cov neeg hauv ntiaj teb zoo li peb lub cev, sib txuas lus yam tsis muaj kev khi lus, thiab sib sau ua ke tag nrho noob neej dua.
 

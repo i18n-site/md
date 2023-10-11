@@ -10,17 +10,19 @@ Emi yoo fẹ lati sọ pe **awọn oju opo wẹẹbu nikan ti o ṣe agbekalẹ 
 
 ## Ọrọ Iṣaaju
 
+Iwe itan itan-akọọlẹ imọ-jinlẹ “Ara-mẹta” ( pronunciation Kannada: `3Ti` ) ṣe itanjẹ itanjẹ ọlaju ajeji ti o sọrọ nipasẹ awọn igbi itanna, ko ni awọn idena ede, ati pe o ni ilọsiwaju ni imọ-ẹrọ.
+
 Bibeli · Genesisi :
 
-> Láyé àtijọ́, nígbà táwọn èdè jẹ́ ọ̀kan, ẹ̀dá ènìyàn kọ́ ilé gogoro kan tí ó kan ọ̀run, ọ̀nà àbáwọlé kan sí ìṣàkóso Ọlọ́run, tí ń kéde agbára ìran ènìyàn.
+> Lákòókò yẹn, àwọn èèyàn kárí ayé ní èdè kan náà.
 >
-> Ọlọ́run sọ pé: “Àwọn ènìyàn para pọ̀ jẹ́ ẹ̀yà kan, ní ahọ́n pínpín, ilé ìṣọ́ yìí kì í sì í ṣe ọ̀rọ̀ ìṣáájú. Ní báyìí, wọ́n ṣe ìfẹ́ ọkàn wọn, kì yóò sì sí ẹ̀rù mọ́.”
+> Kọ ile-iṣọ kan ti o de ọrun, de ẹnu-ọna Ọlọrun, ko awọn ọkan eniyan jọ, ki o si tan orukọ rẹ kalẹ.
 >
-> Nípa bẹ́ẹ̀, Ọlọ́run sọ̀ kalẹ̀, ó sì tú àwọn ènìyàn ká sí oríṣiríṣi ìhà, ó ń lo èdè.
+> Oluwa sọ pe: Awọn eniyan ti aṣa ati ẹya kanna ṣe idile ti ara wọn. Kọ ile-iṣọ kan loni jẹ asọtẹlẹ nikan, ṣugbọn a yoo ṣe ohun gbogbo ni ọjọ iwaju.
 >
-> Láti ìgbà náà lọ, ìjùmọ̀sọ̀rọ̀pọ̀ ènìyàn ti di ìpèníjà, àríyànjiyàn kò lópin, kò sì sí ilé-iṣọ́ kan tí ó kan ojú ọ̀run mọ́.
-
-Iwe itan itan-akọọlẹ imọ-jinlẹ “Ara-mẹta” ( pronunciation Kannada: `3Ti` ) ṣe itanjẹ itanjẹ ọlaju ajeji ti o sọrọ nipasẹ awọn igbi itanna, ko ni awọn idena ede, ati pe o ni ilọsiwaju ni imọ-ẹrọ.
+> Lẹ́yìn náà, ó wá, ó sì tú àwọn èèyàn ká sí onírúurú ibi, wọn ò lè lóye ara wọn.
+>
+> Lati igba naa, awọn ariyanjiyan ti tẹsiwaju, ko si si Ile-iṣọ Babel ni agbaye.
 
 Mo nírètí láti ṣe ohun èlò kan tí yóò jẹ́ kí àwọn ènìyàn ilẹ̀ ayé dà bí ènìyàn mẹ́ta, kí wọ́n máa bára wọn sọ̀rọ̀ láìsí èdè-àdéhùn, kí wọ́n sì tún mú kí gbogbo aráyé wà ní ìṣọ̀kan.
 

@@ -10,17 +10,19 @@ Kayatko nga ibaga a **dagiti laeng website a mangpataud kadagiti estatiko a pata
 
 ## Pauna
 
+Ti nobela ti siensia a piksion a &quot;Tallo-a-Bagi&quot; (Insik a panagibalikas: `3Ti` ) ket piksionario ti maysa a ganggannaet a sibilisasion a makikomunikar babaen dagiti elektromagnetiko nga allon, awan dagiti lapped ti pagsasao, ken narang-ay iti teknolohia.
+
 Biblia · Genesis :
 
-> Idi un-unana a panawen, idi agmaymaysa dagiti pagsasao, nangibangon ti sangatauan iti torre a dumanon iti langit, maysa a ruangan nga agturong iti sakup ti Dios, a mangiwaragawag iti pannakabalin ti sangatauan.
+> Iti dayta a tiempo, agpapada ti aksento ken pagsasao dagiti tattao iti intero a lubong.
 >
-> Indeklara ti Dios, "Agkaykaysa dagiti lallaki kas maymaysa a tribu, nga addaan iti nabingbingay a dila, ket daytoy a torre ket maysa laeng a prologo. Ita maragpatda ti tarigagayda, ket awanton ti buteng."
+> Mangbangonka iti torre a dumanon iti langit, dumanon iti ruangan ti Dios, urnongem ti puso dagiti tattao, ken isaknapmo ti reputasionmo.
 >
-> Gapuna, bimmaba ti Dios, a nangiwaras kadagiti tattao iti nagduduma a suli, agusar iti nagduduma a pagsasao.
+> Kinuna ti Apo: Dagiti tattao nga agpapada ti kultura ken puli ket mangbukel iti bukodda a puli. Ti panangibangon iti torre ita ket maysa laeng a pangrugian, ngem aramidentayo ti amin iti masanguanan.
 >
-> Manipud idin, nagbalin a makakarit ti komunikasion ti tao, awan patinggana dagiti panagsusupiat, ket awanen ti torre a mangsagid iti langit.
-
-Ti nobela ti siensia a piksion a &quot;Tallo-a-Bagi&quot; (Insik a panagibalikas: `3Ti` ) ket piksionario ti maysa a ganggannaet a sibilisasion a makikomunikar babaen dagiti elektromagnetiko nga allon, awan dagiti lapped ti pagsasao, ken narang-ay iti teknolohia.
+> Kalpasanna, immay ket inwarasna dagiti tattao iti nadumaduma a lugar, a dida makaawat iti maysa ken maysa.
+>
+> Sipud idin, nagtultuloy dagiti riri, ket awanen ti Babel Tower iti lubong.
 
 Mangnamnamaak a mangparnuay iti ramit a mangpabalin kadagiti tattao ditoy daga nga agbalin a kas iti tallo ti bagina a tattao, makikomunikar a dida magalut iti pagsasao, ken mamagkaykaysa manen iti amin a sangatauan.
 

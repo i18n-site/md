@@ -14,13 +14,15 @@ Asoosamni asoosama saayinsii &quot;Three-Body&quot; (Sagalee Chaayinaa: `3Ti` ) 
 
 Macaafa Qulqulluu · Seera Uumamaa :
 
-> Warri durii masaraawwan samii gaʼan, karra Waaqayyoo gaʼanii fi kabaja sanyii namaa guddisan ijaaraniiru.
+> Yeroo sanatti namoonni addunyaa guutuu keessa jiran aksentaa fi afaan tokko qabu turan.
 >
-> Gooftaan namoonni gosa mataa isaanii ijaaranii afaan tokko akka dubbatan dubbateera. Masaraa ijaaruun seensa qofa. Amma erga raawwatamee booda gara fuulduraatti waan hunda ni raawwatu.
+> Masaraa samii gahu ijaari, karra Waaqayyoo ga'i, garaa namootaa walitti qabi, maqaa kee babal'isi.
 >
-> Sana booda, Gooftaan dhufee namoota wal hubachuu dadhabee bakka adda addaatti facaase.
+> Gooftaan akkana jedhe: Namoonni aadaa fi sanyii tokko qaban gosa mataa isaanii uumu. Har'a masaraa ijaaruun seensa qofa, garuu gara fuulduraatti waan hunda ni hojjenna.
 >
-> Ergasii as falmiin namootaa itti fufee waan tureef, kana booda Gimbii Baabel addunyaa kanarra hin jiru.
+> Sana booda dhufee ummata wal hubachuu dadhabee bakka adda addaatti facaase.
+>
+> Ergasii as falmiin itti fufee jira, addunyaa kanarras Masaraan Baabel hin jiru.
 
 Meeshaa ummanni lafaa akka namoota qaama sadii ta’ee, afaaniin osoo hin hidhamin akka walqunnamsiisu, deebi’ee dhala namaa hunda tokkoomsu uumuuf abdiin qaba.
 

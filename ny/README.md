@@ -14,13 +14,15 @@ Buku lopeka la sayansi &quot;Matupi Atatu&quot; (matchulidwe achi China: `3Ti` )
 
 Baibulo · Genesis :
 
-> Anthu akale anamanga nsanja zofika kumwamba, zofika pachipata cha Mulungu, ndi kulimbikitsa kutchuka kwa mtundu wa anthu.
+> Panthawiyo, anthu padziko lonse lapansi anali ndi kalankhulidwe ndi chinenero chofanana.
 >
-> Yehova ananena kuti anthu amapanga fuko lawo ndipo amalankhula chinenero chimodzi. Kumanga nsanja ndi chiyambi chabe. Tsopano popeza zachitika, adzachita zonse mtsogolo.
+> Manga nsanja yofikira kumwamba, kufikira pachipata cha Mulungu, sonkhanitsani mitima ya anthu, ndi kufalitsa mbiri yanu.
 >
-> + Kenako Yehova anadza n’kubalalitsa anthu m’malo osiyanasiyana moti sankamvetsana.
+> Yehova anati: “Anthu a chikhalidwe ndi fuko limodzi amapanga banja laokha. Kumanga nsanja lero ndi chiyambi chabe, koma tidzachita zonse m'tsogolomu.
 >
-> Kuyambira nthaŵi imeneyo, mikangano ya anthu yapitirizabe, ndipo padziko lapansi palibenso Nsanja ya Babele.
+> Kenako anabwera n’kubabalalitsa anthu m’malo osiyanasiyana moti sankamvetsana.
+>
+> Kuyambira pamenepo, mikangano yapitilira, ndipo kulibe Babele Tower padziko lapansi.
 
 Ndikuyembekeza kupanga chida chimene chidzathandiza anthu padziko lapansi kukhala ngati anthu atatu, kulankhulana popanda kumangidwa ndi chinenero, ndi kugwirizanitsanso anthu onse.
 

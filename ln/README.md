@@ -14,13 +14,15 @@ Roman ya science fiction &quot;Tree-Body&quot; (prononciation chinois: `3Ti` ) e
 
 Biblia · Ebandeli :
 
-> Bato ya kala batongaki bandako milai oyo ezalaki kokóma na likoló, kokóma na porte ya Nzambe, mpe kotombola lokumu ya libota ya bato.
+> Na ntango wana, bato na mokili mobimba bazalaki na accent mpe monɔkɔ ndenge moko.
 >
-> Nkolo alobaki ete bato basalaka libota na bango mpe balobaka monɔkɔ moko. Kotonga linɔ́ngi ezali kaka ebandeli. Sikoyo lokola esili, bakosala nionso na mikolo ekoya.
+> Tonga tour oyo ekomi na lola, bokoma na porte ya Nzambe, bosangisa mitema ya batu, pe panza lokumu na bino.
 >
-> Na nsima, Nkolo ayaki mpe apalanganisaki bato na bisika ndenge na ndenge, kozangaka kososolana.
+> Nkolo alobaki: Bato ya mimeseno mpe mposo moko basalaka libota ya bango moko. Kotonga linɔ́ngi lelo ezali kaka ebandeli, kasi tokosala nyonso na mikolo ezali koya.
 >
-> Banda wana, matata ya bato ezali kokoba, mpe Linɔ́ngi ya Babele ezali lisusu te na mokili.
+> Na nsima, ayaki kopalanganisa bato na bisika ndenge na ndenge, kozangaka kososolana.
+>
+> Banda wana, matata mazali kokoba, mpe Linɔ́ngi ya Babele ezali te na mokili.
 
 Nazali na elikya ya kokela esaleli oyo ekopesa bato ya mabele likoki ya kozala lokola bato ya nzoto misato, kosolola kozanga kokangama na monoko, mpe kosangisa lisusu bato banso.
 

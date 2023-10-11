@@ -14,13 +14,15 @@ Déanann an t-úrscéal ficsean eolaíochta &quot;Three-Body&quot; (fuaimniú S�
 
 Bíobla · Geineasas :
 
-> Thóg na seanóirí túir chun an spéir a bhaint amach, geata Dé a bhaint amach, agus gradam an chine dhaonna a chur chun cinn.
+> Ag an am sin, bhí an blas agus an teanga chéanna ag daoine ar fud an domhain.
 >
-> Dúirt an Tiarna go ndéanann daoine a gclann féin agus go labhraíonn siad an teanga chéanna. Níl ann ach túr a thógáil. Anois go bhfuil sé déanta, déanfaidh siad gach rud amach anseo.
+> Tóg túr a shroicheann an spéir, sroich geata Dé, cruinnigh croíthe na ndaoine, agus scaip do chlú.
 >
-> Ansin, tháinig an Tiarna agus scaip sé na daoine in áiteanna éagsúla, gan a bheith in ann a chéile a thuiscint.
+> Dúirt an Tiarna: Cruthaíonn daoine den chultúr agus den chine chéanna clan dá gcuid féin. Níl ann ach túr a thógáil inniu, ach déanfaimid gach rud amach anseo.
 >
-> Ó shin i leith, tá díospóidí daonna ag leanúint ar aghaidh, agus níl Túr Babel ar domhan a thuilleadh.
+> Ansin tháinig sé agus scaip sé na daoine in áiteanna éagsúla, gan a bheith in ann a chéile a thuiscint.
+>
+> Ó shin i leith, tá díospóidí ag leanúint ar aghaidh, agus níl aon Túr Babel ar domhan.
 
 Tá súil agam uirlis a chruthú a chuirfidh ar chumas mhuintir an domhain a bheith cosúil le daoine trí chorp, cumarsáid a dhéanamh gan a bheith faoi cheangal teanga, agus an cine daonna go léir a aontú arís.
 

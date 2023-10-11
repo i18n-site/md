@@ -14,13 +14,15 @@ Znanstveno-fantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) f
 
 Biblija · Postanak :
 
-> Drevni su gradili kule koje su sezale do neba, do Božjih vrata i promicale prestiž ljudske rase.
+> U to su vrijeme ljudi diljem svijeta imali isti naglasak i jezik.
 >
-> Gospodin je rekao da ljudi formiraju svoj klan i govore istim jezikom. Izgradnja tornja samo je uvod. Sad kad je gotovo, radit će sve i ubuduće.
+> Sagradite toranj koji doseže nebo, dođite do Božjih vrata, okupite srca ljudi i proširite svoj ugled.
 >
-> Tada je došao Gospodin i raspršio ljude na razna mjesta, nesposobni da razumiju jedni druge.
+> Gospodin je rekao: Ljudi iste kulture i rase formiraju vlastiti klan. Izgradnja tornja danas je samo uvod, ali sve ćemo napraviti u budućnosti.
 >
-> Od tada se nastavljaju ljudski sporovi i na svijetu više ne postoji kula Babilonska.
+> Zatim je došao i raspršio ljude na razna mjesta, ne mogavši ​​se međusobno razumjeti.
+>
+> Od tada se sporovi nastavljaju, a na svijetu nema Babilonske kule.
 
 Nadam se da ću stvoriti alat koji će omogućiti ljudima na Zemlji da budu poput ljudi s tri tijela, da komuniciraju bez vezanosti jezikom i ponovno ujedine cijelo čovječanstvo.
 

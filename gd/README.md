@@ -14,13 +14,15 @@ Tha an nobhail ficsean saidheans &quot;Three-Body&quot; (fuaimneachadh Sìneach:
 
 Bìoball · Genesis :
 
-> Thog na seanairean tùir a' ruigheachd gu nèamh, a' ruigheachd air geata Dhè, agus a' brosnachadh cliù a' chinne-daonna.
+> Aig an àm sin, bha an aon stràc agus cànan aig daoine air feadh an t-saoghail.
 >
-> Thuirt an Tighearna gu bheil daoine a 'cruthachadh an cinneadh fhèin agus a' bruidhinn an aon chànan. Chan eil ann an togail tùr ach ro-ràdh. A-nis gu bheil e deiseil, nì iad a h-uile càil san àm ri teachd.
+> Tog tùr a ruigeas na speuran, ruig geata Dhè, cruinnich cridheachan dhaoine, agus sgaoil do chliù.
 >
-> An sin thàinig an Tighearna agus sgaoil e an sluagh ann an diofar àiteachan, gun chomas aca a chèile a thuigsinn.
+> Thuirt an Tighearna: Bidh daoine den aon chultar agus cinnidh nan cinneadh fhèin. Chan eil ann an togail tùr an-diugh ach ro-ràdh, ach nì sinn a h-uile càil san àm ri teachd.
 >
-> Bhon uairsin, tha connspaidean daonna air leantainn, agus chan eil Tùr Babel air an t-saoghal tuilleadh.
+> An sin thàinig e agus sgap e an sluagh ann an caochladh àiteachan, gun chomas aca a chèile a thuigsinn.
+>
+> Bhon uairsin, tha connspaidean air leantainn, agus chan eil Tùr Babel air an t-saoghal.
 
 Tha mi an dòchas inneal a chruthachadh a bheir comas do mhuinntir na talmhainn a bhith mar dhaoine trì-chorp, conaltradh gun a bhith ceangailte ri cànan, agus mac an duine uile aonachadh a-rithist.
 

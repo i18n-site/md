@@ -14,13 +14,15 @@ Ulmeromaan &quot;Kolm keha&quot; (Hiina hääldus: `3Ti` ) kujutab endast välja
 
 Piibel · Genesis :
 
-> Muistsed inimesed ehitasid torne, mis ulatusid taevani, jõudsid Jumala väravani ja edendasid inimkonna prestiiži.
+> Sel ajal oli inimestel kõikjal maailmas sama aktsent ja keel.
 >
-> Issand ütles, et inimesed moodustavad oma klanni ja räägivad sama keelt. Torni ehitamine on vaid eelmäng. Nüüd, kui see on tehtud, teevad nad edaspidi kõike.
+> Ehitage torn, mis ulatub taevani, ulatub Jumala väravani, koguge inimeste südamed ja levitage oma mainet.
 >
-> Siis tuli Issand ja hajutas inimesed erinevatesse kohtadesse, suutmata üksteist mõista.
+> Issand ütles: Sama kultuuri ja rassi inimesed moodustavad oma klanni. Torni ehitamine täna on vaid eelmäng, kuid edaspidi teeme kõik.
 >
-> Sellest ajast peale on inimvaidlused jätkunud ja maailmas pole enam Paabeli torni.
+> Siis ta tuli ja ajas inimesed erinevatesse kohtadesse laiali, suutmata üksteist mõista.
+>
+> Sellest ajast peale on vaidlused jätkunud ja maailmas pole Paabeli torni.
 
 Loodan luua tööriista, mis võimaldab maapealsetel inimestel olla nagu kolmekehalised inimesed, suhelda keelega sidumata ja ühendada taas kogu inimkonda.
 

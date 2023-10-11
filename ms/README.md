@@ -14,13 +14,15 @@ Novel fiksyen sains &quot;Three-Body&quot; (sebutan bahasa Cina: `3Ti` ) menyifa
 
 Alkitab · Kejadian :
 
-> Orang-orang dahulu membina menara yang mencecah langit, mencapai pintu gerbang Tuhan, dan mempromosikan martabat umat manusia.
+> Pada masa itu, orang di seluruh dunia mempunyai loghat dan bahasa yang sama.
 >
-> Tuhan berkata bahawa orang membentuk klan mereka sendiri dan bercakap dalam bahasa yang sama. Membina menara hanyalah mukadimah. Setelah selesai, mereka akan melakukan segala-galanya pada masa hadapan.
+> Bangunlah menara yang menjulang ke langit, capai pintu gerbang Tuhan, kumpulkan hati orang, dan sebarkan nama baikmu.
 >
-> Kemudian, Tuhan datang dan mencerai-beraikan orang ramai di pelbagai tempat, tidak dapat memahami satu sama lain.
+> Tuhan berfirman: Orang dari budaya dan bangsa yang sama membentuk klan mereka sendiri. Membina menara hari ini hanyalah permulaan, tetapi kami akan melakukan segala-galanya pada masa hadapan.
 >
-> Sejak itu, perselisihan manusia berterusan, dan tidak ada lagi Menara Babel di dunia.
+> Kemudian dia datang dan mencerai-beraikan orang-orang di berbagai tempat, tidak dapat memahami satu sama lain.
+>
+> Sejak itu, pertikaian berterusan, dan tidak ada Menara Babel di dunia.
 
 Saya berharap untuk mencipta satu alat yang akan membolehkan penduduk bumi menjadi seperti orang tiga badan, berkomunikasi tanpa terikat oleh bahasa, dan menyatukan semua manusia semula.
 

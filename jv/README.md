@@ -10,17 +10,19 @@ Aku pengin ngomong yen **mung situs web sing ngasilake terjemahan statis sing bi
 
 ## Pambuka
 
+Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Basa Cina: `3Ti` ) minangka fiksi peradaban alien sing komunikasi liwat gelombang elektromagnetik, ora ana alangan basa, lan teknologi sing makmur.
+
 Kitab Suci · Purwaning Dumadi :
 
-> Ing jaman kuna, nalika basa dadi siji, manungsa mbangun menara sing tekan langit, minangka portal kanggo wilayahe Gusti Allah, ngumumake kekuwatane manungsa.
+> Ing wektu iku, wong ing saindenging jagad duwe logat lan basa sing padha.
 >
-> Gusti Allah ngandika, "Wong-wong padha nyawiji dadi siji taler, kanthi basa sing padha, lan menara iki mung minangka prolog. Saiki padha bisa nggayuh kekarepane, lan ora ana rasa wedi maneh."
+> Gawea menara sing tekan langit, tekan gapurane Gusti Allah, kumpulake atine wong, lan nyebarake reputasi sampeyan.
 >
-> Mangkono, Gusti Allah tumurun, nyebarake wong menyang sudhut sing beda-beda, nggunakake basa sing beda-beda.
+> Pangéran ngandika: Wong-wong sing padha budaya lan ras padha mbentuk klan dhewe. Mbangun menara dina iki mung prelude, nanging kita bakal nindakake kabeh ing mangsa ngarep.
 >
-> Wiwit iku, komunikasi manungsa dadi tantangan, regejegan ora ana enteke, lan ora ana menara sing ndemek langit.
-
-Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Basa Cina: `3Ti` ) minangka fiksi peradaban alien sing komunikasi liwat gelombang elektromagnetik, ora ana alangan basa, lan teknologi sing makmur.
+> Banjur teka lan mbuyarake wong ing macem-macem panggonan, ora bisa ngerti siji liyane.
+>
+> Wiwit kuwi, perselisihan terus, lan ora ana Menara Babel ing donya.
 
 Mugi-mugi saged nyipta piranti ingkang saged ndadosaken warga bumi dados kados tiyang tiga, sesambungan tanpa kaiket basa, lan manunggalaken sedaya manungsa malih.
 

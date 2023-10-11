@@ -10,17 +10,19 @@
 
 ## Okwu Mmalite
 
+Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation Chinese: `3Ti` ) na-akọwapụta echiche efu nke mba ọzọ nke na-ekwurịta okwu site na ebili mmiri electromagnetic, enweghị ihe mgbochi asụsụ, ma nwee ọganihu na nkà na ụzụ.
+
 Bible · Jenesis :
 
-> N’oge ochie, mgbe asụsụ dị otu, ihe a kpọrọ mmadụ rụrụ ụlọ elu ruru n’eluigwe, bụ́ ọnụ ụzọ ámá Chineke, na-ekwusa ịdị ike nke ihe a kpọrọ mmadụ.
+> N'oge ahụ, ndị mmadụ gburugburu ụwa nwere otu olu na asụsụ.
 >
-> Chineke kwuru, sị, "Ndị mmadụ na-ejikọta dị ka otu ebo, na-akọrọ asụsụ, na ụlọ elu a bụ naanị okwu mmalite. Ugbu a ha na-emezu ọchịchọ ha, na a ga-enweghị ọzọ egwu."
+> Wuo ulo-elu nke ruru elu-igwe, rute n'ọnu-uzọ-ama Chineke, chikọta obi madu, ma gbasaa aha-gi.
 >
-> Ya mere, Chineke rịdata, na-achụsasị ndị mmadụ n'akụkụ dị iche iche, jiri asụsụ dị iche iche.
+> Onye-nwe kwuru: Ndị si n’otu omenala na agbụrụ na-etolite agbụrụ nke ha. Ịrụ ụlọ elu taa bụ naanị mmalite, ma anyị ga-eme ihe niile n'ọdịnihu.
 >
-> Site na mgbe ahụ gawa, nkwurịta okwu nke mmadụ ghọrọ ihe ịma aka, esemokwu adịghị agwụ agwụ, ọ dịghịkwa ụlọ elu metụrụ mbara igwe.
-
-Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation Chinese: `3Ti` ) na-akọwapụta echiche efu nke mba ọzọ nke na-ekwurịta okwu site na ebili mmiri electromagnetic, enweghị ihe mgbochi asụsụ, ma nwee ọganihu na nkà na ụzụ.
+> Mgbe ahụ, ọ bịara gbasasịa ndị mmadụ n'ebe dị iche iche, na-enweghị ike ịghọta ibe ha.
+>
+> Kemgbe ahụ, esemokwu na-aga n'ihu, ọ dịghịkwa Ụlọ Elu Bebel n'ụwa.
 
 Enwere m olileanya ịmepụta ngwá ọrụ nke ga-eme ka ndị bi n'ụwa dị ka mmadụ atọ, na-ekwurịta okwu n'ejighị asụsụ, ma mee ka ihe nile a kpọrọ mmadụ dịrị n'otu ọzọ.
 

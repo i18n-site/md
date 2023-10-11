@@ -10,17 +10,19 @@ Ndzi lava ku vula leswaku **i tiwebsite ntsena leti humesaka vuhundzuluxeri leby
 
 ## Manghenelo
 
+Novhele ya sayense ya ntsheketo ya &quot;Three-Body&quot; (Mavitanelo ya Xichayina: `3Ti` ) yi endla nhluvuko wa le handle lowu vulavulaka hi magandlati ya gezi, lowu nga riki na swihinga swa ririmi, naswona wu humelerile hi tlhelo ra thekinoloji.
+
 Bibele · Genesa :
 
-> Eminkarhini ya khale, loko tindzimi ti ri yin’we, vanhu va ake xihondzo lexi fikaka ematilweni, nyangwa lowu nghenaka eka vulawuri bya Xikwembu, wu twarisa matimba ya vanhu.
+> Hi nkarhi wolowo, vanhu emisaveni hinkwayo a va ri ni ririmi ni ririmi leri fanaka.
 >
-> Xikwembu xi tivise, "Vavanuna va hlangana tani hi rixaka rin'we, hi ririmi leri avelanakaka, naswona xihondzo lexi i xingheniso ntsena. Sweswi va fikelela ku navela ka vona, naswona a ku nge he vi na ku chava."
+> Aka xihondzo lexi fikaka ematilweni, u fika enyangweni ya Xikwembu, hlengeleta timbilu ta vanhu, u hangalasa ndhuma ya wena.
 >
-> Xisweswo, Xikwembu xi xikile, xi hangalasa vanhu etindhawini to hambana-hambana, xi tirhisa tindzimi to hambana-hambana.
+> Hosi yi te: Vanhu va ndhavuko na rixaka rin'we va vumba rixaka ra vona. Ku aka xihondzo namuntlha i xingheniso ntsena, kambe hi ta endla hinkwaswo enkarhini lowu taka.
 >
-> Ku sukela kwalaho, ku vulavurisana ka vanhu ku ve ntlhontlho, timholovo a ti nga heli naswona a ku nga ha ri na xihondzo lexi khumbaka xibakabaka.
-
-Novhele ya sayense ya ntsheketo ya &quot;Three-Body&quot; (Mavitanelo ya Xichayina: `3Ti` ) yi endla nhluvuko wa le handle lowu vulavulaka hi magandlati ya gezi, lowu nga riki na swihinga swa ririmi, naswona wu humelerile hi tlhelo ra thekinoloji.
+> Kutani a fika a hangalasa vanhu etindhawini to hambana-hambana, va nga swi koti ku twisisana.
+>
+> Ku sukela kwalaho, timholovo ti ye emahlweni, naswona a ku na Xihondzo xa Babele emisaveni.
 
 Ndzi tshemba ku tumbuluxa xitirho lexi nga ta endla leswaku vanhu va misava va fana na vanhu va mimiri yinharhu, va vulavurisana handle ko bohiwa hi ririmi, va tlhela va hlanganisa vanhu hinkwavo.
 

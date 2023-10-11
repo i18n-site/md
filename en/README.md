@@ -14,13 +14,15 @@ The science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` )
 
 Bible · Genesis :
 
-> The ancients built towers reaching the sky, reaching the gate of God, and promoting the prestige of the human race.
+> At that time, people all over the world had the same accent and language.
 >
-> The Lord said that people form their own clan and speak the same language. Building a tower is just a prelude. Now that it is done, they will do everything in the future.
+> Build a tower that reaches the sky, reach the gate of God, gather people's hearts, and spread your reputation.
 >
-> Then, the Lord came and scattered the people in various places, unable to understand each other.
+> The Lord said: People of the same culture and race form a clan of their own. Building a tower today is just a prelude, but we will do everything in the future.
 >
-> Since then, human disputes have continued, and there is no longer a Tower of Babel in the world.
+> Then he came and scattered the people in various places, unable to understand each other.
+>
+> Since then, disputes have continued, and there is no Babel Tower in the world.
 
 I hope to create a tool that will enable the people of the earth to be like three-body people, communicate without being bound by language, and unite all mankind again.
 

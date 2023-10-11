@@ -14,13 +14,15 @@ Die wetenskapfiksie-roman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fik
 
 Bybel · Genesis :
 
-> Die ou mense het torings gebou wat die lug bereik, die poort van God bereik en die aansien van die menslike geslag bevorder.
+> Destyds het mense oor die hele wêreld dieselfde aksent en taal gehad.
 >
-> Die Here het gesê dat mense hul eie stam vorm en dieselfde taal praat. Die bou van 'n toring is net 'n voorspel. Noudat dit gedoen is, sal hulle alles in die toekoms doen.
+> Bou 'n toring wat die lug bereik, bereik die poort van God, versamel mense se harte en versprei jou reputasie.
 >
-> Toe het die Here gekom en die mense op verskillende plekke verstrooi, sonder om mekaar te verstaan.
+> Die Here het gesê: Mense van dieselfde kultuur en ras vorm 'n stam van hul eie. Om vandag 'n toring te bou is net 'n voorspel, maar ons sal alles in die toekoms doen.
 >
-> Sedertdien het menslike geskille voortgeduur, en daar is nie meer 'n toring van Babel in die wêreld nie.
+> Toe het hy gekom en die mense op verskillende plekke verstrooi, sonder om mekaar te verstaan.
+>
+> Sedertdien het geskille voortgeduur, en daar is geen Babel-toring in die wêreld nie.
 
 Ek hoop om 'n instrument te skep wat die mense van die aarde in staat sal stel om soos drie-liggaam mense te wees, te kommunikeer sonder om deur taal gebonde te wees, en die hele mensdom weer te verenig.
 

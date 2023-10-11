@@ -14,13 +14,15 @@ Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphimbo lesiShayina: 
 
 IBhayibheli · Genesise :
 
-> Abantu basendulo bakha imibhoshongo efinyelela esibhakabhakeni, efinyelela esangweni likaNkulunkulu, futhi bekhuthaza isithunzi sohlanga lwesintu.
+> Ngaleso sikhathi, abantu emhlabeni wonke babenephimbo nolimi olufanayo.
 >
-> INkosi yathi abantu bazakhela izibongo zabo bakhulume ulimi olulodwa. Ukwakha umbhoshongo kuyisandulela. Manje njengoba sekwenziwe, bazokwenza konke esikhathini esizayo.
+> Yakha umbhoshongo ofinyelela esibhakabhakeni, ufinyelele esangweni likaNkulunkulu, uqoqe izinhliziyo zabantu, usakaze isithunzi sakho.
 >
-> INkosi yafika, yabahlakaza abantu ezindaweni ngezindawo, bangezwani.
+> Ithi iNkosi: Abantu besiko nohlanga olulodwa bakha imindeni yabo. Ukwakha umbhoshongo namuhla kuyisandulela, kodwa sizokwenza konke esikhathini esizayo.
 >
-> Kusukela ngaleso sikhathi, izingxabano zabantu ziye zaqhubeka, futhi awusekho uMbhoshongo WaseBabele emhlabeni.
+> Wafika wahlakaza abantu ezindaweni ngezindawo, bengezwani.
+>
+> Kusukela lapho, izingxabano ziye zaqhubeka, futhi awukho umbhoshongo weBabel emhlabeni.
 
 Ngethemba ukuthi ngizokwenza ithuluzi elizokwenza abantu basemhlabeni babe njengabantu abanemizimba emithathu, baxhumane ngaphandle kokuboshwa ngolimi, futhi baphinde bahlanganise sonke isintu.
 

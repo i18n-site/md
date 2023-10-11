@@ -14,13 +14,15 @@ Riwaya ya kisayansi ya kubuni &quot;Miili Mitatu&quot; (Matamshi ya Kichina: `3T
 
 Biblia · Mwanzo :
 
-> Watu wa kale walijenga minara inayofika angani, kufikia lango la Mungu, na kukuza heshima ya wanadamu.
+> Wakati huo, watu ulimwenguni pote walikuwa na lafudhi na lugha sawa.
 >
-> Bwana alisema kwamba watu wanaunda ukoo wao wenyewe na kuzungumza lugha moja. Kujenga mnara ni utangulizi tu. Sasa kwa kuwa imefanywa, watafanya kila kitu katika siku zijazo.
+> Jenga mnara unaofika angani, lifikie lango la Mungu, kusanya mioyo ya watu, na ueneze sifa yako.
 >
-> Kisha, Bwana akaja na kuwatawanya watu mahali mbalimbali, wasiweze kuelewana.
+> Bwana alisema: Watu wa tamaduni na rangi moja huunda ukoo wao wenyewe. Kujenga mnara leo ni utangulizi tu, lakini tutafanya kila kitu katika siku zijazo.
 >
-> Tangu wakati huo, mabishano ya wanadamu yameendelea, na hakuna tena Mnara wa Babeli ulimwenguni.
+> Kisha akaja na kuwatawanya watu sehemu mbalimbali wasiweze kuelewana.
+>
+> Tangu wakati huo, mizozo imeendelea, na hakuna Mnara wa Babeli ulimwenguni.
 
 Ninatumaini kuunda chombo ambacho kitawawezesha watu wa dunia kuwa kama watu wenye miili mitatu, kuwasiliana bila kufungwa na lugha, na kuwaunganisha wanadamu wote tena.
 

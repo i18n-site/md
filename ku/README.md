@@ -14,13 +14,15 @@ Romana çîroka zanistî &quot;Three-Body&quot; (navdêra Çînî: `3Ti` ) şari
 
 Încîl · Destpêbûn :
 
-> Pêşiyan bircên ku digihêjin ezmanan, digihêjin ber deriyê Xwedê û qedr û qîmeta nijada mirovatiyê didin pêş.
+> Di wê demê de gelên li hemû cîhanê xwedî heman lehce û ziman bûn.
 >
-> Xudan got ku mirov eşîra xwe ava dikin û bi heman zimanî diaxivin. Çêkirina bircê tenê pêşgotinek e. Niha ku ev pêk hat, ew ê di pêşerojê de her tiştî bikin.
+> Birceke ku bigihije ezmanan ava bikin, bigihijin deriye Xwede, dile mirovan kom bikin, nave xwe belav bikin.
 >
-> Paşê, Xudan hat û gel li cihên cuda belav kir, ji hev fêm nekir.
+> Xudan got: Mirovên ji heman çand û nijadê ji xwe re qebîleyekê ava dikin. Çêkirina bircê îro tenê pêşgotinek e, lê em ê di pêşerojê de her tiştî bikin.
 >
-> Ji hingê ve, nakokiyên mirovan berdewam in, û êdî Birca Babîlê li cîhanê nemaye.
+> Paşê hat û xelq li ciyên cûrbecûr belawela kir, ji hev fam nedikirin.
+>
+> Ji hingê ve, nakokî berdewam dikin, û li cîhanê Birca Babîlê tune.
 
 Ez hêvî dikim ku amûrek ku mirovên li ser rûyê erdê bibin wekî mirovên sê-bedenî, bêyî ku bi ziman ve were girêdan bi hev re têkilî daynin û ji nû ve tevahiya mirovahiyê bike yek, biafirînim.
 

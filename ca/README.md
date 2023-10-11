@@ -14,13 +14,15 @@ La novel·la de ciència-ficció &quot;Three-Body&quot; (pronunciació xinesa: `
 
 Bíblia · Gènesi :
 
-> Els antics construïen torres que arribaven al cel, arribaven a la porta de Déu i promovien el prestigi de la raça humana.
+> En aquella època, la gent de tot el món tenia el mateix accent i llenguatge.
 >
-> El Senyor va dir que les persones formen el seu propi clan i parlen la mateixa llengua. Construir una torre és només un preludi. Ara que està fet, ho faran tot en el futur.
+> Construeix una torre que arribi al cel, arriba a la porta de Déu, reuneix el cor de la gent i difon la teva reputació.
 >
-> Llavors, el Senyor va venir i va escampar la gent per diversos llocs, sense poder entendre's.
+> El Senyor va dir: Les persones de la mateixa cultura i raça formen un clan propi. Construir una torre avui és només un preludi, però ho farem tot en el futur.
 >
-> Des de llavors, les disputes humanes han continuat i ja no hi ha torre de Babel al món.
+> Després va venir i va escampar la gent per diversos llocs, sense poder entendre's.
+>
+> Des de llavors, les disputes han continuat i no hi ha torre Babel al món.
 
 Espero crear una eina que permeti a la gent de la terra ser com persones de tres cossos, comunicar-se sense estar lligats pel llenguatge i unir de nou a tota la humanitat.
 

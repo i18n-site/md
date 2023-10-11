@@ -14,13 +14,15 @@ Padi ya saense ya boikgopolelo ya &quot;Three-Body&quot; (mmiletšo wa Setšhaen
 
 Beibele · Genesi :
 
-> Bagologolo ba ile ba aga ditora tšeo di fihlago leratadimeng, di fihla kgorong ya Modimo le go godiša botumo bja moloko wa batho.
+> Ka nako yeo, batho lefaseng ka moka ba be ba e-na le segalo le polelo e swanago.
 >
-> Morena o rile batho ba bopa kgoro ya bona ba bolela leleme le tee. Go aga tora e fo ba ketapele. Bjale ka ge e dirilwe, ba tla dira tšohle nakong e tlago.
+> Aga tora yeo e fihlago leratadimeng, o fihle kgorong ya Modimo, o kgoboketše dipelo tša batho, o phatlalatše botumo bja gago.
 >
-> Ke moka, Morena a tla a phatlalatša batho mafelong a go fapafapana, ba sa kgone go kwešišana.
+> Morena a re: Batho ba setšo le morafe o tee ba bopa kgoro ya bona. Go aga tora lehono e fo ba ketapele, eupša re tla dira se sengwe le se sengwe nakong e tlago.
 >
-> Ga e sa le go tloga ka nako yeo, dingangišano tša batho di ile tša tšwela pele, gomme ga go sa na Tora ya Babele lefaseng.
+> Ke moka a tla a phatlalatša batho mafelong a go fapafapana, ba sa kgone go kwešišana.
+>
+> Ga e sa le go tloga ka nako yeo, dingangišano di ile tša tšwela pele, gomme ga go na Tora ya Babele lefaseng.
 
 Ke holofela go hlama sedirišwa seo se tlago kgontšha batho ba lefase go swana le batho ba mebele ye meraro, go boledišana ntle le go tlemiwa ke polelo, le go kopanya batho ka moka gape.
 

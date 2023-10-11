@@ -14,13 +14,15 @@ Pale ea tšōmo ea mahlale &quot;Mele e Meraro&quot; (polelo ea Sechaena: `3Ti` 
 
 Bibele · Genese :
 
-> Batho ba boholo-holo ba ile ba haha ​​litora tse fihlang leholimong, tse fihlang hekeng ea Molimo, ’me li phahamisa botumo ba moloko oa batho.
+> Ka nako eo, batho lefatšeng ka bophara ba ne ba e-na le sekhetho le puo e tšoanang.
 >
-> Morena o itse batho ba ipopela leloko la bona mme ba bua puo e le nngwe. Ho haha ​​tora ke selelekela feela. Kaha joale e se e entsoe, ba tla etsa ntho e ’ngoe le e ’ngoe nakong e tlang.
+> Haha tora e fihlang leholimong, u fihle monyako oa Molimo, u bokelle lipelo tsa batho, u phatlalatse botumo ba hau.
 >
-> Joale, Jehova a tla ’me a hasanya batho libakeng tse fapaneng, ba sitoa ho utloisisana.
+> Morena a re: Batho ba setso le morabe o le mong ba iketsetsa leloko la bona. Ho aha tora kajeno ke selelekela feela, empa re tla etsa tsohle nakong e tlang.
 >
-> Ho tloha ka nako eo, likhohlano tsa batho li ’nile tsa tsoela pele, ’me ha ho sa na Tora ea Babele lefatšeng.
+> Ke moka a tla a gašanya batho mafelong a fapa-fapanego, ba sa kwešiše.
+>
+> Ho tloha ka nako eo, likhohlano li ’nile tsa tsoela pele, ’me ha ho na Tora ea Babele lefatšeng.
 
 Ke tšepa hore ke tla etsa kofuto e tla nolofalletsa batho ba lefatše ho tšoana le batho ba nang le ’mele e meraro, ba buisane ba sa tlangoe ke puo, ’me ba boele ba momahane batho bohle.
 

@@ -14,13 +14,15 @@ Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din
 
 Bible · Genesis :
 
-> Tetefo no sii abantenten a ɛkɔ soro kodu Onyankopɔn pon ano, na ɛhyɛɛ adesamma abusua no anuonyam ho nkuran.
+> Saa bere no, na nnipa a wɔwɔ wiase nyinaa wɔ kasa ne kasa koro.
 >
-> Awurade kaa sɛ nnipa hyehyɛ wɔn ankasa abusua na wɔka kasa korɔ. Abantenten a wobesi no yɛ nnianim asɛm ara kwa. Seesei a wɔayɛ no, wɔbɛyɛ biribiara daakye.
+> Si abantenten a ɛkɔ soro, du Onyankopɔn pon ano, boaboa nkurɔfo koma ano, na trɛw wo din mu.
 >
-> Afei, Awurade baa hɔ bɛbɔɔ nkurɔfoɔ no apete wɔ mmeaeɛ ahodoɔ, a wɔantumi ante wɔn ho wɔn ho ase.
+> Awurade kaa sɛ: Nnipa a wɔn amammerɛ ne abusua koro hyehyɛ wɔn ankasa abusua. Abantenten a yɛbɛsi nnɛ no yɛ nnianim asɛm ara kwa, nanso yɛbɛyɛ biribiara daakye.
 >
-> Efi saa bere no, nnipa ntam ntawntawdi akɔ so, na Babel Abantenten biara nni wiase bio.
+> Afei ɔbaa hɔ bɛbɔɔ nnipa no apete mmeae ahorow, a na wontumi nte wɔn ho wɔn ho ase.
+>
+> Efi saa bere no, akasakasa akɔ so, na Babel Abantenten biara nni wiase.
 
 Mewɔ anidaso sɛ mɛbɔ adwinnade bi a ɛbɛma asase so nnipa atumi ayɛ sɛ nnipa a wɔwɔ nipadua abiɛsa, adi nkitaho a kasa nkyekyere wɔn, na ɛka adesamma nyinaa abom bio.
 

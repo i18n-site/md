@@ -14,13 +14,15 @@ Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTsha
 
 IBhayibhile · Genesis :
 
-> Abantu bamandulo bakha iinqaba ezifikelela esibhakabhakeni, ezifikelela kwisango likaThixo, bephakamisa udumo loluntu.
+> Ngelo xesha, abantu ehlabathini lonke babenesivakalisi nolwimi olufanayo.
 >
-> INkosi yathi abantu babumba izizalwana zabo kwaye bathetha ulwimi olunye. Ukwakha inqaba kusisandulela nje. Ngoku sele yenziwe, baya kwenza yonke into kwixesha elizayo.
+> Yakha inqaba efikelela esibhakabhakeni, ufikelele kwisango likaThixo, uhlanganise iintliziyo zabantu, usasaze igama lakho.
 >
-> Waza uYehova wabachithachitha abantu ezindaweni ngeendawo, ababa sacingana.
+> UNdikhoyo wathi: “Abantu besizwe esinye babumba isizwe sabo. Ukwakha inqaba namhlanje kusisandulela nje, kodwa siya kwenza yonke into kwixesha elizayo.
 >
-> Ukususela ngoko, iingxabano zabantu ziye zaqhubeka, yaye akusekho Nqaba yeBhabheli ehlabathini.
+> Weza wabachithachitha abantu ezindaweni ngeendawo, ababa nakuva.
+>
+> Ukusukela ngoko, iingxabano ziye zaqhubeka, kwaye akukho Nqaba yaseBhabheli emhlabeni.
 
 Ndinethemba lokudala isixhobo esiya kwenza ukuba abantu bomhlaba babe njengabantu abanemizimba emithathu, banxibelelane ngaphandle kokubotshwa lulwimi, baze baphinde bamanyanise lonke uluntu.
 

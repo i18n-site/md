@@ -14,13 +14,15 @@ Le roman de science-fiction « Trois corps » (prononciation chinoise : `3Ti` ) 
 
 Bible · Genèse :
 
-> Les anciens construisaient des tours atteignant le ciel, atteignant la porte de Dieu et promouvant le prestige de la race humaine.
+> À cette époque, les gens du monde entier avaient le même accent et le même langage.
 >
-> Le Seigneur a dit que les gens forment leur propre clan et parlent la même langue. Construire une tour n’est qu’un prélude. Maintenant que c'est fait, ils feront tout à l'avenir.
+> Construisez une tour qui atteint le ciel, atteignez la porte de Dieu, rassemblez les cœurs des gens et répandez votre réputation.
 >
-> Ensuite, le Seigneur est venu et a dispersé les gens en divers endroits, incapables de se comprendre.
+> Le Seigneur a dit : Les personnes de même culture et de même race forment leur propre clan. Construire une tour aujourd'hui n'est qu'un prélude, mais nous ferons tout dans le futur.
 >
-> Depuis, les disputes humaines se sont poursuivies et il n’y a plus de Tour de Babel dans le monde.
+> Puis il est venu et a dispersé les gens en divers endroits, incapables de se comprendre.
+>
+> Depuis, les conflits se sont poursuivis et il n’existe pas de tour Babel au monde.
 
 J'espère créer un outil qui permettra aux habitants de la Terre d'être comme des personnes à trois corps, de communiquer sans être liés par le langage et d'unir à nouveau toute l'humanité.
 

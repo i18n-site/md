@@ -10,17 +10,19 @@ Tôi muốn nói rằng **chỉ những trang web tạo bản dịch tĩnh mới
 
 ## Giới Thiệu
 
+Tiểu thuyết khoa học viễn tưởng &quot;Three-Body&quot; (phát âm tiếng Trung: `3Ti` ) hư cấu về một nền văn minh ngoài hành tinh giao tiếp qua sóng điện từ, không có rào cản ngôn ngữ và thịnh vượng về mặt công nghệ.
+
 Kinh thánh · Sáng thế ký :
 
-> Vào thời cổ đại, khi các ngôn ngữ còn là một, loài người đã xây dựng một tòa tháp cao tới tận trời, cánh cổng dẫn đến lãnh địa của Chúa, tuyên bố sức mạnh của loài người.
+> Vào thời điểm đó, mọi người trên khắp thế giới đều có giọng nói và ngôn ngữ giống nhau.
 >
-> Chúa tuyên bố, "Con người đoàn kết thành một bộ tộc, có chung một ngôn ngữ, và tòa tháp này chỉ là lời mở đầu. Bây giờ họ đã đạt được mong muốn của mình và sẽ không còn sợ hãi nữa."
+> Xây dựng một tòa tháp cao tới tận trời, chạm tới cổng Thần, thu hút lòng người và truyền bá danh tiếng của bạn.
 >
-> Vì vậy, Chúa giáng trần, phân tán con người đến các ngóc ngách khác nhau, sử dụng các ngôn ngữ khác nhau.
+> Chúa đã phán: Những người cùng văn hóa và chủng tộc hợp thành một thị tộc của riêng họ. Việc xây dựng tòa tháp hôm nay chỉ là khúc dạo đầu, nhưng chúng tôi sẽ làm mọi thứ trong tương lai.
 >
-> Từ đó trở đi, việc giao tiếp của con người trở nên khó khăn, tranh chấp bất tận, và không còn một tòa tháp nào chạm tới trời nữa.
-
-Tiểu thuyết khoa học viễn tưởng &quot;Three-Body&quot; (phát âm tiếng Trung: `3Ti` ) hư cấu về một nền văn minh ngoài hành tinh giao tiếp qua sóng điện từ, không có rào cản ngôn ngữ và thịnh vượng về mặt công nghệ.
+> Sau đó, ông đến và phân tán mọi người ở nhiều nơi, không thể hiểu nhau.
+>
+> Kể từ đó, tranh chấp vẫn tiếp diễn và không có Tháp Babel trên thế giới.
 
 Tôi hy vọng có thể tạo ra một công cụ có thể giúp con người trên trái đất giống như con người ba cơ thể, giao tiếp mà không bị ràng buộc bởi ngôn ngữ và đoàn kết toàn nhân loại một lần nữa.
 

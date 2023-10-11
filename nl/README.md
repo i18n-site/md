@@ -14,13 +14,15 @@ De sciencefictionroman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fictio
 
 Bijbel · Genesis :
 
-> De Ouden bouwden torens die tot aan de hemel reikten, de poort van God bereikten en het prestige van het menselijk ras bevorderden.
+> In die tijd hadden mensen over de hele wereld hetzelfde accent en dezelfde taal.
 >
-> De Heer zei dat mensen hun eigen clan vormen en dezelfde taal spreken. Het bouwen van een toren is slechts een opmaat. Nu het klaar is, zullen ze in de toekomst alles doen.
+> Bouw een toren die tot in de hemel reikt, bereik de poort van God, verzamel de harten van mensen en verspreid je reputatie.
 >
-> Toen kwam de Heer en verspreidde de mensen over verschillende plaatsen, niet in staat elkaar te begrijpen.
+> De Heer zei: Mensen van dezelfde cultuur en hetzelfde ras vormen een eigen clan. Vandaag een toren bouwen is slechts een opmaat, maar we zullen er in de toekomst alles aan doen.
 >
-> Sindsdien zijn de menselijke geschillen voortgezet en is er geen Toren van Babel meer in de wereld.
+> Toen kwam hij en verspreidde de mensen over verschillende plaatsen, niet in staat elkaar te begrijpen.
+>
+> Sindsdien zijn de geschillen voortgezet en is er geen Babeltoren meer in de wereld.
 
 Ik hoop een hulpmiddel te creëren dat de mensen op aarde in staat zal stellen om als mensen met drie lichamen te zijn, te communiceren zonder gebonden te zijn aan taal, en de hele mensheid weer te verenigen.
 

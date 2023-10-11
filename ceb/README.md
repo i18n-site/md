@@ -14,13 +14,15 @@ Ang science fiction nga nobela nga &quot;Three-Body&quot; (Intsik nga paglitok: 
 
 Bibliya · Genesis :
 
-> Ang mga karaan nagtukod ug mga torre nga nakaabot sa langit, nga nakaabot sa ganghaan sa Dios, ug nagpasiugda sa kadungganan sa kaliwatan sa tawo.
+> Niadtong panahona, ang mga tawo sa tibuok kalibotan adunay managsamang accent ug pinulongan.
 >
-> Ang Ginoo miingon nga ang mga tawo naghimo sa ilang kaugalingong banay ug nagsulti sa samang pinulongan. Ang pagtukod ug tore usa lang ka pasiuna. Karon nga nahuman na, buhaton nila ang tanan sa umaabot.
+> Pagtukod ug tore nga moabot sa langit, pagkab-ot sa ganghaan sa Diyos, pagtigom sa kasingkasing sa mga tawo, ug ipakaylap ang imong dungog.
 >
-> Unya, mianhi ang Ginoo ug gipatibulaag ang mga tawo sa lainlaing mga dapit, nga wala magkasinabot.
+> Ang Ginoo miingon: Ang mga tawo sa samang kultura ug kaliwat nagporma ug kaugalingong banay. Ang pagtukod ug tore karon pasiuna lang, pero buhaton namo ang tanan sa umaabot.
 >
-> Sukad niadto, ang mga panaglalis sa tawo nagpadayon, ug wala nay Tore sa Babel sa kalibotan.
+> Unya miadto siya ug gipatibulaag niya ang mga tawo sa nagkalainlaing mga dapit, nga dili magkasinabtanay.
+>
+> Sukad niadto, nagpadayon ang mga panaglalis, ug wala nay Babel Tower sa kalibotan.
 
 Nanghinaut ko nga makahimo og himan nga makapahimo sa mga tawo sa yuta nga mahisama sa tulo-ka-lawas nga mga tawo, makig-istorya nga dili gapuson sa pinulongan, ug maghiusa pag-usab sa tanang katawhan.
 
