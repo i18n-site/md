@@ -2,7 +2,7 @@
 
 3Ti.Site, generator y’omukutu ogutakyukakyuka, esobola okuvvuunula Markdown mu [nnimi ez’enjawulo ezisukka mu kikumi mu ngeri ey’otoma](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 
-<img src="//i-01.eu.org/i18n/lang.webp" alt="" />
+<pre class="langli" style="display:flex;flex-wrap:wrap;background:transparent;border:1px solid #eee;font-size:15px;box-shadow:0 0 3px inset #eee;padding:15px 8px 8px 15px;justify-content:space-between;"><style>pre.langli i{font-weight:300;font-family:htm;margin-right:8px;margin-bottom:8px;font-style:normal;color:#444;border-bottom:1px dashed #ccc;}</style><i>English</i><i> 简体中文 </i><i>español</i><i>français</i><i>Deutsch</i><i> 日本語 </i><i>italiano</i><i>한국어</i><i>русский</i><i>português</i><i>shqip</i><i>‫العربية‬</i><i>አማርኛ</i><i>অসমীয়া</i><i>azərbaycan</i><i>Eʋegbe</i><i>Aymar aru</i><i>Gaeilge</i><i>eesti</i><i>ଓଡ଼ିଆ</i><i>Oromoo</i><i>euskara</i><i>беларуская</i><i>bamanakan</i><i>български</i><i>íslenska</i><i>polski</i><i>bosanski</i><i>‫فارسی‬</i><i>भोजपुरी</i><i>Afrikaans</i><i>татар</i><i>dansk</i><i>‫ދިވެހިބަސް‬</i><i>ትግርኛ</i><i>डोगरी</i><i>संस्कृत भाषा</i><i>Filipino</i><i>suomi</i><i>Frysk</i><i>ខ្មែរ</i><i>ქართული</i><i>गोंयची कोंकणी</i><i>ગુજરાતી</i><i>avañe’ẽ</i><i>қазақ тілі</i><i>Kreyòl ayisyen</i><i>Hausa</i><i>Nederlands</i><i>кыргызча</i><i>galego</i><i>català</i><i>čeština</i><i>ಕನ್ನಡ</i><i>corsu</i><i>hrvatski</i><i>Runasimi</i><i>kurdî</i><i>‫کوردیی ناوەندی‬</i><i>Latina</i><i>latviešu</i><i>ລາວ</i><i>lietuvių</i><i>lingála</i><i>Luganda</i><i>Lëtzebuergesch</i><i>Kinyarwanda</i><i>română</i><i>Malagasy</i><i>Malti</i><i>मराठी</i><i>മലയാളം</i><i>Melayu</i><i>македонски</i><i>मैथिली</i><i>Māori</i><i>মৈতৈলোন্</i><i>монгол</i><i>বাংলা</i><i>Mizo ṭawng</i><i>မြန်မာ</i><i>𞄀𞄄𞄰𞄩𞄍𞄜𞄰</i><i>IsiXhosa</i><i>isiZulu</i><i>नेपाली</i><i>norsk</i><i>ਪੰਜਾਬੀ</i><i>‫پښتو‬</i><i>Nyanja</i><i>Akan</i><i>svenska</i><i>Gagana fa'a Sāmoa</i><i>српски</i><i>Sesotho sa Leboa</i><i>Sesotho</i><i>සිංහල</i><i>esperanto</i><i>slovenčina</i><i>slovenščina</i><i>Kiswahili</i><i>Gàidhlig</i><i>Cebuano</i><i>Soomaali</i><i>тоҷикӣ</i><i>తెలుగు</i><i>தமிழ்</i><i>ไทย</i><i>Türkçe</i><i>türkmen dili</i><i>Cymraeg</i><i>‫ئۇيغۇرچە‬</i><i>‫اردو‬</i><i>українська</i><i>o‘zbek</i><i>‫עברית‬</i><i>Ελληνικά</i><i>ʻŌlelo Hawaiʻi</i><i>‫سنڌي‬</i><i>magyar</i><i>chiShona</i><i>հայերեն</i><i>Igbo</i><i>Pagsasao Ilokano</i><i>‫ייִדיש‬</i><i>हिन्दी</i><i>Basa Sunda</i><i>Indonesia</i><i>Jawa</i><i>Èdè Yorùbá</i><i>Tiếng Việt</i><i> 正體中文 </i><i>Xitsonga</i></pre>
 
 Abantu abamu bayinza okwebuuza nti, okuva bwe kiri nti browser zonna zirina emirimu gy’okuvvuunula, tekyetaagisa kufuula mukutu guno ogw’ensi yonna?
 
@@ -10,17 +10,17 @@ Njagala okugamba nti **emikutu gyokka egikola enkyusa ezitakyukakyuka gye gisobo
 
 ## Okwanjula
 
+Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y'Oluchina: `3Ti` ) kifuula embuga y'abagwira ewuliziganya okuyita mu mayengo ga masanyalaze, etaliiko biziyiza lulimi, era ekulaakulana mu tekinologiya.
+
 Baibuli · Olubereberye :
 
-> Mu biseera eby’edda, ennimi bwe zaali zimu, abantu baazimba omunaala ogwatuuka mu ggulu, omulyango oguyingira mu bufuzi bwa Katonda, nga balangirira amaanyi g’omuntu.
+> Abantu ab’edda baazimba eminaala egyatuuka mu bbanga, nga gituuka ku mulyango gwa Katonda, era nga gitumbula ekitiibwa ky’olulyo lw’omuntu.
 >
-> Katonda yalangirira nti, "Abantu beegatta ng'ekika kimu, n'olulimi olugabana, era omunaala guno gwa nnyanjula yokka. Kati batuuka ku kwegomba kwabwe, era tewajja kubaawo kutya nate."
+> Mukama yagamba nti abantu beekolera ekika kyabwe era boogera olulimi lwe lumu. Okuzimba omunaala kibeera kya kusooka. Kati nga bwe kiwedde, bajja kukola buli kimu mu biseera eby’omu maaso.
 >
-> Bwe kityo, Katonda yakka, n’asaasaanya abantu mu nsonda ez’enjawulo, nga bakozesa ennimi ez’enjawulo.
+> Awo, Mukama n’ajja n’asaasaanya abantu mu bifo eby’enjawulo, nga tebasobola kutegeeragana.
 >
-> Okuva olwo, empuliziganya y’abantu yafuuka ya kusoomoozebwa, enkaayana tezikoma, era tewakyaliwo munaala ogwakwata ku bbanga.
-
-Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y'Oluchina: `3Ti` ) kifuula embuga y'abagwira ewuliziganya okuyita mu mayengo ga masanyalaze, etaliiko biziyiza lulimi, era ekulaakulana mu tekinologiya.
+> Okuva olwo, enkaayana z’abantu zikyagenda mu maaso, era tewakyali Munaala gwa Baberi mu nsi.
 
 Nsuubira okutondawo ekintu ekinasobozesa abantu b’ensi okubeera ng’abantu ab’emibiri esatu, okuwuliziganya nga tebasibiddwa lulimi, n’okuddamu okugatta abantu bonna.
 
@@ -53,7 +53,7 @@ export https_proxy=http://127.0.0.1:7890
 ### Enkyukakyuka Mu Embedding
 
 ```
-test: 测试变量<br 0>嵌入
+test:测试变量<br 0>嵌入
 ```
 
 ### Empty Ekifo Ekitereka

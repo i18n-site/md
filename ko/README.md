@@ -2,7 +2,7 @@
 
 정적 사이트 생성기인 3Ti.Site는 Markdown을 [100개 이상의 언어](https://github.com/i18n-site/node/blob/main/lang/src/index.js) 로 자동 번역할 수 있습니다.
 
-<img src="//i-01.eu.org/i18n/lang.webp" alt="" />
+<pre class="langli" style="display:flex;flex-wrap:wrap;background:transparent;border:1px solid #eee;font-size:15px;box-shadow:0 0 3px inset #eee;padding:15px 8px 8px 15px;justify-content:space-between;"><style>pre.langli i{font-weight:300;font-family:htm;margin-right:8px;margin-bottom:8px;font-style:normal;color:#444;border-bottom:1px dashed #ccc;}</style><i>English</i><i> 简体中文 </i><i>español</i><i>français</i><i>Deutsch</i><i> 日本語 </i><i>italiano</i><i>한국어</i><i>русский</i><i>português</i><i>shqip</i><i>‫العربية‬</i><i>አማርኛ</i><i>অসমীয়া</i><i>azərbaycan</i><i>Eʋegbe</i><i>Aymar aru</i><i>Gaeilge</i><i>eesti</i><i>ଓଡ଼ିଆ</i><i>Oromoo</i><i>euskara</i><i>беларуская</i><i>bamanakan</i><i>български</i><i>íslenska</i><i>polski</i><i>bosanski</i><i>‫فارسی‬</i><i>भोजपुरी</i><i>Afrikaans</i><i>татар</i><i>dansk</i><i>‫ދިވެހިބަސް‬</i><i>ትግርኛ</i><i>डोगरी</i><i>संस्कृत भाषा</i><i>Filipino</i><i>suomi</i><i>Frysk</i><i>ខ្មែរ</i><i>ქართული</i><i>गोंयची कोंकणी</i><i>ગુજરાતી</i><i>avañe’ẽ</i><i>қазақ тілі</i><i>Kreyòl ayisyen</i><i>Hausa</i><i>Nederlands</i><i>кыргызча</i><i>galego</i><i>català</i><i>čeština</i><i>ಕನ್ನಡ</i><i>corsu</i><i>hrvatski</i><i>Runasimi</i><i>kurdî</i><i>‫کوردیی ناوەندی‬</i><i>Latina</i><i>latviešu</i><i>ລາວ</i><i>lietuvių</i><i>lingála</i><i>Luganda</i><i>Lëtzebuergesch</i><i>Kinyarwanda</i><i>română</i><i>Malagasy</i><i>Malti</i><i>मराठी</i><i>മലയാളം</i><i>Melayu</i><i>македонски</i><i>मैथिली</i><i>Māori</i><i>মৈতৈলোন্</i><i>монгол</i><i>বাংলা</i><i>Mizo ṭawng</i><i>မြန်မာ</i><i>𞄀𞄄𞄰𞄩𞄍𞄜𞄰</i><i>IsiXhosa</i><i>isiZulu</i><i>नेपाली</i><i>norsk</i><i>ਪੰਜਾਬੀ</i><i>‫پښتو‬</i><i>Nyanja</i><i>Akan</i><i>svenska</i><i>Gagana fa'a Sāmoa</i><i>српски</i><i>Sesotho sa Leboa</i><i>Sesotho</i><i>සිංහල</i><i>esperanto</i><i>slovenčina</i><i>slovenščina</i><i>Kiswahili</i><i>Gàidhlig</i><i>Cebuano</i><i>Soomaali</i><i>тоҷикӣ</i><i>తెలుగు</i><i>தமிழ்</i><i>ไทย</i><i>Türkçe</i><i>türkmen dili</i><i>Cymraeg</i><i>‫ئۇيغۇرچە‬</i><i>‫اردو‬</i><i>українська</i><i>o‘zbek</i><i>‫עברית‬</i><i>Ελληνικά</i><i>ʻŌlelo Hawaiʻi</i><i>‫سنڌي‬</i><i>magyar</i><i>chiShona</i><i>հայերեն</i><i>Igbo</i><i>Pagsasao Ilokano</i><i>‫ייִדיש‬</i><i>हिन्दी</i><i>Basa Sunda</i><i>Indonesia</i><i>Jawa</i><i>Èdè Yorùbá</i><i>Tiếng Việt</i><i> 正體中文 </i><i>Xitsonga</i></pre>
 
 어떤 사람들은 모든 브라우저에 번역 기능이 있기 때문에 웹사이트를 국제화할 필요가 없느냐고 묻습니다.
 
@@ -10,17 +10,17 @@
 
 ## 소개
 
+SF 소설 &#39;삼체&#39;(중국어 발음: `3Ti` )는 전자파를 통해 소통하고, 언어 장벽이 없으며, 기술적으로 번영하는 외계 문명을 가상화한 작품입니다.
+
 성경 · 창세기 :
 
-> 언어가 하나였던 고대에 인류는 하늘에 닿는 탑, 곧 하나님의 영역으로 통하는 문을 세워 인류의 위력을 선포했습니다.
+> 고대인들은 하늘에 닿고 신의 문에 닿으며 인류의 위신을 높이는 탑을 세웠습니다.
 >
-> 하나님은 “사람이 한 지파로 뭉쳐 같은 언어로 말하니 이 탑은 서문일 뿐이니 이제 그들이 그 뜻을 이루리니 다시는 두려움이 없으리로다”라고 선언하셨습니다.
+> 주님께서는 사람들이 자신들의 종족을 이루고 같은 언어를 사용한다고 말씀하셨습니다. 탑을 쌓는 것은 단지 서곡일 뿐입니다. 이제 모든 일이 끝났으니 앞으로는 모든 일을 하게 될 것입니다.
 >
-> 그리하여 하나님은 강림하셔서 사람들을 여러 곳으로 흩으시고, 다른 언어를 사용하셨습니다.
+> 그러자 주님께서 오셔서 사람들을 서로 이해할 수 없게 흩어지게 하셨습니다.
 >
-> 그때부터 인간의 의사소통은 어려워졌고, 논쟁은 끝이 없었으며, 하늘에 닿는 탑은 더 이상 존재하지 않았습니다.
-
-SF 소설 &#39;삼체&#39;(중국어 발음: `3Ti` )는 전자파를 통해 소통하고, 언어 장벽이 없으며, 기술적으로 번영하는 외계 문명을 가상화한 작품입니다.
+> 그 이후로 인간의 분쟁은 계속되었고, 세상에는 더 이상 바벨탑이 없습니다.
 
 지구인들이 삼체인간처럼 되어 언어에 얽매이지 않고 소통하고 다시 온 인류를 하나로 묶을 수 있는 도구를 만들고 싶습니다.
 
@@ -53,7 +53,7 @@ export https_proxy=http://127.0.0.1:7890
 ### 변수 임베딩
 
 ```
-test: 测试变量<br 0>嵌入
+test:测试变量<br 0>嵌入
 ```
 
 ### 캐시 비우기

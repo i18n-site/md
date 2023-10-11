@@ -2,7 +2,7 @@
 
 3Ti.Site, এটা ষ্টেটিক চাইট জেনেৰেটৰ, স্বয়ংক্ৰিয়ভাৱে মাৰ্কডাউনক [এশৰো অধিক ভিন্ন ভাষালৈ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) অনুবাদ কৰিব পাৰে।
 
-<img src="//i-01.eu.org/i18n/lang.webp" alt="" />
+<pre class="langli" style="display:flex;flex-wrap:wrap;background:transparent;border:1px solid #eee;font-size:15px;box-shadow:0 0 3px inset #eee;padding:15px 8px 8px 15px;justify-content:space-between;"><style>pre.langli i{font-weight:300;font-family:htm;margin-right:8px;margin-bottom:8px;font-style:normal;color:#444;border-bottom:1px dashed #ccc;}</style><i>English</i><i> 简体中文 </i><i>español</i><i>français</i><i>Deutsch</i><i> 日本語 </i><i>italiano</i><i>한국어</i><i>русский</i><i>português</i><i>shqip</i><i>‫العربية‬</i><i>አማርኛ</i><i>অসমীয়া</i><i>azərbaycan</i><i>Eʋegbe</i><i>Aymar aru</i><i>Gaeilge</i><i>eesti</i><i>ଓଡ଼ିଆ</i><i>Oromoo</i><i>euskara</i><i>беларуская</i><i>bamanakan</i><i>български</i><i>íslenska</i><i>polski</i><i>bosanski</i><i>‫فارسی‬</i><i>भोजपुरी</i><i>Afrikaans</i><i>татар</i><i>dansk</i><i>‫ދިވެހިބަސް‬</i><i>ትግርኛ</i><i>डोगरी</i><i>संस्कृत भाषा</i><i>Filipino</i><i>suomi</i><i>Frysk</i><i>ខ្មែរ</i><i>ქართული</i><i>गोंयची कोंकणी</i><i>ગુજરાતી</i><i>avañe’ẽ</i><i>қазақ тілі</i><i>Kreyòl ayisyen</i><i>Hausa</i><i>Nederlands</i><i>кыргызча</i><i>galego</i><i>català</i><i>čeština</i><i>ಕನ್ನಡ</i><i>corsu</i><i>hrvatski</i><i>Runasimi</i><i>kurdî</i><i>‫کوردیی ناوەندی‬</i><i>Latina</i><i>latviešu</i><i>ລາວ</i><i>lietuvių</i><i>lingála</i><i>Luganda</i><i>Lëtzebuergesch</i><i>Kinyarwanda</i><i>română</i><i>Malagasy</i><i>Malti</i><i>मराठी</i><i>മലയാളം</i><i>Melayu</i><i>македонски</i><i>मैथिली</i><i>Māori</i><i>মৈতৈলোন্</i><i>монгол</i><i>বাংলা</i><i>Mizo ṭawng</i><i>မြန်မာ</i><i>𞄀𞄄𞄰𞄩𞄍𞄜𞄰</i><i>IsiXhosa</i><i>isiZulu</i><i>नेपाली</i><i>norsk</i><i>ਪੰਜਾਬੀ</i><i>‫پښتو‬</i><i>Nyanja</i><i>Akan</i><i>svenska</i><i>Gagana fa'a Sāmoa</i><i>српски</i><i>Sesotho sa Leboa</i><i>Sesotho</i><i>සිංහල</i><i>esperanto</i><i>slovenčina</i><i>slovenščina</i><i>Kiswahili</i><i>Gàidhlig</i><i>Cebuano</i><i>Soomaali</i><i>тоҷикӣ</i><i>తెలుగు</i><i>தமிழ்</i><i>ไทย</i><i>Türkçe</i><i>türkmen dili</i><i>Cymraeg</i><i>‫ئۇيغۇرچە‬</i><i>‫اردو‬</i><i>українська</i><i>o‘zbek</i><i>‫עברית‬</i><i>Ελληνικά</i><i>ʻŌlelo Hawaiʻi</i><i>‫سنڌي‬</i><i>magyar</i><i>chiShona</i><i>հայերեն</i><i>Igbo</i><i>Pagsasao Ilokano</i><i>‫ייִדיש‬</i><i>हिन्दी</i><i>Basa Sunda</i><i>Indonesia</i><i>Jawa</i><i>Èdè Yorùbá</i><i>Tiếng Việt</i><i> 正體中文 </i><i>Xitsonga</i></pre>
 
 কিছুমান মানুহে সুধিব পাৰে, যিহেতু সকলো ব্ৰাউজাৰতে অনুবাদৰ কাৰ্য্য আছে, গতিকে ৱেবছাইটটো আন্তৰ্জাতিক কৰাটো অপ্ৰয়োজনীয় নেকি?
 
@@ -10,17 +10,17 @@
 
 ## পাতনি
 
+কল্পবিজ্ঞান উপন্যাস &quot;তিনি-শৰীৰ&quot; (চীনা উচ্চাৰণ: `3Ti` ) বিদ্যুৎচুম্বকীয় তৰংগৰ জৰিয়তে যোগাযোগ কৰা, ভাষাৰ কোনো বাধা নথকা আৰু প্ৰযুক্তিগতভাৱে সমৃদ্ধিশালী বিদেশী সভ্যতাক কাল্পনিক কৰি তুলিছে।
+
 বাইবেল · আদিপুস্তক :
 
-> প্ৰাচীন কালত যেতিয়া ভাষাসমূহ এক আছিল, তেতিয়া মানৱজাতিয়ে মানৱ জাতিৰ শক্তিৰ ঘোষণা কৰি আকাশলৈকে বিস্তৃত এটা টাৱাৰ, ঈশ্বৰৰ ক্ষেত্ৰলৈ যোৱা এটা দুৱাৰ নিৰ্মাণ কৰিছিল।
+> প্ৰাচীনসকলে আকাশলৈকে, ঈশ্বৰৰ দুৱাৰত উপনীত হোৱা আৰু মানৱ জাতিৰ প্ৰতিপত্তি বৃদ্ধি কৰা টাৱাৰ নিৰ্মাণ কৰিছিল।
 >
-> ঈশ্বৰে ঘোষণা কৰিছিল, "মানুহে এটা জনগোষ্ঠী হিচাপে একত্ৰিত হয়, ভাগ কৰা জিভাৰে, আৰু এই টাৱাৰটো মাত্ৰ এটা প্ৰস্তাৱনা। এতিয়া তেওঁলোকে নিজৰ ইচ্ছা পূৰণ কৰে, আৰু ভয় নাথাকিব।"
+> প্ৰভুৱে কৈছিল যে মানুহে নিজৰ বংশ গঠন কৰি একে ভাষা কয়। টাৱাৰ নিৰ্মাণ কৰাটো এটা প্ৰস্তাৱনা মাথোঁ। এতিয়া হৈ গ’ল, ভৱিষ্যতে সকলো কামেই কৰিব।
 >
-> এইদৰে ঈশ্বৰ নামি আহিল, মানুহক বিভিন্ন চুকলৈ সিঁচৰতি কৰি, বিভিন্ন ভাষা ব্যৱহাৰ কৰিলে।
+> তাৰ পাছত, প্ৰভুৱে আহি মানুহবোৰক বিভিন্ন ঠাইত সিঁচৰতি কৰি দিলে, ইজনে সিজনক বুজিব নোৱাৰি।
 >
-> তেতিয়াৰ পৰা মানুহৰ যোগাযোগ প্ৰত্যাহ্বানমূলক হৈ পৰিল, বিবাদৰ অন্তহীন হৈ পৰিল আৰু আকাশ স্পৰ্শ কৰা টাৱাৰ আৰু নাছিল।
-
-কল্পবিজ্ঞান উপন্যাস &quot;তিনি-শৰীৰ&quot; (চীনা উচ্চাৰণ: `3Ti` ) বিদ্যুৎচুম্বকীয় তৰংগৰ জৰিয়তে যোগাযোগ কৰা, ভাষাৰ কোনো বাধা নথকা আৰু প্ৰযুক্তিগতভাৱে সমৃদ্ধিশালী বিদেশী সভ্যতাক কাল্পনিক কৰি তুলিছে।
+> তেতিয়াৰ পৰাই মানুহৰ বিবাদ অব্যাহত আছে আৰু পৃথিৱীত বাবেলৰ টাৱাৰ আৰু নাই।
 
 মই এনেকুৱা এটা সঁজুলি সৃষ্টি কৰাৰ আশা কৰিছো যিয়ে পৃথিৱীৰ মানুহবোৰক তিনি শৰীৰৰ মানুহৰ দৰে হ’ব পাৰে, ভাষাত বান্ধি নোলোৱাকৈ যোগাযোগ কৰিব পাৰে, আৰু সকলো মানৱ জাতিক পুনৰ একত্ৰিত কৰিব পাৰে।
 
@@ -53,7 +53,7 @@ export https_proxy=http://127.0.0.1:7890
 ### ভেৰিয়েবল এম্বেডিং
 
 ```
-test: 测试变量<br 0>嵌入
+test:测试变量<br 0>嵌入
 ```
 
 ### খালী কৰক কেচ

@@ -2,7 +2,7 @@
 
 静的サイト ジェネレーターである 3Ti.Site は、Markdown を[100 以上の異なる言語](https://github.com/i18n-site/node/blob/main/lang/src/index.js)に自動的に翻訳できます。
 
-<img src="//i-01.eu.org/i18n/lang.webp" alt="" />
+<pre class="langli" style="display:flex;flex-wrap:wrap;background:transparent;border:1px solid #eee;font-size:15px;box-shadow:0 0 3px inset #eee;padding:15px 8px 8px 15px;justify-content:space-between;"><style>pre.langli i{font-weight:300;font-family:htm;margin-right:8px;margin-bottom:8px;font-style:normal;color:#444;border-bottom:1px dashed #ccc;}</style><i>English</i><i> 简体中文 </i><i>español</i><i>français</i><i>Deutsch</i><i> 日本語 </i><i>italiano</i><i>한국어</i><i>русский</i><i>português</i><i>shqip</i><i>‫العربية‬</i><i>አማርኛ</i><i>অসমীয়া</i><i>azərbaycan</i><i>Eʋegbe</i><i>Aymar aru</i><i>Gaeilge</i><i>eesti</i><i>ଓଡ଼ିଆ</i><i>Oromoo</i><i>euskara</i><i>беларуская</i><i>bamanakan</i><i>български</i><i>íslenska</i><i>polski</i><i>bosanski</i><i>‫فارسی‬</i><i>भोजपुरी</i><i>Afrikaans</i><i>татар</i><i>dansk</i><i>‫ދިވެހިބަސް‬</i><i>ትግርኛ</i><i>डोगरी</i><i>संस्कृत भाषा</i><i>Filipino</i><i>suomi</i><i>Frysk</i><i>ខ្មែរ</i><i>ქართული</i><i>गोंयची कोंकणी</i><i>ગુજરાતી</i><i>avañe’ẽ</i><i>қазақ тілі</i><i>Kreyòl ayisyen</i><i>Hausa</i><i>Nederlands</i><i>кыргызча</i><i>galego</i><i>català</i><i>čeština</i><i>ಕನ್ನಡ</i><i>corsu</i><i>hrvatski</i><i>Runasimi</i><i>kurdî</i><i>‫کوردیی ناوەندی‬</i><i>Latina</i><i>latviešu</i><i>ລາວ</i><i>lietuvių</i><i>lingála</i><i>Luganda</i><i>Lëtzebuergesch</i><i>Kinyarwanda</i><i>română</i><i>Malagasy</i><i>Malti</i><i>मराठी</i><i>മലയാളം</i><i>Melayu</i><i>македонски</i><i>मैथिली</i><i>Māori</i><i>মৈতৈলোন্</i><i>монгол</i><i>বাংলা</i><i>Mizo ṭawng</i><i>မြန်မာ</i><i>𞄀𞄄𞄰𞄩𞄍𞄜𞄰</i><i>IsiXhosa</i><i>isiZulu</i><i>नेपाली</i><i>norsk</i><i>ਪੰਜਾਬੀ</i><i>‫پښتو‬</i><i>Nyanja</i><i>Akan</i><i>svenska</i><i>Gagana fa'a Sāmoa</i><i>српски</i><i>Sesotho sa Leboa</i><i>Sesotho</i><i>සිංහල</i><i>esperanto</i><i>slovenčina</i><i>slovenščina</i><i>Kiswahili</i><i>Gàidhlig</i><i>Cebuano</i><i>Soomaali</i><i>тоҷикӣ</i><i>తెలుగు</i><i>தமிழ்</i><i>ไทย</i><i>Türkçe</i><i>türkmen dili</i><i>Cymraeg</i><i>‫ئۇيغۇرچە‬</i><i>‫اردو‬</i><i>українська</i><i>o‘zbek</i><i>‫עברית‬</i><i>Ελληνικά</i><i>ʻŌlelo Hawaiʻi</i><i>‫سنڌي‬</i><i>magyar</i><i>chiShona</i><i>հայերեն</i><i>Igbo</i><i>Pagsasao Ilokano</i><i>‫ייִדיש‬</i><i>हिन्दी</i><i>Basa Sunda</i><i>Indonesia</i><i>Jawa</i><i>Èdè Yorùbá</i><i>Tiếng Việt</i><i> 正體中文 </i><i>Xitsonga</i></pre>
 
 どのブラウザにも翻訳機能があるのに、Web サイトの国際化は必要ないのではないかと疑問に思う人もいるかもしれません。
 
@@ -10,17 +10,17 @@
 
 ## 導入
 
+SF 小説「三体」（中国語発音: `3Ti` ）は、電磁波を通じて通信し、言語の壁がなく、技術的に繁栄している異星文明を架空の小説にしています。
+
 聖書・創世記 :
 
-> 古代人は言語の区別なく、天に届く、神の門に届く塔を建て、人類の威信を誇示しました。
+> 古代人は天に届く、神の門に届く塔を建て、人類の威信を高めました。
 >
-> 神様は「人間は同じ文化と種族を持った自分たちの部族だ。塔を建てるのはほんの序章に過ぎない。今ならやりたいことは何でも達成できる、何も恐れることはない」と言いました。
+> 主は、「人は自分たちの部族を形成し、同じ言語を話す。塔を建てるのは序章にすぎない。それが完了したら、将来はすべてのことを行うだろう」と語られました。
 >
-> そこに神が来て、人々はお互いを理解できないまま各地に散らされました。
+> そこに主が来られ、人々は互いに分かり合えないまま各地に散らされてしまいました。
 >
-> それ以来、人間同士の意思疎通は難しく、争いは絶えず、世界にはバベルの塔は存在しませんでした。
-
-SF 小説「三体」（中国語発音: `3Ti` ）は、電磁波を通じて通信し、言語の壁がなく、技術的に繁栄している異星文明を架空の小説にしています。
+> 以来、人類の争いは続き、世界にはバベルの塔は存在しなくなった。
 
 地球の人々が三体人間のようになり、言語に縛られずにコミュニケーションをとり、全人類が再び一つになるためのツールを作りたいと思っています。
 
@@ -53,7 +53,7 @@ export https_proxy=http://127.0.0.1:7890
 ### 変数の埋め込み
 
 ```
-test: 测试变量<br 0>嵌入
+test:测试变量<br 0>嵌入
 ```
 
 ### キャッシュを空にしてください
