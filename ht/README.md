@@ -10,7 +10,7 @@ Mwen ta renmen di ke **sit entènèt sèlman ki jenere tradiksyon estatik ka sip
 
 ## Entwodiksyon
 
-Roman syans fiksyon &quot;Three-Body&quot; (pwononsyasyon Chinwa: `3Ti` ) fiksyonalize yon sivilizasyon etranje ki kominike atravè onn elektwomayetik, pa gen okenn baryè lang, epi li se teknolojik pwospè.
+Roman syans fiksyon &quot;Three-Body&quot; (pwononsyasyon Chinwa: `3Ti` ) fiksyonalize yon sivilizasyon etranje ki sèvi ak onn elektwomayetik pou kominike, ak panse transparan ak syans ak teknoloji pwospere.
 
 Bib · Jenèz :
 

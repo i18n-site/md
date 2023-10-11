@@ -10,7 +10,7 @@ Ani akkan jedhutti **marsariitiiwwan hiikkaa hin jijjiiramne maddisiisan qofatu 
 
 ## Seensa
 
-Asoosamni asoosama saayinsii &quot;Three-Body&quot; (Sagalee Chaayinaa: `3Ti` ) qaroomina alagaa karaa dalga elektiromaagneetikii walqunnamsiisu, danqaa afaanii hin qabnee fi teeknooloojiin badhaadhina qabu asoosama.
+Asoosamni asoosama saayinsii &quot;Three-Body&quot; (Sagalee Chaayinaa: `3Ti` ) qaroomina alagaa kan dambalii elektiromaagneetikii fayyadamuun walqunnamsiisu, yaada iftoomina qabuu fi saayinsii fi teeknooloojii badhaadhina qabuun asoosama.
 
 Macaafa Qulqulluu · Seera Uumamaa :
 

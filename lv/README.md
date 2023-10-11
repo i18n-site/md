@@ -10,7 +10,7 @@ Es vēlos teikt, ka **tikai vietnes, kas ģenerē statiskus tulkojumus, var atba
 
 ## Ievads
 
-Zinātniskās fantastikas romāns &quot;Trīsķermeņi&quot; (ķīniešu izruna: `3Ti` ) izdomāja citplanētiešu civilizāciju, kas sazinās ar elektromagnētisko viļņu palīdzību, kurai nav valodas barjeru un kas ir tehnoloģiski pārtikusi.
+Zinātniskās fantastikas romānā &quot;Trīsķermeņi&quot; (ķīniešu izruna: `3Ti` ) ir izdomāta citplanētiešu civilizācija, kas saziņai izmanto elektromagnētiskos viļņus ar caurspīdīgu domāšanu un plaukstošu zinātni un tehnoloģiju.
 
 Bībele · Genesis :
 

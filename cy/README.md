@@ -10,7 +10,7 @@ Hoffwn ddweud mai **dim ond gwefannau sy&#39;n cynhyrchu cyfieithiadau statig sy
 
 ## Rhagymadrodd
 
-Mae'r nofel ffuglen wyddonol &quot;Three-Body&quot; (ynganiad Tsieineaidd: `3Ti` ) yn ffugio gwareiddiad estron sy'n cyfathrebu trwy donnau electromagnetig, heb unrhyw rwystrau iaith, ac sy'n lewyrchus yn dechnolegol.
+Mae&#39;r nofel ffuglen wyddonol &quot;Three-Body&quot; (ynganiad Tsieineaidd: `3Ti` ) yn ffugio gwareiddiad estron sy&#39;n defnyddio tonnau electromagnetig i gyfathrebu, gyda meddwl tryloyw a gwyddoniaeth a thechnoleg lewyrchus.
 
 Beibl · Genesis :
 

@@ -10,7 +10,7 @@ Ngingathanda ukusho ukuthi **amawebhusayithi kuphela akhiqiza ukuhumusha okumile
 
 ## Isingeniso
 
-Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphimbo lesiShayina: `3Ti` ) iqamba impucuko engaziwa exhumana namagagasi kagesi, engenazo izithiyo zolimi, futhi ephumelelayo kwezobuchwepheshe.
+Inoveli eqanjiwe yesayensi ethi &quot;Imizimba Emithathu&quot; (iphimbo lesiShayina: `3Ti` ) iqamba impucuko engelona iqiniso esebenzisa amaza kazibuthe kagesi ukuxhumana, nokucabanga okusobala kanye nesayensi nobuchwepheshe obuphumelelayo.
 
 IBhayibheli · Genesise :
 

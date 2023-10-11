@@ -10,7 +10,7 @@ Ek wil graag sê dat **slegs webwerwe wat statiese vertalings genereer, veeltali
 
 ## Inleiding
 
-Die wetenskapfiksie-roman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fiksionaliseer 'n uitheemse beskawing wat deur elektromagnetiese golwe kommunikeer, geen taalgrense het nie en tegnologies voorspoedig is.
+Die wetenskapfiksie-roman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fiksionaliseer &#39;n uitheemse beskawing wat elektromagnetiese golwe gebruik om te kommunikeer, met deursigtige denke en voorspoedige wetenskap en tegnologie.
 
 Bybel · Genesis :
 

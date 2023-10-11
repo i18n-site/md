@@ -10,7 +10,7 @@ Bazı insanlar, tüm tarayıcıların çeviri işlevlerine sahip olması nedeniy
 
 ## Giriiş
 
-Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektromanyetik dalgalar aracılığıyla iletişim kuran, dil engeli olmayan ve teknolojik açıdan zengin bir uzaylı uygarlığını kurguluyor.
+Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), şeffaf düşünme ve müreffeh bilim ve teknolojiyle iletişim kurmak için elektromanyetik dalgaları kullanan uzaylı bir medeniyeti kurguluyor.
 
 İncil · Yaratılış :
 

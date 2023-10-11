@@ -10,7 +10,7 @@ Ou te fia fai atu **e na&#39;o upegatafa&#39;ilagi e fa&#39;atupu fa&#39;aliliug
 
 ## Folasaga
 
-O le tala fa'asaienisi talafatu &quot;Three-Body&quot; (Saina fa'auiga: `3Ti` ) fa'ata'oto se tagata mai fafo e feso'ota'i e ala i galu electromagnetic, e leai ni pa puipui o le gagana, ma o lo'o manuia fa'atekonolosi.
+O le tala fa&#39;asaienisi talafatu &quot;Three-Body&quot; (Saina faaleoga: `3Ti` ) fa&#39;ata&#39;oto se malo o tagata ese e fa&#39;aogaina galu electromagnetic e feso&#39;ota&#39;i ai, ma mafaufauga manino ma fa&#39;asaienisi manuia ma tekonolosi.
 
 Tusi Paia · Kenese :
 

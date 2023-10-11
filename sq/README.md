@@ -10,7 +10,7 @@ Unë do të doja të them se **vetëm faqet e internetit që gjenerojnë përkth
 
 ## Prezantimi
 
-Romani fantastiko-shkencor &quot;Tre-trupi&quot; (shqiptimi kinez: `3Ti` ) imagjinon një qytetërim alien që komunikon përmes valëve elektromagnetike, nuk ka barriera gjuhësore dhe është teknologjikisht i begatë.
+Romani fantastiko-shkencor &quot;Three-Body&quot; (shqiptimi kinez: `3Ti` ) fiksionalizon një qytetërim alien që përdor valët elektromagnetike për të komunikuar, me të menduarit transparent dhe shkencën dhe teknologjinë e begatë.
 
 Bibla · Zanafilla :
 

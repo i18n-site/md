@@ -10,7 +10,7 @@ Norėčiau pasakyti, kad **tik statinius vertimus generuojančios svetainės gal
 
 ## Įvadas
 
-Mokslinės fantastikos romane „Trys kūnai“ (tarimas kiniškai: `3Ti` ) išgalvota ateivių civilizacija, kuri bendrauja per elektromagnetines bangas, neturi kalbos barjerų ir klesti technologiškai.
+Mokslinės fantastikos romanas „Trys kūnai“ (tarimas kinų kalba: `3Ti` ) išgalvojęs ateivių civilizaciją, kuri bendravimui naudoja elektromagnetines bangas, skaidriai mąstančią ir klestinčią mokslą bei technologijas.
 
 Biblija · Pradžios knyga :
 

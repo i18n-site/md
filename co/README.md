@@ -10,7 +10,7 @@ Vogliu dì chì **solu i siti web chì generanu traduzzioni statiche ponu suppor
 
 ## Introduzione
 
-U rumanzu di fantascienza &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) fictionalizes una civilisazione straniera chì cumunica per mezu di onde elettromagnetiche, ùn hà micca barriere linguistiche, è hè tecnologicamente prusperu.
+U rumanzu di fantascienza &quot;Three-Body&quot; (pronuncia chinesa: `3Ti` ) fictionalizes una civilisazione straniera chì usa onde elettromagnetiche per cumunicà, cù un pensamentu trasparente è una scienza è tecnulugia pruspera.
 
 Bibbia · Genesi :
 

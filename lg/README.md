@@ -10,7 +10,7 @@ Njagala okugamba nti **emikutu gyokka egikola enkyusa ezitakyukakyuka gye gisobo
 
 ## Okwanjula
 
-Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y'Oluchina: `3Ti` ) kifuula embuga y'abagwira ewuliziganya okuyita mu mayengo ga masanyalaze, etaliiko biziyiza lulimi, era ekulaakulana mu tekinologiya.
+Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y&#39;Oluchina: `3Ti` ) kifuula embuga y&#39;abagwira ekozesa amayengo g&#39;amasannyalaze okuwuliziganya, n&#39;endowooza entangaavu ne ssaayansi ne tekinologiya ebikulaakulana.
 
 Baibuli · Olubereberye :
 

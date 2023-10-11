@@ -10,7 +10,7 @@ Rad bi povedal, da **lahko le spletna mesta, ki ustvarjajo statične prevode, po
 
 ## Uvod
 
-Znanstvenofantastični roman &quot;Three-Body&quot; (kitajska izgovorjava: `3Ti` ) fikcionalizira tujo civilizacijo, ki komunicira prek elektromagnetnih valov, nima jezikovnih ovir in je tehnološko uspešna.
+Znanstvenofantastični roman &quot;Three-Body&quot; (kitajska izgovorjava: `3Ti` ) fikcionalizira tujo civilizacijo, ki za komunikacijo uporablja elektromagnetne valove, s preglednim razmišljanjem ter uspešno znanostjo in tehnologijo.
 
 Sveto pismo · Geneza :
 

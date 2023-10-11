@@ -10,7 +10,7 @@ Bu mhath leam a ràdh nach **urrainn ach làraich-lìn a ghineadh eadar-theangac
 
 ## Ro-Ràdh
 
-Tha an nobhail ficsean saidheans &quot;Three-Body&quot; (fuaimneachadh Sìneach: `3Ti` ) a 'dèanamh ficsean air sìobhaltas coimheach a bhios a' conaltradh tro thonnan electromagnetic, aig nach eil cnapan-starra cànain, agus a tha soirbheachail gu teicneòlach.
+Tha an nobhail ficsean saidheans &quot;Three-Body&quot; (fuaimneachadh Sìneach: `3Ti` ) a &#39;dèanamh ficsean air sìobhaltas coimheach a bhios a&#39; cleachdadh tonnan electromagnetic gus conaltradh, le smaoineachadh follaiseach agus saidheans agus teicneòlas soirbheachail.
 
 Bìoball · Genesis :
 

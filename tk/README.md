@@ -10,7 +10,7 @@ Käbir adamlar sorap bilerler, ähli brauzerlerde terjime funksiýalary bar, web
 
 ## Giriş
 
-Ylmy fantastika romany &quot;Üç beden&quot; (hytaýça aýdylyşy: `3Ti` ) elektromagnit tolkunlar arkaly aragatnaşyk saklaýan, dil päsgelçilikleri bolmadyk we tehnologiki taýdan gülläp ösýän keseki siwilizasiýany toslaýar.
+Ylmy fantastika romany &quot;Üç beden&quot; (Hytaýyň aýdylyşy: `3Ti` ) aç-açan pikirlenmek we gülläp ösýän ylym we tehnologiýa bilen aragatnaşyk üçin elektromagnit tolkunlaryny ulanýan keseki siwilizasiýany toslama.
 
 Injil · Gelip çykyş :
 

@@ -10,7 +10,7 @@ Aipota **ha’e umi ñanduti renda omoheñóiva ñe’ẽasa estática añoite i
 
 ## Moñepyrũmby
 
-Pe novela ciencia ficción &quot;Mbohapy Cuerpo&quot; (pronunciación chino: `3Ti` ) oficciona peteĩ civilización extraterrestre oñemongeta va'ekue onda electromagnética rupive, ndorekóiva barrera idioma rehegua, ha tecnológicamente oñakãrapu'ã.
+Ko novela ciencia ficción &quot;Mbohapy Cuerpo&quot; (pronunciación china: `3Ti` ) oficciona peteî civilización extraterrestre oiporúva onda electromagnética oñomongeta haguã, orekóva pensamiento transparente ha ciencia ha tecnología próspera.
 
 Biblia · Génesis :
 

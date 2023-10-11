@@ -10,7 +10,7 @@ Waxaan jeclaan lahaa inaan sheego in **shabakadaha soo saara tarjumaadaha taagan
 
 ## Hordhac
 
-Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: `3Ti` ) waxay khayaaliyeed ka dhigtaa ilbaxnimada shisheeyaha ee ku wada xidhiidha mowjadaha elektromagnetic, ma laha caqabado luqadeed, waana barwaaqo tignoolajiyada.
+Sheekada khayaaliga sayniska &quot;Three-Body&quot; (ku dhawaaqida Shiinaha: `3Ti` ) waxay khiyaalisaa ilbaxnimada shisheeye ee adeegsata hirarka elektromagnetic si ay ula xiriiraan, oo leh fikir hufan iyo saynis iyo teknoloji barwaaqo ah.
 
 Baybalka · Bilowgii :
 

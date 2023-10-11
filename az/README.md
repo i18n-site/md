@@ -10,7 +10,7 @@ Demək istərdim ki **, yalnız statik tərcümələr yaradan veb-saytlar çoxdi
 
 ## Giriş
 
-Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Ti` ) elektromaqnit dalğaları vasitəsilə ünsiyyət quran, heç bir dil maneəsi olmayan və texnoloji cəhətdən çiçəklənən yadplanetli sivilizasiyanı xəyal edir.
+Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Ti` ) şəffaf düşüncə və çiçəklənən elm və texnologiya ilə əlaqə qurmaq üçün elektromaqnit dalğalarından istifadə edən yadplanetli sivilizasiyanı uydurulmuşdur.
 
 İncil · Yaradılış :
 

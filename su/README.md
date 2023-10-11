@@ -10,7 +10,7 @@ Abdi hoyong nyebatkeun yén **ngan ukur situs wéb anu ngahasilkeun tarjamahan s
 
 ## Bubuka
 
-Novel fiksi ilmiah &quot;Tilu Badan&quot; (lafal Basa Cina: `3Ti` ) ngafiksasikeun peradaban alien anu komunikasi ngaliwatan gelombang éléktromagnétik, teu aya halangan basa, sareng makmur sacara téknologi.
+Novel fiksi ilmiah &quot;Tilu Badan&quot; (lafal Basa Cina: `3Ti` ) ngagambarkeun peradaban alien anu ngagunakeun gelombang éléktromagnétik pikeun komunikasi, kalayan pamikiran anu transparan sareng élmu pangaweruh sareng téknologi anu makmur.
 
 Alkitab · Kajadian :
 

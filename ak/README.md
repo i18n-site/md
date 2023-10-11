@@ -10,7 +10,7 @@ Mepɛ sɛ meka sɛ **wɛbsaet ahorow a ɛma nkyerɛase ahorow a ɛnyɛ hwee nkut
 
 ## Nnianimu
 
-Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din: `3Ti` ) yɛ ahɔho anibuei a ɛnam anyinam ahoɔden asorɔkye so di nkitaho, enni kasa mu akwanside biara, na ɛwɔ mfiridwuma mu yiyedi.
+Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din: `3Ti` ) yɛ ayɛsɛm a ɛyɛ ahɔho anibuei a ɛde anyinam ahoɔden asorɔkye di dwuma de di nkitaho, a adwene a ɛda adi pefee ne nyansahu ne mfiridwuma a edi yiye wom.
 
 Bible · Genesis :
 

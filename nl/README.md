@@ -10,7 +10,7 @@ Ik zou willen zeggen dat **alleen websites die statische vertalingen genereren, 
 
 ## Invoering
 
-De sciencefictionroman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fictionaliseert een buitenaardse beschaving die communiceert via elektromagnetische golven, geen taalbarrières kent en technologisch welvarend is.
+De sciencefictionroman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fictionaliseert een buitenaardse beschaving die elektromagnetische golven gebruikt om te communiceren, met transparant denken en welvarende wetenschap en technologie.
 
 Bijbel · Genesis :
 

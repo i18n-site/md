@@ -10,7 +10,7 @@ Saya ingin mengatakan bahwa **hanya situs web yang menghasilkan terjemahan stati
 
 ## Perkenalan
 
-Novel fiksi ilmiah &quot;Three-Body&quot; (pengucapan China: `3Ti` ) mengarang fiksi peradaban alien yang berkomunikasi melalui gelombang elektromagnetik, tidak memiliki kendala bahasa, dan makmur secara teknologi.
+Novel fiksi ilmiah &quot;Tiga Tubuh&quot; (pengucapan Cina: `3Ti` ) mengarang fiksi peradaban alien yang menggunakan gelombang elektromagnetik untuk berkomunikasi, dengan pemikiran transparan dan ilmu pengetahuan dan teknologi yang makmur.
 
 Alkitab · Kejadian :
 

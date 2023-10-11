@@ -10,7 +10,7 @@ Mi ŝatus diri, ke **nur retejoj, kiuj generas senmovajn tradukojn, povas subten
 
 ## Enkonduko
 
-La sciencfikcia romano &quot;Tri-korpoj&quot; (ĉine elparolo: `3Ti` ) fikciigas fremdan civilizon kiu komunikas per elektromagnetaj ondoj, havas neniujn lingvajn barojn, kaj estas teknologie prospera.
+La sciencfikcia romano &quot;Tri-korpoj&quot; (ĉine elparolo: `3Ti` ) fikciigas fremdan civilizacion kiu uzas elektromagnetajn ondojn por komuniki, kun travidebla pensado kaj prospera scienco kaj teknologio.
 
 Biblio · Genezo :
 

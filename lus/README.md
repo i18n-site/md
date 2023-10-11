@@ -10,7 +10,7 @@ Ka sawi duh chu **, static translation siamtu website chauh hian multilingual in
 
 ## Inhmelhriattirna
 
-Science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) hian electromagnetic wave hmanga inbiakpawhna nei, tawng lama harsatna nei lo, technology lama hausa, alien civilization fictionalize a ni.
+Science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) hian electromagnetic wave hmanga inbiakpawhna hmanga inbiakpawhna hmanga inbiakpawhna hmanga inbiakpawhna, ngaihtuahna langtlang tak leh science leh technology hlawhtling tak nei, alien civilization chu fictionalize-in a siam a ni.
 
 Bible · Genesis :
 

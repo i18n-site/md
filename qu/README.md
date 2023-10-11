@@ -10,7 +10,7 @@ Niyta munani **, web kitikunalla tikraykunata ruwaqkunalla yanapayta atinku achk
 
 ## Qallariy
 
-&quot;Kimsa-Kurku&quot; (China simipi t'uqyay: `3Ti` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética olakunawan rimanakunku, mana simi hark'aykunayuqmi, tecnología nisqapipas qhapaqmi.
+&quot;Kimsa-Kurku&quot; (China simipi t&#39;uqyay: `3Ti` ) nisqa ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética nisqa olakunawan rimanakunku, sut&#39;i yuyaywan, qhapaq yachaywan, tecnologiawan ima.
 
 Biblia · Génesis :
 

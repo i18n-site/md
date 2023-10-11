@@ -10,7 +10,7 @@ Esan nahiko nuke **itzulpen estatikoak sortzen dituzten webguneek soilik onartze
 
 ## Sarrera
 
-&quot;Three-Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Ti` ) uhin elektromagnetikoen bidez komunikatzen den, hizkuntza-hesirik ez duen eta teknologikoki oparoa den zibilizazio arrotz bat fikzionatu du.
+&quot;Three-Body&quot; (Three-Body) zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Ti` ) uhin elektromagnetikoak erabiltzen dituen zibilizazio arrotz bat fikzionatzen du komunikatzeko, pentsamendu gardenarekin eta zientzia eta teknologia oparoarekin.
 
 Biblia · Genesis :
 

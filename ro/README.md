@@ -10,7 +10,7 @@ Aș dori să spun că **numai site-urile web care generează traduceri statice p
 
 ## Introducere
 
-Romanul științifico-fantastic „Three-Body” (pronunție chineză: `3Ti` ) ficționalizează o civilizație extraterestră care comunică prin unde electromagnetice, nu are bariere lingvistice și este prosperă din punct de vedere tehnologic.
+Romanul științifico-fantastic „Three-Body” (pronunție chineză: `3Ti` ) ficționalizează o civilizație extraterestră care folosește unde electromagnetice pentru a comunica, cu gândire transparentă și știință și tehnologie prosperă.
 
 Biblia · Geneza :
 

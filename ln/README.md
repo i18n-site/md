@@ -10,7 +10,7 @@ Nalingi koloba ete **kaka basite Internet oyo ebimisaka mabongoli ya statique nd
 
 ## Maloba Ya Ebandeli
 
-Roman ya science fiction &quot;Tree-Body&quot; (prononciation chinois: `3Ti` ) e fictionaliser civilisation alienne oyo e communiquer na nzela ya ba mbonge électromagnétique, ezali na ba barrières ya langue te, mpe ezali na prospère technologique.
+Roman ya science fiction &quot;Tree-Body&quot; (prononciation chinoise: `3Ti` ) e fictionaliser civilisation alienne oyo esalelaka ba mbonge électromagnétique mpo na kosolola, na makanisi ya polele mpe na science mpe technologie ya bomengo.
 
 Biblia · Ebandeli :
 

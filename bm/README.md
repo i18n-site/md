@@ -10,7 +10,7 @@ N b’a fɛ k’a fɔ ko **siti minnu bɛ bamanankan baarakɛcogo jɔlenw dilan,
 
 ## Daminɛ Kuma
 
-Dɔnniya gafe min tɔgɔ ye ko &quot;Three-Body&quot; (Sinuwakan fɔcogo: `3Ti` ) bɛ dunan siwili dɔ labɛn min bɛ kumaɲɔgɔnya kɛ ni kuran-magnetiki-fiɲɛw ye, kanko gɛlɛya tɛ min na, wa a bɛ ɲɛtaa sɔrɔ fɛɛrɛko siratigɛ la.
+Dɔnniya nsiirin gafe &quot;Farikolo saba&quot; (Sinuwakan fɔcogo: `3Ti` ) bɛ dunan siwili dɔ labɛn min bɛ baara kɛ ni kuran-fiɲɛw ye walasa ka kumaɲɔgɔnya kɛ, ni miirili jɛlen ye ani dɔnniya ni fɛɛrɛ kuraw.
 
 Bibulu · Jenɛse :
 

@@ -10,7 +10,7 @@ Ke rata ho bolela hore **ke libaka tsa marang-rang feela tse hlahisang liphetole
 
 ## Selelekela
 
-Pale ea tšōmo ea mahlale &quot;Mele e Meraro&quot; (polelo ea Sechaena: `3Ti` ) e iqapetse tsoelopele esele e buisanang ka maqhubu a motlakase, e senang litšitiso tsa puo, 'me e atlehile ho tsa theknoloji.
+Pale ea tšōmo ea mahlale &quot;Mele e Meraro&quot; (polelo ea Sechaena: `3Ti` ) e iqapetse tsoelo-pele esele e sebelisang maqhubu a motlakase ho buisana, ka menahano e pepeneneng le mahlale a atlehileng le theknoloji.
 
 Bibele · Genese :
 

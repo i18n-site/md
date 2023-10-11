@@ -10,7 +10,7 @@ Ina so in faɗi cewa **shafukan yanar gizo ne kawai waɗanda ke samar da fassaro
 
 ## Gabatarwa
 
-Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci: `3Ti` ) ya ƙirƙira wani baƙon wayewa wanda ke sadarwa ta hanyar igiyoyin lantarki, ba shi da shingen harshe, kuma yana da wadata ta fasaha.
+Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci: `3Ti` ) ya ƙirƙira wani baƙon wayewar da ke amfani da igiyoyin lantarki don sadarwa, tare da tunani na gaskiya da wadatar kimiyya da fasaha.
 
 Littafi Mai Tsarki · Farawa :
 

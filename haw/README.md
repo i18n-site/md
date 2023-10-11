@@ -10,7 +10,7 @@ Makemake au e ʻōlelo ʻo **nā pūnaewele wale nō e hoʻopuka ana i nā unuhi
 
 ## Hoʻolauna
 
-ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes a alien civilization e kamaʻilio ana ma o nā hawewe electromagnetic, ʻaʻohe mea pale ʻōlelo, a ua holomua ʻo ka ʻenehana.
+ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (ʻōlelo Kina: `3Ti` ) he moʻolelo moʻokalaleo e hoʻohana ana i nā nalu electromagnetic e kamaʻilio, me ka noʻonoʻo maopopo a me ka ʻepekema a me ka ʻenehana holomua.
 
 Baibala · Genesis :
 

@@ -10,7 +10,7 @@ Emi yoo fẹ lati sọ pe **awọn oju opo wẹẹbu nikan ti o ṣe agbekalẹ 
 
 ## Ọrọ Iṣaaju
 
-Iwe itan itan-akọọlẹ imọ-jinlẹ “Ara-mẹta” ( pronunciation Kannada: `3Ti` ) ṣe itanjẹ itanjẹ ọlaju ajeji ti o sọrọ nipasẹ awọn igbi itanna, ko ni awọn idena ede, ati pe o ni ilọsiwaju ni imọ-ẹrọ.
+Iwe itan itan-akọọlẹ imọ-jinlẹ “Ara-mẹta” ( pronunciation Kannada: `3Ti` ) ṣe itankalẹ ọlaju ajeji kan ti o nlo awọn igbi itanna lati ṣe ibaraẹnisọrọ, pẹlu ironu ti o han gbangba ati imọ-jinlẹ ati imọ-ẹrọ to ni ilọsiwaju.
 
 Bibeli · Genesisi :
 

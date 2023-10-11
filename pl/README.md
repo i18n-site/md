@@ -10,7 +10,7 @@ Chciałbym powiedzieć, że **tylko witryny generujące tłumaczenia statyczne m
 
 ## Wstęp
 
-Powieść science fiction „Trzy ciała” (chińska wymowa: `3Ti` ) fabularyzuje obcą cywilizację, która komunikuje się za pomocą fal elektromagnetycznych, nie ma barier językowych i jest zamożna technologicznie.
+Powieść science fiction „Trzy ciała” (chińska wymowa: `3Ti` ) fabularyzuje obcą cywilizację, która wykorzystuje fale elektromagnetyczne do komunikacji, zapewniając przejrzyste myślenie oraz dobrze prosperującą naukę i technologię.
 
 Biblia · Geneza :
 

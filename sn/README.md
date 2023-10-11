@@ -10,7 +10,7 @@ Ndinoda kutaura kuti **mawebhusaiti chete anogadzira shanduro dzakasimba anogona
 
 ## Nhanganyaya
 
-Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Ti` ) inofungidzira budiriro yevatorwa inotaurirana kuburikidza nemasaisai emagetsi, haina zvipingamupinyi zvemutauro, uye yakabudirira muhunyanzvi.
+Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Ti` ) inofungidzira budiriro yevatorwa inoshandisa masaisai emagetsi kutaurirana, nekufunga kwakajeka uye kubudirira kwesainzi uye tekinoroji.
 
 Bhaibheri · Genesisi :
 

@@ -10,7 +10,7 @@ Ndashaka kuvuga ko **imbuga zonyine zitanga ibisobanuro bihamye zishobora gushyi
 
 ## Intangiriro
 
-Igitabo gihimbano cya siyansi &quot;Imibiri itatu&quot; (Imvugo y'Igishinwa: `3Ti` ) gihimbano umuco w'abanyamahanga uvugana binyuze mu muhengeri wa electroniki, nta mbogamizi z’ururimi, kandi utera imbere mu ikoranabuhanga.
+Igitabo gihimbano cya siyanse &quot;Umubiri-itatu&quot; (Imvugo y&#39;Igishinwa: `3Ti` ) gihimbano umuco w&#39;abanyamahanga ukoresha imiyoboro ya elegitoroniki kugira ngo ushyikirane, hamwe n&#39;ibitekerezo bisobanutse kandi siyanse n&#39;ikoranabuhanga bitera imbere.
 
 Bibiliya · Itangiriro :
 

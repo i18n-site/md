@@ -10,7 +10,7 @@ Vellem dicere **tantum paginas quae static translationes generare possunt, multi
 
 ## Introductio
 
-Scientia fictionis novae &quot;Tres-Corporis&quot; (pronuntiatio Sinica: `3Ti` ) ficta civilizationem alienam, quae per undas electromagneticos communicat, linguae claustra non habet et technicae artis prosper est.
+Scientia ficta nova &quot;Three-Cordy&quot; (pronunciation: `3Ti` ) ficta civilizationem alienam, quae electromagneticis fluctibus utitur ad communicandum, cum perspicuis cogitationibus et prosperis scientia et technicis.
 
 Bible :
 

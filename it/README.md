@@ -10,7 +10,7 @@ Vorrei dire che **solo i siti Web che generano traduzioni statiche possono suppo
 
 ## Introduzione
 
-Il romanzo di fantascienza &quot;Three-Body&quot; (pronuncia cinese: `3Ti` ) immagina una civiltà aliena che comunica attraverso onde elettromagnetiche, non ha barriere linguistiche ed è tecnologicamente prospera.
+Il romanzo di fantascienza &quot;Three-Body&quot; (pronuncia cinese: `3Ti` ) immagina una civiltà aliena che utilizza le onde elettromagnetiche per comunicare, con un pensiero trasparente e una prospera scienza e tecnologia.
 
 Bibbia · Genesi :
 

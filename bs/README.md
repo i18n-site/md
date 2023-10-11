@@ -10,7 +10,7 @@ Neki ljudi mogu pitati, budući da svi pretraživači imaju funkcije prevođenja
 
 ## Uvod
 
-Naučnofantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) fikcionalizira vanzemaljsku civilizaciju koja komunicira putem elektromagnetnih valova, nema jezičke barijere i tehnološki je prosperitetna.
+Naučnofantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) fikcionalizira vanzemaljsku civilizaciju koja koristi elektromagnetne valove za komunikaciju, s transparentnim razmišljanjem i prosperitetnom naukom i tehnologijom.
 
 Biblija · Postanak :
 

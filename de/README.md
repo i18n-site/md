@@ -10,7 +10,7 @@ Ich möchte sagen, dass **nur Websites, die statische Übersetzungen generieren,
 
 ## Einführung
 
-Der Science-Fiction-Roman „Three-Body“ (chinesische Aussprache: `3Ti` ) fiktionalisiert eine außerirdische Zivilisation, die über elektromagnetische Wellen kommuniziert, keine Sprachbarrieren kennt und technologisch erfolgreich ist.
+Der Science-Fiction-Roman „Three-Body“ (chinesische Aussprache: `3Ti` ) fiktionalisiert eine außerirdische Zivilisation, die elektromagnetische Wellen zur Kommunikation nutzt, mit transparentem Denken und prosperierender Wissenschaft und Technologie.
 
 Bibel · Genesis :
 

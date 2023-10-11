@@ -10,7 +10,7 @@ Kuv xav hais tias **tsuas yog cov vev xaib uas tsim cov kev txhais lus zoo li qu
 
 ## Taw Qhia
 
-Cov ntawv tseeb tshiab &quot;Three-Lub Cev&quot; (Suav hais: `3Ti` ) fictionalizes ib tug neeg txawv teb chaws kev vam meej uas sib txuas lus los ntawm electromagnetic nthwv dej, tsis muaj lus teeb meem, thiab yog technologically vam meej.
+Cov ntawv tseeb tshiab &quot;Three-Lub Cev&quot; (Suav hais: `3Ti` ) fictionalizes ib tug neeg txawv teb chaws kev vam meej uas siv electromagnetic nthwv dej los sib txuas lus, nrog pob tshab kev xav thiab kev vam meej science thiab technology.
 
 Bible · Chiv Keeb :
 
