@@ -24,7 +24,9 @@ Bibel · Genesis :
 >
 > Zënterhier sinn Streidereien weidergaangen, an et gëtt kee Babeltuerm op der Welt.
 
-Ech hoffen e Tool ze kreéieren deen d'Leit vun der Äerd erméigleche wéi dräi-Kierper Leit ze sinn, ouni Sprooch gebonnen ze kommunizéieren an d'ganz Mënschheet erëm ze verbannen.
+Ech hoffen Tools ze kreéieren sou datt d'Leit vun der Äerd wéi dräi-Kierper Leit kënne kommunizéieren ouni vu Sprooch gebonnen ze sinn, an d'ganz Mënschheet erëm vereenegt ka sinn.
+
+Also, et war [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

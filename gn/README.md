@@ -24,7 +24,9 @@ Biblia · Génesis :
 >
 > Upe guive osegi umi disputa, ha ndaipóri Torre de Babel ko múndope.
 
-Aha’arõ amoheñói peteĩ tembiporu ikatútava yvy ape ári tavayguakuéra ha’e haĝua tapicha mbohapy hete reheguaicha, oñemongeta ojejokua’ỹre ñe’ẽme ha ombojoaju jey mayma yvypórape.
+Aha’arõ amoheñói tembiporu ikatu hag̃uáicha umi yvy arigua ha’e peteĩ tapicha mbohapy hete reheguaicha, oñemongeta oñeñapytĩ’ỹre ñe’ẽre, ha opavave yvypóra oñembojoaju jey.
+
+Upéicha, oĩkuri [`3Ti.Site`](//3Ti.Site) .
 
 ## Mbo’epy Rehegua
 

@@ -24,7 +24,9 @@ Alkitab · Kejadian :
 >
 > Sejak itu, pertikaian berterusan, dan tidak ada Menara Babel di dunia.
 
-Saya berharap untuk mencipta satu alat yang akan membolehkan penduduk bumi menjadi seperti orang tiga badan, berkomunikasi tanpa terikat oleh bahasa, dan menyatukan semua manusia semula.
+Saya berharap untuk mencipta alat supaya penduduk bumi dapat menjadi seperti manusia tiga badan, berkomunikasi tanpa terikat oleh bahasa, dan semua manusia dapat bersatu kembali.
+
+Jadi, terdapat [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

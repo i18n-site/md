@@ -24,7 +24,9 @@ Sveto pismo · Geneza :
 >
 > Od takrat se spori nadaljujejo in na svetu ni babilonskega stolpa.
 
-Upam, da bom ustvaril orodje, ki bo ljudem na zemlji omogočilo, da bodo kot ljudje s tremi telesi, da bodo komunicirali, ne da bi bili vezani na jezik, in ponovno združili vse človeštvo.
+Upam, da bom ustvaril orodja, da bodo ljudje na zemlji lahko kot ljudje s tremi telesi, da se bodo sporazumevali, ne da bi bili vezani na jezik, in da bo lahko vse človeštvo spet združeno.
+
+Tako je bilo [`3Ti.Site`](//3Ti.Site) .
 
 ## Vadnica
 

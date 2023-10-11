@@ -24,7 +24,9 @@ Bibeln · Genesis :
 >
 > Sedan dess har tvister fortsatt, och det finns inget Babeltorn i världen.
 
-Jag hoppas kunna skapa ett verktyg som gör det möjligt för jordens människor att vara som trekroppsmänniskor, kommunicera utan att vara bundna av språk och förena hela mänskligheten igen.
+Jag hoppas kunna skapa verktyg så att jordens människor kan vara som trekroppsmänniskor, kommunicera utan att vara bundna av språket, och hela mänskligheten kan förenas igen.
+
+Så det fanns [`3Ti.Site`](//3Ti.Site) .
 
 ## Handledning
 

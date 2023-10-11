@@ -24,7 +24,9 @@ Bible · Genesis :
 >
 > Od té doby spory pokračují a Babylonská věž na světě není.
 
-Doufám, že vytvořím nástroj, který lidem na Zemi umožní, aby byli jako lidé se třemi těly, komunikovali bez svazování jazykem a znovu sjednotili celé lidstvo.
+Doufám, že vytvořím nástroje, aby lidé na Zemi mohli být jako lidé tří těl, komunikovat, aniž by byli svázáni jazykem, a celé lidstvo mohlo být znovu sjednoceno.
+
+Takže tam byl [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

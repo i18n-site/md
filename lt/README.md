@@ -24,7 +24,9 @@ Biblija · Pradžios knyga :
 >
 > Nuo tada ginčai tęsėsi ir Babelio bokšto pasaulyje nėra.
 
-Tikiuosi sukurti įrankį, kuris leis žemės žmonėms būti tarsi trijų kūnų žmonėmis, bendrauti nesirišant kalbos ir vėl suvienyti visą žmoniją.
+Tikiuosi sukurti įrankius, kad žemės žmonės būtų kaip trijų kūnų žmonės, bendrautų nesaistomi kalbos, o visa žmonija vėl būtų vieninga.
+
+Taigi, buvo [`3Ti.Site`](//3Ti.Site) .
 
 ## Pamoka
 

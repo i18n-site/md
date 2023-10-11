@@ -24,7 +24,9 @@ Kinh thánh · Sáng thế ký :
 >
 > Kể từ đó, tranh chấp vẫn tiếp diễn và không có Tháp Babel trên thế giới.
 
-Tôi hy vọng có thể tạo ra một công cụ có thể giúp con người trên trái đất giống như con người ba cơ thể, giao tiếp mà không bị ràng buộc bởi ngôn ngữ và đoàn kết toàn nhân loại một lần nữa.
+Tôi hy vọng có thể tạo ra những công cụ để con người trên trái đất có thể giống như những con người ba cơ thể, giao tiếp mà không bị ràng buộc bởi ngôn ngữ và toàn thể nhân loại có thể đoàn kết lại.
+
+Vậy là đã có [`3Ti.Site`](//3Ti.Site) .
 
 ## Hướng Dẫn
 

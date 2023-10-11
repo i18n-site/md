@@ -24,7 +24,9 @@ Bibelen · 1. Mosebok :
 >
 > Siden den gang har uenighetene fortsatt, og det finnes ikke noe Babeltårn i verden.
 
-Jeg håper å skape et verktøy som vil gjøre det mulig for menneskene på jorden å være som trekroppsmennesker, kommunisere uten å være bundet av språk, og forene hele menneskeheten igjen.
+Jeg håper å skape verktøy slik at jordens mennesker kan være som trekroppsmennesker, kommunisere uten å være bundet av språk, og hele menneskeheten kan forenes igjen.
+
+Så det var [`3Ti.Site`](//3Ti.Site) .
 
 ## Opplæringen
 

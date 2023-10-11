@@ -24,7 +24,9 @@ Bijbel · Genesis :
 >
 > Sindsdien zijn de geschillen voortgezet en is er geen Babeltoren meer in de wereld.
 
-Ik hoop een hulpmiddel te creëren dat de mensen op aarde in staat zal stellen om als mensen met drie lichamen te zijn, te communiceren zonder gebonden te zijn aan taal, en de hele mensheid weer te verenigen.
+Ik hoop hulpmiddelen te creëren zodat de mensen op aarde als mensen met drie lichamen kunnen zijn, kunnen communiceren zonder gebonden te zijn aan taal, en de hele mensheid weer verenigd kan worden.
+
+Er was [`3Ti.Site`](//3Ti.Site) .
 
 ## Handleiding
 

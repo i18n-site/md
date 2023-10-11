@@ -24,7 +24,9 @@ Beibl · Genesis :
 >
 > Ers hynny, mae anghydfodau wedi parhau, ac nid oes Tŵr Babel yn y byd.
 
-Rwy’n gobeithio creu arf a fydd yn galluogi pobl y ddaear i fod fel pobl tri chorff, cyfathrebu heb fod yn rhwym wrth iaith, ac uno holl ddynolryw eto.
+Rwy'n gobeithio creu arfau fel y gall pobl y ddaear fod fel pobl tri chorff, cyfathrebu heb fod yn rhwym wrth iaith, a bod dynolryw i gyd yn gallu bod yn unedig eto.
+
+Felly, roedd [`3Ti.Site`](//3Ti.Site) .
 
 ## Tiwtorial
 

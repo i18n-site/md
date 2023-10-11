@@ -24,7 +24,9 @@ Piibel · Genesis :
 >
 > Sellest ajast peale on vaidlused jätkunud ja maailmas pole Paabeli torni.
 
-Loodan luua tööriista, mis võimaldab maapealsetel inimestel olla nagu kolmekehalised inimesed, suhelda keelega sidumata ja ühendada taas kogu inimkonda.
+Loodan luua tööriistu, et maapealsed inimesed saaksid olla nagu kolmekehalised, suhelda keelega sidumata ja kogu inimkond saaks taas ühineda.
+
+Niisiis, seal oli [`3Ti.Site`](//3Ti.Site) .
 
 ## Õpetus
 

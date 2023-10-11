@@ -24,7 +24,9 @@ Bìoball · Genesis :
 >
 > Bhon uairsin, tha connspaidean air leantainn, agus chan eil Tùr Babel air an t-saoghal.
 
-Tha mi an dòchas inneal a chruthachadh a bheir comas do mhuinntir na talmhainn a bhith mar dhaoine trì-chorp, conaltradh gun a bhith ceangailte ri cànan, agus mac an duine uile aonachadh a-rithist.
+Tha mi an dòchas innealan a chruthachadh gus an urrainn do mhuinntir na talmhainn a bhith mar dhaoine trì-chorp, conaltradh gun a bhith ceangailte le cànan, agus an cinne-daonna uile a bhith aonaichte a-rithist.
+
+Mar sin, bha [`3Ti.Site`](//3Ti.Site) .
 
 ## Oideachadh
 

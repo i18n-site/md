@@ -24,7 +24,9 @@ Raamattu · Genesis :
 >
 > Siitä lähtien kiistat ovat jatkuneet, eikä Baabelin tornia ole maailmassa.
 
-Toivon voivani luoda työkalun, jonka avulla maan ihmiset voivat olla kuin kolmiruumiisia ihmisiä, kommunikoida ilman kielen sitomista ja yhdistää koko ihmiskunnan uudelleen.
+Toivon voivani luoda työkaluja, jotta maan ihmiset voivat olla kuin kolmiruumiisia ihmisiä, kommunikoida ilman kielen sitomista ja koko ihmiskunta voi olla jälleen yhtenäinen.
+
+Joten siellä oli [`3Ti.Site`](//3Ti.Site) .
 
 ## Opastus
 

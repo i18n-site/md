@@ -24,7 +24,9 @@ Bible · Genesis :
 >
 > Since then, disputes have continued, and there is no Babel Tower in the world.
 
-I hope to create a tool that will enable the people of the earth to be like three-body people, communicate without being bound by language, and unite all mankind again.
+I hope to create tools so that the people of the earth can be like three-body people, communicate without being bound by language, and all mankind can be united again.
+
+So, there was [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

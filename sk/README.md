@@ -24,7 +24,9 @@ Biblia · Genezis :
 >
 > Odvtedy spory pokračujú a Babylonská veža na svete neexistuje.
 
-Dúfam, že vytvorím nástroj, ktorý ľuďom na Zemi umožní byť ako ľudia s tromi telami, komunikovať bez toho, aby boli viazaní jazykom, a znova zjednotiť celé ľudstvo.
+Dúfam, že vytvorím nástroje, aby ľudia na Zemi mohli byť ako ľudia s tromi telami, komunikovať bez toho, aby boli viazaní jazykom, a celé ľudstvo mohlo byť opäť zjednotené.
+
+Takže tu bola [`3Ti.Site`](//3Ti.Site) .
 
 ## Návod
 

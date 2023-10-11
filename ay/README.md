@@ -24,7 +24,9 @@ Biblia · Génesis qillqata :
 >
 > Uka tiempot aksarojja, chʼajjwañanakajj utjaskakiwa, janiw akapachanjja Babel sat torrejj utj-jjeti.
 
-Nayax mä herramienta lurañ suyt’askta, ukax aka uraqin jaqinakax kimsa janchini jaqinakjam uñt’ayasiñataki, jan arump chint’asis aruskipt’añataki, ukat taqpach jaqinakar wasitat mayacht’añataki.
+Uraqpachan jakirinakax kimsa janchini jaqinakjam sarnaqapxañapataki, jan arump chint’ata aruskipt’asipxañapataki, ukat taqpach jaqinakax wasitat mayacht’asipxañapataki, ukanak lurañ suyt’askta.
+
+Ukhama, [`3Ti.Site`](//3Ti.Site) .
 
 ## Yatichäwi
 

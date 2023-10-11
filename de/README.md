@@ -24,7 +24,9 @@ Bibel · Genesis :
 >
 > Seitdem dauern die Streitigkeiten an, und es gibt keinen Turm zu Babel auf der Welt.
 
-Ich hoffe, ein Werkzeug zu schaffen, das es den Menschen auf der Erde ermöglicht, wie Drei-Körper-Menschen zu sein, ohne an Sprache gebunden zu sein und die gesamte Menschheit wieder zu vereinen.
+Ich hoffe, Werkzeuge zu schaffen, damit die Menschen auf der Erde wie Drei-Körper-Menschen sein können, kommunizieren können, ohne an die Sprache gebunden zu sein, und die gesamte Menschheit wieder vereint werden kann.
+
+Es gab also [`3Ti.Site`](//3Ti.Site) .
 
 ## Lernprogramm
 

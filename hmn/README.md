@@ -24,7 +24,9 @@ Bible · Chiv Keeb :
 >
 > Txij thaum ntawd los, kev tsis sib haum xeeb tau txuas ntxiv mus, thiab tsis muaj Babel Tower hauv ntiaj teb.
 
-Kuv vam tias yuav tsim ib lub cuab yeej uas yuav pab kom cov neeg hauv ntiaj teb zoo li peb lub cev, sib txuas lus yam tsis muaj kev khi lus, thiab sib sau ua ke tag nrho noob neej dua.
+Kuv vam tias yuav tsim cov cuab yeej kom cov neeg hauv ntiaj teb tuaj yeem ua tau zoo li peb lub cev, sib txuas lus yam tsis muaj kev khi lus, thiab tib neeg txhua tus tuaj yeem koom ua ke dua.
+
+Yog li, muaj [`3Ti.Site`](//3Ti.Site) .
 
 ## Kev Qhia
 

@@ -24,7 +24,9 @@ Bibel · Genesis :
 >
 > Sûnt dy tiid hawwe konflikten oanhâlden, en der is gjin Babel Tower yn 'e wrâld.
 
-Ik hoopje in ark te meitsjen dat de minsken fan 'e ierde mooglik makket om as trije-lichem minsken te wêzen, te kommunisearjen sûnder bûn te wurden troch taal, en it hiele minskdom wer te ferienigjen.
+Ik hoopje ark te meitsjen sadat de minsken fan 'e ierde as trije-lichem minsken kinne wêze, kommunisearje sûnder bûn te wurden troch taal, en it heule minskdom wer ferienige wurde kin.
+
+Dat, d&#39;r wie [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

@@ -24,7 +24,9 @@ Bible · Genesis :
 >
 > Chumi hnuah chuan inhnialna a la awm chhunzawm zel a, khawvelah Babel Tower a awm tawh lo.
 
-Leilung mipuite hi taksa pathum nei ang maia awm thei tur, tawngkam phuar lova inbiakpawhna nei thei tur leh mihring zawng zawng inpumkhatna tur hmanrua siam ka beisei.
+Leilung mihringte hi taksa pathum nei ang an nih theih nan, tawngkam phuar lova inbiakpawhna an neih theih nan leh mihring zawng zawng kan inpumkhat leh theih nan hmanrua siam ka beisei.
+
+Chuvangin, [`3Ti.Site`](//3Ti.Site) a awm ta a ni.
 
 ## Tutorial A Ni
 

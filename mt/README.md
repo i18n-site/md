@@ -24,7 +24,9 @@ Bibbja · Ġenesi :
 >
 > Minn dakinhar, it-​tilwim komplew, u m’hemm l-​ebda Torri taʼ Babel fid-​dinja.
 
-Nittama li noħloq għodda li tippermetti lin-nies tad-dinja jkunu bħal nies bi tliet iġsma, jikkomunikaw mingħajr ma jkunu marbuta bil-lingwa, u jerġgħu jgħaqqdu l-umanità kollha.
+Nittama li noħloq għodda biex in-nies tad-dinja jkunu bħal nies bi tliet iġsma, jikkomunikaw mingħajr ma jkunu marbutin bil-lingwa, u l-bnedmin kollha jkunu jistgħu jerġgħu jingħaqdu.
+
+Allura, kien hemm [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorja
 

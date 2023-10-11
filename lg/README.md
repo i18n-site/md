@@ -24,7 +24,9 @@ Baibuli · Olubereberye :
 >
 > Okuva olwo, enkaayana zaagenda mu maaso, era tewali Munaala gwa Babel mu nsi yonna.
 
-Nsuubira okutondawo ekintu ekinasobozesa abantu b’ensi okubeera ng’abantu ab’emibiri esatu, okuwuliziganya nga tebasibiddwa lulimi, n’okuddamu okugatta abantu bonna.
+Nsuubira okutondawo ebikozesebwa abantu b’ensi basobole okubeera ng’abantu ab’emibiri esatu, okuwuliziganya nga tebasibiddwa lulimi, era abantu bonna basobole okuddamu okwegatta.
+
+Kale, waaliwo [`3Ti.Site`](//3Ti.Site) .
 
 ## Okuyigiriza
 

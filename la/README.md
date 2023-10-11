@@ -24,7 +24,9 @@ Bible :
 >
 > Cum igitur lites permanserunt, et Turris Babel nulla est in mundo.
 
-Instrumentum spero efficere ut homines terrae quasi tres homines efficere possint, quin lingua ligata communicent et omnes homines iterum uniant.
+Instrumenta creare spero ut homines terrae tamquam tres homines possint communicare sine lingua ligatus, et omnes homines denuo coniungi possunt.
+
+Erat igitur [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

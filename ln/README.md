@@ -24,7 +24,9 @@ Biblia · Ebandeli :
 >
 > Banda wana, matata mazali kokoba, mpe Linɔ́ngi ya Babele ezali te na mokili.
 
-Nazali na elikya ya kokela esaleli oyo ekopesa bato ya mabele likoki ya kozala lokola bato ya nzoto misato, kosolola kozanga kokangama na monoko, mpe kosangisa lisusu bato banso.
+Nazali na elikya ya kokela bisaleli mpo ete bato ya mabele bakoka kozala lokola bato ya nzoto misato, kosolola kozanga kokangama na monoko, mpe bato banso bakoka kosangana lisusu.
+
+Na yango, ezalaki na [`3Ti.Site`](//3Ti.Site) .
 
 ## Mateya Ya Koyekola
 

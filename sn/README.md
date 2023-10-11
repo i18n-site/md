@@ -24,7 +24,9 @@ Bhaibheri · Genesisi :
 >
 > Kubva ipapo, kukakavadzana kwakaenderera mberi, uye hapana Babel Tower munyika.
 
-Ndinotarisira kugadzira chishandiso chichaita kuti vanhu vari panyika vave sevanhu vane miviri mitatu, vataure vasingabatanidzwi nomutauro, uye vabatanezve vanhu vose.
+Ndinotarisira kugadzira maturusi kuitira kuti vanhu vepanyika vave sevanhu vane miviri mitatu, vachikurukurirana vasingabatanidzwi nomutauro, uye vanhu vose vabatane zvakare.
+
+Saka, pakanga paine [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

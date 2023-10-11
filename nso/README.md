@@ -24,7 +24,9 @@ Beibele · Genesi :
 >
 > Ga e sa le go tloga ka nako yeo, dingangišano di ile tša tšwela pele, gomme ga go na Tora ya Babele lefaseng.
 
-Ke holofela go hlama sedirišwa seo se tlago kgontšha batho ba lefase go swana le batho ba mebele ye meraro, go boledišana ntle le go tlemiwa ke polelo, le go kopanya batho ka moka gape.
+Ke holofela go hlama didirišwa gore batho ba lefase ba kgone go swana le batho ba mebele ye meraro, ba boledišana ntle le go tlemiwa ke polelo, gomme batho ka moka ba kgone go kopana gape.
+
+Ka fao, go be go na le [`3Ti.Site`](//3Ti.Site) .
 
 ## Thuto Ya Thuto
 

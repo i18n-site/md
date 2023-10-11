@@ -24,7 +24,9 @@ Bibele · Genese :
 >
 > Ho tloha ka nako eo, likhohlano li ’nile tsa tsoela pele, ’me ha ho na Tora ea Babele lefatšeng.
 
-Ke tšepa hore ke tla etsa kofuto e tla nolofalletsa batho ba lefatše ho tšoana le batho ba nang le ’mele e meraro, ba buisane ba sa tlangoe ke puo, ’me ba boele ba momahane batho bohle.
+Ke tšepa hore ke tla etsa lithulusi e le hore batho ba lefatše ba ka tšoana le batho ba nang le ’mele e meraro, ba buisana ba sa tlanngoe ke puo, ’me moloko oohle oa batho o ka boela oa momahana.
+
+Kahoo, ho ne ho e-na le [`3Ti.Site`](//3Ti.Site) .
 
 ## Thuto
 

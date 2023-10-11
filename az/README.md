@@ -24,7 +24,9 @@ Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Ti` ) el
 >
 > O vaxtdan bəri mübahisələr davam edir və dünyada Babil qülləsi yoxdur.
 
-Ümid edirəm ki, yer kürəsinin insanları üç bədənli insanlar kimi olmağa, dilə bağlı olmadan ünsiyyət qurmağa və bütün bəşəriyyəti yenidən birləşdirməyə imkan verəcək bir vasitə yaradacam.
+Ümid edirəm elə alətlər yaradacam ki, yer kürəsinin insanları üç bədənli insanlar kimi olsun, dilə bağlı olmadan ünsiyyət qursun və bütün bəşəriyyət yenidən birləşsin.
+
+Beləliklə, [`3Ti.Site`](//3Ti.Site) var idi.
 
 ## Dərslik
 

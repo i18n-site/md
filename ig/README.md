@@ -24,7 +24,9 @@ Bible · Jenesis :
 >
 > Kemgbe ahụ, esemokwu na-aga n'ihu, ọ dịghịkwa Ụlọ Elu Bebel n'ụwa.
 
-Enwere m olileanya ịmepụta ngwá ọrụ nke ga-eme ka ndị bi n'ụwa dị ka mmadụ atọ, na-ekwurịta okwu n'ejighị asụsụ, ma mee ka ihe nile a kpọrọ mmadụ dịrị n'otu ọzọ.
+Enwere m olileanya ịmepụta ngwá ọrụ ka ndị ụwa wee dị ka mmadụ atọ, na-ekwurịta okwu n'ejighị asụsụ, na ụmụ mmadụ niile wee nwee ike ịdị n'otu ọzọ.
+
+Ya mere, e nwere [`3Ti.Site`](//3Ti.Site) .
 
 ## Nkuzi
 

@@ -24,7 +24,9 @@ Bib · Jenèz :
 >
 > Depi lè sa a, diskisyon yo kontinye, e pa gen okenn Tour Babel nan mond lan.
 
-Mwen espere kreye yon zouti ki pral pèmèt moun ki sou tè a vin tankou moun ki gen twa kò, kominike san yo pa mare nan lang, epi ini tout limanite ankò.
+Mwen espere kreye zouti pou moun ki sou tè a ka tankou moun ki gen twa kò, kominike san yo pa mare nan lang, epi tout limanite ka ini ankò.
+
+Se konsa, te gen [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

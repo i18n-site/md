@@ -24,7 +24,9 @@ Bībele · Genesis :
 >
 > Kopš tā laika strīdi turpinās, un pasaulē nav neviena Bābeles torņa.
 
-Es ceru izveidot rīku, kas ļaus cilvēkiem uz zemes būt kā trīs ķermeņa cilvēkiem, sazināties bez valodas un atkal apvienot visu cilvēci.
+Es ceru izveidot instrumentus, lai cilvēki uz zemes varētu būt kā trīs miesas cilvēki, sazināties bez valodas, un visa cilvēce atkal varētu būt vienota.
+
+Tātad bija [`3Ti.Site`](//3Ti.Site) .
 
 ## Apmācība
 

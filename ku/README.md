@@ -24,7 +24,9 @@ Romana çîroka zanistî &quot;Three-Body&quot; (navdêra Çînî: `3Ti` ) şari
 >
 > Ji hingê ve, nakokî berdewam dikin, û li cîhanê Birca Babîlê tune.
 
-Ez hêvî dikim ku amûrek ku mirovên li ser rûyê erdê bibin wekî mirovên sê-bedenî, bêyî ku bi ziman ve were girêdan bi hev re têkilî daynin û ji nû ve tevahiya mirovahiyê bike yek, biafirînim.
+Ez hêvî dikim ku amûran biafirînim da ku gelên dinyayê bibin wek mirovên sê-bedenî, bêyî ku bi ziman ve bên girêdan bi hev re têkilî daynin û hemû mirovahî dîsa bibin yek.
+
+Ji ber vê yekê, [`3Ti.Site`](//3Ti.Site) hebû.
 
 ## Tutorial
 

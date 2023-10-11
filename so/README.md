@@ -24,7 +24,9 @@ Baybalka · Bilowgii :
 >
 > Tan iyo markaas, khilaafyadu waa sii socdeen, mana jiro Tower Babel adduunka.
 
-Waxa aan rajaynayaa in aan sameeyo qalab u sahla dadka dunida ku nool in ay la mid noqdaan dad saddex jir ah, oo ay ku wada xidhiidhaan iyaga oo aan af ku xidhin, oo haddana mar kale mideeya bani-aadmiga oo dhan.
+Waxa aan rajaynayaa in aan sameeyo qalab, si dadka dunidu ay u noqdaan sida dad saddex jir ah, oo ay ku wada xidhiidhaan iyada oo aan af lagu xidhin, oo dhammaan aadamuhu ay mar kale midoobaan.
+
+Markaa, waxaa jiray [`3Ti.Site`](//3Ti.Site) .
 
 ## Waxbarashada
 

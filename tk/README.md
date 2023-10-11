@@ -24,7 +24,9 @@ Injil · Gelip çykyş :
 >
 > Şondan bäri jedeller dowam etdi we dünýäde Babel diňi ýok.
 
-Earther togalagynyň adamlaryna üç bedenli adamlar ýaly bolmaga, dil bilen baglanyşyksyz gürleşmäge we bütin adamzady täzeden birleşdirmäge mümkinçilik berýän gural döretmäge umyt edýärin.
+Earther togalagynyň adamlary üç bedenli adamlar ýaly bolup, dil bilen baglanyşyksyz aragatnaşyk gurup biler we ähli adamzat ýene birleşip biler ýaly gurallar döretmäge umyt edýärin.
+
+Şeýlelikde, [`3Ti.Site`](//3Ti.Site) bardy.
 
 ## Tutorial
 

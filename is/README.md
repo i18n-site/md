@@ -24,7 +24,9 @@ Biblían · Fyrsta Mósebók :
 >
 > Síðan þá hafa deilur haldið áfram og enginn Babel-turn er til í heiminum.
 
-Ég vonast til að búa til tæki sem gerir jarðarbúum kleift að vera eins og þrír líkama fólk, eiga samskipti án þess að vera bundin af tungumáli og sameina allt mannkynið aftur.
+Ég vonast til að búa til verkfæri þannig að fólk á jörðinni geti verið eins og þriggja líkama fólk, átt samskipti án þess að vera bundið af tungumáli og allt mannkyn geti sameinast aftur.
+
+Svo var [`3Ti.Site`](//3Ti.Site) .
 
 ## Kennsla
 

@@ -24,7 +24,9 @@ Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektroma
 >
 > O tarihten bu yana tartışmalar devam ediyor ve dünyada Babil Kulesi yok.
 
-Dünya insanlarının üç bedenli insanlar gibi olmasını, dile bağlı kalmadan iletişim kurmasını ve tüm insanlığı yeniden birleştirmesini sağlayacak bir araç yaratmayı umuyorum.
+Dünya insanlarının üç bedenli insanlar gibi olabilmesi, dile bağlı kalmadan iletişim kurabilmesi ve tüm insanlığın yeniden birleşebilmesi için araçlar yaratmayı umuyorum.
+
+Yani [`3Ti.Site`](//3Ti.Site) vardı.
 
 ## Öğretici
 

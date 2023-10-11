@@ -24,7 +24,9 @@ Biblia · Geneza :
 >
 > Od tego czasu spory trwają i na świecie nie ma Wieży Babel.
 
-Mam nadzieję stworzyć narzędzie, które umożliwi ludziom na ziemi być jak ludzie w trzech ciałach, komunikować się bez ograniczeń językowych i ponownie zjednoczyć całą ludzkość.
+Mam nadzieję stworzyć narzędzia, dzięki którym ludzie na ziemi będą mogli przypominać ludzi składających się z trzech ciał, porozumiewać się bez ograniczeń językowych, a cała ludzkość będzie mogła ponownie się zjednoczyć.
+
+Tak więc istniała witryna [`3Ti.Site`](//3Ti.Site) .
 
 ## Instruktaż
 

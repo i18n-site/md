@@ -24,7 +24,9 @@ Biblia · Génesis :
 >
 > Chaymantapachan ch’aqwaykunaqa hinalla kashan, manataqmi kay pachapi Babel torreqa kanchu.
 
-Suyachkani huk yanapakuyta paqarichiyta, chaywanmi kay pachapi runakuna kimsa kurkuyuq runakuna hina kanankupaq, rimaywan mana watasqa kaspa rimanakunankupaq, llapa runakunata yapamanta hukllawanankupaq.
+Suyachkani yanapakuykunata paqarichiyta, chaynapi kay pachapi runakuna kimsa kurkuyuq runakuna hina kanankupaq, rimaywan mana watasqa kaspa rimanakunankupaq, llapa runakuna hukmanta hukllawakunankupaq.
+
+Chaymi, karqan [`3Ti.Site`](//3Ti.Site) .
 
 ## Yachachiy
 

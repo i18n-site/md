@@ -24,7 +24,9 @@ Biblija · Postanak :
 >
 > Od tada se sporovi nastavljaju, a na svijetu ne postoji vavilonska kula.
 
-Nadam se da ću stvoriti oruđe koje će omogućiti ljudima na Zemlji da budu kao ljudi sa tri tijela, da komuniciraju bez da budu vezani jezikom i ponovo ujedine cijelo čovječanstvo.
+Nadam se da ću stvoriti alate tako da ljudi na Zemlji mogu biti kao ljudi sa tri tijela, komunicirati bez da budu vezani jezikom, i cijelo čovječanstvo može ponovo biti ujedinjeno.
+
+Dakle, postojao je [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

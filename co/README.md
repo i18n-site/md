@@ -24,7 +24,9 @@ Bibbia · Genesi :
 >
 > Da tandu, i disputi anu cuntinuatu, è ùn ci hè micca Babel Tower in u mondu.
 
-Spergu di creà un strumentu chì permetterà à a ghjente di a terra di esse cum'è e persone di trè corpi, di cumunicà senza esse ligatu da a lingua, è unisce di novu tutta l'umanità.
+Spergu di creà arnesi per chì a ghjente di a terra pò esse cum'è persone di trè corpi, cumunicà senza esse ligatu da a lingua, è tutta l'umanità pò esse unita di novu.
+
+Allora, ci era [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

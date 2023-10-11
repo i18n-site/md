@@ -24,7 +24,9 @@ Bíblia · Gènesi :
 >
 > Des de llavors, les disputes han continuat i no hi ha torre Babel al món.
 
-Espero crear una eina que permeti a la gent de la terra ser com persones de tres cossos, comunicar-se sense estar lligats pel llenguatge i unir de nou a tota la humanitat.
+Espero crear eines perquè la gent de la terra pugui ser com persones de tres cossos, es comuniqui sense estar lligat pel llenguatge i tota la humanitat pugui tornar-se a unir.
+
+Així doncs, hi havia [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

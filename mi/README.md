@@ -24,7 +24,9 @@ Paipera · Genesis :
 >
 > Mai i tera wa, kei te haere tonu nga tautohetohe, karekau he pourewa o Babel i te ao.
 
-Te ti'aturi nei au ki te hanga i tetahi taputapu e taea ai e nga tangata o te whenua te rite ki nga tangata e toru nga tinana, ki te whakawhitiwhiti korero me te kore e herea e te reo, me te whakakotahi ano i nga tangata katoa.
+Te ti'aturi nei au ki te hanga taputapu kia rite ai nga tangata o te whenua ki nga tangata tokotoru-tinana, ki te whakawhitiwhiti korero me te kore e herea e te reo, kia kotahi ano te tangata katoa.
+
+Na, i reira ko [`3Ti.Site`](//3Ti.Site) .
 
 ## Akoranga
 

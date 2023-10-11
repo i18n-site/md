@@ -24,7 +24,9 @@ Bible · Genèse :
 >
 > Depuis, les conflits se sont poursuivis et il n’existe pas de tour Babel au monde.
 
-J'espère créer un outil qui permettra aux habitants de la Terre d'être comme des personnes à trois corps, de communiquer sans être liés par le langage et d'unir à nouveau toute l'humanité.
+J'espère créer des outils pour que les habitants de la Terre puissent être comme des personnes à trois corps, communiquer sans être liés par le langage et que toute l'humanité puisse à nouveau être unie.
+
+Donc, il y avait [`3Ti.Site`](//3Ti.Site) .
 
 ## Didacticiel
 

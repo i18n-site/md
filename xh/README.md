@@ -24,7 +24,9 @@ IBhayibhile · Genesis :
 >
 > Ukusukela ngoko, iingxabano ziye zaqhubeka, kwaye akukho Nqaba yaseBhabheli emhlabeni.
 
-Ndinethemba lokudala isixhobo esiya kwenza ukuba abantu bomhlaba babe njengabantu abanemizimba emithathu, banxibelelane ngaphandle kokubotshwa lulwimi, baze baphinde bamanyanise lonke uluntu.
+Ndinethemba lokudala izixhobo eziya kwenza abantu bomhlaba babe njengabantu abanemizimba emithathu, banxibelelane ngaphandle kokubotshwa lulwimi, yaye lonke uluntu lunokuphinda lumanyane.
+
+Ke, bekukho [`3Ti.Site`](//3Ti.Site) .
 
 ## Isifundo
 

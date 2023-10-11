@@ -24,7 +24,9 @@ Bybel · Genesis :
 >
 > Sedertdien het geskille voortgeduur, en daar is geen Babel-toring in die wêreld nie.
 
-Ek hoop om 'n instrument te skep wat die mense van die aarde in staat sal stel om soos drie-liggaam mense te wees, te kommunikeer sonder om deur taal gebonde te wees, en die hele mensdom weer te verenig.
+Ek hoop om gereedskap te skep sodat die mense van die aarde soos drie-liggaam mense kan wees, kan kommunikeer sonder om deur taal gebonde te wees, en die hele mensdom weer verenig kan word.
+
+So, daar was [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutoriaal
 

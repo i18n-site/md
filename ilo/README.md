@@ -24,7 +24,9 @@ Biblia · Genesis :
 >
 > Sipud idin, nagtultuloy dagiti riri, ket awanen ti Babel Tower iti lubong.
 
-Mangnamnamaak a mangparnuay iti ramit a mangpabalin kadagiti tattao ditoy daga nga agbalin a kas iti tallo ti bagina a tattao, makikomunikar a dida magalut iti pagsasao, ken mamagkaykaysa manen iti amin a sangatauan.
+Namnamaek a mangparnuay kadagiti ramit tapno dagiti tattao ditoy daga ket kasla tallo ti bagina a tattao, makikomunikar a dida magalut iti pagsasao, ken agkaykaysa manen ti amin a sangatauan.
+
+Gapuna, adda [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

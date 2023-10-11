@@ -24,7 +24,9 @@ Bibeli · Genesisi :
 >
 > Lati igba naa, awọn ariyanjiyan ti tẹsiwaju, ko si si Ile-iṣọ Babel ni agbaye.
 
-Mo nírètí láti ṣe ohun èlò kan tí yóò jẹ́ kí àwọn ènìyàn ilẹ̀ ayé dà bí ènìyàn mẹ́ta, kí wọ́n máa bára wọn sọ̀rọ̀ láìsí èdè-àdéhùn, kí wọ́n sì tún mú kí gbogbo aráyé wà ní ìṣọ̀kan.
+Mo nireti lati ṣẹda awọn irinṣẹ ki awọn eniyan aye ba le dabi eniyan ti o ni ara mẹta, ki wọn sọrọ laisi ede, ati pe gbogbo eniyan le tun wa ni isokan.
+
+Nitorina, [`3Ti.Site`](//3Ti.Site) wa.
 
 ## Ikẹkọ
 

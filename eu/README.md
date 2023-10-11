@@ -24,7 +24,9 @@ Biblia · Genesis :
 >
 > Harrezkero, liskarrek jarraitu dute, eta munduan ez dago Babel Dorrerik.
 
-Espero dut lurreko jendea hiru gorputzeko pertsonak bezalakoa izatea, hizkuntzari lotu gabe komunikatzea eta gizadi osoa berriro batzea ahalbidetuko duen tresna sortzea.
+Tresnak sortzea espero dut, lurreko jendea hiru gorputzeko pertsonak bezalakoa izan dadin, hizkuntzari lotu gabe komunikatu eta gizadi osoa berriro bat egin dadin.
+
+Beraz, [`3Ti.Site`](//3Ti.Site) zegoen.
 
 ## Tutoretza
 

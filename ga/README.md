@@ -24,7 +24,9 @@ Bíobla · Geineasas :
 >
 > Ó shin i leith, tá díospóidí ag leanúint ar aghaidh, agus níl aon Túr Babel ar domhan.
 
-Tá súil agam uirlis a chruthú a chuirfidh ar chumas mhuintir an domhain a bheith cosúil le daoine trí chorp, cumarsáid a dhéanamh gan a bheith faoi cheangal teanga, agus an cine daonna go léir a aontú arís.
+Tá súil agam uirlisí a chruthú ionas gur féidir le muintir an domhain a bheith cosúil le daoine trí chorp, cumarsáid a dhéanamh gan a bheith faoi cheangal ag teanga, agus an cine daonna go léir a bheith aontaithe arís.
+
+Mar sin, bhí [`3Ti.Site`](//3Ti.Site) .
 
 ## Teagaisc
 

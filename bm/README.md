@@ -24,7 +24,9 @@ Bibulu · Jenɛse :
 >
 > Kabini o waati, sɔsɔliw tora senna, wa Babɛl sankanso tɛ diɲɛ kɔnɔ.
 
-N jigi b’a kan ka baarakɛminɛn dɔ da min bɛna kɛ sababu ye dugukolo mɔgɔw ka kɛ i n’a fɔ farikolo saba, ka kumaɲɔgɔnya kɛ k’a sɔrɔ u ma siri kan na, ka hadamaden bɛɛ fara ɲɔgɔn kan kokura.
+N jigi b’a kan ka baarakɛminɛnw da walasa dugukolo mɔgɔw ka se ka kɛ i n’a fɔ farikolo saba, ka kumaɲɔgɔnya kɛ k’a sɔrɔ kan ma siri, hadamaden bɛɛ ka se ka fara ɲɔgɔn kan kokura.
+
+O la, [`3Ti.Site`](//3Ti.Site) tun bɛ yen .
 
 ## Kalansen
 

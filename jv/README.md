@@ -24,7 +24,9 @@ Kitab Suci · Purwaning Dumadi :
 >
 > Wiwit kuwi, perselisihan terus, lan ora ana Menara Babel ing donya.
 
-Mugi-mugi saged nyipta piranti ingkang saged ndadosaken warga bumi dados kados tiyang tiga, sesambungan tanpa kaiket basa, lan manunggalaken sedaya manungsa malih.
+Mugi-mugi saged nyipta piranti supados manungsa bumi saged kados tiyang tiga, sesambungan tanpa kaiket basa, saha sedaya manungsa saged manunggal malih.
+
+Dadi, ana [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

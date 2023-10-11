@@ -24,7 +24,9 @@ Biblia · Xénese :
 >
 > Desde entón, as disputas continuaron e non hai Torre Babel no mundo.
 
-Espero crear unha ferramenta que permita aos pobos da terra ser como persoas de tres corpos, comunicarse sen estar ligados pola linguaxe e unir de novo a toda a humanidade.
+Espero crear ferramentas para que os pobos da terra poidan ser como persoas de tres corpos, comunicarse sen estar ligados pola linguaxe e toda a humanidade poida estar unida de novo.
+
+Entón, houbo [`3Ti.Site`](//3Ti.Site) .
 
 ## Titoría
 

@@ -24,7 +24,9 @@ Bibla · Zanafilla :
 >
 > Që atëherë, mosmarrëveshjet kanë vazhduar dhe nuk ka Kullë Babel në botë.
 
-Shpresoj të krijoj një mjet që do t'u mundësojë njerëzve të tokës të jenë si njerëz me tre trupa, të komunikojnë pa u lidhur nga gjuha dhe të bashkojë përsëri gjithë njerëzimin.
+Shpresoj të krijoj mjete që njerëzit e tokës të mund të jenë si njerëz me tre trupa, të komunikojnë pa u lidhur nga gjuha dhe i gjithë njerëzimi të mund të bashkohet përsëri.
+
+Pra, ishte [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

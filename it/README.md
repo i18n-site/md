@@ -24,7 +24,9 @@ Bibbia · Genesi :
 >
 > Da allora le controversie sono continuate e non esiste alcuna Torre di Babele al mondo.
 
-Spero di creare uno strumento che consentirà alle persone della terra di essere come persone a tre corpi, comunicare senza essere vincolati dal linguaggio e unire nuovamente tutta l'umanità.
+Spero di creare strumenti in modo che le persone della terra possano essere come persone a tre corpi, comunicare senza essere vincolate dal linguaggio e tutta l’umanità possa essere nuovamente unita.
+
+Quindi c&#39;era [`3Ti.Site`](//3Ti.Site) .
 
 ## Esercitazione
 

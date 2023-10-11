@@ -24,7 +24,9 @@ Injil · Ibtido :
 >
 > O'shandan beri tortishuvlar davom etmoqda va dunyoda Bobil minorasi yo'q.
 
-Umid qilamanki, yer yuzidagi odamlar uch tanali odamlarga o‘xshab, tilga bog‘lanmagan holda muloqot qilish va butun insoniyatni yana birlashtirish imkonini beradigan vosita yarataman.
+Umid qilamanki, yer yuzidagi odamlar uch tanali odamlarga o'xshab, til bilan bog'lanmasdan muloqot qilishlari va butun insoniyat yana birlashishi uchun asboblar yaratishga umid qilaman.
+
+Shunday qilib, [`3Ti.Site`](//3Ti.Site) bor edi.
 
 ## Oʻquv Qoʻllanma
 

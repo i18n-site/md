@@ -24,7 +24,9 @@ Bibliya · Genesis :
 >
 > Mula noon, nagpatuloy ang mga pagtatalo, at walang Babel Tower sa mundo.
 
-Umaasa akong lumikha ng isang kasangkapan na magbibigay-daan sa mga tao sa mundo na maging tulad ng tatlong-katawan na mga tao, makipag-usap nang hindi nakagapos sa wika, at muling magkaisa ang buong sangkatauhan.
+Umaasa akong lumikha ng mga kasangkapan upang ang mga tao sa daigdig ay maging tulad ng mga taong may tatlong katawan, makipag-usap nang hindi nakagapos sa wika, at ang buong sangkatauhan ay muling magkaisa.
+
+Kaya, mayroong [`3Ti.Site`](//3Ti.Site) .
 
 ## Pagtuturo
 

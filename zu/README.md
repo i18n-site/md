@@ -24,7 +24,9 @@ IBhayibheli · Genesise :
 >
 > Kusukela lapho, izingxabano ziye zaqhubeka, futhi awukho umbhoshongo weBabel emhlabeni.
 
-Ngethemba ukuthi ngizokwenza ithuluzi elizokwenza abantu basemhlabeni babe njengabantu abanemizimba emithathu, baxhumane ngaphandle kokuboshwa ngolimi, futhi baphinde bahlanganise sonke isintu.
+Ngithemba ukwenza amathuluzi ukuze abantu basemhlabeni babe njengabantu abanemizimba emithathu, baxhumane ngaphandle kokuboshwa ngolimi, futhi sonke isintu siphinde sihlangane.
+
+Ngakho, kwakukhona [`3Ti.Site`](//3Ti.Site) .
 
 ## Okokufundisa
 

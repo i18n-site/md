@@ -24,7 +24,9 @@ Macaafa Qulqulluu · Seera Uumamaa :
 >
 > Ergasii as falmiin itti fufee jira, addunyaa kanarras Masaraan Baabel hin jiru.
 
-Meeshaa ummanni lafaa akka namoota qaama sadii ta’ee, afaaniin osoo hin hidhamin akka walqunnamsiisu, deebi’ee dhala namaa hunda tokkoomsu uumuuf abdiin qaba.
+Ummanni lafaa akka namoota qaama sadii ta’anii, afaaniin osoo hin hidhamin akka walqunnaman, ilmi namaa hundi deebi’ee akka tokko ta’uuf meeshaalee uumuun abdiin qaba.
+
+Kanaafuu, [`3Ti.Site`](//3Ti.Site) jedhamu ture.
 
 ## Barnoota
 

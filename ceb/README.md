@@ -24,7 +24,9 @@ Bibliya · Genesis :
 >
 > Sukad niadto, nagpadayon ang mga panaglalis, ug wala nay Babel Tower sa kalibotan.
 
-Nanghinaut ko nga makahimo og himan nga makapahimo sa mga tawo sa yuta nga mahisama sa tulo-ka-lawas nga mga tawo, makig-istorya nga dili gapuson sa pinulongan, ug maghiusa pag-usab sa tanang katawhan.
+Nanghinaut ko nga makahimo og mga himan aron ang mga tawo sa yuta mahisama sa tulo-ka-lawas nga mga tawo, makigkomunikar nga dili mabugkos sa pinulongan, ug ang tanang katawhan mahiusa pag-usab.
+
+Busa, dihay [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

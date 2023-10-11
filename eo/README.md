@@ -24,7 +24,9 @@ Biblio · Genezo :
 >
 > Ekde tiam, disputoj daŭris, kaj ne ekzistas Babela Turo en la mondo.
 
-Mi esperas krei ilon, kiu ebligos al la homoj de la tero esti kiel trikorpaj homoj, komuniki sen esti ligita per lingvo, kaj unuigi denove la tutan homaron.
+Mi esperas krei ilojn, por ke la homoj de la tero estu kiel trikorpaj homoj, komunikiĝu sen ligado de lingvo, kaj la tuta homaro denove kuniĝu.
+
+Do, ekzistis [`3Ti.Site`](//3Ti.Site) .
 
 ## Lernilo
 

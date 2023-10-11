@@ -24,7 +24,9 @@ Bibelen · Første Mosebog :
 >
 > Siden da er stridigheder fortsat, og der er ikke noget Babeltårn i verden.
 
-Jeg håber at skabe et værktøj, der vil gøre det muligt for jordens mennesker at være som tre-kroppe mennesker, kommunikere uden at være bundet af sprog og forene hele menneskeheden igen.
+Jeg håber at skabe værktøjer, så jordens mennesker kan være som tre-kropsmennesker, kommunikere uden at være bundet af sproget, og hele menneskeheden kan blive forenet igen.
+
+Så der var [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

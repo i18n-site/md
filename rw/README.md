@@ -24,7 +24,9 @@ Bibiliya · Itangiriro :
 >
 > Kuva icyo gihe, amakimbirane yarakomeje, kandi nta Munara wa Babel uri ku isi.
 
-Nizeye gukora igikoresho kizafasha abatuye isi kumera nkabantu batatu, kuvugana nta guhambirwa nururimi, no kongera guhuza abantu bose.
+Nizeye gukora ibikoresho kugirango abatuye isi bashobore kumera nkabantu batatu, bavugane batagengwa nururimi, kandi abantu bose bashobora kongera guhuzwa.
+
+Noneho, hari [`3Ti.Site`](//3Ti.Site) .
 
 ## Inyigisho
 

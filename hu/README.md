@@ -24,7 +24,9 @@ Biblia · Genezis :
 >
 > Azóta folytatódnak a viták, és a világon nincs Bábel-torony.
 
-Remélem, hogy létrehozok egy olyan eszközt, amely lehetővé teszi a földi emberek számára, hogy olyanok legyenek, mint a háromtestű emberek, kommunikáljanak anélkül, hogy a nyelvhez kötnék őket, és újra egyesítsék az egész emberiséget.
+Remélem, sikerül olyan eszközöket létrehozni, amelyek segítségével a földi emberek olyanok lehetnek, mint a háromtestűek, kommunikálhatnak anélkül, hogy a nyelv megkötözné őket, és az egész emberiség újra egyesülhet.
+
+Tehát ott volt [`3Ti.Site`](//3Ti.Site) .
 
 ## Oktatóanyag
 

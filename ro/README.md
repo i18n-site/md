@@ -24,7 +24,9 @@ Biblia · Geneza :
 >
 > De atunci, disputele au continuat și nu există Turnul Babel în lume.
 
-Sper să creez un instrument care să le permită oamenilor de pe pământ să fie ca oameni cu trei corpuri, să comunice fără a fi legați de limbaj și să unească din nou întreaga omenire.
+Sper să creez instrumente astfel încât oamenii pământului să poată fi ca oameni cu trei corpuri, să comunice fără a fi legați de limbă și toată omenirea să poată fi unită din nou.
+
+Deci, a existat [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

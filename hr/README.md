@@ -24,7 +24,9 @@ Biblija · Postanak :
 >
 > Od tada se sporovi nastavljaju, a na svijetu nema Babilonske kule.
 
-Nadam se da ću stvoriti alat koji će omogućiti ljudima na Zemlji da budu poput ljudi s tri tijela, da komuniciraju bez vezanosti jezikom i ponovno ujedine cijelo čovječanstvo.
+Nadam se da ću stvoriti alate kako bi ljudi na Zemlji mogli biti poput ljudi s tri tijela, komunicirati bez vezanosti jezikom i kako bi se cijelo čovječanstvo moglo ponovno ujediniti.
+
+Dakle, postojao je [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

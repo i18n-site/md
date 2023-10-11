@@ -24,7 +24,9 @@ Bible · Genesis :
 >
 > Efi saa bere no, akasakasa akɔ so, na Babel Abantenten biara nni wiase.
 
-Mewɔ anidaso sɛ mɛbɔ adwinnade bi a ɛbɛma asase so nnipa atumi ayɛ sɛ nnipa a wɔwɔ nipadua abiɛsa, adi nkitaho a kasa nkyekyere wɔn, na ɛka adesamma nyinaa abom bio.
+Mewɔ anidaso sɛ mɛbɔ nnwinnade sɛnea ɛbɛyɛ a asase so nnipa betumi ayɛ sɛ nnipa a wɔwɔ nipadua abiɛsa, adi nkitaho a kasa nkyekyere wɔn, na adesamma nyinaa atumi ayɛ biako bio.
+
+Enti, na [`3Ti.Site`](//3Ti.Site) wɔ hɔ.
 
 ## Nkyerɛkyerɛmu
 

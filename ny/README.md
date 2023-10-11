@@ -24,7 +24,9 @@ Baibulo · Genesis :
 >
 > Kuyambira pamenepo, mikangano yapitilira, ndipo kulibe Babele Tower padziko lapansi.
 
-Ndikuyembekeza kupanga chida chimene chidzathandiza anthu padziko lapansi kukhala ngati anthu atatu, kulankhulana popanda kumangidwa ndi chinenero, ndi kugwirizanitsanso anthu onse.
+Ndikuyembekeza kupanga zida kuti anthu padziko lapansi akhale ngati anthu atatu, kulankhulana popanda kumangidwa ndi chinenero, ndipo anthu onse adzagwirizananso.
+
+Kotero, panali [`3Ti.Site`](//3Ti.Site) .
 
 ## Maphunziro
 

@@ -24,7 +24,9 @@ Biblia · Mose ƒe Agbalẽ Gbãtɔ :
 >
 > Tso ɣemaɣi la, nyaʋiʋliwo yi edzi, eye Babel Mɔ̃ kɔkɔ aɖeke mele xexeame o.
 
-Mele mɔ kpɔm be mawɔ dɔwɔnu aɖe si ana anyigba dzi tɔwo nanɔ abe ŋutilã etɔ̃ ƒe ame ene, aɖo dze evɔ gbegbɔgblɔ mabla wo o, eye wòagawɔ ameƒomea katã ɖekae ake.
+Mele mɔ kpɔm be mawɔ dɔwɔnuwo ale be anyigbadzitɔwo nate ŋu anɔ abe ame siwo ƒe ŋutilã etɔ̃ le ene, woaɖo dze evɔ gbegbɔgblɔ mabla wo o, eye ameƒomea katã nagate ŋu awɔ ɖeka ake.
+
+Eyata, [`3Ti.Site`](//3Ti.Site) nɔ anyi.
 
 ## Nufiame
 

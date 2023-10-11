@@ -24,7 +24,9 @@ Bibele · Genesa :
 >
 > Ku sukela kwalaho, timholovo ti ye emahlweni, naswona a ku na Xihondzo xa Babele emisaveni.
 
-Ndzi tshemba ku tumbuluxa xitirho lexi nga ta endla leswaku vanhu va misava va fana na vanhu va mimiri yinharhu, va vulavurisana handle ko bohiwa hi ririmi, va tlhela va hlanganisa vanhu hinkwavo.
+Ndzi tshemba ku tumbuluxa switirhisiwa leswaku vanhu va misava va ta fana na vanhu va mimiri yinharhu, va vulavurisana handle ko bohiwa hi ririmi, kutani vanhu hinkwavo va tlhela va hlangana.
+
+Kutani, a ku ri na [`3Ti.Site`](//3Ti.Site) .
 
 ## Dyondzo
 

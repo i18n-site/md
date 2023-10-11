@@ -24,7 +24,9 @@ Tusi Paia · Kenese :
 >
 > Talu mai lenā taimi, ua faaauau pea feeseeseaʻiga, ma ua leai se Olo o Papelu i le lalolagi.
 
-Ou te faamoemoe e fatuina se meafaigaluega e mafai ai e tagata o le lalolagi ona avea e pei o ni tagata tino-tolu, fesootai e aunoa ma le noatia i gagana, ma toe tuufaatasia tagata uma.
+Ou te faamoemoe e fatu ni meafaigaluega ina ia mafai ai e tagata o le lalolagi ona avea e pei o ni tagata tino-tolu, fesootai e aunoa ma le noatia i le gagana, ma mafai ai ona toe tuufaatasia tagata uma.
+
+O lea, sa iai [`3Ti.Site`](//3Ti.Site) .
 
 ## A'oa'oga
 

@@ -24,7 +24,9 @@ Littafi Mai Tsarki · Farawa :
 >
 > Tun daga wannan lokacin, jayayya ta ci gaba, kuma babu Hasumiyar Babel a duniya.
 
-Ina fata in ƙirƙiro wani kayan aiki da zai sa mutanen duniya su zama kamar mutane uku, su sadarwa ba tare da ɗaure su da harshe ba, da kuma sake haɗa dukan ’yan Adam.
+Ina fata in ƙirƙira kayan aiki domin mutanen duniya su zama kamar mutane uku, su yi magana ba tare da an ɗaure su da harshe ba, kuma dukan ’yan Adam su kasance da haɗin kai kuma.
+
+Don haka, akwai [`3Ti.Site`](//3Ti.Site) .
 
 ## Koyarwa
 

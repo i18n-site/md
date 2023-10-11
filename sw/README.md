@@ -24,7 +24,9 @@ Biblia · Mwanzo :
 >
 > Tangu wakati huo, mizozo imeendelea, na hakuna Mnara wa Babeli ulimwenguni.
 
-Ninatumaini kuunda chombo ambacho kitawawezesha watu wa dunia kuwa kama watu wenye miili mitatu, kuwasiliana bila kufungwa na lugha, na kuwaunganisha wanadamu wote tena.
+Ninatumaini kuunda zana ili watu wa dunia wawe kama watu wenye miili mitatu, kuwasiliana bila kufungwa na lugha, na wanadamu wote waweze kuunganishwa tena.
+
+Kwa hiyo, kulikuwa na [`3Ti.Site`](//3Ti.Site) .
 
 ## Mafunzo
 

@@ -24,7 +24,9 @@ Baiboly · Genesisy :
 >
 > Nanomboka teo, dia nitohy ny fifandirana, ary tsy nisy Tilikambo Babela teto an-tany.
 
-Manantena aho fa hamorona fitaovana iray izay hahatonga ny mponina eto an-tany ho tahaka ny olona telo, hifandray tsy ho voafatotry ny fiteny, ary hampiray indray ny olombelona rehetra.
+Manantena ny hamorona fitaovana aho mba hahatonga ny mponina eto an-tany ho toy ny olona telo, mifampiresaka tsy voafatotry ny fiteny, ary afaka miray hina indray ny olombelona rehetra.
+
+Noho izany, nisy [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

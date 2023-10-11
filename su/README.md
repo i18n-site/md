@@ -24,7 +24,9 @@ Alkitab · Kajadian :
 >
 > Ti saprak éta, sengketa terus-terusan, sareng teu aya Menara Babel di dunya.
 
-Mugi-mugi tiasa nyiptakeun alat anu tiasa ngajantenkeun jalma-jalma di bumi janten sapertos jalma tilu awak, komunikasi tanpa kabeungkeut ku basa, sareng ngahijikeun deui sakumna umat manusa.
+Mugi-mugi tiasa diciptakeun parabot supados urang bumi tiasa sapertos jalma tilu raga, komunikasi tanpa kaiket ku basa, sareng sadaya umat manusa tiasa ngahiji deui.
+
+Janten, aya [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

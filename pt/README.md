@@ -24,7 +24,9 @@ Bíblia · Gênesis :
 >
 > Desde então, as disputas continuaram e não existe Torre de Babel no mundo.
 
-Espero criar uma ferramenta que permita que as pessoas da Terra sejam como pessoas de três corpos, comuniquem-se sem estarem limitadas pela linguagem e unam novamente toda a humanidade.
+Espero criar ferramentas para que as pessoas da terra possam ser como pessoas de três corpos, comunicarem-se sem estarem limitadas pela linguagem, e toda a humanidade possa voltar a unir-se.
+
+Então, havia [`3Ti.Site`](//3Ti.Site) .
 
 ## Tutorial
 

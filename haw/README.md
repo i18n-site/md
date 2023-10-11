@@ -24,7 +24,9 @@ Baibala · Genesis :
 >
 > Mai ia manawa mai, ua hoʻomau ka hoʻopaʻapaʻa, ʻaʻohe hale kiaʻi Babel ma ka honua.
 
-Manaʻo wau e hana i kahi mea hana e hiki ai i nā poʻe o ka honua ke like me nā poʻe kino ʻekolu, e kamaʻilio me ka hoʻopaʻa ʻole ʻia e ka ʻōlelo, a e hui hou i nā kānaka a pau.
+Manaʻo wau e hana i nā mea hana i hiki ai i nā poʻe o ka honua ke like me nā poʻe kino ʻekolu, e kamaʻilio me ka hoʻopaʻa ʻole ʻia e ka ʻōlelo, a hiki i nā kānaka a pau ke hui hou.
+
+No laila, aia [`3Ti.Site`](//3Ti.Site) .
 
 ## Aʻoaʻo
 
