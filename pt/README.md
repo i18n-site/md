@@ -10,7 +10,7 @@ Gostaria de dizer que **apenas sites que geram traduções estáticas podem ofer
 
 ## Introdução
 
-O romance de ficção científica &quot;Três Corpos&quot; (pronúncia chinesa: `3Ti` ) ficcionaliza uma civilização alienígena que usa ondas eletromagnéticas para se comunicar, com pensamento transparente e ciência e tecnologia prósperas.
+O romance de ficção científica &quot;Três Corpos&quot; (pronúncia chinesa: `3Tǐ` ) ficcionaliza uma civilização alienígena que usa ondas eletromagnéticas para se comunicar, com pensamento transparente e tecnologia próspera.
 
 Bíblia · Gênesis :
 

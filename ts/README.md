@@ -10,7 +10,7 @@ Ndzi lava ku vula leswaku **i tiwebsite ntsena leti humesaka vuhundzuluxeri leby
 
 ## Manghenelo
 
-Novhele ya sayense ya ntsheketo ya &quot;Three-Body&quot; (Mavitanelo ya Xichayina: `3Ti` ) yi endla nhluvuko wa vahlapfa lowu tirhisaka magandlati ya gezi ku vulavurisana, hi ku ehleketa loku nga erivaleni na sayense na thekinoloji leyi humelelaka.
+Novhele ya sayense ya ntsheketo &quot;Three Body&quot; (Mavitanelo ya Xichayina: `3Tǐ` ) yi endla nhluvuko wa ntsheketo wa vahlapfa lowu tirhisaka magandlati ya gezi ku vulavurisana, hi ku ehleketa loku nga erivaleni na thekinoloji leyi humelelaka.
 
 Bibele · Genesa :
 

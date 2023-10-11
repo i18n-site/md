@@ -10,7 +10,7 @@ Saya ingin mengatakan bahawa **hanya tapak web yang menjana terjemahan statik bo
 
 ## Pengenalan
 
-Novel fiksyen sains &quot;Three-Body&quot; (sebutan bahasa Cina: `3Ti` ) mengisahkan tamadun asing yang menggunakan gelombang elektromagnet untuk berkomunikasi, dengan pemikiran yang telus serta sains dan teknologi yang makmur.
+Novel fiksyen sains &quot;Three Body&quot; (sebutan bahasa Cina: `3Tǐ` ) mengisahkan tamadun asing yang menggunakan gelombang elektromagnet untuk berkomunikasi, dengan pemikiran yang telus dan teknologi yang makmur.
 
 Alkitab · Kejadian :
 

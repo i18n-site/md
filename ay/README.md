@@ -10,7 +10,7 @@ Nayax sañ muntwa **, sitios web ukanakakiw jaqukipäwinak estáticos uñstayapx
 
 ## Qallta
 
-Novela de ciencia ficción &quot;Kimsa cuerpo&quot; (chino aruchja: `3Ti` ) ukax mä civilización extranjera ukar uñt&#39;ayi, ukax ondas electromagnéticas ukanakamp aruskipt&#39;añatakiw apnaqasi, qhana amuyt&#39;awinakampi ukat ciencia ukat tecnología ukanakampi.
+Novela de ciencia ficción &quot;Kimsa janchi&quot; (chino aruchja: `3Tǐ` ) ukax mä civilización extranjera ukar uñt&#39;ayi, ukax ondas electromagnéticas ukanakamp aruskipt&#39;añatakiw apnaqasi, qhana amuyt&#39;awimpi ukhamarak tecnología próspera ukampi.
 
 Biblia · Génesis qillqata :
 

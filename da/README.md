@@ -10,7 +10,7 @@ Jeg vil gerne sige, at **kun websteder, der genererer statiske oversættelser, k
 
 ## Introduktion
 
-Science fiction-romanen &quot;Three-Body&quot; (kinesisk udtale: `3Ti` ) fiktionaliserer en fremmed civilisation, der bruger elektromagnetiske bølger til at kommunikere med gennemsigtig tænkning og velstående videnskab og teknologi.
+Science fiction-romanen &quot;Three Body&quot; (kinesisk udtale: `3Tǐ` ) fiktionaliserer en fremmed civilisation, der bruger elektromagnetiske bølger til at kommunikere med gennemsigtig tænkning og velstående teknologi.
 
 Bibelen · Første Mosebog :
 

@@ -10,7 +10,7 @@ Gusto nakong isulti nga **ang mga website lamang nga nagmugna og mga static nga 
 
 ## Pasiuna
 
-Ang nobela sa science fiction nga &quot;Three-Body&quot; (Intsik nga paglitok: `3Ti` ) nagmugna sa usa ka langyaw nga sibilisasyon nga naggamit sa mga electromagnetic wave aron makigkomunikar, nga adunay transparent nga panghunahuna ug mauswagon nga siyensya ug teknolohiya.
+Ang nobela sa science fiction nga &quot;Three Body&quot; (Intsik nga paglitok: `3Tǐ` ) nagmugna sa usa ka langyaw nga sibilisasyon nga naggamit sa mga electromagnetic wave aron makigkomunikar, nga adunay transparent nga panghunahuna ug mauswagon nga teknolohiya.
 
 Bibliya · Genesis :
 

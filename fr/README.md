@@ -10,7 +10,7 @@ Je voudrais dire que **seuls les sites Web qui génèrent des traductions statiq
 
 ## Introduction
 
-Le roman de science-fiction « Trois corps » (prononciation chinoise : `3Ti` ) met en scène une civilisation extraterrestre qui utilise des ondes électromagnétiques pour communiquer, avec une pensée transparente et une science et une technologie prospères.
+Le roman de science-fiction « Trois corps » (prononciation chinoise : `3Tǐ` ) met en scène une civilisation extraterrestre qui utilise des ondes électromagnétiques pour communiquer, avec une pensée transparente et une technologie prospère.
 
 Bible · Genèse :
 

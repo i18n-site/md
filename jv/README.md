@@ -10,7 +10,7 @@ Aku pengin ngomong yen **mung situs web sing ngasilake terjemahan statis sing bi
 
 ## Pambuka
 
-Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal basa Cina: `3Ti` ) fiksi peradaban alien sing nggunakake gelombang elektromagnetik kanggo komunikasi, kanthi pamikiran transparan lan ilmu pengetahuan lan teknologi sing makmur.
+Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Cina: `3Tǐ` ) fiksi peradaban alien sing nggunakake gelombang elektromagnetik kanggo komunikasi, kanthi pamikiran transparan lan teknologi sing makmur.
 
 Kitab Suci · Purwaning Dumadi :
 

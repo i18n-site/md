@@ -10,7 +10,7 @@ M&#39;agradaria dir que **només els llocs web que generen traduccions estàtiqu
 
 ## Introducció
 
-La novel·la de ciència-ficció &quot;Three-Body&quot; (pronunciació xinesa: `3Ti` ) ficciona una civilització alienígena que utilitza ones electromagnètiques per comunicar-se, amb un pensament transparent i una ciència i tecnologia pròsperas.
+La novel·la de ciència-ficció &quot;Three Body&quot; (pronunciació xinesa: `3Tǐ` ) ficcionalitza una civilització alienígena que utilitza ones electromagnètiques per comunicar-se, amb un pensament transparent i una tecnologia pròspera.
 
 Bíblia · Gènesi :
 

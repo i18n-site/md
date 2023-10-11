@@ -10,7 +10,7 @@ Kayatko nga ibaga a **dagiti laeng website a mangpataud kadagiti estatiko a pata
 
 ## Pauna
 
-Ti nobela ti siensia a piksion a &quot;Tallo-a-Bagi&quot; (Insik a panagibalikas: `3Ti` ) ket piksionario ti maysa a ganggannaet a sibilisasion nga agus-usar kadagiti elektromagnetiko nga allon tapno makikomunikar, nga addaan iti nalawag a panagpampanunot ken narang-ay a siensia ken teknolohia.
+Ti nobela ti siensia a piksion a &quot;Tallo a Bagi&quot; (Insik a panagibalikas: `3Tǐ` ) ket piksionario ti maysa a ganggannaet a sibilisasion nga agus-usar kadagiti elektromagnetiko nga allon tapno makikomunikar, nga addaan iti nalawag a panagpampanunot ken narang-ay a teknolohia.
 
 Biblia · Genesis :
 

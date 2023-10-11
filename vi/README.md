@@ -10,7 +10,7 @@ Tôi muốn nói rằng **chỉ những trang web tạo bản dịch tĩnh mới
 
 ## Giới Thiệu
 
-Tiểu thuyết khoa học viễn tưởng “Tam Thân” (phát âm tiếng Trung: `3Ti` ) hư cấu về một nền văn minh ngoài hành tinh sử dụng sóng điện từ để liên lạc, có tư duy minh bạch và khoa học công nghệ thịnh vượng.
+Tiểu thuyết khoa học viễn tưởng “Tam Thân” (phát âm tiếng Trung: `3Tǐ` ) hư cấu về một nền văn minh ngoài hành tinh sử dụng sóng điện từ để liên lạc, có tư duy minh bạch và công nghệ thịnh vượng.
 
 Kinh thánh · Sáng thế ký :
 

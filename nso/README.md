@@ -10,7 +10,7 @@ Ke rata go bolela gore **ke feela diwepesaete tšeo di tšweletšago diphetolelo
 
 ## Matseno
 
-Padi ya saense ya boikgopolelo ya &quot;Three-Body&quot; (mmiletšo wa Setšhaena: `3Ti` ) e itlhametše tlhabologo ya moeng yeo e šomišago maphoto a mohlagase wa makenete go boledišana, ka go nagana ka pepeneneng le saense le theknolotši ye e atlegilego.
+Padi ya saense ya boikgopolelo ya &quot;Memele ye Meraro&quot; (mmiletšo wa Setšhaena: `3Tǐ` ) e itlhametše tlhabologo ya moeng yeo e šomišago maphoto a mohlagase wa makenete go boledišana, ka go nagana ka pepeneneng le theknolotši ye e atlegilego.
 
 Beibele · Genesi :
 

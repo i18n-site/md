@@ -10,7 +10,7 @@ Ndikufuna kunena kuti **mawebusayiti okhawo omwe amamasulira mawu osasunthika at
 
 ## Mawu Oyamba
 
-Buku lopeka la sayansi &quot;Matupi Atatu&quot; (matchulidwe achi China: `3Ti` ) amapeka chitukuko chachilendo chomwe chimagwiritsa ntchito mafunde amagetsi kuti azilankhulana, ndi malingaliro owonekera komanso sayansi ndiukadaulo wotukuka.
+Buku lopeka la sayansi &quot;Matupi Atatu&quot; (matchulidwe achi China: `3Tǐ` ) amapeka chitukuko chachilendo chomwe chimagwiritsa ntchito mafunde amagetsi kuti alankhule, ndi malingaliro owonekera komanso ukadaulo wotukuka.
 
 Baibulo · Genesis :
 

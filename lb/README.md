@@ -10,7 +10,7 @@ Ech géif gären soen datt **nëmmen Websäiten déi statesch Iwwersetzunge gene
 
 ## Aféierung
 
-De Science Fiction Roman &quot;Three-Body&quot; (Chinesesch Aussprooch: `3Ti` ) fictionaliséiert eng alien Zivilisatioun déi elektromagnetesch Wellen benotzt fir ze kommunizéieren, mat transparenten Denken a räichem Wëssenschaft an Technologie.
+De Science Fiction Roman &quot;Three Body&quot; (Chinesesch Aussprooch: `3Tǐ` ) fictionaliséiert eng alien Zivilisatioun déi elektromagnetesch Wellen benotzt fir ze kommunizéieren, mat transparenten Denken a räicher Technologie.
 
 Bibel · Genesis :
 

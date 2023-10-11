@@ -10,7 +10,7 @@ Tahaksin öelda, et **ainult veebisaidid, mis loovad staatilisi tõlkeid, saavad
 
 ## Sissejuhatus
 
-Ulmeromaan &quot;Kolm keha&quot; (Hiina hääldus: `3Ti` ) kujutab endast välja tulnukate tsivilisatsiooni, mis kasutab suhtlemiseks elektromagnetlaineid ning millel on läbipaistev mõtlemine ning jõukas teadus ja tehnoloogia.
+Ulmeromaan &quot;Kolm keha&quot; (hiina hääldus: `3Tǐ` ) kujutab endast läbipaistva mõtlemise ja õitseva tehnoloogiaga tulnukate tsivilisatsiooni, mis kasutab suhtlemiseks elektromagnetlaineid.
 
 Piibel · Genesis :
 

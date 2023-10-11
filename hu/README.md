@@ -10,7 +10,7 @@ Szeretném elmondani, hogy **csak a statikus fordításokat generáló webhelyek
 
 ## Bevezetés
 
-A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokat használ a kommunikációhoz, átlátható gondolkodással és virágzó tudomány és technológia mellett.
+A &quot;Három test&quot; (kínai kiejtés: `3Tǐ` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokat használ a kommunikációhoz, átlátható gondolkodással és virágzó technológiával.
 
 Biblia · Genezis :
 

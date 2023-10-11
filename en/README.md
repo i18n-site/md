@@ -10,7 +10,7 @@ I would like to say that **only websites that generate static translations can s
 
 ## Introduction
 
-The science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) fictionalizes an alien civilization that uses electromagnetic waves to communicate, with transparent thinking and prosperous science and technology.
+The science fiction novel &quot;Three Body&quot; (Chinese pronunciation: `3Tǐ` ) fictionalizes an alien civilization that uses electromagnetic waves to communicate, with transparent thinking and prosperous technology.
 
 Bible · Genesis :
 

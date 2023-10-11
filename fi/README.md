@@ -10,7 +10,7 @@ Haluaisin sanoa, että **vain staattisia käännöksiä tuottavat verkkosivustot
 
 ## Johdanto
 
-Tieteiskirjallisuusromaani &quot;Three-Body&quot; (ääntäminen kiinaksi: `3Ti` ) fiktioi ulkomaalaisen sivilisaation, joka käyttää kommunikointiin sähkömagneettisia aaltoja, avoimen ajattelun ja vauraan tieteen ja teknologian avulla.
+Tieteiskirjallisuusromaani &quot;Three Body&quot; (ääntäminen kiinaksi: `3Tǐ` ) fiktioi ulkomaalaisen sivilisaation, joka käyttää sähkömagneettisia aaltoja kommunikointiin läpinäkyvällä ajattelulla ja vauraalla tekniikalla.
 
 Raamattu · Genesis :
 

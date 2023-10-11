@@ -10,7 +10,7 @@ Gusto kong sabihin na **ang mga website lamang na bumubuo ng mga static na pagsa
 
 ## Panimula
 
-Ang nobelang science fiction na &quot;Three-Body&quot; (pagbigkas ng Tsino: `3Ti` ) ay gawa-gawa ang isang dayuhan na sibilisasyon na gumagamit ng mga electromagnetic wave upang makipag-usap, na may malinaw na pag-iisip at maunlad na agham at teknolohiya.
+Ang nobelang science fiction na &quot;Tatlong Katawan&quot; (pagbigkas ng Tsino: `3Tǐ` ) ay gawa-gawa ang isang dayuhan na sibilisasyon na gumagamit ng mga electromagnetic wave upang makipag-usap, na may malinaw na pag-iisip at maunlad na teknolohiya.
 
 Bibliya · Genesis :
 

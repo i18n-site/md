@@ -10,7 +10,7 @@ Chcel by som povedať, že **iba webové stránky, ktoré generujú statické pr
 
 ## Úvod
 
-Sci-fi román „Three-Body“ (čínska výslovnosť: `3Ti` ) beletrizuje mimozemskú civilizáciu, ktorá využíva elektromagnetické vlny na komunikáciu, s transparentným myslením a prosperujúcou vedou a technológiou.
+Sci-fi román „Tri telá“ (čínska výslovnosť: `3Tǐ` ) beletrizuje mimozemskú civilizáciu, ktorá využíva elektromagnetické vlny na komunikáciu, s transparentným myslením a prosperujúcou technológiou.
 
 Biblia · Genezis :
 

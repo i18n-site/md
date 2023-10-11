@@ -10,7 +10,7 @@ Ndingathanda ukuthi **iiwebhusayithi kuphela ezenza uguqulelo olungatshintshiyo 
 
 ## Intshayelelo
 
-Inoveli yentsomi yesayensi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina: `3Ti` ) ivelisa impucuko yasemzini esebenzisa amaza ombane ombane ukunxibelelana, ngokucinga okusekuhleni kunye nesayensi kunye netekhnoloji ephumelelayo.
+Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina: `3Tǐ` ) ivelisa impucuko yasemzini esebenzisa amaza ombane ombane ukunxibelelana, nokucinga okuselubala kunye nobuchwephesha obunempumelelo.
 
 IBhayibhile · Genesis :
 

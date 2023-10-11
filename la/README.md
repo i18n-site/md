@@ -10,7 +10,7 @@ Vellem dicere **tantum paginas quae static translationes generare possunt, multi
 
 ## Introductio
 
-Scientia ficta nova &quot;Three-Cordy&quot; (pronunciation: `3Ti` ) ficta civilizationem alienam, quae electromagneticis fluctibus utitur ad communicandum, cum perspicuis cogitationibus et prosperis scientia et technicis.
+Scientia ficta nova &quot;Trium Corpus&quot; (pronuntiatio Sinica: `3Tǐ` ) ficta civilizationem alienam, quae electromagneticis fluctibus utitur ad communicandum, cum perspicuis cogitationibus et technicis prosperis.
 
 Bible :
 

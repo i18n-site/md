@@ -10,7 +10,7 @@ Te-hilaza aho fa **ny vohikala mamorona fandikan-teny static ihany no afaka mano
 
 ## Sava Lalana
 
-Ny tantara foronina momba ny siansa &quot;Telo Vatana&quot; (fanononana amin&#39;ny teny sinoa: `3Ti` ) dia mamorona sivilizasiona vahiny mampiasa onjam-peo elektromagnetika mba hifandraisana, miaraka amin&#39;ny fisainana mangarahara sy ny siansa sy ny teknolojia mandroso.
+Ny tantara foronina momba ny siansa &quot;Vata Telo&quot; (fanononana amin&#39;ny teny sinoa: `3Tǐ` ) dia mamorona sivilizasiona vahiny mampiasa onjam-peo elektromagnetika hifandraisana, miaraka amin&#39;ny fisainana mangarahara sy ny teknolojia mandroso.
 
 Baiboly · Genesisy :
 

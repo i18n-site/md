@@ -10,7 +10,7 @@ Jag skulle vilja säga att **endast webbplatser som genererar statiska översät
 
 ## Introduktion
 
-Science fiction-romanen &quot;Three-Body&quot; (kinesiskt uttal: `3Ti` ) fiktionaliserar en främmande civilisation som använder elektromagnetiska vågor för att kommunicera, med transparent tänkande och välmående vetenskap och teknik.
+Science fiction-romanen &quot;Three Body&quot; (kinesiskt uttal: `3Tǐ` ) fiktionaliserar en utomjordisk civilisation som använder elektromagnetiska vågor för att kommunicera, med transparent tänkande och välmående teknologi.
 
 Bibeln · Genesis :
 

@@ -10,7 +10,7 @@ N b’a fɛ k’a fɔ ko **siti minnu bɛ bamanankan baarakɛcogo jɔlenw dilan,
 
 ## Daminɛ Kuma
 
-Dɔnniya nsiirin gafe &quot;Farikolo saba&quot; (Sinuwakan fɔcogo: `3Ti` ) bɛ dunan siwili dɔ labɛn min bɛ baara kɛ ni kuran-fiɲɛw ye walasa ka kumaɲɔgɔnya kɛ, ni miirili jɛlen ye ani dɔnniya ni fɛɛrɛ kuraw.
+Dɔnniya gafe min tɔgɔ ye ko &quot;Farikolo saba&quot; (Sinuwakan fɔcogo: `3Tǐ` ) bɛ dunan siwili dɔ labɛn min bɛ baara kɛ ni kuran-fiɲɛw ye walasa ka kumaɲɔgɔnya kɛ, ni miirili jɛlen ye ani fɛɛrɛ ɲɛtaa.
 
 Bibulu · Jenɛse :
 

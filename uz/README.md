@@ -10,7 +10,7 @@ Aytmoqchimanki **, faqat statik tarjimalarni yaratadigan veb-saytlar ko&#39;p ti
 
 ## Kirish
 
-“Uch tana” (xitoycha talaffuzi: `3Ti` ) ilmiy-fantastik romani shaffof fikrlash va gullab-yashnagan ilm-fan va texnologiyaga ega boʻlgan elektromagnit toʻlqinlar orqali aloqa oʻrnatish uchun foydalanadigan begona tsivilizatsiyani oʻylab topadi.
+“Uch tana” (xitoycha talaffuzi: `3Tǐ` ) ilmiy-fantastik romani shaffof fikrlash va gullab-yashnagan texnologiya bilan aloqa qilish uchun elektromagnit to‘lqinlardan foydalanadigan begona tsivilizatsiyani o‘ylab topadi.
 
 Injil · Ibtido :
 

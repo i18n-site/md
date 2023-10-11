@@ -10,7 +10,7 @@
 
 ## Okwu Mmalite
 
-Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation Chinese: `3Ti` ) na-akọwapụta ọdịdị mmepeanya nke mba ọzọ nke na-eji ebili mmiri electromagnetic na-ekwurịta okwu, na echiche doro anya na nkà mmụta sayensị na nkà na ụzụ bara ụba.
+Akwụkwọ akụkọ sayensị sayensị &quot;Ahụ atọ&quot; (pronunciation Chinese: `3Tǐ` ) na-akọwapụta mmepeanya nke mba ọzọ nke na-eji ebili mmiri electromagnetic na-ekwurịta okwu, na echiche doro anya na nkà na ụzụ bara ụba.
 
 Bible · Jenesis :
 

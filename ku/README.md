@@ -10,7 +10,7 @@ Ez dixwazim bibêjim ku **tenê malperên ku wergerên statîk çêdikin dikarin
 
 ## Pêşkêş
 
-Romana honaka zanistî &quot;Three-Body&quot; (navdêra Çînî: `3Ti` ) şaristaniyek biyanî ku pêlên elektromagnetîk bikar tîne ji bo danûstandinê, bi ramana şefaf û zanist û teknolojiyên dewlemend re xeyal dike.
+Romana honaka zanistî &quot;Three Body&quot; (navdêra Çînî: `3Tǐ` ) şaristaniyek biyanî ku pêlên elektromagnetîk bikar tîne ji bo danûstendinê, bi ramana şefaf û teknolojiyek dewlemend re xeyal dike.
 
 Încîl · Destpêbûn :
 

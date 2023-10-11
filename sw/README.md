@@ -10,7 +10,7 @@ Ningependa kusema kwamba **tovuti zinazozalisha tafsiri tuli pekee ndizo zinawez
 
 ## Utangulizi
 
-Riwaya ya kisayansi ya kubuni &quot;Miili Mitatu&quot; (Matamshi ya Kichina: `3Ti` ) inabuni ustaarabu ngeni unaotumia mawimbi ya sumakuumeme kuwasiliana, kwa kufikiri kwa uwazi na sayansi na teknolojia yenye mafanikio.
+Riwaya ya kisayansi ya kubuni &quot;Miili Mitatu&quot; (Matamshi ya Kichina: `3Tǐ` ) inabuni ustaarabu ngeni unaotumia mawimbi ya sumakuumeme kuwasiliana, kwa kufikiri kwa uwazi na teknolojia yenye mafanikio.
 
 Biblia · Mwanzo :
 

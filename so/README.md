@@ -10,7 +10,7 @@ Waxaan jeclaan lahaa inaan sheego in **shabakadaha soo saara tarjumaadaha taagan
 
 ## Hordhac
 
-Sheekada khayaaliga sayniska &quot;Three-Body&quot; (ku dhawaaqida Shiinaha: `3Ti` ) waxay khiyaalisaa ilbaxnimada shisheeye ee adeegsata hirarka elektromagnetic si ay ula xiriiraan, oo leh fikir hufan iyo saynis iyo teknoloji barwaaqo ah.
+Sheekada khayaaliga sayniska &quot;Three Body&quot; (ku dhawaaqida Shiinaha: `3Tǐ` ) waxay khiyaalisaa ilbaxnimada shisheeye ee adeegsata hirarka korantada si ay ula xiriirto, oo leh fikir hufan iyo tignoolajiyad barwaaqo leh.
 
 Baybalka · Bilowgii :
 

@@ -10,7 +10,7 @@ Makemake au e ʻōlelo ʻo **nā pūnaewele wale nō e hoʻopuka ana i nā unuhi
 
 ## Hoʻolauna
 
-ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Three-Body&quot; (ʻōlelo Kina: `3Ti` ) he moʻolelo moʻokalaleo e hoʻohana ana i nā nalu electromagnetic e kamaʻilio, me ka noʻonoʻo maopopo a me ka ʻepekema a me ka ʻenehana holomua.
+ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Kōno ʻEkolu&quot; (ʻōlelo Kina: `3Tǐ` ) he moʻolelo moʻokalaleo e hoʻohana ana i nā nalu electromagnetic e kamaʻilio, me ka noʻonoʻo a me ka ʻenehana holomua.
 
 Baibala · Genesis :
 

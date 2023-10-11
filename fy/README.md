@@ -10,7 +10,7 @@ Ik soe graach sizze dat **allinich websiden dy&#39;t statyske oersettingen gener
 
 ## Ynlieding
 
-De science fiction-roman &quot;Three-Body&quot; (Sineeske útspraak: `3Ti` ) fictionalisearret in frjemde beskaving dy&#39;t elektromagnetyske golven brûkt om te kommunisearjen, mei transparant tinken en bloeiende wittenskip en technology.
+De science fiction-roman &quot;Three Body&quot; (Sineeske útspraak: `3Tǐ` ) fictionalisearret in frjemde beskaving dy&#39;t elektromagnetyske golven brûkt om te kommunisearjen, mei transparant tinken en bloeiende technology.
 
 Bibel · Genesis :
 

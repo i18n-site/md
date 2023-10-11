@@ -10,7 +10,7 @@ Me gustaría decir que **solo los sitios web que generan traducciones estáticas
 
 ## Introducción
 
-La novela de ciencia ficción &quot;Three-Body&quot; (pronunciación china: `3Ti` ) ficcionaliza una civilización alienígena que utiliza ondas electromagnéticas para comunicarse, con un pensamiento transparente y una ciencia y tecnología prósperas.
+La novela de ciencia ficción &quot;Three Body&quot; (pronunciación china: `3Tǐ` ) ficcionaliza una civilización extraterrestre que utiliza ondas electromagnéticas para comunicarse, con pensamiento transparente y tecnología próspera.
 
 Biblia · Génesis :
 

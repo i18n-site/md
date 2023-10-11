@@ -10,7 +10,7 @@ Nixtieq ngħid li **huma biss il-websajts li jiġġeneraw traduzzjonijiet stati�
 
 ## Introduzzjoni
 
-Ir-rumanz tal-fantaxjenza &quot;Three-Body&quot; (pronunzja Ċiniża: `3Ti` ) jimbotta ċiviltà aljena li tuża mewġ elettromanjetiku biex tikkomunika, b&#39;ħsieb trasparenti u xjenza u teknoloġija prospera.
+Ir-rumanz tal-fantaxjenza &quot;Three Body&quot; (pronunzja Ċiniża: `3Tǐ` ) jimbotta ċiviltà aljena li tuża mewġ elettromanjetiku biex tikkomunika, b&#39;ħsieb trasparenti u teknoloġija prospera.
 
 Bibbja · Ġenesi :
 

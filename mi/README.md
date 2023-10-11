@@ -10,7 +10,7 @@ E hiahia ana ahau ki te kii ko **nga paetukutuku anake e whakaputa ana i nga wha
 
 ## Kupu Whakataki
 
-Ko te pakimaero pakimaero &quot;Three-Body&quot; (te whakahua reo Hainamana: `3Ti` ) he korero pakiwaitara he ao tangata ke e whakamahi ana i nga ngaru hiko ki te whakawhitiwhiti korero, me te whai whakaaro marama me te oranga o te aoiao me te hangarau.
+Ko te pakimaero pakimaero &quot;Tino Toru&quot; (te whakahua reo Hainamana: `3Tǐ` ) he korero pakiwaitara he ao tangata ke e whakamahi ana i nga ngaru hiko ki te whakawhitiwhiti korero, me te whakaaro marama me te hangarau whai hua.
 
 Paipera · Genesis :
 

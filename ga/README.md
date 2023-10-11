@@ -10,7 +10,7 @@ Ba mhaith liom a rá nach **féidir ach le suíomhanna gréasáin a ghineann ais
 
 ## Réamhrá
 
-Déanann an t-úrscéal ficsean eolaíochta &quot;Three-Body&quot; (fuaimniú Sínis: `3Ti` ) sibhialtacht choimhthíoch a úsáideann tonnta leictreamaighnéadacha chun cumarsáid a dhéanamh, le smaointeoireacht thrédhearcach agus le heolaíocht agus teicneolaíocht rathúla.
+Déanann an t-úrscéal ficsean eolaíochta &quot;Three Body&quot; (fuaimniú Sínis: `3Tǐ` ) sibhialtacht choimhthíoch a úsáideann tonnta leictreamaighnéadacha chun cumarsáid a dhéanamh, le smaointeoireacht thrédhearcach agus le teicneolaíocht rathúil.
 
 Bíobla · Geineasas :
 
