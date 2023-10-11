@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Daangaa Hin Qabne Yaadi<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Daangaa Malee Yaadu<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, jenereetarri saayitii hin jijjiiramne, ofumaan Markdown [afaanota adda addaa dhibbaa ol](https://github.com/i18n-site/node/blob/main/lang/src/index.js) ta&#39;anitti hiikuu danda&#39;a .
 

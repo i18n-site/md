@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · সীমাহীন চিন্তা কৰক<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · সীমাহীন চিন্তা কৰা<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, এটা ষ্টেটিক চাইট জেনেৰেটৰ, স্বয়ংক্ৰিয়ভাৱে মাৰ্কডাউনক [এশৰো অধিক ভিন্ন ভাষালৈ](https://github.com/i18n-site/node/blob/main/lang/src/index.js) অনুবাদ কৰিব পাৰে।
 

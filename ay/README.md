@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Amuyt’aña Jan Frontera<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Jan Fronteras ukan amuyt’aña<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, mä generador de sitio estático, ukax Markdown ukarux [patak jila arunakaruw](https://github.com/i18n-site/node/blob/main/lang/src/index.js) jaqukipaspa .
 

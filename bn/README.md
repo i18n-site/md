@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · সীমাহীন চিন্তা করুন<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · সীমানা ছাড়া চিন্তা<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, একটি স্ট্যাটিক সাইট জেনারেটর, স্বয়ংক্রিয়ভাবে মার্কডাউনকে [একশোরও বেশি ভিন্ন ভাষায়](https://github.com/i18n-site/node/blob/main/lang/src/index.js) অনুবাদ করতে পারে।
 

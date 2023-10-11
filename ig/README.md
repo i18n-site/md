@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Chee enweghị oke<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Echiche enweghị oke<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, onye na-emepụta saịtị kwụ ọtọ, nwere ike ịtụgharị Markdown na-akpaghị aka n&#39;ihe [karịrị narị asụsụ dị iche iche](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Mafaufau Leai se tuaoi<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Mafaufau e aunoa ma ni tuaoi<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 O le 3Ti.Site, o se faʻaputuga o nofoaga faʻapitoa, e mafai ona faʻaliliuina le Markdown i [le sili atu ma le selau gagana eseese](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

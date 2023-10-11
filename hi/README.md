@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · सीमा रहित सोचें<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · बिना सीमाओं के सोच<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, एक स्थिर साइट जनरेटर, स्वचालित रूप से मार्कडाउन को [सौ से अधिक विभिन्न भाषाओं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) में अनुवाद कर सकता है।
 

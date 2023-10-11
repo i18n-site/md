@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · טראַכטן באָרדערלעסס<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site · טראכטן אָן געמארקן<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, אַ סטאַטיק פּלאַץ גענעראַטאָר, קענען אויטאָמאַטיש איבערזעצן מאַרקדאַון אין [מער ווי אַ הונדערט פאַרשידענע שפּראַכן](https://github.com/i18n-site/node/blob/main/lang/src/index.js) .
 

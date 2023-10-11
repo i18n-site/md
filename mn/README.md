@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Хил хязгааргүй сэтгэ<img src="//i-01.eu.org/i18n/logo.svg" style="margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site · Хил хязгааргүй сэтгэх<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 Статик сайт үүсгэгч 3Ti.Site нь Markdown-ийг [зуу гаруй өөр хэл](https://github.com/i18n-site/node/blob/main/lang/src/index.js) рүү автоматаар орчуулж чаддаг.
 
