@@ -14,15 +14,15 @@ Tieteiskirjallisuusromaani &quot;Three-Body&quot; (ääntäminen kiinaksi: `3Ti`
 
 Raamattu · Genesis :
 
-> Tuolloin ihmisillä kaikkialla maailmassa oli sama aksentti ja kieli.
+> Tuohon aikaan kaikkien taivaan alla olevien äänet ja sanat olivat yhtä.
 >
-> Rakenna torni, joka ulottuu taivaalle, tavoita Jumalan portti, kokoa ihmisten sydämet ja levitä mainettasi.
+> He rakensivat tornin, joka ulottui taivaan korkeuteen, kosketti Jumalan portteja, yhdisti sydämiä ja kerskui kunniaansa.
 >
-> Herra sanoi: Saman kulttuurin ja rodun ihmiset muodostavat oman klaaninsa. Tornin rakentaminen tänään on vain alkusoitto, mutta teemme kaiken tulevaisuudessa.
+> Herra julisti: Kun ihmiset jakavat kielen ja sukulinjan, heistä tulee yksittäinen heimo. Torni on vain alkua; tulevina päivinä ei ole mitään, mitä he eivät saavuttaisi.
 >
-> Sitten hän tuli ja hajotti ihmiset eri paikkoihin, eivätkä he kyenneet ymmärtämään toisiaan.
+> Siten Hän laskeutui alas ja sai ihmiset hajaantumaan kauas ja laajalle, ja heidän kielensä olivat nyt käsittämättömiä toisilleen.
 >
-> Siitä lähtien kiistat ovat jatkuneet, eikä Baabelin tornia ole maailmassa.
+> Siitä lähtien riita oli loputon, eikä maailma nähnyt enää torneja, jotka koskettivat taivasta.
 
 Toivon voivani luoda työkaluja, jotta maan ihmiset voivat olla kuin kolmiruumiisia ihmisiä, kommunikoida ilman kielen sitomista ja koko ihmiskunta voi olla jälleen yhtenäinen.
 

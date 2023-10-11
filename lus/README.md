@@ -14,15 +14,15 @@ Science fiction novel &quot;Three-Body&quot; (Chinese pronunciation: `3Ti` ) hia
 
 Bible · Genesis :
 
-> Chutih lai chuan khawvel hmun hrang hranga mite chuan accent leh tawng inang an nei a.
+> Chumi hun lai chuan van hnuaia mi zawng zawng aw leh thu chu pakhat ang maiin a awm a.
 >
-> Van thleng phak kulh siam la, Pathian kawtthler thleng la, mi thinlung khawn khawm la, i hmingthatna thehdarh rawh.
+> Van lam thlenga sang, Pathian kawngkhar khawih, thinlung inpumkhatna leh an ropuina chhuangna kulh an sa a.
 >
-> Lalpa chuan heti hian a sawi: Mihring nunphung leh hnam inang mite chuan anmahni chi (clan) an siam a. Vawiina tower sak hi hmahruaitu mai a ni a, mahse nakin lawkah chuan engkim kan ti vek ang.
+> Lalpa chuan heti hian a puang a: Miten tawng leh thlah an insem hian hnam pakhat an lo ni ta a ni. Tower chu a bul tanna chauh a ni a; ni lo la awm turteah chuan an tihhlawhtlin loh tur a awm lo.
 >
-> Chutah a lo kal a, mipuite chu hmun hrang hrangah a darh darh a, inhriatthiam tawn thei loin a tidarh ta a.
+> Chutiang chuan A lo chhuk a, mipuite chu hmun hla tak takah a darh ta a, tunah chuan an tawngte chu an inhriatthiam theih loh phah ta a ni.
 >
-> Chumi hnuah chuan inhnialna a la awm chhunzawm zel a, khawvelah Babel Tower a awm tawh lo.
+> Chuta tang chuan inhnialna chu a tawp tawh lo va, khawvelin van lam khawih thei kulhpui a hmu tawh lo.
 
 Leilung mihringte hi taksa pathum nei ang an nih theih nan, tawngkam phuar lova inbiakpawhna an neih theih nan leh mihring zawng zawng kan inpumkhat leh theih nan hmanrua siam ka beisei.
 

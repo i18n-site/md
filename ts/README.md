@@ -14,15 +14,15 @@ Novhele ya sayense ya ntsheketo ya &quot;Three-Body&quot; (Mavitanelo ya Xichayi
 
 Bibele · Genesa :
 
-> Hi nkarhi wolowo, vanhu emisaveni hinkwayo a va ri ni ririmi ni ririmi leri fanaka.
+> Enkarhini wolowo, marito ni marito ya hinkwavo ehansi ka matilo a swi fana ni xin’we.
 >
-> Aka xihondzo lexi fikaka ematilweni, u fika enyangweni ya Xikwembu, hlengeleta timbilu ta vanhu, u hangalasa ndhuma ya wena.
+> Va ake xihondzo lexi fikaka empfhukeni, xi khumba tinyangwa ta Xikwembu, xi hlanganisa timbilu, xi tinyungubyisa hi ku vangama ka xona.
 >
-> Hosi yi te: Vanhu va ndhavuko na rixaka rin'we va vumba rixaka ra vona. Ku aka xihondzo namuntlha i xingheniso ntsena, kambe hi ta endla hinkwaswo enkarhini lowu taka.
+> Hosi yi huwelerile yi ku: Loko vanhu va avelana ririmi na rixaka, va hundzuka rixaka rin’we. Xihondzo lexi i masungulo ntsena; eka masiku lama taka, a ku na nchumu lowu va nga ta ka va nga wu fikeleli.
 >
-> Kutani a fika a hangalasa vanhu etindhawini to hambana-hambana, va nga swi koti ku twisisana.
+> Xisweswo, U rhelerile, a endla leswaku vanhu va hangalaka ekule na le kule, tindzimi ta vona sweswi ti nga twisiseki eka yin’wana na yin’wana.
 >
-> Ku sukela kwalaho, timholovo ti ye emahlweni, naswona a ku na Xihondzo xa Babele emisaveni.
+> Ku sukela kwalaho, ku holova a ku nga heli, naswona misava a yi nga ha voni swihondzo leswi khumbaka xibakabaka.
 
 Ndzi tshemba ku tumbuluxa switirhisiwa leswaku vanhu va misava va ta fana na vanhu va mimiri yinharhu, va vulavurisana handle ko bohiwa hi ririmi, kutani vanhu hinkwavo va tlhela va hlangana.
 

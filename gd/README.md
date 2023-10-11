@@ -14,15 +14,15 @@ Tha an nobhail ficsean saidheans &quot;Three-Body&quot; (fuaimneachadh Sìneach:
 
 Bìoball · Genesis :
 
-> Aig an àm sin, bha an aon stràc agus cànan aig daoine air feadh an t-saoghail.
+> Anns an àm sin, bha guthan agus briathran nan uile fo na nèamhan mar aon.
 >
-> Tog tùr a ruigeas na speuran, ruig geata Dhè, cruinnich cridheachan dhaoine, agus sgaoil do chliù.
+> Thog iad tùr a' ruigheachd air nèamh, a' beantainn ri geataibh Dhè, a' aonadh an cridhe, agus a' deanamh uaill an glòir.
 >
-> Thuirt an Tighearna: Bidh daoine den aon chultar agus cinnidh nan cinneadh fhèin. Chan eil ann an togail tùr an-diugh ach ro-ràdh, ach nì sinn a h-uile càil san àm ri teachd.
+> Ghairm an Tighearna: Nuair a bhios daoine a 'roinn cànan agus sliochd, bidh iad nan treubh singilte. Chan eil anns an tùr ach toiseach; anns na laithean ri teachd, cha'n 'eil ni air bith nach coilean iad.
 >
-> An sin thàinig e agus sgap e an sluagh ann an caochladh àiteachan, gun chomas aca a chèile a thuigsinn.
+> Mar so, thainig e nuas, a' toirt air an t-sluagh sgapadh am fad, agus am farsuing, a nis neo-thuigseach d'a cheile.
 >
-> Bhon uairsin, tha connspaidean air leantainn, agus chan eil Tùr Babel air an t-saoghal.
+> O'n àm sin a mach, cha robh an comhstri gun chrìoch, agus cha'n fhac an saoghal tuilleadh tùir a bhean ris an speur.
 
 Tha mi an dòchas innealan a chruthachadh gus an urrainn do mhuinntir na talmhainn a bhith mar dhaoine trì-chorp, conaltradh gun a bhith ceangailte le cànan, agus an cinne-daonna uile a bhith aonaichte a-rithist.
 

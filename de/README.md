@@ -14,15 +14,15 @@ Der Science-Fiction-Roman „Three-Body“ (chinesische Aussprache: `3Ti` ) fikt
 
 Bibel · Genesis :
 
-> Damals hatten Menschen auf der ganzen Welt den gleichen Akzent und die gleiche Sprache.
+> In dieser Zeit waren die Stimmen und Worte aller unter dem Himmel eins.
 >
-> Bauen Sie einen Turm, der bis zum Himmel reicht, erreichen Sie das Tor Gottes, sammeln Sie die Herzen der Menschen und verbreiten Sie Ihren Ruf.
+> Sie bauten einen himmelhohen Turm, berührten die Tore Gottes, vereinten die Herzen und prahlten mit ihrer Herrlichkeit.
 >
-> Der Herr sagte: Menschen derselben Kultur und Rasse bilden einen eigenen Clan. Der Bau eines Turms ist heute nur ein Vorspiel, aber wir werden in Zukunft alles tun.
+> Der Herr verkündete: Wenn Menschen Sprache und Abstammung teilen, werden sie zu einem einzigen Stamm. Der Turm ist nur der Anfang; In den kommenden Tagen gibt es nichts, was sie nicht erreichen werden.
 >
-> Dann kam er und zerstreute die Menschen an verschiedene Orte, da sie sich nicht verstehen konnten.
+> So stieg Er herab und veranlasste die Menschen, sich weit und breit zu zerstreuen, da ihre Sprachen nun untereinander unverständlich waren.
 >
-> Seitdem dauern die Streitigkeiten an, und es gibt keinen Turm zu Babel auf der Welt.
+> Von da an nahm der Streit kein Ende und die Welt sah keine Türme mehr, die den Himmel berührten.
 
 Ich hoffe, Werkzeuge zu schaffen, damit die Menschen auf der Erde wie Drei-Körper-Menschen sein können, kommunizieren können, ohne an die Sprache gebunden zu sein, und die gesamte Menschheit wieder vereint werden kann.
 

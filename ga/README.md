@@ -14,15 +14,15 @@ Déanann an t-úrscéal ficsean eolaíochta &quot;Three-Body&quot; (fuaimniú S�
 
 Bíobla · Geineasas :
 
-> Ag an am sin, bhí an blas agus an teanga chéanna ag daoine ar fud an domhain.
+> Sa ré sin, bhí guthanna agus focail gach duine faoi na flaithis mar aon ní amháin.
 >
-> Tóg túr a shroicheann an spéir, sroich geata Dé, cruinnigh croíthe na ndaoine, agus scaip do chlú.
+> Thóg siad túr a shroich an spéir-ard, ag teagmháil le geataí Dé, ag aontú a gcroí, agus ag bródú a nglóir.
 >
-> Dúirt an Tiarna: Cruthaíonn daoine den chultúr agus den chine chéanna clan dá gcuid féin. Níl ann ach túr a thógáil inniu, ach déanfaimid gach rud amach anseo.
+> D'fhógair an Tiarna: Nuair a roinneann daoine teanga agus cineáil, déantar treibh uatha díobh. Níl sa túr ach an tús; sna laethanta amach romhainn, níl aon rud nach mbainfidh siad amach.
 >
-> Ansin tháinig sé agus scaip sé na daoine in áiteanna éagsúla, gan a bheith in ann a chéile a thuiscint.
+> Mar sin chuaidh sé anuas, ag cur an tsluaigh ar sgapadh i gcéin is i gcóngar, a dteanga anois dothuigthe dá chéile.
 >
-> Ó shin i leith, tá díospóidí ag leanúint ar aghaidh, agus níl aon Túr Babel ar domhan.
+> As sin amach, ní raibh deireadh leis an achrann, agus ní fhaca an domhan níos mó túir a bhain leis an spéir.
 
 Tá súil agam uirlisí a chruthú ionas gur féidir le muintir an domhain a bheith cosúil le daoine trí chorp, cumarsáid a dhéanamh gan a bheith faoi cheangal ag teanga, agus an cine daonna go léir a bheith aontaithe arís.
 

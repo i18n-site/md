@@ -14,15 +14,15 @@ O romance de ficção científica &quot;Três Corpos&quot; (pronúncia chinesa: 
 
 Bíblia · Gênesis :
 
-> Naquela época, pessoas de todo o mundo tinham o mesmo sotaque e idioma.
+> Naquela época, as vozes e palavras de todos sob os céus eram uma só.
 >
-> Construa uma torre que alcance o céu, alcance a porta de Deus, conquiste o coração das pessoas e espalhe sua reputação.
+> Eles construíram uma torre que chegava às alturas, tocando os portões de Deus, unindo corações e ostentando sua glória.
 >
-> O Senhor disse: Pessoas da mesma cultura e raça formam um clã próprio. Construir uma torre hoje é apenas um prelúdio, mas faremos tudo no futuro.
+> O Senhor proclamou: Quando as pessoas compartilham língua e linhagem, elas se tornam uma tribo singular. A torre é apenas o começo; nos próximos dias, não há nada que eles não consigam.
 >
-> Então ele veio e espalhou as pessoas em vários lugares, sem conseguirem se entender.
+> Assim, Ele desceu, fazendo com que o povo se espalhasse por toda parte, suas línguas agora ininteligíveis entre si.
 >
-> Desde então, as disputas continuaram e não existe Torre de Babel no mundo.
+> A partir de então, o conflito foi interminável e o mundo não viu mais torres que tocassem o céu.
 
 Espero criar ferramentas para que as pessoas da terra possam ser como pessoas de três corpos, comunicarem-se sem estarem limitadas pela linguagem, e toda a humanidade possa voltar a unir-se.
 

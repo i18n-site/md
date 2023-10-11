@@ -14,15 +14,15 @@ Romani fantastiko-shkencor &quot;Tre-trupi&quot; (shqiptimi kinez: `3Ti` ) imagj
 
 Bibla · Zanafilla :
 
-> Në atë kohë, njerëzit në mbarë botën kishin të njëjtin theks dhe gjuhë.
+> Në atë epokë, zërat dhe fjalët e të gjithëve nën qiej ishin si një.
 >
-> Ndërtoni një kullë që arrin qiellin, arrini te porta e Zotit, mblidhni zemrat e njerëzve dhe përhapni reputacionin tuaj.
+> Ata ndërtuan një kullë që arrin deri në qiell, duke prekur portat e Perëndisë, duke bashkuar zemrat dhe duke mburrur lavdinë e tyre.
 >
-> Zoti tha: Njerëzit e së njëjtës kulturë dhe racë formojnë një klan të tyren. Ndërtimi i një kulle sot është vetëm një prelud, por ne do të bëjmë gjithçka në të ardhmen.
+> Zoti shpalli: Kur njerëzit ndajnë gjuhën dhe prejardhjen, ata bëhen një fis i vetëm. Kulla nuk është veçse fillimi; në ditët në vijim, nuk ka asgjë që ata nuk do të arrijnë.
 >
-> Pastaj erdhi dhe i shpërndau njerëzit në vende të ndryshme, pa mundur të kuptonin njëri-tjetrin.
+> Kështu, Ai zbriti, duke i bërë njerëzit të shpërndaheshin larg e gjerë, gjuhët e tyre tani të pakuptueshme për njëri-tjetrin.
 >
-> Që atëherë, mosmarrëveshjet kanë vazhduar dhe nuk ka Kullë Babel në botë.
+> Që atëherë e tutje, grindjet ishin të pafundme dhe bota nuk pa më kulla që preknin qiellin.
 
 Shpresoj të krijoj mjete që njerëzit e tokës të mund të jenë si njerëz me tre trupa, të komunikojnë pa u lidhur nga gjuha dhe i gjithë njerëzimi të mund të bashkohet përsëri.
 

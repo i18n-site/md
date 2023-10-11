@@ -14,15 +14,15 @@ Mokslinės fantastikos romane „Trys kūnai“ (tarimas kiniškai: `3Ti` ) išg
 
 Biblija · Pradžios knyga :
 
-> Tuo metu žmonės visame pasaulyje turėjo tą patį akcentą ir kalbą.
+> Tais laikais visų po dangumi balsai ir žodžiai buvo kaip vienas.
 >
-> Pastatykite bokštą, kuris siekia dangų, pasiekite Dievo vartus, surinkite žmonių širdis ir skleiskite savo reputaciją.
+> Jie pastatė bokštą, pasiekiantį dangų, liečiantį Dievo vartus, sujungiantį širdis ir besigiriantį savo šlove.
 >
-> Viešpats pasakė: Tos pačios kultūros ir rasės žmonės sudaro savo klaną. Bokšto statyba šiandien – tik įžanga, bet viską darysime ateityje.
+> Viešpats paskelbė: Kai žmonės dalijasi kalba ir kilme, jie tampa atskira gentimi. Bokštas yra tik pradžia; ateinančiomis dienomis nėra nieko, ko jie nepasieks.
 >
-> Tada jis atėjo ir išblaškė žmones po įvairias vietas, nesuprato vienas kito.
+> Taip Jis nusileido, priversdamas žmones išsibarstyti toli ir plačiai, o jų kalbos dabar viena kitai nesuprantamos.
 >
-> Nuo tada ginčai tęsėsi ir Babelio bokšto pasaulyje nėra.
+> Nuo tada nesantaika buvo nesibaigianti, ir pasaulis nebematė bokštų, kurie liestų dangų.
 
 Tikiuosi sukurti įrankius, kad žemės žmonės būtų kaip trijų kūnų žmonės, bendrautų nesaistomi kalbos, o visa žmonija vėl būtų vieninga.
 

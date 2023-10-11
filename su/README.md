@@ -14,15 +14,15 @@ Novel fiksi ilmiah &quot;Tilu Badan&quot; (lafal Basa Cina: `3Ti` ) ngafiksasike
 
 Alkitab · Kajadian :
 
-> Waktu éta, jalma di sakuliah dunya miboga logat jeung basa nu sarua.
+> Dina jaman éta, sora jeung kecap sadaya di handapeun langit éta salaku hiji.
 >
-> Ngawangun munara anu ngahontal langit, ngahontal gapura Allah, ngumpulkeun hate jalma, sarta nyebarkeun reputasi Anjeun.
+> Maranehna ngawangun hiji munara nepi ka langit, ngarampa lawang-lawang Allah, ngahijikeun manah, jeung ngagungkeun kamulyaanana.
 >
-> PANGERAN ngandika: Jalma-jalma nu sabangsa jeung budayana sarua ngabentuk marga sorangan. Ngawangun munara ayeuna ngan ukur prelude, tapi urang bakal ngalakukeun sadayana di hareup.
+> PANGERAN ngadawuh: Lamun jalma babagi basa jeung katurunan, aranjeunna jadi hiji suku tunggal. munara téh tapi mimiti; dina mangsa nu bakal datang, teu aya nanaon nu moal kahontal.
 >
-> Lajeng anjeunna sumping sarta paburencay jalma di sagala rupa tempat, teu bisa ngarti silih.
+> Ku kituna, Anjeunna lungsur, ngabalukarkeun jalma-jalma paburencay ka jauh-jauh, basa-basana ayeuna teu kaharti.
 >
-> Ti saprak éta, sengketa terus-terusan, sareng teu aya Menara Babel di dunya.
+> Ti harita, paduduaan teu aya tungtungna, sareng dunya teu aya deui munara anu keuna ka langit.
 
 Mugi-mugi tiasa diciptakeun parabot supados urang bumi tiasa sapertos jalma tilu raga, komunikasi tanpa kaiket ku basa, sareng sadaya umat manusa tiasa ngahiji deui.
 

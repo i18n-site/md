@@ -14,15 +14,15 @@ Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Basa Cina: `3Ti` ) minangka fik
 
 Kitab Suci · Purwaning Dumadi :
 
-> Ing wektu iku, wong ing saindenging jagad duwe logat lan basa sing padha.
+> Ing jaman iku, swara lan tembung kabeh ing sangisore langit padha dadi siji.
 >
-> Gawea menara sing tekan langit, tekan gapurane Gusti Allah, kumpulake atine wong, lan nyebarake reputasi sampeyan.
+> Wong-wong mau padha yasa menara sing dhuwuré langit, ndemek gapurané Gusti Allah, nyawijikaké ati, lan ngegungaké kamulyan.
 >
-> Pangéran ngandika: Wong-wong sing padha budaya lan ras padha mbentuk klan dhewe. Mbangun menara dina iki mung prelude, nanging kita bakal nindakake kabeh ing mangsa ngarep.
+> Pangandikané Pangéran mengkéné: Manawa wong padha duwé basa lan garis keturunan, wong-wong mau dadi taler tunggal. Menara iku mung wiwitan; ing dina sing bakal teka, ora ana sing ora bakal ditindakake.
 >
-> Banjur teka lan mbuyarake wong ing macem-macem panggonan, ora bisa ngerti siji liyane.
+> Mangkono Panjenengane tumurun, njalari wong-wong padha buyar adoh-adoh, basane saiki ora bisa dimangerteni.
 >
-> Wiwit kuwi, perselisihan terus, lan ora ana Menara Babel ing donya.
+> Wiwit iku, padudon ora ana pungkasan, lan jagad ora weruh menara maneh sing ndemek langit.
 
 Mugi-mugi saged nyipta piranti supados manungsa bumi saged kados tiyang tiga, sesambungan tanpa kaiket basa, saha sedaya manungsa saged manunggal malih.
 

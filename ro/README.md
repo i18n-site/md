@@ -14,15 +14,15 @@ Romanul științifico-fantastic „Three-Body” (pronunție chineză: `3Ti` ) f
 
 Biblia · Geneza :
 
-> La acea vreme, oamenii din întreaga lume aveau același accent și același limbaj.
+> În acea epocă, vocile și cuvintele tuturor celor de sub ceruri erau ca una.
 >
-> Construiește un turn care să ajungă la cer, ajunge la poarta lui Dumnezeu, adună inimile oamenilor și răspândește-ți reputația.
+> Ei au construit un turn care ajunge până la cer, atingând porțile lui Dumnezeu, unind inimile și lăudându-se cu slava lor.
 >
-> Domnul a spus: Oamenii din aceeași cultură și rasă formează un clan al lor. Construirea unui turn astăzi este doar un preludiu, dar vom face totul în viitor.
+> Domnul a proclamat: Când oamenii împărtășesc limba și descendența, ei devin un trib singular. Turnul este doar începutul; în zilele ce vor urma, nu vor realiza nimic.
 >
-> Apoi a venit și a împrăștiat oamenii în diverse locuri, neputându-se înțelege.
+> Astfel, El a coborât, făcându-i pe oameni să se împrăștie departe și larg, limbile lor acum neinteligibile unul pentru celălalt.
 >
-> De atunci, disputele au continuat și nu există Turnul Babel în lume.
+> De atunci, cearta a fost nesfârșită, iar lumea nu a mai văzut turnuri care să atingă cerul.
 
 Sper să creez instrumente astfel încât oamenii pământului să poată fi ca oameni cu trei corpuri, să comunice fără a fi legați de limbă și toată omenirea să poată fi unită din nou.
 

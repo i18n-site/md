@@ -14,15 +14,15 @@ Powieść science fiction „Trzy ciała” (chińska wymowa: `3Ti` ) fabularyzu
 
 Biblia · Geneza :
 
-> W tamtych czasach ludzie na całym świecie mieli ten sam akcent i język.
+> W tamtych czasach głosy i słowa wszystkich pod niebem były jednym.
 >
-> Zbuduj wieżę sięgającą nieba, dotrzyj do bramy Boga, zbierz serca ludzi i szerz swoją reputację.
+> Zbudowali wieżę sięgającą nieba, dotykającą bram Bożych, jednocząc serca i przechwalając się swoją chwałą.
 >
-> Pan powiedział: Ludzie tej samej kultury i rasy tworzą własny klan. Budowa wieży dzisiaj to tylko preludium, ale wszystko zrobimy w przyszłości.
+> Pan oznajmił: Kiedy ludzie dzielą wspólny język i rodowód, stają się pojedynczym plemieniem. Wieża to dopiero początek; w nadchodzących dniach nie ma niczego, czego by nie osiągnęli.
 >
-> Potem przyszedł i rozproszył lud w różne miejsca, nie mogąc się porozumieć.
+> W ten sposób zstąpił, powodując, że ludzie rozproszyli się daleko i szeroko, a ich języki były teraz dla siebie niezrozumiałe.
 >
-> Od tego czasu spory trwają i na świecie nie ma Wieży Babel.
+> Od tego momentu konflikty nie miały końca, a świat nie widział już wież sięgających nieba.
 
 Mam nadzieję stworzyć narzędzia, dzięki którym ludzie na ziemi będą mogli przypominać ludzi składających się z trzech ciał, porozumiewać się bez ograniczeń językowych, a cała ludzkość będzie mogła ponownie się zjednoczyć.
 

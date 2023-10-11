@@ -14,15 +14,15 @@ Iro sainzi ngano inonyorwa &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3
 
 Bhaibheri · Genesisi :
 
-> Panguva iyoyo, vanhu munyika yose vaiva nematauriro uye mutauro wakafanana.
+> Munguva iyoyo, manzwi nemashoko avose ari pasi pedenga akanga akafanana.
 >
-> Vaka shongwe inosvika kudenga, svika pasuwo raMwari, unganidza mwoyo yavanhu, uye zivisa zita rako.
+> Vakavaka shongwe yaisvika kudenga-denga, inobata masuo aMwari, ichibatanidza mwoyo, uye vachizvirumbidza nembiri yavo.
 >
-> Jehovha akati: Vanhu vetsika nedzinza rimwe chete vanoumba mhuri yavo pachavo. Kuvaka shongwe nhasi ingori nhanganyaya, asi tichaita zvese mune ramangwana.
+> Ishe akazivisa kuti: Kana vanhu vakagovana mutauro nedzinza, vanova rudzi rumwechete. shongwe inongova kutanga; mumazuva anotevera, hapana chavasingazobudiriri.
 >
-> Ipapo akauya akaparadzira vanhu munzvimbo dzakasiyana-siyana, vasinganzwisisi.
+> Nokudaro, akaburuka, achiita kuti vanhu vapararire kure kure, mitauro yavo yakanga isingachanzwiki kune mumwe nomumwe.
 >
-> Kubva ipapo, kukakavadzana kwakaenderera mberi, uye hapana Babel Tower munyika.
+> Kubva ipapo, kurwisana kwakanga kusingagumi, uye nyika haichaoni shongwe dzaibata denga.
 
 Ndinotarisira kugadzira maturusi kuitira kuti vanhu vepanyika vave sevanhu vane miviri mitatu, vachikurukurirana vasingabatanidzwi nomutauro, uye vanhu vose vabatane zvakare.
 

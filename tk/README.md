@@ -14,15 +14,15 @@ Ylmy fantastika romany &quot;Üç beden&quot; (hytaýça aýdylyşy: `3Ti` ) ele
 
 Injil · Gelip çykyş :
 
-> Şol döwürde dünýäniň dürli künjeginde adamlar birmeňzeş aksent we dil bilen gürleşýärdiler.
+> Şol döwürde asmanyň astyndakylaryň hemmesiniň sesleri we sözleri birdi.
 >
-> Asmana ýetýän, Hudaýyň derwezesine ýetýän, adamlaryň ýüregini ýygnaýan we abraýyňyzy ýaýradýan diň guruň.
+> Hudaýyň derwezelerine degip, ýürekleri birleşdirýän we şöhraty bilen öwünýän asmana ýetýän diň gurdular.
 >
-> Reb şeýle diýdi: Bir medeniýetli we jynsly adamlar öz uruglaryny emele getirýärler. Häzirki wagtda diň gurmak diňe başlangyç, ýöne geljekde hemme zady ederis.
+> Reb yglan etdi: Adamlar dil we nesil paýlaşanda, ýeke taýpa bolýarlar. Minara diňe başlangyç; ýakyn günlerde ýetip boljak zat ýok.
 >
-> Soň bolsa gelip, birek-birege düşünip bilmän adamlary dürli ýerlere dargatdy.
+> Şeýlelik bilen, halkyň uzaklara ýaýramagyna sebäp boldy, dilleri indi biri-birine düşünip bilmedi.
 >
-> Şondan bäri jedeller dowam etdi we dünýäde Babel diňi ýok.
+> Şondan bäri dawa-jenjel dowam edýärdi we dünýä asmana degýän diňleri görmedi.
 
 Earther togalagynyň adamlary üç bedenli adamlar ýaly bolup, dil bilen baglanyşyksyz aragatnaşyk gurup biler we ähli adamzat ýene birleşip biler ýaly gurallar döretmäge umyt edýärin.
 

@@ -14,15 +14,15 @@ Znanstveno-fantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Ti` ) f
 
 Biblija · Postanak :
 
-> U to su vrijeme ljudi diljem svijeta imali isti naglasak i jezik.
+> U to doba, glasovi i riječi svih pod nebom bili su kao jedno.
 >
-> Sagradite toranj koji doseže nebo, dođite do Božjih vrata, okupite srca ljudi i proširite svoj ugled.
+> Sagradili su toranj koji seže do neba, dodiruje vrata Božja, ujedinjuje srca i diči se svojom slavom.
 >
-> Gospodin je rekao: Ljudi iste kulture i rase formiraju vlastiti klan. Izgradnja tornja danas je samo uvod, ali sve ćemo napraviti u budućnosti.
+> Gospodin je objavio: Kad ljudi dijele jezik i lozu, postaju jedno pleme. Kula je samo početak; u danima koji dolaze, nema toga što neće postići.
 >
-> Zatim je došao i raspršio ljude na razna mjesta, ne mogavši ​​se međusobno razumjeti.
+> Tako je On sišao, uzrokujući da se ljudi rasprše nadaleko i naširoko, a njihovi jezici sada jedni drugima nisu razumljivi.
 >
-> Od tada se sporovi nastavljaju, a na svijetu nema Babilonske kule.
+> Od tada pa nadalje, svađa je bila beskrajna i svijet više nije vidio kule koje su dodirivale nebo.
 
 Nadam se da ću stvoriti alate kako bi ljudi na Zemlji mogli biti poput ljudi s tri tijela, komunicirati bez vezanosti jezikom i kako bi se cijelo čovječanstvo moglo ponovno ujediniti.
 

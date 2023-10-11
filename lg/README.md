@@ -14,15 +14,15 @@ Ekitabo kya ssaayansi &quot;Three-Body&quot; (enjatula y'Oluchina: `3Ti` ) kifuu
 
 Baibuli · Olubereberye :
 
-> Mu kiseera ekyo, abantu mu nsi yonna baalina enjogera n’olulimi lwe lumu.
+> Mu mulembe ogwo, amaloboozi n’ebigambo bya bonna wansi w’eggulu byali nga kimu.
 >
-> Zimba omunaala ogutuuka mu bbanga, otuuke ku mulyango gwa Katonda, okukuŋŋaanya emitima gy'abantu, era obunye erinnya lyo.
+> Baazimba omunaala ogwatuuka mu bbanga, nga gukwata ku miryango gya Katonda, nga gugatta emitima, era nga gwenyumiriza mu kitiibwa kyabwe.
 >
-> Mukama n’agamba nti: Abantu ab’obuwangwa n’ekika kye kimu bakola ekika kyabwe. Okuzimba omunaala leero ntandikwa yokka, naye buli kimu tujja kukikola mu biseera eby’omu maaso.
+> Mukama yalangirira nti: Abantu bwe bagabana olulimi n’olunyiriri, bafuuka ekika ekimu. Omunaala guno ntandikwa yokka; mu nnaku ezijja, tewali kye batajja kutuukako.
 >
-> Awo n’ajja n’asaasaanya abantu mu bifo eby’enjawulo, nga tebasobola kutegeeragana.
+> Bwatyo, yakka, n’aleetera abantu okusaasaana ewala n’ewala, ennimi zaabwe kati nga tezitegeerekeka buli omu eri munne.
 >
-> Okuva olwo, enkaayana zaagenda mu maaso, era tewali Munaala gwa Babel mu nsi yonna.
+> Okuva olwo, enkaayana zaali tezikoma, era ensi teyaddamu kulaba minaala egyakwata ku ggulu.
 
 Nsuubira okutondawo ebikozesebwa abantu b’ensi basobole okubeera ng’abantu ab’emibiri esatu, okuwuliziganya nga tebasibiddwa lulimi, era abantu bonna basobole okuddamu okwegatta.
 

@@ -14,15 +14,15 @@ Zinātniskās fantastikas romāns &quot;Trīsķermeņi&quot; (ķīniešu izruna:
 
 Bībele · Genesis :
 
-> Tajā laikā cilvēkiem visā pasaulē bija vienāds akcents un valoda.
+> Tajā laikmetā visu zem debesīm balsis un vārdi bija kā viens viens.
 >
-> Uzcel torni, kas sniedzas līdz debesīm, sasniedz Dieva vārtus, pulcē cilvēku sirdis un izplati savu reputāciju.
+> Viņi uzcēla torni, kas sniedzās līdz debesīm, pieskaras Dieva vārtiem, vienoja sirdis un lepojas ar savu godību.
 >
-> Tas Kungs teica: Vienas kultūras un vienas rases cilvēki veido savu klanu. Torņa celtniecība šodien ir tikai ievads, bet mēs darīsim visu nākotnē.
+> Tas Kungs pasludināja: kad cilvēkiem ir kopīga valoda un cilts, viņi kļūst par atsevišķu cilti. Tornis ir tikai sākums; nākamajās dienās viņi neko nesasniegs.
 >
-> Tad viņš nāca un izklīdināja cilvēkus pa dažādām vietām, nespējot vienam otru saprast.
+> Tā Viņš nolaidās, liekot cilvēkiem izklīst tālu un plaši, un viņu valodas tagad nebija saprotamas viena otrai.
 >
-> Kopš tā laika strīdi turpinās, un pasaulē nav neviena Bābeles torņa.
+> Kopš tā laika strīdi bija nebeidzami, un pasaule vairs neredzēja torņus, kas pieskartos debesīm.
 
 Es ceru izveidot instrumentus, lai cilvēki uz zemes varētu būt kā trīs miesas cilvēki, sazināties bez valodas, un visa cilvēce atkal varētu būt vienota.
 

@@ -14,15 +14,15 @@ Novela de ciencia ficción &quot;Kimsa Cuerpo&quot; (chino aruchja: `3Ti` ) ukax
 
 Biblia · Génesis qillqata :
 
-> Uka tiemponjja, oraqpachankir jaqenakajj pachpa acento ukat arunak parlapjjerïna.
+> Uka tiemponjja, alajjpacha manqhankir taqe jaqenakan arunakapasa, arunakapas mayakïkaspas ukhamänwa.
 >
-> Alaxpachar puriñkamaw mä torre lurapxam, Diosan punkupar puripxam, jaqinakan chuymanakap apthapipxam, ukat sutim yatiyapxam.
+> Alaxpachar puriñkamaw mä torre lurapxäna, Diosan punkunakapar llamktʼasa, chuymanak mayachtʼasa, jachʼañchasisa.
 >
-> Tatitux akham sänwa: Pachpa saräwini ukat pachpa jañchin jaqinakax jupanakan mä clan uñstayapxi. Jichhürunakan mä torre lurañax mä qalltawikiwa, ukampis jutïrinx taqi kuns lurañäni.
+> Tatitux akham sasaw yatiyäna: Kunapachatix jaqinakax arunak uñt’ayasipxi, mä sapa triburuw tukupxi. Uka torrejj qalltakïskiwa; jutir urunakanx janiw kunas jan jikxatapkaniti.
 >
-> Ukatxa jupax jutasinx kunayman chiqanakaruw jaqinakar ch’iqiyatayna, janiw maynit maynikam amuyañjamäkänti.
+> Ukhamatwa saraqanïna, jaqinakarux jaya chiqanakaruw ch’iqiyatayna, arunakapax jichhax maynit maynikamaw jan amuyt’asiñjamakiti.
 >
-> Uka tiempot aksarojja, chʼajjwañanakajj utjaskakiwa, janiw akapachanjja Babel sat torrejj utj-jjeti.
+> Uka tiempot aksarojja, chʼajjwañanakajj janiw tukusjjänti, akapachajj janiw alajjpachar llamktʼir torrenak uñjjjänti.
 
 Uraqpachan jakirinakax kimsa janchini jaqinakjam sarnaqapxañapataki, jan arump chint’ata aruskipt’asipxañapataki, ukat taqpach jaqinakax wasitat mayacht’asipxañapataki, ukanak lurañ suyt’askta.
 

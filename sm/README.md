@@ -14,15 +14,15 @@ O le tala fa'asaienisi talafatu &quot;Three-Body&quot; (Saina fa'auiga: `3Ti` ) 
 
 Tusi Paia · Kenese :
 
-> I lena taimi, sa tutusa lava le faaleoga ma le gagana a tagata i le lalolagi atoa.
+> I lena vaitaimi, o leo ma upu a tagata uma i lalo o le lagi sa tutusa.
 >
-> Fau se olo e oo atu i le lagi, oo atu i le faitotoa o le Atua, faapotopotoina loto o tagata, ma faasalalau atu lou igoa.
+> Na latou fausia se olo e oo atu i le lagi, e paʻi atu i faitotoʻa o le Atua, ma tuufaatasia ai loto, ma mitamita ai i lo latou mamalu.
 >
-> Na fetalai le Alii: O tagata o le aganuu ma le ituaiga e tasi e fai a latou lava aiga. O le fausiaina o se olo i aso nei ua na o se faatomuaga, ae o le a tatou faia mea uma i le lumanai.
+> Na folafola mai e le Alii: A tutusa le gagana ma le gafa o tagata, e avea i latou ma ituaiga e tasi. O le ‘olo o le amataga lea; i aso a sau, e leai se mea latou te le ausia.
 >
-> ‘Ona sau lea o ia ma fa‘ata‘ape‘ape tagata i nu‘u ‘ese‘ese, ‘ua lē femalamalamaa‘i.
+> O lea, na Ia afio ifo ai, ma taapeape ai tagata i mea mamao ma lautele, o a latou gagana ua le malamalama ai le tasi i le isi.
 >
-> Talu mai lenā taimi, ua faaauau pea feeseeseaʻiga, ma ua leai se Olo o Papelu i le lalolagi.
+> Talu mai lenā taimi, e lē uma lava misa, ma ua lē toe vaaia e le lalolagi ni ʻolo e paʻi atu i le lagi.
 
 Ou te faamoemoe e fatu ni meafaigaluega ina ia mafai ai e tagata o le lalolagi ona avea e pei o ni tagata tino-tolu, fesootai e aunoa ma le noatia i le gagana, ma mafai ai ona toe tuufaatasia tagata uma.
 

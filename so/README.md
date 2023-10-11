@@ -14,15 +14,15 @@ Sheekada mala-awaalka sayniska &quot;Three-Body&quot; ( ku dhawaaqida Shiinaha: 
 
 Baybalka · Bilowgii :
 
-> Waqtigaas, dadka adduunka oo dhan waxay lahaayeen lahjad iyo isku af.
+> Waagaas waxa samada hoosteeda oo dhan codkoodii iyo erayadoodiiba mid ahaa.
 >
-> Samo daar samada gaadha, ka gaadh albaabka Eebbe, dadka quluubtooda soo ururi, sumcaddaadana faafi.
+> Waxay dhiseen munaarad gaadhaysa samada sare, oo taabata irdaha Eebbe, oo midaysa quluubta, kuna faanaysa.
 >
-> Sayidku wuxuu yidhi: Dad isku dhaqan iyo isku isir ah ayaa samaysta qabiil iyaga u gaar ah. Dhismaha daar maanta waa horudhac, laakiin wax walba waanu samayn doonaa mustaqbalka.
+> Sayidku wuxuu ku dhawaaqay: Dadku markay af iyo abtirsi wadaagaan waxay noqdaan qabiil keli ah. munaaraddu waa bilowgii; maalmaha soo socda, ma jiraan wax aanay gaadhi doonin.
 >
-> Dabadeed wuu yimid oo dadkii meelo kala duwan ku kala firdhiyey, isma fahmin.
+> Sidaa darteed, wuxuu ku soo degay, oo keenay in dadku ay ku kala firdhaan, afafkoodiina hadda midba midka kale la fahmi karo.
 >
-> Tan iyo markaas, khilaafyadu waa sii socdeen, mana jiro Tower Babel adduunka.
+> Intaa wixii ka dambeeyey khilaafku ma dhammaan, duniduna may arag daaro cirka taabtay.
 
 Waxa aan rajaynayaa in aan sameeyo qalab, si dadka dunidu ay u noqdaan sida dad saddex jir ah, oo ay ku wada xidhiidhaan iyada oo aan af lagu xidhin, oo dhammaan aadamuhu ay mar kale midoobaan.
 

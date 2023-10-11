@@ -14,15 +14,15 @@ Dzɔdzɔmeŋutinunya me nyakpakpa gbalẽ si nye &quot;Three-Body&quot; (Chinagb
 
 Biblia · Mose ƒe Agbalẽ Gbãtɔ :
 
-> Ɣemaɣi la, gbegbɔgblɔ kple gbegbɔgblɔ ɖeka nɔ amewo si le xexeame katã.
+> Le ɣeyiɣi ma me la, amewo katã ƒe gbe kple nya siwo le dziƒo te la nɔ abe ɖeka ene.
 >
-> Tu xɔ kɔkɔ si ɖo dziƒo, ɖo Mawu ƒe agbo nu, ƒo amewo ƒe dzi nu ƒu, eye nàkaka wò ŋkɔ.
+> Wotu xɔ kɔkɔ aɖe si de dziƒo, si ka Mawu ƒe agbowo, si wɔ dziwo ɖekae, eye wòƒo adegbe le woƒe ŋutikɔkɔe ŋu.
 >
-> Aƒetɔ la gblɔ be: Ame siwo tso dekɔnu kple ameƒomevi ɖeka me la tsoa woawo ŋutɔ ƒe to. Xɔ kɔkɔ tutu egbea nye ŋgɔdonya ko, gake míawɔ nusianu le etsɔme.
+> Aƒetɔ la ɖe gbeƒã be: Ne amewo ma gbegbɔgblɔ kple dzidzime ɖeka la, wozua to ɖeka. Gɔmedzedze koe xɔ kɔkɔa nye; le ŋkeke siwo gbɔna me la, naneke meli si gbɔ womate ŋu aɖo o.
 >
-> Emegbe eva kaka ameawo ɖe teƒe vovovowo, eye womete ŋu se wo nɔewo gɔme o.
+> Aleae wòɖiɖi, si na ameawo kaka ɖe didiƒe ʋĩ, woƒe gbegbɔgblɔwo megate ŋu sea wo nɔewo gɔme azɔ o.
 >
-> Tso ɣemaɣi la, nyaʋiʋliwo yi edzi, eye Babel Mɔ̃ kɔkɔ aɖeke mele xexeame o.
+> Tso ɣemaɣi la, dzre nu metsina o, eye xexeame megakpɔ xɔ kɔkɔ siwo ka dziŋgɔli o.
 
 Mele mɔ kpɔm be mawɔ dɔwɔnuwo ale be anyigbadzitɔwo nate ŋu anɔ abe ame siwo ƒe ŋutilã etɔ̃ le ene, woaɖo dze evɔ gbegbɔgblɔ mabla wo o, eye ameƒomea katã nagate ŋu awɔ ɖeka ake.
 

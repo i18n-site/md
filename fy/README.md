@@ -14,15 +14,15 @@ De science fiction-roman &quot;Three-Body&quot; (Sineeske útspraak: `3Ti` ) fik
 
 Bibel · Genesis :
 
-> Yn dy tiid hiene minsken oer de hiele wrâld itselde aksint en taal.
+> Yn dat tiidrek wiene de stimmen en wurden fan allegearre ûnder de himel as ien.
 >
-> Bou in toer dy't de himel berikt, berikke de poarte fan God, sammelje de herten fan minsken, en fersprieden jo reputaasje.
+> Se bouden in toer dy't himel heech berikte, de poarten fan God oanrekke, herten ferienigje en har gloarje opskeppe.
 >
-> De Heare sei: Minsken fan deselde kultuer en ras foarmje in eigen clan. It bouwen fan in toer hjoed is mar in opmaat, mar wy sille alles dwaan yn 'e takomst.
+> De Heare ferkundige: As minsken taal en line diele, wurde se in ienige stam. De toer is mar it begjin; yn de kommende dagen, der is neat se sille net berikke.
 >
-> Doe kaam er en ferspriede de minsken op ferskate plakken, net yn steat om inoar te begripen.
+> Sa kaam Hy del, wêrtroch't de minsken fier en wijd ferspriede, har talen no ûnbegryplik foar inoar.
 >
-> Sûnt dy tiid hawwe konflikten oanhâlden, en der is gjin Babel Tower yn 'e wrâld.
+> Fan doe ôf wie de striid ûneinich, en seach de wrâld gjin tuorren mear dy't de himel oanrekke.
 
 Ik hoopje ark te meitsjen sadat de minsken fan 'e ierde as trije-lichem minsken kinne wêze, kommunisearje sûnder bûn te wurden troch taal, en it heule minskdom wer ferienige wurde kin.
 

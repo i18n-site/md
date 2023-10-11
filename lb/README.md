@@ -14,15 +14,15 @@ De Science Fiction Roman &quot;Three-Body&quot; (Chinesesch Aussprooch: `3Ti` ) 
 
 Bibel · Genesis :
 
-> Deemools haten d'Leit op der ganzer Welt deeselwechten Akzent a Sprooch.
+> An där Ära waren d'Stëmmen a Wierder vun allen ënner dem Himmel als een.
 >
-> Baut en Tuerm deen den Himmel erreecht, erreecht d'Paart vu Gott, sammelt d'Häerzer vun de Leit, a verbreet Äre Ruff.
+> Si hunn en Tuerm gebaut, deen den Himmel héich erreecht huet, d'Tore vu Gott beréiert, d'Häerzer vereenegt a mat hirer Herrlechkeet präsentéieren.
 >
-> Den Här sot: Leit vun der selwechter Kultur a Rass bilden en eegene Clan. Haut en Tuerm bauen ass just en Optakt, mä mir wäerten an Zukunft alles maachen.
+> Den Här huet verkënnegt: Wann d'Leit Sprooch a Lineage deelen, gi se zu engem eenzege Stamm. Den Tuerm ass nëmmen den Ufank; an den nächsten Deeg gëtt et näischt wat se net erreechen.
 >
-> Dunn ass hien komm an huet d'Leit op verschiddene Plazen verspreet, onfäheg sech ze verstoen.
+> Sou ass Hien erofgaang, wouduerch d'Leit wäit a breet verspreet hunn, hir Sproochen sinn elo uneneen onverständlech.
 >
-> Zënterhier sinn Streidereien weidergaangen, an et gëtt kee Babeltuerm op der Welt.
+> Vun do un war de Sträit onendlech, an d'Welt huet keng Tierm méi gesinn, déi den Himmel beréiert hunn.
 
 Ech hoffen Tools ze kreéieren sou datt d'Leit vun der Äerd wéi dräi-Kierper Leit kënne kommunizéieren ouni vu Sprooch gebonnen ze sinn, an d'ganz Mënschheet erëm vereenegt ka sinn.
 

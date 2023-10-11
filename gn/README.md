@@ -14,15 +14,15 @@ Pe novela ciencia ficción &quot;Mbohapy Cuerpo&quot; (pronunciación chino: `3T
 
 Biblia · Génesis :
 
-> Upe tiémpope umi hénte oĩva oparupiete ko múndope oreko peteĩchapa acento ha idióma.
+> Upe épokape, opavave yvága guýpe ñe’ẽ ha ñe’ẽ peteĩcha.
 >
-> Emopu’ã peteĩ tórre oguahẽva yvága peve, eguahẽ Ñandejára rokẽme, embyaty tapichakuéra korasõ ha emyasãi nde réra.
+> Omopu’ã hikuái peteĩ tórre og̃uahẽva yvága peve, opokóva Ñandejára rokẽre, ombojoajúva korasõ ha oñemomba’eguasúva igloria rehe.
 >
-> Ñandejára he’i: Umi tapicha peteĩchagua cultura ha raza-pegua ojapo peteĩ clan imba’éva. Oñemopu’ãvo peteĩ torre ko árape ha’e peteĩ preludio-nte, ha katu opa mba’e jajapóta tenonderãme.
+> Ñandejára omoherakuã: Umi tapicha okomparti jave ñe’ẽ ha ñemoñare, oiko chuguikuéra peteĩ tribu singular. Pe tórre ha’e peteĩ ñepyrũnte; ára oúvape, ndaipóri mba'eve ndohupytýiva hikuái.
 >
-> Upéi ou ha omosarambi umi tavayguakuérape opaichagua hendápe, ndaikatúi oñontende.
+> Péicha, Ha’e oguejy, omosarambívo tavayguakuéra mombyry ha mombyry, iñe’ẽnguéra ko’áĝa noñeñandúiva ojupe.
 >
-> Upe guive osegi umi disputa, ha ndaipóri Torre de Babel ko múndope.
+> Upe guive ndopamoʼãi pe ñorairõ, ha ko múndo ndohechavéima umi tórre opokóva yvágare.
 
 Aha’arõ amoheñói tembiporu ikatu hag̃uáicha umi yvy arigua ha’e peteĩ tapicha mbohapy hete reheguaicha, oñemongeta oñeñapytĩ’ỹre ñe’ẽre, ha opavave yvypóra oñembojoaju jey.
 

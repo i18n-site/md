@@ -14,15 +14,15 @@ Iwe itan itan-akọọlẹ imọ-jinlẹ “Ara-mẹta” ( pronunciation Kannad
 
 Bibeli · Genesisi :
 
-> Lákòókò yẹn, àwọn èèyàn kárí ayé ní èdè kan náà.
+> Ni akoko yẹn, ohùn ati ọrọ gbogbo labẹ ọrun dabi ọkan.
 >
-> Kọ ile-iṣọ kan ti o de ọrun, de ẹnu-ọna Ọlọrun, ko awọn ọkan eniyan jọ, ki o si tan orukọ rẹ kalẹ.
+> Wọ́n kọ́ ilé-ìṣọ́ kan tí ó ga sókè, tí ó kan àwọn ẹnu-ọ̀nà Ọlọrun, wọ́n ń so ọkàn wọn ṣọ̀kan, tí wọ́n sì ń gbé ògo wọn ga.
 >
-> Oluwa sọ pe: Awọn eniyan ti aṣa ati ẹya kanna ṣe idile ti ara wọn. Kọ ile-iṣọ kan loni jẹ asọtẹlẹ nikan, ṣugbọn a yoo ṣe ohun gbogbo ni ọjọ iwaju.
+> Oluwa kede pe: Nigbati eniyan ba pin ede ati idile, wọn di ẹya kanṣoṣo. Ile-iṣọ jẹ ṣugbọn ibẹrẹ; ni awọn ọjọ ti mbọ, ko si ohun ti wọn kii yoo ṣaṣeyọri.
 >
-> Lẹ́yìn náà, ó wá, ó sì tú àwọn èèyàn ká sí onírúurú ibi, wọn ò lè lóye ara wọn.
+> Nípa bẹ́ẹ̀, Ó sọ̀kalẹ̀, tí ó mú kí àwọn ènìyàn túká káàkiri, àwọn èdè wọn nísinsìnyí tí wọn kò lè lóye ara wọn.
 >
-> Lati igba naa, awọn ariyanjiyan ti tẹsiwaju, ko si si Ile-iṣọ Babel ni agbaye.
+> Láti ìgbà náà lọ, ìjà kò dópin, ayé kò sì rí ilé gogoro tí ó kan ojú ọ̀run mọ́.
 
 Mo nireti lati ṣẹda awọn irinṣẹ ki awọn eniyan aye ba le dabi eniyan ti o ni ara mẹta, ki wọn sọrọ laisi ede, ati pe gbogbo eniyan le tun wa ni isokan.
 

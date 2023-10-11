@@ -14,15 +14,15 @@ La novela de ciencia ficción &quot;Three-Body&quot; (pronunciación china: `3Ti
 
 Biblia · Génesis :
 
-> En aquella época, la gente de todo el mundo tenía el mismo acento y el mismo idioma.
+> En esa época, las voces y palabras de todo lo que había bajo los cielos eran una sola.
 >
-> Construye una torre que llegue al cielo, llega a la puerta de Dios, reúne los corazones de las personas y difunde tu reputación.
+> Construyeron una torre que llegaba hasta el cielo, tocando las puertas de Dios, uniendo corazones y alardeando de su gloria.
 >
-> El Señor dijo: Las personas de la misma cultura y raza forman su propio clan. Construir una torre hoy es sólo un preludio, pero lo haremos todo en el futuro.
+> El Señor proclamó: Cuando las personas comparten lengua y linaje, se convierten en una tribu singular. La torre no es más que el comienzo; En los días venideros, no habrá nada que no logren.
 >
-> Luego vino y dispersó a la gente por distintos lugares, sin poder entenderse unos a otros.
+> Así, Él descendió, haciendo que la gente se dispersara por todas partes, y sus idiomas ahora eran ininteligibles entre sí.
 >
-> Desde entonces, las disputas han continuado y no existe la Torre de Babel en el mundo.
+> A partir de entonces, los conflictos fueron interminables y el mundo no vio más torres que tocaran el cielo.
 
 Espero crear herramientas para que los habitantes de la tierra puedan ser como personas de tres cuerpos, comunicarse sin estar limitados por el lenguaje y toda la humanidad pueda volver a unirse.
 

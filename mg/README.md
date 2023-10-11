@@ -14,15 +14,15 @@ Ny tantara foronina momba ny siansa &quot;Vata Telo&quot; (fanononana amin'ny te
 
 Baiboly · Genesisy :
 
-> Tamin’izany fotoana izany, dia nitovy ny fiteniny sy ny fiteniny eran-tany.
+> Tamin’izany vanim-potoana izany, dia toy ny iray ihany ny feo sy ny tenin’izay rehetra ambanin’ny lanitra.
 >
-> Manaova tilikambo manakatra ny lanitra, mankanesa amin’ny vavahadin’Andriamanitra, angony ny fon’ny olona, ​​ary aelezo ny lazanao.
+> Nanorina tilikambo manakatra ny lanitra izy ireo, nikasika ny vavahadin’Andriamanitra, nampiray fo sy nirehareha ny voninahiny.
 >
-> Hoy ny Tompo: Ny olona mitovy kolontsaina sy firazanana dia samy manana ny fokony avy. Ny fananganana tilikambo anio dia santatra fotsiny, fa hataontsika ny zava-drehetra amin'ny ho avy.
+> Hoy ny Tompo: Rehefa mizara fiteny sy firazanana ny olona dia lasa foko tokana izy ireo. Ny tilikambo dia vao fiandohana; Amin'ny andro ho avy dia tsy hisy tsy ho azony.
 >
-> Dia tonga izy ka nampihahaka ny olona tamin'ny tany samy hafa, ka tsy nifankahazo.
+> Noho izany, dia nidina Izy, ka nampiely patrana ny olona, ​​ary ny fiteniny ankehitriny dia tsy takatry ny saina.
 >
-> Nanomboka teo, dia nitohy ny fifandirana, ary tsy nisy Tilikambo Babela teto an-tany.
+> Nanomboka teo dia tsy nitsahatra ny fifandirana, ary tsy nisy tilikambo nikasika ny lanitra intsony izao tontolo izao.
 
 Manantena ny hamorona fitaovana aho mba hahatonga ny mponina eto an-tany ho toy ny olona telo, mifampiresaka tsy voafatotry ny fiteny, ary afaka miray hina indray ny olombelona rehetra.
 

@@ -14,15 +14,15 @@ De sciencefictionroman &quot;Three-Body&quot; (Chinese uitspraak: `3Ti` ) fictio
 
 Bijbel · Genesis :
 
-> In die tijd hadden mensen over de hele wereld hetzelfde accent en dezelfde taal.
+> In die tijd waren de stemmen en woorden van iedereen onder de hemel als één.
 >
-> Bouw een toren die tot in de hemel reikt, bereik de poort van God, verzamel de harten van mensen en verspreid je reputatie.
+> Ze bouwden een toren die torenhoog reikte, de poorten van God raakte, harten verenigde en opschepte over hun glorie.
 >
-> De Heer zei: Mensen van dezelfde cultuur en hetzelfde ras vormen een eigen clan. Vandaag een toren bouwen is slechts een opmaat, maar we zullen er in de toekomst alles aan doen.
+> De Heer verkondigde: Wanneer mensen taal en afkomst delen, worden ze een unieke stam. De toren is nog maar het begin; in de komende dagen is er niets dat ze niet zullen bereiken.
 >
-> Toen kwam hij en verspreidde de mensen over verschillende plaatsen, niet in staat elkaar te begrijpen.
+> Zo daalde Hij neer, waardoor de mensen zich wijd en zijd verspreidden, waarbij hun talen nu onbegrijpelijk voor elkaar waren.
 >
-> Sindsdien zijn de geschillen voortgezet en is er geen Babeltoren meer in de wereld.
+> Vanaf dat moment was er geen einde meer aan de strijd en zag de wereld geen torens meer die de hemel raakten.
 
 Ik hoop hulpmiddelen te creëren zodat de mensen op aarde als mensen met drie lichamen kunnen zijn, kunnen communiceren zonder gebonden te zijn aan taal, en de hele mensheid weer verenigd kan worden.
 

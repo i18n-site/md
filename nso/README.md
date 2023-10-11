@@ -14,15 +14,15 @@ Padi ya saense ya boikgopolelo ya &quot;Three-Body&quot; (mmiletšo wa Setšhaen
 
 Beibele · Genesi :
 
-> Ka nako yeo, batho lefaseng ka moka ba be ba e-na le segalo le polelo e swanago.
+> Mehleng yeo, mantšu le mantšu a bohle ka tlase ga magodimo di be di swana le selo se tee.
 >
-> Aga tora yeo e fihlago leratadimeng, o fihle kgorong ya Modimo, o kgoboketše dipelo tša batho, o phatlalatše botumo bja gago.
+> Ba aga tora yeo e fihlago leratadimeng, e kgoma dikgoro tša Modimo, e kopanya dipelo, e bile e ikgantšha ka letago la bona.
 >
-> Morena a re: Batho ba setšo le morafe o tee ba bopa kgoro ya bona. Go aga tora lehono e fo ba ketapele, eupša re tla dira se sengwe le se sengwe nakong e tlago.
+> Morena o ile a tsebatša gore: Ge batho ba abelana polelo le lešika, ba fetoga morafe o tee. Tora e fo ba mathomo; matšatšing a tlago, ga go na selo seo ba ka se se fihlelelego.
 >
-> Ke moka a tla a phatlalatša batho mafelong a go fapafapana, ba sa kgone go kwešišana.
+> Ka go realo, O ile a theoga, a dira gore batho ba phatlale kgole le kgauswi, maleme a bona bjale a sa kwešišege go yo mongwe le yo mongwe.
 >
-> Ga e sa le go tloga ka nako yeo, dingangišano di ile tša tšwela pele, gomme ga go na Tora ya Babele lefaseng.
+> Go tloga ka nako yeo go ya pele, dingangišano di be di sa fele, gomme lefase le be le se sa bona ditora tšeo di kgomago leratadima.
 
 Ke holofela go hlama didirišwa gore batho ba lefase ba kgone go swana le batho ba mebele ye meraro, ba boledišana ntle le go tlemiwa ke polelo, gomme batho ka moka ba kgone go kopana gape.
 

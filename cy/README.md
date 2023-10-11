@@ -14,15 +14,15 @@ Mae'r nofel ffuglen wyddonol &quot;Three-Body&quot; (ynganiad Tsieineaidd: `3Ti`
 
 Beibl · Genesis :
 
-> Bryd hynny, roedd gan bobl ar draws y byd yr un acen ac iaith.
+> Yn yr oes honno, yr oedd lleisiau a geiriau pawb dan y nefoedd fel un.
 >
-> Adeiladwch dwr sy'n cyrraedd yr awyr, cyrraedd porth Duw, casglwch galonnau pobl, a lledaewch eich enw da.
+> Adeiladasant dwr yn cyraedd nen-uchel, gan gyffwrdd â phyrth Duw, gan uno calonnau, ac ymffrostio yn eu gogoniant.
 >
-> Dywedodd yr Arglwydd: Mae pobl o'r un diwylliant a hil yn ffurfio clan eu hunain. Rhagarweiniad yn unig yw adeiladu tŵr heddiw, ond fe wnawn ni bopeth yn y dyfodol.
+> Cyhoeddodd yr Arglwydd: Pan fydd pobl yn rhannu iaith a llinach, maent yn dod yn llwyth unigol. Nid yw y twr ond y dechreu ; mewn dyddiau i ddod, does dim byd na fyddant yn ei gyflawni.
 >
-> Yna efe a ddaeth ac a wasgarodd y bobl mewn amrywiol leoedd, heb allu deall ei gilydd.
+> Felly disgynnodd Efe, gan beri i'r bobl wasgaru ymhell ac agos, eu hieithoedd yn awr yn annealladwy i'w gilydd.
 >
-> Ers hynny, mae anghydfodau wedi parhau, ac nid oes Tŵr Babel yn y byd.
+> O hynny ymlaen, roedd ymryson yn ddiddiwedd, ac ni welodd y byd mwy o dyrau a gyffyrddodd â'r awyr.
 
 Rwy'n gobeithio creu arfau fel y gall pobl y ddaear fod fel pobl tri chorff, cyfathrebu heb fod yn rhwym wrth iaith, a bod dynolryw i gyd yn gallu bod yn unedig eto.
 

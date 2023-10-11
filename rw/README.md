@@ -14,15 +14,15 @@ Igitabo gihimbano cya siyansi &quot;Imibiri itatu&quot; (Imvugo y'Igishinwa: `3T
 
 Bibiliya · Itangiriro :
 
-> Muri kiriya gihe, abantu kwisi yose bari bafite imvugo nururimi rumwe.
+> Muri kiriya gihe, amajwi n'amagambo ya bose munsi y'ijuru byari bimwe.
 >
-> Wubake umunara ugera mwijuru, ugere ku irembo ryImana, ukoranya imitima yabantu, kandi ukwirakwize izina ryawe.
+> Bubatse umunara ugera mu kirere, ukora ku marembo y'Imana, uhuza imitima, kandi wirata icyubahiro cyabo.
 >
-> Uwiteka yaravuze ati: Abantu bo mumico imwe nubwoko bumwe bagize umuryango wabo. Kubaka umunara uyumunsi ni intangiriro, ariko tuzakora byose mugihe kizaza.
+> Uwiteka yatangaje ati: Iyo abantu basangiye ururimi n'imiryango, bahinduka ubwoko bumwe. Umunara ni intangiriro; muminsi iri imbere, ntakintu batazageraho.
 >
-> Hanyuma araza atatanya abantu ahantu hatandukanye, adashobora kumvikana.
+> Rero, Yamanutse, atera abantu gutatana kure, indimi zabo ubu ntizumvikana.
 >
-> Kuva icyo gihe, amakimbirane yarakomeje, kandi nta Munara wa Babel uri ku isi.
+> Kuva icyo gihe, amakimbirane ntiyarangiraga, kandi isi ntiyongeye kubona iminara ikora ku kirere.
 
 Nizeye gukora ibikoresho kugirango abatuye isi bashobore kumera nkabantu batatu, bavugane batagengwa nururimi, kandi abantu bose bashobora kongera guhuzwa.
 

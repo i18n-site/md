@@ -14,15 +14,15 @@ Dɔnniya gafe min tɔgɔ ye ko &quot;Three-Body&quot; (Sinuwakan fɔcogo: `3Ti` 
 
 Bibulu · Jenɛse :
 
-> O waati la, diɲɛ fan bɛɛ la, mɔgɔw ka fɔcogo ni u ka kan tun ye kelen ye.
+> O waati la, sankolo jukɔrɔ mɔgɔw bɛɛ kanw ni u ka kumaw tun bɛ i ko kelen.
 >
-> Aw ye sankanso jɔ min bɛ se sankolo la, ka se Ala da la, ka mɔgɔw dusukunw lajɛ, ka aw tɔgɔ jɛnsɛn.
+> U ye sankanso dɔ jɔ min tun bɛ se sankolo la, ka maga Ala ka daaw la, ka dusukunw fara ɲɔgɔn kan, ka waso u nɔɔrɔ la.
 >
-> Matigi ko: Mɔgɔ minnu ka ladamu ni u siya ye kelen ye, olu bɛ jamu dɔ sigi u yɛrɛ ye. Sankanso jɔli bi, o ye daminɛ dɔrɔn de ye, nka an bɛna fɛn bɛɛ kɛ don nataw la.
+> Matigi y’a fɔ ko: Ni mɔgɔw bɛ kan ni bɔnsɔn tila ɲɔgɔn na, u bɛ kɛ kabila kelen ye. Sankanso in ye daminɛ dɔrɔn de ye; don nataw la , foyi t' u tɛna se ka min sɔrɔ .
 >
-> O kɔ, a nana mɔgɔw jɛnsɛn yɔrɔ caman na, u ma se ka ɲɔgɔn faamu.
+> O cogo la, A Jiginna, ka kɛ sababu ye ka jamanadenw jɛnsɛn yɔrɔ jan, u ka kanw tɛ Faamu ɲɔgɔn fɛ sisan.
 >
-> Kabini o waati, sɔsɔliw tora senna, wa Babɛl sankanso tɛ diɲɛ kɔnɔ.
+> Kabini o waati, kɛlɛw tun tɛ ban, wa diɲɛ ma sankansobaw ye tugun minnu bɛ maga sankolo la.
 
 N jigi b’a kan ka baarakɛminɛnw da walasa dugukolo mɔgɔw ka se ka kɛ i n’a fɔ farikolo saba, ka kumaɲɔgɔnya kɛ k’a sɔrɔ kan ma siri, hadamaden bɛɛ ka se ka fara ɲɔgɔn kan kokura.
 

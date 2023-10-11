@@ -14,15 +14,15 @@ Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci: `3Ti` )
 
 Littafi Mai Tsarki · Farawa :
 
-> A lokacin, mutane a duk faɗin duniya suna da lafazi da harshe iri ɗaya.
+> A wannan zamanin, muryoyi da kalmomi na dukan waɗanda suke ƙarƙashin sama sun zama ɗaya.
 >
-> Ka gina hasumiya wadda ta kai sama, ka isa kofar Allah, ka tattaro zukatan mutane, ka yada sunanka.
+> Suka gina hasumiya wadda ta kai sama, tana taɓa ƙofofin Allah, suna haɗa zukata, suna takama da ɗaukaka.
 >
-> Ubangiji ya ce: Mutanen da suke da al'adu da kabila iri daya ne suka kafa danginsu. Gina hasumiya a yau shine kawai share fage, amma za mu yi komai a nan gaba.
+> Ubangiji ya yi shelar cewa: Lokacin da mutane suka raba harshe da zuriya, sai su zama kabila ɗaya. Hasumiyar ita ce farkon; a kwanaki masu zuwa, babu abin da ba za su cimma ba.
 >
-> Sai ya zo ya warwatsa mutane a wurare daban-daban, sun kasa fahimtar juna.
+> Ta haka ne ya sauko, ya sa jama’a suka watse a ko’ina, harsunansu ba sa fahimtar juna.
 >
-> Tun daga wannan lokacin, jayayya ta ci gaba, kuma babu Hasumiyar Babel a duniya.
+> Tun daga wannan lokacin rigima ba ta ƙarewa, kuma duniya ba ta ƙara ganin hasumiyai da suka taɓa sararin sama ba.
 
 Ina fata in ƙirƙira kayan aiki domin mutanen duniya su zama kamar mutane uku, su yi magana ba tare da an ɗaure su da harshe ba, kuma dukan ’yan Adam su kasance da haɗin kai kuma.
 

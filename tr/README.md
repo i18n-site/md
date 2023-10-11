@@ -14,15 +14,15 @@ Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Ti` ), elektroma
 
 İncil · Yaratılış :
 
-> O zamanlar dünyanın her yerindeki insanlar aynı aksan ve dile sahipti.
+> O devirde göklerin altındaki herkesin sesi, sözü birdi.
 >
-> Göğe uzanan bir kule inşa et, Allah'ın kapısına ulaş, insanların gönüllerini topla, itibarını yayalım.
+> Göklere kadar uzanan, Allah'ın kapılarına dokunan, kalpleri birleştiren, izzetleriyle övünen bir kule inşa ettiler.
 >
-> Rab şöyle dedi: Aynı kültür ve ırktan insanlar kendilerine ait bir klan oluştururlar. Bugün bir kule inşa etmek sadece bir başlangıç ​​ama gelecekte her şeyi yapacağız.
+> Rab şunu ilan etti: İnsanlar dili ve soyu paylaştıklarında tek bir kabile haline gelirler. Kule yalnızca başlangıçtır; Önümüzdeki günlerde başaramayacakları hiçbir şey yok.
 >
-> Daha sonra gelip, birbirlerini anlayamayan insanları çeşitli yerlere dağıttı.
+> Böylece O indi ve insanların dilleri artık birbirlerinin anlamadığı şekilde uzaklara dağılmasına neden oldu.
 >
-> O tarihten bu yana tartışmalar devam ediyor ve dünyada Babil Kulesi yok.
+> O andan itibaren çekişmeler sona ermedi ve dünya artık gökyüzüne değen kuleler görmedi.
 
 Dünya insanlarının üç bedenli insanlar gibi olabilmesi, dile bağlı kalmadan iletişim kurabilmesi ve tüm insanlığın yeniden birleşebilmesi için araçlar yaratmayı umuyorum.
 

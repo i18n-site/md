@@ -14,15 +14,15 @@ Romana çîroka zanistî &quot;Three-Body&quot; (navdêra Çînî: `3Ti` ) şari
 
 Încîl · Destpêbûn :
 
-> Di wê demê de gelên li hemû cîhanê xwedî heman lehce û ziman bûn.
+> Di wê serdemê de deng û gotinên hemûyan ên di bin ezmên de weke hev bûn.
 >
-> Birceke ku bigihije ezmanan ava bikin, bigihijin deriye Xwede, dile mirovan kom bikin, nave xwe belav bikin.
+> Wan bircek ava kirin ku digihêje ezmanan, destê xwe didan deriyên Xwedê, dilan yek dikirin û bi rûmeta xwe pesnê xwe didin.
 >
-> Xudan got: Mirovên ji heman çand û nijadê ji xwe re qebîleyekê ava dikin. Çêkirina bircê îro tenê pêşgotinek e, lê em ê di pêşerojê de her tiştî bikin.
+> Xudan daxuyand: Dema ku mirov ziman û rêzê parve dikin, ew dibin eşîrek yekane. Birca lê destpêk e; di rojên pêş de, tiştek ku ew ê bi dest nexin tune.
 >
-> Paşê hat û xelq li ciyên cûrbecûr belawela kir, ji hev fam nedikirin.
+> Bi vî awayî, Ew daket jêr û bû sedem ku xelk ji hev dûr û dirêj belav bibin, zimanên wan êdî ji hev nayên famkirin.
 >
-> Ji hingê ve, nakokî berdewam dikin, û li cîhanê Birca Babîlê tune.
+> Ji wê demê û pê de, pevçûn bêdawî bû, û dinyayê êdî tu bircên ku li ezmên dikevin nedît.
 
 Ez hêvî dikim ku amûran biafirînim da ku gelên dinyayê bibin wek mirovên sê-bedenî, bêyî ku bi ziman ve bên girêdan bi hev re têkilî daynin û hemû mirovahî dîsa bibin yek.
 

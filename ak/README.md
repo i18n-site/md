@@ -14,15 +14,15 @@ Nyansahu mu ayɛsɛm ayɛsɛm &quot;Three-Body&quot; (China kasa mu nsɛmfua din
 
 Bible · Genesis :
 
-> Saa bere no, na nnipa a wɔwɔ wiase nyinaa wɔ kasa ne kasa koro.
+> Saa bere no mu no, na wɔn a wɔwɔ ɔsoro ase nyinaa nne ne wɔn nsɛm te sɛ biako.
 >
-> Si abantenten a ɛkɔ soro, du Onyankopɔn pon ano, boaboa nkurɔfo koma ano, na trɛw wo din mu.
+> Wosii abantenten a ɛkɔ soro kodu soro, na ɛka Onyankopɔn apon, na ɛka koma bom, na wɔde wɔn anuonyam hoahoaa wɔn ho.
 >
-> Awurade kaa sɛ: Nnipa a wɔn amammerɛ ne abusua koro hyehyɛ wɔn ankasa abusua. Abantenten a yɛbɛsi nnɛ no yɛ nnianim asɛm ara kwa, nanso yɛbɛyɛ biribiara daakye.
+> Awurade bɔɔ dawuru sɛ: Sɛ nnipa kyɛ kasa ne abusua a, wɔbɛyɛ abusuakuw biako. Abantenten no yɛ mfiase ara kwa; nna a ɛreba no mu no, biribiara nni hɔ a wɔrennya.
 >
-> Afei ɔbaa hɔ bɛbɔɔ nnipa no apete mmeae ahorow, a na wontumi nte wɔn ho wɔn ho ase.
+> Enti, Ɔsiane baa fam, na ɔmaa nkurɔfoɔ no hwetee kɔɔ akyirikyiri, na afei deɛ wɔn kasa ntumi nte wɔn ho ase.
 >
-> Efi saa bere no, akasakasa akɔ so, na Babel Abantenten biara nni wiase.
+> Efi saa bere no, na ntawntawdi nni awiei, na wiase no anhu abantenten a ɛka wim bio.
 
 Mewɔ anidaso sɛ mɛbɔ nnwinnade sɛnea ɛbɛyɛ a asase so nnipa betumi ayɛ sɛ nnipa a wɔwɔ nipadua abiɛsa, adi nkitaho a kasa nkyekyere wɔn, na adesamma nyinaa atumi ayɛ biako bio.
 

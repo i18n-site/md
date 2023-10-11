@@ -14,15 +14,15 @@ Roman ya science fiction &quot;Tree-Body&quot; (prononciation chinois: `3Ti` ) e
 
 Biblia · Ebandeli :
 
-> Na ntango wana, bato na mokili mobimba bazalaki na accent mpe monɔkɔ ndenge moko.
+> Na eleko wana, mingongo mpe maloba ya bato nyonso oyo bazalaki na nse ya likoló ezalaki lokola likambo moko.
 >
-> Tonga tour oyo ekomi na lola, bokoma na porte ya Nzambe, bosangisa mitema ya batu, pe panza lokumu na bino.
+> Batongaki ndako molai oyo ekómaki na likoló, esimbaki baporte ya Nzambe, esangisaki mitema, mpe ekumisaka nkembo na bango.
 >
-> Nkolo alobaki: Bato ya mimeseno mpe mposo moko basalaka libota ya bango moko. Kotonga linɔ́ngi lelo ezali kaka ebandeli, kasi tokosala nyonso na mikolo ezali koya.
+> Nkolo asakolaki ete: Ntango bato bakabolaka monoko mpe molɔngɔ, bakomaka libota moko. Linɔ́ngi yango ezali bobele ebandeli; na mikolo ekoya, eloko moko te bakokokisa te.
 >
-> Na nsima, ayaki kopalanganisa bato na bisika ndenge na ndenge, kozangaka kososolana.
+> Na boye, Akitaki, kosala ete bato bapalangana mosika mpe mosika, minoko na bango sikawa ekoki kososolama te moko na mosusu.
 >
-> Banda wana, matata mazali kokoba, mpe Linɔ́ngi ya Babele ezali te na mokili.
+> Kobanda wana, koswana ezalaki kosila te, mpe mokili emonanaki lisusu te bandako milai oyo esimbaki likoló.
 
 Nazali na elikya ya kokela bisaleli mpo ete bato ya mabele bakoka kozala lokola bato ya nzoto misato, kosolola kozanga kokangama na monoko, mpe bato banso bakoka kosangana lisusu.
 

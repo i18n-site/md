@@ -14,15 +14,15 @@ Esan nahiko nuke **itzulpen estatikoak sortzen dituzten webguneek soilik onartze
 
 Biblia · Genesis :
 
-> Garai hartan, mundu osoko jendeak azentu eta hizkuntza bera zuten.
+> Garai hartan, zeru azpiko guztien ahotsak eta hitzak bat bezala ziren.
 >
-> Eraiki zerura iristen den dorre bat, heldu Jainkoaren atarira, bildu jendearen bihotzak eta zabaldu zure ospea.
+> Zeruraino iristen zen dorre bat eraiki zuten, Jainkoaren ateak ukituz, bihotzak elkartuz eta beren aintzaz harrotuz.
 >
-> Jaunak esan zuen: Kultura eta arraza bereko pertsonek beren klan bat osatzen dute. Gaur dorre bat eraikitzea aurresku bat besterik ez da, baina etorkizunean dena egingo dugu.
+> Jaunak aldarrikatu zuen: Jendeak hizkuntza eta leinua partekatzen dituenean, tribu berezi bihurtzen dira. Dorrea hasiera baino ez da; datozen egunetan, ez da lortuko ez duten ezer.
 >
-> Orduan etorri zen eta jendea hainbat tokitan barreiatu zuen, elkar ulertu ezinik.
+> Horrela, jaitsi zen, jendea urrun eta zabalera sakabanatzea eraginez, haien hizkuntzak orain elkar ulergaitzak.
 >
-> Harrezkero, liskarrek jarraitu dute, eta munduan ez dago Babel Dorrerik.
+> Handik aurrera, liskarrak amaigabeak izan ziren, eta munduak ez zuen zerua ukitzen zuten dorrerik ikusi.
 
 Tresnak sortzea espero dut, lurreko jendea hiru gorputzeko pertsonak bezalakoa izan dadin, hizkuntzari lotu gabe komunikatu eta gizadi osoa berriro bat egin dadin.
 

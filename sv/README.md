@@ -14,15 +14,15 @@ Science fiction-romanen &quot;Three-Body&quot; (kinesiskt uttal: `3Ti` ) fiktion
 
 Bibeln · Genesis :
 
-> På den tiden hade människor över hela världen samma accent och språk.
+> På den eran var rösterna och orden från alla under himlen som en.
 >
-> Bygg ett torn som når himlen, nå Guds port, samla människors hjärtan och sprid ditt rykte.
+> De byggde ett torn som nådde skyhögt, rörde vid Guds portar, förenade hjärtan och skryter med sin härlighet.
 >
-> Herren sa: Människor av samma kultur och ras bildar en egen klan. Att bygga ett torn idag är bara ett förspel, men vi kommer att göra allt i framtiden.
+> Herren förkunnade: När människor delar språk och härstamning blir de en enskild stam. Tornet är bara början; inom de kommande dagarna finns det inget de inte kommer att uppnå.
 >
-> Sedan kom han och skingrade folket på olika ställen, oförmögna att förstå varandra.
+> Sålunda steg Han ned, vilket fick folket att spridas vida omkring, deras språk nu oförståeliga för varandra.
 >
-> Sedan dess har tvister fortsatt, och det finns inget Babeltorn i världen.
+> Från och med då var stridigheterna oändliga, och världen såg inga fler torn som rörde vid himlen.
 
 Jag hoppas kunna skapa verktyg så att jordens människor kan vara som trekroppsmänniskor, kommunicera utan att vara bundna av språket, och hela mänskligheten kan förenas igen.
 

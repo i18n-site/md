@@ -14,15 +14,15 @@ A &quot;Három test&quot; (kínai kiejtés: `3Ti` ) tudományos-fantasztikus reg
 
 Biblia · Genezis :
 
-> Abban az időben az embereknek a világ minden táján ugyanaz volt az akcentus és a nyelv.
+> Abban a korszakban az ég alatt mindenki hangja és szava egy volt.
 >
-> Építs egy tornyot, amely eléri az eget, elérje Isten kapuját, gyűjtse össze az emberek szívét, és terjessze hírnevét.
+> Égig érő tornyot építettek, amely megérintette Isten kapuját, egyesítette a szíveket, és dicsőséggel dicsekedhetett.
 >
-> Az Úr azt mondta: Az azonos kultúrájú és fajú emberek saját klánt alkotnak. A mai toronyépítés csak előjáték, de a jövőben mindent megteszünk.
+> Az Úr kijelentette: Amikor az emberek osztoznak a nyelven és a származáson, egy törzsté válnak. A torony csak a kezdet; a következő napokban nincs semmi, amit ne érnének el.
 >
-> Aztán jött, és szétszórta az embereket különböző helyeken, nem tudták megérteni egymást.
+> Így szállt alá, és az embereket messzire szétszórta, nyelvük most már érthetetlen volt egymás számára.
 >
-> Azóta folytatódnak a viták, és a világon nincs Bábel-torony.
+> Ettől kezdve a viszály véget nem ért, és a világ nem látott több tornyot, amely az eget érintette volna.
 
 Remélem, sikerül olyan eszközöket létrehozni, amelyek segítségével a földi emberek olyanok lehetnek, mint a háromtestűek, kommunikálhatnak anélkül, hogy a nyelv megkötözné őket, és az egész emberiség újra egyesülhet.
 

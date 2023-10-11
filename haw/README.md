@@ -14,15 +14,15 @@ Makemake au e ʻōlelo ʻo **nā pūnaewele wale nō e hoʻopuka ana i nā unuhi
 
 Baibala · Genesis :
 
-> I kēlā manawa, ua like ka leo a me ka ʻōlelo o nā kānaka a puni ka honua.
+> I kēlā au, ua like nā leo a me nā ʻōlelo o nā mea a pau ma lalo o ka lani.
 >
-> E kūkulu i hale kiaʻi a hiki i ka lani, a hiki i ka ʻīpuka o ke Akua, e hōʻuluʻulu i nā naʻau o kānaka, a hoʻolaha i kou inoa.
+> Ua kukulu lakou i hale kiai a hiki i ka lani, e pili ana i na ipuka o ke Akua, e hui pu i na naau, a e kaena ana i ko lakou nani.
 >
-> Ua ʻōlelo ka Haku: ʻO ka poʻe o ka moʻomeheu a me ka lāhui hoʻokahi he ʻohana no lākou iho. ʻO ke kūkulu ʻana i hale kiaʻi i kēia lā he mea mua wale nō ia, akā e hana mākou i nā mea āpau i ka wā e hiki mai ana.
+> Ua haʻi mai ka Haku: Ke hoʻokaʻawale nā ​​kānaka i ka ʻōlelo a me ka ʻohana, lilo lākou i ʻohana hoʻokahi. ʻO ka hale kiaʻi ka hoʻomaka; i nā lā e hiki mai ana, ʻaʻohe mea hiki ʻole iā lākou ke hoʻokō.
 >
-> Alaila, hele mai la ia a hoopuehu i na kanaka ma na wahi like ole, me ka hoomaopopo ole i kekahi i kekahi.
+> Iho iho la ia, a hoopuehu i na kanaka a puni, aole maopopo ka lakou olelo i kekahi i kekahi.
 >
-> Mai ia manawa mai, ua hoʻomau ka hoʻopaʻapaʻa, ʻaʻohe hale kiaʻi Babel ma ka honua.
+> Mai ia manawa mai, ʻaʻole i pau ka hakakā, ʻaʻole i ʻike hou ko ke ao nei i nā hale kiaʻi e pili ana i ka lani.
 
 Manaʻo wau e hana i nā mea hana i hiki ai i nā poʻe o ka honua ke like me nā poʻe kino ʻekolu, e kamaʻilio me ka hoʻopaʻa ʻole ʻia e ka ʻōlelo, a hiki i nā kānaka a pau ke hui hou.
 

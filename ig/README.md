@@ -14,15 +14,15 @@ Akwụkwọ akụkọ sayensị sayensị &quot;Ara-Atọ&quot; (pronunciation C
 
 Bible · Jenesis :
 
-> N'oge ahụ, ndị mmadụ gburugburu ụwa nwere otu olu na asụsụ.
+> N’oge ahụ, olu na okwu nile nke ndị nọ n’okpuru eluigwe dị ka otu.
 >
-> Wuo ulo-elu nke ruru elu-igwe, rute n'ọnu-uzọ-ama Chineke, chikọta obi madu, ma gbasaa aha-gi.
+> Ha wuru ụlọ elu ruru elu igwe, na-emetụ ọnụ ụzọ ámá nke Chineke aka, na-eme ka obi dị n'otu, na-anya isi n'ebube ha.
 >
-> Onye-nwe kwuru: Ndị si n’otu omenala na agbụrụ na-etolite agbụrụ nke ha. Ịrụ ụlọ elu taa bụ naanị mmalite, ma anyị ga-eme ihe niile n'ọdịnihu.
+> Onye-nwe kwusara: Mgbe ndị mmadụ na-ekerịta asụsụ na agbụrụ, ha na-aghọ otu agbụrụ. Ụlọ elu ahụ bụ naanị mmalite; n'ọdịnihu, ọ dịghị ihe ha na-agaghị enweta.
 >
-> Mgbe ahụ, ọ bịara gbasasịa ndị mmadụ n'ebe dị iche iche, na-enweghị ike ịghọta ibe ha.
+> Ya mere, Ọ rịdata, na-eme ka ndị mmadụ gbasasịa n'ebe dị anya, asụsụ ha na-aghọtaghị ibe ha ugbu a.
 >
-> Kemgbe ahụ, esemokwu na-aga n'ihu, ọ dịghịkwa Ụlọ Elu Bebel n'ụwa.
+> Site na mgbe ahụ gawa, esemokwu adịghị akwụsị akwụsị, ụwa ahụkwaghị ụlọ elu metụrụ mbara igwe.
 
 Enwere m olileanya ịmepụta ngwá ọrụ ka ndị ụwa wee dị ka mmadụ atọ, na-ekwurịta okwu n'ejighị asụsụ, na ụmụ mmadụ niile wee nwee ike ịdị n'otu ọzọ.
 

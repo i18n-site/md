@@ -14,15 +14,15 @@ Ti nobela ti siensia a piksion a &quot;Tallo-a-Bagi&quot; (Insik a panagibalikas
 
 Biblia · Genesis :
 
-> Iti dayta a tiempo, agpapada ti aksento ken pagsasao dagiti tattao iti intero a lubong.
+> Iti dayta a panawen, kasla maymaysa ti timek ken sasao ti amin iti baba ti langit.
 >
-> Mangbangonka iti torre a dumanon iti langit, dumanon iti ruangan ti Dios, urnongem ti puso dagiti tattao, ken isaknapmo ti reputasionmo.
+> Nangbangonda iti torre a dumanon iti tangatang, a mangsagid kadagiti ruangan ti Dios, a mamagkaykaysa kadagiti puso, ken mangipagpannakkel iti dayagda.
 >
-> Kinuna ti Apo: Dagiti tattao nga agpapada ti kultura ken puli ket mangbukel iti bukodda a puli. Ti panangibangon iti torre ita ket maysa laeng a pangrugian, ngem aramidentayo ti amin iti masanguanan.
+> Inwaragawag ti Apo: No makibingbingay dagiti tattao iti pagsasao ken kapuonan, agbalinda a maymaysa a tribu. Ti torre ket pangrugian laeng; iti sumaruno nga aldaw, awan ti dida maragpat.
 >
-> Kalpasanna, immay ket inwarasna dagiti tattao iti nadumaduma a lugar, a dida makaawat iti maysa ken maysa.
+> Gapuna, bimmaba Isuna, a nakaigapuan ti panagwaras dagiti tattao iti adayo ken nasaknap, dagiti pagsasaoda ket saan itan a maawatan ti tunggal maysa.
 >
-> Sipud idin, nagtultuloy dagiti riri, ket awanen ti Babel Tower iti lubong.
+> Manipud idin, saanen nga agpatingga ti riri, ket awanen ti nakita ti lubong a torre a mangsagid iti langit.
 
 Namnamaek a mangparnuay kadagiti ramit tapno dagiti tattao ditoy daga ket kasla tallo ti bagina a tattao, makikomunikar a dida magalut iti pagsasao, ken agkaykaysa manen ti amin a sangatauan.
 

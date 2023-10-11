@@ -14,15 +14,15 @@ Asoosamni asoosama saayinsii &quot;Three-Body&quot; (Sagalee Chaayinaa: `3Ti` ) 
 
 Macaafa Qulqulluu · Seera Uumamaa :
 
-> Yeroo sanatti namoonni addunyaa guutuu keessa jiran aksentaa fi afaan tokko qabu turan.
+> Bara sanatti sagalee fi dubbiin samii jala jiru hundaa akka tokkoo ture.
 >
-> Masaraa samii gahu ijaari, karra Waaqayyoo ga'i, garaa namootaa walitti qabi, maqaa kee babal'isi.
+> Masaraa olka’iinsa samii ga’u, karra Waaqayyoo tuqee, garaa tokkoomsu, ulfina isaanii kan of jaju ijaaran.
 >
-> Gooftaan akkana jedhe: Namoonni aadaa fi sanyii tokko qaban gosa mataa isaanii uumu. Har'a masaraa ijaaruun seensa qofa, garuu gara fuulduraatti waan hunda ni hojjenna.
+> Gooftaan akkas jedhee labse: Namoonni afaanii fi hidda dhalootaa yeroo qooddatan gosa tokkicha ta’u. Masaraan sun jalqaba qofa; guyyoota dhufan keessatti wanti isaan hin geenye hin jiru.
 >
-> Sana booda dhufee ummata wal hubachuu dadhabee bakka adda addaatti facaase.
+> Akkasitti gadi bu’ee, ummanni fagoo fi fagootti akka faca’u godhe, afaan isaanii amma waliif hin hubatamne.
 >
-> Ergasii as falmiin itti fufee jira, addunyaa kanarras Masaraan Baabel hin jiru.
+> Yeroo sanaa kaasee waldhabdeen dhuma kan hin qabne siʼa taʼu, addunyaan kana booda masaraawwan samii tuqan hin argite.
 
 Ummanni lafaa akka namoota qaama sadii ta’anii, afaaniin osoo hin hidhamin akka walqunnaman, ilmi namaa hundi deebi’ee akka tokko ta’uuf meeshaalee uumuun abdiin qaba.
 

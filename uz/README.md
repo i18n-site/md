@@ -14,15 +14,15 @@ Aytmoqchimanki **, faqat statik tarjimalarni yaratadigan veb-saytlar ko&#39;p ti
 
 Injil · Ibtido :
 
-> O'sha paytda butun dunyoda odamlarning urg'u va tili bir xil edi.
+> O'sha davrda osmon ostidagi hammaning ovozi va so'zi bir edi.
 >
-> Osmonga yetadigan minora qur, Xudoning darvozasiga yet, odamlarning qalbini to‘pla, obro‘ingni yoy.
+> Ular Xudoning darvozalariga tegib, qalblarni birlashtirib, ularning ulug'vorligi bilan faxrlanadigan osmonga ko'tariladigan minora qurdilar.
 >
-> Rabbiy aytdi: Bir xil madaniyat va irqdagi odamlar o'z urug'ini tashkil qiladilar. Bugungi kunda minora qurish - bu shunchaki muqaddima, ammo biz kelajakda hamma narsani qilamiz.
+> Rabbiy e'lon qildi: "Odamlar til va nasl-nasabga ega bo'lsalar, ular yagona qabila bo'lishadi. Minora faqat boshlanishi; yaqin kunlarda ular erisha olmaydigan hech narsa qolmaydi.
 >
-> Keyin kelib, odamlarni bir-birini tushunolmay, turli joylarga tarqatib yubordi.
+> Shunday qilib, U tushdi va odamlarni uzoq-uzoqlarga tarqalib ketdi, ularning tillari endi bir-biriga tushunarsiz.
 >
-> O'shandan beri tortishuvlar davom etmoqda va dunyoda Bobil minorasi yo'q.
+> O'shandan beri janjal to'xtovsiz edi va dunyo osmonga tegadigan minoralarni ko'rmadi.
 
 Umid qilamanki, yer yuzidagi odamlar uch tanali odamlarga o'xshab, til bilan bog'lanmasdan muloqot qilishlari va butun insoniyat yana birlashishi uchun asboblar yaratishga umid qilaman.
 

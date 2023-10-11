@@ -14,15 +14,15 @@ Novel fiksi ilmiah &quot;Three-Body&quot; (pengucapan China: `3Ti` ) mengarang f
 
 Alkitab · Kejadian :
 
-> Saat itu, orang-orang di seluruh dunia mempunyai aksen dan bahasa yang sama.
+> Di era itu, suara dan perkataan semua yang ada di bawah langit adalah satu kesatuan.
 >
-> Bangun menara yang mencapai langit, raih gerbang Tuhan, kumpulkan hati orang-orang, dan sebarkan reputasi Anda.
+> Mereka membangun menara setinggi langit, menyentuh pintu gerbang Tuhan, mempersatukan hati, dan membanggakan kemuliaannya.
 >
-> Tuhan bersabda: Orang-orang dari budaya dan ras yang sama membentuk klan mereka sendiri. Membangun menara saat ini hanyalah permulaan, tapi kami akan melakukan segalanya di masa depan.
+> Tuhan menyatakan: Ketika orang-orang berbagi bahasa dan garis keturunan, mereka menjadi satu suku tunggal. Menara ini hanyalah permulaan; di hari-hari mendatang, tidak ada yang tidak akan mereka capai.
 >
-> Kemudian dia datang dan mencerai-beraikan orang-orang itu di berbagai tempat, karena tidak dapat saling memahami.
+> Dengan demikian, Dia turun, menyebabkan orang-orang berpencar jauh dan luas, bahasa mereka kini tidak dapat dimengerti satu sama lain.
 >
-> Sejak itu, perselisihan terus berlanjut, dan tidak ada Menara Babel di dunia.
+> Sejak saat itu, perselisihan tidak ada habisnya, dan dunia tidak melihat lagi menara yang menyentuh langit.
 
 Saya berharap dapat menciptakan alat-alat agar manusia di bumi bisa seperti manusia yang beranggotakan tiga orang, berkomunikasi tanpa terikat bahasa, dan seluruh umat manusia bisa bersatu kembali.
 

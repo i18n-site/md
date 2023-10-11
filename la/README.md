@@ -14,15 +14,15 @@ Scientia fictionis novae &quot;Tres-Corporis&quot; (pronuntiatio Sinica: `3Ti` )
 
 Bible :
 
-> Illo tempore homines ubique terrarum eundem accentum ac linguam habebant.
+> In quo tempore voces et voces omnium sub coelo quasi unum erant.
 >
-> Aedificare turrim quae caelum attingit, portam Dei attinge, corda hominum congregate, famam tuam diffunde.
+> Et struxerunt turrim celi attingentes, portas Dei tangentes, corda iungentes et gloriam suam gloriantes.
 >
-> Dominus dixit: Homines eiusdem culturae ac generis propriam constituunt familiam. Aedificare turrim hodie praeludium tantum est, sed omnia in futuro faciemus.
+> Dominus praedicavit: Cum homines linguae et stirpis participes fiunt, singularis tribus fit. Turris initium est; in diebus futuris nihil non assequuntur.
 >
-> Deinde venit et dispersit turbas per loca, nec se intelligere valens.
+> Descendit ergo, faciens populum longe lateque dispergere, linguas suas nunc non intelligibiles.
 >
-> Cum igitur lites permanserunt, et Turris Babel nulla est in mundo.
+> Exinde lis erat perpetuus, nee plura videbat Turribus caelum tangi.
 
 Instrumenta creare spero ut homines terrae tamquam tres homines possint communicare sine lingua ligatus, et omnes homines denuo coniungi possunt.
 

@@ -14,15 +14,15 @@ Ko te pakimaero pakimaero &quot;Three-Body&quot; (te whakahua reo Hainamana: `3T
 
 Paipera · Genesis :
 
-> I taua wa, he rite tonu te reo me te reo o nga tangata o te ao.
+> I tera wa, he rite tonu nga reo me nga kupu o nga tangata katoa i raro i te rangi.
 >
-> Hanga he pourewa kia eke ki te rangi, kia tae ki te kuwaha o te Atua, huihuia nga ngakau o te tangata, kia horahia to ingoa.
+> I hanga e ratou he pourewa tae noa ki te rangi, pa atu ki nga keti o te Atua, whakakotahi i nga ngakau, me te whakamanamana i to ratou kororia.
 >
-> Na ka mea te Ariki, Ko nga tangata kotahi ano te tikanga me to ratou iwi he hapu no ratou. Ko te hanga i te pourewa i tenei ra he timatanga noa iho, engari ka mahia e tatou nga mea katoa a meake nei.
+> Ua parau te Fatu e: Ia tufa te taata i te reo e te opu fetii, e riro ratou ei opu taata taa ê. Ko te pourewa he timatanga; i nga ra e haere ake nei, kaore he mea e kore e tutuki.
 >
-> Na ka haere mai ia, ka whakamararatia te iwi ki nga wahi maha, te matau tetahi ki tetahi.
+> Na, ka heke iho ia, ka whakamararatia te iwi ki tawhiti, ki nga wahi katoa e kore e marama o ratou reo.
 >
-> Mai i tera wa, kei te haere tonu nga tautohetohe, karekau he pourewa o Babel i te ao.
+> Mai i tera wa, kaore e mutu te ngangau, kare ano te ao i kite i etahi pourewa e pa ana ki te rangi.
 
 Te ti'aturi nei au ki te hanga taputapu kia rite ai nga tangata o te whenua ki nga tangata tokotoru-tinana, ki te whakawhitiwhiti korero me te kore e herea e te reo, kia kotahi ano te tangata katoa.
 
