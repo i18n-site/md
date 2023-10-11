@@ -1,6 +1,8 @@
 <h1 style="justify-content:space-between">3Ti.Site · နယ်စည်းမခြားတွေးခေါ်ခြင်း။<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
-3Ti.Site သည် တည်ငြိမ်သောဆိုက်ဂျင်နရေတာတစ်ခုဖြစ်ပြီး Markdown ကို [ဘာသာစကားပေါင်း တစ်ရာကျော်](https://github.com/i18n-site/node/blob/main/lang/src/index.js) သို့ အလိုအလျောက်ဘာသာပြန်ပေးနိုင်သည်။
+3Ti.Site၊ Markdown ဘာသာပြန်ဆိုချက် + ဘာသာစကားပေါင်းစုံ အငြိမ်ဆိုက် မီးစက်။
+
+၎င်းသည် [ဘာသာစကား ရာနှင့်ချီသော](https://github.com/i18n-site/node/blob/main/lang/src/index.js) နိုင်ငံတကာ စာရွက်စာတမ်းများနှင့် ဘလော့ဂ်များကို လျင်မြန်စွာ တည်ဆောက်နိုင်စေပါသည်။
 
 <pre class="langli" style="display:flex;flex-wrap:wrap;background:transparent;border:1px solid #eee;font-size:12px;box-shadow:0 0 3px inset #eee;padding:12px 5px 4px 12px;justify-content:space-between;"><style>pre.langli i{font-weight:300;font-family:s;margin-right:7px;margin-bottom:8px;font-style:normal;color:#666;border-bottom:1px dashed #ccc;}</style><i>English</i><i> 简体中文 </i><i>español</i><i>français</i><i>Deutsch</i><i> 日本語 </i><i>italiano</i><i>한국어</i><i>русский</i><i>português</i><i>shqip</i><i>‫العربية‬</i><i>አማርኛ</i><i>অসমীয়া</i><i>azərbaycan</i><i>Eʋegbe</i><i>Aymar aru</i><i>Gaeilge</i><i>eesti</i><i>ଓଡ଼ିଆ</i><i>Oromoo</i><i>euskara</i><i>беларуская</i><i>bamanakan</i><i>български</i><i>íslenska</i><i>polski</i><i>bosanski</i><i>‫فارسی‬</i><i>भोजपुरी</i><i>Afrikaans</i><i>татар</i><i>dansk</i><i>‫ދިވެހިބަސް‬</i><i>ትግርኛ</i><i>डोगरी</i><i>संस्कृत भाषा</i><i>Filipino</i><i>suomi</i><i>Frysk</i><i>ខ្មែរ</i><i>ქართული</i><i>गोंयची कोंकणी</i><i>ગુજરાતી</i><i>avañe’ẽ</i><i>қазақ тілі</i><i>Kreyòl ayisyen</i><i>Hausa</i><i>Nederlands</i><i>кыргызча</i><i>galego</i><i>català</i><i>čeština</i><i>ಕನ್ನಡ</i><i>corsu</i><i>hrvatski</i><i>Runasimi</i><i>kurdî</i><i>‫کوردیی ناوەندی‬</i><i>Latina</i><i>latviešu</i><i>ລາວ</i><i>lietuvių</i><i>lingála</i><i>Luganda</i><i>Lëtzebuergesch</i><i>Kinyarwanda</i><i>română</i><i>Malagasy</i><i>Malti</i><i>मराठी</i><i>മലയാളം</i><i>Melayu</i><i>македонски</i><i>मैथिली</i><i>Māori</i><i>মৈতৈলোন্</i><i>монгол</i><i>বাংলা</i><i>Mizo ṭawng</i><i>မြန်မာ</i><i>𞄀𞄄𞄰𞄩𞄍𞄜𞄰</i><i>IsiXhosa</i><i>isiZulu</i><i>नेपाली</i><i>norsk</i><i>ਪੰਜਾਬੀ</i><i>‫پښتو‬</i><i>Nyanja</i><i>Akan</i><i>svenska</i><i>Gagana fa'a Sāmoa</i><i>српски</i><i>Sesotho sa Leboa</i><i>Sesotho</i><i>සිංහල</i><i>esperanto</i><i>slovenčina</i><i>slovenščina</i><i>Kiswahili</i><i>Gàidhlig</i><i>Cebuano</i><i>Soomaali</i><i>тоҷикӣ</i><i>తెలుగు</i><i>தமிழ்</i><i>ไทย</i><i>Türkçe</i><i>türkmen dili</i><i>Cymraeg</i><i>‫ئۇيغۇرچە‬</i><i>‫اردو‬</i><i>українська</i><i>o‘zbek</i><i>‫עברית‬</i><i>Ελληνικά</i><i>ʻŌlelo Hawaiʻi</i><i>‫سنڌي‬</i><i>magyar</i><i>chiShona</i><i>հայերեն</i><i>Igbo</i><i>Pagsasao Ilokano</i><i>‫ייִדיש‬</i><i>हिन्दी</i><i>Basa Sunda</i><i>Indonesia</i><i>Jawa</i><i>Èdè Yorùbá</i><i>Tiếng Việt</i><i> 正體中文 </i><i>Xitsonga</i></pre>
 
@@ -27,6 +29,16 @@
 ကမ္ဘာပေါ်ရှိလူများသည် သုံးကိုယ်လုံးလူများကဲ့သို့၊ ဘာသာစကားဖြင့် ချည်နှောင်ခြင်းမရှိဘဲ ဆက်သွယ်ပြောဆိုနိုင်ပြီး လူသားအားလုံး ပြန်လည်စည်းလုံးနိုင်စေရန်အတွက် ကိရိယာများကို ဖန်တီးရန် ကျွန်ုပ်မျှော်လင့်ပါသည်။
 
 ဒီတော့ [`3Ti.Site`](//3Ti.Site) ရှိခဲ့တယ်။
+
+## Markdown ဘာသာပြန်ခြင်း။
+
+ဝဘ်ဆိုက်တစ်ခုကို အမြန်တည်ဆောက်ရန်အတွက် Markdown ဘာသာပြန်ဆိုခြင်းကို လွတ်လပ်စွာ သို့မဟုတ် ဘာသာစကားပေါင်းစုံ static site generator ဖြင့် အသုံးပြုနိုင်သည်။
+
+Markdown ဖော်မတ်ချခြင်း၊ ရဲရင့်ခြင်း၊ စာရင်းများ၊ ခေါင်းစဉ်များ၊ ကိုးကားချက်များ၊ လင့်ခ်များ၊ သရုပ်ဖော်ပုံများနှင့် အခြားအရာများကို ပြီးပြည့်စုံစွာ ထိန်းသိမ်းပါ။
+
+Markdown တွင် နမူနာကုဒ်ရှိပါက၊ နမူနာကုဒ်ကို ဘာသာပြန်မည်မဟုတ်ပါ။
+
+## ဘာသာစကားမျိုးစုံဆိုက်တည်ဆောက်သူ
 
 ## ကျူတိုရီရယ်
 

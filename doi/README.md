@@ -1,6 +1,8 @@
 <h1 style="justify-content:space-between">3Ti.Site · बिना सीमा दे सोचना<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
-3Ti.Site, इक स्थिर साइट जनरेटर, मार्कडाउन दा स्वतः [सौ शा मती बक्ख-बक्ख भाशाएं](https://github.com/i18n-site/node/blob/main/lang/src/index.js) च अनुवाद करी सकदा ऐ .
+3Ti.Site, Markdown अनुवाद + बहु-भाषा स्थिर साइट जनरेटर।
+
+एह् तुसेंगी तेजी कन्नै अंतर्राश्ट्री दस्तावेज ते ब्लॉग बनाने दी अनुमति दिंदा ऐ जेह् ड़े [सैकड़ें दी गिनतरी च भाशाएं दा](https://github.com/i18n-site/node/blob/main/lang/src/index.js) समर्थन करदे न .
 
 <pre class="langli" style="display:flex;flex-wrap:wrap;background:transparent;border:1px solid #eee;font-size:12px;box-shadow:0 0 3px inset #eee;padding:12px 5px 4px 12px;justify-content:space-between;"><style>pre.langli i{font-weight:300;font-family:s;margin-right:7px;margin-bottom:8px;font-style:normal;color:#666;border-bottom:1px dashed #ccc;}</style><i>English</i><i> 简体中文 </i><i>español</i><i>français</i><i>Deutsch</i><i> 日本語 </i><i>italiano</i><i>한국어</i><i>русский</i><i>português</i><i>shqip</i><i>‫العربية‬</i><i>አማርኛ</i><i>অসমীয়া</i><i>azərbaycan</i><i>Eʋegbe</i><i>Aymar aru</i><i>Gaeilge</i><i>eesti</i><i>ଓଡ଼ିଆ</i><i>Oromoo</i><i>euskara</i><i>беларуская</i><i>bamanakan</i><i>български</i><i>íslenska</i><i>polski</i><i>bosanski</i><i>‫فارسی‬</i><i>भोजपुरी</i><i>Afrikaans</i><i>татар</i><i>dansk</i><i>‫ދިވެހިބަސް‬</i><i>ትግርኛ</i><i>डोगरी</i><i>संस्कृत भाषा</i><i>Filipino</i><i>suomi</i><i>Frysk</i><i>ខ្មែរ</i><i>ქართული</i><i>गोंयची कोंकणी</i><i>ગુજરાતી</i><i>avañe’ẽ</i><i>қазақ тілі</i><i>Kreyòl ayisyen</i><i>Hausa</i><i>Nederlands</i><i>кыргызча</i><i>galego</i><i>català</i><i>čeština</i><i>ಕನ್ನಡ</i><i>corsu</i><i>hrvatski</i><i>Runasimi</i><i>kurdî</i><i>‫کوردیی ناوەندی‬</i><i>Latina</i><i>latviešu</i><i>ລາວ</i><i>lietuvių</i><i>lingála</i><i>Luganda</i><i>Lëtzebuergesch</i><i>Kinyarwanda</i><i>română</i><i>Malagasy</i><i>Malti</i><i>मराठी</i><i>മലയാളം</i><i>Melayu</i><i>македонски</i><i>मैथिली</i><i>Māori</i><i>মৈতৈলোন্</i><i>монгол</i><i>বাংলা</i><i>Mizo ṭawng</i><i>မြန်မာ</i><i>𞄀𞄄𞄰𞄩𞄍𞄜𞄰</i><i>IsiXhosa</i><i>isiZulu</i><i>नेपाली</i><i>norsk</i><i>ਪੰਜਾਬੀ</i><i>‫پښتو‬</i><i>Nyanja</i><i>Akan</i><i>svenska</i><i>Gagana fa'a Sāmoa</i><i>српски</i><i>Sesotho sa Leboa</i><i>Sesotho</i><i>සිංහල</i><i>esperanto</i><i>slovenčina</i><i>slovenščina</i><i>Kiswahili</i><i>Gàidhlig</i><i>Cebuano</i><i>Soomaali</i><i>тоҷикӣ</i><i>తెలుగు</i><i>தமிழ்</i><i>ไทย</i><i>Türkçe</i><i>türkmen dili</i><i>Cymraeg</i><i>‫ئۇيغۇرچە‬</i><i>‫اردو‬</i><i>українська</i><i>o‘zbek</i><i>‫עברית‬</i><i>Ελληνικά</i><i>ʻŌlelo Hawaiʻi</i><i>‫سنڌي‬</i><i>magyar</i><i>chiShona</i><i>հայերեն</i><i>Igbo</i><i>Pagsasao Ilokano</i><i>‫ייִדיש‬</i><i>हिन्दी</i><i>Basa Sunda</i><i>Indonesia</i><i>Jawa</i><i>Èdè Yorùbá</i><i>Tiếng Việt</i><i> 正體中文 </i><i>Xitsonga</i></pre>
 
@@ -27,6 +29,16 @@
 मेद ऐ जे मैं ऐसे औजार पैदा करंगन तां जे धरती दे लोक त्रै-शरीर आह्ले लोकें दी तर्ज पर होई सकन, भाशा कन्नै बन्नी गेदे बगैर गल्लबात करी सकन, ते सारे मनुक्ख फिरी इकजुट होई सकन।
 
 तो, [`3Ti.Site`](//3Ti.Site) था .
+
+## मार्कडाउन अनुवाद करना
+
+मार्कडाउन अनुवाद दा इस्तेमाल स्वतंत्र रूप कन्नै जां बहु-भाषा स्थिर साइट जनरेटर कन्नै कीता जाई सकदा ऐ तां जे वेबसाइट गी जल्दी बनाने लेई कीता जाई सकै।
+
+मार्कडाउन स्वरूपण, बोल्ड, सूची, शीर्षक, उद्धरण, लिंक, चित्रण ते होर मते सारें गी पूरी चाल्ली संरक्षित करो।
+
+जेकर मार्कडाउन च नमूना कोड ऐ तां नमूना कोड दा अनुवाद नेईं कीता जाग।
+
+## बहुभाषी साइट बिल्डर
 
 ## ट्यूटोरियल
 
