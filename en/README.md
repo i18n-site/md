@@ -38,6 +38,10 @@ Perfectly preserve Markdown formatting, bold, lists, titles, quotes, links, illu
 
 If there is sample code in Markdown, the sample code will not be translated.
 
+## Translation API Pricing
+
+Each 10,000 characters costs US$0.2, and you will receive 500,000 free characters upon registration.
+
 ## Multilingual Site Builder
 
 ## Tutorial
