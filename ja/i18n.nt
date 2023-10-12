@@ -8,3 +8,5 @@ full: 全画面表示
 search: 検索
 qHolder: キーワードを入力してください
 close: 閉鎖
+signIn: ログイン
+signUp: 登録する
