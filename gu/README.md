@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · સરહદો વિના વિચારવું<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ થિંકિંગ વિધાઉટ બોર્ડર્સ<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, માર્કડાઉન અનુવાદ + મલ્ટી-લેંગ્વેજ સ્ટેટિક સાઇટ જનરેટર.
 

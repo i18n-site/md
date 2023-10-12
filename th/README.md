@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · คิดไร้พรมแดน<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ การคิดไร้พรมแดน<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, การแปล Markdown + ตัวสร้างไซต์คงที่หลายภาษา
 

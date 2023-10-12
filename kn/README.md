@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · ಗಡಿಗಳಿಲ್ಲದೆ ಯೋಚಿಸುವುದು<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ ಗಡಿಗಳಿಲ್ಲದೆ ಯೋಚಿಸುವುದು<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, ಮಾರ್ಕ್‌ಡೌನ್ ಅನುವಾದ + ಬಹು-ಭಾಷಾ ಸ್ಥಿರ ಸೈಟ್ ಜನರೇಟರ್.
 

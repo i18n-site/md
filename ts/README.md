@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Ku Ehleketa Handle ka Mindzilakano<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Ku Ehleketa Handle ka Mindzilakano<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Vuhundzuluxi bya Markdown + jeneretara ya sayiti leyi nga cinciki ya tindzimi to tala.
 

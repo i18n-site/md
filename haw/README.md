@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site · Noʻonoʻo me ka palena ʻole<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Noonoo me ka palena ole<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Unuhi ʻo Markdown + mea hoʻoheheʻe kahua paʻa ʻōlelo he nui.
 
