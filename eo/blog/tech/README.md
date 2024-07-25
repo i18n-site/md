@@ -1,0 +1,1 @@
+# Teknologio

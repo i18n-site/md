@@ -1,0 +1,6 @@
+x: 18x
+v: //unpkg.com/i18md
+importmap:
+  i/: //unpkg.com/@8n/
+
+api: //s.i18n.site/

@@ -1,0 +1,14 @@
+```js
+(async (D, S) => {
+  S.register("/S.js");
+  await S.ready
+  /*
+    हार्ड रिफ्रेश के बाद सर्विस वर्कर के रजिस्टर
+    https://stackoverflow.com/questions/51597231/पंजीकृत-सेवा-कार्यकर्ता-कठिन-ताज़ा-पश्चात
+  */
+  S.controller || location.reload()
+  D.head.append(S = D.createElement('script'));
+  S.src = '/_'
+  console.log('done');
+})(document, navigator.serviceWorker)
+```

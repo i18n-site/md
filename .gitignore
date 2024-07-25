@@ -1,0 +1,6 @@
+/env.sh
+bun.lockb
+node_modules/
+/out/
+/.i18n/v/dev/
+

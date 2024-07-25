@@ -1,0 +1,3 @@
+# i18 : Príkazový Riadok MarkDown & YAML Nástroj Na Preklad
+
+

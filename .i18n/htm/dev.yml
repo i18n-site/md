@@ -1,0 +1,38 @@
+v: //127.0.0.1:7776/
+# v: //unpkg.com/i18md
+
+x: 18x
+# x: 18x@0.1.193
+# v: //unpkg.com/i18md
+# .v: //cdn.jsdelivr.net/npm/i18md@0.1.3/.v
+
+importmap:
+  i/: //127.0.0.1:7775/
+  # i/: //unpkg.com/@8n/
+  # i/: //cdn.jsdelivr.net/npm/@8n/
+
+# api: //s.i18n.site/
+api: //127.0.0.1:7770/
+
+#x/: //127.0.0.1:7775/x/
+# https://github.com/i18n-site/18x
+# x/: //cdn.jsdelivr.net/npm/18x/
+# https://github.com/i18n-site/site ( org for site & i18n file )
+# api: //127.0.0.1:7770/
+# # for markdown npm v
+# v: //127.0.0.1:7776
+# .v: //127.0.0.1:7776/.v
+# # v: //cdn.jsdelivr.net/npm/i18md
+# # .v: //cdn.jsdelivr.net/npm/i18md@0.1.3/.v
+# importmap:
+#   # for i18x
+#   x/: //127.0.0.1:7775/x/
+#   # x/: //registry.npmmirror.com/18x/latest/files/
+#   # x/: //cdn.jsdelivr.net/npm/18x@0.1.138/
+#   # for i18n.site
+#   # i/: //cdn.jsdelivr.net/npm/@8n/
+#   i/: //127.0.0.1:7775/
+#   # i/: //cdn.jsdelivr.net/npm/@8n/
+#
+# # i18n:
+# # site: //cdn.jsdelivr.net/npm/i18n.site

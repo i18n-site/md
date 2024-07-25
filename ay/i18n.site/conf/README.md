@@ -1,0 +1,1 @@
+# Configuración Ukaxa Mä Juk’a Pachanakwa Lurasi

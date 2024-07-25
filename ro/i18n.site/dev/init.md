@@ -1,0 +1,15 @@
+# Pregătiți Mediul
+
+* Instalați și porniți `docker` Mac Utilizatorii recomandă utilizarea [orbstack](https://orbstack.dev) ca timp de rulare a `docker` )
+
+* [bun](https://bun.sh/docs/installation) și [nodejs](https://nodejs.org/en/download/package-manager)
+
+## Inițializați Proiectul
+
+```
+curl -sSL https://raw.githubusercontent.com/i18n-ops/ops/main/i18n.site/init.sh | bash
+```
+
+## Va Urma…
+
+
