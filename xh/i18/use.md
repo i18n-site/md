@@ -1,0 +1,197 @@
+# Faka Kwaye Usebenzise
+
+## IiWindows Kuqala Faka I-Git bash
+
+windows , nceda [ucofe apha ukukhuphela kwaye ufake `git bash`](https://git-scm.com/download/win) kuqala.
+
+Yenza imisebenzi elandelayo kwi `git bash` .
+
+## Faka
+
+```sh
+bash <(curl -sS https://i.i18n.site) i18
+```
+
+### Qwalasela Uphawu Loguqulelo
+
+Ndwendwela [i18n.site/token](//i18n.site/token)
+
+<img src="https://p.3ti.site/1719911689.avif" style="width:400px">
+
+Yenza `~/.config/i18n.site.yml` , uncamathisele umxholo okhutshelweyo kuyo, umxholo umi ngolu hlobo lulandelayo:
+
+```
+token: YOUR_API_TOKEN
+```
+
+Ukongezelela, kufuneka [i18n.site/payBill](//i18n.site/payBill) ikhadi lekhredithi kwintlawulo (akukho ntlawulo efunekayo, i-website iya kukhupha ngokuzenzekelayo imirhumo ngokusetyenziswa, [jonga iphepha lasekhaya ngexabiso](/#price) ).
+
+## Sebenzisa
+
+### Iprojekthi Yedemo
+
+Nceda ujonge iprojekthi [github.com/i18n-site/demo.i18](//github.com/i18n-site/demo.i18) ukuze ufunde ubumbeko lwe `i18` translation.
+
+Abasebenzisi baseTshayina banokufana [atomgit.com/i18n/demo.i18](//atomgit.com/i18n/demo.i18)
+
+Emva kokudibanisa, ngenisa uvimba weefayili kwaye usebenzise `i18` ukugqiba uguqulelo.
+
+### Ubume Boluhlu
+
+Ulwakhiwo lwesikhokelo sogcino lwethemplethi lulolu hlobo lulandelayo
+
+```
+┌── .i18n
+│  └── conf.yml
+└── en
+   ├── _IgnoreDemoFile.md
+   ├── i18n.yml
+   └── README.md
+```
+
+Iifayile zedemo eziguqulelweyo kulawulo lwe `en` ngumzekelo nje kwaye zinokucinywa.
+
+### Qhuba Uguqulelo
+
+Ngenisa uvimba weefayili kwaye usebenzise `i18` ukuguqulela.
+
+### Yongeza Iifayile Kwindawo Yokugcina
+
+Ukongeza kwinguqulelo, inkqubo iya kuvelisa ezi fayile zilandelayo, nceda uzifake kwindawo yokugcina.
+
+```
+.i18n/hash
+.i18n/cache/.gitignore
+```
+
+Phakathi kwazo, umxholo ka `.i18n/cache/.gitignore` umi ngolu hlobo lulandelayo :
+
+```
+**/*
+!**/.gitignore
+```
+
+Oku kuthetha ukuba zonke iifayile kulawulo `.i18n/cache/` (ngaphandle `.i18n/cache/.gitignore` ) azihoywa.
+
+Ukuba isoftware yolawulo lwakho ayiyo `git` , nceda ungayihoyi ngokwalo qwalaselo.
+
+## Ifayile Yoqwalaselo
+
+`.i18n/conf.yml` yifayile yoqwalaselo yesixhobo sokuguqulela somgca womyalelo `i18`
+
+Umxholo umi ngolu hlobo lulandelayo:
+
+```
+i18n:
+  fromTo:
+    en: zh ja ko de fr
+    # en:
+
+ignore:
+  - _*
+```
+
+### Ulwimi lweNguqulelo &
+
+Kwifayile yoqwalaselo, ongaphantsi kwe `fromTo` :
+
+`en` lulwimi lwentsusa, `zh ja ko de fr` lulwimi ekujoliswe kulo kuguqulelo.
+
+Ikhowudi yolwimi bona [i18n.site/i18/LANG_CODE](https://i18n.site/i18/LANG_CODE)
+
+Umzekelo, ukuba ufuna ukuguqulela isiTshayina kwisiNgesi, phinda ubhale lo mgca `zh: en` .
+
+Ukuba ufuna ukuguqulela kuzo zonke iilwimi ezixhaswayo, nceda ushiye kungenanto emva `:` . umzekelo
+
+```
+i18n:
+  fromTo:
+    en:
+```
+
+Ungaqwalasela okwahlukileyo `fromTo` kwiifayile ezingaphantsi / Umboniso ubhalwe ngolu hlobo lulandelayo :
+
+```
+i18n:
+  fromTo:
+    en:
+  path:
+    blog:
+      fromTo:
+        zh:
+    blog/your_file_name.md:
+      fromTo:
+        ja:
+```
+
+Kule theyibhile yoqwalaselo, ulwimi lomthombo lwekhathalogu `blog` inguqulelo yi- `zh` , kunye nolwimi lwentsusa lwekhathalogu `blog/your_file_name.md` inguqulelo sisi `ja` .
+
+### Ungayihoyi Ifayile
+
+Ngokungagqibekanga, zonke iifayile eziqala ngo `.md` kunye no `.yml` kulawulo lolwimi lwemvelaphi ziya kuguqulelwa.
+
+Ukuba ufuna ukuzihoya iifayile ezithile kwaye ungaziguquleli (ezifana neidrafti ezingagqitywanga), ungayiqwalasela ngo `ignore` umhlaba.
+
+U `.gitignore` `ignore` usebenzisa okufanayo [globset](https://docs.rs/globset/latest/globset/#syntax)
+
+Umzekelo, `_* ` kwifayile yoqwalaselo engentla ithetha ukuba iifayile eziqala ngo `_` aziyi kuguqulelwa.
+
+## Imithetho Yokuguqulela
+
+### Abahleli Benguqulelo Akufuneki Bongeze Okanye Bacime Imigca
+
+Inguqulelo iyahlelwa. Guqula umbhalo wentsusa kwaye uguqulelwe ngoomatshini kwakhona, ukuguqulwa kwesandla kwinguqulelo akusayi kubhalwa ngaphezulu (ukuba lo mhlathi wombhalo wokuqala awulungiswanga).
+
+Kodwa nceda uqaphele ukuba imigca yenguqulelo kunye nombhalo wokuqala kufuneka uhambelane nomnye. Oko kukuthi, musa ukongeza okanye ukucima imigca xa uqulunqa inguqulelo. Ngaphandle koko, iya kubangela ukubhideka kwi-cache yokuhlela inguqulelo.
+
+Ukuba kukho into engahambi kakuhle, nceda ubhekisele kwi [-FAQ ngezisombululo.](/i18/qa#H1)
+
+### `YAML` Iinguqulelo
+
+Isixhobo somgca womyalelo siya kufumana zonke iifayile eziphela ngo `.yml` kuluhlu lwefayile yemvelaphi yolwimi kwaye uziguqulele.
+
+* Qaphela ukuba isimamva segama lefayile kufuneka sibe `.yml` (hayi `.yaml` ).
+
+Isixhobo siguqulela kuphela ixabiso lesichazi-magama ngo `.yml` , hayi izitshixo zesichazi-magama.
+
+Umzekelo `i18n/en/i18n.yml`
+
+```
+apiToken: API Token
+defaultToken: Default Token
+```
+
+iza kuguqulelwa njengo `i18n/zh/i18n.yml`
+
+```
+apiToken: 接口令牌
+defaultToken: 默认令牌
+```
+
+Ukuguqulelwa kwe `YAML` nako kunokuguqulwa ngesandla (kodwa ungafaki okanye ucime izitshixo okanye imigca kwinguqulelo).
+
+Ngokusekwe kuguqulelo `YAML` , unokwakha ngokulula izisombululo zamazwe ngamazwe kwiilwimi ezahlukeneyo zokucwangcisa.
+
+## Ukusetyenziswa Okuphezulu
+
+### Uluhlu Olungaphantsi Lwenguqulelo
+
+Ngethuba nje `.i18n/conf.yml` yenziwe (akukho mfuneko yokuqalisa kwi-template yeprojekthi yedemo rhoqo), `i18` iya kusebenza kakuhle.
+
+Isixhobo somgca womyalelo siya kufumana ulungelelwaniso lwe `.i18n/conf.yml` kuwo onke ama-subdirectories kwaye uwaguqulele.
+
+Iiprojekthi ezisebenzisa i [monorepo](//monorepo.tools) architecture zinokwahlula iifayile zolwimi zibe ngabalawuli abangaphantsi.
+
+![](https://p.3ti.site/1719910016.avif)
+
+### Uluhlu Lofakelo Oluqhelekileyo
+
+Izakufakwa ku `/usr/local/bin` ngokungagqibekanga.
+
+Ukuba `/usr/local/bin` ayinayo imvume yokubhala iya kufakwa kwi `~/.bin` .
+
+Ukucwangcisa imo eguquguqukayo `TO` kunokuchaza uvimba wofakelo, umzekelo :
+
+```sh
+TO=/bin sudo bash <(curl -sS https://i.i18n.site) i18
+```

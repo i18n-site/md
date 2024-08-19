@@ -1,0 +1,3 @@
+# Serverni Joylashtirish
+
+## Server Tanlash

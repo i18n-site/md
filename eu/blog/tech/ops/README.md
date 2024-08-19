@@ -1,0 +1,1 @@
+# Funtzionamendua Eta Mantentzea

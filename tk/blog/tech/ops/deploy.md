@@ -1,0 +1,3 @@
+# Serweriň Ýerleşdirilmegi
+
+## Serwer Saýlamak

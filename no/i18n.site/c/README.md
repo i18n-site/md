@@ -1,0 +1,1 @@
+# Åpen kildekode

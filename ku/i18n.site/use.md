@@ -1,0 +1,347 @@
+# Saz Bikin &
+
+## Nîşana Veavakirinê
+
+`i18n.site` amûrek wergerandinê [`i18`](/i18/use) `i18` heye.
+
+## Lêkirin
+
+```sh
+bash <(curl -sS https://i.i18n.site) i18n.site
+```
+
+## Projeya Demo
+
+Ka em bi projeyek demo dest pê bikin da ku fêr bibin ka meriv çawa `i18n.site` bikar tîne.
+
+Em pêşî depoya demo-yê klon dikin û emrê bi vî rengî dimeşînin:
+
+```
+git clone https://github.com/i18n-site/demo.i18n.site.git md
+git clone https://github.com/i18n-site/demo.i18n.site.docker.git docker
+```
+
+Bikarhênerên li axa Chinaînê dikarin:
+
+```
+git clone https://atomgit.com/i18n/demo.i18n.site.git md
+git clone https://atomgit.com/i18n/demo.i18n.site.docker.git docker
+```
+
+Navê pelrêça klona bingehîn a koda `demo.i18n.site` divê `md` be da ku pêşdîtina herêmî bi `docker` re hêsantir bike.
+
+### Wergerandin
+
+Pêşîn, pelrêça `md` têkevin û `i18n.site` `zh` , ku dê `en` wergerîne.
+
+<img src="https://p.3ti.site/1721114619.avif" style="width:350px">
+
+Piştî xebitandinê, pelên werger û cache dê bêne çêkirin Ji kerema xwe ji bîr mekin ku hûn `git add . ` li depoya pelrêça `md` zêde bikin.
+
+### Pêşdîtina Herêmî
+
+`docker` saz bikin û dest pê bikin ( `MAC` bikarhêner pêşniyar dike ku [orbstack](https://orbstack.dev) wekî dema xebitandinê ji bo `docker` bikar bînin).
+
+Dûv re, pelrêça `docker` têkevin û `./up.sh` bimeşînin, û dûv re biçin serdana herêmî [https://127.0.0.1](https://127.0.0.1)
+
+<img src="//p.3ti.site/1721104238.avif" style="width:360px">
+
+### Naveroka Bişînin
+
+`i18n.site` mîmariya [serîlêdana yek-rûpelî](https://developer.mozilla.org/docs/Glossary/SPA) qebûl dike, û rûpela têketina malperê û naveroka malperê serbixwe têne bicîh kirin.
+
+Piştî xebitandina wergera jorîn, pelrêça `htm` û `v` dê di bin pelrêça `md/out/dev` de bêne çêkirin.
+
+Li vir, `dev` tê vê wateyê ku ew li ser bingeha pelê mîhengê `.i18n/htm/dev.yml` hatî çêkirin.
+
+`dev` directory :
+
+Pelrêça `htm` rûpela têketina malperê ye.
+
+Di pelrêça `v` de naveroka malperê bi hejmarên guhertoyan heye.
+
+Pêşniyara herêmî bala xwe nade jimareya guhertoyê û dê hemî pelan li pelrêça `out/dev/v/0.1.0` kopî bike.
+
+Ji bo serbestberdana fermî, pelên guherî dê li pelrêça jimareya nû ya guhertoyê werin kopî kirin.
+
+#### -c Bikar Bînin Da Ku Pelê Veavakirinê Diyar Bikin
+
+Pelên veavakirinê yên cihêreng dê di pelrêça `out` de pelrêçên têkildar biafirînin.
+
+Mînakî, `.i18n/htm/ol.yml` dê pelrêça `out/ol` biafirîne.
+
+`dev.yml` û `ol.yml` mîhengên xwerû ne.
+
+`dev` kurteya `development` -ê ye, ku hawîrdora pêşkeftinê nîşan dide, ku ji bo pêşdîtina herêmî tê bikar anîn, û di heman demê de pelê veavakirina xwerû ye.
+`ol` kurtenivîsa `online` -ê ye, ku hawîrdora serhêl nîşan `npm` , ku ji bo serbestberdana fermî tê bikar anîn Ew di heman demê de pelê veavakirina xwerû ye dema ku ji bo berdanê parametreyên rêzika fermanê `-n` bikar tîne.
+
+Her weha hûn dikarin pelên mîhengê yên din jî biafirînin ku li ser rêzika fermanê `--htm_conf` bikar bînin da ku navê pelê veavakirinê diyar bikin:
+
+bo nimûne:
+```
+i18n.site --htm_conf yourConfig --save
+```
+
+Li vir `--save` jimareya guhertoya berdana nûvekirinê nîşan dide.
+
+#### <a rel=id href="#npm" id="npm"></a> Naveroka npmjs.com biweşînin
+
+Weşandina naverokê [ji](/i18n.site/feature#ha) bo [npmjs.com](//npmjs.com)
+
+##### npm login &
+
+`nodejs` saz bikin, bi `npm login` re têkevinê.
+
+`md/.i18n/htm/ol.yml` biguherînin û `i18n.site` di `v: //unpkg.com/i18n.site` de bi navê pakêta xweya `npm` biguherînin.
+
+Tenê navê pakêtê ya negirtî li ser bikar bînin [npmjs.com](//npmjs.com)
+
+Dema ku li ser bingeha pakêtê `npm` diweşînin, **bê guman `//unpkg.com/` ji bo** pêşgira `v:` -ê `i18n.site` bi taybetî dema cache-ya `/.v` di binê vê rêça pêşgiriyê de xweştir kiriye da ku bigihîje temaşekirina biwext a weşanên nû.
+
+Di pelrêça `md` de `i18n.site --npm` an `i18n.site -n` bimeşînin ku wergerînin û çap bikin.
+
+Heke hûn ji bo weşandinê jîngehek entegrasyonê ya domdar bikar tînin, hewcedarî bi sazkirina `nodejs` tune. Tenê destûrên têketin û weşanê `~/.npmrc` li hawîrdorê kopî bikin.
+
+Ger hûn navê pakêtê ya `v:` di `ol.yml` de biguherînin, ji **kerema xwe pêşî `.i18n/v/ol` jêbirin** û paşê biweşînin.
+
+##### Pêşkêşkara Proxy Ji Hêla npm Ve Hatî Weşandin
+
+Ger bikarhêner li axa Chinaînê bi pirsgirêkên torê re rû bi rû bimînin û nikaribin `npm` pakêtan biweşînin, ew dikarin guhêrbara jîngehê `https_proxy` saz bikin da ku servera proxy mîheng bikin.
+
+Bihesibînin ku porta servera weya proxy `7890` ye, hûn dikarin binivîsin:
+
+```
+https_proxy=http://127.0.0.1:7890 i18n.site -n
+```
+
+#### Naveroka Xweseriya Xweser
+
+Heke hûn dixwazin naverokê bixwe-mêvandar bikin, pêşî `md/.i18n/htm/ol.yml` biguherînin û `v: //unpkg.com/i18n.site` li pêşgira URL-ya xwe biguherînin, wek `v: //i18n-v.xxx.com` .
+
+Têkeve pelrêça `md` û birevin
+
+```
+i18n.site --htm_conf ol --save
+```
+
+an kurtkirin
+
+```
+i18n.site -c ol -s
+```
+
+Dûv re, naverokê di pelrêça `md/out/ol/v` de bi rêça pêşgiriya URL-ê ya ku di `v:` de hatî destnîşan kirin mîheng bikin.
+
+Di dawiyê de, **dema cache ya riya ku bi `/.v` ber `1s` diqede mîheng bikin** , wekî din naveroka ku nû derketiye tavilê nayê gihîştin.
+
+Dema cache ji bo rêyên din dikare salek an bêtir were danîn da ku daxwazên nehewce kêm bike.
+
+##### Naveroka Mêvandarê s3
+
+Ji bo naveroka xwe-mêvandarê, ji bilî karanîna servera xwe, vebijarkek din a hevpar ev e ku hûn `S3` `CDN` bînin +
+
+`S3` `S3` [rclone](https://rclone.org)
+
+```bash
+i18n.site -c ol -s
+s3=your-s3
+bucket=your-bucket
+ver=$(head -1 .i18n/v/ol/v.hash | cut -c 2-)
+rclone copy --overwrite-dir out/ol/htm/v/$ver $s3:/$bucket/$ver
+rclone copy out/ol/v/.v "$s3:/$bucket/"
+```
+
+Bînin bîra xwe ku hûn `CDN` mîheng bikin da ku dema cache ya riya ku bi `/.v` diqede `1s` be, wekî din naveroka ku nû hatî berdan tavilê neyê gihîştin.
+
+### Malpera Weşandin
+
+Malper dikare li her deverê were bicîh kirin [github page](https://pages.github.com) û [cloudflare page](https://pages.cloudflare.com) vebijarkên baş in.
+
+Ji ber ku malper mîmariya [serîlêdanê ya yek-rûpel](https://developer.mozilla.org/docs/Glossary/SPA) bikar tîne, ji bîr mekin ku hûn rêyên URL-ê yên ku `. ` `index.html` nagirin ji nû ve binivîsin.
+
+Pêdivî ye ku rûpela têketina malperê tenê carekê were saz kirin, û ji bo nûvekirinên naverokê yên paşîn ne hewce ye ku rûpela têketina malperê ji nû ve were saz kirin.
+
+#### Li Ser Rûpela github Bicîh Bikin
+
+Pêşî [li github bikirtînin da ku rêxistinek çêbikin](https://github.com/account/organizations/new?plan=free) Navê rêxistina jêrîn wekî nimûne `i18n-demo` e.
+
+Dûv re di binê vê rêxistinê de depoya `i18n-demo.github.io` biafirînin (ji kerema xwe `i18n-demo` bi navê rêxistina ku we afirandiye biguhezînin):
+
+![](https://p.3ti.site/1721098657.avif)
+
+Dema ku naveroka di gotara berê de hate weşandin, `out/ol/htm` hate çêkirin :
+
+```
+ln -s index.html 404.html
+```
+
+
+Ji ber ku `github page` ji nû ve nivîsandina riya URL-ê piştgirî nake, li şûna wê `404.html` tê bikar anîn.
+
+Dûv re emrê jêrîn di pelrêça `htm` de bimeşînin (ji bîr mekin ku `i18n-demo/i18n-demo.github.io.git` bi navnîşana depoya xweya xwe veguherînin) :
+
+```
+git init
+git branch -M main
+git remote add origin git@github.com:i18n-demo/i18n-demo.github.io.git
+git push -u origin main -f
+```
+
+Piştî pêxistina kodê, li bendê bin ku bicîhkirina `github page` bi serfirazî bimeşe (wek ku li jêr tê xuyang kirin) berî ku hûn bigihîjin wê.
+
+<img src="//p.3ti.site/1721116586.avif" width="350px">
+
+Ji bo rûpela demo ji kerema xwe bibînin:
+
+[https://i18n-demo.github.io](https://i18n-demo.github.io)
+
+#### Li Ser Rûpela cloudflare Bicîh Bikin
+
+Li gorî `github page` [cloudflare page](//pages.cloudflare.com) ew ji nû ve nivîsandina rê peyda dike û ji axa Chinaînê re hevaltir e û karanîna wê bêtir tê pêşniyar kirin.
+
+Bicihkirina `cloudflare page` bi gelemperî li ser bicîhkirina `github page` li jor bingeh e.
+
+Projeyek biafirînin û `i18n-demo.github.io` wargeha li jor girêdin.
+
+Pêvajo di wêneya jêrîn de tê nîşandan:
+![](https://p.3ti.site/1721117897.avif)
+![](https://p.3ti.site/1721118239.avif)
+
+Ji kerema xwe `Add Account` bikirtînin da ku rê bidin rêxistina `i18n-demo` .
+
+Ger we embara saziyek din ve girêdaye, dibe ku hûn hewce bike ku du caran `Add Account` bikirtînin da ku du caran destûr bidin berî ku rêxistina nû were xuyang kirin.
+
+![](https://p.3ti.site/1721118306.avif)
+
+Dûv re, wargeha `i18n-demo.github.io` hilbijêrin, dûv re `Begin setup` bikirtînin, û ji bo gavên paşîn nirxên xwerû bikar bînin.
+
+![](https://p.3ti.site/1721118490.avif)
+
+Piştî girêdana ji bo cara yekem, hûn hewce ne ku çend hûrdeman bisekinin berî ku hûn bigihîjin wê.
+
+Piştî bicîhkirinê, hûn dikarin navek domainek xwerû girêdin.
+
+![](https://p.3ti.site/1721119459.avif)
+
+Piştî girêdana navê domaina xwerû, ji kerema xwe biçin nav navê domainê da ku rêça nûnivîsandina serîlêdana yek-rûpelê mîheng bikin, wekî ku li jêr tê xuyang kirin:
+
+![](https://p.3ti.site/1721119320.avif)
+
+`i18n.site` di wêneya jorîn de wiha ne.
+
+```
+(http.host in {"i18n.site"}) and not (
+ends_with(http.request.uri.path,".html") or
+ends_with(http.request.uri.path,".htm") or
+ends_with(http.request.uri.path,".ico") or
+ends_with(http.request.uri.path,".js") or
+ends_with(http.request.uri.path,".avif") or
+ends_with(http.request.uri.path,".css") or
+ends_with(http.request.uri.path,".json") or
+ends_with(http.request.uri.path,".png") or
+ends_with(http.request.uri.path,".svg") or
+ends_with(http.request.uri.path,".txt") or
+ends_with(http.request.uri.path,".webmanifest") or
+ends_with(http.request.uri.path,".xml")
+)
+```
+
+Wekî din, ji kerema xwe qaîdeyên cache-ê mîheng bikin, wekî ku li jêr tê xuyang kirin, û dirêjahiya cache-ê li mehekê destnîşan bikin.
+
+![](https://p.3ti.site/1721125111.avif)
+
+Ji kerema xwe navê domainê ku di gava duyemîn de di wêneya jorîn de lihevhatî ye biguherîne navê domaina ku we girêdaye.
+
+#### Optimîzekirina Bicîhkirina Malperê Li Axa Chinaînê
+
+Heke hûn dixwazin di hawîrdora torê ya axa Chinaînê de performansa gihîştina çêtir bistînin, ji kerema xwe pêşî [navek domainê tomar bikin](//beian.aliyun.com) .
+
+Dûv re, hilanîna objeya firoşkarên ewr li axa + bikar bînin `CDN` Naveroka jêrîn `out/ol/htm` bicîh bikin.
+
+Hûn dikarin hesabkirina qerax bikar bînin da ku rê li ber sepanên yek-rûpelê ji nû ve binivîsînin Mînakî, [Baidu Smart Cloud `CDN`](//cloud.baidu.com/product/cdn.html) dikare bi vî rengî were mîheng kirin:
+
+```js
+var uri=r.uri,p=uri.lastIndexOf('.');
+if(
+  p<0 || !'|avif|css|html|ico|js|json|png|svg|txt|webmanifest|xml|'.includes('|'+uri.slice(p+1)+'|')
+){
+  r.uri='/index.html'
+}
+r.respHeader(()=>{
+var t = [];
+r.rawHeadersOut.forEach((i)=>{
+    var out = r.headersOut;
+    var key = i[0].toLowerCase();
+    if(key.startsWith('x-')||key.startsWith('ohc-')){
+        delete out[key]
+    }
+    out['Cache-Control']='max-age='+9e5;
+    ['Content-MD5','Age','Expires','Last-Modified'].forEach((i)=>delete out[i])
+})
+})
+```
+![](https://p.3ti.site/1721121273.avif)
+
+Ji ber ku tomar `MX` û tomar `CNAME` nikarin bi hev re bijîn, heke hûn dixwazin e-nameyên navên domainê di heman demê de werbigirin, hûn hewce ne [cname_flatten](https://github.com/i18n-site/lib/tree/main/cname_flatten) bi skrîpta asta `CNAME` `A` hevkariyê bikin.
+
+Wekî din, ji ber ku lêçûnên seyrûsefera li derveyî welat ên firoşkarên ewr ên li ser axa Chinaînê biha ne, heke hûn dixwazin lêçûnên xweştir bikin, hûn dikarin [çareseriya erdnîgarî ya belaş a Huawei DNS](https://support.huaweicloud.com/usermanual-dns/dns_usermanual_0041.html) û navê domaina xwerû ya [Cloudflare for SaaS](https://developers.cloudflare.com/cloudflare-for-platforms/cloudflare-for-saas) bikar bînin (wek ku li jêr tê xuyang kirin). veguheztina trafîkê──Trafîka li axa Chinaînê Baidu Cloud `CDN` , seyrûsefera navneteweyî diçe cloudflare .
+
+![](https://p.3ti.site/1721119788.avif)
+
+Van çareseriyên xweşbînkirina bicîhkirinê tevlihevtir in û dê di pêşerojê de di beşên cihê de bêne destnîşan kirin.
+
+#### Beralîkirina Navê Domainê Ya Gelemperî
+
+Heke hûn `i18n.site` bikar tînin da ku malperek wekî malpera xweya sereke çêbikin, hûn bi gelemperî hewce ne ku hûn beralîkirina pan-domain mîheng bikin, ango, gihîştina `*.xxx.com` (tevî `www.xxx.com` ) beralî `xxx.com` bikin.
+
+Ev hewcedarî dikare bi alîkariya Alibaba Cloud `CDN` `EdgeScript` ( [belgeya Îngilîzî](https://www.alibabacloud.com/help/en/cdn/developer-reference/how-edgescript-works) / [Belgeya Çînî](https://help.aliyun.com/zh/cdn/developer-reference/edgescript) ) pêk were
+
+Navê domainê li [Alibaba CDN](https://cdn.console.aliyun.com/domain/list) zêde bikin û di Alibaba Cloud `CDN` de navê domainê ji `*.xxx.com` heta `CNAME` destnîşan bikin.
+
+![](https://p.3ti.site/1721122000.avif)
+
+Mînakî, veavakirina beralîkirina navê pan-domainê ya `*.i18n.site` di wêneya jorîn de wiha ye:
+
+```
+rewrite(concat('https://i18n.site/',$uri), 'redirect',301)
+```
+
+![](https://p.3ti.site/1721121934.avif)
+
+#### Bi nginx Re Bicîh Bikin
+
+Ji kerema xwe veavakirinek mîna ya jêrîn di paragrafa `server` ya nginx -yê de zêde bikin Ji kerema xwe `/root/i18n/md/out/ol/htm` biguherînin riya projeya xwe `out/ol/htm` :
+
+```
+location / {
+  root  /root/i18n/md/out/ol/htm;
+  add_header Cache-Control "max-age=9999999";
+  if ($uri !~* \.(avif|css|html|ico|js|json|png|svg|txt|webmanifest|xml)$) {
+     rewrite ^ /index.html last;
+  }
+}
+```
+
+### Avahiya Directory
+
+#### `public`
+
+Pelên statîk ên malperê, wekî `favicon.ico` , `robots.txt` , hwd.
+
+Pelên îkonê li vir dikarin bi [realfavicongenerator.net](https://realfavicongenerator.net)
+
+#### `.i18n`
+
+Di bin pelrêça `.i18n` de pelên veavakirinê, cacheya wergerê, hwd. yên `i18n.site` hene. Ji bo hûragahiyan li beşa paşîn ["Vesazkirin"](/i18n.site/conf) binêre.
+
+#### `en`
+
+Peldanka zimanê çavkaniyê, bi pelê veavakirinê `en` ji `fromTo` di `.i18n/conf.yml` de
+
+```yaml
+i18n:
+  fromTo:
+    en: zh
+```
+
+Ji kerema xwe serî li veavakirina wergerê bidin [i18](/i18/use)

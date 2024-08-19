@@ -1,0 +1,1 @@
+# i18: Komentorivi Markdown- ja YAML-käännöstyökalu

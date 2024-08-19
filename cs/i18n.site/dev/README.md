@@ -1,0 +1,1 @@
+# Druhý stupeň vývoje

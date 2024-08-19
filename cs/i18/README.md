@@ -1,0 +1,1 @@
+# i18 : Příkazový řádek pro nástroj překladu Markdown & YAML

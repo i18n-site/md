@@ -1,0 +1,1 @@
+# Komut İstemi Markdown ve YAML Çeviri Aracı - i18n

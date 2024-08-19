@@ -1,0 +1,1 @@
+# Funcionament I Manteniment

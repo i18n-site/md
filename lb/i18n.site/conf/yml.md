@@ -1,0 +1,198 @@
+# .i18n/conf.yml
+
+De Profil fir `i18n.site` ass `.i18n/conf.yml` .
+
+Ausser d'Astellunge vun [`i18`](/i18) , `ignore:` an `i18n:` , ass d'Konfiguratiounsdatei wéi follegt:
+
+```yaml
+upload:
+  ext:
+    - md
+nav:
+  - i18n: home
+    use: Toc
+    url: /
+  - i18n: doc
+    menu: NB demo1,demo2
+    use: Doc
+  - i18n: blog
+    use: Doc
+```
+
+Dorënner heescht `upload` bis `ext:` Konfiguratiounsartikel datt nëmmen `.md` eropgeluede ginn beim Verëffentlechen.
+
+## Top Navigatioun nav
+
+`nav:` Konfiguratiounsoptiounen, entspriechend dem Navigatiounsmenü uewen op der Startsäit.
+
+<img src="//p.3ti.site/1721051426.avif" style="width:320px">
+
+Dorënner entsprécht `i18n: home` `home: Home` an `en/i18n.yml` .
+
+`en/i18n.yml` gëtt a verschidde Sproochen iwwersat, wéi `zh/i18n.yml` .
+
+<img src="//p.3ti.site/1721051689.avif" style="width:320px">
+
+Nodeems d'Iwwersetzung ofgeschloss ass, kënnt Dir de Wäert vun der Iwwersetzung `yml` änneren, awer net de Schlëssel vun der Iwwersetzung `yml` addéieren oder läschen.
+
+### `use: Toc` , Eenzeg Datei Schabloun (Mat Kontur)
+
+`nav` :
+
+```
+  - i18n: home
+    use: Toc
+    url: /
+```
+
+`use: Toc` heescht Rendering mat engem `Toc` Schabloun, wat eng eenzeg `Markdown` Schabloun rendert.
+
+`TOC` ass d'Ofkierzung vun `Table of Contents` Wann dës Schabloun rendert gëtt, gëtt d'Kontur vun dëser `Markdown` Datei an der Sidebar ugewisen.
+
+`url:` stellt de Fichierwee vun `Markdown` duer ( `/` entsprécht dem Root-Verzeichnis `/README.md` , dëse Dateinumm erfuerdert e grousse Buschtaf Präfix an e Suffix vu klenge Buschtawen).
+
+### `use: Md` , Eenzeg Datei Schabloun (Keng Kontur)
+
+D' `Md` Schabloun an d' `Toc` Schabloun sinn d'selwecht a béid gi benotzt fir eng eenzeg `Markdown` Datei ze maachen. Awer d' `Md` Schabloun weist net d'Kontur an der Sidebar.
+
+Dir kënnt `use: Toc` an der uewe genannter Konfiguratioun op `use: Md` änneren, lafen `i18n.site` am `md` Verzeichnis erëm, a besicht dann d'Entwécklungsvirschau URL fir d'Ännerungen op der Homepage ze beobachten.
+
+### Standard Luede Ouni Configuratioun Wee
+
+Wann e bestëmmte Wee zougänglech ass a säi Wee Präfix net an `nav:` konfiguréiert ass, gëtt déi `MarkDown` Datei, déi dem Wee entsprécht, als Standard gelueden a mat der `Md` Schabloun ofgeleet.
+
+Zum Beispill, wann `/test` zougänglech ass, an `nav:` ouni dëse Wee konfiguréiert ass, an d'Säitsprooch Englesch ass (Code `en` ), gëtt `/en/test.md` als Standard gelueden a mat Schabloun `Md` gemaach.
+
+Wann `/en/test.md` dës Datei net existéiert, gëtt d'Standard `404` Säit ugewisen.
+
+<img src="https://p.3ti.site/1721184299.avif" style="width:360px">
+
+### `use: Doc` , Multi-Datei Schabloun
+
+An der Konfiguratiounsdatei:
+
+```
+  - i18n: blog
+    use: Doc
+```
+
+Gëtt un `Doc` fir Schablounrendering ze benotzen.
+
+`Doc` Schabloun ënnerstëtzt d'Integratioun vu Multiple `MarkDown` fir Dokumentkonturen fir eenzel oder verschidde Projeten ze generéieren.
+
+#### Eenzelprojet (Méi Dateien)
+
+`blog` hei uewen ass den Single-Item Modus vun `Doc` .
+
+```
+  - i18n: blog
+    url: blog
+    use: Doc
+```
+
+##### Wann d'URL Eidel Ass, Setzt Se Als Standard Op De Wäert Vun i18n
+
+Wann `url` net geschriwwe gëtt, gëtt `url` Standard op de Wäert vun `i18n` Dës Regel trëtt och fir aner Schablounen a Kraaft.
+
+Déi uewe genannte Schreifmethod ass gläichwäerteg mat `url: blog` , a seng entspriechend Datei ass `en/blog/TOC` .
+
+#### Multiple Projeten
+
+D'Konfiguratioun vun `i18n:doc` vun `.i18n/conf.yml` ass Multi-Projet Modus.
+
+```
+  - i18n: doc
+    menu: NB demo1,demo2
+    use: Doc
+```
+
+<img src="https://p.3ti.site/1721275191.avif" width="320px">
+
+Hei, `menu: NB demo1,demo2` , heescht d' `NB` Schabloun ze benotzen fir den Dropdown-Menü ze maachen.
+
+`NB` , wat d'Ofkierzung vun `Name Breif` ass, heescht datt den Dropdown-Menü den Numm an de Slogan vum Projet kann weisen.
+
+`NB` gëtt gefollegt vum Parameter `demo1,demo2` deen derbäi ass.
+Opgepasst : ** Et sollt keng Plazen ** virum an nom Komma `,` op `demo1,demo2` sinn.
+
+Déi entspriechend Verzeechnesindexdatei fir déi uewe genannte Parameteren ass:
+
+* `en/demo1/TOC`
+* `en/demo2/TOC`
+
+#### TOC Inhaltsverzeechnes Index
+
+`i18n.site` wäert `js` Plug-in `.i18n/hook/after.tran/TOC.js` am Demo Warehouse ausféieren fir d' `doc` Verzeechnes Indexdatei ze liesen entspriechend der `TOC` Schabloun Konfiguratioun fir de `json` Verzeechnes Kontur ze generéieren.
+
+Wann Dir `doc` Schabloun benotzt, musst Dir dëse Plug-in hunn.
+
+Wann Dir de Projet `i18n.site` aus engem eidelen Dossier initialiséiert, erënnert Iech un d'Demoprojet `.i18n` an Äre Verzeichnis ze kopéieren.
+
+D' `Doc` Schabloun gëtt den Inhaltsverzeechnes Kontur op Basis vun der generéierter `json` .
+
+##### Detailléiert Inhalt Erklärung
+
+`en/blog/TOC` Inhalt ass wéi follegt :
+
+```
+README.md
+
+news/README.md
+  news/begin.md
+```
+
+##### Benotzt Indentatioun Fir Niveauen Unzeginn
+
+`README.md` an der éischter Zeil vun `en/blog/TOC` uewen entsprécht `i18n.site` am Bild hei drënner, wat de Projet Numm ass.
+
+Déi nächst zwou Zeilen si wéi am Screenshot hei ënnen gewisen.
+
+<img src="https://p.3ti.site/1721097381.avif" style="width:320px">
+
+`news/README.md` entsprécht `News` ,
+`news/begin.md` entsprécht `Our Product is Online !`
+
+`TOC` Dateien ginn agedréckt fir d'hierarchesch Relatioun vum Kontur unzeweisen an Multi-Level Indentatioun z'ënnerstëtzen.
+
+##### Den Elterendeel Schreift Nëmmen Den Titel, Net Den Inhalt.
+
+Wann et e puer Niveauen vun Indentatioun sinn, schreift den Elterendeel nëmmen den Titel an net den Inhalt. Soss gëtt d'Typographie duercherneen.
+
+##### Projet README.md
+
+Inhalt kann am Element `README.md` geschriwwe ginn, wéi `en/demo2/README.md` .
+
+Bedenkt datt den Inhalt vun dësem Fichier keen Inhaltsverzeechnes weist, dofir ass et recommandéiert d'Längt ze limitéieren an eng kuerz Aféierung ze schreiwen.
+
+###### Projet Slogan
+
+Dir kënnt gesinn datt `Deme Two` säi Projet Tagline ënner dem Dropdown-Menü huet an de Katalog vum Projet : `Your Project slogan` .
+
+![](https://p.3ti.site/1721276842.avif)
+
+Dëst entsprécht der éischter Zeil `en/demo2/README.md` :
+
+```
+# Demo Two : Your Project slogan
+```
+
+Den Inhalt nom éischte Colon `:` vum éischten Niveau Titel vum Projet `README.md` gëtt als Projet Slogan ugesinn.
+
+Benotzer aus China, Japan a Korea, notéiert w.e.g. datt Dir d'Halschent-Breet Colon `:` amplaz vu Vollbreed Colon benotze sollt.
+
+##### Wéi Réckelen TOC Am Bulk?
+
+`TOC` Dateien mussen am Verzeechnes vun der Quellsprooch gesat ginn.
+
+Zum Beispill, wann d'Quellsprooch Chinesesch ass, dann ass `TOC` uewen `zh/blog/TOC` .
+
+Wann d'Quellsprooch geännert gëtt, musst Dir d' `TOC` Dateien vun enger bestëmmter Sprooch am Projet an eng aner Sprooch batch bewegen.
+
+Dir kënnt op déi folgend Kommandoen bezéien:
+
+```
+rsync -av --remove-source-files --include='*/' \
+--include='TOC' --exclude='*' en/ zh/
+```
+
+Ännere w.e.g. `en/` an `zh/` am uewe genannte Kommando op Äre Sproochecode.
