@@ -55,25 +55,9 @@ Iifayile zedemo eziguqulelweyo kulawulo lwe `en` ngumzekelo nje kwaye zinokuciny
 
 Ngenisa uvimba weefayili kwaye usebenzise `i18` ukuguqulela.
 
-### Yongeza Iifayile Kwindawo Yokugcina
+Ukongeza kwinguqulelo, inkqubo iya kuvelisa kwakhona ifolda `.i18n/data` , nceda uyifake kwindawo yokugcina.
 
-Ukongeza kwinguqulelo, inkqubo iya kuvelisa ezi fayile zilandelayo, nceda uzifake kwindawo yokugcina.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Phakathi kwazo, umxholo ka `.i18n/cache/.gitignore` umi ngolu hlobo lulandelayo :
-
-```
-**/*
-!**/.gitignore
-```
-
-Oku kuthetha ukuba zonke iifayile kulawulo `.i18n/cache/` (ngaphandle `.i18n/cache/.gitignore` ) azihoywa.
-
-Ukuba isoftware yolawulo lwakho ayiyo `git` , nceda ungayihoyi ngokwalo qwalaselo.
+Emva kokuguqulela ifayile entsha, ifayile entsha yedatha iya kuveliswa kolu luhlu Khumbula ukufaka `git add .` .
 
 ## Ifayile Yoqwalaselo
 

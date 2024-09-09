@@ -55,25 +55,9 @@ Difaele tša demo tše di fetoletšwego ka gare ga tšhupetšo ya `en` ke mohlal
 
 Kenya tšhupetšo gomme o kitimiše `i18` go fetolela.
 
-### Oketša Difaele Polokelong
+Go tlaleletša go phetolelo, lenaneo le tla tšweletša gape le foltara ya `.i18n/data` , hle e tlaleletša polokelong.
 
-Go tlaleletša go phetolelo, lenaneo le tla tšweletša gape difaele tše di latelago, hle di tlaleletša polokelong.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Gare ga tšona, diteng tša `.i18n/cache/.gitignore` ke tše di latelago :
-
-```
-**/*
-!**/.gitignore
-```
-
-Se se ra gore difaele ka moka ka go directory `.i18n/cache/` (ntle le `.i18n/cache/.gitignore` ) di a hlokomologwa.
-
-Ge e ba softwere ya gago ya taolo ya phetolelo ga se `git` , hle e hlokomologe go ya ka peakanyo ye.
+Ka morago ga go fetolela faele ye mpsha, faele ye mpsha ya datha e tla tšweletšwa ka go tšhupetšo ye Gopola go tlaleletša `git add .` .
 
 ## Faele Ya Peakanyo
 

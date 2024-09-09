@@ -8,7 +8,7 @@ De Programm huet gebaut-an `i18` Iwwersetzung, kuckt w.e.g. [➔ `i18` Dokument]
 
 D'Standardsprooch vun der Websäit passt automatesch mat der Sprooch vum Browser.
 
-Nodeems de Benotzer d'Sprooch manuell wiesselt, gëtt d'Wiel vum Benotzer erënnert.
+Nodeems de Benotzer manuell Sprooche wiesselt, gëtt d'Wiel vum Benotzer erënnert.
 
 Zesummenhang [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ Et gëtt och eng perfekt Lieserfahrung um Handy.
 
 ## <a rel=id href="#ha" id="ha"></a> Front-End héich Disponibilitéit
 
-`i18n.site` wäert de Site Inhalt op `npmjs.com` als Standard verëffentlechen, mat der Hëllef [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) an aner `CDN` Inhalter gelueden op `npm` .
+`i18n.site` wäert de Site Inhalt op `npmjs.com` als Standard verëffentlechen, mat der Hëllef vun [jsdelivr.com](//jsdelivr.com) [unpkg.com](//unpkg.com) an aner Multiple `CDN` Inhalt gelueden op `npm` .
 
 Op dëser Basis goufen Spigelquellen aus dem Festland China bäigefüügt fir Chinesesch Benotzer e stabilen Zougang ze hunn an **eng héich Frontend Disponibilitéit** z'erreechen.
 
@@ -37,12 +37,18 @@ D'Websäit adoptéiert eng eenzeg Säit Applikatiounsarchitektur, ouni Erfrësch
 ### Gutt Entworf Stil
 
 > D'Schéinheet vun der Einfachheet gëtt perfekt am Webdesign vun dëser Websäit interpretéiert.
-> Et verléisst onnéideg Dekoratioun a presentéiert Inhalt a senger purster Form.
+> Et verléisst iwwerflësseg Dekoratioun a stellt Inhalt a senger purster Form.
 > Wéi e schéint Gedicht, obwuel et kuerz ass, beréiert et de Leit hir Häerzer.
 
 <p style="text-align:right">I18N.SITE Auteur</p>
 
 [➔ Klickt hei fir eng Lëscht vu Stiler ze gesinn](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+D'Bild hei uewen weist Multi-Sprooch `RSS` [inoreader.com](//inoreader.com) Abonnement `i18n.site` .
 
 ### Lued Online Schrëften, Ënnerstëtzen Chinesesch
 
@@ -74,10 +80,10 @@ Hover Är Maus iwwer de Knäppchen op der rietser Säit vun der Top Navigatioun 
 
 ### `404` Klenge Geescht
 
-Et ass e léiwe klenge Schwiemm Geescht op der `404` Säit, deem seng Ae sech mat der Maus bewegen, [➔ Klickt hei fir ze kucken](/404) ,
+`404` Säit huet e léiwe klenge schwiewende Geescht, seng Ae wäerte sech mat der Maus bewegen, [➔ Klickt hei fir ze gesinn](/404) ,
 
 ## Code Open Source
 
 [De Code ass Open Source](/i18n.site/src) Wann Dir interesséiert sidd un der Entwécklung deelzehuelen, stellt Iech w.e.g. [d'Mailinglëscht](//groups.google.com/u/2/g/i18n-site) vir.
 
-Et gi vill kleng Ufuerderungen déi wichteg sinn, awer net dréngend.
+Et gi vill kleng Ufuerderungen déi wichteg sinn awer net dréngend.

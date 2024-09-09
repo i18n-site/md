@@ -55,25 +55,9 @@ Documenta demo translata in `en` directorio exemplum tantum sunt et deleri possu
 
 Intrant indicem et currunt `i18` ad transferendum.
 
-### Add Files in Conditorio
+Praeter translationem, programma etiam `.i18n/data` folder generabit, illud repositorium adde.
 
-Praeter translationem, programma etiam sequentia tabularia generabit, eas repositorio adde.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Inter eos contenta `.i18n/cache/.gitignore` talis est :
-
-```
-**/*
-!**/.gitignore
-```
-
-Hoc significat omnia documenta in directorio `.i18n/cache/` (excepto `.i18n/cache/.gitignore` ) neglecta esse.
-
-Si programmatis versionis tuae imperium non est `git` , illud ex hac configuratione ignorare placet.
+Post novum fasciculum translato, nova notitia `git add .` in hoc indice generabitur.
 
 ## Configurationis File
 

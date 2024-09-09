@@ -1,8 +1,8 @@
 # .i18n/conf.yml
 
-O arquivo de configuração para `i18n.site` é `.i18n/conf.yml`.
+O perfil para `i18n.site` é `.i18n/conf.yml`.
 
-Exceto pelas configurações de `ignore:` e `i18n:` no [`i18n`](/i18), o arquivo de configuração é o seguinte:
+Exceto pelas configurações de [`i18`](/i18), `ignore:` e `i18n:`, o arquivo de configuração é o seguinte:
 
 ```yaml
 upload:
@@ -17,27 +17,29 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Onde `upload` com a configuração `ext:` indica que apenas arquivos `.md` serão enviados durante a publicação.
+Entre eles, a configuração `upload` com `ext:` indica que apenas arquivos `.md` serão carregados durante a publicação.
 
 ## Navegação superior
 
-`nav:` opções de configuração, correspondentes ao menu de navegação no topo da página inicial.
+As opções de configuração `nav:` correspondem ao menu de navegação no topo da página inicial.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Dentre elas, `i18n: home` equivale a `home: Home` em `en/i18n.yml`.
+Entre elas, `i18n: home` corresponde a `home: Home` em `en/i18n.yml`.
 
-O `en/i18n.yml` será traduzido para vários idiomas, como `zh/i18n.yml`.
+`en/i18n.yml` será traduzido para vários idiomas, como `zh/i18n.yml`.
 
 <img src="//p.3ti.site/1721051689.avif" style="width:320px">
 
-Após a tradução, é possível ajustar os valores das traduções em `yml`, mas não se deve adicionar ou remover chaves das traduções `yml`.
+Após a tradução, pode-se modificar os valores das traduções `yml`, mas não se deve adicionar ou excluir chaves das traduções `yml`.
 
 ### `use: Toc`, modelo de arquivo único (com estrutura de tópicos)
 
-Within the `nav` configuration:
+Na configuração `nav`:
 
 ```
   - i18n: home
@@ -45,23 +47,23 @@ Within the `nav` configuration:
     url: /
 ```
 
-`use: Toc` indica que o modelo deve ser renderizado usando o template `Toc`, que processa um único arquivo `Markdown`.
+`use: Toc` indica que deve-se usar o modelo `Toc` para renderizar, o qual processa um único arquivo `Markdown`.
 
-`TOC` é a abreviatura de `Table of Contents`. Este modelo, quando renderizado, exibe a estrutura do tópico do arquivo `Markdown` na barra lateral.
+`TOC` é a abreviatura de `Table of Contents`; quando este modelo é renderizado, o sumário do arquivo `Markdown` será exibido na barra lateral.
 
-`url:` representa o caminho do arquivo `Markdown` (onde `/` corresponde ao diretório raiz `/README.md`, e o nome do arquivo deve ter prefixo maiúsculo e sufixo minúsculo).
+`url:` representa o caminho do arquivo `Markdown` (o `/` corresponde ao diretório raiz `/README.md`, e o nome do arquivo deve ter prefixo maiúsculo e sufixo minúsculo).
 
 ### `use: Md`, modelo de arquivo único (sem estrutura de tópicos)
 
-O modelo `Md` é semelhante ao `Toc`, ambos usados para renderizar um único arquivo `Markdown`. No entanto, o modelo `Md` não exibe a estrutura do tópico na barra lateral.
+O modelo `Md` é semelhante ao modelo `Toc`, ambos usados para renderizar um único arquivo `Markdown`. No entanto, o modelo `Md` não exibe o sumário na barra lateral.
 
-Você pode alterar `use: Toc` para `use: Md` na configuração acima, executar `i18n.site` novamente no diretório `md` e visitar o endereço de pré-visualização do desenvolvimento para observar as mudanças na página inicial.
+Você pode alterar `use: Toc` para `use: Md` na configuração acima, executar `i18n.site` novamente no diretório `md`, e depois acessar o endereço de pré-visualização do desenvolvimento para observar as mudanças na página inicial.
 
 ### Carregamento padrão sem configuração de caminho
 
-Se um caminho acessado não tiver seu prefixo configurado em `nav:`, o arquivo `Markdown` correspondente ao caminho será carregado por padrão e renderizado usando o modelo `Md`.
+Se um caminho acessado não tiver seu prefixo configurado em `nav:`, o arquivo `Markdown` correspondente ao caminho será carregado automaticamente e renderizado usando o modelo `Md`.
 
-Como, por exemplo, ao acessar `/test`, se `nav:` não estiver configurado para esse caminho e o idioma da página for inglês (código `en`), `/en/test.md` será carregado por padrão e renderizado usando o modelo `Md`.
+Por exemplo, ao acessar `/test`, se o caminho não estiver configurado em `nav:`, e o idioma da página for inglês (código `en`), `/en/test.md` será carregado automaticamente e renderizado usando o modelo `Md`.
 
 Se `/en/test.md` não existir, uma página padrão `404` será exibida.
 
@@ -76,9 +78,9 @@ No arquivo de configuração:
     use: Doc
 ```
 
-Indica o uso de `Doc` para a renderização do modelo.
+Indica o uso do `Doc` para a renderização de modelos.
 
-O modelo `Doc` suporta a integração de múltiplos arquivos `Markdown` para gerar estruturas de tópicos para projetos únicos ou múltiplos.
+O modelo `Doc` suporta a integração de vários arquivos `Markdown` para gerar sumários de documentos para projetos únicos ou múltiplos.
 
 #### Projeto único (múltiplos arquivos)
 
@@ -108,27 +110,27 @@ A configuração `i18n:doc` em `.i18n/conf.yml` é para o modo de múltiplos pro
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-Aqui, `menu: NB demo1,demo2` indica que o menu suspenso deve ser renderizado usando o modelo `NB`.
+Aqui, `menu: NB demo1,demo2` indica que se deve usar o modelo `NB` para renderizar o menu suspenso.
 
 `NB` é a abreviatura de `Name Brief`, significando que o menu suspenso pode exibir o nome e o slogan do projeto.
 
 `NB` é seguido pelo parâmetro `demo1,demo2`.
 Nota: ** Não deve haver espaços ** antes e depois da vírgula `,` em `demo1,demo2`.
 
-O arquivo de índice de diretório correspondente aos parâmetros acima é:
+Para os parâmetros acima, o arquivo de índice correspondente é:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
 #### Índice Do Índice TOC
 
-`i18n.site` executará o plugin `js` `.i18n/hook/after.tran/TOC.js` no repositório de demonstração para ler o arquivo de índice `TOC` correspondente à configuração do modelo `doc` para gerar a estrutura de tópicos em `json`.
+`i18n.site` executará o plugin `js` `.i18n/hook/after.tran/TOC.js` no repositório de demonstração para ler o arquivo de índice `TOC` correspondente à configuração do modelo `Doc` para gerar o sumário em `json`.
 
-Se você estiver usando o modelo `doc`, deve ter este plugin.
+Se você usar o modelo `Doc`, deve ter este plugin.
 
-Se você inicializar o projeto `i18n.site` a partir de uma pasta vazia, lembre-se de copiar o repositório de demonstração `.i18n` para o seu diretório.
+Se inicializar o projeto `i18n.site` a partir de uma pasta vazia, lembre-se de copiar o `.i18n` do projeto de demonstração para o seu diretório.
 
-O modelo `Doc` renderizará a estrutura de tópicos com base no `json` gerado.
+O modelo `Doc` renderizará o sumário com base no `json` gerado.
 
 ##### Explicação detalhada do conteúdo
 
@@ -141,42 +143,42 @@ news/README.md
   news/begin.md
 ```
 
-##### Use recuos para indicar níveis de hierarquia
+##### Use recuo para indicar níveis de hierarquia
 
-A primeira linha de `en/blog/TOC`, `README.md`, corresponde ao `i18n.site` na imagem abaixo, que é o nome do projeto.
+O `README.md` na primeira linha do `en/blog/TOC` acima corresponde ao `i18n.site` na imagem abaixo, que é o nome do projeto.
 
-As próximas duas linhas são como mostrado na imagem abaixo.
+As próximas duas linhas são como mostrado na figura abaixo.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
 `news/README.md` corresponde a `News`
-`news/begin.md` corresponde a `Our Product is Online !`
+`news/begin.md` corresponde a `Our Product is Online!`
 
-O `TOC` usa recuos para indicar a relação hierárquica do tópico e suporta recuos em múltiplos níveis.
+O arquivo `TOC` usa recuo para indicar a hierarquia do sumário, suportando recuo em vários níveis e comentários iniciados por `#`.
 
 ##### O nível pai deve conter apenas o título, sem o conteúdo
 
-Quando houver múltiplos níveis de recuo, o nível pai deve conter apenas o título, sem o conteúdo, para evitar confusão na formatação.
+Quando houver vários níveis de recuo, o nível pai deve conter apenas o título, sem o conteúdo, para evitar distorções no layout.
 
 ##### Projeto README.md
 
 É possível escrever conteúdo no arquivo `README.md` do projeto, como em `en/demo2/README.md`.
 
-Observe que o conteúdo deste arquivo não exibe a estrutura de tópicos, portanto, é recomendável manter o texto curto e escrever uma breve introdução.
+Note que o conteúdo deste arquivo não exibe um sumário, portanto, é recomendável manter o texto curto e escrever uma breve introdução.
 
 ###### Slogan do projeto
 
-Como pode ser visto, `Deme Two` tem o slogan do projeto abaixo do menu suspenso e do nome do projeto no esboço do catálogo: `Your Project slogan`.
+É possível ver que `Deme Two` tem o slogan do projeto abaixo do menu suspenso e do nome do projeto no sumário do catálogo: `Your Project slogan`.
 
 ![](https://p.3ti.site/1721276842.avif)
 
-Isso corresponde à primeira linha em `en/demo2/README.md`:
+Isso corresponde à primeira linha de `en/demo2/README.md`:
 
 ```
 # Demo Two : Your Project slogan
 ```
 
-O conteúdo após os dois pontos `:` no título de nível um do `README.md` do projeto será considerado o slogan do projeto.
+O conteúdo após os dois pontos `:` no primeiro título do `README.md` do projeto será considerado o slogan do projeto.
 
 Os usuários da China, Japão e Coreia devem notar que deve-se usar os dois pontos de meia largura `:` em vez dos dois pontos de largura total.
 
@@ -184,11 +186,11 @@ Os usuários da China, Japão e Coreia devem notar que deve-se usar os dois pont
 
 O `TOC` deve ser colocado no diretório do idioma de origem.
 
-Como, por exemplo, se o idioma de origem for chinês, o `TOC` acima será `zh/blog/TOC`.
+Por exemplo, se o idioma de origem for chinês, o `TOC` acima será `zh/blog/TOC`.
 
-Se o idioma de origem for alterado, será necessário mover em massa os arquivos `TOC` de um idioma específico no projeto para outro idioma.
+Se o idioma de origem for alterado, será necessário mover em massa os arquivos `TOC` de um idioma específico para outro idioma no projeto.
 
-Você pode consultar os seguintes comandos:
+Referência aos seguintes comandos:
 
 ```
 rsync -av --remove-source-files --include='*/' \

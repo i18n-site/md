@@ -1,11 +1,14 @@
 # Attīstības Plānošana
 
-Tiek izstrādātas šādas svarīgas funkcijas:
+## Pabeigts
+
+- [x] RSS plūsma
+- [x] meklētājprogrammu optimizācija
+
+## Izstrādē
 
 - [ ] Pārslēgšanās starp vairākām dokumentu versijām
 - [ ] Tīra priekšgala pilna teksta meklēšana
-- [ ] RSS plūsma
-- [ ] meklētājprogrammu optimizācija
 - [ ] Vienlaikus nosūtiet rakstu atjauninājumus lielākajiem sociālajiem medijiem
 - [ ] / pieejams e-pasts `web push` Abonējiet produktu atjauninājumus
 - [ ] Komentējiet raksta rindkopas

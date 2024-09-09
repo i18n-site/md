@@ -8,7 +8,7 @@ Sagantaan kun hiikkaa `i18` of keessaa qaba, fayyadama addaatiif maaloo [sanada 
 
 Afaan durtii weebsaayitii ofumaan afaan biraawzarichaa wajjin walsima.
 
-Fayyadamaan afaanota harkaan erga jijjiiree booda filannoo fayyadamaa ni yaadatama.
+Fayyadamaan harkaan afaanota erga jijjiiree booda filannoo fayyadamaa ni yaadatama.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) walqabatee :
 
@@ -20,7 +20,7 @@ Mobaayila irrattis muuxannoo dubbisuu mudaa hin qabnetu jira.
 
 ## <a rel=id href="#ha" id="ha"></a> Fuulduraan kan argamu ol’aanaa
 
-`i18n.site` qabiyyee saayitii gara `npmjs.com` durtiidhaan ni maxxansaa, gargaarsa [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) fi qabiyyee `CDN` biroo `npm` irratti fe'amaniin.
+`i18n.site` qabiyyee saayitii gara `npmjs.com` durtiidhaan ni maxxansaa, gargaarsa [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) fi qabiyyee dachaa `CDN` biroo `npm` irratti fe'ameen.
 
 Bu'uura kanaan, maddoonni daawwitii Chaayinaa guddittii irraa dabalamanii fayyadamtoonni Chaayinaa qaqqabummaa tasgabbaa'aa akka qabaataniifi **argama olaanaa fuulduraa** akka argatan taasisuu danda'eera .
 
@@ -43,6 +43,12 @@ Weebsaayitiin kun ijaarsa aplikeeshinii fuula tokkoo kan fudhatu yoo ta'u, yeroo
 <p style="text-align:right">── Barreessaa I18N.SITE</p>
 
 [➔ Tarree akkaataa ilaaluuf as tuqi](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Suuraan armaan olii afaanota `i18n.site` `RSS` fayyadamuun [inoreader.com](//inoreader.com)
 
 ### Foontii Toora Interneetii Fe'i, Chaayinaa Deeggaru
 
@@ -74,10 +80,10 @@ Bu'aa addaa qabbanaawaa arguuf hantuutee kee button gama mirgaa navigeeshinii gu
 
 ### `404` Hafuura Xiqqoo
 
-Fuula `404` irratti hafuurri xiqqoo bareedduu lola'aa jiru tokko jira, iji isaa hantuutee waliin socho'a, [➔ ilaaluuf as tuqi](/404) , .
+Fuulli `404` hafuura xiqqoo bareedduu lola'u qaba, iji isaa hantuutee waliin ni socho'a, [➔ ilaaluuf as tuqi](/404) , .
 
 ## Madda Banaa Koodii
 
 [Koodichi madda banaa dha](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Ulaagaalee xixiqqoo barbaachisoo ta’an garuu ariifachiisaa hin taane hedduutu jira Gareen misoomaa akkaataa teeknooloojii ati irratti ga’umsa qabduun hojii shaakala ni ramada, akkasumas ulaagaalee osoo ramaduu sanadoota misoomaa ni fooyyessa.
+Ulaagaalee xixiqqoo barbaachisoo ta’an garuu ariifachiisaa hin taane hedduutu jiru Gareen misoomaa teeknooloojiiwwan ati irratti ga’umsa qabdu irratti hundaa’uun hojiiwwan harkaan hojjetaman ni ramada, akkasumas ulaagaalee osoo ramaduu sanadoota misoomaa ni fooyyessa.

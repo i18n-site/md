@@ -20,7 +20,7 @@ Kukwakho namava okufunda agqibeleleyo kwifowuni ephathwayo.
 
 ## <a rel=id href="#ha" id="ha"></a> Ukufumaneka okuphezulu kwesiphelo sangaphambili
 
-`i18n.site` iya kupapasha umxholo wesayithi kwi `npmjs.com` ngokungagqibekanga, ngoncedo [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) kunye neminye imixholo emi `CDN` elayishwe kwi `npm` .
+`i18n.site` iya kupapasha umxholo wesayithi kwi `npmjs.com` ngokungagqibekanga, ngoncedo [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) kunye nezinye izinto ezininzi ze `CDN` ezilayishwe kwi `npm` .
 
 Ngesi siseko, imithombo yesibuko evela kwilizwe laseTshayina yongezwa ukuvumela abasebenzisi baseTshayina ukuba babe nokufikelela okuzinzileyo kwaye bafezekise **ukufumaneka okuphezulu kwesiphelo** .
 
@@ -43,6 +43,12 @@ Iwebhusayithi yamkele uyilo lwesicelo sephepha elinye, ngaphandle kokuhlaziya xa
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Cofa apha ukuze ubone uluhlu lwezimbo](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Umfanekiso ongasentla ubonisa iilwimi ezininzi `RSS` usebenzisa [inoreader.com](//inoreader.com) `i18n.site` .
 
 ### Layisha Iifonti Kwi-Intanethi, Xhasa isiTshayina
 
@@ -70,14 +76,14 @@ Xa uskrola umxholo ngasekunene, ulwandlalo olungasekhohlo luya kuqaqambisa ngaxe
 
 ### Iziphumo Zempuku
 
-Hambisa imouse yakho ngaphezulu kweqhosha kwicala lasekunene lokukhangela okuphezulu ukuze ubone iziphumo ezikhethekileyo ezipholileyo.
+Hambisa imouse yakho phezu kweqhosha kwicala lasekunene lokukhangela okuphezulu ukuze ubone iziphumo ezikhethekileyo ezipholileyo.
 
 ### `404` Isiporho Esincinci
 
-Kukho isiporho esincinci esihle esidadayo kwiphepha le `404` , elimehlo laso lizakuhamba nge mouse, [➔ Cofa apha ukujonga](/404) ,
+Iphepha `404` linomporho omncinci omhle odadayo, amehlo alo azakuhamba kunye nempuku, [➔ Cofa apha ukujonga](/404) ,
 
 ## Ikhowudi Yomthombo Ovulekileyo
 
 [Ikhowudi ngumthombo ovulekileyo](/i18n.site/src) Ukuba unomdla wokuthatha inxaxheba kuphuhliso, nceda uzazise [kuluhlu lokuposa](//groups.google.com/u/2/g/i18n-site) .
 
-Zininzi iimfuno ezincinci ezibalulekileyo kodwa ezingangxamisekanga Iqela lophuhliso liya kwabela imisebenzi yokuziqhelanisa ngokwetekhnoloji onobuchule kuyo, kwaye uphucule amaxwebhu ophuhliso ngelixa unikezela iimfuno.
+Kukho iimfuno ezininzi ezincinci ezibalulekileyo kodwa ezingangxamisekanga Iqela lophuhliso liya kunika izandla kwimisebenzi esekelwe kubuchwephesha obulungileyo kubo, kwaye uphucule amaxwebhu ophuhliso ngelixa unikezela iimfuno.

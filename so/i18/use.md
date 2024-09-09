@@ -55,25 +55,9 @@ Faylasha demo ee la turjumay ee ku jira hagaha `en` waa tusaale uun waana la tir
 
 Geli tusaha oo orod `i18` si aad u turjunto.
 
-### Ku Dar Faylasha Kaydka
+Marka lagu daro tarjumaada, barnaamijku wuxuu sidoo kale soo saari doonaa galka `.i18n/data` , fadlan ku dar kaydka.
 
-Turjumaada ka sokow, barnaamijku waxa kale oo uu soo saari doonaa faylasha soo socda, fadlan ku dar meelaha kaydka ah.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Waxaa ka mid ah, nuxurka `.i18n/cache/.gitignore` waa sida soo socota :
-
-```
-**/*
-!**/.gitignore
-```
-
-Tani waxay ka dhigan tahay in dhammaan faylasha ku jira tusaha `.i18n/cache/` (marka laga reebo `.i18n/cache/.gitignore` ) la iska indhatiray.
-
-Haddii software-ka kontoroolka noocaagu aanu ahayn `git` , fadlan iska dhaaf si waafaqsan qaabayntan.
+Kadib tarjumaada faylka cusub, fayl xog cusub ayaa laga soo saari doonaa `git add .` .
 
 ## Faylka Qaabaynta
 

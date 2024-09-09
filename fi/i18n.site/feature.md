@@ -4,80 +4,86 @@
 
 Ohjelmassa on sisäänrakennettu `i18`-käännös, katso [➔ `i18`-asiakirja](/i18) erityistä käyttöä varten.
 
-## Automaattinen sopusointu selaimen kielten kanssa
+## Automaattinen yhteensopivuus selaimen kieleen
 
-Sivuston oletuskieli mukautuu automaattisesti selaimen kieleen.
+Sivuston oletuskieli mukautetaan automaattisesti selaimen kieleen.
 
-Kun käyttäjä vaihtaa kielen manuaalisesti, valinta tallennetaan muistiin.
+Kun käyttäjä vaihtaa kieltä manuaalisesti, valinta tallennetaan.
 
-liittyvä koodi: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
+Asiaankuuluva koodi: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee).
 
 ## Mobiililaitteiden mukauttaminen
 
-Mobiililaitteilla on myös täydellinen lukukokemus.
+Käyttökokemus on täydellinen myös mobiililaitteilla.
 
 <img src="//p.3ti.site/1721379497.avif" width="350px">
 
-## <a rel=id href="#ha" id="ha"></a> Etuuripuolen korkea saatavuus
+## <a rel=id href="#ha" id="ha"></a> Etupään korkea saatavuus
 
-`i18n.site` julkaisee sivuston sisällön oletuksena `npmjs.com`-sivustolle, käyttäen [jsdelivr.com](//jsdelivr.com), [unpkg.com](//unpkg.com) ja muita `CDN`-palveluita, jotka ovat ladanneet `npm`-sisällön.
+`i18n.site` julkaisee sivuston sisällön oletuksena [jsdelivr.com](//jsdelivr.com) `npmjs.com` , [unpkg.com](//unpkg.com) ja muun usean `CDN` sisällön avulla, joka on ladattu `npm` .
 
-Tämän lisäksi on lisätty Manner-Kiinan peililähde, jotta kiinalaiset käyttäjät voivat käyttää sitä sujuvasti, ja on saavutettu **eturipuolen korkea saatavuus**.
+Tämän lisäksi on lisätty Kiinan manneralueen peililähde, jotta kiinalaiset käyttäjät voivat käyttää sivustoa vakaasti, ja tämä mahdollistaa **etupään korkean saatavuuden**.
 
-Periaate on: käyttää [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) sieppaamaan pyynnöt, tehdä uudelleenyrityksiä epäonnistuneille pyynnöille muilla `CDN`-palveluilla ja valita mukautuvasti nopeimmin vastaava lähde oletuslähdekksi.
+Periaate on: sieppaa pyynnöt arvolla [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , yritä uudelleen epäonnistuneita pyyntöjä muilla `CDN` ja ota mukautuvasti käyttöön nopeimmin reagoiva lähtöpaikka oletuslatauslähteeksi.
 
-liittyvä koodi: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker)
+Asiaankuuluva koodi: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker).
 
 ## Yksisivuinen sovellus, nopea lataus
 
-Sivusto käyttää yksisivuista sovellusarkkitehtuuria, jossa sivujen vaihtaminen tapahtuu ilman päivitystä ja lataus on erittäin nopea.
+Sivusto käyttää yksisivuista sovellusarkkitehtuuria, jossa sivujen vaihtaminen tapahtuu ilman uudelleenlatausta ja on erittäin nopea.
 
-## Optimoitu lukukokemukselle
+## Optimoitu lukukokemukseen
 
-### Tyylit on suunniteltu huolellisesti
+### Tarkasti suunniteltu tyyli
 
-> Yksinkertaisuuden kauneus tulkitaan täydellisesti tämän verkkosivuston suunnittelussa.
-> Se hylkää tarpeettoman koristelun ja esittää sisällön puhtaimmassa muodossaan.
+> Yksinkertaisuuden kauneus on täydellisesti tulkittu tämän verkkosivuston suunnittelussa.
+> Se hylkää tarpeettomat koristeet ja esittää sisällön puhtaimmassa muodossaan.
 > Kuten lyhyt, mutta koskettava runo.
 
 <p style="text-align:right">── I18N.SITE:n kirjoittaja</p>
 
 [➔ Klikkaa tätä nähdäksesi tyylimallit](/i18n.site/md/styl).
 
+### Monikielinen `RSS`-tilaus
+
+![](//p.3ti.site/1725541085.avif)
+
+Yllä olevassa kuvassa on esimerkki `i18n.site`-sivuston monikielisestä `RSS`-tilauksesta [inoreader.com](//inoreader.com).
+
 ### Lataa verkkokirjasimia, tukee kiinaa
 
-Oletusarvoisesti [Alimaman kaksiakseliset muuttuvat suorakulmaiset fontit](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR), [MiSans](https://hyperos.mi.com/font/zh/download/) ja muut verkkokirjasimet ovat käytössä verkkosivulla, yhdenmukaistaen eri alustojen käyttäjien lukukokemuksen.
+Sivusto käyttää oletuksena [Alimaman kaksiakselisia muuttuvia suorakulmaisia kirjasimia](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) ja [MiSans](https://hyperos.mi.com/font/zh/download/) sekä muita verkkokirjasimia, jotta eri alustoilla olevien käyttäjien lukukokemus olisi yhtenäinen.
 
-Samaan aikaan latausnopeuden parantamiseksi fontit on jaettu sanatiheyden mukaan.
+Samaan aikaan latausnopeuden parantamiseksi kirjasimet on jaettu sanatiheyden perusteella.
 
-liittyvä koodi: [github.com/i18n-site/font](https://github.com/i18n-site/font)
+Asiaankuuluva koodi: [github.com/i18n-site/font](https://github.com/i18n-site/font).
 
-### Ylänavigointi piilotetaan automaattisesti
+### Ylävalikko piilotetaan automaattisesti
 
-Kun vieritetään alas, ylänavigointi piilotetaan automaattisesti.
+Vieritä alas, ja ylävalikko piilotetaan automaattisesti.
 
-Kun vieritetään ylös, piilotettu navigointi tulee jälleen näkyviin.
+Vieritä ylös, ja piilotettu valikko tulee jälleen näkyviin.
 
-Kun hiiri ei liiku, se häviää.
+Kun hiiri ei liiku, valikko häviää.
 
-Navigointipalkin oikeassa yläkulmassa on kokonäyttöpainike, joka tarjoaa upottavan asiakirjan lukukokemuksen.
+Ylävalikon oikeassa yläkulmassa on kokonäyttöpainike, joka tarjoaa upottavan asiakirjan lukukokemuksen.
 
-### Nykyisen luvun synkronoitu ääriviivakorostus
+### Nykyisen luvun synkronoitu korostus
 
-Kun vieritetään oikealle, vasen ääriviiva korostaa samanaikaisesti nykyistä lukua.
+Kun vierität oikeaa sisältöä, vasen ääriviiva korostaa samanaikaisesti nykyistä lukua.
 
 ## Hienoja yksityiskohtia
 
 ### Hiiritehosteet
 
-Kun hiiri on ylänavigoinnin oikealla puolella olevan painikkeen päällä, näytetään upeita tehosteita.
+Vie hiiri ylävalikon oikeassa laidassa olevan painikkeen päälle nähdäksesi upeita tehosteita.
 
-### `404` pieni haamu
+### `404`-pikkahaamu
 
-`404`-sivulla on söpö pieni kelluva haamu, jonka silmät seuraa hiirtä, [➔ Klikkaa tätä nähdäksesi](/404)
+`404`-sivulla on suloinen pikkahaamu, jonka silmät seuraa hiirtä, [➔ Klikkaa tätä nähdäksesi](/404)
 
-## Koodi avoimen lähdekoodin
+## Koodi on avoimen lähdekoodin
 
 [Koodi on avoimen lähdekoodin](/i18n.site/src). Jos olet kiinnostunut osallistumaan kehitykseen, esittele itsesi [postituslistalle](//groups.google.com/u/2/g/i18n-site).
 
-On monia pieniä, mutta tärkeitä vaatimuksia, jotka eivät ole kiireellisiä. Kehitystiimi jakaa harjoittelutehtävät osaamasi tekniikan perusteella ja parantaa kehitysdokumentteja vaatimusten määrittämisen aikana.
+On monia pieniä, mutta tärkeitä vaatimuksia. Kehitystiimi jakaa käytännön tehtäviä osaamiesi teknologioiden perusteella ja parantaa kehitysdokumentteja vaatimusten määrittämisessä.

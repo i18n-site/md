@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Pakati pawo, `upload` mpaka `ext:` kasinthidwe chinthu zikutanthauza kuti `.md` yekha adzakwezedwa pamene kusindikiza.
@@ -63,7 +65,7 @@ Ngati njira ina ikupezeka ndipo chiyambi chake sichinakhazikitsidwe mu `nav:` , 
 
 Mwachitsanzo, ngati `/test` ikupezeka, ndipo `nav:` imakonzedwa popanda njira iyi, ndipo chinenero cha tsamba ndi Chingerezi (code `en` ), `/en/test.md` idzayikidwa mwachisawawa ndikuperekedwa pogwiritsa ntchito template `Md` .
 
-Ngati `/en/test.md` fayilo kulibe, tsamba lokhazikika `404` lidzawonetsedwa.
+Ngati `/en/test.md` fayilo kulibe, tsamba lokhazikika la `404` liwonetsedwa.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
@@ -82,7 +84,7 @@ Imawonetsa kugwiritsa ntchito `Doc` popereka ma template.
 
 #### Pulojekiti Imodzi (Mafayilo Angapo)
 
-`blog` pamwamba ndi njira yachinthu chimodzi cha `Doc` .
+`blog` pamwambapa ndi njira imodzi yokha ya `Doc` .
 
 ```
   - i18n: blog
@@ -115,7 +117,7 @@ Apa, `menu: NB demo1,demo2` , amatanthauza kugwiritsa ntchito template ya `NB` k
 `NB` imatsatiridwa ndi gawo `demo1,demo2` lomwe ladutsako.
 `demo1,demo2` : ** `,` **
 
-Fayilo yofananira ndi chikwatu chazomwe zili pamwambapa ndi:
+Pazigawo zomwe zili pamwambapa, fayilo yofananira yolozera ndi:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Mizere iwiri yotsatira ikuwonetsedwa pazithunzi pansipa.
 `news/README.md` ikufanana ndi `News` ,
 `news/begin.md` ikufanana ndi `Our Product is Online !`
 
-`TOC` mafayilo amalowetsedwa kuti awonetse ubale wokhazikika wa autilainiyo ndikuthandizira ma indentation amitundu ingapo.
+Mafayilo a `TOC` amalowetsedwa kuti asonyeze mgwirizano waulamuliro wa autilaini, kuthandizira ma indentation amitundu yambiri, ndi ndemanga za mzere kuyambira `#` .
 
 ##### Mlingo Wa Makolo Umangolemba Mutu, Osati Zomwe Zili.
 
@@ -188,7 +190,7 @@ Mwachitsanzo, ngati chinenero choyambirira ndi Chitchaina, ndiye kuti `TOC` pamw
 
 Ngati chilankhulo choyambira chisinthidwa, muyenera kusamutsa mafayilo `TOC` a chilankhulo china mu chilankhulo kupita ku chilankhulo china.
 
-Mutha kuloza kumalamulo awa:
+Mutha kulozera ku malamulo awa:
 
 ```
 rsync -av --remove-source-files --include='*/' \

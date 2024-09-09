@@ -55,25 +55,9 @@ Prevedene demo datoteke u direktoriju `en` samo su primjer i mogu se izbrisati.
 
 Unesite imenik i pokrenite `i18` za prijevod.
 
-### Dodajte Datoteke U Spremište
+Osim prijevoda, program će također generirati mapu `.i18n/data` , dodajte je u repozitorij.
 
-Osim prijevoda, program će također generirati sljedeće datoteke, dodajte ih u repozitorij.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Među njima, sadržaj `.i18n/cache/.gitignore` je sljedeći :
-
-```
-**/*
-!**/.gitignore
-```
-
-To znači da su sve datoteke u direktoriju `.i18n/cache/` (osim `.i18n/cache/.gitignore` ) zanemarene.
-
-Ako vaš softver za kontrolu verzija nije `git` , zanemarite ga u skladu s ovom konfiguracijom.
+Nakon prevođenja nove datoteke, nova podatkovna datoteka bit će generirana u ovom direktoriju. Ne zaboravite dodati `git add .` .
 
 ## Konfiguracijska Datoteka
 

@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Medzi nimi `upload` až `ext:` konfiguračná položka znamená, že pri publikovaní budú nahrané iba `.md` .
@@ -115,7 +117,7 @@ Tu `menu: NB demo1,demo2` znamená použitie šablóny `NB` na vykreslenie rozba
 `NB` je nasledovaný parametrom `demo1,demo2` , ktorý mu bol odovzdaný.
 Poznámka : ** Pred a za čiarkou `,` v `demo1,demo2` by nemali byť žiadne ** .
 
-Zodpovedajúci súbor indexu adresára pre vyššie uvedené parametre je:
+Pre vyššie uvedené parametre je zodpovedajúci súbor indexu adresára:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Nasledujúce dva riadky sú zobrazené na obrázku nižšie.
 `news/README.md` zodpovedá `News` ,
 `news/begin.md` zodpovedá `Our Product is Online !`
 
-`TOC` súborov je odsadených na označenie hierarchického vzťahu obrysu a podporuje viacúrovňové odsadenie.
+Súbory `TOC` sú odsadené na označenie hierarchického vzťahu obrysu, podporujú viacúrovňové odsadenie a komentáre k riadkom začínajúce `#` .
 
 ##### Nadradená Úroveň Píše Iba Názov, Nie Obsah.
 

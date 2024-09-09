@@ -8,7 +8,7 @@ Uhlelo lunokuhumusha okungu- `i18` okwakhelwe ngaphakathi, sicela ubone [➔ `i1
 
 Ulimi oluzenzakalelayo lwewebhusayithi luzofanelana ngokuzenzakalela nolimi lwesiphequluli.
 
-Ngemuva kokuthi umsebenzisi eguqule izilimi ngokwenza, ukukhetha komsebenzisi kuzokhumbuleka.
+Ngemuva kokuthi umsebenzisi eguqule izilimi mathupha, ukukhetha komsebenzisi kuzokhunjulwa.
 
 Ikhodi [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -30,7 +30,7 @@ Ikhodi [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main
 
 ## Uhlelo Lokusebenza Lwekhasi Elilodwa, Lulayisha Ngokushesha Okukhulu
 
-Iwebhusayithi isebenzisa ukwakheka kohlelo lokusebenza lwekhasi elilodwa, ngaphandle kokuvuselela lapho ushintsha amakhasi nokulayisha ngokushesha okukhulu.
+Iwebhusayithi yamukela ukwakheka kohlelo lokusebenza lwekhasi elilodwa, ngaphandle kokuvuselela lapho ushintsha amakhasi nokulayisha ngokushesha okukhulu.
 
 ## Ilungiselelwe Umuzwa Wokufunda
 
@@ -43,6 +43,12 @@ Iwebhusayithi isebenzisa ukwakheka kohlelo lokusebenza lwekhasi elilodwa, ngapha
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Chofoza lapha ukuze ubone uhlu lwezitayela](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Isithombe esingenhla sibonisa izilimi eziningi `RSS` kusetshenziswa [inoreader.com](//inoreader.com) `i18n.site` .
 
 ### Layisha Amafonti Aku-Inthanethi, Sekela isiShayina
 
@@ -80,4 +86,4 @@ Kukhona isipoki esincane esihle esintantayo ekhasini `404` , amehlo aso azohamba
 
 [Ikhodi ingumthombo ovulekile](/i18n.site/src) Uma ungathanda ukubamba iqhaza ekuthuthukisweni, sicela uzethule [ohlwini lwamakheli](//groups.google.com/u/2/g/i18n-site)
 
-Kunezidingo eziningi ezincane ezibalulekile kodwa ezingaphuthumi Ithimba lokuthuthukisa lizokwabela imisebenzi yokuzijwayeza ngokobuchwepheshe onekhono kubo, futhi lithuthukise imibhalo yokuthuthukisa ngenkathi labela izidingo.
+Kunezidingo eziningi ezincane ezibalulekile kodwa ezingaphuthumi Ithimba lokuthuthukisa lizokwabela izandla imisebenzi ngokusekelwe kubuchwepheshe onekhono kubo, futhi lithuthukise imibhalo yokuthuthukisa ngenkathi labela izidingo.

@@ -55,25 +55,9 @@ Faili za onyesho zilizotafsiriwa katika saraka `en` ni mfano tu na zinaweza kufu
 
 Ingiza saraka na uendeshe `i18` ili kutafsiri.
 
-### Ongeza Faili Kwenye Hifadhi
+Mbali na tafsiri, programu pia itazalisha folda `.i18n/data` , tafadhali iongeze kwenye hifadhi.
 
-Mbali na tafsiri, programu pia itazalisha faili zifuatazo, tafadhali ziongeze kwenye hifadhi.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Kati yao, yaliyomo katika `.i18n/cache/.gitignore` ni kama ifuatavyo :
-
-```
-**/*
-!**/.gitignore
-```
-
-Hii inamaanisha kuwa faili zote kwenye saraka `.i18n/cache/` (isipokuwa `.i18n/cache/.gitignore` ) zimepuuzwa.
-
-Ikiwa programu yako ya kudhibiti toleo sio `git` , tafadhali ipuuze kulingana na usanidi huu.
+Baada ya kutafsiri faili mpya, faili mpya ya data itatolewa katika saraka hii Kumbuka kuambatanisha `git add .` .
 
 ## Faili Ya Usanidi
 

@@ -8,7 +8,7 @@ Programak `i18` itzulpen integratu ditu, mesedez, ikusi [➔ `i18` dokumentu](/i
 
 Webgunearen hizkuntza lehenetsia automatikoki bat egingo du arakatzailearen hizkuntzarekin.
 
-Erabiltzaileak hizkuntza eskuz aldatu ondoren, erabiltzailearen aukera gogoratuko da.
+Erabiltzaileak eskuz hizkuntzaz aldatu ondoren, erabiltzailearen aukera gogoratuko da.
 
 Erlazionatutako kodea : [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
@@ -20,7 +20,7 @@ Telefono mugikorrean irakurketa esperientzia ezin hobea ere badago.
 
 ## <a rel=id href="#ha" id="ha"></a> Frontend erabilgarritasun handia
 
-`i18n.site` guneko edukia `npmjs.com` en argitaratuko du [jsdelivr.com](//jsdelivr.com) lehenetsian, , [unpkg.com](//unpkg.com) eta `npm` n kargatutako beste `CDN` edukien laguntzarekin.
+`i18n.site` gunearen edukia `npmjs.com` en argitaratuko du [jsdelivr.com](//jsdelivr.com) lehenetsian, , [unpkg.com](//unpkg.com) eta `npm` n kargatutako beste `CDN` edukiren laguntzarekin.
 
 Oinarri horretan, Txina kontinentaleko ispilu iturriak gehitu ziren txinatar erabiltzaileek sarbide egonkorra izan dezaten eta **front-end erabilgarritasun handia** lortzeko.
 
@@ -43,6 +43,12 @@ Webguneak orrialde bakarreko aplikazio-arkitektura hartzen du, orrialdez aldatze
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Egin klik hemen estiloen zerrenda ikusteko](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Goiko irudian hizkuntza anitzeko `RSS` harpidetza `i18n.site` erabiltzen da [inoreader.com](//inoreader.com)
 
 ### Kargatu Lineako Letra-Tipoak, Onartzen Txinera
 
@@ -74,10 +80,10 @@ Pasatu sagua goiko nabigazioaren eskuineko botoiaren gainean efektu bereziak iku
 
 ### `404` Mamu Txikia
 
-`404` orrialdean mugitzen den mamu txiki polit bat dago, zeinaren begiak saguarekin mugituko diren, [➔ Egin klik hemen ikusteko](/404) ,
+`404` orrialdeak mamu mugikor polit bat dauka, begiak saguarekin mugituko dira, [➔ Egin klik hemen ikusteko](/404) ,
 
 ## Kode Irekia
 
 [Kodea kode irekia da](/i18n.site/src) garapenean parte hartu nahi baduzu, mesedez aurkeztu [posta-zerrendan](//groups.google.com/u/2/g/i18n-site) .
 
-Garrantzitsuak baina premiazkoak ez diren baldintza txiki asko daude garapen-taldeak trebakuntza-zereginak esleituko ditu zure teknologiaren arabera, eta garapen-dokumentuak hobetuko ditu eskakizunak esleitzen dituen bitartean.
+Garrantzitsuak baina premiazkoak ez diren eskakizun txiki asko daude garapen-taldeak lan praktikoak esleituko ditu ondo ezagutzen dituzun teknologietan oinarrituta, eta garapen-dokumentuak hobetuko ditu eskakizunak esleitzen dituen bitartean.

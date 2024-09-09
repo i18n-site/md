@@ -1,0 +1,194 @@
+# Okulongoosa Mu Nkola Y’okunoonya (Seo) .
+
+## Omusingi
+
+`i18n.site` ekwata enzimba y’olupapula olumu etali ya kuzza buggya Okusobola okwanguyiza okuwandiika omuko gw’okunoonya, omuko ogw’enjawulo ogutakyuka ne `sitemap.xml` bijja kukolebwa abaseeyeeya.
+
+Bwe `User-Agent` y'okusaba okuyingira ekozesebwa omukugu mu kunoonya yingini, okusaba kujja kukyusibwa okudda ku lupapula olutakyuka nga kuyita mu `302` .
+
+Ku mpapula ezitakyukakyuka, kozesa `link` okulaga enkolagana n'enkyusa z'ennimi ez'enjawulo ez'olupapula luno, gamba nga :
+
+```
+<link rel=alternate hreflang=zh href="https://i18n.site/zh/.htm">
+<link rel=alternate hreflang=en href="https://i18n.site/en/.htm">
+```
+
+## Tegeka Okutereka Ebintu Okuteeka Fayiro Ezitakyukakyuka
+
+Fayiro ezitakyukakyuka zisobola okukolebwa mu kitundu, naye enkola esinga okukozesebwa kwe kuziteeka mu kutereka ebintu.
+
+Twala fayiro y'okusengeka `.i18n/htm/ol.yml` mu pulojekiti ya demo ng'ekyokulabirako
+
+```yml
+host:
+seo: true
+out:
+  - s3
+v: //unpkg.com/i18n.site
+x: 18x
+importmap:
+  i/: //unpkg.com/@i18n.site/
+```
+
+Nsaba sooka okyuse omuwendo gwa `host:` waggulu ku linnya lyo erya domain, nga `i18n.site` .
+
+Olwo, edit `~/.config/i18n.site.yml` era osseeko ensengeka eno wammanga :
+
+```yml
+site:
+  i18n.site:
+    s3:
+      - endpoint: s3.eu-central-003.backblazeb2.com
+        ak: # access key
+        sk: # secret key
+        bucket: # bucket name
+        # region:
+```
+
+Mu nsengeka, nsaba okyuse `i18n.site` okudda ku muwendo gwa `host:` mu `.i18n/htm/ol.yml` , amaterekero g'ebintu ebingi bisobola okutegekebwa wansi wa `s3` , era ennimiro `region` ya kwesalirawo (amaterekero g'ebintu bingi tebyetaagisa kuteeka nnimiro eno).
+
+Oluvannyuma dduka `i18n.site -n` okuddamu okufulumya pulojekiti.
+
+Bwoba okyusizza `~/.config/i18n.site.yml` era nga oyagala okuddamu okuteeka, nsaba okozese ekiragiro kino wammanga mu project root directory okugogola upload cache :
+
+```
+rm -rf .i18n/data/seo .i18n/data/public
+```
+
+## Ensengeka Ya cloudflare
+
+Erinnya lya domain erikyazibwa ku [cloudflare](//www.cloudflare.com)
+
+### Amateeka Agafuga Okukyusa
+
+Okwongerako amateeka g'okukyusa nga bwe kiragibwa wansi:
+
+![](//p.3ti.site/1725436822.avif)
+
+Koodi y'amateeka eri bweti, nsaba okyuse koodi "i18n.site" ku linnya lyo erya domain:
+
+```
+(http.host in {"i18n.site"}) and not (
+substring(http.request.uri.path,-3) in {".js" ".gz"} or
+substring(http.request.uri.path,-4) in {".htm" ".rss" ".css" ".svg" ".ico" ".png" ".xml" ".txt"} or
+substring(http.request.uri.path,-5) in {".html" ".avif" ".json"} or
+ends_with(http.request.uri.path,".webmanifest")
+)
+```
+
+### Amateeka G’okutereka
+
+Okwongerako amateeka ga cache nga gano wammanga:
+
+![](//p.3ti.site/1725437039.avif)
+
+```
+(substring(http.request.uri.path,-4) in {".htm" ".rss"}) or ends_with(http.request.uri.path,"/sitemap.xml") or ends_with(http.request.uri.path,".xml.gz")
+```
+
+### Okukyusa Amateeka
+
+Teeka amateeka g'okukyusakyusa nga bwe gali wansi, nsaba okyuse koodi "i18n.site" ku linnya lyo erya domain
+
+![](//p.3ti.site/1725437096.avif)
+
+```
+(http.host in {"i18n.site"}) and not (
+substring(http.request.uri.path,-3) in {".js" ".gz"} or
+substring(http.request.uri.path,-4) in {".htm" ".rss" ".css" ".svg" ".ico" ".png" ".xml" ".txt"} or
+substring(http.request.uri.path,-5) in {".html" ".avif" ".json"} or
+ends_with(http.request.uri.path,".webmanifest")
+) and (
+http.user_agent wildcard "*bot*" or
+http.user_agent wildcard "*spider*" or
+http.user_agent wildcard "*facebookexternalhit*" or
+http.user_agent wildcard "*slurp*" or
+http.user_agent wildcard "curl*" or
+http.user_agent wildcard "*InspectionTool*"
+)
+```
+
+`URL redirect` Londa dynamic redirection, nsaba okyuse `/en` mu redirection path `concat("/en",http.request.uri.path,".htm")` ku lulimi olusookerwako lw'oyagala emikutu gy'okunoonya okussaamu.
+
+## Baidu Ensengeka y'Ekire Eky'amagezi
+
+Bw’oba weetaaga okuwa obuweereza ku lukalu lwa China, osobola okukozesa [Baidu Smart Cloud](//cloud.baidu.com) .
+
+Data eteekebwa ku Baidu Object Storage era esibiddwa ku Baidu Content Distribution Network.
+
+Oluvannyuma tonda script mu [EdgeJS edge service](//console.bce.baidu.com/cdn/#/cdn/ejs/list) nga bweri
+
+```js
+var uri=r.uri,p=uri.lastIndexOf('.');
+
+if(
+  p<0 || !/html?|css|rss|avif|md|ico|gz|js|json|png|svg|txt|webmanifest|xml/.test(uri.slice(p+1))
+){
+  const ua = r.headersIn['User-Agent'].toLowerCase();
+  if (/facebookexternalhit|slurp|bot|spider|curl/.test(ua)) {
+    r.return(302,(/baidu|yisou|sogou|360|byte/.test(ua)?'/zh':'/en')+r.uri+'.htm')
+    return
+  }
+  r.uri = '/index.html'
+}
+
+r.respHeader(()=>{
+var t = [];
+r.rawHeadersOut.forEach((i)=>{
+    var out = r.headersOut;
+    var key = i[0].toLowerCase();
+    if(key.startsWith('x-')||key.startsWith('ohc-')){
+        delete out[key]
+    }
+    out['Cache-Control']='max-age='+9e5;
+    ['Content-MD5','Age','Expires','Last-Modified'].forEach((i)=>delete out[i])
+})
+
+})
+```
+
+Nywa ku `Debug` , olwo nyweza Publish to the entire network.
+
+![](//p.3ti.site/1725437754.avif)
+
+## Enkozesa Ey’omulembe: Okugabanya Entambula Okusinziira Ku Nsonga Y’ekitundu
+
+Bwoba oyagala okuwa obuweereza ku lukalu lwa China era nga naawe oyagala `cloudflare` free international traffic, osobola okukozesa `DNS` with regional resolution.
+
+`cloudflare` , [Huawei Cloud DNS](https://www.huaweicloud.com)
+
+Waliwo emitego mingi mu nsengeka ya `cloudflare` Wano waliwo ensonga ntono z'olina okwetegereza :
+
+### Erinnya Lya Domain Likyazibwa Mu `DNS` Endala , Engeri Y'okukozesaamu `cloudflare`
+
+Sooka osibe erinnya ly’ekifo ery’okwesalirawo ku `cloudflare` , n’oluvannyuma okozese `SSL/TLS` → erinnya ly’ekifo ery’ennono okukwataganya erinnya ly’ekifo ekikulu n’erinnya lino ery’ekifo.
+
+![](https://p.3ti.site/1725438658.avif)
+
+### `cloudflare R2` Tesobola Kutuusibwako Okuyita Mu Linnya Lya Domain Erya Bulijjo
+
+Olw’okuba `R2` `cloudflare` kutuusibwako linnya lya domain erirongooseddwa, ekifo eky’okutereka ebintu eky’ekibiina eky’okusatu kyetaaga okukozesebwa okuteeka fayiro ezitakyukakyuka.
+
+Wano `cloudflare` [backblaze.com](https://www.backblaze.com)
+
+Tonda ekibbo ku `backblaze.com` , teeka fayiro yonna, nyweza okulambula fayiro, era ofune erinnya lya domain erya `Friendly URL` , nga lino liri `f003.backblazeb2.com` .
+
+![](//p.3ti.site/1725440783.avif)
+
+Kyusa erinnya lya domain okuva ku `CNAME` okudda ku `f003.backblazeb2.com` ku `cloudflare` era osobozesa proxy.
+
+![](//p.3ti.site/1725440896.avif)
+
+Kyuusa `cloudflare` ku `SSL` → engeri y'okusiba, oteeke ku `Full`
+
+![](//p.3ti.site/1725438572.avif)
+
+Okwongerako etteeka ly’okukyusa nga bwe kiragibwa wansi, lisooke (eryasooka lye lisinga okukulembeza):
+
+![](//p.3ti.site/1725443232.avif)
+
+`Rewrite to` londa dynamic era okyuse `your_bucketname` mu `concat("/file/your_bucketname",http.request.uri.path)` ku linnya lyo erya baketi.
+
+Okugatta ku ekyo, mu tteeka ly’okukyusa `cloudflare` waggulu, `index.html` ekyusibwa okudda ku `file/your_bucketname/index.html` , era ensengeka endala zisigala nga bwe ziri.
+
+![](//p.3ti.site/1725441384.avif)

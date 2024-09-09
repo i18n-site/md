@@ -8,7 +8,7 @@ Pulogalamuyi yamasulira `i18` , chonde onani [➔ `i18` chikalata](/i18) kuti mu
 
 Chiyankhulo chosasinthika cha webusayiti chidzangofanana ndi chilankhulo cha msakatuli.
 
-Wogwiritsa ntchito akasintha zilankhulo pamanja, kusankha kwa wogwiritsa kumakumbukiridwa.
+Wogwiritsa ntchito akasintha pamanja zilankhulo, kusankha kwa wogwiritsa ntchito kudzakumbukiridwa.
 
 Kodi [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,11 +20,11 @@ Palinso kuwerenga kwabwino pa foni yam'manja.
 
 ## <a rel=id href="#ha" id="ha"></a> Kutsogolo kwapamwamba kupezeka
 
-`i18n.site` idzasindikiza zomwe zili patsamba `npmjs.com` mwachisawawa, mothandizidwa [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) ndi zina `CDN` zodzaza pa `npm` .
+`i18n.site` idzasindikiza zomwe zili patsamba `npmjs.com` mwachisawawa, mothandizidwa [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) ndi zina zambiri za `CDN` zodzaza pa `npm` .
 
 Pazifukwa izi, magwero agalasi ochokera ku China adawonjezedwa kuti alole ogwiritsa ntchito aku China kukhala ndi mwayi wokhazikika ndikukwaniritsa **kupezeka komaliza** .
 
-Mfundo yake ndi: landirani zopempha ndi [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , yesaninso zopempha zomwe zalephera pa `CDN` ena, ndikusintha mosinthika malo oyambira omwe amayankha mwachangu kwambiri ngati gwero lotsegula.
+Mfundo yake ndi: landirani zopempha ndi [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , yesaninso zopempha zomwe zalephera pa `CDN` ena , ndikusintha mosinthika malo oyambira omwe amayankha mwachangu ngati gwero lotsegula.
 
 Kodi [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker) :
 
@@ -34,7 +34,7 @@ Webusaitiyi imagwiritsa ntchito kamangidwe ka tsamba limodzi, kopanda zotsitsimu
 
 ## Zokometsedwa Kuti Muzitha Kuwerenga
 
-### Zopangidwa Bwino
+### Kalembedwe Kopangidwa Bwino
 
 > Kukongola kwa kuphweka kumatanthauziridwa mwangwiro mu mapangidwe a intaneti a webusaitiyi.
 > Imasiya zokongoletsa zosafunikira ndikupereka zomwe zili mu mawonekedwe ake oyera.
@@ -44,11 +44,17 @@ Webusaitiyi imagwiritsa ntchito kamangidwe ka tsamba limodzi, kopanda zotsitsimu
 
 [➔ Dinani apa kuti muwone mndandanda wa masitayelo](/i18n.site/md/styl) .
 
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Chithunzi pamwambapa chikuwonetsa zilankhulo zambiri `RSS` kugwiritsa ntchito kulembetsa `i18n.site` [inoreader.com](//inoreader.com)
+
 ### Kwezani Zilembo Zapaintaneti, Thandizirani Achi China
 
 Mwachisawawa, [mafonti a Alimama amitundu iwiri amakona anayi](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) [MiSans](https://hyperos.mi.com/font/zh/download/) ndi zilembo zina zapaintaneti zimayatsidwa patsamba lawebusayiti kuti agwirizanitse zowerengera za ogwiritsa ntchito pamapulatifomu osiyanasiyana.
 
-Nthawi yomweyo, kuti muwonjezere kuthamanga, mafonti amadulidwa malinga ndi kuchuluka kwa mawu.
+Nthawi yomweyo, kuti muwonjezere liwiro lotsitsa, mafonti amadulidwa malinga ndi kuchuluka kwa mawu.
 
 Kodi [github.com/i18n-site/font](https://github.com/i18n-site/font) :
 
@@ -60,7 +66,7 @@ Mpukutu mmwamba ndi zobisika navigation adzaoneka kachiwiri.
 
 Zizimiririka pamene mbewa sikuyenda.
 
-Pali batani la zenera lathunthu pakona yakumanja yakumanja kwa navigation bar kuti mupange chowerenga chozama kwambiri.
+Pali batani la zenera lathunthu pakona yakumanja kwa kapamwamba kolowera kuti mupange chowerenga chozama kwambiri.
 
 ### Kuunikira Kolumikizana Kwa Mutu Wapano
 
@@ -74,10 +80,10 @@ Yendetsani mbewa yanu pa batani ili kumanja kwa navigation pamwamba kuti muwone 
 
 ### `404` Mzukwa
 
-Patsamba la `404` pali mzimu wokongola woyandama, womwe maso ake aziyenda ndi mbewa, [➔ Dinani apa kuti muwone](/404) ,
+Tsamba la `404` lili ndi mzukwa wokongola woyandama, maso ake aziyenda ndi mbewa, [➔ Dinani apa kuti muwone](/404) ,
 
 ## Kodi Open Source
 
 [Khodiyo ndi gwero lotseguka](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Pali zofunikira zing'onozing'ono zomwe ziri zofunika koma osati mwamsanga Gulu lachitukuko lidzapereka ntchito zoyeserera malinga ndi luso lomwe mukuchita bwino, ndikuwongolera zolemba zachitukuko ndikugawa zofunikira.
+Pali zofunikira zing'onozing'ono zomwe ziri zofunika koma osati zachangu Gulu lachitukuko lidzapereka ntchito zogwirira ntchito kutengera matekinoloje omwe mukuchita bwino, ndikuwongolera zolemba zachitukuko pamene mukupereka zofunikira.

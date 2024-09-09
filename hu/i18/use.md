@@ -55,25 +55,9 @@ A `en` könyvtárban található fordítási demófájlok csak példaként szolg
 
 Lépjen be a könyvtárba, és futtassa az `i18` parancsot a fordítás elvégzéséhez.
 
-### Adjon hozzá fájlokat a verziókövető rendszerhez
+A program fordításon kívül a `.i18n/data` mappát is létrehozza, kérem, adják hozzá azt a verziókönyvtárhoz.
 
-A program,除了译文, még a következő fájlokat is generálja, kérjük, adja hozzá őket a verziókövető rendszerhez.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Közülük a `.i18n/cache/.gitignore` fájl tartalma a következő:
-
-```
-**/*
-!**/.gitignore
-```
-
-Ez azt jelenti, hogy a `.i18n/cache/` könyvtárban található összes fájl (kivéve a `.i18n/cache/.gitignore` fájlt) figyelmen kívül marad.
-
-Ha a verzióvezérlő szoftvere nem `git` , kérjük, hagyja figyelmen kívül ennek a konfigurációnak megfelelően.
+Új fájl fordítása után új adatfájl keletkezik ebben a könyvtárban. Ne felejtsék el hozzáadni a `git add .` parancsot.
 
 ## Konfigurációs fájl
 

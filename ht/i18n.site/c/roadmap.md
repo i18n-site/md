@@ -1,11 +1,14 @@
 # Planifikasyon Devlopman
 
-Karakteristik enpòtan sa yo ap devlope:
+## Konplete
+
+- [x] Flux RSS
+- [x] optimize motè rechèch la
+
+## Anba Devlopman
 
 - [ ] Chanje ant plizyè vèsyon dokiman yo
 - [ ] Pi bon kalite rechèch plen tèks devan-end
-- [ ] Flux RSS
-- [ ] optimize motè rechèch la
 - [ ] Ansanm pouse mizajou atik nan gwo medya sosyal
 - [ ] `web push` disponib pou itilizatè yo /
 - [ ] Kòmantè sou paragraf atik yo

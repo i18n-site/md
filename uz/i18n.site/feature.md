@@ -18,7 +18,7 @@ Mobil telefonda mukammal o'qish tajribasi ham mavjud.
 
 <img src="//p.3ti.site/1721379497.avif" width="350px">
 
-## <a rel=id href="#ha" id="ha"></a> Front-end yuqori mavjudligi
+## <a rel=id href="#ha" id="ha"></a> Oldindan yuqori mavjudligi
 
 `i18n.site` [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) va `npm` ga yuklangan boshqa `CDN` kontent yordamida sukut bo'yicha sayt tarkibini `npmjs.com` ga e'lon qiladi.
 
@@ -43,6 +43,12 @@ Veb-sayt bitta sahifali dastur arxitekturasini qabul qiladi, sahifalarni almasht
 <p style="text-align:right">── Muallif I18N.SITE</p>
 
 [➔ Uslublar ro'yxatini ko'rish uchun shu yerni bosing](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Yuqoridagi rasmda `i18n.site` obunasidan foydalangan [inoreader.com](//inoreader.com) ko'p tilli `RSS` ko'rsatilgan.
 
 ### Onlayn Shriftlarni Yuklang, Xitoy Tilini Qo'llab-Quvvatlang
 

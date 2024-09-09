@@ -2,7 +2,7 @@
 
 Pran pwojè Demo a kòm yon egzanp:
 
-`en/demo2/v` se nimewo vèsyon aktyèl pwojè a, ki pral parèt adwat non pwojè a nan deskripsyon ankadre a.
+`en/demo2/v` se nimewo vèsyon aktyèl la nan pwojè a, ki pral parèt adwat non pwojè a nan deskripsyon an.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

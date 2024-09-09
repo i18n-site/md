@@ -8,7 +8,7 @@ Die program het ingeboude `i18` vertaling, sien asseblief [➔ `i18` dokument](/
 
 Die webwerf se verstektaal sal outomaties ooreenstem met die blaaier se taal.
 
-Nadat die gebruiker handmatig van taal verander het, sal die gebruiker se keuse onthou word.
+Nadat die gebruiker handmatig van tale verander het, sal die gebruiker se keuse onthou word.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) kode :
 
@@ -43,6 +43,12 @@ Die webwerf neem 'n enkelbladsy-toepassingsargitektuur aan, met geen verversing 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Klik hier om 'n lys style te sien](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Die prent hierbo wys multi-taal `RSS` met behulp `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Laai Aanlyn Lettertipes, Ondersteun Chinees
 
@@ -80,4 +86,4 @@ Daar is 'n oulike klein swewende spook op die `404` bladsy, wie se oë met die m
 
 [Die kode is oopbron](/i18n.site/src) As jy belangstel om aan ontwikkeling deel te neem, stel jouself asseblief voor aan [die poslys](//groups.google.com/u/2/g/i18n-site) .
 
-Daar is baie klein vereistes wat belangrik is, maar nie dringend nie. Die ontwikkelingspan sal oefentake toewys volgens die tegnologie waarmee jy goed is, en die ontwikkelingsdokumente verbeter terwyl die vereistes toegewys word.
+Daar is baie klein vereistes wat belangrik is, maar nie dringend nie. Die ontwikkelingspan sal praktiese take toewys op grond van die tegnologieë waarmee jy goed is, en die ontwikkelingsdokumente verbeter terwyl die vereistes toegewys word.

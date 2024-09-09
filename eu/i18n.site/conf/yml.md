@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Horien artean, `upload` `ext:` konfigurazio-elementuak esan nahi du `.md` bakarrik igoko direla argitaratzean.
@@ -115,7 +117,7 @@ Hemen, `menu: NB demo1,demo2` , goitibeherako menua errendatzeko `NB` txantiloia
 `NB` ondoren `demo1,demo2` parametroa pasatzen zaio.
 Oharra : ** Ez da ** egon behar `demo1,demo2` -n `,` aren aurretik eta ondoren.
 
-Goiko parametroetarako dagokion direktorio-indize fitxategia hau da:
+Goiko parametroetarako, dagokion direktorio-indize fitxategia hau da:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -126,7 +128,7 @@ Goiko parametroetarako dagokion direktorio-indize fitxategia hau da:
 
 `doc` txantiloia erabiltzen baduzu, plug-in hau izan behar duzu.
 
-`i18n.site` proiektua hasieratzen baduzu karpeta huts batetik, gogoratu `.i18n` demo proiektua zure direktorioan kopiatu behar duzula.
+`i18n.site` proiektua hasieratzen baduzu karpeta huts batetik, gogoratu demo-proiektua `.i18n` zure direktorioan kopiatu behar duzula.
 
 `Doc` txantiloiak edukien eskema errendatuko du sortutako `json` oinarrituta.
 
@@ -152,7 +154,7 @@ Hurrengo bi lerroak beheko pantaila-argazkian erakusten diren bezala daude.
 `news/README.md` `News` dagokio,
 `news/begin.md` `Our Product is Online !` dagokio
 
-`TOC` fitxategiak koska daude eskemaren erlazio hierarkikoa adierazteko eta maila anitzeko koska onartzen duten.
+`TOC` fitxategiak koska daude eskemaren erlazio hierarkikoa adierazteko, maila anitzeko koska onartzen dute eta `#` hasten diren lerro-iruzkinak.
 
 ##### Gurasoen Mailak Izenburua Bakarrik Idazten Du, Ez Edukia.
 
@@ -176,7 +178,7 @@ Hau `en/demo2/README.md` lehen ilarari dagokio :
 # Demo Two : Your Project slogan
 ```
 
-`README.md` proiektuaren lehen mailako tituluaren lehenengo `:` puntuen ondorengo edukia proiektuaren lelotzat hartuko da.
+`README.md` proiektuaren lehen mailako tituluaren lehen `:` puntuen ondorengo edukia proiektuaren lelotzat hartuko da.
 
 Txina, Japonia eta Koreako erabiltzaileek, kontuan izan zabalera erdiko `:` puntu erabili behar dituzula zabalera osoko bi puntuen ordez.
 

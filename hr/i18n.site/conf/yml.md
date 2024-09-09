@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Među njima, stavka konfiguracije `upload` do `ext:` znači da će samo `.md` biti učitane prilikom objavljivanja.
@@ -115,7 +117,7 @@ Ovdje `menu: NB demo1,demo2` znači korištenje predloška `NB` za prikaz padaju
 Nakon `NB` slijedi parametar `demo1,demo2` koji mu je proslijeđen.
 Napomena : ** Ne smije biti razmaka ** ispred i iza zareza `,` u `demo1,demo2` .
 
-Odgovarajuća datoteka indeksa direktorija za gornje parametre je:
+Za gornje parametre, odgovarajuća datoteka indeksa direktorija je:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Sljedeća dva retka prikazana su na slici ispod.
 `news/README.md` odgovara `News` ,
 `news/begin.md` odgovara `Our Product is Online !`
 
-Datoteke `TOC` su uvučene kako bi ukazale na hijerarhijski odnos obrisa i podržavaju uvlačenje na više razina.
+Datoteke `TOC` su uvučene kako bi ukazale na hijerarhijski odnos nacrta, podržavaju uvlake na više razina i komentare retka koji počinju s `#` .
 
 ##### Nadređena Razina Piše Samo Naslov, Ne I Sadržaj.
 

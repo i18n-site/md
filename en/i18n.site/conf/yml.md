@@ -17,11 +17,13 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Among them, the `upload`'s `ext:` configuration item indicates that only `.md` will be uploaded when publishing.
 
-## Top Navigation nav
+## Top-Level Navigation: nav
 
 The `nav:` configuration options correspond to the navigation menu at the top of the homepage.
 
@@ -49,13 +51,13 @@ In `nav`:
 
 `TOC` is the abbreviation of `Table of Contents`. When this template is rendered, the outline of this `Markdown` file will be displayed in the sidebar.
 
-`url:` represents the file path of `Markdown` (`/` corresponds to the root directory `/README.md`, and this file name requires an uppercase prefix and a lowercase suffix).
+`url:` represents the file path of `Markdown` ( `/` corresponds to the root directory `/README.md`, and this file name requires an uppercase prefix and a lowercase suffix).
 
 ### `use: Md`, Single File Template (No Outline)
 
-The `Md` template is the same as the `Toc` template and is both used to render a single `Markdown` file. But the `Md` template does not show the outline in the sidebar.
+The `Md` template and the `Toc` template are the same, and both are used to render a single `Markdown` file. But the `Md` template does not show the outline in the sidebar.
 
-You can modify `use: Toc` in the above configuration to `use: Md`, run `i18n.site` again in the `md` directory, and then visit the development preview URL to observe the changes on the homepage.
+You can modify `use: Toc` in the above configuration to `use: Md`, run `i18n.site` in the `md` directory again, and then visit the development preview URL to observe the changes on the homepage.
 
 ### Default Loading Without Configuration Path
 
@@ -82,7 +84,7 @@ Indicates using `Doc` for template rendering.
 
 #### Single Project (Multiple Files)
 
-The `blog` mentioned above is the single-item mode of `Doc`.
+The `blog` above is the single-item mode of `Doc`.
 
 ```
   - i18n: blog
@@ -94,11 +96,11 @@ The `blog` mentioned above is the single-item mode of `Doc`.
 
 If `url` is not written, `url` defaults to the value of `i18n`. This rule also applies to other templates.
 
-The above writing is equivalent to `url: blog`, and its corresponding file is `en/blog/TOC`.
+The above writing method is equivalent to `url: blog`, and its corresponding file is `en/blog/TOC`.
 
 #### Multiple Projects
 
-The configuration of `i18n:doc` in `.i18n/conf.yml` is in the multi-project mode.
+The configuration of `i18n:doc` in `.i18n/conf.yml` is in multi-project mode.
 
 ```
   - i18n: doc
@@ -112,17 +114,17 @@ Here, `menu: NB demo1,demo2`, means using the `NB` template to render the drop-d
 
 `NB`, which is the abbreviation of `Name Breif`, means that the drop-down menu can display the name and slogan of the project.
 
-`NB` is followed by the parameters `demo1,demo2` passed to it.
+`NB` is followed by the parameter `demo1,demo2` passed to it.
 Note: ** There should be no spaces ** before and after the comma `,` in `demo1,demo2`.
 
-The corresponding directory index file for the above parameters is:
+For the above parameters, the corresponding directory index file is:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### TOC Table of Contents Index
+#### TOC: Table of Contents
 
-`i18n.site` will execute the `js` plugin `.i18n/hook/after.tran/TOC.js` in the demo warehouse to read the `doc` template configuration corresponding to the `TOC` directory index file to generate the `json` directory outline.
+`i18n.site` will execute the `js` plugin `.i18n/hook/after.tran/TOC.js` in the demo warehouse to read the `doc` template configuration's corresponding `TOC` directory index file to generate the `json` directory outline.
 
 If you use the `doc` template, you must have this plugin.
 
@@ -143,7 +145,7 @@ news/README.md
 
 ##### Use indentation to indicate levels
 
-The first line of `en/blog/TOC` above, `README.md`, corresponds to `i18n.site` in the figure below, which is the project name.
+The `README.md` in the first row of `en/blog/TOC` above corresponds to `i18n.site` in the figure below, which is the project name.
 
 The next two lines are as shown in the screenshot below.
 
@@ -152,11 +154,11 @@ The next two lines are as shown in the screenshot below.
 `news/README.md` corresponds to `News`,
 `news/begin.md` corresponds to `Our Product is Online!`
 
-`TOC` files use indentation to indicate the hierarchical relationship of the outline and support multi-level indentation.
+`TOC` files are indented to indicate the hierarchical relationship of the outline, support multiple-level indentation, and lines starting with `#` are comments.
 
-##### At the parent level, only the title should be written, without including the content
+##### The parent level only writes the title and not the content. Otherwise, typesetting will be messed up
 
-In cases of multiple indentation levels, the parent level should also only contain the title, omitting the content to avoid typography issues.
+In cases of multiple indentation levels, only the title should be written at the parent level, not the content. Failure to do so may result in typography issues.
 
 ##### Project README.md
 

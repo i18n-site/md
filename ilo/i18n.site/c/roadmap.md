@@ -1,11 +1,14 @@
 # Panagplano Iti Panagdur-As
 
-Dagiti sumaganad a napateg a tampok ket madama a mapatpataud:
+## Nalpasen
+
+- [x] RSS ti feed
+- [x] optimisasion ti makina ti panagbirok
+
+## Iti Sidong Ti Panagdur-As
 
 - [ ] Panagbalbaliw iti nagbaetan ti adu a bersion dagiti dokumento
 - [ ] Puro a front-end a naan-anay a teksto a panagsapul
-- [ ] RSS ti feed
-- [ ] optimisasion ti makina ti panagbirok
 - [ ] Aggigiddan nga iduron dagiti update ti artikulo kadagiti kangrunaan a social media
 - [ ] Email a magun-od kadagiti agar / aramat `web push` Agsubscribe kadagiti update ti produkto
 - [ ] Agkomento kadagiti parapo ti artikulo

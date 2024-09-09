@@ -55,25 +55,9 @@ Išversti demonstraciniai failai `en` kataloge yra tik pavyzdys ir gali būti i�
 
 Įveskite katalogą ir paleiskite `i18` kad išverstumėte.
 
-### Pridėkite Failus Į Saugyklą
+Be vertimo, programa taip pat sugeneruos `.i18n/data` aplanką, pridėkite jį prie saugyklos.
 
-Be vertimo, programa taip pat sugeneruos šiuos failus, įtraukite juos į saugyklą.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Tarp jų `.i18n/cache/.gitignore` turinys yra toks :
-
-```
-**/*
-!**/.gitignore
-```
-
-Tai reiškia, kad visi failai kataloge `.i18n/cache/` (išskyrus `.i18n/cache/.gitignore` ) yra ignoruojami.
-
-Jei jūsų versijos valdymo programinė įranga nėra `git` , nepaisykite jos pagal šią konfigūraciją.
+Išvertus naują failą, šiame kataloge bus sugeneruotas naujas duomenų failas. Nepamirškite pridėti `git add .` .
 
 ## Konfigūracijos Failas
 

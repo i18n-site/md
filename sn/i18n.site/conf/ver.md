@@ -2,7 +2,7 @@
 
 Tora demo purojekiti semuenzaniso:
 
-`en/demo2/v` ndiyo yazvino vhezheni nhamba yepurojekiti, iyo icharatidzwa kurudyi rwezita reprojekiti mudivi reparutivi.
+`en/demo2/v` ndiyo yazvino vhezheni nhamba yepurojekiti, iyo inoratidzwa kurudyi rwezita reprojekiti mudivi reparutivi.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Phakathi kwazo, `upload` kuya ku `ext:` into yokucushwa isho ukuthi `.md` kuphela ezolayishwa lapho kushicilelwa.
@@ -53,7 +55,7 @@ U `url:` umele indlela yefayela ka `Markdown` ( `/` ihambisana nomsuka wemibhalo
 
 ### `use: Md` , Isifanekiso Sefayela Elilodwa (Alukho Uhlaka)
 
-Isifanekiso esingu `Md` nesifanekiso esingu `Toc` ziyefana futhi zombili zisetshenziselwa ukunikeza ifayela elilodwa elingu `Markdown` . Kodwa isifanekiso `Md` asibonisi uhlaka kubha eseceleni.
+Isifanekiso esingu `Md` nesifanekiso esi `Toc` ziyefana futhi zombili zisetshenziselwa ukunikeza ifayela elilodwa elingu `Markdown` . Kodwa isifanekiso `Md` asibonisi uhlaka kubha eseceleni.
 
 Ungakwazi ukulungisa `use: Toc` ekucushweni okungenhla kube ngu `use: Md` , usebenzise `i18n.site` ohlwini lwemibhalo `md` futhi, bese uvakashela i-URL yokubuka kuqala yokuthuthukisa ukuze ubone izinguquko ekhasini eliyisiqalo.
 
@@ -63,7 +65,7 @@ Uma indlela ethile ifinyelelwa futhi isiqalo saso somzila singalungiselelwe koku
 
 Isibonelo, uma `/test` efinyelelwa, futhi `nav:` kumiswa ngaphandle kwale ndlela, futhi ulimi lwekhasi isiNgisi (ikhodi `en` ), `/en/test.md` izolayishwa ngokuzenzakalelayo futhi inikezwe kusetshenziswa isifanekiso `Md` .
 
-Uma `/en/test.md` leli fayela lingekho, kuzovela ikhasi eli `404` elizenzakalelayo.
+Uma `/en/test.md` leli fayela lingekho, kuzovela ikhasi elingu `404` elizenzakalelayo.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
@@ -115,7 +117,7 @@ Lapha, `menu: NB demo1,demo2` , kusho ukusebenzisa isifanekiso `NB` ukuze unikez
 `NB` ilandelwa ipharamitha engu `demo1,demo2` edluliselwe kuyo.
 Qaphela : ** Akufanele kube nezikhala ** ngaphambi nangemuva kukakhefana `,` ku- `demo1,demo2` .
 
-Ifayela lenkomba yohla lwemibhalo elihambisanayo lamapharamitha angenhla lithi:
+Kumapharamitha angenhla, ifayela lenkomba yohla lwemibhalo elihambisanayo lithi:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -126,7 +128,7 @@ Ifayela lenkomba yohla lwemibhalo elihambisanayo lamapharamitha angenhla lithi:
 
 Uma usebenzisa isifanekiso esingu `doc` , kufanele ube nale plug-in.
 
-Uma uqalisa iphrojekthi `i18n.site` kufolda engenalutho, khumbula ukukopisha iphrojekthi yedemo `.i18n` kusiqondisi sakho.
+Uma uqalisa iphrojekthi `i18n.site` kufolda engenalutho, khumbula ukukopisha iphrojekthi yedemo `.i18n` kumkhombandlela wakho.
 
 Isifanekiso esingu `Doc` sizonikeza ithebula lokuqukethwe uhlaka olususelwe ku `json` ekhiqiziwe.
 
@@ -152,7 +154,7 @@ Imigqa emibili elandelayo injengoba kukhonjisiwe kusithombe-skrini esingezansi.
 `news/README.md` uhambisana no `News` ,
 `news/begin.md` ihambisana no `Our Product is Online !`
 
-Amafayela `TOC` afakwe i-indenti ukuze abonise ubudlelwano besigaba sohlaka futhi asekele ukuhlehlisa okunamazinga amaningi.
+Amafayela `TOC` afakwe i-indenti ukuze abonise ubudlelwano besigaba sohlaka, asekela ukuhlehlisa okunamazinga amaningi, namazwana omugqa aqala ngo `#` .
 
 ##### Izinga Lomzali Libhala Isihloko Kuphela, Hhayi Okuqukethwe.
 

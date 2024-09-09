@@ -1,11 +1,14 @@
 # Moralo Oa Ntlafatso
 
-Lintlha tse latelang tsa bohlokoa li ntse li ntlafatsoa:
+## E Phethiloe
+
+- [x] Phepelo ea RSS
+- [x] ho ntlafatsa enjine ea ho batla
+
+## Tlas'a Nts'etsopele
 
 - [ ] Ho fetoha lipakeng tsa mefuta e mengata ea litokomane
 - [ ] Patlo e felletseng ea mongolo o ka pele
-- [ ] Phepelo ea RSS
-- [ ] ho ntlafatsa enjine ea ho batla
 - [ ] Ka nako e le 'ngoe sutumelletsa lintlafatso tsa sengoloa ho mecha ea litaba ea sechaba
 - [ ] Imeile e fumaneha ho / `web push` Ingolise ho lintlafatso tsa sehlahisoa
 - [ ] Fana ka maikutlo lirapeng tsa sehlooho

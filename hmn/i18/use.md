@@ -55,25 +55,9 @@ Cov ntaub ntawv txhais lus demo hauv `en` phau ntawv qhia tsuas yog ua piv txwv 
 
 Nkag mus rau hauv phau ntawv qhia thiab khiav `i18` los txhais.
 
-### Ntxiv Cov Ntaub Ntawv Rau Lub Chaw Cia Khoom
+Ntxiv nrog rau qhov kev txhais lus, qhov kev zov me nyuam tseem yuav tsim cov `.i18n/data` nplaub tshev, thov ntxiv nws rau qhov chaw khaws cia.
 
-Ntxiv nrog rau kev txhais lus, qhov kev zov me nyuam tseem yuav tsim cov ntaub ntawv hauv qab no, thov ntxiv rau hauv qhov chaw cia khoom.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Ntawm lawv, cov ntsiab lus ntawm `.i18n/cache/.gitignore` yog raws li hauv qab no :
-
-```
-**/*
-!**/.gitignore
-```
-
-Qhov no txhais tau tias tag nrho cov ntaub ntawv hauv phau ntawv `.i18n/cache/` (tshwj tsis yog `.i18n/cache/.gitignore` ) tsis quav ntsej.
-
-Yog tias koj qhov kev tswj hwm software tsis yog `git` , thov tsis quav ntsej nws raws li qhov kev teeb tsa no.
+Tom qab txhais cov ntaub ntawv tshiab, cov ntaub ntawv tshiab yuav raug tsim tawm hauv phau ntawv qhia no Nco ntsoov ntxiv `git add .` .
 
 ## Configuration File
 

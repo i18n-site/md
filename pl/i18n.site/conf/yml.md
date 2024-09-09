@@ -1,6 +1,6 @@
 # .i18n/conf.yml
 
-Profil konfiguracyjny dla `i18n.site` znajduje się w pliku `.i18n/conf.yml`.
+Profil dla `i18n.site` to `.i18n/conf.yml`.
 
 Z wyjątkiem ustawień [`i18`](/i18) , `ignore:` i `i18n:` , plik konfiguracyjny wygląda następująco:
 
@@ -17,25 +17,27 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Wśród nich, konfiguracja `upload` do `ext:` oznacza, że podczas publikacji będą przesyłane wyłącznie pliki `.md`.
+Wśród nich, `upload` z `ext:` oznacza, że podczas publikacji będą wysyłane tylko pliki `.md`.
 
-## Górna nawigacja
+## Górna nawigacja:
 
-`nav:` zawiera opcje konfiguracyjne odpowiadające menu nawigacyjnemu umieszczonemu na górze strony głównej.
+`nav:` odpowiada konfiguracji menu nawigacyjnego na górze strony głównej.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Wśród nich, `i18n: home` odpowiada `home: Home` w pliku `en/i18n.yml`.
+Wśród nich, `i18n: home` odpowiada `home: Home` w `en/i18n.yml`.
 
-Plik `en/i18n.yml` zostanie przetłumaczony na wiele języków, np. `zh/i18n.yml`.
+`en/i18n.yml` zostanie przetłumaczone na wiele języków, np. `zh/i18n.yml`.
 
 <img src="//p.3ti.site/1721051689.avif" style="width:320px">
 
-Po zakończeniu tłumaczenia można zmodyfikować wartości tłumaczeń w pliku `yml`, ale nie należy dodawać ani usuwać kluczy tłumaczeń `yml`.
+Po zakończeniu tłumaczenia można zmodyfikować wartości w pliku `yml`, ale nie należy dodawać ani usuwać kluczy tłumaczenia w pliku `yml`.
 
-### `use: Toc`, szablon pojedynczego pliku (z konturem)
+### `use: Toc`, szablon pojedynczego pliku (z wykazem treści):
 
 W konfiguracji `nav`:
 
@@ -45,29 +47,29 @@ W konfiguracji `nav`:
     url: /
 ```
 
-`use: Toc` oznacza renderowanie przy użyciu szablonu `Toc`, co oznacza renderowanie pojedynczego szablonu `Markdown`.
+`use: Toc` oznacza, że szablon `Toc` będzie używany do renderowania, co dotyczy pojedynczego szablonu `Markdown`.
 
-`TOC` to skrót od `Table of Contents`. Po wyrenderowaniu tego szablonu, kontur pliku `Markdown` będzie wyświetlany na pasku bocznym.
+`TOC` to skrót od `Table of Contents`; po wyrenderowaniu szablonu, kontur pliku `Markdown` będzie wyświetlany na pasku bocznym.
 
-`url:` oznacza ścieżkę pliku `Markdown` ( `/` odpowiada katalogowi głównemu `/README.md` , ta nazwa pliku wymaga dużego i małego przedrostka).
+`url:` oznacza ścieżkę do pliku `Markdown` ( `/` odpowiada głównemu katalogowi `/README.md`, nazwa pliku powinna być zaczynana dużą literą i kończona małą).
 
-### `use: Md`, szablon pojedynczego pliku (bez konturu)
+### `use: Md`, szablon pojedynczego pliku (bez wykazu treści):
 
-Szablon `Md` jest podobny do szablonu `Toc` i służy do renderowania pojedynczych plików `Markdown`. Jednak szablon `Md` nie wyświetla konturu na pasku bocznym.
+Szablon `Md` jest identyczny z szablonem `Toc`, oba służą do renderowania pojedynczego pliku `Markdown`, ale `Md` nie wyświetla konturu na pasku bocznym.
 
-Można zmodyfikować `use: Toc` w powyższej konfiguracji na `use: Md`, ponownie uruchomić `i18n.site` w katalogu `md`, a następnie odwiedzić adres URL podglądu programowania, aby zaobserwować zmiany na stronie głównej.
+Możesz zmienić `use: Toc` na `use: Md` w powyższej konfiguracji, uruchomić `i18n.site` w katalogu `md` i odwiedzić adres URL podglądu, aby zaobserwować zmiany na stronie głównej.
 
-### Domyślne ładowanie bez ścieżki konfiguracji
+### Domyślne ładowanie bez skonfigurowanej ścieżki:
 
-W przypadku uzyskania dostępu do określonej ścieżki, jeśli jej prefiks ścieżki nie jest skonfigurowany w `nav:`, plik `Markdown` odpowiadający ścieżce zostanie domyślnie załadowany i wyrenderowany przy użyciu szablonu `Md`.
+Jeśli dostępna jest ścieżka, której prefiks nie jest skonfigurowany w `nav:`, domyślnie załaduje się plik `Markdown` odpowiadający tej ścieżce i wyrenderuje go za pomocą szablonu `Md`.
 
-Na przykład, jeśli uzyskano dostęp do `/test` i `nav:` nie jest skonfigurowane dla tej ścieżki, a językiem strony jest angielski (kod `en`), domyślnie zostanie załadowany i wyrenderowany plik `/en/test.md` przy użyciu szablonu `Md`.
+Na przykład, jeśli dostępne jest `/test`, a `nav:` nie jest skonfigurowane dla tej ścieżki, a językiem strony jest angielski (kod `en`), domyślnie załaduje się `/en/test.md` i wyrenderuje go za pomocą szablonu `Md`.
 
-W przypadku braku pliku `/en/test.md`, zostanie wyświetlona domyślna strona `404`.
+Jeśli `/en/test.md` nie istnieje, wyświetli się domyślna strona `404`.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
-### `use: Doc`, szablon wieloplikowy
+### `use: Doc`, szablon wieloplikowy:
 
 W pliku konfiguracyjnym:
 
@@ -76,13 +78,13 @@ W pliku konfiguracyjnym:
     use: Doc
 ```
 
-Wskazuje użycie `Doc` do renderowania szablonu.
+Oznacza to użycie `Doc` do renderowania szablonu.
 
-Szablon `Doc` obsługuje integrację wielu plików `Markdown` w celu wygenerowania konspektów dokumentów dla jednego lub wielu projektów.
+Szablon `Doc` obsługuje integrację wielu plików `Markdown` w celu generowania spisu treści dla jednego lub wielu projektów.
 
-#### Pojedynczy projekt (wiele plików)
+#### Pojedynczy projekt (wiele plików):
 
-Powyższy `blog` jest trybem jednoelementowym `Doc`.
+Powyższe `blog` jest trybem jednoelementowym `Doc`.
 
 ```
   - i18n: blog
@@ -92,13 +94,13 @@ Powyższy `blog` jest trybem jednoelementowym `Doc`.
 
 ##### Gdy Adres url Jest Pusty, Domyślnie Przyjmuje Wartość i18n
 
-W przypadku braku zapisania `url`, `url` przyjmuje wartość domyślną `i18n`. Ta reguła obowiązuje również dla innych szablonów.
+Jeśli `url` nie zostanie zapisane, `url` przyjmuje wartość domyślną `i18n` Ta reguła obowiązuje również w przypadku innych szablonów.
 
-Powyższa metoda zapisu jest równoważna `url: blog`, a odpowiadający jej plik to `en/blog/TOC`.
+Powyższa metoda zapisu jest równoważna z `url: blog`, a odpowiadający plik to `en/blog/TOC`.
 
-#### Wiele projektów
+#### Wiele projektów:
 
-Konfiguracja `i18n:doc` w pliku `.i18n/conf.yml` to tryb wielu projektów.
+Konfiguracja `i18n:doc` w `.i18n/conf.yml` to tryb wielu projektów.
 
 ```
   - i18n: doc
@@ -108,31 +110,31 @@ Konfiguracja `i18n:doc` w pliku `.i18n/conf.yml` to tryb wielu projektów.
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-Tutaj `menu: NB demo1,demo2` oznacza użycie szablonu `NB` do renderowania menu rozwijanego.
+Tutaj `menu: NB demo1,demo2` oznacza użycie szablonu `NB` do renderowania rozwijanego menu.
 
-`NB`, skrót od `Name Brief`, oznacza, że w rozwijanym menu mogą być wyświetlone nazwa i slogan projektu.
+`NB` to skrót od `Name Brief`, co oznacza, że rozwijane menu może wyświetlać nazwę i slogan projektu.
 
-Po `NB` następuje przekazany do niego parametr `demo1,demo2`.
-Uwaga: **Nie powinno być spacji** przed i po przecinku `,` w `demo1,demo2`.
+Po `NB` podane są parametry `demo1,demo2`.
+Uwaga: **W `demo1,demo2` nie powinno być spacji przed i po przecinku`,`**.
 
-Odpowiedni plik indeksu katalogów dla powyższych parametrów to:
+Dla powyższych parametrów odpowiadający plik indeksu katalogu to:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### Indeks spisu treści TOC
+#### Indeks Spisu Treści TOC
 
-`i18n.site` uruchomi `js` wtyczkę `.i18n/hook/after.tran/TOC.js` w magazynie demonstracyjnym, aby odczytać plik indeksu `doc` katalogów odpowiadający konfiguracji szablonu `TOC` w celu wygenerowania zarysu `json` katalogów.
+`i18n.site` uruchomi wtyczkę `js` `.i18n/hook/after.tran/TOC.js` w magazynie demonstracyjnym, aby odczytać plik indeksu `TOC` odpowiadający konfiguracji szablonu `doc`, generując `json` zarysu katalogów.
 
-Jeśli używa się szablonu `doc`, musi się mieć tę wtyczkę.
+Jeśli używasz szablonu `doc`, musisz mieć tę wtyczkę.
 
-Jeśli inicjuje się projekt `i18n.site` z pustego folderu, pamiętaj o skopiowaniu katalogu `.i18n` z repozytorium demonstracyjnego do swojego katalogu.
+Jeśli inicjujesz projekt `i18n.site` z pustego folderu, skopiuj `.i18n` z projektu demonstracyjnego do swojego katalogu.
 
-Szablon `Doc` wyrenderuje zarys spisu treści na podstawie wygenerowanego `json`.
+Szablon `Doc` wyrenderuje spis treści na podstawie wygenerowanego `json`.
 
-##### Szczegółowe wyjaśnienie treści
+##### Szczegółowe wyjaśnienie treści:
 
-`en/blog/TOC` wygląda następująco:
+`en/blog/TOC` zawiera:
 
 ```
 README.md
@@ -143,30 +145,30 @@ news/README.md
 
 ##### Użyj wcięć, aby wskazać poziomy
 
-`README.md` w pierwszym wierszu `en/blog/TOC` powyżej odpowiada `i18n.site` na poniższym obrazku, która jest nazwą projektu.
+`README.md` w pierwszym wierszu katalogu `en/blog/TOC` odpowiada `i18n.site` na poniższym obrazku, co jest nazwą projektu.
 
-Kolejne dwie linie są pokazane na zrzucie ekranu poniżej.
+Kolejne dwa rzędy, jak pokazano na zrzucie ekranu poniżej.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
-`news/README.md` odpowiada `News`,
-`news/begin.md` odpowiada `Our Product is Online !`
+`news/README.md` odpowiada `News`
+`news/begin.md` odpowiada `Our Product is Online!`
 
-Plik `TOC` używa wcięć, aby wskazać hierarchiczną relację konspektu i wspiera wielopoziomowe wcięcie.
+`TOC` plików używa wcięć, aby wskazać hierarchię spisu treści, obsługuje wielopoziomowe wcięcia i komentarze do linii zaczynających się od `#`.
 
-##### Poziom nadrzędny zapisuje tylko tytuł, a nie treść
+##### Poziomy nadrzędne zapisują tylko tytuły, bez treści
 
-W przypadku wielu poziomów wcięć, poziom nadrzędny zapisuje tylko tytuł, a nie treść. W przeciwnym razie typografia zostanie zaburzona.
+W przypadku wielu poziomów wcięć, poziomy nadrzędne zapisują tylko tytuły, bez treści, aby uniknąć zaburzeń w układzie.
 
 ##### Projekt README.md
 
-Treść można zapisać w pliku `README.md`, np. `en/demo2/README.md`.
+W projekcie `README.md`, np. `en/demo2/README.md`, można wpisać treść.
 
-Należy pamiętać, że zawartość tego pliku nie przedstawia zarysu spisu treści, więc zaleca się ograniczenie długości i napisanie krótkiego wstępu.
+Pamiętaj, że zawartość tego pliku nie jest wyświetlana w spisie treści, więc zaleca się krótkie i zwięzłe wprowadzenie.
 
-###### Hasło projektu
+###### Project slogan:
 
-Widoczne jest `Your Project slogan`, które `Deme Two` ma jako slogan projektu pod rozwijanym menu i nazwą projektu w katalogu:
+Widoczny jest slogan projektu `Your Project slogan` pod nazwą projektu `Deme Two` w rozwijanym menu i w katalogu.
 
 ![](https://p.3ti.site/1721276842.avif)
 
@@ -176,23 +178,23 @@ Odpowiada to pierwszemu wierszowi `en/demo2/README.md`:
 # Demo Two : Your Project slogan
 ```
 
-Treść po pierwszym dwukropku `:` tytułu projektu pierwszego poziomu `README.md` będzie traktowana jako hasło projektu.
+Treść po pierwszym dwukropku `:` w tytule pierwszego poziomu `README.md` jest traktowana jako slogan projektu.
 
-Użytkownicy z Chin, Japonii i Korei powinni pamiętać, że zamiast dwukropka o pełnej szerokości należy używać dwukropka `:`.
+Użytkownicy z Chin, Japonii i Korei powinni używać dwukropka `:` zamiast pełnego dwukropka.
 
 ##### Jak zbiorczo przenieść spis treści?
 
-Plik `TOC` należy umieścić w katalogu języka źródłowego.
+`TOC` pliki powinny być umieszczone w katalogu języka źródłowego.
 
-Na przykład, jeśli językiem źródłowym jest chiński, wówczas `TOC` powyżej to `zh/blog/TOC`.
+Na przykład, jeśli językiem źródłowym jest chiński, `TOC` powyżej to `zh/blog/TOC`.
 
-W przypadku zmiany języka źródłowego, należy wsadowo przenieść pliki `TOC` określonego języka w projekcie do innego języka.
+Jeśli zmienisz język źródłowy, musisz zbiorczo przenieść `TOC` pliki danego języka do innego języka.
 
-Można odwołać się do następujących poleceń:
+Możesz użyć następujących poleceń:
 
 ```
 rsync -av --remove-source-files --include='*/' \
 --include='TOC' --exclude='*' en/ zh/
 ```
 
-Zmień `en/` i `zh/` w powyższym poleceniu na kod języka.
+Zmodyfikuj `en/` i `zh/` w powyższym poleceniu na odpowiedni kod języka.

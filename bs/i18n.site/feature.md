@@ -8,7 +8,7 @@ Program ima ugrađen `i18` prijevod, pogledajte [➔ `i18` dokument](/i18) za ko
 
 Zadani jezik web stranice automatski će odgovarati jeziku pretraživača.
 
-Nakon što korisnik ručno promijeni jezike, korisnički izbor će biti zapamćen.
+Nakon što korisnik ručno promijeni jezik, korisnikov izbor će biti zapamćen.
 
 Povezani kod : [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
@@ -18,7 +18,7 @@ Tu je i savršeno iskustvo čitanja na mobilnom telefonu.
 
 <img src="//p.3ti.site/1721379497.avif" width="350px">
 
-## <a rel=id href="#ha" id="ha"></a> Front-end visoka dostupnost
+## <a rel=id href="#ha" id="ha"></a> Visoka dostupnost front-enda
 
 `i18n.site` će standardno objaviti sadržaj stranice na `npmjs.com` , uz [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) i drugih `CDN` sadržaja učitanih na `npm` !
 
@@ -37,12 +37,18 @@ Web stranica usvaja arhitekturu aplikacije na jednoj stranici, bez osvježavanja
 ### Dobro Dizajniran Stil
 
 > Ljepota jednostavnosti savršeno je interpretirana u web dizajnu ove web stranice.
-> Napušta nepotrebnu dekoraciju i predstavlja sadržaj u svom najčistijem obliku.
+> Napušta suvišnu dekoraciju i predstavlja sadržaj u svom najčistijem obliku.
 > Kao prelepa pesma, iako je kratka, dirne ljudska srca.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Kliknite ovdje da vidite listu stilova](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Slika iznad prikazuje višejezičnost `RSS` [inoreader.com](//inoreader.com) pretplatu `i18n.site` .
 
 ### Učitajte Online Fontove, Podržavajte Kineski
 
@@ -74,10 +80,10 @@ Zadržite pokazivač miša preko dugmeta na desnoj strani gornje navigacije da v
 
 ### `404` Mali Duh
 
-Na stranici `404` nalazi se slatki mali lebdeći duh, čije će se oči pomicati mišem, [➔ Kliknite ovdje za pregled](/404) ,
+`404` stranica ima slatkog malog lebdećeg duha, njegove oči će se pomicati mišem, [➔ Kliknite ovdje da vidite](/404) ,
 
 ## Kod Otvorenog Koda
 
 [Kod je otvorenog koda](/i18n.site/src) . Ako ste zainteresovani za učešće u razvoju, predstavite se na [mailing listi](//groups.google.com/u/2/g/i18n-site) .
 
-Postoji mnogo malih zahtjeva koji su važni, ali nisu hitni. Razvojni tim će dodijeliti zadatke u skladu s tehnologijom u kojoj ste dobri i poboljšati razvojnu dokumentaciju dok dodjeljuje zahtjeve.
+Postoji mnogo malih zahtjeva koji su važni, ali nisu hitni. Razvojni tim će dodijeliti praktične zadatke na osnovu tehnologija u kojima ste dobri i poboljšati razvojnu dokumentaciju dok dodjeljuje zahtjeve.

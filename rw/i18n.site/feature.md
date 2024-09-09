@@ -8,7 +8,7 @@ Porogaramu yubatswe muri `i18` ibisobanuro, nyamuneka reba [➔ `i18` inyandiko]
 
 Urubuga rudasanzwe ururimi ruzahita ruhuza imvugo ya mushakisha.
 
-Nyuma yuko umukoresha ahinduye indimi intoki, amahitamo yumukoresha azibukwa.
+Nyuma yuko umukoresha ahinduye intoki, amahitamo yumukoresha azibukwa.
 
 Kode ifitanye [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ Hariho kandi uburambe bwo gusoma neza kuri terefone igendanwa.
 
 ## <a rel=id href="#ha" id="ha"></a> Imbere-iherezo irahari
 
-`i18n.site` izatangaza ibiri kurubuga kuri `npmjs.com` kubwa mbere, hamwe nubufasha [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) nibindi `CDN` byapakiwe kuri `npm` .
+`i18n.site` izatangaza ibiri kurubuga kuri `npmjs.com` byanze bikunze, hamwe nubufasha [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) nibindi byinshi `CDN` byuzuye kuri `npm` .
 
 Hashingiwe kuri ibyo, indorerwamo zituruka ku mugabane w’Ubushinwa zongerewe kugira ngo abakoresha Ubushinwa babone uburyo buhamye kandi bagere **ku iherezo ry’imbere** .
 
@@ -37,12 +37,18 @@ Urubuga rwemeza urupapuro rumwe rwa porogaramu yububiko, nta kugarura ubuyanja i
 ### Uburyo Bwateguwe Neza
 
 > Ubwiza bwubworoherane busobanurwa neza mugushushanya kurubuga rwuru rubuga.
-> Ireka imitako idakenewe kandi itanga ibirimo muburyo bwayo bwiza.
+> Yaretse imitako irenze kandi itanga ibirimo muburyo bwera.
 > Nka gisigo cyiza, nubwo ari kigufi, gikora kumitima yabantu.
 
 <p style="text-align:right">Umwanditsi I18N.SITE</p>
 
 [. Kanda hano urebe urutonde rwimiterere](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ishusho hejuru irerekana indimi nyinshi `RSS` ukoresheje abiyandikishije `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Fungura Imyandikire Kumurongo, Shyigikira Igishinwa
 
@@ -74,7 +80,7 @@ Hisha imbeba yawe hejuru ya buto kuruhande rwiburyo bwo hejuru kugirango ubone i
 
 ### `404` Umuzimu Muto
 
-Hano hari umuzimu mwiza ureremba kurupapuro `404` , amaso azagenda hamwe nimbeba, [➔ Kanda hano urebe](/404) ,
+Ipaji `404` ifite umuzimu mwiza ureremba, amaso yayo azagendana nimbeba, [➔ Kanda hano urebe](/404) ,
 
 ## Kode Ifungura Isoko
 

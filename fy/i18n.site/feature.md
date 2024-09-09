@@ -8,7 +8,7 @@ It programma hat ynboude `i18` oersetting, sjoch asjebleaft [➔ `i18` dokumint]
 
 De standerttaal fan de webside sil automatysk oerienkomme mei de taal fan de browser.
 
-Nei't de brûker de talen manuell wikselt, sil de kar fan de brûker wurde ûnthâlden.
+Nei't de brûker de talen manuell feroaret, sil de kar fan de brûker ûnthâlden wurde.
 
 Related [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ D'r is ek in perfekte lêsûnderfining op 'e mobile tillefoan.
 
 ## <a rel=id href="#ha" id="ha"></a> Front-end hege beskikberens
 
-`i18n.site` sil de side-ynhâld standert publisearje nei `npmjs.com` , mei help fan [jsdelivr.com](//jsdelivr.com) [unpkg.com](//unpkg.com) en oare `CDN` -ynhâld laden op `npm` .
+`i18n.site` sil de side-ynhâld standert publisearje nei `npmjs.com` , mei help fan [jsdelivr.com](//jsdelivr.com) [unpkg.com](//unpkg.com) en oare meardere `CDN` -ynhâld laden op `npm` .
 
 Op dizze basis waarden spegelboarnen fan it fêstelân fan Sina tafoege om Sineeske brûkers stabile tagong te krijen en **hege beskikberens foar front-end** te berikken.
 
@@ -37,12 +37,18 @@ De webside nimt in applikaasje-arsjitektuer fan ien side oan, sûnder ferfarskin
 ### Goed Ûntwurpen Styl
 
 > De skientme fan ienfâld wurdt perfekt ynterpretearre yn it webûntwerp fan dizze webside.
-> It ferlit ûnnedige dekoraasje en presintearret ynhâld yn syn suverste foarm.
+> It ferlit oerstallige dekoraasje en presintearret ynhâld yn syn suverste foarm.
 > As in moai gedicht, al is it koart, rekket it de herten fan minsken.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Klik hjir om in list mei stilen te sjen](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+De foto hjirboppe toant meartalige `RSS` mei help `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Laad Online Lettertypen, Stypje Sineesk
 
@@ -74,7 +80,7 @@ Hâld jo mûs oer de knop oan 'e rjochterkant fan' e boppeste navigaasje om koel
 
 ### `404` Lytse Geast
 
-D'r is in leuk lyts driuwend spoek op 'e `404` side, waans eagen sille bewege mei de mûs, [➔ Klik hjir om te besjen](/404) ,
+`404` side hat in leuk lyts driuwend spoek, syn eagen sille bewege mei de mûs, [➔ Klik hjir om te sjen](/404) ,
 
 ## Koade Iepen Boarne
 

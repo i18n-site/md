@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Onder hulle beteken `upload` tot `ext:` konfigurasie-item dat slegs `.md` opgelaai sal word wanneer dit gepubliseer word.
@@ -76,7 +78,7 @@ In die konfigurasielêer:
     use: Doc
 ```
 
-Dui aan die gebruik van `Doc` vir sjabloonweergawe.
+Dui aan om `Doc` vir sjabloonweergawe te gebruik.
 
 `Doc` sjabloon ondersteun die integrasie van veelvuldige `MarkDown` om dokumentomtrekke vir enkele of veelvuldige projekte te genereer.
 
@@ -115,7 +117,7 @@ Hier, `menu: NB demo1,demo2` , beteken die gebruik van die `NB` sjabloon om die 
 `NB` word gevolg deur die parameter `demo1,demo2` wat daaraan oorgedra word.
 Let wel : ** Daar moet geen spasies ** voor en na die komma `,` in `demo1,demo2` wees nie.
 
-Die ooreenstemmende gids-indekslêer vir die bogenoemde parameters is:
+Vir die bogenoemde parameters is die ooreenstemmende gidsindekslêer:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Die volgende twee reëls is soos getoon in die skermkiekie hieronder.
 `news/README.md` stem ooreen met `News` ,
 `news/begin.md` stem ooreen met `Our Product is Online !`
 
-`TOC` -lêers word ingekeep om die hiërargiese verhouding van die buitelyn aan te dui en ondersteun multi-vlak inkeping.
+`TOC` -lêers word ingekeep om die hiërargiese verhouding van die buitelyn aan te dui, ondersteun multi-vlak inkeping, en lynkommentaar wat met `#` begin.
 
 ##### Die Ouervlak Skryf Net Die Titel, Nie Die Inhoud Nie.
 
@@ -166,7 +168,7 @@ Let daarop dat die inhoud van hierdie lêer nie 'n uiteensetting van die inhouds
 
 ###### Projek Slagspreuk
 
-Jy kan sien dat `Deme Two` sy projekbyskrif onder die aftrekkieslys en katalogus se projeknaam het : `Your Project slogan`
+Jy kan sien dat `Deme Two` sy projekbyskrif onder die aftreklys en katalogus-omtrek-projeknaam het : `Your Project slogan`
 
 ![](https://p.3ti.site/1721276842.avif)
 
@@ -186,7 +188,7 @@ Gebruikers van China, Japan en Korea, let asseblief daarop dat jy halfwydte dubb
 
 Byvoorbeeld, as die brontaal Chinees is, dan is `TOC` hierbo `zh/blog/TOC` .
 
-As die brontaal gewysig is, moet jy die `TOC` lêers van 'n sekere taal in die projek bondel na 'n ander taal skuif.
+As die brontaal gewysig word, moet jy die `TOC` lêers van 'n sekere taal in die projek bondel na 'n ander taal skuif.
 
 U kan na die volgende opdragte verwys:
 

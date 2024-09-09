@@ -55,25 +55,9 @@ Faịlụ ngosi atụgharịrị na ndekọ ndekọ `en` bụ naanị ihe atụ 
 
 Tinye akwụkwọ ndekọ aha wee mee `i18` iji tụgharịa asụsụ.
 
-### Tinye Faịlụ Na Ebe Nchekwa
+Na mgbakwunye na ntụgharị asụsụ, mmemme ahụ ga-ewepụta folda `.i18n/data` , biko tinye ya na ebe nchekwa.
 
-Na mgbakwunye na ntụgharị asụsụ, mmemme ahụ ga-ewepụtakwa faịlụ ndị a, biko tinye ha na ebe nchekwa.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-N'ime ha, ọdịnaya nke `.i18n/cache/.gitignore` bụ ndị a :
-
-```
-**/*
-!**/.gitignore
-```
-
-Nke a pụtara na faịlụ niile dị na ndekọ `.i18n/cache/` (ma e wezụga `.i18n/cache/.gitignore` ) na-eleghara anya.
-
-Ọ bụrụ na ngwanrọ njikwa ụdị gị abụghị `git` , biko leghara ya anya dịka nhazi a siri dị.
+Mgbe ịsụgharịchara faịlụ ọhụrụ ahụ, a ga-emepụta faịlụ data ọhụrụ na ndekọ a. Cheta itinye `git add .` .
 
 ## Faịlụ Nhazi
 

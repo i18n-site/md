@@ -1,11 +1,14 @@
 # Fuafuaga Tau Atinae
 
-O vaega taua nei o lo'o fa'atinoina:
+## Maea
+
+- [x] fafaga RSS
+- [x] su'esu'e masini su'esu'e
+
+## I Lalo O Atinae
 
 - [ ] Fesuiaiga i le va o le tele o lomiga o pepa
 - [ ] Mama'o pito i luma su'esu'ega atoa
-- [ ] fafaga RSS
-- [ ] su'esu'e masini su'esu'e
 - [ ] I le taimi lava e tasi e tuleia faʻamatalaga tala i luga o fesoʻotaʻiga lautele
 - [ ] Email `web push` avanoa mo tagata fa'aoga /
 - [ ] Fa'amatalaga i talafa'asolopito

@@ -55,25 +55,9 @@ Die vertaalde demo-lêers in die `en` gids is slegs 'n voorbeeld en kan uitgevee
 
 Voer die gids in en hardloop `i18` om te vertaal.
 
-### Voeg Lêers by Die Bewaarplek
+Benewens die vertaling, sal die program ook die `.i18n/data` lêergids genereer, voeg dit asseblief by die bewaarplek.
 
-Benewens vertaling, sal die program ook die volgende lêers genereer, voeg dit asseblief by die bewaarplek.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Onder hulle is die inhoud van `.i18n/cache/.gitignore` soos volg :
-
-```
-**/*
-!**/.gitignore
-```
-
-Dit beteken dat alle lêers in gids `.i18n/cache/` (behalwe `.i18n/cache/.gitignore` ) geïgnoreer word.
-
-As jou weergawebeheersagteware nie `git` is nie, ignoreer dit asseblief volgens hierdie konfigurasie.
+Nadat die nuwe lêer vertaal is, sal 'n nuwe datalêer in hierdie gids gegenereer word. Onthou om `git add .` by te voeg.
 
 ## Konfigurasie Lêer
 

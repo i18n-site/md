@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Onların arasında `upload` dan `ext:` ə qədər konfiqurasiya elementi dərc edərkən yalnız `.md` yüklənəcəyini bildirir.
@@ -152,7 +154,7 @@ Növbəti iki sətir aşağıdakı ekran görüntüsündə göstərildiyi kimidi
 `news/README.md` `News` ə uyğundur,
 `news/begin.md` `Our Product is Online !` ə uyğundur
 
-`TOC` faylları konturun iyerarxik əlaqəsini göstərmək və çoxsəviyyəli girintiləri dəstəkləmək üçün girintilidir.
+`TOC` faylları konturun iyerarxik əlaqəsini göstərmək, çoxsəviyyəli abzasları və `#` ilə başlayan sətir şərhlərini dəstəkləmək üçün girintilidir.
 
 ##### Ana Səviyyə Məzmunu Deyil, Yalnız Başlığı Yazır.
 
@@ -180,7 +182,7 @@ Layihənin birinci səviyyə başlığının ilk iki nöqtəsindən `:` dən son
 
 Çin, Yaponiya və Koreyadan olan istifadəçilər, lütfən nəzərə alın ki, tam enli iki nöqtə əvəzinə yarım enli iki nöqtə `:` istifadə etməlisiniz.
 
-##### TOC-U Toplu Şəkildə Necə Köçürmək Olar?
+##### TOC-Ni Toplu Şəkildə Necə Köçürmək Olar?
 
 `TOC` faylı mənbə dilin kataloquna yerləşdirmək lazımdır.
 

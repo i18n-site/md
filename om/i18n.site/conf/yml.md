@@ -17,13 +17,15 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Isaan keessaa wanti qindeessaa `upload` hanga `ext:` jechuun yeroo maxxansu `.md` qofatu olkaa'ama jechuudha.
 
 ## Gubbaa Navigeeshinii nav
 
-filannoowwan qindeessaa `nav:` , kan sajoo navigeeshinii gubbaa fuula jalqabaa irratti argamuun walsimu.
+`nav:` filannoowwan qindeessaa, sajoo navigeeshinii gubbaa fuula jalqabaa wajjin walsimu.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
@@ -115,7 +117,7 @@ Asitti, `menu: NB demo1,demo2` , jechuun unkaa `NB` fayyadamuun sajoo tarree gad
 `NB` hordofee parameetara `demo1,demo2` gara isaatti darba.
 Hubachiisa `demo1,demo2` keessatti komaa `,` duraa fi booda bakki ** jiraachuu hin qabu : **
 
-Faayilli indeeksii galmee walgitu qajoojiiwwan armaan olii:
+Qabduu armaan oliitiif, faayilii indeeksii galmee walgitu:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -126,7 +128,7 @@ Faayilli indeeksii galmee walgitu qajoojiiwwan armaan olii:
 
 Yoo unkaa `doc` fayyadamte, ifteessaa kana qabaachuu qabda.
 
-Yoo piroojektii `i18n.site` galmee duwwaa irraa jalqabde, piroojektii agarsiisaa `.i18n` gara galmee kee waraabuu yaadadhu.
+Yoo piroojektii `i18n.site` galmee duwwaa irraa jalqabde, piroojektii agarsiisaa `.i18n` gara galmee keetii waraabuu yaadadhu.
 
 Unkaan `Doc` ibsa gabatee qabiyyee `json` uumame irratti hundaa'uun ni agarsiisa.
 
@@ -141,18 +143,18 @@ news/README.md
   news/begin.md
 ```
 
-##### Sadarkaalee Agarsiisuuf Indentation Fayyadami
+##### Sadarkaa Agarsiisuuf Indentation Fayyadami
 
-`README.md` tarree jalqabaa `en/blog/TOC` armaan olii keessatti argamu `i18n.site` suuraa armaan gadii keessatti argamu waliin walsima, kunis maqaa pirojektii ti.
+`README.md` tarree jalqabaa `en/blog/TOC` olitti argamu suuraa armaan gadii keessatti `i18n.site` waliin walsima, kunis maqaa pirojektii ti.
 
 Sararoonni lamaan itti aanan akka suuraa iskiriinii armaan gadii irratti mul'atutti.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
-`news/README.md` 1 , `News` waliin walsima.
+`news/README.md` `News` waliin walsima.
 `news/begin.md` `Our Product is Online !` wajjin walsima
 
-Faayiloonni `TOC` hariiroo sadarkaa sarara agarsiisuu fi indentation sadarkaa hedduu deeggaruuf indented ta'u.
+Faayiloonni `TOC` hariiroo sadarkaa sarara agarsiisuuf, indentation sadarkaa hedduu deeggaruuf, fi yaada sararaa `#` irraa jalqabuuf indented ta'u.
 
 ##### Sadarkaan Warraa Mata Duree Qofa Barreessa Malee Qabiyyee Miti.
 
@@ -180,7 +182,7 @@ Qabiyyeen mata duree sadarkaa tokkoffaa pirojektii `README.md` kan tarree jalqab
 
 Fayyadamtoonni Chaayinaa, Jaappaanii fi Kooriyaa irraa dhufan, maaloo hubadhaa, bal'ina guutuu osoo hin taane qubee walakkaa bal'ina `:` fayyadamuu qabdu.
 
-##### Akkamitti TOC Jumlaan Sochoosuu Dandeenya?
+##### Akkamitti TOC Heddumminaan Sochoosuu Dandeenya?
 
 Faayiloonni `TOC` galmee afaan madda keessa kaa'amuu qabu.
 

@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Frà elli, l'elementu di cunfigurazione `upload` à `ext:` significa chì solu `.md` seranu caricati durante a publicazione.
@@ -59,7 +61,7 @@ Pudete mudificà `use: Toc` in a cunfigurazione sopra à `use: Md` , eseguite `i
 
 ### Carica Predeterminata Senza Percorsu Di Cunfigurazione
 
-Se un certu percorsu hè accessu è u so prefissu di percorsu ùn hè micca cunfiguratu in `nav:` , u schedariu `MarkDown` currispundente à u percorsu serà caricatu per difettu è resu cù u mudellu `Md` .
+Se un certu percorsu hè accessu è u so prefissu di u percorsu ùn hè micca cunfiguratu in `nav:` , u schedariu `MarkDown` currispundente à a strada serà caricatu per difettu è resu cù u mudellu `Md` .
 
 Per esempiu, se `/test` hè accessu, è `nav:` hè cunfiguratu senza sta strada, è a lingua di a pagina hè l'inglese (codice `en` ), `/en/test.md` serà caricatu per difettu è rende cù u mudellu `Md` .
 
@@ -115,7 +117,7 @@ Quì, `menu: NB demo1,demo2` , significa aduprà u mudellu `NB` per rende u men�
 `NB` hè seguita da u paràmetru `demo1,demo2` passatu à ellu.
 Nota : ** Ùn deve esse micca spazii ** prima è dopu à a virgola `,` in `demo1,demo2` .
 
-U schedariu d'indici di u repertoriu currispundente per i paràmetri sopra hè:
+Per i paràmetri sopra, u schedariu d'indexu di u repertoriu currispundente hè:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ I seguenti dui linii sò cum'è mostra in a screenshot sottu.
 `news/README.md` currisponde à `News` ,
 `news/begin.md` currisponde à `Our Product is Online !`
 
-I schedari `TOC` sò indentati per indicà a relazione gerarchica di u contornu è sustene l'indentazione multi-livellu.
+I schedarii `TOC` sò indentati per indicà a relazione gerarchica di u contornu, sustene l'indentazione multi-livellu, è i cumenti di linea chì cumincianu cù `#` .
 
 ##### U Livellu Parenti Scrive Solu U Titulu, Micca U Cuntenutu.
 
@@ -182,7 +184,7 @@ Utenti da a Cina, u Giappone è a Corea, per piacè nutate chì duvete aduprà u
 
 ##### Cumu Si Move TOC in Massa?
 
-`TOC` i schedarii deve esse posti in u cartulare di a lingua fonte.
+`TOC` i schedarii deve esse piazzati in u cartulare di a lingua fonte.
 
 Per esempiu, se a lingua fonte hè cinese, allora `TOC` sopra hè `zh/blog/TOC` .
 

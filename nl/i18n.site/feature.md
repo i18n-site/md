@@ -2,69 +2,75 @@
 
 ## Geïntegreerde `i18`-vertalingen
 
-Het programma bevat ingebouwde `i18`-vertalingen; zie [➔ `i18`-document](/i18) voor de specifieke toepassing.
+Het programma bevat ingebouwde `i18`-vertalingen; zie [➔ `i18`-document](/i18) voor specifieke toepassingen.
 
-## Automatische browser taal detectie
+## Automatische browserlinguaanpassing
 
-De standaardtaal van de website wordt automatisch aangepast aan de taal van de browser.
+De standaardtaal van de website past automatisch aan de taal van de browser aan.
 
-Wanneer een gebruiker handmatig van taal wisselt, wordt de keuze van de gebruiker onthouden.
+Na handmatige taalwisseling door de gebruiker, wordt de keuze van de gebruiker onthouden.
 
-gerelateerde code: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee).
+Relevante code: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee).
 
-## Mobiel aangepaste interface
+## Mobiele terminalaanpassing
 
-Ook op mobiele apparaten biedt de website een perfecte leeservaring.
+Ook op mobiele telefoons biedt het een perfecte leeservaring.
 
 <img src="//p.3ti.site/1721379497.avif" width="350px">
 
-## <a rel=id href="#ha" id="ha"></a> Hoge beschikbaarheid van de front-end
+## <a rel=id href="#ha" id="ha"></a> Hoge beschikbaarheid van de frontend
 
-`i18n.site` publiceert standaard site-inhoud naar `npmjs.com`, met behulp van [jsdelivr.com](//jsdelivr.com), [unpkg.com](//unpkg.com) en andere `CDN`-diensten voor het laden van inhoud op `npm`.
+`i18n.site` publiceert standaard site-inhoud naar `npmjs.com`, met behulp van [jsdelivr.com](//jsdelivr.com), [unpkg.com](//unpkg.com) en andere `CDN`s om de inhoud van `npm` te laden.
 
-Hiernaast zijn Chinese mirror-servers toegevoegd om Chinese gebruikers een stabiele toegang te bieden, waardoor een **hoge front-end beschikbaarheid** is bereikt.
+Op deze basis zijn er mirrorbronnen toegevoegd voor het Chinese vasteland, zodat Chinese gebruikers stabiele toegang kunnen krijgen en een **hoge frontend-beschikbaarheid** is bereikt.
 
-Het principe is: verzoeken afvangen met een [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API), mislukte verzoeken op andere `CDN`-servers opnieuw proberen en de snelst reagerende bron als standaard laden.
+Het principle is: verzoeken afvangen met [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API), mislukte verzoeken op andere `CDN`s opnieuw proberen en de snelst reagerende bron als standaard laden.
 
-gerelateerde code: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker).
+Relevante code: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker).
 
-## Een enkele pagina applicatie, snel laden
+## Enkel paginetoepassing, snelle laden
 
-De website maakt gebruik van een enkele pagina applicatie-architectuur, waarbij pagina's zonder vernieuwing snel laden.
+De website gebruikt een enkel paginatoepassingstructuur, waarbij pagina's zonder vernieuwing worden geschakeld en snel laden.
 
 ## Geoptimaliseerd voor leeservaring
 
 ### Carefull ontworpen stijl
 
 > De schoonheid van eenvoud wordt perfect weergegeven in het webdesign van deze website.
-> Door overbodige versieringen te vermijden, wordt de inhoud in zijn puurste vorm gepresenteerd.
-> Net als een prachtig gedicht, misschien kort, maar raken ze de harten van mensen.
+> Het laat overbodige versieringen achterwege en presenteert de inhoud in zijn puurste vorm.
+> Net als een prachtig gedicht, hoewel kort, raakt het de harten van mensen.
 
 <p style="text-align:right">── Auteur van I18N.SITE</p>
 
-[➔ Klik hier voor een overzicht van de stijlen](/i18n.site/md/styl).
+[➔ Klik hier voor een overzicht van stijlen](/i18n.site/md/styl).
 
-### Online lettertypen laden, ondersteuning voor Chinese tekens
+### Meertalige `RSS`-abonnementen
 
-Standaard zijn [Alimama variabele rechthoekige lettertypen met twee assen](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR), [MiSans](https://hyperos.mi.com/font/zh/download/) en andere online lettertypen ingeschakeld op de webpagina om een uniforme leeservaring op verschillende platforms te waarborgen.
+![](//p.3ti.site/1725541085.avif)
 
-Tegelijkertijd zijn lettertypen, om de laadsnelheid te verbeteren, opgesplitst op basis van het woordfrequentie-aandeel.
+De afbeelding hierboven toont een meertalig `RSS`-abonnement op `i18n.site` via [inoreader.com](//inoreader.com).
 
-gerelateerde code: [github.com/i18n-site/font](https://github.com/i18n-site/font).
+### Online lettertypen laden, Chinese ondersteuning
+
+De website gebruikt standaard [Alimama Double Axis Variable Rectangle](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR), [MiSans](https://hyperos.mi.com/font/zh/download/) en andere online lettertypen om de leeservaring voor gebruikers op verschillende platforms te standaardiseren.
+
+Tegelijkertijd worden lettertypen gesliced op basis van woordfrequentiestatistieken om de laadsnelheid te verbeteren.
+
+Relevante code: [github.com/i18n-site/font](https://github.com/i18n-site/font).
 
 ### Automatisch verbergen van de bovenste navigatie
 
-Scroll naar beneden en de bovenste navigatie wordt automatisch verborgen.
+Als je naar beneden scrolt, wordt de bovenste navigatie automatisch verborgen.
 
-Scroll naar boven en de verborgen navigatie verschijnt weer.
+Als je naar boven scrolt, wordt de verborgen navigatie opnieuw weergegeven.
 
 Wanneer de muis niet beweegt, zal de navigatie fade-out.
 
-In de rechterbovenhoek van de navigatiebalk bevindt zich een knop voor volledig scherm, die een meeslepende documentleeservaring biedt.
+In de rechterbovenhoek van de navigatiebalk bevindt zich een knop voor volledig scherm, die een meeslepende documentleeservaring creëert.
 
-### Synchroniseren van de inhoudsopgave met het huidige hoofdstuk
+### Synchrone markering van het huidige hoofdstuk in het overzicht
 
-Wanneer je door de rechterinhoud scrolt, wordt de linkerkant inhoudsopgave gesynchroniseerd en het huidige gelezen hoofdstuk gemarkeerd.
+Wanneer je door de inhoud aan de rechterkant scrolt, zal het overzicht aan de linkerkant synchroon het huidige gelezen hoofdstuk markeren.
 
 ## Coole details
 
@@ -72,12 +78,12 @@ Wanneer je door de rechterinhoud scrolt, wordt de linkerkant inhoudsopgave gesyn
 
 Als je de muis over de knoppen aan de rechterkant van de bovenste navigatie houdt, kun je coole effecten zien.
 
-### Het `404`-kleine spookje
+### `404`-klein spookje
 
-Op de `404`-pagina wacht een lieve, zwevende spookjesfiguur op je, zijn ogen volgen je muisbewegingen, [➔ klik hier](/404) om hem te ontdekken
+De `404`-pagina heeft een schattig zwevend spookje dat zijn ogen beweegt met de muis, [➔ Klik hier om te bekijken](/404)
 
-## Codeer open source
+## Code is open source
 
-[De code is open source](/i18n.site/src). Als je geïnteresseerd bent in het bijdragen aan de ontwikkeling, introduceer jezelf dan op de [mailinglijst](//groups.google.com/u/2/g/i18n-site).
+[De code is open source](/i18n.site/src). Als je geïnteresseerd bent in het bijdragen aan de ontwikkeling, stel jezelf dan voor op [de mailinglijst](//groups.google.com/u/2/g/i18n-site).
 
-Er zijn veel kleine, maar belangrijke vereisten die niet urgent zijn. Het ontwikkelingsteam zal op basis van je technische vaardigheden oefentaken toewijzen en tegelijkertijd de ontwikkelingsdocumentatie verbeteren bij het toewijzen van vereisten.
+Er zijn veel kleine, maar belangrijke niet-acute vereisten. Het ontwikkelingsteam zal op basis van je technische vaardigheden praktische taken toewijzen en tegelijkertijd de ontwikkelingsdocumentatie verbeteren bij het toewijzen van vereisten.

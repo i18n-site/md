@@ -55,25 +55,9 @@ Fayiro za demo ezivvuunuddwa mu dayirekita `en` kyakulabirako kyokka era zisobol
 
 Yingiza dayirekita odduke `i18` okuvvuunula.
 
-### Yongera Fayiro Mu Tterekero
+Ng'oggyeeko okuvvuunula, pulogulaamu era ejja kukola folda `.i18n/data` , nsaba ogiteeke mu tterekero.
 
-Ng’oggyeeko okuvvuunula, pulogulaamu eno era ejja kukola fayiro zino wammanga, nsaba oziyongere mu tterekero.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Mu byo, ebirimu `.i18n/cache/.gitignore` bye bino wammanga :
-
-```
-**/*
-!**/.gitignore
-```
-
-Kino kitegeeza nti fayiro zonna mu dayirekita `.i18n/cache/` (okuggyako `.i18n/cache/.gitignore` ) zisiwuuka empisa.
-
-Singa software yo efugira enkyusa si `git` , nsaba ogibuusa amaaso okusinziira ku nsengeka eno.
+Oluvannyuma lw'okuvvuunula fayiro empya, fayiro ya data empya ejja kukolebwa mu dayirekita eno Jjukira okugattako `git add .` .
 
 ## Fayiro Y'okusengeka
 

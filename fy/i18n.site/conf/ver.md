@@ -2,7 +2,7 @@
 
 Nim it demoprojekt as foarbyld:
 
-`en/demo2/v` is it hjoeddeistige ferzjenûmer fan it projekt, dat rjochts fan de projektnamme yn 'e sydbalke werjûn wurde sil.
+`en/demo2/v` is it aktuele ferzjenûmer fan it projekt, dat rjochts fan de projektnamme yn de sydbalke werjûn wurde sil.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

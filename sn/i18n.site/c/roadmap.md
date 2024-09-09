@@ -1,11 +1,14 @@
 # Kuronga Kwebudiriro
 
-Zvinhu zvinotevera zvakakosha zviri pasi pekuvandudzwa:
+## Yakapedzwa
 
-- [ ] Kuchinja pakati pezvinyorwa zvakawanda zvemagwaro
-- [ ] Tsvagiridzo yemavara emberi yakachena
-- [ ] RSS feed
-- [ ] kutsvaga injini optimization
+- [x] RSS feed
+- [x] kutsvaga injini optimization
+
+## Under Development
+
+- [ ] Kuchinjana pakati pezvinyorwa zvakawanda
+- [ ] Kutsvaga kwakachena kumberi kwemavara
 - [ ] Panguva imwe chete sunda zvinyorwa zvinyorwa kune makuru social media
 - [ ] Email inowanikwa kune / `web push` Bhalisa kune zvigadzirwa zvekugadzirisa
 - [ ] Pindura pandima dzechinyorwa

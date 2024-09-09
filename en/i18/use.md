@@ -55,25 +55,9 @@ The translated demo files in the `en` directory are just an example and can be d
 
 Enter the directory and run `i18` to translate.
 
-### Add Files to the Repository
+In addition to the translation, the program will also generate the `.i18n/data` folder. Please add it to the version repository.
 
-In addition to the translation, the program will also generate the following files. Please add them to the repository.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Among them, the content of `.i18n/cache/.gitignore` is as follows:
-
-```
-**/*
-!**/.gitignore
-```
-
-This means that all files in the `.i18n/cache/` directory (except `.i18n/cache/.gitignore`) are ignored.
-
-If your version control software is not `git`, please ignore it according to this configuration.
+After translating the new file, a new data file will be generated in this directory. Remember to append with `git add.`.
 
 ## Configuration File
 

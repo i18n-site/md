@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Entre eles, `upload` a `ext:` elemento de configuración significa que só se cargarán `.md` ao publicar.
@@ -47,7 +49,7 @@ Despois de completar a tradución, pode modificar o valor da tradución `yml` , 
 
 `use: Toc` significa renderizar usando un modelo `Toc` , que é renderizar un único modelo `Markdown` .
 
-`TOC` é a abreviatura de `Table of Contents` Cando este modelo estea representado, o esquema deste ficheiro `Markdown` amosarase na barra lateral.
+`TOC` é a abreviatura de `Table of Contents` Cando este modelo sexa representado, o esquema deste ficheiro `Markdown` amosarase na barra lateral.
 
 `url:` representa a ruta do ficheiro `Markdown` ( `/` corresponde ao directorio raíz `/README.md` , este nome de ficheiro require un prefixo en maiúscula e un sufixo en minúscula).
 
@@ -115,12 +117,12 @@ Aquí, `menu: NB demo1,demo2` , significa usar o modelo `NB` para renderizar o m
 `NB` vai seguido do parámetro `demo1,demo2` que se lle pasa.
 Nota : ** Non debería haber espazos ** antes e despois da coma `,` en `demo1,demo2` .
 
-O ficheiro de índice do directorio correspondente para os parámetros anteriores é:
+Para os parámetros anteriores, o ficheiro de índice do directorio correspondente é:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### Índice De Índices TOC
+#### Índice De Contidos TOC
 
 `i18n.site` executará `js` complemento `.i18n/hook/after.tran/TOC.js` no almacén de demostración para ler o ficheiro de índice `doc` directorios correspondente á configuración de `TOC` modelos para xerar o esquema de directorio `json` .
 
@@ -141,7 +143,7 @@ news/README.md
   news/begin.md
 ```
 
-##### Usa Sangría Para Indicar Niveis
+##### Use Sangría Para Indicar Niveis
 
 `README.md` da primeira fila de `en/blog/TOC` anterior corresponde ao `i18n.site` da imaxe de abaixo, que é o nome do proxecto.
 
@@ -152,7 +154,7 @@ As seguintes dúas liñas son como se mostra na captura de pantalla a continuaci
 `news/README.md` corresponde a `News` ,
 `news/begin.md` corresponde a `Our Product is Online !`
 
-Os ficheiros `TOC` están sangrados para indicar a relación xerárquica do esquema e admitir sangría de varios niveis.
+Os ficheiros `TOC` están sangrados para indicar a relación xerárquica do esquema, admiten sangría de varios niveis e comentarios de liña que comezan por `#` .
 
 ##### O Nivel Dos Pais Só Escribe O Título, Non O Contido.
 

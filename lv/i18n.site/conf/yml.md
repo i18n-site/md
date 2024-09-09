@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 No tiem `upload` līdz `ext:` konfigurācijas vienums nozīmē, ka publicēšanas laikā tiks augšupielādēti tikai `.md` .
@@ -61,7 +63,7 @@ Iepriekš minētajā konfigurācijā varat mainīt `use: Toc` uz `use: Md` , vē
 
 Ja tiek piekļūts noteiktam ceļam un tā ceļa prefikss nav konfigurēts `nav:` , ceļam atbilstošais fails `MarkDown` tiks ielādēts pēc noklusējuma un renderēts, izmantojot veidni `Md` .
 
-Piemēram, ja tiek piekļūts `/test` un `nav:` ir konfigurēts bez šī ceļa, un lapas valoda ir angļu (kods `en` ), pēc noklusējuma tiks ielādēta `/en/test.md` un atveidota, izmantojot `Md` veidni.
+Piemēram, ja tiek piekļūts `/test` un `nav:` ir konfigurēts bez šī ceļa, un lapas valoda ir angļu (kods `en` ), `/en/test.md` tiks ielādēta pēc noklusējuma un renderēta, izmantojot `Md` veidni.
 
 Ja `/en/test.md` šis fails nepastāv, tiks parādīta noklusējuma `404` lapa.
 
@@ -115,7 +117,7 @@ Konfigurācija `i18n:doc` no `.i18n/conf.yml` ir vairāku projektu režīms.
 `NB` seko tam nodots parametrs `demo1,demo2` .
 Piezīme : ** Pirms un pēc komata `,` no `demo1,demo2` nedrīkst būt atstarpēm ** .
 
-Iepriekš minētajiem parametriem atbilstošais direktoriju indeksa fails ir:
+Iepriekšminētajiem parametriem atbilstošais direktoriju indeksa fails ir:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Nākamās divas rindas ir tādas, kā parādīts zemāk esošajā ekrānuzņēmu
 `news/README.md` atbilst `News` ,
 `news/begin.md` atbilst `Our Product is Online !`
 
-`TOC` faili ir ievilkti, lai norādītu kontūras hierarhiskās attiecības un atbalstītu daudzlīmeņu atkāpi.
+`TOC` failiem ir atkāpe, lai norādītu kontūras hierarhiskās attiecības, atbalstītu daudzlīmeņu atkāpi un rindu komentārus, kas sākas ar `#` .
 
 ##### Vecāku Līmenis Raksta Tikai Virsrakstu, Nevis Saturu.
 

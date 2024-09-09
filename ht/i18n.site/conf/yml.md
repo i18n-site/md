@@ -2,7 +2,7 @@
 
 Pwofil pou `i18n.site` se `.i18n/conf.yml` .
 
-Eksepte paramèt [`i18`](/i18) , `ignore:` ak `i18n:` , dosye konfigirasyon an se jan sa a:
+Eksepte paramèt [`i18`](/i18) , `ignore:` ak `i18n:` , fichye konfigirasyon an se jan sa a:
 
 ```yaml
 upload:
@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Pami yo, `upload` a `ext:` atik konfigirasyon vle di ke sèlman `.md` yo pral Uploaded lè pibliye.
@@ -35,7 +37,7 @@ Pami yo, `i18n: home` koresponn ak `home: Home` nan `en/i18n.yml` .
 
 Apre tradiksyon an fini, ou ka modifye valè tradiksyon `yml` , men pa ajoute oswa efase kle tradiksyon `yml` la.
 
-### `use: Toc` , Yon Sèl Modèl Dosye (Ak Deskripsyon)
+### `use: Toc` , Yon Sèl Modèl Dosye (Avèk Deskripsyon)
 
 `nav` :
 
@@ -115,7 +117,7 @@ Isit la, `menu: NB demo1,demo2` , vle di lè l sèvi avèk modèl la `NB` pou ra
 `NB` swiv pa paramèt `demo1,demo2` ki pase nan li.
 : ** pa ta dwe gen espas ** anvan ak apre vigil `,` nan `demo1,demo2` .
 
-Fichye endèks anyè ki koresponn lan pou paramèt ki anwo yo se:
+Pou paramèt ki anwo yo, fichye endèks anyè ki koresponn lan se:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -143,7 +145,7 @@ news/README.md
 
 ##### Sèvi Ak Endentasyon Pou Endike Nivo Yo
 
-`README.md` nan premye ranje `en/blog/TOC` anwo a koresponn ak `i18n.site` nan foto ki anba a, ki se non pwojè a.
+`README.md` nan premye ranje `en/blog/TOC` anlè a koresponn ak `i18n.site` nan foto ki anba a, ki se non pwojè a.
 
 De pwochen liy yo jan yo montre nan ekran ki anba a.
 
@@ -152,11 +154,11 @@ De pwochen liy yo jan yo montre nan ekran ki anba a.
 `news/README.md` koresponn ak `News` ,
 `news/begin.md` koresponn ak `Our Product is Online !`
 
-`TOC` fichye yo endentasyon pou endike relasyon yerarchize deskripsyon an epi sipòte endentasyon milti-nivo.
+`TOC` fichye yo endentasyon pou endike relasyon yerarchize deskripsyon an, sipòte endentasyon milti-nivo, ak kòmantè liy ki kòmanse ak `#` .
 
 ##### Nivo Paran an Sèlman Ekri Tit La, Pa Kontni An.
 
-Lè gen plizyè nivo endentasyon, nivo paran an sèlman ekri tit la epi li pa kontni an. Sinon, tipografi yo pral dezòd.
+Lè gen plizyè nivo endentasyon, nivo paran an sèlman ekri tit la epi pa kontni an. Sinon, tipografi yo pral dezòd.
 
 ##### Pwojè README.md
 

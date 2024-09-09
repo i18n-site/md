@@ -1,12 +1,15 @@
 # Entwicklungsplanung
 
-Die folgenden bedeutenden Funktionen werden derzeit entwickelt:
+## Abgeschlossen
 
-- [ ] Wechsel zwischen mehreren Versionen von Dokumenten
-- [ ] Unabhängige Frontend-Volltextsuche
-- [ ] RSS-Abonnement-Feeds
-- [ ] Suchmaschinenoptimierung
-- [ ] Synchronisierte Push-Benachrichtigungen für Artikelaktualisierungen auf führenden sozialen Medien
+- [x] RSS-Abonnement-Quelle
+- [x] Suchmaschinenoptimierung
+
+## In der Entwicklung
+
+- [ ] Wechsel zwischen mehreren Versionen der Dokumentation
+- [ ] Volltextsuche im reinen Frontend
+- [ ] Synchronisierte Artikelaktualisierungen an verschiedene soziale Medien senden
 - [ ] E-Mail für Benutzer / `web push` Abonnieren Sie Produktaktualisierungen
-- [ ] Kommentare zu Artikelabsätzen hinzufügen
-- [ ] Integration einer lokalen Dokumentenüberwachung zur Erstellung von Vorschauen, ohne dass eine manuelle Kompilierung und die Nutzung von NGINX erforderlich ist
+- [ ] Kommentare zu Artikelabsätzen verfassen
+- [ ] Integration einer lokalen Dokumentüberwachung zur Erstellung von Vorschauen, ohne dass eine manuelle Kompilierung und die Nutzung von NGINX erforderlich ist

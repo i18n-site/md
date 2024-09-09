@@ -1,12 +1,15 @@
 # Fejlesztési terv
 
-A következő fontos jellemzők fejlesztés alatt állnak:
+## Befejezve
 
-- [ ] Dokumentumok több verziója közötti váltás
-- [ ] Tiszta front-end alapú teljes szöveges keresés
-- [ ] RSS feliratkozási források
-- [ ] Keresőmotor optimalizálás
+- [x] RSS feliratkozási forrás
+- [x] Keresőmotor optimalizálás
+
+## Fejlesztés alatt
+
+- [ ] Dokumentumok több verziójának váltása
+- [ ] Pure front-end teljes szöveges keresés
 - [ ] Szinkronizált frissítések küldése a nagy közösségi médiákba
 - [ ] E-mail elérhető a felhasználók számára / `web push` segítségével iratkozzon fel a termékfrissítésekre
-- [ ] Cikkbekezdésekhez való megjegyzések hozzáfűzése
-- [ ] Helyi dokumentumok integrálása a változások nyomon követésére és előnézetek generálására, NGINX használata nélkül
+- [ ] Cikk bekezdéseinek megjegyzései
+- [ ] Integrált helyi dokumentumfigyelés és előnézet generálása NGINX használata nélkül

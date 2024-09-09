@@ -55,25 +55,9 @@ Shablon ombori katalogining tuzilishi quyidagicha
 
 Katalogni kiriting va tarjima qilish uchun `i18` ishga tushiring.
 
-### Fayllarni Omborga Qo'shing
+Tarjimaga qo'shimcha ravishda, dastur `.i18n/data` jildini ham yaratadi, iltimos, uni omborga qo'shing.
 
-Tarjimadan tashqari, dastur quyidagi fayllarni ham yaratadi, iltimos, ularni omborga qo'shing.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Ular orasida `.i18n/cache/.gitignore` ning tarkibi quyidagicha :
-
-```
-**/*
-!**/.gitignore
-```
-
-Bu shuni anglatadiki, `.i18n/cache/` katalogidagi barcha fayllar ( `.i18n/cache/.gitignore` dan tashqari) e'tiborga olinmaydi.
-
-Agar versiyani boshqarish dasturi `git` bo'lmasa, ushbu konfiguratsiyaga ko'ra uni e'tiborsiz qoldiring.
+Yangi faylni tarjima qilgandan so'ng, ushbu katalogda yangi ma'lumotlar fayli hosil bo'ladi `git add .` qo'shishni unutmang.
 
 ## Konfiguratsiya Fayli
 

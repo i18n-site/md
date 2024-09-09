@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Diantaranya, item konfigurasi `upload` hingga `ext:` berarti hanya `.md` yang akan diunggah saat dipublikasikan.
@@ -115,7 +117,7 @@ Di sini, `menu: NB demo1,demo2` berarti menggunakan templat `NB` untuk merender 
 `NB` diikuti oleh parameter `demo1,demo2` yang diteruskan ke sana.
 Catatan : ** Tidak boleh ada spasi ** sebelum dan sesudah koma `,` di `demo1,demo2` .
 
-File indeks direktori yang sesuai untuk parameter di atas adalah:
+Untuk parameter di atas, file indeks direktori yang sesuai adalah:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,11 +154,11 @@ Dua baris berikutnya seperti yang ditunjukkan pada gambar di bawah.
 `news/README.md` sama dengan `News` ,
 `news/begin.md` sama dengan `Our Product is Online !`
 
-`TOC` file diindentasi untuk menunjukkan hubungan hierarki kerangka dan mendukung indentasi multi-level.
+`TOC` file diindentasi untuk menunjukkan hubungan hierarki kerangka, mendukung indentasi multi-level, dan komentar baris dimulai dengan `#` .
 
 ##### Tingkat Induk Hanya Menulis Judul, Bukan Isinya.
 
-Jika terdapat beberapa tingkat indentasi, tingkat induk hanya menulis judul dan bukan konten. Jika tidak, tipografi akan kacau.
+Jika terdapat beberapa tingkat indentasi, maka tingkat induk hanya menulis judul dan bukan konten. Jika tidak, tipografi akan kacau.
 
 ##### Proyek README.md
 

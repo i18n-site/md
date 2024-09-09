@@ -2,7 +2,7 @@
 
 Coj qhov project demo ua piv txwv:
 
-`en/demo2/v` yog tus lej version tam sim no ntawm qhov project, uas yuav tshwm sim rau sab xis ntawm lub npe qhov project nyob rau hauv daim ntawv qhia sidebar.
+`en/demo2/v` yog tus naj npawb version tam sim no ntawm qhov project, uas yuav tshwm sim rau sab xis ntawm lub npe qhov project nyob rau hauv daim ntawv qhia sidebar.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

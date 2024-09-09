@@ -55,25 +55,9 @@ Pelên demo yên wergerandî yên di pelrêça `en` de tenê mînakek in û dika
 
 Têkeve pelrêçayê û ji bo wergerandinê `i18` bimeşîne.
 
-### Pelan Li Depoyê Zêde Bikin
+Ji bilî wergerê, bername dê peldanka `.i18n/data` jî çêbike, ji kerema xwe wê li depoyê zêde bike.
 
-Ji bilî wergerê, bername dê pelên jêrîn jî çêbike, ji kerema xwe wan li depoyê zêde bike.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Di nav wan de, naveroka `.i18n/cache/.gitignore` wiha ye :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ev tê wê wateyê ku hemî pelên di pelrêça `.i18n/cache/` de (ji bilî `.i18n/cache/.gitignore` ) têne paşguh kirin.
-
-Ger nermalava kontrola guhertoya we ne `git` be, ji kerema xwe li gorî vê veavakirinê guh nede wê.
+Piştî wergerandina pelê nû, pelek daneya nû dê di `git add .` pelrêçayê de were çêkirin.
 
 ## Pelê Veavakirinê
 

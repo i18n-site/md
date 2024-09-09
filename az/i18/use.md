@@ -55,25 +55,9 @@ Klonlamadan sonra qovluğu daxil edin və tərcüməni tamamlamaq üçün `i18` 
 
 Kataloqu daxil edin və tərcümə etmək üçün `i18` işə salın.
 
-### Faylları Depoya Əlavə Edin
+Tərcümə ilə yanaşı, proqram `.i18n/data` qovluğunu da yaradacaq, zəhmət olmasa onu depoya əlavə edin.
 
-Tərcümə ilə yanaşı, proqram aşağıdakı faylları da yaradacaq, lütfən, onları depoya əlavə edin.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Onların arasında `.i18n/cache/.gitignore` ın məzmunu belədir :
-
-```
-**/*
-!**/.gitignore
-```
-
-Bu o deməkdir ki, `.i18n/cache/` kataloqundakı bütün fayllar ( `.i18n/cache/.gitignore` istisna olmaqla) nəzərə alınmır.
-
-Əgər versiyaya nəzarət proqramınız `git` deyilsə, bu konfiqurasiyaya uyğun olaraq ona məhəl qoymayın.
+Yeni faylı tərcümə etdikdən sonra bu qovluqda yeni məlumat faylı yaradılacaq `git add .` əlavə etməyi unutmayın.
 
 ## Konfiqurasiya Faylı
 

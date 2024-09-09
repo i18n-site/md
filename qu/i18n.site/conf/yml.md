@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Paykuna ukhupi, `upload` `ext:` wakichiy elemento niyta munan `.md` churasqa kanqa lluqsichiypi.
@@ -115,7 +117,7 @@ Kaypiqa, `menu: NB demo1,demo2` , `NB` plantillata llamk'achiyta munan, menú de
 `NB` qatiqninpiqa `demo1,demo2` parámetro nisqa chayman pasasqa.
 `demo1,demo2` : ** `,` **
 
-Hawa parametrokunapaq tupaq directorio indis willañiqiqa kaymi:
+Hawa parametrokunapaq, tupaq directorio indis willañiqiqa kaymi:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Qatiqnin iskay chirukunaqa uraypi pantallapi qawasqa hinam.
 `news/README.md` 1 , `News` nisqawanmi tupan.
 `news/begin.md` `Our Product is Online !` nisqawanmi tupan
 
-`TOC` willañiqikuna indentado kanku, esquemapa jerárquico relación nisqa rikuchinapaq chaymanta achka pata indentación yanapanapaq.
+`TOC` willañiqikunam k'uyusqa kachkan, chirupa hierárquico nisqa tinkiyninta rikuchinapaq, achka pata indentación nisqa yanapanapaq, `#` nisqawan qallarispa chiru rimaykunata.
 
 ##### Tayta-Mama Nivelqa Titulollatam Qillqan, Manam Contenidotachu.
 

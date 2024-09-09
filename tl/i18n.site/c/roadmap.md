@@ -1,11 +1,14 @@
 # Pagpaplano Ng Pag-Unlad
 
-Ang mga sumusunod na mahahalagang tampok ay nasa ilalim ng pag-unlad:
+## Nakumpleto
+
+- [x] RSS feed
+- [x] pag-optimize ng search engine
+
+## Sa Ilalim Ng Pag-Unlad
 
 - [ ] Palipat-lipat sa pagitan ng maraming bersyon ng mga dokumento
 - [ ] Purong front-end na full-text na paghahanap
-- [ ] RSS feed
-- [ ] pag-optimize ng search engine
 - [ ] Sabay-sabay na itulak ang mga update sa artikulo sa mga pangunahing social media
 - [ ] Available ang email sa mga user / `web push` Mag-subscribe sa mga update ng produkto
 - [ ] Magkomento sa mga talata ng artikulo

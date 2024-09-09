@@ -55,25 +55,9 @@ Demo file siwo gɔme woɖe le `en` directory la nye kpɔɖeŋu ko eye woateŋu a
 
 De agbalẽdzraɖoƒea eye nàƒu du `i18` be nàɖe egɔme.
 
-### Tsɔ Faɛlwo Kpe Ɖe Nudzraɖoƒea
+Tsɔ kpe ɖe gbegɔmeɖeɖea ŋu la, ɖoɖowɔɖia awɔ `.i18n/data` ƒe agbalẽdzraɖoƒea hã, taflatse tsɔe kpe ɖe nudzraɖoƒea ŋu.
 
-Tsɔ kpe ɖe gbegɔmeɖeɖe ŋu la, ɖoɖowɔɖia awɔ faɛl siwo gbɔna hã, taflatse tsɔ wo kpe ɖe nudzraɖoƒea ŋu.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Le wo dome la, `.i18n/cache/.gitignore` ƒe nyawo le ale :
-
-```
-**/*
-!**/.gitignore
-```
-
-Esia fia be woŋea aɖaba ƒua faɛl siwo katã le nyatakakadzraɖoƒe `.i18n/cache/` (negbe `.i18n/cache/.gitignore` ko) dzi.
-
-Ne wò version control software menye `git` o la, taflatse ŋe aɖaba ƒu edzi le ɖoɖo sia nu.
+Ne èɖe faɛl yeyea gɔme vɔ la, woawɔ nyatakaka faɛl yeye ɖe agbalẽdzraɖoƒe sia Ðo ŋku edzi nàtsɔ `git add .` akpe ɖe eŋu.
 
 ## Ðoɖowɔɖi Ƒe Faɛl
 

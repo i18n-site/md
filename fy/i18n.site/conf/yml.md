@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Under harren betsjut `upload` oant `ext:` konfiguraasje item dat mar `.md` sille wurde uploade by publisearjen.
@@ -115,7 +117,7 @@ Hjir, `menu: NB demo1,demo2` , betsjut it brûken fan it sjabloan `NB` om it del
 `NB` wurdt folge troch de parameter `demo1,demo2` trochjûn oan it.
 Opmerking : ** D'r moatte gjin spaasjes ** foar en nei de komma `,` op `demo1,demo2` stean.
 
-De oerienkommende triemtafel yndeks triem foar de boppesteande parameters is:
+Foar de boppesteande parameters is de oerienkommende triemtafel yndeks triem:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ De folgjende twa rigels binne lykas werjûn yn 'e skermprint hjirûnder.
 `news/README.md` komt oerien mei `News` ,
 `news/begin.md` komt oerien mei `Our Product is Online !`
 
-`TOC` bestannen wurde ynspringe om de hiërargyske relaasje fan 'e skets oan te jaan en ynspringing op meardere nivo's te stypjen.
+`TOC` -bestannen wurde ynspringe om de hiërargyske relaasje fan 'e rigel oan te jaan, stipe foar ynspringing op meardere nivo's, en line-kommentaar begjinnend mei `#` .
 
 ##### It Âldernivo Skriuwt Allinich De Titel, Net De Ynhâld.
 
@@ -178,13 +180,13 @@ Dit komt oerien mei de earste rige `en/demo2/README.md` :
 
 De ynhâld nei de earste kolon `:` fan de titel op it earste nivo fan projekt `README.md` wurdt beskôge as de projektslogan.
 
-Brûkers út Sina, Japan en Korea, hâld der rekken mei dat jo in heale breedte kolon `:` moatte brûke ynstee fan folsleine breedte kolon.
+Brûkers út Sina, Japan en Korea, tink derom dat jo de kolon `:` fan 'e heale breedte moatte brûke ynstee fan' e heule breedte.
 
 ##### Hoe Kinne Jo TOC Yn Bulk Ferpleatse?
 
 `TOC` triemmen moatte wurde pleatst yn de map fan de boarne taal.
 
-Bygelyks, as de boarnetaal Sineesk is, dan is `TOC` hjirboppe `zh/blog/TOC` .
+As de boarnetaal bygelyks Sineesk is, dan is `TOC` hjirboppe `zh/blog/TOC` .
 
 As de boarnetaal wizige is, moatte jo de `TOC` bestannen fan in bepaalde taal yn it projekt batch ferpleatse nei in oare taal.
 

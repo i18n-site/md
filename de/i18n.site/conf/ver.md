@@ -2,7 +2,7 @@
 
 Als Beispiel für das Demoprojekt:
 
-`en/demo2/v` enthält die aktuelle Versionsnummer des Projekts, die rechts neben dem Namen des Projekts in der Seitenleistenübersicht angezeigt wird.
+`en/demo2/v` ist die aktuelle Versionsnummer des Projekts und wird rechts neben dem Namen des Projekts in der seitlichen Inhaltsübersicht angezeigt.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

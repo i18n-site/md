@@ -8,7 +8,7 @@ U prugramma hà traduzzione integrata `i18` , per piacè vede [➔ `i18` documen
 
 A lingua predeterminata di u situ web currisponde automaticamente à a lingua di u navigatore.
 
-Dopu chì l'utilizatore hà cambiatu a lingua manualmente, a scelta di l'utilizatore serà ricurdata.
+Dopu chì l'utilizatore hà cambiatu manualmente a lingua, a scelta di l'utilizatore serà ricurdata.
 
 Codice legatu : [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
@@ -20,7 +20,7 @@ Ci hè ancu una sperienza di lettura perfetta nantu à u telefuninu.
 
 ## <a rel=id href="#ha" id="ha"></a> Alta dispunibilità front-end
 
-`i18n.site` pubblicà u cuntenutu di u situ à `npmjs.com` per difettu, cù l'aiutu [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) è altri `CDN` cuntenuti caricati in `npm` .
+`i18n.site` pubblicà u cuntenutu di u situ à `npmjs.com` per difettu, cù l'aiutu [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) è altri cuntenuti multiplici `CDN` caricati in `npm` .
 
 In questa basa, e fonti di specchiu da a Cina continentale sò state aghjunte per permette à l'utilizatori cinesi di avè un accessu stabile è di ottene **una alta dispunibilità di front-end** .
 
@@ -30,7 +30,7 @@ Codice legatu : [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/
 
 ## Applicazione Di Una Sola Pagina, Carica Estremamente Rapida
 
-U situ web adopta una architettura di l'applicazione di una sola pagina, senza rinfrescante quandu cambiate pagine è carica estremamente veloce.
+U situ web adopta una architettura d'applicazione di una sola pagina, senza rinfrescante quandu cambiate pagine è carica estremamente veloce.
 
 ## Ottimizatu Per L'esperienza Di Lettura
 
@@ -44,11 +44,17 @@ U situ web adopta una architettura di l'applicazione di una sola pagina, senza r
 
 [➔ Cliccate quì per vede una lista di stili](/i18n.site/md/styl) .
 
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+A stampa sopra mostra multi-lingua `RSS` cù [inoreader.com](//inoreader.com) abbonamentu `i18n.site` .
+
 ### Caricà I Fonti in Linea, Sustene U Cinese
 
 Per automaticamente, [i fonti rettangulari variabili Alimama dual-axis](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) [MiSans](https://hyperos.mi.com/font/zh/download/) è altri fonti in linea sò attivati nantu à a pagina web per unificà l'esperienza di lettura di l'utilizatori nantu à diverse piattaforme.
 
-À u listessu tempu, per migliurà a velocità di carica, i caratteri sò tagliati secondu e statistiche di freccia di parolle.
+À u listessu tempu, per migliurà a velocità di carica, i fonti sò tagliati secondu e statistiche di freccia di parolle.
 
 Codice legatu : [github.com/i18n-site/font](https://github.com/i18n-site/font)
 
@@ -74,10 +80,10 @@ Passa u mouse sopra u buttone à u latu drittu di a navigazione superiore per ve
 
 ### `404` Picculu Fantasma
 
-Ci hè un simpaticu fantasma flottante nantu à a pagina `404` , chì l'ochji si movenu cù u mouse, [➔ Cliccate quì per vede](/404) ,
+A pagina `404` hà un simpaticu fantasma galleggiante, i so ochji si moveranu cù u mouse, [➔ Cliccate quì per vede](/404) ,
 
 ## Codice Open Source
 
 [U codice hè open source](/i18n.site/src) Se site interessatu à participà à u sviluppu, per piacè presentate à [a lista di mailing](//groups.google.com/u/2/g/i18n-site) .
 
-Ci sò parechji picculi esigenze chì sò impurtanti, ma micca urgenti, u squadra di sviluppu assignarà i travaglii di pratica secondu a tecnulugia chì site bè, è migliurà i ducumenti di sviluppu mentre assignanu i requisiti.
+Ci sò parechji picculi esigenze chì sò impurtanti, ma micca urgenti, u squadra di sviluppu assignarà travaglii pratichi basati nantu à e tecnulugia chì site bè, è migliurà i ducumenti di sviluppu mentre assignanu i requisiti.

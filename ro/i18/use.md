@@ -55,25 +55,9 @@ Fișierele demonstrative de traducere din directorul `en` sunt doar un exemplu �
 
 Introduceți directorul și rulați `i18` pentru a traduce.
 
-### Adăugați Fișiere În Depozit
+Pe lângă traducere, programul va genera și folderul `.i18n/data`; vă rugăm să-l adăugați în depozitul de versiuni.
 
-Pe lângă traducere, programul va genera și următoarele fișiere, vă rugăm să le adăugați în depozit.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Printre acestea, conținutul lui `.i18n/cache/.gitignore` este următorul :
-
-```
-**/*
-!**/.gitignore
-```
-
-Aceasta înseamnă că toate fișierele din directorul `.i18n/cache/` (cu excepția `.i18n/cache/.gitignore` ) sunt ignorate.
-
-Dacă software-ul dvs. de control al versiunii nu este `git` , vă rugăm să îl ignorați conform acestei configurații.
+După traducerea unui fișier nou, în acest director se va genera un fișier de date nou; amintiți-vă să efectuați `git add .`.
 
 ## Fișierul De Configurare
 

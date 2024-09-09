@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Yn eu plith, mae eitem ffurfweddu `upload` i `ext:` yn golygu mai dim ond `.md` fydd yn cael eu huwchlwytho wrth gyhoeddi.
@@ -115,7 +117,7 @@ Mae `NB` , sef y talfyriad o `Name Breif` , yn golygu y gall y gwymplen ddangos 
 Dilynir `NB` gan y paramedr `demo1,demo2` a drosglwyddir iddo.
 Sylwch : ** Ni ddylai fod unrhyw fylchau ** cyn ac ar ôl y coma `,` mewn `demo1,demo2` .
 
-Y ffeil mynegai cyfeiriadur cyfatebol ar gyfer y paramedrau uchod yw:
+Ar gyfer y paramedrau uchod, y ffeil mynegai cyfeiriadur cyfatebol yw:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -126,7 +128,7 @@ Bydd `i18n.site` yn gweithredu `js` plug-in `.i18n/hook/after.tran/TOC.js` yn y 
 
 Os ydych chi'n defnyddio templed `doc` , rhaid i chi gael yr ategyn hwn.
 
-Os ydych yn cychwyn prosiect `i18n.site` o ffolder wag, cofiwch gopïo prosiect demo `.i18n` i'ch cyfeiriadur.
+Os byddwch yn cychwyn prosiect `i18n.site` o ffolder wag, cofiwch gopïo prosiect demo `.i18n` i'ch cyfeiriadur.
 
 Bydd y templed `Doc` yn rhoi amlinelliad o'r tabl cynnwys yn seiliedig ar yr `json` a gynhyrchwyd.
 
@@ -152,7 +154,7 @@ Mae'r ddwy linell nesaf fel y dangosir yn y screenshot isod.
 Mae `news/README.md` yn cyfateb i `News` ,
 Mae `news/begin.md` yn cyfateb i `Our Product is Online !`
 
-`TOC` ffeil wedi'i mewnoli i ddangos perthynas hierarchaidd yr amlinelliad ac i gefnogi mewnoliad aml-lefel.
+Mae ffeiliau `TOC` wedi'u mewnoli i nodi perthynas hierarchaidd yr amlinelliad, cefnogi mewnoliad aml-lefel, a sylwadau llinell sy'n dechrau ag `#` .
 
 ##### Mae'r Lefel Rhiant Yn Ysgrifennu'r Teitl Yn Unig, Nid Y Cynnwys.
 

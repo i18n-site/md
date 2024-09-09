@@ -55,25 +55,9 @@ Os ficheiros de demostración traducidos no directorio `en` son só un exemplo e
 
 Introduce o directorio e executa `i18` para traducir.
 
-### Engadir Ficheiros Ao Repositorio
+Ademais da tradución, o programa tamén xerará o cartafol `.i18n/data` , engádeo ao repositorio.
 
-Ademais da tradución, o programa tamén xerará os seguintes ficheiros, engádeos ao repositorio.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Entre eles, o contido de `.i18n/cache/.gitignore` é o seguinte :
-
-```
-**/*
-!**/.gitignore
-```
-
-Isto significa que todos os ficheiros do directorio `.i18n/cache/` (excepto `.i18n/cache/.gitignore` ) son ignorados.
-
-Se o teu software de control de versións non é `git` , ignórao segundo esta configuración.
+Despois de traducir o novo ficheiro, xerarase un novo ficheiro de datos neste directorio Lembra engadir `git add .` .
 
 ## Ficheiro De Configuración
 

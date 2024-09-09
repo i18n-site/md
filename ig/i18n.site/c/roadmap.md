@@ -1,11 +1,14 @@
 # Atụmatụ Mmepe
 
-A na-emepe atụmatụ ndị a dị mkpa:
+## Emechara
+
+- [x] ndepụta RSS
+- [x] search engine njikarịcha
+
+## N'okpuru Mmepe
 
 - [ ] Ịgbanwe n'etiti ọtụtụ ụdị akwụkwọ
 - [ ] Ọchịchọ ederede zuru oke n'ihu
-- [ ] ndepụta RSS
-- [ ] search engine njikarịcha
 - [ ] N'otu oge kwanye mmelite akụkọ na mgbasa ozi mgbasa ozi bụ isi
 - [ ] Email dị maka ndị / `web push` Debanye aha maka mmelite ngwaahịa
 - [ ] Kwuo okwu na paragraf edemede

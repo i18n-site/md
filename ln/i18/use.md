@@ -55,25 +55,9 @@ Ba fichiers ya démonstration oyo ebongolami na répertoire `en` ezali kaka exem
 
 Kota na répertoire mpe tambuisa `i18` mpo na kobongola.
 
-### Bakisa Ba Fichiers Na Ebombelo
+En plus ya traduction, programme eko produire pe dossier `.i18n/data` , svp bakisa yango na dépôt.
 
-En plus ya traduction, programme ekosala pe ba fichiers oyo elandi, svp bakisa yango na dépôt.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Parmi bango, contenus ya `.i18n/cache/.gitignore` ezali boye :
-
-```
-**/*
-!**/.gitignore
-```
-
-Yango elingi koloba ete ba fichiers nionso oyo ezali na répertoire `.i18n/cache/` (sauf `.i18n/cache/.gitignore` ) ezo ignorer.
-
-Soki logiciel na yo ya contrôle ya version ezali `git` te, svp ignorer yango selon configuration oyo.
+Sima ya kobongola fisyé ya sika, fisyé ya sika ya ba données ekosalema na répertoire oyo Kobosana te kobakisa `git add .` .
 
 ## Fisyé Ya Configuration
 

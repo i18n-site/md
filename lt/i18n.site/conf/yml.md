@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Tarp jų konfigūracijos elementas `upload` iki `ext:` reiškia, kad paskelbiant bus įkelti tik `.md` .
@@ -78,7 +80,7 @@ Konfigūracijos faile:
 
 Nurodo, kad šablono atvaizdavimui naudojamas `Doc` .
 
-`Doc` šablonas palaiko kelių `MarkDown` integravimą, kad būtų generuojami vieno ar kelių projektų dokumentų kontūrai.
+`Doc` šablonas palaiko kelių `MarkDown` integravimą, kad būtų galima sukurti vieno ar kelių projektų dokumentų kontūrus.
 
 #### Vienas Projektas (Keli Failai)
 
@@ -115,7 +117,7 @@ Konfigūracija `i18n:doc` iš `.i18n/conf.yml` yra kelių projektų režimas.
 Po `NB` eina jam perduotas parametras `demo1,demo2` .
 : ** Neturi būti tarpų ** prieš ir po kablelio `,` iš `demo1,demo2` .
 
-Atitinkamas pirmiau minėtų parametrų katalogo indekso failas yra:
+Pirmiau minėtiems parametrams atitinkamas katalogo indekso failas yra:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -141,7 +143,7 @@ news/README.md
   news/begin.md
 ```
 
-##### Lygiams Nurodyti Naudokite Įtrauką
+##### Norėdami Nurodyti Lygius, Naudokite Įtrauką
 
 `README.md` pirmoje `en/blog/TOC` eilutėje atitinka `i18n.site` paveikslėlyje žemiau, kuris yra projekto pavadinimas.
 
@@ -152,7 +154,7 @@ Kitos dvi eilutės yra tokios, kaip parodyta toliau esančioje ekrano kopijoje.
 `news/README.md` atitinka `News` ,
 `news/begin.md` atitinka `Our Product is Online !`
 
-`TOC` failai yra įtraukti, kad būtų nurodytas kontūro hierarchinis ryšys ir palaikoma kelių lygių įtrauka.
+`TOC` failų įtrauka nurodo kontūro hierarchinį ryšį, palaiko kelių lygių įtrauką ir eilučių komentarus, prasidedančius `#` .
 
 ##### Tėvų Lygis Rašo Tik Pavadinimą, O Ne Turinį.
 

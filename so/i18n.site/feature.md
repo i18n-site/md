@@ -8,7 +8,7 @@ Barnaamijku wuxuu leeyahay `i18` tarjumaad ah, fadlan eeg [➔ `i18` dukumeenti]
 
 Luqadda mareegaha caadiga ah waxay si toos ah ula mid noqon doontaa luqadda browserka.
 
-Ka dib markii isticmaaluhu uu luqadaha u beddelo gacanta, doorashada isticmaaluhu waa la xasuusan doonaa.
+Ka dib markii isticmaaluhu uu gacanta ku beddelo luqadaha, doorashada isticmaaluhu waa la xasuusan doonaa.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) la xidhiidha :
 
@@ -20,11 +20,11 @@ Waxa kale oo jira waayo-aragnimo wax-akhris oo kaamil ah taleefanka gacanta.
 
 ## <a rel=id href="#ha" id="ha"></a> Hore-dhamaadka sare helitaanka sare
 
-`i18n.site` waxay u daabici doontaa macluumaadka goobta `npmjs.com` si caadi ah, iyadoo la [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) iyo `CDN` kale oo ku jira `npm` .
+`i18n.site` waxay u daabici doontaa macluumaadka goobta `npmjs.com` si caadi ah, iyadoo la [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) iyo `CDN` kale oo badan oo ku raran `npm` .
 
-Iyada oo ku saleysan, ilaha muraayadda ee dhul weynaha Shiinaha ayaa lagu daray si loogu oggolaado isticmaaleyaasha Shiinaha inay helaan marin deggan oo ay ku gaaraan **helitaan xagga hore-sare ah** .
+Iyada oo ku saleysan, ilaha muraayadaha ee dhul weynaha Shiinaha ayaa lagu daray si loogu oggolaado isticmaaleyaasha Shiinaha inay helaan marin deggan oo ay ku gaaraan **helitaanka-dhamaadka hore ee sare** .
 
-Mabda'a ayaa ah: dhexda codsiyada [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , ku celi codsiyada guul daraystay ee `CDN` kale, oo si laqabsi ah u suurtageli goobta ugu jawaabta ugu dhakhsaha badan ee asalka ah inay tahay isha dejinta caadiga ah.
+Mabda'a ayaa ah: dhexda codsiyada [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , ku celi codsiyada guul daraystay ee `CDN` kale, oo si la qabsi ah u suurtageli goobta asalka ah ee ugu jawaabta ugu dhaqsiyaha badan sida isha soo dejinta caadiga ah.
 
 [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker) la xidhiidha :
 
@@ -44,6 +44,12 @@ Websaydhku waxa uu qaataa hal bog oo arji ah, iyada oo aan lahayn dib-u-cusboone
 
 [➔ Halkan guji si aad u aragto liiska qaababka](/i18n.site/md/styl) .
 
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Sawirka kore wuxuu muujinayaa luqado badan `RSS` oo la [inoreader.com](//inoreader.com) `i18n.site` .
+
 ### Soo Rar Xarfaha Khadka Tooska Ah, Taageer Shiinaha
 
 Sida caadiga ah, [Alimama dual-axis fonts afargeesle ah](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) [MiSans](https://hyperos.mi.com/font/zh/download/) iyo xarfaha kale ee onlineka ah ayaa loo sahlayaa bogga intarneetka si ay u mideeyaan khibrada wax akhriska ee isticmaalayaasha goobaha kala duwan.
@@ -62,7 +68,7 @@ Way libdhi doontaa marka jiirku aanu dhaqaaqin.
 
 Waxa jira badhan shaashad buuxda oo ku yaala geeska sare ee midig ee bar navigation si loo abuuro waayo aragnimada akhriska dukumeentiga immersive.
 
-### Tilmaanta Isku-Dhafka Ah Ee Muujinta Cutubka Hadda
+### Tilmaanta Dulucda Ee Cutubka Hadda Socda
 
 Markaad nuxurka u duuduubto midigta, dulucda bidixdu waxay isla markaa iftiimin doontaa cutubka wax akhriska ee hadda jira.
 
@@ -74,10 +80,10 @@ Ku dul rog jiirkaaga badhanka dhinaca midig ee navigation sare si aad u aragto s
 
 ### `404` Ruux Yar
 
-Waxaa jira rooxaan yar oo qurux badan oo sabaynaysa bogga `404` , kaas oo indhihiisu ay la dhaqaaqi doonaan jiirka, [➔ Riix halkan si aad u aragto](/404) ,
+Bogga `404` wuxuu leeyahay rooxaan yar oo sabbaynaysa oo qurxoon, indhihiisu waxay la dhaqaaqi doonaan jiirka, [➔ Riix halkan si aad u aragto](/404) ,
 
 ## Koodhka Isha Furan
 
-[Koodhku waa il furan](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
+[Koodhku waa il furan](/i18n.site/src) Haddii aad xiisaynayso ka qaybqaadashada horumarka, fadlan naftaada [baro liiska boostada](//groups.google.com/u/2/g/i18n-site) .
 
-Waxaa jira shuruudo yar yar oo badan oo muhiim ah laakiin aan degdeg ahayn Kooxda horumarintu waxay ku meelayn doonaan hawlo shaqo sida ay tahay tignoolajiyada aad ku fiican tahay, waxayna hagaajinayaan dukumeentiyada horumarinta marka la meeleeyo shuruudaha.
+Waxaa jira shuruudo yar yar oo badan oo muhiim ah laakiin aan degdeg ahayn Kooxda horumarintu waxay ku meelayn doonaan hawlo gacmeed oo ku saleysan tignoolajiyada aad ku fiican tahay, waxayna hagaajinayaan dukumeentiyada horumarinta iyagoo ku meeleynaya shuruudaha.

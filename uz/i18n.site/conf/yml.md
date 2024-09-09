@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Ular orasida `upload` dan `ext:` gacha konfiguratsiya elementi nashr etilganda faqat `.md` yuklanishini bildiradi.
@@ -90,7 +92,7 @@ Yuqoridagi `blog` `Doc` ning bitta elementli rejimidir.
     use: Doc
 ```
 
-##### Agar url Bo'sh Bo'lsa, U Sukut Bo'yicha i18n Qiymatini Oladi
+##### Qachon url Bo'sh Bo'lsa, U Sukut Bo'yicha i18n Qiymatini Oladi
 
 Agar `url` yozilmagan bo'lsa, `url` sukut bo'yicha `i18n` qiymatiga o'rnatiladi. Bu qoida boshqa andozalar uchun ham kuchga kiradi.
 
@@ -152,7 +154,7 @@ Keyingi ikki qator quyidagi skrinshotda ko'rsatilganidek.
 `news/README.md` `News` ga mos keladi,
 `news/begin.md` `Our Product is Online !` ga mos keladi
 
-`TOC` fayl konturning ierarxik munosabatini ko'rsatish va ko'p darajali chekinishni qo'llab-quvvatlash uchun chegaralangan.
+`TOC` fayllar konturning ierarxik munosabatini ko'rsatish, ko'p darajali chekinishni qo'llab-quvvatlash va `#` dan boshlanadigan satr sharhlarini ko'rsatish uchun chegaralangan.
 
 ##### Ota-Ona Darajasi Kontentni Emas, Balki Faqat Sarlavhani Yozadi.
 

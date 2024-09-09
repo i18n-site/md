@@ -1,11 +1,14 @@
 # Arengu Planeerimine
 
-Arendamisel on järgmised olulised funktsioonid:
+## Lõpetatud
 
-- [ ] Dokumendi mitme versiooni vahel vahetamine
+- [x] RSS-voog
+- [x] otsingumootori optimeerimine
+
+## Arendamisel
+
+- [ ] Dokumentide mitme versiooni vahel vahetamine
 - [ ] Puhas esiotsa täistekstiotsing
-- [ ] RSS-voog
-- [ ] otsingumootori optimeerimine
 - [ ] Lükake artiklite värskendused samaaegselt suurematesse sotsiaalmeediasse
 - [ ] / saadaval e-post `web push` Tellige tootevärskendused
 - [ ] Kommenteerige artikli lõike

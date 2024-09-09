@@ -55,25 +55,9 @@ Il-fajls demo tradotti fid-direttorju `en` huma biss eżempju u jistgħu jitħas
 
 Daħħal id-direttorju u mexxi `i18` biex tittraduċi.
 
-### Żid Fajls Mar-Repożitorju
+Minbarra t-traduzzjoni, il-programm se jiġġenera wkoll il-folder `.i18n/data` , jekk jogħġbok żidha mar-repożitorju.
 
-Minbarra t-traduzzjoni, il-programm se jiġġenera wkoll il-fajls li ġejjin, jekk jogħġbok żidhom mar-repożitorju.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Fost dawn, il-kontenut ta ' `.i18n/cache/.gitignore` huwa kif ġej :
-
-```
-**/*
-!**/.gitignore
-```
-
-Dan ifisser li l-fajls kollha fid-direttorju `.i18n/cache/` (ħlief `.i18n/cache/.gitignore` ) huma injorati.
-
-Jekk is-softwer tal-kontroll tal-verżjoni tiegħek mhuwiex `git` , jekk jogħġbok injorah skont din il-konfigurazzjoni.
+Wara li tittraduċi l-fajl il-ġdid, se jiġi ġġenerat fajl tad-dejta ġdid f'dan id-direttorju Ftakar li tehmeż `git add .` .
 
 ## Fajl Ta' Konfigurazzjoni
 

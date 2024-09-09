@@ -55,25 +55,9 @@ Awọn faili demo ti a tumọ ninu itọsọna `en` jẹ apẹẹrẹ nikan ati 
 
 Tẹ itọsọna naa ki o si ṣiṣẹ `i18` lati tumọ.
 
-### Fi Awọn Faili Kun Si Ibi Ipamọ
+Ni afikun si itumọ, eto naa yoo tun ṣe agbekalẹ folda `.i18n/data` , jọwọ ṣafikun si ibi ipamọ naa.
 
-Ni afikun si itumọ, eto naa yoo tun ṣe awọn faili wọnyi, jọwọ ṣafikun wọn si ibi ipamọ naa.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Lara wọn, akoonu ti `.i18n/cache/.gitignore` jẹ bi atẹle :
-
-```
-**/*
-!**/.gitignore
-```
-
-Eyi tumọ si pe gbogbo awọn faili ti o wa ninu ilana `.i18n/cache/` (ayafi `.i18n/cache/.gitignore` ) ko bikita.
-
-Ti sọfitiwia iṣakoso ẹya rẹ ko ba jẹ `git` , jọwọ foju rẹ ni ibamu si iṣeto yii.
+Lẹhin titumọ faili tuntun, faili data tuntun yoo ṣe ipilẹṣẹ ninu itọsọna yii Ranti lati fi `git add .` kun.
 
 ## Faili Iṣeto Ni
 

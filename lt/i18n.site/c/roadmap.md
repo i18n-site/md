@@ -1,11 +1,14 @@
 # Plėtros Planavimas
 
-Kuriamos šios svarbios funkcijos:
+## Baigta
+
+- [x] RSS kanalas
+- [x] optimizavimas paieškos sistemoms
+
+## Kuriamas
 
 - [ ] Kelių dokumentų versijų perjungimas
 - [ ] Gryna priekinė viso teksto paieška
-- [ ] RSS kanalas
-- [ ] optimizavimas paieškos sistemoms
 - [ ] Tuo pačiu metu siųskite straipsnių atnaujinimus į pagrindinę socialinę žiniasklaidą
 - [ ] Vartotojams pasiekiamas el / paštas `web push` Prenumeruokite produktų naujinius
 - [ ] Komentuokite straipsnio pastraipas

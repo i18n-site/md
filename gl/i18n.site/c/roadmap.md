@@ -1,11 +1,14 @@
 # Planificación Do Desenvolvemento
 
-As seguintes características importantes están en desenvolvemento:
+## Completado
+
+- [x] Fonte RSS
+- [x] optimización de buscadores
+
+## En Desenvolvemento
 
 - [ ] Cambiar entre varias versións de documentos
 - [ ] Busca pura de texto completo front-end
-- [ ] Fonte RSS
-- [ ] optimización de buscadores
 - [ ] Simultáneamente, enviar actualizacións de artigos ás principais redes sociais
 - [ ] Correo electrónico dispoñible para os / `web push` Subscríbete ás actualizacións do produto
 - [ ] Comenta os parágrafos do artigo

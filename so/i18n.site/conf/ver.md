@@ -2,7 +2,7 @@
 
 Tusaale ahaan mashruuca demo:
 
-`en/demo2/v` waa nambarka nooca hadda ee mashruuca, kaas oo lagu muujin doono dhanka midig ee magaca mashruuca ee dulucda dhinaceeda.
+`en/demo2/v` waa nambarka nooca hadda ee mashruuca, kaas oo lagu muujin doono dhanka midig ee magaca mashruuca ee dulucda dhinaca.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

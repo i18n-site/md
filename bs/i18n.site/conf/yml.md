@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Među njima, `upload` do `ext:` stavka konfiguracije znači da će samo `.md` biti učitane prilikom objavljivanja.
@@ -45,7 +47,7 @@ Nakon što se prijevod završi, možete promijeniti vrijednost prijevoda `yml` ,
     url: /
 ```
 
-`use: Toc` znači renderiranje pomoću šablona `Toc` , što predstavlja renderiranje jednog šablona `Markdown` .
+`use: Toc` znači renderiranje pomoću `Toc` šablona, što predstavlja renderiranje jednog šablona `Markdown` .
 
 `TOC` je skraćenica od `Table of Contents` Kada se ovaj predložak prikaže, obris ove `Markdown` datoteke će biti prikazan na bočnoj traci.
 
@@ -94,7 +96,7 @@ Označava korištenje `Doc` za renderiranje šablona.
 
 Ako `url` nije napisano, `url` je zadana vrijednost `i18n` Ovo pravilo također stupa na snagu za druge šablone.
 
-Gornji način pisanja je ekvivalentan `url: blog` , a odgovarajući fajl je `en/blog/TOC` .
+Gornja metoda pisanja je ekvivalentna `url: blog` , a odgovarajuća datoteka je `en/blog/TOC` .
 
 #### Više Projekata
 
@@ -115,7 +117,7 @@ Ovdje, `menu: NB demo1,demo2` , znači korištenje šablona `NB` za renderiranje
 Nakon `NB` slijedi parametar `demo1,demo2` koji mu je proslijeđen.
 : ** Ne bi trebalo biti razmaka ** ispred i iza zareza `,` u `demo1,demo2` .
 
-Odgovarajuća datoteka indeksa direktorija za gore navedene parametre je:
+Za gore navedene parametre, odgovarajuća datoteka indeksa direktorija je:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Sljedeća dva reda su kao što je prikazano na slici ispod.
 `news/README.md` odgovara `News` ,
 `news/begin.md` odgovara `Our Product is Online !`
 
-Datoteke `TOC` su uvučene da ukažu na hijerarhijski odnos konture i podržavaju uvlačenje na više nivoa.
+Datoteke `TOC` su uvučene da naznače hijerarhijski odnos konture, podržavaju uvlačenje na više nivoa i komentare reda koji počinju sa `#` .
 
 ##### Roditeljski Nivo Piše Samo Naslov, a Ne Sadržaj.
 

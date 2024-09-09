@@ -55,25 +55,9 @@ Demo file minnu bamanankanna `en` ɲɛbilasɛbɛn kɔnɔ olu ye misali dɔrɔn d
 
 Aw bɛ don ɲɛbilasɛbɛn kɔnɔ ka `i18` boli walasa ka baara kɛ.
 
-### Aw Bɛ Dosiyew Fara a Marayɔrɔ Kan
+Ka fara bamanankan baarakɛcogo kan, porogaramu bɛna `.i18n/data` foli fana Bɔ, aw k’a Fàra o marayɔrɔ kan.
 
-Ka fara bamanankan baara kan, porogaramu bɛna nin dosiye ninnu fana Bɔ, aw k’u Fàra o marayɔrɔ kan.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Olu cɛma, `.i18n/cache/.gitignore` kɔnɔkow ye nin ye :
-
-```
-**/*
-!**/.gitignore
-```
-
-O kɔrɔ ye ko filen minnu bɛ ɲɛbilasɛbɛn `.i18n/cache/` kɔnɔ (n’a ma fɔ `.i18n/cache/.gitignore` ) olu bɛɛ tɛ jate.
-
-Ni i ka version control porogaramu tɛ `git` ye, i ka i ɲɛmajɔ a la ka kɛɲɛ ni nin cogoya ye.
+Dosiyɛri kura bamanankan na, kunnafoni-falen kura bɛna Bɔ nin ɲɛbilasɛbɛn `git add .` kɔnɔ.
 
 ## Labɛnni Filen
 

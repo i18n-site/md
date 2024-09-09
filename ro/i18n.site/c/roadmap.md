@@ -1,12 +1,15 @@
 # Planificarea dezvoltării
 
-Caracteristici importante în curs de dezvoltare:
+## Terminat
+
+- [x] Flux RSS de abonamente
+- [x] optimizarea motoarelor de căutare
+
+## În dezvoltare
 
 - [ ] Comutarea între mai multe versiuni ale documentelor
-- [ ] Căutare integrală de text pe front-end
-- [ ] Flux RSS de abonament
-- [ ] optimizarea motoarelor de căutare
-- [ ] Sincronizarea și trimiterea actualizărilor articolelor către principalele rețele sociale
+- [ ] Căutare integrală front-end, pură
+- [ ] Push simultan al actualizărilor articolelor către principalele rețele sociale
 - [ ] E-mail disponibil pentru / `web push` Abonați-vă la actualizările produselor
-- [ ] Adăugarea de comentarii la paragrafele articolelor
-- [ ] Integrarea monitorizării modificărilor în documentele locale și generarea de previzualizări, fără a mai fi necesară compilarea manuală și utilizarea NGINX
+- [ ] Comentarea paragrafelor din articole
+- [ ] Integrarea monitorizării modificărilor în documentele locale și generarea de previzualizări, fără a fi necesară compilarea manuală și utilizând NGINX

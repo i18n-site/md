@@ -1,3 +1,8 @@
+host: i18n.site
+seo: true
+out:
+  - fs
+
 v: //127.0.0.1:7776/
 # v: //unpkg.com/i18md
 
@@ -36,3 +41,4 @@ api: //127.0.0.1:7770/
 #
 # # i18n:
 # # site: //cdn.jsdelivr.net/npm/i18n.site
+

@@ -1,0 +1,194 @@
+# Optimización Motor De Búsqueda (Seo) Rehegua .
+
+## Principio Rehegua
+
+`i18n.site` oadopta peteĩ arquitectura página peteĩva noñembopyahúiva Ikatu hag̃uáicha oñembohape indexación jeheka rehegua, ojejapóta peteĩ página estática ha `sitemap.xml` añónte umi rastreador-kuérape g̃uarã.
+
+Oipurúramo `User-Agent` jeikerã jerure rehegua rastreador motor de búsqueda rehegua, pe mba’ejerure ojegueraha jeýta página estática-pe `302` rupive.
+
+Umi páhina estático-pe, eipuru `link` ehechauka hag̃ua joajuha opaichagua ñeꞌepyre ko páhinape, haꞌeháicha :
+
+```
+<link rel=alternate hreflang=zh href="https://i18n.site/zh/.htm">
+<link rel=alternate hreflang=en href="https://i18n.site/en/.htm">
+```
+
+## Emohenda Mba’e’oka Ñeñongatuha Ojegueraha Hag̃ua Archivo Estático
+
+Umi archivo estático ikatu ojejapo localmente, ha katu peteĩ tape ojepuruvéva haꞌehína ojegueraha hag̃ua objeto ñeñongatuhápe.
+
+Jaipyhy techapyrãramo pe archivo configuración `.i18n/htm/ol.yml` oĩva proyecto demostración-pe
+
+```yml
+host:
+seo: true
+out:
+  - s3
+v: //unpkg.com/i18n.site
+x: 18x
+importmap:
+  i/: //unpkg.com/@i18n.site/
+```
+
+Emoambue raẽ `host:` mba’ekuaarã yvategua nde dominio rérape, ha’eháicha `i18n.site` .
+
+Upéi, emohenda `~/.config/i18n.site.yml` ha emoĩ ko’ã ñemboheko :
+
+```yml
+site:
+  i18n.site:
+    s3:
+      - endpoint: s3.eu-central-003.backblazeb2.com
+        ak: # access key
+        sk: # secret key
+        bucket: # bucket name
+        # region:
+```
+
+Pe ñembohekorãme, emoambue `i18n.site` `host:` mbaꞌerepy `.i18n/htm/ol.yml` -pe, ikatu oñemboheko heta mbaꞌeñongatuha `s3` guýpe, ha `region` tenda haꞌehína opcional (heta mbaꞌeñongatuha natekotevẽi omohenda ko tenda).
+
+Upéi emongu’e `i18n.site -n` emoherakuã jey hag̃ua tembiapo.
+
+Emoambue ramo `~/.config/i18n.site.yml` ha emboguejyse jey, eipuru ko tembiapoukapy proyecto ypykuépe ryru’ípe emopotĩ hag̃ua ñemboguejyha caché :
+
+```
+rm -rf .i18n/data/seo .i18n/data/public
+```
+
+## cloudflare Ñemboheko
+
+Dominio réra oñemohendava'ekue [cloudflare](//www.cloudflare.com)
+
+### Umi Regla Conversión Rehegua
+
+Emoĩve umi regla conversión rehegua ojehechaukaháicha ko’ápe:
+
+![](//p.3ti.site/1725436822.avif)
+
+Pe regla código ha’e kóicha, emoambue pe código "i18n.site" nde dominio rérape:
+
+```
+(http.host in {"i18n.site"}) and not (
+substring(http.request.uri.path,-3) in {".js" ".gz"} or
+substring(http.request.uri.path,-4) in {".htm" ".rss" ".css" ".svg" ".ico" ".png" ".xml" ".txt"} or
+substring(http.request.uri.path,-5) in {".html" ".avif" ".json"} or
+ends_with(http.request.uri.path,".webmanifest")
+)
+```
+
+### Umi Regla Caché Rehegua
+
+Emoĩve umi regla caché rehegua kóicha:
+
+![](//p.3ti.site/1725437039.avif)
+
+```
+(substring(http.request.uri.path,-4) in {".htm" ".rss"}) or ends_with(http.request.uri.path,"/sitemap.xml") or ends_with(http.request.uri.path,".xml.gz")
+```
+
+### Umi Regla Ojeredirigi Haguã
+
+Emohenda umi tembiapoukapy redirección rehegua kóicha, emoambue kódigo "i18n.site" nde dominio rérape
+
+![](//p.3ti.site/1725437096.avif)
+
+```
+(http.host in {"i18n.site"}) and not (
+substring(http.request.uri.path,-3) in {".js" ".gz"} or
+substring(http.request.uri.path,-4) in {".htm" ".rss" ".css" ".svg" ".ico" ".png" ".xml" ".txt"} or
+substring(http.request.uri.path,-5) in {".html" ".avif" ".json"} or
+ends_with(http.request.uri.path,".webmanifest")
+) and (
+http.user_agent wildcard "*bot*" or
+http.user_agent wildcard "*spider*" or
+http.user_agent wildcard "*facebookexternalhit*" or
+http.user_agent wildcard "*slurp*" or
+http.user_agent wildcard "curl*" or
+http.user_agent wildcard "*InspectionTool*"
+)
+```
+
+`URL redirect` Eiporavo redirección dinámica, emoambue `/en` redirección rape `concat("/en",http.request.uri.path,".htm")` -pe ñe’ẽ por defecto reipotávape umi motor de búsqueda oike.
+
+## Baidu Ñemboheko Arai Arandu Rehegua
+
+Tekotevẽramo eme’ẽ servicio China continental-pe, ikatu reipuru [Baidu Smart Cloud](//cloud.baidu.com) .
+
+Datokuéra ojegueraha Baidu Object Storage-pe ha oñembojoaju Red de Distribución de Contenidos Baidu-pe.
+
+Upéi ejapo script [servicio edge EdgeJS](//console.bce.baidu.com/cdn/#/cdn/ejs/list) pe kóicha
+
+```js
+var uri=r.uri,p=uri.lastIndexOf('.');
+
+if(
+  p<0 || !/html?|css|rss|avif|md|ico|gz|js|json|png|svg|txt|webmanifest|xml/.test(uri.slice(p+1))
+){
+  const ua = r.headersIn['User-Agent'].toLowerCase();
+  if (/facebookexternalhit|slurp|bot|spider|curl/.test(ua)) {
+    r.return(302,(/baidu|yisou|sogou|360|byte/.test(ua)?'/zh':'/en')+r.uri+'.htm')
+    return
+  }
+  r.uri = '/index.html'
+}
+
+r.respHeader(()=>{
+var t = [];
+r.rawHeadersOut.forEach((i)=>{
+    var out = r.headersOut;
+    var key = i[0].toLowerCase();
+    if(key.startsWith('x-')||key.startsWith('ohc-')){
+        delete out[key]
+    }
+    out['Cache-Control']='max-age='+9e5;
+    ['Content-MD5','Age','Expires','Last-Modified'].forEach((i)=>delete out[i])
+})
+
+})
+```
+
+Emboguejy `Debug` , upéi eñemboguejy Emoherakuã red tuichakue javeve.
+
+![](//p.3ti.site/1725437754.avif)
+
+## Jeporu Tenondegua: Oñemosarambi Tráfico Oñemopyendáva Resolución Regional Rehe
+
+Ome'ẽséramo servicio China continental-pe ha avei oipotáramo `cloudflare` tráfico internacional gratuito, ikatu oiporu `DNS` orekóva resolución regional.
+
+`cloudflare` , [Huawei Cloud DNS](https://www.huaweicloud.com)
+
+Oĩ heta trampa configuración `cloudflare` Ko'ápe oĩ mbovymi punto ojehechakuaava'erã :
+
+### Pe Dominio Réra Oñemohenda Ambue `DNS` -Pe, Mba’éichapa Ojepuruva’erã `cloudflare`
+
+Ñepyrũrã embojoaju peteĩ dominio réra arbitrario `cloudflare` -pe, ha upéi eipuru `SSL/TLS` → dominio réra jeporupyre embojoaju hag̃ua dominio réra tenondegua ko dominio réra ndive.
+
+![](https://p.3ti.site/1725438658.avif)
+
+### `cloudflare R2` Ndaikatúi Ojeike Peteĩ Téra Dominio Jeporupyre Rupive
+
+`R2` `cloudflare` ojeike peteĩ dominio réra oñembohekopyréva rupive, tekotevẽ ojepuru peteĩ mbaꞌeñongatuha mbohapýha oñemohenda hag̃ua archivo estático.
+
+Ko’ápe jagueraha `cloudflare` [backblaze.com](https://www.backblaze.com)
+
+Ejapo peteĩ mba’yru `backblaze.com` -pe, egueraha oimeraẽva vore, eñemboguejy ehesa’ỹijo hag̃ua vore ha ehupyty dominio réra `Friendly URL` , ha’éva `f003.backblazeb2.com` ko’ápe.
+
+![](//p.3ti.site/1725440783.avif)
+
+Emoambue dominio réra `CNAME` guive `f003.backblazeb2.com` peve `cloudflare` -pe ha emboguata proxy.
+
+![](//p.3ti.site/1725440896.avif)
+
+Emoambue `cloudflare` `SSL` -gui → modo cifrado, emohenda `Full`
+
+![](//p.3ti.site/1725438572.avif)
+
+Emoĩve pe regla conversión rehegua ojehechaukaháicha ko’ápe, emoĩ tenonderã (pe peteĩha oguereko prioridad michĩvéva):
+
+![](//p.3ti.site/1725443232.avif)
+
+`Rewrite to` eiporavo dinámico ha emoambue `your_bucketname` en `concat("/file/your_bucketname",http.request.uri.path)` nde cubo rérape.
+
+Avei, `cloudflare` ñembohasa regla yvateguápe, `index.html` oñemoambue `file/your_bucketname/index.html` -pe, ha ambue ñemboheko opyta peteĩcha.
+
+![](//p.3ti.site/1725441384.avif)

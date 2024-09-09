@@ -1,83 +1,89 @@
 # Produktfunksjoner
 
-## `i18`-oversettelser integrert
+## Integrasjon av `i18`-oversettelser
 
-Programmet har innebygd `i18`-oversettelse; se [➔ `i18`-dokument](/i18) for spesifikk bruk.
+Programmet inneholder `i18`-oversettelser; se [➔ `i18`-dokumentasjon](/i18) for spesifikke bruksområder.
 
-## Tilpasser nettleserspråk automatisk
+## Automatisk tilpasning til nettleserspråk
 
-Nettstedets standardspråk vil automatisk tilpasses nettleserens språk.
+Nettsidens standardspråk vil automatisk tilpasses nettleserens språk.
 
 Etter at brukeren manuelt bytter språk, vil brukerens valg bli husket.
 
-Kode: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee).
+Relatert kode: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee).
 
 ## Mobiltilpasning
 
-En perfekt leseopplevelse på mobiltelefoner.
+Nettsiden gir en optimal leseopplevelse også på mobil enheter.
 
 <img src="//p.3ti.site/1721379497.avif" width="350px">
 
-## <a rel=id href="#ha" id="ha"></a> Front-end høy tilgjengelighet
+## <a rel=id href="#ha" id="ha"></a> Front-end tilgjengelighet
 
-`i18n.site` publiserer som standard nettstedets innhold til `npmjs.com`, ved hjelp av [jsdelivr.com](//jsdelivr.com), [unpkg.com](//unpkg.com) og andre `CDN` for å laste innhold fra `npm`.
+`i18n.site` publiserer som standard innholdet til `npmjs.com`, og laster innhold via [jsdelivr.com](//jsdelivr.com), [unpkg.com](//unpkg.com) og andre `CDN`-tjenester for `npm`-innhold.
 
-På dette grunnlaget er det lagt til speilkilder for fastlands-Kina, slik at kinesiske brukere kan ha stabil tilgang, og dermed oppnås **høy front-end-tilgjengelighet**.
+På denne bakgrunn er det lagt til speilkilder for fastlands-Kina, noe som gir kinesiske brukere stabil tilgang og oppnår **høy front-end tilgjengelighet**.
 
-Prinsippet er: Bruk [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) til å fange opp forespørsler, og ved mislykkede forespørsler prøve på nytt på andre `CDN`, og adaptivt bruke det raskeste responsstedet som standard lastekilde.
+Prinsippet er: Bruk av [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) for å fange opp forespørsler, og ved mislykkede forespørsler prøve på nytt på andre `CDN`, og automatisk bruke den raskeste kilde som standard lastingskilde.
 
-Kode: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker).
+Relatert kode: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker).
 
-## Enkeltsideapplikasjon, rask lasting
+## Enkeltsideapplikasjon med rask lasting
 
-Nettstedet bruker en enkeltsideapplikasjonsarkitektur, som laster sider uten å oppdatere og er ekstremt rask.
+Nettsiden bruker en enkeltsideapplikasjonsstruktur, som gir rask lasting uten sideoppdateringer ved sidebytte.
 
 ## Optimert for leseopplevelse
 
-### Brukeren er fornøyd med stilen
+### Throughført design
 
-> Den enkle skjønnheten er perfekt reflektert i designet av denne nettsiden.
-> Den unngår unødvendige dekorer og presenterer innholdet i sin reneste form.
-> Lik et vakkert dikt, kort men rørende.
+> Enkelhetens skjønnhet er perfeksjonert i denne nettsidens design.
+> Den unngår overflødig dekorasjon og presenterer innholdet i sin reneste form.
+> Som et kort, men rørende dikt, berører det menneskers hjerter.
 
 <p style="text-align:right">── I18N.SITE-forfatter</p>
 
 [➔ Klikk her for å se en oversikt over stiler](/i18n.site/md/styl).
 
-### Last inn nettfonter, støtter kinesisk
+### 多语言 `RSS`-abonnement
 
-Nettsiden bruker som standard [Alimama dual-axis variable rounded fonts](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR), [MiSans](https://hyperos.mi.com/font/zh/download/) og andre nettfonter for å gi en ensartet leseopplevelse for brukere på forskjellige plattformer.
+![](//p.3ti.site/1725541085.avif)
 
-Samtidig, for å forbedre lastingstiden, er skrifttypene delt opp basert på ordfrekvens.
+Over er et eksempel på flerspråklig `RSS`-abonnement på `i18n.site` via [inoreader.com](//inoreader.com).
 
-Kode: [github.com/i18n-site/font](https://github.com/i18n-site/font).
+### Innlasting av nettfonter, støtte for kinesisk
 
-### Toppnavigasjon skjules automatisk
+Nettsiden bruker som standard [Alimama dual-axis variable rektangulære fonter](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) og [MiSans](https://hyperos.mi.com/font/zh/download/) blant andre nettfonter for å gi en enhetlig leseopplevelse på tvers av ulike plattformer.
+
+Samtidig, for å forbedre lastingstiden, er skriftene delt opp basert på ordfrekvens.
+
+Relatert kode: [github.com/i18n-site/font](https://github.com/i18n-site/font).
+
+### Automatisk skjult toppnavigasjon
 
 Når du ruller ned, skjules toppnavigasjonen automatisk.
 
 Når du ruller opp, vises den skjulte navigasjonen igjen.
 
-Når musen er i ro, vil den fade ut.
+Når musen er stille, vil navigasjonen tone ut.
 
-I øvre høyre hjørne av navigasjonsfeltet er det en fullskjermknapp som gir en oppslukende leseopplevelse av dokumenter.
+I øvre høyre hjørne av navigasjonsfeltet finnes en fullskjermknapp som gir en mer oppslukende leseopplevelse av dokumenter.
 
 ### Synkronisert fremheving av gjeldende kapittel i innholdsoversikten
 
 Når du ruller til høyre i innholdet, vil innholdsoversikten til venstre samtidig fremheve det kapittelet du leser.
 
-## Kule detaljer
+## Cool detaljer
 
-### Museffekter
+### Museeffekter
 
-Hold musen over knappen på høyre side av toppnavigasjonen for å se kule effekter.
+Når du holder musen over knappen på høyre side av toppnavigasjonen, vil du se kule spesialeffekter.
 
-### Liten `404`-spøkelse
+### Lite `404`-spøkelse
 
-`404`-siden har en søt liten flytende spøkelse, hvis øyne følger musen [➔ Klikk her for å se](/404)
+`404`-siden har en søt liten flytende spøkelse, og øynene følger musen [➔ Klikk her for å se](/404)
 
 ## Kode er åpen kildekode
 
-[Koden er åpen kildekode](/i18n.site/src). Hvis du er interessert i å bidra til utviklingen, er du velkommen til å introdusere deg selv på [e-postlisten](//groups.google.com/u/2/g/i18n-site).
+[Koden er åpen kildekode](/i18n.site/src). Hvis du er interessert i å delta i utviklingen, vennligst introduser deg selv på [e-postlisten](//groups.google.com/u/2/g/i18n-site).
 
-Flere små, men viktige krav som ikke er presserende. Utviklingsteamet vil tildele oppgaver basert på din tekniske ferdigheter, og forbedre utviklingsdokumentasjonen samtidig som kravene blir tildelt.
+Det finnes mange små, men viktige krav som ikke er presserende. Utviklingsteamet vil tildele oppgaver basert på din tekniske ekspertise, og samtidig forbedre utviklingsdokumentasjonen når kravene blir tildelt.

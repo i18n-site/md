@@ -55,25 +55,9 @@ Níl sna comhaid taispeána aistrithe san eolaire `en` ach sampla agus is féidi
 
 Cuir isteach an t-eolaire agus rith `i18` le haistriú.
 
-### Cuir Comhaid Leis an Stór
+Chomh maith leis an aistriúchán, ginfidh an clár an fillteán `.i18n/data` freisin, le do thoil é a chur leis an stór.
 
-Chomh maith le haistriúchán, ginfidh an clár na comhaid seo a leanas freisin, le do thoil iad a chur leis an stór.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Ina measc, tá ábhar `.i18n/cache/.gitignore` mar seo a leanas :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ciallaíonn sé seo go ndéantar neamhaird de gach comhad in eolaire `.i18n/cache/` (seachas `.i18n/cache/.gitignore` ).
-
-Mura bhfuil do bhogearraí rialaithe leagan `git` , déan neamhaird de de réir na cumraíochta seo.
+Tar éis duit an comhad nua a aistriú, ginfear comhad sonraí nua san eolaire seo Cuimhnigh `git add .` .
 
 ## Comhad Cumraíochta
 

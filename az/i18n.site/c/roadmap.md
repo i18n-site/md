@@ -1,11 +1,14 @@
 # Inkişafın Planlaşdırılması
 
-Aşağıdakı mühüm xüsusiyyətlər inkişaf mərhələsindədir:
+## Tamamlandı
+
+- [x] RSS lenti
+- [x] axtarış motorunun optimallaşdırılması
+
+## İnkişaf Mərhələsindədir
 
 - [ ] Sənədlərin çoxsaylı versiyaları arasında keçid
 - [ ] Saf front-end tam mətn axtarışı
-- [ ] RSS lenti
-- [ ] axtarış motorunun optimallaşdırılması
 - [ ] Eyni zamanda məqalə yeniləmələrini əsas sosial mediaya göndərin
 - [ ] E-poçt istifadəçilər üçün / `web push` Məhsul yeniləmələrinə abunə olun
 - [ ] Məqalənin bəndlərinə şərh verin

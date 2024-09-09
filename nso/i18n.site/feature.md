@@ -4,11 +4,11 @@
 
 Lenaneo le na le phetolelo `i18` yeo e agetšwego ka gare, hle bona [➔ tokomane `i18`](/i18) bakeng sa tšhomišo ye e itšego.
 
-## Ka Go Itiriša Swantšha Polelo Ya Sephephediši
+## Ka Go Itiriša Nyalelanya Polelo Ya Sephephediši
 
 Polelo ya go se fetoge ya weposaete e tla swana ka go iketla le polelo ya sephephediši.
 
-Ka morago ga ge modiriši a fetotše maleme ka seatla, kgetho ya modiriši e tla gopolwa.
+Ka morago ga ge modiriši a fetoše maleme ka seatla, kgetho ya mosediriši e tla gopolwa.
 
 Khoutu ye e amanago le [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ Gape go na le phihlelo e phethagetšego ya go bala mo founong ya sellathekeng.
 
 ## <a rel=id href="#ha" id="ha"></a> Front-qetellong phahameng ho fumaneha
 
-`i18n.site` e tla phatlalatša diteng tša sebaka go `npmjs.com` ka go ikemela, ka thušo ya [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) le dikagare tše dingwe tše `CDN` tšeo di imetšwego go `npm` .
+`i18n.site` e tla phatlalatša diteng tša sebaka go `npmjs.com` ka go ikemela, ka thušo ya [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) le dikagare tše dingwe tše ntši `CDN` tšeo di imetšwego go `npm` .
 
 Motheong wo, methopo ya seipone go tšwa nageng-kgolo ya China e ile ya okeletšwa go dumelela badiriši ba China go ba le phihlelelo ye e tsepamego le go fihlelela **go hwetšagala mo go phagamego ga ka pele** .
 
@@ -37,12 +37,18 @@ Webosaete e amogela mohlwaela wa tirišo wa letlakala le tee, go se na go hlabol
 ### Setaele Se Hlamilwego Gabotse
 
 > Botle bja go ba bonolo bo hlathollwa ka mo go phethagetšego ka go tlhamo ya wepe ya weposaete ye.
-> E tlogela mokgabišo wo o sa nyakegego gomme e tšweletša diteng ka sebopego sa yona se se hlwekilego kudu.
+> E tlogela mokgabišo o sa nyakegego gomme e tšweletša diteng ka sebopego sa yona se se hlwekilego kudu.
 > Bjalo ka sereto se sebotse, le ge e le se se kopana, se kgoma dipelo tša batho.
 
 <p style="text-align:right">── Mongwadi I18N.SITE</p>
 
 [➔ Tobetsa mo go bona lenaneo la ditaele](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Seswantšho se se lego ka mo godimo se bontšha maleme a mantši `RSS` o diriša [inoreader.com](//inoreader.com) `i18n.site` .
 
 ### Laela Difonte Inthaneteng, Tšehetsa Sechaena
 
@@ -74,10 +80,10 @@ Bea toeba ya gago godimo ga konope ka lehlakoreng le letona la go sepelasepela g
 
 ### `404` Sepoko Se Senyenyane
 
-Go na le sepoko se senyenyane se se rategago se se phaphametšego letlakaleng la `404` , seo mahlo a sona a tlago sepela ka toeba, [➔ Tobetsa mo go lebelela](/404) , .
+`404` letlakala le na le sepoko se senyenyane se se rategago se se phaphametšego, mahlo a lona a tla sepela ka toeba, [➔ Tobetsa mo go lebelela](/404) , .
 
 ## Khoutu Mohlodi O Bulehileng
 
 [Khoutu ke mohlodi o bulegilego](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Go na le dinyakwa tše ntši tše nnyane tšeo di lego bohlokwa eupša e sego tša ka pela Sehlopha sa tlhabollo se tla abela mešomo ya go itlwaetša go ya ka theknolotši yeo o nago le bokgoni go yona, gomme sa kaonafatša ditokomane tša tlhabollo ge se dutše se abela dinyakwa.
+Go na le dinyakwa tše ntši tše nnyane tšeo di lego bohlokwa eupša e sego tša ka pela Sehlopha sa tlhabollo se tla abela mešomo ya diatla yeo e theilwego godimo ga theknolotši yeo o nago le bokgoni go yona, le go kaonafatša ditokomane tša tlhabollo mola o abela dinyakwa.

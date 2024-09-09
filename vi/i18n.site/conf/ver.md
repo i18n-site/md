@@ -2,7 +2,7 @@
 
 Lấy dự án demo làm ví dụ:
 
-`en/demo2/v` là phiên bản hiện tại của dự án, sẽ hiển thị ở bên phải tên dự án trong cột bên.
+`en/demo2/v` là số phiên bản hiện tại của dự án, số này sẽ được hiển thị ở bên phải tên dự án trong đường viền thanh bên.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

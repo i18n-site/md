@@ -2,7 +2,7 @@
 
 Luați ca exemplu proiectul demonstrativ:
 
-`en/demo2/v` este numărul versiunii curente a proiectului, care va fi afișat în partea dreaptă a numelui proiectului în conturul barei laterale.
+`en/demo2/v` este versiunea curentă a proiectului, afișată pe lângă numele proiectului în bara laterală a contoursului.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

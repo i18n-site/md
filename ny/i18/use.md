@@ -55,25 +55,9 @@ Mafayilo achiwonetsero omasuliridwa mu bukhu la `en` ndi chitsanzo chabe ndipo a
 
 Lowetsani chikwatu ndikuyendetsa `i18` kuti mumasulire.
 
-### Onjezani Mafayilo Kunkhokwe
+Kuphatikiza pa kumasulira, pulogalamuyi ipanganso chikwatu cha `.i18n/data` , chonde yonjezerani kumalo osungirako.
 
-Kuphatikiza pa kumasulira, pulogalamuyi ipanganso mafayilo otsatirawa, chonde onjezani kunkhokwe.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Pakati pawo, zomwe zili mu `.i18n/cache/.gitignore` ndi izi :
-
-```
-**/*
-!**/.gitignore
-```
-
-Izi zikutanthauza kuti mafayilo onse omwe ali mufoda `.i18n/cache/` (kupatula `.i18n/cache/.gitignore` ) sanyalanyazidwa.
-
-Ngati pulogalamu yanu yowongolera mtundu si `git` , chonde inyalanyazani molingana ndi kasinthidwe uku.
+Pambuyo pomasulira fayilo yatsopano, fayilo yatsopano ya data idzapangidwa mu bukhuli Kumbukirani kuwonjezera `git add .` .
 
 ## Fayilo Yosintha
 

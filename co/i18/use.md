@@ -55,25 +55,9 @@ I schedarii demo tradutti in u cartulare `en` sò solu un esempiu è ponu esse s
 
 Entre in u cartulare è eseguite `i18` per traduce.
 
-### Aghjunghjite I Schedari À U Repository
+In più di a traduzzione, u prugramma generarà ancu u cartulare `.i18n/data` , per piacè aghjunghje à u repository.
 
-In più di a traduzzione, u prugramma generarà ancu i seguenti schedarii, per piacè aghjunghje à u repository.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Frà elli, u cuntenutu di `.i18n/cache/.gitignore` hè a siguenti :
-
-```
-**/*
-!**/.gitignore
-```
-
-Questu significa chì tutti i schedari in u cartulare `.i18n/cache/` (eccettu `.i18n/cache/.gitignore` ) sò ignorati.
-
-Se u vostru software di cuntrollu di versione ùn hè micca `git` , per piacè ignurà secondu sta cunfigurazione.
+Dopu avè traduttu u novu schedariu, un novu schedariu di dati serà generatu in `git add .` repertoriu.
 
 ## File Di Cunfigurazione
 

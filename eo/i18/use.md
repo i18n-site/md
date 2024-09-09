@@ -55,25 +55,9 @@ La tradukitaj demo-dosieroj en la dosierujo `en` estas nur ekzemplo kaj povas es
 
 Enigu la dosierujon kaj rulu `i18` por traduki.
 
-### Aldonu Dosierojn Al La Deponejo
+Krom la traduko, la programo ankaŭ generos la `.i18n/data` dosierujon, bonvolu aldoni ĝin al la deponejo.
 
-Krom tradukado, la programo ankaŭ generos la sekvajn dosierojn, bonvolu aldoni ilin al la deponejo.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Inter ili, la enhavo de `.i18n/cache/.gitignore` estas jena :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ĉi tio signifas, ke ĉiuj dosieroj en dosierujo `.i18n/cache/` (krom `.i18n/cache/.gitignore` ) estas ignoritaj.
-
-Se via versio-kontrola programaro ne estas `git` , bonvolu ignori ĝin laŭ ĉi tiu agordo.
+Post tradukado de la nova dosiero, nova datumdosiero estos generita en ĉi tiu dosierujo Memoru aldoni `git add .` .
 
 ## Agorda Dosiero
 

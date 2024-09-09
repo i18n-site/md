@@ -1,83 +1,89 @@
-# A termék jellemzői
+# A Termék Jellemzői
 
 ## `i18` fordítás integrálva
 
-A program beépített `i18` fordítást tartalmaz, részletes használati útmutatóért lásd az [➔ `i18` dokumentumot](/i18).
+A program beépített `i18` fordítással rendelkezik, lásd az [➔ `i18` dokumentumot](/i18) a konkrét felhasználáshoz.
 
 ## A böngésző nyelvének automatikus egyeztetése
 
-A webhely alapértelmezett nyelve automatikusan illeszkedik a böngésző nyelvéhez.
+A webhely alapértelmezett nyelve automatikusan megegyezik a böngésző nyelvével.
 
-Miután a felhasználó manuálisan nyelvet váltott, a rendszer megjegyzi a felhasználó választását.
+Miután a felhasználó manuálisan váltott nyelvet, a rendszer emlékezni fog a felhasználó választására.
 
-Kapcsolódó kód: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee).
+Kapcsolódó kód: [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
-## Mobil eszközökhöz történő alkalmazkodás
+## Mobil eszközök adaptációja
 
-Mobil eszközökön is tökéletes olvasási élményet nyújt.
+A mobiltelefonon is tökéletes olvasási élmény.
 
 <img src="//p.3ti.site/1721379497.avif" width="350px">
 
-## <a rel=id href="#ha" id="ha"></a> Előtér magas elérhetősége
+## <a rel=id href="#ha" id="ha"></a> A frontend magas rendelkezésre állása
 
-`i18n.site` alapértelmezés szerint a webhely tartalmát a `npmjs.com`-ra teszi közzé, és a tartalmat a [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) és más `CDN`-ek segítségével tölti be, amelyek a `npm`-on elérhetőek.
+`i18n.site` alapértelmezés szerint publikálja a webhely tartalmát a `npmjs.com`-on, és a [jsdelivr.com](//jsdelivr.com), [unpkg.com](//unpkg.com) és más `CDN`-eken keresztül tölti be az `npm`-on található tartalmakat.
 
-Ezen felül, kínai tükörforrásokat adtunk hozzá, hogy a kínai felhasználók számára is stabil hozzáférést biztosítsunk, elérve ezzel a **front-end magas elérhetőségét**.
+Ennek alapján a szárazföldi Kínából származó tükörforrásokat adták hozzá, hogy a kínai felhasználók is stabil hozzáférést biztosítsanak, és **magas szintű előtér-elérhetőséget** érjenek el.
 
-Az elv: a [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) segítségével fogjuk a kéréseket, és ha egy kérés meghiúsul, más `CDN`-eken próbáljuk újra, és a leggyorsabban válaszoló forrást használjuk alapértelmezett betöltési forrásként.
+Az elv a következő: a kéréseket [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) fogja el, és ha a kérés sikertelen, más `CDN`-eken próbálkozik újra, adaptívan engedélyezve a leggyorsabban válaszoló forráshelyet alapértelmezett betöltési forrásként.
 
-Kapcsolódó kód: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker).
+Kapcsolódó kód: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker)
 
-## Egyoldalas alkalmazás, gyors betöltés
+## Egyoldalas alkalmazás, rendkívül gyors betöltéssel
 
-A webhely egyoldalas alkalmazás架构 használ, oldalváltáskor nem történik frissítés, így gyorsan betölt.
+A webhely egyoldalas alkalmazásarchitektúrát alkalmaz, oldalváltáskor nincs frissítés, és rendkívül gyors a betöltés.
 
-## Olvashatóságra optimalizálva
+## Olvasási élményre optimalizálva
 
-### Rafinált stílus
+### Jól megtervezett stílus
 
-> A egyszerűség szépsége tökéletesen megjelenik a weboldal tervezésében.
-> Elhagyja a fölösleges díszítéseket, és a tartalmat a legtisztább formában mutatja be.
-> Mint egy szép vers, rövid, de megérinti az emberek szívét.
+> Az egyszerűség szépsége tökéletesen értelmezhető ennek a weboldalnak a webdesignjában.
+> Elhagyja a felesleges díszítést, és a tartalmat a legtisztább formában jeleníti meg.
+> Mint egy szép vers, bár rövid, megérinti az emberek szívét.
 
-<p style="text-align:right">── I18N.SITE szerzője</p>
+<p style="text-align:right">── I18N.SITE szerző</p>
 
-[➔ Kattintson ide a stílusok megtekintéséhez](/i18n.site/md/styl).
+[➔ Kattintson ide a stílusok listájának megtekintéséhez](/i18n.site/md/styl).
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+A fenti képen többnyelvű `RSS` előfizetés `i18n.site`-ról [inoreader.com](//inoreader.com)-on látható.
 
 ### Online betűtípusok betöltése, kínai nyelv támogatása
 
-Alapértelmezésben a [Alimama kéttengelyes változó téglalap alakú betűtípus](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) és [MiSans](https://hyperos.mi.com/font/zh/download/) online betűtípusok aktívak a weboldalon, hogy egységes olvasási élményt nyújtsanak különböző platformokon.
+A weboldal alapértelmezés szerint [az Alimama kéttengelyes változó téglalap alakú betűtípusok](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) [MiSans](https://hyperos.mi.com/font/zh/download/) és más online betűtípusok használatát támogatja, hogy egységesítsék a különböző platformokon lévő felhasználók olvasási élményét.
 
-Ugyanakkor a betöltési sebesség javítása érdekében a betűtípusokat a szógyakorisági statisztikák alapján szeleteljük.
+Ugyanakkor a betöltési sebesség javítása érdekében a betűtípusokat a szógyakorisági statisztikák alapján szeletelik.
 
-Kapcsolódó kód: [github.com/i18n-site/font](https://github.com/i18n-site/font).
+Kapcsolódó kód: [github.com/i18n-site/font](https://github.com/i18n-site/font)
 
-### Felső navigáció automatikus elrejtése
+### A felső navigáció automatikus elrejtése
 
-Lenyílt görgoláskor a felső navigáció automatikusan elrejtődik.
+Görgessen le, és a felső navigáció automatikusan elrejtődik.
 
-Felfelé görgoláskor a rejtett navigáció újra megjelenik.
+Görgessen felfelé, és a rejtett navigáció újra megjelenik.
 
 Ha az egér nem mozog, az elhalványodik.
 
-A navigációs sáv jobb felső sarkában egy teljes képernyős gomb található, amely teljesen elmerülő dokumentumolvasási élményt nyújt.
+A navigációs sáv jobb felső sarkában található egy teljes képernyős gomb, amely teljesen elmerülő dokumentumolvasási élményt nyújt.
 
-### Az aktuális fejezet szinkronizált kiemelése az összefoglalóban
+### A jelenlegi fejezet szinkronizált kiemelése az összefoglalóban
 
-Ha a jobb oldali tartalom görgetése közben, a bal oldali összefoglaló szinkronizáltan kiemeli az aktuális fejezetet.
+Ha a jobb oldali tartalmat görgetik, a bal oldali vázlat egyidejűleg kiemeli az éppen olvasott fejezetet.
 
-## Különleges részletek
+## Kiváló részletek
 
-### Egér effektusok
+### Egérhatású effektek
 
-Vidd az egeret a felső navigációs panel jobb oldalán található gomb fölé, hogy meglásd a lenyűgöző effektusokat.
+Vidd az egeret a felső navigációs panel jobb oldalán található gomb fölé, hogy megtekinthesd a lenyűgöző speciális effektusokat.
 
-### `404` kis szellem
+### `404` kis lélek
 
-A `404` oldalon egy aranyos kis lebegő szellem található, amelynek szeme követi az egeret, [➔ kattintson ide a megtekintéséhez](/404)
+A `404` oldalon egy aranyos kislélek lebeg, amely szemei az egér mozgásával követik, [➔ Kattintson ide a megtekintéséhez](/404)
 
-## 代码开源
+## Forráskód nyílt
 
-[A kód nyílt forráskód](/i18n.site/src). Ha érdekel a fejlesztés, köszönöm, ha bemutatkozol a [levelezőlistán](//groups.google.com/u/2/g/i18n-site).
+[A kód nyílt forrású](/i18n.site/src). Ha érdekel, hogy részt vegyél a fejlesztésben, kérlek, mutatkozz be a [levelezőlistán](//groups.google.com/u/2/g/i18n-site).
 
 Sok apró, de nem sürgős követelmény van.

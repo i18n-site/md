@@ -1,11 +1,14 @@
 # Þróunaráætlun
 
-Eftirfarandi mikilvægir eiginleikar eru í þróun:
+## Lokið
+
+- [x] RSS straumur
+- [x] leitarvélabestun
+
+## Í Þróun
 
 - [ ] Skipt á milli margra útgáfur af skjölum
 - [ ] Hrein framhlið fulltextaleit
-- [ ] RSS straumur
-- [ ] leitarvélabestun
 - [ ] Ýttu samtímis greinaruppfærslum á helstu samfélagsmiðla
 - [ ] Tölvupóstur í boði fyrir / `web push` Gerast áskrifandi að vöruuppfærslum
 - [ ] Athugasemdir við greinargreinar

@@ -20,7 +20,7 @@ Ir arī lieliska lasīšanas pieredze mobilajā tālrunī.
 
 ## <a rel=id href="#ha" id="ha"></a> Priekšgala augsta pieejamība
 
-`i18n.site` pēc noklusējuma publicēs vietnes saturu `npmjs.com` , [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) un citu `CDN` saturu, kas ielādēts `npm` .
+`i18n.site` pēc noklusējuma publicēs vietnes saturu `npmjs.com` , [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) un citu vairāku `CDN` saturu, kas ielādēts `npm` .
 
 Pamatojoties uz to, tika pievienoti spoguļu avoti no kontinentālās Ķīnas, lai nodrošinātu Ķīnas lietotājiem stabilu piekļuvi un **augstu priekšgala pieejamību** .
 
@@ -37,12 +37,18 @@ Tīmekļa vietne izmanto vienas lapas lietojumprogrammu arhitektūru, bez atsvai
 ### Labi Izstrādāts Stils
 
 > Vienkāršības skaistums ir lieliski interpretēts šīs vietnes tīmekļa dizainā.
-> Tas atsakās no nevajadzīgas dekorācijas un sniedz saturu tīrākajā formā.
+> Tas atsakās no liekas dekorācijas un satur saturu tā tīrākajā formā.
 > Kā skaists dzejolis, lai arī īss, tas aizkustina cilvēku sirdis.
 
 <p style="text-align:right">I18N.SITE Autors</p>
 
 [➔ Noklikšķiniet šeit, lai skatītu stilu sarakstu](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Augšējā attēlā ir redzama vairāku valodu `RSS` , izmantojot abonementu `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Ielādējiet Tiešsaistes Fontus, Atbalstiet Ķīniešu Valodu
 
@@ -80,4 +86,4 @@ Novietojiet peles kursoru virs pogas augšējās navigācijas joslas labajā pus
 
 [Kods ir atvērtā koda](/i18n.site/src) Ja vēlaties piedalīties izstrādē, lūdzu, iepazīstieties ar sevi [adresātu sarakstā](//groups.google.com/u/2/g/i18n-site) .
 
-Ir daudzas nelielas prasības, kas ir svarīgas, bet ne steidzamas. Izstrādes komanda piešķirs prakses uzdevumus atbilstoši jūsu pārvaldāmajai tehnoloģijai un uzlabos izstrādes dokumentus, nosakot prasības.
+Ir daudzas nelielas prasības, kas ir svarīgas, bet ne steidzamas. Izstrādes komanda uzdos praktiskus uzdevumus, pamatojoties uz jums labi pārvaldāmajām tehnoloģijām, un, nosakot prasības, uzlabos izstrādes dokumentus.

@@ -1,11 +1,14 @@
 # Wiñariy Yuyaykunata Rurana
 
-Kay importante ruwaykunan ruwakushan:
+## Tukuchisqa
+
+- [x] RSS nisqa mikhuy
+- [x] maskanapaq motor allinchay
+
+## Wiñariypi
 
 - [ ] Qillqakunap achka layakunapura tikray
 - [ ] Ch'uya ñawpaq-tukuy hunt'asqa qillqa maskay
-- [ ] RSS nisqa mikhuy
-- [ ] maskanapaq motor allinchay
 - [ ] Huk pachallapi qillqa musuqyachiykunata hatun social medios kaqman tanqay
 - [ ] Correo electrónico usuariokunapaq kan / `web push` Suscribirse a producto actualizaciones
 - [ ] Artículo parrafokunamanta rimariy

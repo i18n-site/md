@@ -1,12 +1,15 @@
 # Kehityssuunnitelma
 
-Alla olevat tärkeät ominaisuudet ovat kehityksessä:
+## Valmis
 
-- [ ] Dokumenttien useiden versioiden vaihtaminen
-- [ ] Puhtaasti front-endin täysitekstihaku
-- [ ] RSS-tilauslähde
-- [ ] 搜索引擎优化
-- [ ] Synkronoitu artikkelien päivitysten lähettäminen suurille sosiaalisen median alustoille
-- [ ] 用户可用邮件 /`web push`订阅产品更新
+- [x] RSS-syöte
+- [x] hakukoneoptimointi
+
+## Kehityksessä
+
+- [ ] Asiakirjojen useiden versioiden vaihtaminen
+- [ ] Puhdas frontend-kokotekstihaku
+- [ ] Artikkelipäivitysten synkronoitu lähetys suurille sosiaalisen median alustoille
+- [ ] Sähköpostitse / `web push` -tilauksella tuotepäivitykset
 - [ ] Artikkelikohtaisten kappaleiden kommentointi
-- [ ] Integroitu paikallinen dokumenttien muutosten valvonta ja esikatselujen luominen ilman manuaalista käännöstä ja NGINX:n käyttöä
+- [ ] Paikallisten asiakirjojen integrointi muutosten seurantaan ja esikatselujen luomiseen ilman manuaalista käännöstä ja NGINX:n käyttöä

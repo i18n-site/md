@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Jupanak taypinx `upload` ukat `ext:` configuración elemento ukax `.md` ukakiw uñt’ayasiñatak apkatasini sañ muni.
@@ -115,12 +117,12 @@ Aka tuqinxa, `menu: NB demo1,demo2` , ukax `NB` plantilla apnaqaña sañ muni, u
 `NB` ukax parámetro `demo1,demo2` ukampiw arktasi.
 `demo1,demo2` : ** `,` **
 
-Uka pata parámetros ukanakatakix directorio índice arxiwux akhamawa:
+Aka pata parámetros ukatakixa, correspondiente directorio índice qillqataxa akanakawa:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### TOC Tabla De Contenidos Ukax Mä Índice Ukankiwa
+#### TOC Ukax Tabla De Contenidos Ukan Uñacht’ayatawa
 
 `i18n.site` ukaxa `js` plug-in `.i18n/hook/after.tran/TOC.js` uka demo almacén ukanxa phuqhañapawa `doc` directorio índice archivo uñakipañataki `TOC` plantilla configuración ukarjama `json` directorio esquema lurañataki.
 
@@ -141,7 +143,7 @@ news/README.md
   news/begin.md
 ```
 
-##### Niveles Ukanaka Uñacht’ayañatakixa Indentación Ukampiwa Apnaqaña
+##### Indentación Ukampi Niveles Uñacht’ayañataki
 
 Nayrïr fila `en/blog/TOC` patat `README.md` akham jamuq uñacht’ayat `i18n.site` ukar uñtasitawa, ukax proyecto sutiwa.
 
@@ -152,7 +154,7 @@ Jutïr pä chimpunakax kunjamtix pantalla uñacht’ayaski ukhamarjamawa.
 `news/README.md` ukax `News` , 1 ukar uñtasitawa.
 `news/begin.md` `Our Product is Online !` ukar uñtasitawa
 
-`TOC` archivonakax indentados ukanakaw uñacht’ayasi, ukax esquema ukan jerárquico ukan mayacht’asitapa uñacht’ayañatakiw ukat walja niveles ukan indentación ukar yanapt’añataki.
+`TOC` archivonakax indentado ukhamawa, ukax esquema ukan jerárquico ukan mayacht’asiwip uñacht’ayañataki, walja niveles ukan indentación ukar yanapt’añataki, ukatx línea comentarios ukanakax `#` ukamp qalltatawa.
 
 ##### Nivel Awki Taykax Titulo Ukakiw Qillqt’i, Janiw Contenido Ukakiti.
 

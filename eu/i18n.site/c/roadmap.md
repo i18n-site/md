@@ -1,11 +1,14 @@
 # Garapenaren Plangintza
 
-Honako ezaugarri garrantzitsu hauek garatzen ari dira:
+## Osatua
+
+- [x] RSS jarioa
+- [x] bilatzaileen optimizazioa
+
+## Garapenean
 
 - [ ] Dokumentuen hainbat bertsioren artean aldatzea
 - [ ] Frontend-eko testu osoko bilaketa hutsa
-- [ ] RSS jarioa
-- [ ] bilatzaileen optimizazioa
 - [ ] Aldi berean, bidali artikuluen eguneraketak sare sozial nagusietara
 - [ ] / posta elektronikoa `web push` Harpidetu produktuen eguneraketetara
 - [ ] Artikuluen paragrafoak komentatu

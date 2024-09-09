@@ -2,7 +2,7 @@
 
 Veja o projeto de demonstração como exemplo:
 
-`en/demo2/v` é o número da versão atual do projeto, que será exibido à direita do nome do projeto na barra lateral.
+`en/demo2/v` é o número da versão atual do projeto, que será exibido ao lado direito do nome do item no esboço da barra lateral.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

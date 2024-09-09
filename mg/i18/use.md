@@ -55,25 +55,9 @@ Ohatra fotsiny ireo rakitra demo voadika ao amin'ny lahatahiry `en` ary azo esor
 
 Ampidiro ny lahatahiry ary mihazakazaka `i18` handika.
 
-### Ampio Ny Rakitra Amin'ny Tahiry
+Ho fanampin'ny fandikan-teny, hamokatra ny lahatahiry `.i18n/data` ihany koa ny programa, azafady ampio ao amin'ny tahiry.
 
-Ho fanampin'ny fandikana, hamokatra ireto rakitra manaraka ireto ihany koa ny programa, azafady ampio ao amin'ny tahiry.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Anisan'izany ny votoatin'ny `.i18n/cache/.gitignore` dia toy izao manaraka izao :
-
-```
-**/*
-!**/.gitignore
-```
-
-Midika izany fa tsy raharahaina ny rakitra rehetra ao amin'ny lahatahiry `.i18n/cache/` (afa-tsy `.i18n/cache/.gitignore` ).
-
-Raha tsy `git` ny logiciel fanaraha-maso ny dikan-nao dia aza tsinontsinoavina araka ity tefy ity.
+Aorian'ny fandikana ny rakitra vaovao dia hisy rakitra data vaovao hatsangana ao amin'ity lahatahiry `git add .` .
 
 ## Fikirakirana
 

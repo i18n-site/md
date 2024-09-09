@@ -1,23 +1,21 @@
-# i18n.site: Pusztán statikus többnyelvű webhelykeret
+# i18n.site: Pusztán statikus többnyelvű weboldal-keretrendszer
 
-`i18n.site` többnyelvű, tisztán statikus dokumentumállomás-generátor.
+`i18n.site` többnyelvű, kizárólag statikus dokumentációs oldal-generátor.
 
-Már alapvetően használható, de még mindig fontos új funkciókat fejlesztünk. Részletekért lásd a [fejlesztési tervet](/i18n.site/c/roadmap).
+## Bevezetés
 
-Kérjük, kattintson <button onclick="mailsub()">ide</button> az e-mailre a termékfrissítések feliratkozáshoz, és <button onclick="webpush()">ide</button> a böngésző push értesítések engedélyezéséhez. Értesítést küldünk a termékfrissítésekről.
+`i18n.site` egy dokumentumoldal-generátor, és egyúttal webfejlesztési keretrendszer is.
 
-[i18n-site.bsky.social](https://bsky.app/profile/i18n-site.bsky.social) közösségi fiókjainkat / [X.COM: @i18nSite](https://x.com/i18nSite)
+Egy új weboldal-fejlesztési paradigmája, amely a `Markdown` középpontba helyezésével és előtér-komponensek használatával fokozza az interaktivitást.
 
-## Előszó
+Minden előtér-komponens egy önállóan telepíthető csomag.
 
-`i18n.site` a webfejlesztési modell újragondolása.
+A front-end és back-end szétválasztása alapján a statikus tartalom és a dinamikus adatok szétválasztása is megvalósul.
 
-Ez nem csak egy dokumentumállomás-generátor, hanem egy webfejlesztési keretrendszer is.
+Az Ön által látogatott [i18n.site](/) ezen keretrendszerre épül (beleértve a felhasználói rendszert, a számlázási rendszert, az e-mail-feliratkozást stb.).
 
-Egy új webfejlesztési paradigmája, amely a `Markdown` középpontba helyezésével és előtér komponensek beépítésével teszi interaktívvá a weboldalakat.
+## Maradjon kapcsolatban
 
-Minden előtér komponens egy külön telepíthető csomag.
+Kérjük, <button onclick="mailsub()">kattintson ide e-mail-feliratkozáshoz</button> és <button onclick="webpush()">engedélyezze a böngésző értesítéseit</button>, hogy értesítést kapjon a termékfrissítésekről.
 
-A front-end és back-end szétválasztásán alapulva a statikus tartalom és a dinamikus adatok szétválasztása is megvalósul.
-
-Az Ön által látogatott [i18n.site](/) ezen a kereten alapul (és tartalmazza a felhasználói rendszert, a számlázási rendszert, az e-mail feliratkozást stb.).
+Kövesse közösségi fiókjainkat: [X.COM: @i18nSite](https://x.com/i18nSite) / [i18n-site.bsky.social](https://bsky.app/profile/i18n-site.bsky.social).

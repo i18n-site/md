@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Faatasi ai ma i latou, `upload` i `ext:` mea faʻatulagaina o lona uiga e naʻo `.md` o le a faʻapipiʻiina pe a faʻasalalau.
@@ -55,11 +57,11 @@ A mae'a le fa'aliliuga, e mafai ona e suia le tau o le fa'aliliuga `yml` , ae au
 
 O le `Md` template ma le `Toc` template e tutusa ma o loʻo faʻaogaina uma e tuʻu ai se faila `Markdown` e tasi. Ae o le `Md` template e le o faʻaalia le otootoga i le itu.
 
-E mafai ona e suia `use: Toc` i le faʻatulagaga o loʻo i luga i le `use: Md` , toe faʻataʻitaʻi `i18n.site` i le `md` directory, ona asiasi lea i le atinaʻe faʻaaliga URL e mataʻituina suiga i luga o le itulau autu.
+E mafai ona e suia `use: Toc` i le faʻatulagaga o loʻo i luga i le `use: Md` , toe faʻasolo `i18n.site` i le `md` directory, ona asiasi lea i le atinaʻe faʻaaliga URL e mataʻituina suiga i luga o le itulau autu.
 
 ### Fa'atonu Uta E Aunoa Ma Le Fa'atulagaina O Ala
 
-Afai e maua se auala patino ma o lona ala muamua e le o faʻatulagaina i le `nav:` , o le `MarkDown` faila e fetaui ma le ala o le a utaina e ala i le le mafai ona faʻaaogaina ma faʻaaogaina le `Md` template.
+Afai e maua se auala patino ma o lona ala muamua e le o faʻatulagaina i le `nav:` , o le `MarkDown` faila e fetaui ma le ala o le a utaina e ala i le le mafai ona faʻaaogaina ma faʻaaoga le `Md` template.
 
 Mo se faʻataʻitaʻiga, afai e maua `/test` , ma faʻapipiʻi `nav:` e aunoa ma lenei auala, ma o le gagana itulau o le Igilisi (code `en` ), `/en/test.md` o le a utaina e ala i le faaletonu ma faʻaaogaina e faʻaaoga ai le mamanu `Md` .
 
@@ -67,7 +69,7 @@ Afai e le o iai `/en/test.md` lenei faila, o le a faʻaalia le itulau faʻaleton
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
-### `use: Doc` , Faʻataʻitaʻiga Faila-Faila
+### `use: Doc` , Faʻataʻitaʻiga Faila-Tele
 
 I le faila faatulagaina:
 
@@ -90,7 +92,7 @@ Fa'ailoa mai le fa'aogaina o `Doc` mo le fa'ata'ita'iga fa'atusa.
     use: Doc
 ```
 
-##### A Gaogao Le Url, E Fa'aletonu Ile Tau Ole i18n
+##### A Gaogao Le Url, E Faaletonu Ile Tau Ole i18n
 
 Afai e le tusia `url` , e le mafai e `url` le tau o le `i18n` E aoga foi lenei tulafono mo isi mamanu.
 
@@ -115,14 +117,14 @@ O iinei, `menu: NB demo1,demo2` , o lona uiga o le faʻaaogaina o le `NB` faʻat
 `NB` o lo'o soso'o ma le parakalafa `demo1,demo2` na pasi atu i ai.
 Manatua : ** E leai ni avanoa ** i luma ma pe a uma le koma `,` i le `demo1,demo2` .
 
-O le faila fa'asinomaga fa'asinotonu mo ta'iala o lo'o i luga o le:
+Mo fa'amaufa'ailoga o lo'o i luga, o le faila fa'asinomaga fa'atonu e fetaui ma:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### TOC Fa'asinomaga O Mea I Totonu
+#### TOC Fa'asologa O Mataupu Fa'asino Igoa
 
-`i18n.site` o le a faʻatinoina `js` plug-in `.i18n/hook/after.tran/TOC.js` i totonu o le faleteuoloa demo e faitau ai le `doc` directory index file e fetaui ma le `TOC` template configuration e faʻatupu ai le `json` directory outline.
+`i18n.site` o le a faʻatinoina `js` plug-in `.i18n/hook/after.tran/TOC.js` i totonu o le faleteuoloa demo e faitau ai le `doc` directory index file e fetaui ma le `TOC` template configuration e gaosia ai le `json` directory outline.
 
 Afai e te fa'aogaina `doc` fa'ata'ita'iga, e tatau ona i ai lenei fa'apipi'i.
 
@@ -152,11 +154,11 @@ O isi laina e lua o loʻo faʻaalia i le faʻamalama o loʻo i lalo.
 `news/README.md` e tutusa ma `News` ,
 `news/begin.md` e tutusa ma `Our Product is Online !`
 
-`TOC` faila o loʻo faʻapipiʻiina e faʻaalia ai le sootaga faʻatulagaina o le otootoga ma lagolagoina le faʻaogaina o le tele o tulaga.
+`TOC` faila o loʻo faʻapipiʻiina e faʻaalia ai le vaʻaiga faʻatulagaina o le otootoga, lagolago faʻasologa o tulaga maualuga, ma faʻamatalaga laina e amata i le `#` .
 
 ##### O Le Tulaga Matua E Na'o Le Ulutala E Tusia, Ae Le O Le Anotusi.
 
-Afai e tele ni vaega o fa'ailoga, e na'o le ulutala matua e tusia ae le o le anotusi. A leai, o le a fa'afefeteina lomitusi.
+A tele la'asaga o fa'ailoga, e na'o le ulutala e tusia e matua ae le o le anotusi. A leai, o le a fa'afefeteina lomitusi.
 
 ##### Poloketi README.md
 
@@ -186,7 +188,7 @@ Tagata fa'aoga mai Saina, Iapani ma Korea, fa'amolemole maitau e tatau ona e fa'
 
 Mo se fa'ata'ita'iga, afai o le gagana fa'aSaina, o `TOC` i luga o le `zh/blog/TOC` .
 
-Afai e suia le gagana fa'apogai, e tatau ona e fa'aputuina le `TOC` faila o se gagana fa'apitoa i le poloketi i se isi gagana.
+Afai e suia le gagana autu, e te manaʻomia le faʻaputuina o faila `TOC` o se gagana patino i le poloketi i se isi gagana.
 
 E mafai ona e va'ai i tulafono nei:
 

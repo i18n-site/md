@@ -55,25 +55,9 @@ O faila fa'aliliuga fa'aliga i le `en` directory ua na'o se fa'ata'ita'iga ma e 
 
 Ulufale i le lisi ma fa'agasolo `i18` e fa'aliliu.
 
-### Faaopoopo Faila I Le Fale Teu Oloa
+I le faʻaopoopoga i le faʻaliliuga, o le polokalama o le a faʻatupuina foi le `.i18n/data` faila, faʻamolemole faʻaopoopo i le fale teu oloa.
 
-I le faaopoopo atu i le faaliliuga, o le polokalama o le a gaosia foi faila nei, faamolemole faaopoopo i latou i le fale teu oloa.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Faatasi ai ma i latou, o le anotusi o `.i18n/cache/.gitignore` o loʻo mulimuli mai :
-
-```
-**/*
-!**/.gitignore
-```
-
-O lona uiga o faila uma i le directory `.i18n/cache/` (sei vagana ai `.i18n/cache/.gitignore` ) e le amanaiaina.
-
-Afai e le `git` lau polokalama fa'atonutonu fa'asologa, fa'amolemole le amana'ia e tusa ai ma lenei fa'atulagaga.
+A uma ona fa'aliliuina le faila fou, o le a fa'atupuina se faila fa'amaumauga fou i totonu o lenei fa'atonuga `git add .`
 
 ## Faiga Faila
 

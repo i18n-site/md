@@ -17,13 +17,15 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Waxaa ka mid ah, `upload` ilaa `ext:` shayga qaabeynta macnaheedu waa in `.md` kaliya la soo gelin doono marka la daabacayo.
+Waxaa ka mid ah, `upload` ilaa `ext:` shay qaabeynta macnaheedu waa in `.md` kaliya la soo gelin doono marka la daabacayo.
 
 ## nav Navigation Sare
 
-`nav:` , oo u dhiganta liiska navigation menu ee sare ee bogga guriga.
+`nav:` , oo u dhiganta liiska navigation ee ku yaal xagga sare ee bogga guriga.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
@@ -47,7 +49,7 @@ Ka dib marka turjumaada la dhammeeyo, waxaad wax ka beddeli kartaa qiimaha tarju
 
 `use: Toc` waxa ay ka dhigan tahay in la isticmaalayo `Toc` template, kaas oo keenaya hal `Markdown` template.
 
-`TOC` waa soo gaabinta `Table of Contents` Marka templateka la sameeyo, dulucda `Markdown` faylkan waxa lagu soo bandhigi doonaa dhinaca.
+`TOC` waa soo gaabinta `Table of Contents` Marka qaab-dhismeedkan la sameeyo, dulucda `Markdown` faylka waxa lagu soo bandhigi doonaa dhinaca dhinaceeda.
 
 `url:` waxay u taagan tahay dariiqa faylka `Markdown` ( `/` waxay u dhigantaa tusaha xididka `/README.md` , magaca faylkan wuxuu u baahan yahay horgale horgale ah iyo xaraf yar).
 
@@ -55,7 +57,7 @@ Ka dib marka turjumaada la dhammeeyo, waxaad wax ka beddeli kartaa qiimaha tarju
 
 Habka `Md` iyo template `Toc` waa isku mid oo labadaba waxaa loo isticmaalaa in lagu sameeyo hal `Markdown` fayl. Laakiin `Md` da qaab-dhismeedka ma muujinayo dulucda dhinaca bar-side.
 
-Waxaad wax ka beddeli kartaa `use: Toc` qaabaynta sare ku jirta `use: Md` , ku socodsii `i18n.site` tusaha `md` mar kale, ka dibna booqo URL-ka horu marinta si aad u ilaaliso isbeddelada bogga hore.
+Waxaad wax ka beddeli kartaa `use: Toc` qaabeynta sare waxaadna ka dhigi kartaa `use: Md` , ku socodsii `i18n.site` tusaha `md` mar kale, ka dibna booqo URL-ka horu marinta si aad u ilaaliso isbeddelada bogga hore.
 
 ### Soo Dejinta Asalka Ah Iyada Oo Aan Lahayn Dariiqa Qaabeynta
 
@@ -90,7 +92,7 @@ Waxay tusinaysaa adeegsiga `Doc` qaab-samaynta.
     use: Doc
 ```
 
-##### Marka Url-Ku Madhan Yahay, Waxa Ay Hoos U Dhigtaa Qiimaha i18n
+##### Marka Url-Ku Madhan Yahay, Waxa Ay Ku Beddeshaa Qiimaha i18n
 
 Haddii `url` aan la qorin, `url` waxay ku dhacaysaa qiimaha `i18n` Xeerkani wuxuu sidoo kale dhaqan galayaa qaabab kale.
 
@@ -112,10 +114,10 @@ Halkan, `menu: NB demo1,demo2` , waxay ka dhigan tahay isticmaalka `NB` template
 
 `NB` , oo ah soo gaabinta `Name Breif` , waxay la macno tahay in liiska hoos-u-dhaca uu muujin karo magaca iyo hal-ku-dhigga mashruuca.
 
-`NB` waxaa raacaya halbeegga `demo1,demo2` ee loo gudbiyay.
+`NB` waxaa ku xiga halbeegga `demo1,demo2` ee loo gudbiyay.
 `demo1,demo2` : ** `,` **
 
-Faylka tusaha u dhigma ee cabbirrada sare waa:
+Halbeegyada sare, faylka tusaha u dhigma waa:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -128,7 +130,7 @@ Haddii aad isticmaasho `doc` template, waa inaad haysataa fur-in.
 
 Haddii aad mashruuca `i18n.site` ka soo saarto gal madhan, xasuuso inaad koobiyayso mashruuca demo `.i18n` hagahaaga.
 
-Qaabka `Doc` wuxuu soo bandhigayaa shaxda dulucda dulucda tusmada ku salaysan `json` la soo saaray.
+Qaabka `Doc` wuxuu soo bandhigayaa shaxda tusmada oo ku salaysan `json` la soo saaray.
 
 ##### Sharaxaada Nuxurka Oo Faahfaahsan
 
@@ -152,11 +154,11 @@ Labada sadar ee xiga waa sida ka muuqata sawirka hoose.
 `news/README.md` waxay u dhigantaa `News` ,
 `news/begin.md` waxay u dhigantaa `Our Product is Online !`
 
-`TOC` faylasha ayaa la jeexjeexay si ay u muujiyaan xidhiidhka kala sareynta ee dulucda oo ay taageeraan galitaanka heerar badan.
+Faylasha `TOC` ayaa la jeexjeexay si ay u muujiyaan xiriirka kala sareynta ee dulucda, taageer gelinta heerar badan, iyo faallooyinka xariiqa ka bilaabma `#` .
 
 ##### Heerka Waalidku Waxa Uu Qoraa Cinwaanka Oo Kaliya, Ee Ma Qoraayo Waxa Ku Jira.
 
-Marka ay jiraan heerar kala duwan oo soo gelid ah, heerka waalidku waxa uu qoraa cinwaanka oo kaliya ee ma qoro waxa ku jira. Haddii kale, qoraal-gacmeedku wuu khalkhalayaa.
+Marka ay jiraan heerar kala duwan oo soo gelis ah, heerka waalidku waxa uu qoraa cinwaanka oo kaliya ee ma qoro waxa ku jira. Haddii kale, qoraal-gacmeedku wuu khalkhalayaa.
 
 ##### Mashruuca README.md
 

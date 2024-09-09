@@ -2,7 +2,7 @@
 
 Le fichier de configuration pour `i18n.site` est `.i18n/conf.yml`.
 
-À l'exception des paramètres [`i18`](/i18) , `ignore:` et `i18n:` , le fichier de configuration est le suivant :
+Sauf pour les paramètres [`i18`](/i18) , `ignore:` et `i18n:` , le fichier de configuration est comme suit :
 
 ```yaml
 upload:
@@ -17,17 +17,19 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Entre autres, la configuration `upload` avec `ext:` signifie que seuls les fichiers `.md` seront téléchargés lors de la publication.
+Entre autres, l'option `upload` avec `ext:` spécifie que seuls les fichiers `.md` seront téléchargés lors de la publication.
 
-## Navigation supérieure
+## Barre de navigation supérieure
 
 Les options de configuration `nav:` correspondent au menu de navigation en haut de la page d'accueil.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Parmi eux, `i18n: home` correspond à `home: Home` dans `en/i18n.yml`.
+Par exemple, `i18n: home` correspond à `home: Home` dans `en/i18n.yml`.
 
 `en/i18n.yml` sera traduit en plusieurs langues, comme `zh/i18n.yml`.
 
@@ -49,13 +51,13 @@ Dans la configuration `nav` :
 
 `TOC` est l'abréviation de `Table of Contents`. Lorsque ce modèle est rendu, le sommaire du fichier `Markdown` s'affiche dans la barre latérale.
 
-`url:` représente le chemin du fichier `Markdown` ( `/` correspond au répertoire racine `/README.md`, ce nom de fichier doit être en majuscules pour le préfixe et en minuscules pour le suffixe).
+`url:` indique le chemin du fichier `Markdown` ( `/` correspond au répertoire racine `/README.md`, ce nom de fichier doit commencer par une majuscule et se terminer par une minuscule).
 
 ### `use: Md`, modèle de fichier unique (sans sommaire)
 
-Le modèle `Md` est similaire au modèle `Toc`, tous deux sont utilisés pour le rendu d'un seul fichier `Markdown`. Mais le modèle `Md` n'affiche pas le sommaire dans la barre latérale.
+Le modèle `Md` est similaire au modèle `Toc`, tous deux sont utilisés pour rendre un seul fichier `Markdown`. Cependant, le modèle `Md` n'affiche pas le sommaire dans la barre latérale.
 
-Vous pouvez remplacer `use: Toc` par `use: Md` dans la configuration ci-dessus, puis exécuter à nouveau `i18n.site` dans le répertoire `md`, et enfin visiter l'URL de prévisualisation du développement pour observer les changements sur la page d'accueil.
+Vous pouvez remplacer `use: Toc` par `use: Md` dans la configuration ci-dessus, puis exécuter à nouveau `i18n.site` dans le répertoire `md`, et enfin visiter l'URL d'aperçu du développement pour observer les changements sur la page d'accueil.
 
 ### Chargement par défaut sans chemin de configuration
 
@@ -82,7 +84,7 @@ Le modèle `Doc` prend en charge l'intégration de plusieurs fichiers `Markdown`
 
 #### Projet unique (multi-fichiers)
 
-`blog` mentionné précédemment est le mode unique de `Doc`.
+`blog` mentionné précédemment est le mode projet unique de `Doc`.
 
 ```
   - i18n: blog
@@ -90,15 +92,15 @@ Le modèle `Doc` prend en charge l'intégration de plusieurs fichiers `Markdown`
     use: Doc
 ```
 
-##### Lorsque l'URL Est Vide, La Valeur Par Défaut Est i18n
+##### Lorsque l'URL est vide, la valeur par défaut est celle de l'objet i18n
 
 Si `url` n'est pas spécifié, `url` prend par défaut la valeur `i18n`. Cette règle s'applique également aux autres modèles.
 
-La syntaxe ci-dessus est équivalente à `url: blog`, et le fichier correspondant est `en/blog/TOC`.
+La syntaxe ci-dessus équivaut à `url: blog`, et le fichier correspondant est `en/blog/TOC`.
 
 #### Projets multiples
 
-La configuration `i18n:doc` dans `.i18n/conf.yml` est en mode multi-projets.
+La configuration `i18n:doc` dans `.i18n/conf.yml` est le mode projets multiples.
 
 ```
   - i18n: doc
@@ -108,25 +110,25 @@ La configuration `i18n:doc` dans `.i18n/conf.yml` est en mode multi-projets.
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-Ici, `menu: NB demo1,demo2` signifie utiliser le modèle `NB` pour le menu déroulant.
+Ici, `menu: NB demo1,demo2` signifie utiliser le modèle `NB` pour rendre le menu déroulant.
 
 `NB` est l'abréviation de `Name Brief`, ce qui signifie que le menu déroulant peut afficher le nom et le slogan du projet.
 
 `NB` est suivi des paramètres `demo1,demo2`.
 Remarque : ** Il ne doit y avoir aucun espace ** avant et après la virgule `,` dans `demo1,demo2`.
 
-Les fichiers d'index de répertoire correspondants pour les paramètres ci-dessus sont :
+Pour les paramètres ci-dessus, le fichier d'index de répertoire correspondant est :
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### Index du sommaire du document
+#### Index de la table des matières
 
-`i18n.site` exécute le plugin `js` `.i18n/hook/after.tran/TOC.js` dans le dépôt de démonstration pour lire les fichiers d'index `TOC` correspondant à la configuration des modèles `doc` pour générer le sommaire `json`.
+`i18n.site` exécute le plugin `js` `.i18n/hook/after.tran/TOC.js` dans le dépôt de démonstration pour lire le fichier d'index du répertoire `TOC` correspondant à la configuration des modèles `TOC` et générer le sommaire `json`.
 
 Si vous utilisez le modèle `doc`, vous devez avoir ce plugin.
 
-Si vous initialisez un projet `i18n.site` à partir d'un dossier vide, n'oubliez pas de copier le dossier `.i18n` du projet de démonstration dans votre répertoire.
+Si vous initialisez un projet `i18n.site` à partir d'un dossier vide, n'oubliez pas de copier le répertoire `.i18n` du projet de démonstration dans votre répertoire.
 
 Le modèle `Doc` rend le sommaire de la table des matières en fonction du `json` généré.
 
@@ -141,22 +143,22 @@ news/README.md
   news/begin.md
 ```
 
-##### Utilisez l'indentation pour indiquer les niveaux
+##### Utiliser l'indentation pour indiquer les niveaux
 
 La première ligne de `en/blog/TOC`, `README.md`, correspond à `i18n.site` dans l'image ci-dessous, c'est-à-dire le nom du projet.
 
-Les deux lignes suivantes sont comme indiqué dans la capture d'écran ci-dessous.
+Les deux lignes suivantes sont comme indiqué dans l'image ci-dessous.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
 `news/README.md` correspond à `News`
 `news/begin.md` correspond à `Our Product is Online !`
 
-Le fichier `TOC` utilise l'indentation pour indiquer la relation hiérarchique du sommaire et prend en charge plusieurs niveaux d'indentation.
+Les fichiers `TOC` sont indentés pour indiquer la hiérarchie du sommaire, prennent en charge l'indentation à plusieurs niveaux et les lignes de commentaires commençant par `#`.
 
-##### Le niveau parent n'écrit que le titre, pas le contenu
+##### Le niveau parent n'indique que le titre, pas le contenu
 
-Lorsqu'il y a plusieurs niveaux d'indentation, le niveau parent n'écrit que le titre, sinon la mise en page sera perturbée.
+Lorsqu'il y a plusieurs niveaux d'indentation, le niveau parent n'indique que le titre et non le contenu, sinon la mise en page sera perturbée.
 
 ##### Projet README.md
 
@@ -176,17 +178,17 @@ Cela correspond à la première ligne de `en/demo2/README.md` :
 # Demo Two : Your Project slogan
 ```
 
-Le contenu après le premier deux-points `:` du titre de premier niveau dans le fichier `README.md` du projet est considéré comme le slogan du projet.
+Le contenu après le premier deux-points `:` du titre de premier niveau du fichier `README.md` du projet est considéré comme le slogan du projet.
 
 Les utilisateurs de Chine, du Japon et de Corée doivent noter qu'ils doivent utiliser des deux-points demi-chasse `:` plutôt que des deux-points pleine chasse.
 
-##### Comment Déplacer La TOC en Masse ?
+##### Comment déplacer le sommaire en masse ?
 
 Les fichiers `TOC` doivent être placés dans le répertoire de la langue source.
 
 Par exemple, si la langue source est le chinois, alors le `TOC` ci-dessus est `zh/blog/TOC`.
 
-Si la langue source change, vous devez déplacer en masse les fichiers `TOC` d'une langue du projet à une autre.
+Si la langue source change, vous devez déplacer les fichiers `TOC` d'une langue du projet à une autre.
 
 Vous pouvez vous référer aux commandes suivantes :
 
@@ -195,4 +197,4 @@ rsync -av --remove-source-files --include='*/' \
 --include='TOC' --exclude='*' en/ zh/
 ```
 
-Veuillez remplacer `en/` et `zh/` dans la commande ci-dessus par votre code de langue.
+Modifiez `en/` et `zh/` dans la commande ci-dessus par votre code de langue.

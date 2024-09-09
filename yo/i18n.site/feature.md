@@ -8,7 +8,7 @@ Eto naa ti ni itumọ-itumọ `i18` , jọwọ wo [iwe ➔ `i18`](/i18) fun lilo
 
 Ede aiyipada aaye ayelujara yoo baramu laifọwọyi ede aṣawakiri naa.
 
-Lẹhin ti olumulo yi awọn ede pada pẹlu ọwọ, yiyan olumulo yoo ranti.
+Lẹhin ti olumulo pẹlu ọwọ yipada awọn ede, yiyan olumulo yoo jẹ iranti.
 
 Koodu ti o [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ Iriri kika pipe tun wa lori foonu alagbeka.
 
 ## <a rel=id href="#ha" id="ha"></a> Iwaju-opin ga wiwa
 
-`i18n.site` yoo ṣe atẹjade akoonu aaye si `npmjs.com` nipasẹ aiyipada, pẹlu iranlọwọ [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) ati awọn akoonu `CDN` miiran ti kojọpọ lori `npm` .
+`i18n.site` yoo ṣe atẹjade akoonu aaye si `npmjs.com` nipasẹ aiyipada, pẹlu iranlọwọ [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) ati ọpọlọpọ awọn akoonu `CDN` miiran ti kojọpọ lori `npm` .
 
 Lori ipilẹ yii, awọn orisun digi lati oluile China ni a ṣafikun lati gba awọn olumulo Kannada laaye lati ni iraye si iduroṣinṣin ati ṣaṣeyọri **wiwa iwaju-ipari giga** .
 
@@ -43,6 +43,12 @@ Oju opo wẹẹbu gba faaji ohun elo oju-iwe kan ṣoṣo, laisi isọdọtun ni
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Tẹ ibi lati wo atokọ ti awọn aṣa](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Aworan ti o wa loke fihan ọpọlọpọ ede `RSS` ni lilo ṣiṣe [inoreader.com](//inoreader.com) alabapin `i18n.site` .
 
 ### Ṣe Kojọpọ Awọn Nkọwe Ori Ayelujara, Ṣe Atilẹyin Kannada
 
@@ -74,10 +80,10 @@ Ra asin rẹ lori bọtini ni apa ọtun ti lilọ kiri oke lati rii awọn ipa 
 
 ### `404` Kekere Iwin
 
-Ẹmi lilefoofo kekere kan wa lori oju-iwe `404` , ti oju rẹ yoo gbe pẹlu asin, [➔ Tẹ ibi lati wo](/404) ,
+Oju-iwe `404` ni ẹmi lilefoofo kekere ti o wuyi, oju rẹ yoo gbe pẹlu asin, [➔ Tẹ ibi lati wo](/404) ,
 
 ## Orisun Ṣiṣi Koodu
 
 [Koodu naa wa ni ṣiṣi](/i18n.site/src) Ti o ba nifẹ lati kopa ninu idagbasoke, jọwọ ṣafihan ararẹ si [atokọ ifiweranṣẹ](//groups.google.com/u/2/g/i18n-site) .
 
-Ọpọlọpọ awọn ibeere kekere wa ti o ṣe pataki ṣugbọn kii ṣe amojuto ni Ẹgbẹ idagbasoke yoo fi awọn iṣẹ ṣiṣe adaṣe ni ibamu si imọ-ẹrọ ti o dara ni, ati mu awọn iwe-ipamọ idagbasoke pọ si lakoko fifun awọn ibeere.
+Ọpọlọpọ awọn ibeere kekere wa ti o ṣe pataki ṣugbọn kii ṣe amojuto ni egbe idagbasoke yoo fi awọn iṣẹ-ṣiṣe ti o da lori awọn imọ-ẹrọ ti o dara si, ati ki o mu awọn iwe-ipamọ idagbasoke pọ si nigba fifun awọn ibeere.

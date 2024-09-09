@@ -55,25 +55,9 @@ Tulkotie demonstrācijas faili direktorijā `en` ir tikai piemērs, un tos var i
 
 Ievadiet direktoriju un palaidiet `i18` lai tulkotu.
 
-### Pievienojiet Failus Krātuvei
+Papildus tulkojumam programma ģenerēs arī mapi `.i18n/data` , lūdzu, pievienojiet to repozitorijai.
 
-Papildus tulkošanai programma ģenerēs arī šādus failus, lūdzu, pievienojiet tos repozitorijai.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Starp tiem `.i18n/cache/.gitignore` saturs ir šāds :
-
-```
-**/*
-!**/.gitignore
-```
-
-Tas nozīmē, ka visi faili direktorijā `.i18n/cache/` (izņemot `.i18n/cache/.gitignore` ) tiek ignorēti.
-
-Ja jūsu versijas kontroles programmatūra nav `git` , lūdzu, ignorējiet to saskaņā ar šo konfigurāciju.
+Pēc jaunā faila tulkošanas šajā direktorijā tiks ģenerēts jauns datu fails. Atcerieties pievienot `git add .` .
 
 ## Konfigurācijas Fails
 

@@ -55,25 +55,9 @@ In de `en`-map bevinden zich vertaalde demobestanden, dit is slechts een voorbee
 
 Ga naar de map en voer `i18` uit om de vertaling te starten.
 
-### Voeg bestanden toe aan de versiebeheerder
+Naast de vertaling zal het programma ook de map `.i18n/data` genereren; voeg deze toe aan de versiebeheerdatabase.
 
-Naast de vertaling genereert het programma ook de volgende bestanden, voeg deze toe aan de versiebeheerder.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Onder andere, de inhoud van `.i18n/cache/.gitignore` is als volgt:
-
-```
-**/*
-!**/.gitignore
-```
-
-Dit betekent dat alle bestanden in de map `.i18n/cache/` (met uitzondering van `.i18n/cache/.gitignore`) worden genegeerd.
-
-Als je versiebeheersoftware niet `git` is, configureer dan het negeren zoals deze.
+Na het vertalen van nieuwe bestanden zullen er nieuwe gegevensbestanden worden gegenereerd in deze map; vergeet niet `git add .` uit te voeren om deze toe te voegen.
 
 ## Configureringsbestand
 

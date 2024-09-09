@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Phakathi kwabo, `upload` ukuya kwi `ext:` yoqwalaselo into ithetha ukuba kuphela `.md` iya kulayishwa xa ipapasha.
@@ -27,7 +29,7 @@ Phakathi kwabo, `upload` ukuya kwi `ext:` yoqwalaselo into ithetha ukuba kuphela
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Phakathi kwabo, `i18n: home` ihambelana ne `home: Home` kwi `en/i18n.yml` .
+Phakathi kwabo, `i18n: home` ihambelana no `home: Home` kwi `en/i18n.yml` .
 
 `en/i18n.yml` iya kuguqulelwa kwiilwimi ezininzi, njenge `zh/i18n.yml` .
 
@@ -115,7 +117,7 @@ Apha, `menu: NB demo1,demo2` , uthetha ukusebenzisa itemplate e `NB` ukunika ime
 `NB` ilandelwa yiparameter `demo1,demo2` egqithiselwe kuyo.
 Qaphela : ** Kufuneka kungabikho zithuba ** phambi `,` `demo1,demo2` .
 
-Ifayile yesalathisi esihambelanayo kwezi parameters zingasentla yile:
+Kwezi parameters zingentla, ifayile yesalathisi esihambelanayo yile:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -130,7 +132,7 @@ Ukuba uqalisa iprojekthi `i18n.site` ukusuka kwincwadi engenanto, khumbula ukuko
 
 I-template ye `Doc` iya kunika i-table of contents outline esekelwe kwi- generated `json` .
 
-##### Ingcaciso Yomxholo Eneenkcukacha
+##### Inkcazo Eneenkcukacha Zomxholo
 
 `en/blog/TOC` Umxholo umi ngolu hlobo lulandelayo :
 
@@ -143,16 +145,16 @@ news/README.md
 
 ##### Sebenzisa Ukuhlelwa Ukubonisa Amanqanaba
 
-`README.md` kumqolo wokuqala we `en/blog/TOC` ngasentla ihambelana ne `i18n.site` kumfanekiso ongezantsi, igama leprojekthi.
+`README.md` kumqolo wokuqala we `en/blog/TOC` ngasentla ihambelana ne `i18n.site` kumfanekiso ongezantsi, eli gama leprojekthi.
 
-Imigca emibini elandelayo njengoko kubonisiwe kwikhusi elingezantsi.
+Imigca emibini elandelayo njengoko kubonisiwe kumfanekiso wekhusi ongezantsi.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
 `news/README.md` ihambelana no `News` ,
 `news/begin.md` ihambelana no `Our Product is Online !`
 
-Iifayile `TOC` zifakwe i-indent ukubonisa unxulumano olululo lwe-outline kunye nokuxhasa ukuhlehliswa kwamanqanaba amaninzi.
+Iifayile ze `TOC` zifakwe kwi-indent ukubonisa ubudlelwane be-hierarchical ye-outline, inkxaso ye-multi-level indentation, kunye nezimvo zomgca eziqala nge `#` .
 
 ##### Inqanaba Lomzali Libhala Isihloko Kuphela, Hayi Umxholo.
 
@@ -166,7 +168,7 @@ Qaphela ukuba umxholo wale fayile awubonisi uluhlu lweziqulatho, ngoko kuyacetyi
 
 ###### Isilogeni Seprojekthi
 
-Uyabona ukuba `Your Project slogan` `Deme Two` inomgca wethegi yeprojekthi ngezantsi kwemenyu eyehlayo kunye negama leprojekthi yekhathalogu :
+Uyabona ukuba `Your Project slogan` `Deme Two` inomgca wethegi yeprojekthi ngezantsi kwemenyu ehlayo kunye negama leprojekthi yekhathalogu :
 
 ![](https://p.3ti.site/1721276842.avif)
 

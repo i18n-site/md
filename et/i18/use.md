@@ -55,25 +55,9 @@ Kataloogis `en` olevad tõlgitud demofailid on vaid näide ja neid saab kustutad
 
 Sisestage kataloog ja käivitage tõlkimiseks `i18` .
 
-### Lisage Failid Hoidlasse
+Lisaks tõlkele genereerib programm ka kausta `.i18n/data` , palun lisage see hoidlasse.
 
-Lisaks tõlkimisele genereerib programm ka järgmised failid, palun lisage need hoidlasse.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Nende hulgas on `.i18n/cache/.gitignore` sisu järgmine :
-
-```
-**/*
-!**/.gitignore
-```
-
-See tähendab, et kõiki faile kataloogis `.i18n/cache/` (välja arvatud `.i18n/cache/.gitignore` ) ignoreeritakse.
-
-Kui teie versioonihaldustarkvara ei ole `git` , siis palun ignoreerige seda vastavalt sellele konfiguratsioonile.
+Pärast uue faili tõlkimist luuakse selles kataloogis uus andmefail. Ärge unustage lisada `git add .` .
 
 ## Konfiguratsioonifail
 

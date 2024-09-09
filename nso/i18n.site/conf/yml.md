@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Gare ga tšona, selo sa peakanyo sa `upload` go ya go `ext:` se ra gore ke `.md` fela yeo e tlago tsenywa ge go phatlalatšwa.
@@ -115,7 +117,7 @@ Mo, `menu: NB demo1,demo2` , e ra gore o šomiša thempleite ya `NB` go tšwelet
 `NB` e latelwa ke paramethara `demo1,demo2` e fetišitšwego go yona.
 Ela : ** Ga se gwa swanela go ba le dikgoba ** pele le ka morago ga koma `,` go `demo1,demo2` .
 
-Faele ya tšhupamabaka ya tšhupetšo ye e swanetšego ya ditekanyetšo tše di lego ka mo godimo ke:
+Bakeng sa ditekanyetšo tše di lego ka mo godimo, faele ya tšhupamabaka ya tšhupetšo ye e swanetšego ke:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Methaladi ye mebedi ye e latelago ke bjalo ka ge go bontšhitšwe seswantšhong 
 `news/README.md` e sepelelana le `News` , .
 `news/begin.md` e sepelelana le `Our Product is Online !`
 
-`TOC` difaele di indented ho bontša kamano hierarchical ya thulaganyo le tšehetsa multi-maemo indentation.
+`TOC` difaele di tsentšwe ka gare go laetša kamano ya tatelano ya thulaganyo, thekgo ya go tsenywa ga maemo a mantši, le ditshwayotshwayo tša mola go thoma ka `#` .
 
 ##### Maemo a Motswadi a Ngwala Fela Thaetlele, E Sego Diteng.
 
@@ -184,7 +186,7 @@ Badiriši go tšwa China, Japane le Korea, hle ela hloko gore o swanetše go šo
 
 `TOC` difaele hloka ho beha ka directory ya puo mohloli.
 
-Ka mohlala, ge e ba leleme la mothopo e le Setšhaena, gona `TOC` ka godimo ke `zh/blog/TOC` .
+Ka mohlala, ge e ba leleme la mothopo e le la Setšhaena, gona `TOC` ka godimo ke `zh/blog/TOC` .
 
 Ge e le gore polelo ya mohlodi e fetotšwe, o swanetše go šuthiša difaele `TOC` tša polelo ye e itšego ka gare ga porojeke go ya go leleme le lengwe.
 
@@ -195,4 +197,4 @@ rsync -av --remove-source-files --include='*/' \
 --include='TOC' --exclude='*' en/ zh/
 ```
 
-Hle fetoša `en/` le `zh/` taelong ye e lego ka mo godimo go khoutu ya gago ya polelo.
+Hle fetola `en/` le `zh/` taelong ye e lego ka mo godimo go khoutu ya gago ya polelo.

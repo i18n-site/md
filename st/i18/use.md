@@ -55,25 +55,9 @@ Lifaele tsa demo tse fetoletsoeng bukeng ea `en` ke mohlala feela 'me li ka hlak
 
 Kenya bukana 'me u tsamaise `i18` ho fetolela.
 
-### Kenya Lifaele Sebakeng Sa Polokelo
+Ntle le phetolelo, lenaneo le tla hlahisa foldara ea `.i18n/data` , ka kopo e kenye sebakeng sa polokelo.
 
-Ntle le phetolelo, lenaneo le tla hlahisa lifaele tse latelang, ka kopo li kenye sebakeng sa polokelo.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Hara tsona, diteng tsa `.i18n/cache/.gitignore` ke tse latelang :
-
-```
-**/*
-!**/.gitignore
-```
-
-Sena se bolela hore lifaele tsohle tse bukeng ea `.i18n/cache/` (ntle le `.i18n/cache/.gitignore` ) li hlokomolohuoa.
-
-Haeba software ea hau ea taolo ea mofuta e se `git` , ka kopo e hlokomolohe ho latela tlhophiso ena.
+Kamora ho fetolela faele e ncha, faele e ncha ea data e tla hlahisoa bukeng ena Hopola ho kenyelletsa `git add .` .
 
 ## Faele Ea Tlhophiso
 

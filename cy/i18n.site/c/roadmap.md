@@ -1,11 +1,14 @@
 # Cynllunio Datblygu
 
-Mae'r nodweddion pwysig canlynol yn cael eu datblygu:
+## Cwblhawyd
+
+- [x] Porthiant RSS
+- [x] optimeiddio peiriannau chwilio
+
+## Yn Cael Ei Ddatblygu
 
 - [ ] Newid rhwng fersiynau lluosog o ddogfennau
 - [ ] Chwiliad testun llawn pen blaen pur
-- [ ] Porthiant RSS
-- [ ] optimeiddio peiriannau chwilio
 - [ ] Gwthiwch ddiweddariadau erthyglau ar gyfryngau cymdeithasol mawr ar yr un pryd
 - [ ] E-bost ar gael i ddefnyddwyr / `web push` Tanysgrifio i ddiweddariadau cynnyrch
 - [ ] Rhowch sylwadau ar baragraffau'r erthygl

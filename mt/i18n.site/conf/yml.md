@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Fosthom, oġġett ta' konfigurazzjoni `upload` sa `ext:` ifisser li `.md` biss se jittellgħu meta jiġu ppubblikati.
@@ -49,7 +51,7 @@ Wara li titlesta t-traduzzjoni, tista' timmodifika l-valur tat-traduzzjoni `yml`
 
 `TOC` hija l-abbrevjazzjoni ta' `Table of Contents` Meta dan il-mudell jiġi ppreżentat, il-kontorn ta 'dan il-fajl `Markdown` se jintwera fil-sidebar.
 
-`url:` jirrappreżenta l-mogħdija tal-fajl ta ' `Markdown` ( `/` tikkorrispondi għad-direttorju tal-għeruq `/README.md` , dan l-isem tal-fajl jeħtieġ prefiss kbir u suffiss żgħir).
+`url:` jirrappreżenta l-mogħdija tal-fajl ta ' `Markdown` ( `/` jikkorrispondi għad-direttorju tal-għeruq `/README.md` , dan l-isem tal-fajl jeħtieġ prefiss kbir u suffiss żgħir).
 
 ### `use: Md` , Mudell Ta' Fajl Wieħed (L-Ebda Kontorn)
 
@@ -115,7 +117,7 @@ Hawnhekk, `menu: NB demo1,demo2` , tfisser li tuża l-mudell `NB` biex tirrendi 
 `NB` huwa segwit mill-parametru `demo1,demo2` mgħoddi lilha.
 : ** M'għandux ikun hemm spazji ** qabel u wara l-virgola `,` `demo1,demo2` .
 
-Il-fajl tal-indiċi tad-direttorju korrispondenti għall-parametri ta 'hawn fuq huwa:
+Għall-parametri ta 'hawn fuq, il-fajl tal-indiċi tad-direttorju korrispondenti huwa:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Iż-żewġ linji li jmiss huma kif muri fil-screenshot hawn taħt.
 `news/README.md` jikkorrispondi għal `News` ,
 `news/begin.md` jikkorrispondi għal `Our Product is Online !`
 
-`TOC` fajls huma indentati biex jindikaw ir-relazzjoni ġerarkika tal-kontorn u jappoġġjaw indentazzjoni f'ħafna livelli.
+`TOC` fajls huma indentati biex jindikaw ir-relazzjoni ġerarkika tal-kontorn, jappoġġjaw indentazzjoni f'diversi livelli, u kummenti tal-linja li jibdew `#` .
 
 ##### Il-Livell Tal-Ġenitur Jikteb Biss It-Titlu, Mhux Il-Kontenut.
 
@@ -166,7 +168,7 @@ Innota li l-kontenut ta 'dan il-fajl ma jurix sommarju tal-kontenut, għalhekk h
 
 ###### Slogan Tal-Proġett
 
-Tista' tara li `Deme Two` għandu t-tagline tal-proġett tiegħu taħt il-menu drop-down u l-isem tal-proġett tal-kontorn tal : katalgu `Your Project slogan` .
+Tista' tara li `Deme Two` għandu t-tagline tal-proġett tiegħu taħt il-menu drop-down u l-isem tal-proġett tal-kontorn tal-katalgu `Your Project slogan` :
 
 ![](https://p.3ti.site/1721276842.avif)
 

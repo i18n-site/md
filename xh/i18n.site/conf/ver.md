@@ -2,7 +2,7 @@
 
 Thatha iprojekthi yedemo njengomzekelo:
 
-`en/demo2/v` linani loguqulelo lwangoku lweprojekthi, eya kuboniswa ekunene kwegama leprojekthi kulwandlalo lwebar esecaleni.
+`en/demo2/v` linani loguqulelo lwangoku lweprojekthi, eliza kuboniswa ekunene kwegama leprojekthi kulwandlalo lwebar esecaleni.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

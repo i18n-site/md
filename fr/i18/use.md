@@ -55,25 +55,9 @@ Les fichiers de démonstration situés dans le répertoire `en` sont des exemple
 
 Naviguez dans le répertoire et exécutez `i18` pour effectuer la traduction.
 
-### Ajouter des fichiers au dépôt
+En plus de la traduction, le programme générera également le dossier `.i18n/data`. Veuillez l'ajouter au dépôt.
 
-Outre la traduction, le programme générera également les fichiers suivants, veuillez les ajouter au dépôt.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Parmi eux, le contenu de `.i18n/cache/.gitignore` est le suivant :
-
-```
-**/*
-!**/.gitignore
-```
-
-Cela signifie ignorer tous les fichiers du répertoire `.i18n/cache/` (sauf `.i18n/cache/.gitignore`).
-
-4	Si votre outil de gestion de versions n'est pas `git`, veuillez suivre cette configuration pour l'ignorer.
+Après la traduction d'un nouveau fichier, un fichier de données supplémentaire sera généré dans ce répertoire. Souvenez-vous d'utiliser `git add .` pour l'ajouter.
 
 ## Fichier de configuration
 

@@ -55,25 +55,9 @@ Ang gihubad nga mga demo file sa `en` nga direktoryo usa lamang ka pananglitan u
 
 Pagsulod sa direktoryo ug pagdagan `i18` aron maghubad.
 
-### Idugang Ang Mga File Sa Repository
+Dugang pa sa paghubad, ang programa makamugna usab sa `.i18n/data` folder, palihug idugang kini sa repositoryo.
 
-Dugang pa sa paghubad, ang programa makamugna usab sa mosunod nga mga file, palihug idugang kini sa repositoryo.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Lakip kanila, ang sulod sa `.i18n/cache/.gitignore` mao ang mosunod :
-
-```
-**/*
-!**/.gitignore
-```
-
-Kini nagpasabut nga ang tanan nga mga file sa direktoryo `.i18n/cache/` (gawas `.i18n/cache/.gitignore` ) gibalewala.
-
-Kung ang imong version control software dili `git` , palihog ibaliwala kini sumala niini nga configuration.
+Pagkahuman sa paghubad sa bag-ong file, usa ka bag-ong file sa datos ang mabuhat sa kini `git add .` direktoryo.
 
 ## Pag-Configure Nga File
 

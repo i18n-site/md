@@ -17,13 +17,15 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Deretter betyr `upload` sin `ext:`-innstilling at kun `.md`-filer vil bli lastet opp ved publisering.
+Deretter betyr `upload`-innstillingen for `ext` at kun `.md`-filer vil bli lastet opp ved publisering.
 
 ## Toppnavigasjon nav
 
-`nav:`-konfigurasjonsalternativer tilsvarer navigasjonsmenyen øverst på hjemmesiden.
+`nav`-konfigurasjonsalternativer tilsvarer navigasjonsmenyen øverst på hjemmesiden.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
@@ -33,9 +35,9 @@ Blant dem tilsvarer `i18n: home` `home: Home` i `en/i18n.yml`.
 
 <img src="//p.3ti.site/1721051689.avif" style="width:320px">
 
-Etter at oversettelsen er fullført, kan du endre oversettelsens `yml`-verdi, men ikke slette eller legge til noen `yml`-nøkler.
+Etter at oversettelsen er fullført, kan du endre oversettelsesverdien i `yml`, men ikke slette eller legge til nøkler i oversettelses `yml`.
 
-### `use: Toc`, Enkelt Filmal (Med Omriss)
+### `use: Toc`, enkelt filmal (med disposisjon)
 
 I `nav`-konfigurasjonen:
 
@@ -45,29 +47,29 @@ I `nav`-konfigurasjonen:
     url: /
 ```
 
-`use: Toc` betyr at malen vil gjengi med `Toc`, noe som er gjengivelse av en enkelt `Markdown`-mal.
+`use: Toc` betyr at malen vil rendre med en `Toc`-mal, som er for å rendre en enkelt `Markdown`-mal.
 
-`TOC` er en forkortelse for `Table of Contents`. Når denne malen gjengis, vil innholdsfortegnelsen for denne `Markdown`-filen vises i sidefeltet.
+`TOC` er en forkortelse for `Table of Contents`. Når denne malen rendres, vil innholdsfortegnelsen for denne `Markdown`-filen vises i sidefeltet.
 
-`url:` representerer `Markdown`-filens sti (`/` tilsvarer rotkatalogen `/README.md`, og filnavnet må ha et prefiks med store bokstaver og et suffiks med små bokstaver).
+`url:` representerer `Markdown`-filens sti ( `/` tilsvarer rotkatalogen `/README.md`, og filnavnet må ha et prefiks med store bokstaver og et suffiks med små bokstaver).
 
-### `use: Md`, Enkelt Filmal (Uten Omriss)
+### `use: Md`, enkelt filmal (uten disposisjon)
 
-`Md`-malen og `Toc`-malen er identiske og brukes begge til å gjengi en enkelt `Markdown`-fil, men `Md`-malen viser ikke innholdsfortegnelsen i sidefeltet.
+`Md`-malen og `Toc`-malen er identiske og brukes begge til å rendre en enkelt `Markdown`-fil, men `Md`-malen viser ikke innholdsfortegnelsen i sidefeltet.
 
-Du kan endre `use: Toc` til `use: Md` i konfigurasjonen over, kjøre `i18n.site` på nytt i `md`-katalogen, og deretter besøke utviklingsforhåndsvisningsadressen for å se endringene på hjemmesiden.
+Du kan endre `use: Toc` til `use: Md` i konfigurasjonen over, kjøre `i18n.site` i `md`-katalogen igjen, og deretter besøke utviklingsforhåndsvisningsadressen for å se endringene på hjemmesiden.
 
 ### Ingen konfigurasjonssti for standard lasting
 
-Hvis en sti som besøkes ikke har en konfigurasjon i `nav:`, vil standard `Markdown`-filen som tilsvarer stien lastes og gjengis med `Md`-malen.
+Hvis en sti som besøkes ikke har en konfigurasjon i `nav`, vil den tilsvarende `Markdown`-filen lastes som standard og rendres med `Md`-malen.
 
-For eksempel, hvis `/test` besøkes, og det ikke er noen konfigurasjon for denne stien i `nav:`, og sidespråket er engelsk (kode `en`), vil `/en/test.md` lastes som standard og gjengis med `Md`-malen.
+For eksempel, hvis `/test` er tilgjengelig, og `nav:` ikke er konfigurert for denne stien, og sidespråket er engelsk (`en`), vil `/en/test.md` lastes inn som standard og vises med malen `Md`.
 
-Hvis `/en/test.md` ikke eksisterer, vil standard `404`-side vises.
+Hvis `/en/test.md` ikke eksisterer, vil standard `404`-siden vises.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
-### `use: Doc`, Flermalfilsmal
+### `use: Doc`, mal for flere filer
 
 I konfigurasjonsfilen:
 
@@ -76,13 +78,13 @@ I konfigurasjonsfilen:
     use: Doc
 ```
 
-Dette indikerer bruk av `Doc` for malgjengivelse.
+Dette indikerer bruk av `Doc` for malrendring.
 
 `Doc`-malen støtter integrering av flere `Markdown`-filer for å generere en enkelt eller flere prosjekters dokumentoversikter.
 
-#### Enkelt Prosjekt (Flere Filer)
+#### Enkelt prosjekt (flere filer)
 
-`blog` ovenfor er `Doc`'s enkeltelementmodus.
+`blog` ovenfor er `Doc`-malens enkeltprosjektmodus.
 
 ```
   - i18n: blog
@@ -92,13 +94,13 @@ Dette indikerer bruk av `Doc` for malgjengivelse.
 
 ##### Når url Er Tom, Har Den Som Standard Verdien i18n
 
-Hvis `url` ikke er spesifisert, vil `url` bruke standardverdien `i18n`, en regel som også gjelder for andre maler.
+Hvis `url` ikke er angitt, er standardverdien `url` den samme som `i18n`. Denne regelen gjelder også for andre maler.
 
 Angitt skrivemåte tilsvarer `url: blog`, og den tilsvarende filen er `en/blog/TOC`.
 
-#### Flere Prosjekter
+#### Flere prosjekter
 
-`.i18n/conf.yml`'s `i18n:doc`-konfigurasjon er for flermalmodus.
+`.i18n/conf.yml`-konfigurasjonen for `i18n:doc` er en multiprosjektmodus.
 
 ```
   - i18n: doc
@@ -108,29 +110,29 @@ Angitt skrivemåte tilsvarer `url: blog`, og den tilsvarende filen er `en/blog/T
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-`menu: NB demo1,demo2` betyr at `NB`-malen brukes til å gjengi rullegardinmenyen.
+`menu: NB demo1,demo2` betyr at `NB`-malen brukes til å rendre rullegardinmenyen.
 
-`NB` er en forkortelse for `Name Brief`, noe som betyr at rullegardinmenyen kan vise prosjektets navn og slagord.
+`NB` er en forkortelse for `Name Brief`, som betyr at rullegardinmenyen kan vise prosjektets navn og slagord.
 
 `NB` etterfølges av parameterne `demo1,demo2`.
 Merke: ** Det skal ikke være mellomrom rundt kommaet `,` i `demo1,demo2` **.
 
-Parameterne ovenfor tilsvarer følgende katalogindeksfiler:
+For de overnevnte parameterne er den tilsvarende katalogindeksfilen:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### TOC Innholdsfortegnelse
+#### TOC-innholdsfortegnelse
 
-`i18n.site` vil kjøre `js`-pluginet `.i18n/hook/after.tran/TOC.js` i demolageret for å lese `TOC`-katalogindeksfilene som tilsvarer `doc`-malens konfigurasjon for å generere `json`-innholdsfortegnelser.
+`i18n.site` kjører `js`-pluginet `.i18n/hook/after.tran/TOC.js` i demonstrasjonslagret for å lese indeksfilen med `doc`-kataloger som tilsvarer `TOC`-malkonfigurasjonen, for å generere `json`-kataloger.
 
-Hvis du bruker `doc`-malen, må du ha denne pluginen.
+Hvis du bruker `Doc`-malen, må du ha denne pluginen.
 
-Hvis du initialiserer `i18n.site` fra en tom mappe, husk å kopiere `.i18n` fra demolageret til din katalog.
+Hvis du initialiserer `i18n.site`-prosjektet fra en tom mappe, husk å kopiere `.i18n` fra demoprosjektet til din katalog.
 
-`Doc`-malen vil gjengi innholdsfortegnelsen basert på den genererte `json`.
+`Doc`-malen vil rendre innholdsfortegnelsen basert på den genererte `json`.
 
-##### Detaljert Innholdsforklaring
+##### Detaljert innholdsforklaring
 
 `en/blog/TOC`-innholdet er som følger:
 
@@ -143,7 +145,7 @@ news/README.md
 
 ##### Bruk innrykk for å indikere nivåer
 
-`README.md` i den første linjen av `en/blog/TOC` tilsvarer `i18n.site` i bildet under, som er prosjektnavnet.
+`README.md` i den første linjen av `en/blog/TOC` tilsvarer `i18n.site` i bildet nedenfor, som er prosjektnavnet.
 
 De neste to linjene er som vist i skjermbildet nedenfor.
 
@@ -152,11 +154,11 @@ De neste to linjene er som vist i skjermbildet nedenfor.
 `news/README.md` tilsvarer `News`
 `news/begin.md` tilsvarer `Our Product is Online!`
 
-`TOC`-filer bruker innrykk for å indikere innholdsfortegnelsens hierarkiske struktur og støtter flere nivåer av innrykk.
+`TOC`-filer bruker innrykk for å indikere innholdsfortegnelsens hierarkiske forhold, støtter flere nivåer av innrykk og linjekommentarer som starter med `#`.
 
-##### Foreldrenivåer skriver kun tittelen, ikke innholdet
+##### Foreldrenivået skriver kun tittelen, ikke innholdet
 
-Når det er flere nivåer av innrykk, skriver foreldrenivået kun tittelen, ikke innholdet, for å unngå layoutfeil.
+Når det er flere nivåer av innrykk, skriver det overordnede nivået kun tittelen, ikke innholdet, for å unngå layoutfeil.
 
 ##### Prosjekt README.md
 
@@ -164,9 +166,9 @@ Innhold kan skrives i prosjektets `README.md`, for eksempel `en/demo2/README.md`
 
 Merke at innholdet i denne filen ikke viser en innholdsfortegnelse, så det anbefales å holde det kort og konsist.
 
-###### Prosjekt Slagord
+###### Prosjektets slagord
 
-Du kan se at `Deme Two` har sitt prosjektslagord under rullegardinmenyen og under katalogens prosjektnavn: `Your Project Slogan`.
+Du kan se at `Deme Two` har sitt prosjektbeskrivelse under rullegardinmenyen og katalogens prosjektnavn: `Your Project Slogan`.
 
 ![](https://p.3ti.site/1721276842.avif)
 
@@ -176,17 +178,17 @@ Dette tilsvarer den første linjen i `en/demo2/README.md`:
 # Demo Two : Your Project slogan
 ```
 
-Innholdet etter den første kolonen `:` i prosjektets `README.md`-filens første nivåtittel vil bli sett på som prosjektets slagord.
+Innholdet etter den første kolonen `:` i den første overskriften i prosjektets `README.md` vil bli sett på som prosjektets slagord.
 
-Brukere fra Kina, Japan og Korea, vær oppmerksom på at du bør bruke halvbredde kolon `:` i stedet for full bredde kolon.
+Brukere fra Kina, Japan og Korea, vær oppmerksom på å bruke halvbredde kolon `:` i stedet for full bredde kolon.
 
-##### Hvordan Flytte TOC i Bulk?
+##### Hvordan flytte TOC i bulk?
 
 `TOC`-filer må plasseres i kildespråkets katalog.
 
 For eksempel, hvis kildespråket er kinesisk, er `TOC`-filen `zh/blog/TOC`.
 
-Hvis kildespråket endres, må du batchflytte `TOC`-filer fra en språkkatalog til en annen.
+Hvis kildespråket endres, må du flytte `TOC`-filer fra en språkkatalog til en annen.
 
 Du kan referere til følgende kommandoer:
 

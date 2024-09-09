@@ -20,7 +20,7 @@ Ezali mpe na likambo ya kotánga oyo ebongi mpenza na telefone ya mabɔkɔ.
 
 ## <a rel=id href="#ha" id="ha"></a> Front-end ya disponibilité ya likolo
 
-`i18n.site` ekobimisa makambo ya site na `npmjs.com` na ndenge ya libela, na lisalisi ya [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) mpe makambo mosusu `CDN` oyo ekɔtisami na `npm` .
+`i18n.site` ekobimisa makambo ya site na `npmjs.com` na ndenge ya libela, na lisalisi ya [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) mpe makambo mosusu ya `CDN` ebele oyo ekɔtisami na `npm` .
 
 Na moboko yango, ba sources ya miroir oyo ewutaki na Chine continentale ebakisami mpo na kopesa nzela na basaleli ya Chine kozala na accès stable mpe kozua **disponibilité ya liboso ya likolo** .
 
@@ -30,7 +30,7 @@ Code oyo etali [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/t
 
 ## Application Ya Page Moko, Chargement Ya Mbangu Mingi
 
-Site internet e adopter architecture ya application ya page moko, na refresh te tango ya ko changer ba pages mpe chargement ya mbangu mingi.
+Site internet e adopter architecture ya application ya page moko, na refresh te tango ya ko changer pages pe chargement ya mbangu mingi.
 
 ## Optimisé Mpo Na Expérience Ya Kotanga
 
@@ -43,6 +43,12 @@ Site internet e adopter architecture ya application ya page moko, na refresh te 
 <p style="text-align:right">── Mokomi ya likambo I18N.SITE</p>
 
 [➔ Finá awa mpo na komona liste ya ba styles](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Elilingi oyo ezali likolo ezali kolakisa minoko mingi `RSS` [inoreader.com](//inoreader.com) abonnément `i18n.site` .
 
 ### Charger Ba Fonts en Ligne, Soutenir Ba Chinois
 
@@ -60,7 +66,7 @@ Défiler likolo mpe navigation oyo ebombami ekobima lisusu.
 
 Ekosila ntango soso ezali kotambola te.
 
-Ezali na bouton ya écran mobimba na coin ya likolo na loboko ya mobali ya barre ya navigation mpo na kosala expérience ya kotanga mikanda ya immersive.
+Ezali na bouton ya écran mobimba na coin ya likolo na loboko ya mobali ya barre ya navigation mpo na kosala expérience ya kotanga mikanda ya kozindisa.
 
 ### Conflict Ya Plan Synchronisé Ya Mokapo Ya Lelo
 
@@ -74,10 +80,10 @@ Tyá souris na yo likoló ya bouton oyo ezali na ngámbo ya mobali ya navigation
 
 ### `404` Molimo Moke
 
-Ezali na mwa molimo moko kitoko oyo ezali kopumbwapumbwa na lokasa `404` , oyo miso na ye ekotambola na souris, [➔ Finá awa mpo na kotala](/404) ,
+`404` page eza na petite esprit flottante kitoko, miso na yango eko bouger na souris, [➔ Cliquez ici pour voir](/404) ,
 
 ## Code Ya Source Ouverte
 
-[Code ezali source ouverte](/i18n.site/src) Soki olingi kosangana na développement, tosengi omilakisa na [liste ya ba envois](//groups.google.com/u/2/g/i18n-site) .
+[Code ezali source ouverte](/i18n.site/src) Soki olingi kosangana na développement, tosengi yo omilakisa na [liste ya ba envois](//groups.google.com/u/2/g/i18n-site) .
 
-Ezali na masengi mingi ya mike oyo ezali na ntina kasi ya nokinoki te Ekipi ya bokeli ekopesa misala ya komeka engebene na tekiniki oyo ozali malamu na yango, mpe kobongisa mikanda ya bokeli ntango ozali kopesa masengi.
+Ezali na masengi mingi ya mike mike oyo ezali na ntina kasi ya nokinoki te Ekipi ya bokeli ekopesa misala ya maboko na kotalaka ba tekiniki oyo ozali malamu na yango, mpe kobongisa mikanda ya bokeli tango ozali kopesa masengi.

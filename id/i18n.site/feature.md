@@ -37,12 +37,18 @@ Situs web ini mengadopsi arsitektur aplikasi satu halaman, tanpa penyegaran saat
 ### Gaya Yang Dirancang Dengan Baik
 
 > Keindahan kesederhanaan diinterpretasikan secara sempurna dalam desain web website ini.
-> Ini meninggalkan dekorasi yang tidak perlu dan menyajikan konten dalam bentuknya yang paling murni.
+> Ia meninggalkan dekorasi yang berlebihan dan menyajikan konten dalam bentuknya yang paling murni.
 > Ibarat puisi yang indah, meski pendek namun menyentuh hati orang.
 
 <p style="text-align:right">── I18N.SITE Penulis</p>
 
 [➔ Klik di sini untuk melihat daftar gaya](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Gambar di atas menunjukkan multi-bahasa `i18n.site` `RSS` [inoreader.com](//inoreader.com)
 
 ### Muat Font Online, Dukung Bahasa Mandarin
 
@@ -80,4 +86,4 @@ Ada hantu kecil mengambang yang lucu di halaman `404` , yang matanya akan berger
 
 [Kodenya open source](/i18n.site/src) . Jika Anda tertarik untuk berpartisipasi dalam pengembangan, silakan perkenalkan diri Anda ke [milis](//groups.google.com/u/2/g/i18n-site) .
 
-Ada banyak persyaratan kecil yang penting tetapi tidak mendesak. Tim pengembangan akan memberikan tugas latihan sesuai dengan teknologi yang Anda kuasai, dan menyempurnakan dokumen pengembangan sambil menetapkan persyaratan.
+Ada banyak persyaratan kecil yang penting tetapi tidak mendesak. Tim pengembangan akan memberikan tugas langsung berdasarkan teknologi yang Anda kuasai, dan menyempurnakan dokumen pengembangan sambil menetapkan persyaratan.

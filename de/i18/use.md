@@ -55,25 +55,9 @@ Die Demo-Dateien im Verzeichnis `en` sind nur Beispiele und können gelöscht we
 
 Navigieren Sie in das Verzeichnis und führen Sie `i18` aus, um die Übersetzung durchzuführen.
 
-### Fügen Sie Dateien zum Versionskontrollsystem hinzu
+Das Programm generiert neben der Übersetzung auch den Ordner `.i18n/data`; fügen Sie diesen bitte dem Versionskontrollsystem hinzu.
 
-Das Programm generiert zusätzlich zu den Übersetzungen folgende Dateien, die Sie dem Repository hinzufügen müssen.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Der Inhalt von `.i18n/cache/.gitignore` lautet wie folgt:
-
-```
-**/*
-!**/.gitignore
-```
-
-Dies bedeutet, dass alle Dateien im Verzeichnis `.i18n/cache/` (ausgenommen `.i18n/cache/.gitignore`) ignoriert werden.
-
-Wenn Ihre Versionskontrollsoftware nicht `git` ist, konfigurieren Sie die Ignorierung bitte entsprechend.
+Nach der Übersetzung neuer Dateien werden in diesem Verzeichnis neue Daten日期i generiert. Vergewissern Sie sich, `git add .` hinzuzufügen.
 
 ## Konfigurationsdatei
 

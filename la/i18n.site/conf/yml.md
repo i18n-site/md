@@ -2,7 +2,7 @@
 
 Profile for `i18n.site` is `.i18n/conf.yml` .
 
-Exceptis lectis [`i18`](/i18) , `ignore:` et `i18n:` , fasciculi conformatio haec est:
+Exceptis lectis [`i18`](/i18) , `ignore:` et `i18n:` , fasciculi conformatio talis est:
 
 ```yaml
 upload:
@@ -17,11 +17,13 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Inter eos, `upload` ad `ext:` figurationem item significat quod tantum `.md` uploaded in edendo erit.
 
-## Summo Navigationis nav
+## Navigation Top
 
 `nav:` optiones conformationis, respondens menu navigandi in summitate paginae.
 
@@ -51,11 +53,11 @@ Expleto translatione, valorem translationis mutare potes `yml` , sed clavis tran
 
 `url:` tabella semita of `Markdown` ( `/` respondet radicis indicis `/README.md` , hoc nomen fasciculi praepositionem autocineticam requirit et suffixo lowercase).
 
-### `use: Md` , Una File Template (Non Adumbratim)
+### `use: Md` , Una File Templates (Non Adumbratim)
 
 The `Md` template and the `Toc` template are the same and both are used to make a single `Markdown` file. Sed `Md` template non ostendit figuram in parte laterali.
 
-Potes mutare `use: Toc` in schemate de supra `use: Md` , iterum currere `i18n.site` in indice `md` et tunc visitare evolutionem praevisum URL ut mutationes protocollum observes.
+Potes mutare `use: Toc` in schemate de supra `use: Md` , iterum currere `i18n.site` in `md` directorio, et tunc visitare evolutionem praevisum URL ut mutationes in pagina protoco observes.
 
 ### Default Loading Sine Configuratione Iter
 
@@ -94,7 +96,7 @@ Template utens `Doc` indicat rationem reddere.
 
 Si `url` scriptum non est, `url` defaltam ad valorem `i18n` Haec regula etiam vim obtinet in aliis template.
 
-Methodus superior scripturae `url: blog` aequiparatur, eiusque scapus correspondens `en/blog/TOC` est.
+Methodus superior scripto aequipollet `url: blog` , eiusque fasciculus respondens `en/blog/TOC` est.
 
 #### Multa Incepta
 
@@ -110,12 +112,12 @@ Configuratio `i18n:doc` ex `.i18n/conf.yml` multi-projecti est modus.
 
 Here, `menu: NB demo1,demo2` , means using the `NB` template to render the drop-down menu.
 
-`NB` , quae est abbreviatio `Name Breif` , significat gutta-down menu nomen et slogan rei ostendere posse.
+`NB` , quae est abbreviatio `Name Breif` , significat gutta-down tabulae nomen et slogan rei ostendere posse.
 
 `NB` , sequitur modulo `demo1,demo2` latam esse.
 `demo1,demo2` : ** `,` **
 
-Inscriptio indicis correspondens indicis ad parametri superiores est:
+Ad parametros supradictos, index indicis correspondens est:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -126,7 +128,7 @@ Inscriptio indicis correspondens indicis ad parametri superiores est:
 
 Si uteris `doc` template, hoc obturaculum in debebis habere.
 
-Si initialize proiciamus `i18n.site` ex folder inani, memento exscribere demo consilium `.i18n` ad indicem tuum.
+Si initialize proiectum `i18n.site` ex folder inani, memento exscribere demo consilium `.i18n` ad indicem tuum.
 
 The `Doc` template will render the table of contents outline based on the generated `json` .
 
@@ -152,11 +154,11 @@ Duae sequentes lineae in screenshot infra monstratae sunt.
 `news/README.md` correspondet `News` ,
 `news/begin.md` respondet `Our Product is Online !`
 
-`TOC` lima indentatum ad designandum relationem hierarchicam delineatum et multi-gradum incisum sustinent.
+`TOC` lima indentatum ad designandum ordinem hierarchicum delineatum, fulcimentum multi-level incisum, et lineae commentationes incipientes ab `#` .
 
 ##### Herennius Parens Titulo Tantum Scribit, Non Contentus.
 
-Cum plures gradus incisae sunt, parens gradu titulum tantum scribit et non contentus. Alioquin, erit viator typography.
+Cum plures gradus incisationis sunt, parens gradu titulum tantum scribit et non contentum. Alioquin, erit viator typography.
 
 ##### Project README.md
 

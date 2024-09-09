@@ -55,25 +55,9 @@ Demo fael a wɔakyerɛ ase wɔ `en` directory no yɛ nhwɛsoɔ kɛkɛ na wobetum
 
 Hyehyɛ directory no mu na tu mmirika `i18` na kyerɛ ase.
 
-### Fa Fael Ahorow Ka Adekorabea No Ho
+Nkyerɛaseɛ no akyi no, dwumadie no nso bɛma `.i18n/data` folda no aba, yɛsrɛ wo fa ka akoraeɛ no ho.
 
-Nkyerɛaseɛ akyi no, dwumadie no nso bɛma fael a ɛdidi soɔ yi aba, yɛsrɛ wo fa ka akoraeɛ no ho.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Wɔn mu no, `.i18n/cache/.gitignore` mu nsɛm te sɛ nea edidi so yi :
-
-```
-**/*
-!**/.gitignore
-```
-
-Wei kyerɛ sɛ wɔbu ani gu fael a ɛwɔ directory `.i18n/cache/` mu nyinaa (gye `.i18n/cache/.gitignore` ) so.
-
-Sɛ wo version control software no nyɛ `git` a, yɛsrɛ wo bu w’ani gu so sɛnea nhyehyɛe yi kyerɛ no.
+Sɛ wokyerɛ fael foforo no ase wie a, wɔbɛyɛ data fael foforo wɔ saa daerekta yi mu Kae sɛ wode `git add .` bɛka ho.
 
 ## Nsiesiei Fael
 

@@ -44,6 +44,12 @@
 
 [➔ 点此查看样式一览](/i18n.site/md/styl)。
 
+### 多语言`RSS`订阅
+
+![](//p.3ti.site/1725541085.avif)
+
+上图为使用 [inoreader.com](//inoreader.com) 订阅 `i18n.site` 的多语言 `RSS`。
+
 ### 加载在线字体，支持中文
 
 网页默认启用了 [阿里妈妈双轴可变方圆体](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR)，[MiSans](https://hyperos.mi.com/font/zh/download/) 等在线字体，统一不同平台用户的阅读体验。

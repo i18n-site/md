@@ -55,25 +55,9 @@ Mallivaraston hakemistorakenne on seuraava:
 
 Siirry hakemistoon ja suorita `i18` käännöksen suorittamiseksi.
 
-### Lisää tiedostoja versioarkistoon
+Ohjelma luo käännöksen lisäksi myös `.i18n/data`-kansion, lisää se versioarkistoon.
 
-Ohjelma luo myös seuraavat tiedostot, jotka on lisättävä versioarkistoon.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Näiden joukossa `.i18n/cache/.gitignore` sisältää seuraavaa:
-
-```
-**/*
-!**/.gitignore
-```
-
-Tämä tarkoittaa, että `.i18n/cache/`-hakemistossa olevat kaikki tiedostot (paitsi `.i18n/cache/.gitignore`) ohitetaan.
-
-Jos versionhallintatyökalusi ei ole `git`, jätä se huomioimatta tämän kokoonpanon mukaisesti.
+Käännettäessä uusi tiedosto, tämä hakemisto tuottaa uuden data-tiedoston. Muista suorittaa `git add .`.
 
 ## Asetustiedosto
 

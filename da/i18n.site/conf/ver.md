@@ -2,7 +2,7 @@
 
 Tag et demonstrationsprojekt som eksempel:
 
-`en/demo2/v` indeholder projektets nuværende versionsnummer, som vil blive vist til højre for projektets navn i sidepanelens oversigt.
+`en/demo2/v` er projektets nuværende versionsnummer, som vil blive vist til højre for projektets navn i sidebjælken under oversigtslisten.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

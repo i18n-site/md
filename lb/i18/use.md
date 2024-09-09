@@ -55,25 +55,9 @@ Déi iwwersat Demodateien am `en` Verzeichnis si just e Beispill a kënne geläs
 
 Gitt de Verzeechnes a lafen `i18` fir ze iwwersetzen.
 
-### Füügt Dateien an De Repository
+Zousätzlech zu der Iwwersetzung generéiert de Programm och den `.i18n/data` Dossier, füügt et w.e.g. an de Repository.
 
-Zousätzlech zu der Iwwersetzung generéiert de Programm och déi folgend Dateien, füügt se w.e.g. an de Repository.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Ënnert hinnen ass den Inhalt vun `.i18n/cache/.gitignore` wéi follegt :
-
-```
-**/*
-!**/.gitignore
-```
-
-Dëst bedeit datt all Dateien am Verzeechnes `.i18n/cache/` (ausser `.i18n/cache/.gitignore` ) ignoréiert ginn.
-
-Wann Är Versiounskontrollsoftware net `git` ass, ignoréiert se w.e.g. no dëser Konfiguratioun.
+No der Iwwersetzung vun der neier Datei gëtt eng nei Datedatei an `git add .` Verzeechnes generéiert.
 
 ## Configuratiounsdatei
 

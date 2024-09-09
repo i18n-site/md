@@ -55,25 +55,9 @@ Faayiloonni demoo hiikaman galmee `en` keessatti fakkeenya qofa waan ta'aniif ha
 
 Galmee galchiiti hiikuuf `i18` fiigi.
 
-### Faayilota Gara Kuusaatti Dabali
+Hiikkaa malees sagantichi galmee `.i18n/data` maddisiisa, maaloo gara kuusaatti dabali.
 
-Hiikkaa malees sagantichi faayiloota armaan gadii ni maddisiisa, maaloo gara kuusaatti dabali.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Isaan keessaa qabiyyeen `.i18n/cache/.gitignore` akka armaan gadiitti :
-
-```
-**/*
-!**/.gitignore
-```
-
-Kana jechuun faayilii galmee `.i18n/cache/` keessa jiran hundi ( `.i18n/cache/.gitignore` irraa kan hafe) tuffatamu.
-
-Yoo sooftiweeriin to'annoo version kee `git` hin taane, maaloo akkaataa qindeessaa kanaatiin bira darbi.
+Faayilii haaraa erga hiiktee booda, faayilii deetaa haaraan galmee kana keessatti ni uuma `git add .` dabaluu yaadadhu.
 
 ## Faayilii Qindeessaa
 

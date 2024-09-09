@@ -55,25 +55,9 @@ Els fitxers de demostració traduïts al directori `en` són només un exemple i
 
 Introduïu el directori i executeu `i18` per traduir.
 
-### Afegiu Fitxers Al Repositori
+A més de la traducció, el programa també generarà la carpeta `.i18n/data` , si us plau, afegiu-la al repositori.
 
-A més de la traducció, el programa també generarà els fitxers següents, si us plau, afegiu-los al repositori.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Entre ells, el contingut de `.i18n/cache/.gitignore` és el següent :
-
-```
-**/*
-!**/.gitignore
-```
-
-Això vol dir que tots els fitxers del directori `.i18n/cache/` (excepte `.i18n/cache/.gitignore` ) s'ignoren.
-
-Si el vostre programari de control de versions no és `git` , ignoreu-lo segons aquesta configuració.
+Després de traduir el nou fitxer, es generarà un nou fitxer de dades en aquest directori. Recordeu afegir `git add .` .
 
 ## Fitxer De Configuració
 

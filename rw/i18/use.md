@@ -55,25 +55,9 @@ Amadosiye ya demo yahinduwe mububiko `en` ni urugero gusa kandi arashobora gusib
 
 Injira ububiko hanyuma ukore `i18` kugirango uhindure.
 
-### Ongeraho Dosiye Mububiko
+Usibye ubusobanuro, porogaramu izanatanga ububiko `.i18n/data` , nyamuneka iyongereze mububiko.
 
-Usibye guhindurwa, porogaramu izanatanga amadosiye akurikira, nyamuneka uyongereze mububiko.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Muri byo, ibikubiye muri `.i18n/cache/.gitignore` ni ibi bikurikira :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ibi bivuze ko dosiye zose ziri mububiko `.i18n/cache/` (usibye `.i18n/cache/.gitignore` ) zirengagijwe.
-
-Niba software igenzura verisiyo itari `git` , nyamuneka wirengagize ukurikije iyi miterere.
+Nyuma yo guhindura dosiye nshya, dosiye nshya izakorwa muriki gitabo. Wibuke kumugereka `git add .` .
 
 ## Idosiye
 

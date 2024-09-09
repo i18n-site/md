@@ -55,25 +55,9 @@ Plantilla almacén directorio estructuraqa kayhinam
 
 Directorioman yaykuy hinaspa `i18` purichiy tikraypaq.
 
-### Waqaychasqaman Willañiqikunata Yapay
+Tikraymanta aswanta, programaqa `.i18n/data` qillqana mayt'utapas paqarichinqa, ama hina kaspa waqaychasqaman yapay.
 
-Tikraymanta aswanta, programaqa kay willañiqikunatapas paqarichinqa, ama hina kaspa waqaychasqaman yapay.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Paykuna ukhupiqa `.i18n/cache/.gitignore` nisqap contenidonqa kayhinam :
-
-```
-**/*
-!**/.gitignore
-```
-
-Kayqa niyta munan, `.i18n/cache/` willañiqipi llapa willañiqikuna ( `.i18n/cache/.gitignore` mana) mana qhawasqachu.
-
-Sichus laya kamachiy llamkanayki mana `git` , ama hina kaspa kay wakichiymanhina mana qhaway.
+Musuq willañiqita tikraspaqa, musuq willay willañiqim kay willañiqintinpi paqarichisqa kanqa `git add .` yapayta yuyariy.
 
 ## Wakichiy Willañiqi
 

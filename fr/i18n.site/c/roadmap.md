@@ -1,12 +1,15 @@
 # Planification du développement
 
-Les caractéristiques importantes suivantes sont en cours de développement :
+## Complété
 
-- [ ] Basculement entre plusieurs versions des documents
-- [ ] Recherche intégrale en pur front-end
-- [ ] Flux RSS d'abonnement
-- [ ] 搜索引擎优化
-- [ ] Synchronisation et diffusion des mises à jour d'articles sur les principaux réseaux sociaux
-- [ ] 用户可用邮件 /`web push`订阅产品更新
+- [x] Flux RSS de souscription
+- [x] optimisation des moteurs de recherche
+
+## En cours de développement
+
+- [ ] Changement entre plusieurs versions des documents
+- [ ] Recherche en texte intégral purement front-end
+- [ ] Synchronisation des mises à jour d'articles sur les principaux réseaux sociaux
+- [ ] E-mail accessible pour les utilisateurs / `web push` pour vous abonner aux mises à jour du produit
 - [ ] Commentaires sur les paragraphes des articles
-- [ ] Intégration d'un suivi des modifications des documents locaux et génération d'aperçus sans nécessiter une compilation manuelle à chaque fois, ni l'utilisation de NGINX
+- [ ] Intégration de la surveillance des modifications des documents locaux et génération d'aperçus sans compilation manuelle ni utilisation de NGINX

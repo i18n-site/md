@@ -1,12 +1,15 @@
 # Pianificazione dello sviluppo
 
-Le seguenti importanti funzionalità sono in fase di sviluppo:
+## Completato
 
-- [ ] Il passaggio tra più versioni dei documenti
-- [ ] La ricerca full-text pura的前端
-- [ ] Feed RSS
-- [ ] 搜索引擎优化
-- [ ] Sincronizzazione delle notifiche di aggiornamento degli articoli sui principali social media
-- [ ] 用户可用邮件 /`web push`订阅产品更新
+- [x] Fonte diabbonamento RSS
+- [x] ottimizzazione dei motori di ricerca
+
+## In fase di sviluppo
+
+- [ ] Cambio tra diverse versioni del documento
+- [ ] Ricerca full-text puramente front-end
+- [ ] Notifiche di aggiornamento degli articoli sincronizzate sui principali social media
+- [ ] Email disponibile per gli utenti / `web push` Iscriviti agli aggiornamenti del prodotto
 - [ ] Commenti sui paragrafi degli articoli
-- [ ] Integrazione del monitoraggio delle modifiche ai documenti locali e generazione di anteprime senza la necessità di una compilazione manuale e l'uso di NGINX
+- [ ] Integrazione della sorveglianza delle modifiche ai documenti locali e generazione di anteprime, senza la necessità di una compilazione manuale e utilizzando NGINX

@@ -1,11 +1,14 @@
 # Igenamigambi Ry'iterambere
 
-Ibintu by'ingenzi bikurikira biri gutezwa imbere:
+## Byarangiye
+
+- [x] RSS
+- [x] gushakisha moteri
+
+## Mu Iterambere
 
 - [ ] Guhindura hagati yuburyo bwinshi bwinyandiko
 - [ ] Shakisha imbere-iherezo ryuzuye-shakisha
-- [ ] RSS
-- [ ] gushakisha moteri
 - [ ] Icyarimwe gusunika ingingo zamakuru kurubuga rusange
 - [ ] Imeri iraboneka kubakoresha `web push` Kwiyandikisha kuvugurura ibicuruzwa /
 - [ ] Tanga ibisobanuro ku bika

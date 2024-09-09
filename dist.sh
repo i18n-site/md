@@ -6,7 +6,7 @@ set -ex
 
 cd out/ol/htm
 targets=(
-  "baidu:/i18n/"
+  "baidu:/i18n"
   "b2-i18n:/i18nsite"
 )
 

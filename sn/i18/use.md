@@ -55,25 +55,9 @@ Iwo akashandurwa demo mafaira `en` dhairekitori ingori muenzaniso uye anogona ku
 
 Pinda dhairekitori womhanya `i18` kuti ushandure.
 
-### Wedzera Mafaira Kune Repository
+Pamusoro peshanduro, chirongwa chinozogadzirawo `.i18n/data` folda, ndapota wedzera kune repository.
 
-Pamusoro pekushandura, chirongwa chinozogadzirawo mafaera anotevera, ndapota wedzera kune repository.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Pakati pavo, zviri mukati `.i18n/cache/.gitignore` ndezvizvi zvinotevera :
-
-```
-**/*
-!**/.gitignore
-```
-
-Izvi zvinoreva kuti mafaera ese ari mudhairekitori `.i18n/cache/` (kunze `.i18n/cache/.gitignore` ) haana hanya.
-
-Kana yako vhezheni yekudzora software isiri `git` , ndapota iregeredza zvinoenderana nekugadziriswa uku.
+Mushure mekushandura faira idzva, faira idzva re data richagadzirwa mune ino dhairekitori Rangarira kuisa `git add .` .
 
 ## Configuration File
 

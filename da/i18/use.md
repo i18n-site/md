@@ -55,25 +55,9 @@ Skabelonens lagermappestruktur er som følger:
 
 Gå til mappen og kør `i18` for at oversætte.
 
-### Tilføj filer til versionskontrol
+Programmet genererer udover oversættelsen også mappen `.i18n/data`, som du venligst skal tilføje til dit versionssystem.
 
-Programmet genererer udover oversættelsen også følgende filer, som skal tilføjes til versionskontrollen.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Herunder er indholdet af `.i18n/cache/.gitignore`:
-
-```
-**/*
-!**/.gitignore
-```
-
-Dette betyder, at alle filer i `.i18n/cache/`-mappen ignoreres (med undtagelse af `.i18n/cache/.gitignore`).
-
-Hvis din versionskontrolsoftware ikke er `git`, skal du konfigurere ignoreringen i overensstemmelse hermed.
+Efter oversættelse af nye filer vil der blive oprettet nye datafiler i denne mappe. Husk at tilføje dem med `git add .`.
 
 ## Konfigurationsfil
 

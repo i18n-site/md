@@ -55,25 +55,9 @@ De oersette demo-bestannen yn 'e `en` map binne gewoan in foarbyld en kinne wisk
 
 Fier de map yn en fier `i18` om te oersetten.
 
-### Foegje Bestannen Ta Oan It Repository
+Neist de oersetting sil it programma ek de map `.i18n/data` generearje, foegje it asjebleaft ta oan it repository.
 
-Neist oersetting sil it programma ek de folgjende bestannen generearje, foegje se asjebleaft ta oan it repository.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Under harren is de ynhâld fan `.i18n/cache/.gitignore` as folget :
-
-```
-**/*
-!**/.gitignore
-```
-
-Dit betsjut dat alle triemmen yn map `.i18n/cache/` (útsein `.i18n/cache/.gitignore` ) wurde negearre.
-
-As jo software foar ferzjekontrôle net `git` is, negearje it dan asjebleaft neffens dizze konfiguraasje.
+Nei it oersetten fan it nije bestân sil in nije gegevensbestân yn dizze map oanmakke wurde Unthâld om `git add .` taheakje te kinnen.
 
 ## Konfiguraasjetriem
 

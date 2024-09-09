@@ -2,7 +2,7 @@
 
 Raiso ho ohatra ny tetikasa demo:
 
-`en/demo2/v` no laharan'ny dikan-teny amin'izao fotoana izao, izay haseho eo ankavanan'ny anaran'ny tetikasa ao amin'ny rindran-tsindrim-baravarana.
+`en/demo2/v` no laharan'ny dikan-teny amin'izao fotoana izao, izay haseho eo ankavanan'ny anaran'ny tetikasa ao amin'ny rindran-damina.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

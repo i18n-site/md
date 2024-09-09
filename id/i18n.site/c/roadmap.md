@@ -1,11 +1,14 @@
 # Perencanaan Pembangunan
 
-Fitur-fitur penting berikut sedang dikembangkan:
+## Selesai
+
+- [x] Umpan RSS
+- [x] optimasi mesin pencari
+
+## Sedang Dikembangkan
 
 - [ ] Beralih di antara beberapa versi dokumen
 - [ ] Pencarian teks lengkap front-end murni
-- [ ] Umpan RSS
-- [ ] optimasi mesin pencari
 - [ ] Secara bersamaan dorong pembaruan artikel ke media sosial utama
 - [ ] Email tersedia untuk pengguna / `web push` Berlangganan pembaruan produk
 - [ ] Mengomentari paragraf artikel

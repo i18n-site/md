@@ -20,7 +20,7 @@ Kune zvakare chiitiko chakakwana chekuverenga parunhare mbozha.
 
 ## <a rel=id href="#ha" id="ha"></a> Kumberi-kumagumo kuwanikwa kwepamusoro
 
-`i18n.site` ichaburitsa zvirimo zvesaiti kune `npmjs.com` nekukasira, nerubatsiro [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) uye zvimwe `CDN` zvirimo zvakaiswa `npm` .
+`i18n.site` ichaburitsa zvirimo zvesaiti kune `npmjs.com` nekukasira, nerubatsiro [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) uye zvimwe zvakawanda `CDN` zvemukati zvakarodha `npm` .
 
 Pahwaro uhwu, masosi egirazi kubva kumahombekombe eChina akawedzerwa kuti abvumire vashandisi veChinese kuwana yakagadzikana uye kuwana **yakakwirira-yekupedzisira-kuwanikwa** .
 
@@ -43,6 +43,12 @@ Iyo webhusaiti inotora imwe-peji application yekuvaka, isina zororo kana uchichi
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Tinya pano kuti uone runyoro rwezvitaera](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Mufananidzo uri pamusoro unoratidza mitauro yakawanda `RSS` uchishandisa [inoreader.com](//inoreader.com) `i18n.site` .
 
 ### Rodha Mafonti Epamhepo, Tsigira chiChinese
 
@@ -74,10 +80,10 @@ Saver mbeva yako pamusoro pebhatani riri kurudyi rwepamusoro navigation kuti uon
 
 ### `404` Chipoko
 
-Pane chipoko chidiki chakanaka chinoyangarara pane peji `404` , chine maziso achafamba negonzo, [➔ Dzvanya apa kuti uone](/404) ,
+`404` peji ine chipoko chidiki chakanaka chinoyangarara, maziso ayo achafamba negonzo, [➔ Dzvanya apa kuti uone](/404) ,
 
 ## Code Open Source
 
 [The code is open source](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Pane zvakawanda zvidiki zvinodiwa zvakakosha asi zvisiri zvekukurumidzira Chikwata chekusimudzira chinopa mabasa ekudzidzira zvinoenderana nehunyanzvi hwauri kugona, uye kuvandudza magwaro ebudiriro uchigovera zvinodiwa.
+Pane zvakawanda zvidiki zvinodiwa zvakakosha asi kwete zvekukurumidzira Chikwata chekusimudzira chinopa mabasa ekudzidzira zvinoenderana nehunyanzvi hwauri kuita, uye kuvandudza magwaro ebudiriro uchigovera zvinodiwa.

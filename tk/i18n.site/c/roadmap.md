@@ -1,11 +1,14 @@
 # Ösüşi Meýilleşdirmek
 
-Aşakdaky möhüm aýratynlyklar işlenip düzülýär:
+## Tamamlandy
+
+- [x] RSS iýmit
+- [x] gözleg motory optimizasiýasy
+
+## Ösüş Astynda
 
 - [ ] Resminamalaryň birnäçe wersiýasynyň arasynda geçmek
 - [ ] Arassa doly tekstli gözleg
-- [ ] RSS iýmit
-- [ ] gözleg motory optimizasiýasy
 - [ ] Şol bir wagtyň özünde makala täzelenmelerini esasy sosial mediýa iteriň
 - [ ] Ulanyjylara elýeterli e-poçta `web push` Önüm täzelenmelerine ýazylyň /
 - [ ] Makalanyň abzaslaryna düşündiriş beriň

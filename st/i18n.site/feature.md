@@ -37,12 +37,18 @@ Sebaka sa marang-rang se amohela moralo oa ts'ebeliso ea leqephe le le leng, ntl
 ### Mokhoa O Hlophisitsoeng Hantle
 
 > Botle ba bonolo bo hlalosoa ka mokhoa o phethahetseng moahong oa marang-rang oa sebaka sena sa marang-rang.
-> E tlohela mokhabiso o sa hlokahaleng mme e hlahisa litaba ka mokhoa oa eona o hloekileng.
+> E lahla mokhabiso o sa tloaelehang 'me e hlahisa litaba ka mokhoa oa eona o hloekileng.
 > Joaloka thothokiso e monate, le hoja e le khutšoanyane, e ama lipelo tsa batho.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Tobetsa mona ho bona lenane la litaele](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Setšoantšo se ka holimo se bonts'a lipuo tse ngata `RSS` ho [inoreader.com](//inoreader.com) peeletso `i18n.site` .
 
 ### Laola Lifonti Tsa Inthaneteng, Tšehetsa Sechaena
 
@@ -70,7 +76,7 @@ Ha u tsamaisetsa litaba ka ho le letona, kemiso e ka letsohong le letšehali e t
 
 ### Liphello Tsa Mouse
 
-Tsamaisa mouse ea hau holim'a konopo e ka letsohong le letona la navigation e holimo ho bona litlamorao tse ikhethang.
+Tsamaisa mouse ea hau holim'a konopo e ka lehlakoreng le letona la navigation e holimo ho bona litlamorao tse ikhethang.
 
 ### `404` Sepoko Se Senyane
 
@@ -80,4 +86,4 @@ Ho na le sepoko se senyane se phaphametseng leqepheng la `404` , seo mahlo a son
 
 [Khoutu ke mohloli o bulehileng](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Ho na le litlhokahalo tse ngata tse nyane tse bohlokoa empa eseng tse potlakileng Sehlopha sa nts'etsopele se tla u abela mesebetsi ea boikoetliso ho latela theknoloji eo u leng ho eona hantle, le ho ntlafatsa litokomane tsa nts'etsopele ha u ntse u fana ka litlhoko.
+Ho na le litlhokahalo tse ngata tse nyane tse bohlokoa empa eseng tse potlakileng Sehlopha sa nts'etsopele se tla u fa mesebetsi ea matsoho ho latela mahlale ao u nang le ona hantle, le ho ntlafatsa litokomane tsa nts'etsopele ha li ntse li fana ka litlhoko.

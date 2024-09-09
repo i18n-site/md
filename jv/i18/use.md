@@ -55,25 +55,9 @@ File demo sing diterjemahake ing direktori `en` mung minangka conto lan bisa dib
 
 Ketik direktori lan mbukak `i18` kanggo nerjemahake.
 
-### Tambah File Menyang Repositori
+Saliyane terjemahan, program kasebut uga bakal ngasilake folder `.i18n/data` , mangga ditambahake menyang repositori.
 
-Saliyane terjemahan, program kasebut uga bakal ngasilake file ing ngisor iki, mangga ditambahake menyang repositori.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Ing antarane, isi `.i18n/cache/.gitignore` kaya ing ngisor iki :
-
-```
-**/*
-!**/.gitignore
-```
-
-Iki tegese kabeh file ing direktori `.i18n/cache/` (kajaba `.i18n/cache/.gitignore` ) ora digatekake.
-
-Yen piranti lunak kontrol versi sampeyan ora `git` , monggo digatekake miturut konfigurasi iki.
+Sawise nerjemahake file anyar, file data anyar bakal digawe ing direktori iki Elinga nambah `git add .` .
 
 ## File Konfigurasi
 

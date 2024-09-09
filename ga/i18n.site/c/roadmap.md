@@ -1,11 +1,14 @@
 # Pleanáil Forbartha
 
-Tá na gnéithe tábhachtacha seo a leanas á bhforbairt:
+## Críochnaithe
+
+- [x] Fotha RSS
+- [x] leas iomlán a bhaint inneall cuardaigh
+
+## Faoi Fhorbairt
 
 - [ ] Aistriú idir leaganacha iolracha de dhoiciméid
 - [ ] Cuardach téacs iomlán íon tosaigh
-- [ ] Fotha RSS
-- [ ] leas iomlán a bhaint inneall cuardaigh
 - [ ] Nuashonruithe alt a bhrú ar na meáin shóisialta mhóra ag an am céanna
 - [ ] Ríomhphost ar fáil d'úsáideoirí / `web push` Liostáil le nuashonruithe táirge
 - [ ] Déan trácht ar mhíreanna alt

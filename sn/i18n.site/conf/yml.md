@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Pakati pavo, `upload` kusvika `ext:` yekumisikidza chinhu zvinoreva kuti `.md` chete ndiyo ichaiswa pairi kudhindwa.
@@ -35,7 +37,7 @@ Pakati pavo, `i18n: home` inoenderana `home: Home` `en/i18n.yml` .
 
 Mushure mokunge shanduro yapera, unogona kugadzirisa kukosha kwekushandura `yml` , asi usawedzera kana kubvisa kiyi yekushandura `yml` .
 
-### `use: Toc` , Single File Template (Ine Rondedzero)
+### `use: Toc` , Imwechete Faira Template (Ine Rondedzero)
 
 `nav` :
 
@@ -110,12 +112,12 @@ Kugadziriswa kwe `i18n:doc` kubva `.i18n/conf.yml` ndeye multi-project mode.
 
 Pano, `menu: NB demo1,demo2` , zvinoreva kushandisa `NB` template kupa iyo yekudonha-pasi menyu.
 
-`NB` , inova chidimbu `Name Breif` , zvinoreva kuti menyu yekudonha inogona kuratidza zita uye sirogani yeprojekiti.
+`NB` , inova chidimbu `Name Breif` , zvinoreva kuti iyo yekudonha-pasi menyu inogona kuratidza zita uye sirogani yepurojekiti.
 
 `NB` inoteverwa neparameter `demo1,demo2` yakapfuudzwa kwairi.
 `demo1,demo2` : ** `,` **
 
-Iyo inoenderana dhairekitori index faira kune iri pamusoro paramita ndeiyi:
+Kune ma parameter ari pamusoro, iyo inoenderana dhairekitori index faira ndeye:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Mitsetse miviri inotevera inoratidzwa muscreenshot pazasi.
 `news/README.md` inoenderana `News` ,
 `news/begin.md` inoenderana `Our Product is Online !`
 
-`TOC` mafaera akaiswa mukati kuti aratidze hukama hwehumambo hweiyo ratidziro uye kutsigira akawanda-level indentation.
+`TOC` mafaira akaiswa mukati kuti aratidze hukama hwehumambo hwechiratidziro, tsigiro yakawanda-level indentation, uye mitsetse yekutaura inotanga `#` .
 
 ##### Chiyero Chemubereki Chinonyora Musoro Chete, Kwete Zviri Mukati.
 
@@ -162,7 +164,7 @@ Kana paine akati wandei mazinga e indentation, chikamu chemubereki chinongonyora
 
 Zviri mukati zvinogona kunyorwa muchinhu `README.md` , senge `en/demo2/README.md` .
 
-Ziva kuti zviri mufaira iri hazviratidzi tafura yezviri mukati, saka zvinokurudzirwa kudzikamisa kureba uye kunyora sumo pfupi.
+Ziva kuti zviri mufaira iri hazviratidze tafura yezviri mukati, saka zvinokurudzirwa kudzikamisa kureba uye kunyora sumo pfupi.
 
 ###### Project Sirogani
 
@@ -188,7 +190,7 @@ Semuenzaniso, kana mutauro unobva kuChinese, ipapo `TOC` kumusoro ndiye `zh/blog
 
 Kana mutauro wemabviro ukagadziridzwa, unofanirwa kufambisa `TOC` mafaera emumwe mutauro mupurojekiti kuenda kune mumwe mutauro.
 
-Unogona kutarisa kune inotevera mirairo:
+Iwe unogona kutarisa kune inotevera mirairo:
 
 ```
 rsync -av --remove-source-files --include='*/' \

@@ -8,7 +8,7 @@ Nongonoko wu na vuhundzuluxeri bya `i18` lebyi akiweke endzeni, hi kombela u von
 
 Ririmi ra xiviri ra webusayiti ri ta fambisana hi ku tisungulela na ririmi ra browser.
 
-Endzhaku ka loko mutirhisi a cince tindzimi hi voko, ku hlawula ka mutirhisi ku ta tsundzukiwa.
+Endzhaku ka loko mutirhisi a cince tindzimi hi voko, ku ta tsundzukiwa ku hlawula ka mutirhisi.
 
 Khodi leyi fambelanaka na [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ Nakambe ku ni ntokoto lowu hetisekeke wo hlaya eka riqingho ra le mavokweni.
 
 ## <a rel=id href="#ha" id="ha"></a> Ku kumeka ka le henhla ka le mahlweni
 
-`i18n.site` yi ta kandziyisa swilo swa sayiti eka `npmjs.com` hi ku tiyimisela, hi ku pfuniwa hi [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) na swin’wana swa `CDN` leswi layichiweke eka `npm` .
+`i18n.site` yi ta kandziyisa nhundzu ya sayiti eka `npmjs.com` hi ku tiyimisela, hi ku pfuniwa hi [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) na swin’wana swo tala swa `CDN` leswi layichiweke eka `npm` .
 
 Eka xisekelo lexi, swihlovo swa swivoni leswi humaka etikweni-nkulu ra China swi engeteriwile ku pfumelela vatirhisi va China ku va na mfikelelo lowu tiyeke na ku fikelela **vukona bya le henhla bya le mahlweni** .
 
@@ -37,12 +37,18 @@ Webusayiti yi amukela xivumbeko xa xitirhisiwa xa tluka rin’we, ku nga ri na k
 ### Xitayili Lexi Endliweke Kahle
 
 > Ku saseka ka ku olova ku hlamuseriwa hi ku hetiseka eka dizayini ya webu ya webusayiti leyi.
-> Yi tshika ku khavisa loku nga lavekiki naswona yi nyikela leswi nga endzeni hi xivumbeko xa yona lexi tengeke swinene.
+> Yi tshika ku khavisa loku nga lavekiki naswona yi humesa leswi nga endzeni hi xivumbeko xa yona lexi tengeke swinene.
 > Ku fana na xitlhokovetselo xo saseka, hambileswi xi nga komile, xi khumba timbilu ta vanhu.
 
 <p style="text-align:right">I18N.SITE Mutsari</p>
 
 [➔ Click laha ku vona nxaxamelo wa switayele](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Xifaniso lexi nga laha henhla xi kombisa tindzimi to tala `RSS` [inoreader.com](//inoreader.com) ku tirhisa xikhokhelo `i18n.site` .
 
 ### Layicha Tifonto Ta Inthanete, Seketela Xichayina
 
@@ -74,7 +80,7 @@ Hover mouse ya wena ehenhla ka button leyi nga etlhelo ra xinene ra navigation y
 
 ### `404` Xipoko Lexitsongo
 
-Kuna xipoko lexintsongo xo saseka lexi papamalaka eka tluka ra `404` , lexi mahlo ya xona yanga ta famba na mbeva, [➔ Click here to view](/404) , .
+`404` page yi na xipoko lexitsongo xo saseka lexi papamalaka, mahlo ya xona ya ta famba hi mbeva, [➔ Click here to view](/404) , .
 
 ## Khodi Ya Xihlovo Lexi Pfulekeke
 

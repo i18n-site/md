@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Wɔn mu no, `upload` kosi `ext:` nhyehyɛe ade kyerɛ sɛ `.md` pɛ na wɔde bɛto so bere a wɔretintim no.
@@ -59,7 +61,7 @@ Wubetumi asesa `use: Toc` wɔ atifi hɔ nhyehyeɛ no mu akɔ `use: Md` , ayɛ `i
 
 ### Default Loading a Enni Nhyehyɛe Kwan
 
-Sɛ wɔkɔ ɔkwan pɔtee bi so na wɔanhyehyɛ ne kwan prefix no wɔ `nav:` mu a, wɔde fael `MarkDown` a ɛne ɔkwan no hyia no bɛhyɛ default so na wɔde `Md` template no akyerɛ.
+Sɛ wɔkɔ ɔkwan pɔtee bi so na wɔanhyehyɛ ne kwan anim asɛm no wɔ `nav:` mu a, wɔde fael `MarkDown` a ɛne ɔkwan no hyia no bɛhyɛ mu default na wɔde `Md` template no akyerɛ.
 
 Sɛ nhwɛsoɔ no, sɛ wɔkɔ `/test` so, na wɔhyehyɛ `nav:` a saa kwan yi nni mu, na krataafa kasa no yɛ Borɔfo kasa (code `en` ), `/en/test.md` bɛ load default na wɔde template `Md` akyerɛ ase.
 
@@ -115,7 +117,7 @@ Nsiesiei a ɛwɔ `i18n:doc` fi `.i18n/conf.yml` mu no yɛ multi-project mode.
 `NB` akyi no, parameter `demo1,demo2` a wɔde kɔ no.
 Hyɛ no : ** Ɛnsɛ sɛ ahunmu ** biara wɔ hɔ ansa na koma `,` wɔ `demo1,demo2` mu ne akyi .
 
-Directory index fael a ɛne no hyia ma atifi hɔ parameters no ne:
+Wɔ atifi hɔ parameters no ho no, directory index fael a ɛne no hyia no ne:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Ntrɛwmu abien a edi hɔ no te sɛ nea wɔakyerɛ wɔ screenshot a ɛwɔ ase ha 
 `news/README.md` ne `News` , .
 `news/begin.md` ne `Our Product is Online !` hyia
 
-Wɔde fael `TOC` ahyɛ mu de akyerɛ abusuabɔ a ɛwɔ nkyerɛwde no mu na ɛboa indentation a ɛwɔ gyinabea ahorow pii.
+Wɔde fael `TOC` ahyɛ mu de akyerɛ abusuabɔ a ɛwɔ nkyerɛwde no mu, ɛboa nkyerɛwde a ɛwɔ sorosoro pii, ne nkyerɛwde a wɔde `#` fi ase.
 
 ##### Ɔwofoɔ Level No Kyerɛw Asɛmti No Nko Ara, Na Ɛnyɛ Emu Nsɛm No.
 

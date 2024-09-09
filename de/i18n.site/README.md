@@ -2,22 +2,20 @@
 
 `i18n.site` – mehrsprachiger, rein statischer Dokumentationsgenerator.
 
-Derzeit ist es grundlegend einsatzbereit, aber wichtige Funktionen werden noch entwickelt. Siehe [Entwicklungsplan](/i18n.site/c/roadmap).
-
-<button onclick="mailsub()">Klicken Sie bitte auf diese E-Mail, um Produktaktualisierungen zu abonnieren</button> und <button onclick="webpush()">den Browser-Push zu aktivieren</button>. Wir benachrichtigen Sie, wenn Produktaktualisierungen vorgenommen werden.
-
-Folgen Sie auch gerne unseren sozialen Konten [X.COM: @i18nSite](https://x.com/i18nSite) / [i18n-site.bsky.social](https://bsky.app/profile/i18n-site.bsky.social).
-
 ## Einleitung
 
-`i18n.site` ist meine Neubewertung des Website-Entwicklungsmodells.
+`i18n.site` ist nicht nur ein Generator für Dokumentationsseiten, sondern auch ein Framework für die Entwicklung von Websites.
 
-Es ist sowohl ein Dokumentationsgenerator als auch ein Website-Entwicklungsrahmenwerk.
-
-Ein neues Paradigma der Website-Entwicklung, das `MarkDown` in den Mittelpunkt stellt und durch Frontend-Komponenten Interaktivität integriert.
+Ein neues Paradigma der Webentwicklung, bei dem `MarkDown` im Zentrum steht und mit Frontend-Komponenten Interaktivität integriert wird.
 
 Jede Frontend-Komponente ist ein unabhängig installierbares Paket.
 
 Aufbauend auf der Trennung von Frontend und Backend gibt es auch eine Trennung von statischen Inhalten und dynamischen Daten.
 
-Die von Ihnen besuchte [i18n.site](/) ist auf diesem Framework aufgebaut (inklusive Benutzersystem, Abrechnungssystem, E-Mail-Abonnement etc.).
+Die von Ihnen besuchte [i18n.site](/) ist auf diesem Framework aufgebaut (inklusive Benutzersystem, Abrechnungssystem, E-Mail-Abonnement usw.).
+
+## Bleiben Sie in Kontakt
+
+<button onclick="mailsub()">Bitte hier klicken, um Produktupdates per E-Mail zu abonnieren</button> und <button onclick="webpush()">den Browser-Push zu aktivieren</button>, wir werden Sie bei Produktupdates informieren.
+
+Bitte auch unsere Social-Media-Konten folgen: [X.COM: @i18nSite](https://x.com/i18nSite) / [i18n-site.bsky.social](https://bsky.app/profile/i18n-site.bsky.social).

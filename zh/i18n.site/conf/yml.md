@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 其中，`upload`的`ext:`配置项，表示发布时只上传`.md`。
@@ -152,7 +154,7 @@ news/README.md
 `news/README.md`对应的是`News`，
 `news/begin.md`对应的是`Our Product is Online !`
 
-`TOC`文件通过缩进，表示大纲层级关系，支持多层缩进。
+`TOC`文件通过缩进，表示大纲层级关系，支持多层缩进, 以`#`开头的行为注释。
 
 ##### 父层级只写标题，不写内容
 

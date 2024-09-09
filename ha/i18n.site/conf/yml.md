@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Daga cikin su, `upload` zuwa `ext:` abu na daidaitawa yana nufin cewa `.md` kawai za a loda lokacin bugawa.
@@ -45,7 +47,7 @@ Bayan an gama fassarar, zaku iya canza darajar fassarar `yml` , amma kar a ƙara
     url: /
 ```
 
-`use: Toc` yana nufin yin amfani da samfuri `Toc` , wanda ke yin samfuri guda `Markdown` .
+`use: Toc` yana nufin yin amfani da samfuri `Toc` , wanda ke samar da samfuri guda `Markdown` .
 
 `TOC` shine gajartawar `Table of Contents` Lokacin da aka yi wannan samfuri, za a nuna jigon wannan fayil ɗin `Markdown` a cikin labarun gefe.
 
@@ -53,7 +55,7 @@ Bayan an gama fassarar, zaku iya canza darajar fassarar `yml` , amma kar a ƙara
 
 ### `use: Md` , Samfurin Fayil Guda Ɗaya (Babu Shaci)
 
-Samfurin `Md` da samfurin `Toc` iri ɗaya ne kuma ana amfani da su duka don yin fayil guda `Markdown` . Amma samfuri guda `Md` baya nuna jita-jita a ma'aunin labarun gefe.
+Samfurin `Md` da samfuri `Toc` iri ɗaya ne kuma ana amfani da su duka don yin fayil guda `Markdown` . Amma samfuri guda `Md` baya nuna jita-jita a ma'aunin labarun gefe.
 
 Kuna iya canza `use: Toc` a cikin tsarin da ke sama zuwa `use: Md` , sake gudanar da `i18n.site` a cikin kundin adireshi `md` , sannan ku ziyarci URL ɗin samfoti na ci gaba don lura da canje-canje a shafin farko.
 
@@ -115,14 +117,14 @@ Anan, `menu: NB demo1,demo2` , yana nufin amfani da samfuri `NB` don yin menu na
 `NB` yana biye da siga `demo1,demo2` da aka wuce zuwa gare shi.
 Lura : ** Kada a sami sarari ** kafin da bayan waƙafi `,` cikin `demo1,demo2` .
 
-Fayil ɗin fihirisar adireshi mai dacewa don sigogin da ke sama shine:
+Don sigogin da ke sama, fayil ɗin fihirisar jagora mai dacewa shine:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
 #### TOC Tebur Abun Ciki Index
 
-`i18n.site` zai aiwatar da `js` plug-in `.i18n/hook/after.tran/TOC.js` a cikin ɗakin ajiyar demo don karanta fayil ɗin jagorar jagorar `doc` wanda ya dace da tsarin samfuri `TOC` don samar da jigon jagorar `json` .
+`i18n.site` zai aiwatar da `js` plug-in `.i18n/hook/after.tran/TOC.js` a cikin ɗakin ajiya na demo don karanta fayil ɗin index na kundin adireshi `doc` wanda ya dace da tsarin samfuri `TOC` don samar da jigon jagorar `json` .
 
 Idan kuna amfani da samfuri `doc` , dole ne ku sami wannan plug-in.
 
@@ -152,7 +154,7 @@ Layukan biyu na gaba suna kamar yadda aka nuna a hoton da ke ƙasa.
 `news/README.md` yayi daidai da `News` ,
 `news/begin.md` yayi daidai da `Our Product is Online !`
 
-Fayilolin `TOC` an ƙulla su don nuna alaƙar matsayi na jimillar da goyan bayan shigar da matakai masu yawa.
+Fayilolin `TOC` an ɗora su don nuna alaƙar matsayi na faci, goyan bayan shigar da matakai da yawa, da sharhin layi wanda ya fara da `#` .
 
 ##### Matsayin Iyaye Kawai Yana Rubuta Take, Ba Abun Ciki Ba.
 
@@ -178,7 +180,7 @@ Wannan yayi daidai da layin farko `en/demo2/README.md` :
 
 Abubuwan da ke cikin bayan hanin farko na `:` na taken matakin farko na aikin `README.md` za a ɗauke su azaman taken aikin.
 
-Masu amfani daga China, Japan da Koriya, da fatan za a yi amfani da hanin rabin nisa `:` maimakon cikakken hanji.
+Masu amfani daga China, Japan da Koriya, lura cewa yakamata ku yi amfani da hanin rabin nisa `:` maimakon cikakken hanji.
 
 ##### Yadda Za a Matsar Da TOC Da Yawa?
 

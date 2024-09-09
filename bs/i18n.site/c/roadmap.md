@@ -1,11 +1,14 @@
 # Planiranje Razvoja
 
-Sljedeće važne karakteristike su u razvoju:
+## Završeno
+
+- [x] RSS feed
+- [x] optimizacija za pretraživače
+
+## U Razvoju
 
 - [ ] Prebacivanje između više verzija dokumenata
 - [ ] Čisto front-end pretraživanje punog teksta
-- [ ] RSS feed
-- [ ] optimizacija za pretraživače
 - [ ] Istovremeno pošaljite ažuriranja članaka na glavne društvene mreže
 - [ ] E-mail dostupan korisnicima `web push` Pretplatite se na ažuriranja proizvoda /
 - [ ] Komentirajte stavove članka

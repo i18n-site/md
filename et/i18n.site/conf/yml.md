@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Nende hulgas tähendab `upload` kuni `ext:` konfiguratsiooniüksust, et avaldamisel laaditakse üles ainult `.md` .
@@ -92,7 +94,7 @@ Näitab `Doc` kasutamist malli renderdamiseks.
 
 ##### Kui url on Tühi, on Selle Vaikimisi Väärtus i18n
 
-Kui `url` pole kirjutatud, on `url` vaikimisi väärtus `i18n` See reegel kehtib ka muude mallide puhul.
+Kui `url` ei ole kirjutatud, on `url` vaikimisi väärtus `i18n` See reegel kehtib ka muude mallide puhul.
 
 Ülaltoodud kirjutamismeetod on samaväärne `url: blog` ga ja sellele vastav fail on `en/blog/TOC` .
 
@@ -115,7 +117,7 @@ Siin tähendab `menu: NB demo1,demo2` malli `NB` kasutamist rippmenüü renderda
 `NB` järgneb sellele edastatud parameeter `demo1,demo2` .
 Märkus : ** Koma `,` : `demo1,demo2` ees ja järel ei tohi olla ** .
 
-Ülaltoodud parameetrite vastav kataloogiindeksi fail on:
+Ülaltoodud parameetrite jaoks on vastav kataloogiindeksi fail:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Järgmised kaks rida on sellised, nagu on näidatud alloleval ekraanipildil.
 `news/README.md` vastab `News` ,
 `news/begin.md` vastab `Our Product is Online !`
 
-`TOC` failid on taandega, et näidata kontuuri hierarhilist seost ja toetada mitmetasandilist taanet.
+`TOC` failid on taandega, et näidata kontuuri hierarhilist seost, toetada mitmetasandilist taanet ja reakommentaare, mis algavad `#` ga.
 
 ##### Vanemtasand Kirjutab Ainult Pealkirja, Mitte Sisu.
 
@@ -178,7 +180,7 @@ See vastab `en/demo2/README.md` esimesele reale :
 
 Projekti `README.md` esimese taseme pealkirja esimese kooloni `:` järel olevat sisu loetakse projekti loosungiks.
 
-Hiinast, Jaapanist ja Koreast pärit kasutajad pange tähele, et täislaiuse käärsoole asemel peaksite kasutama poollaiust koolonit `:` .
+Hiina, Jaapani ja Korea kasutajad pange tähele, et täislaiuse käärsoole asemel peaksite kasutama poollaiust koolonit `:` .
 
 ##### Kuidas TOC-I Hulgi Teisaldada?
 

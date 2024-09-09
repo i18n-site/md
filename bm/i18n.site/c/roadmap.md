@@ -1,11 +1,14 @@
 # Yiriwali Bolodacogo
 
-Nin fɛn nafama ninnu bɛ ka labɛn:
+## A Dafara
+
+- [x] RSS ka baarakɛminɛnw
+- [x] ɲininikɛlanw ɲɛnabɔli
+
+## Yiriwali Kɔnɔ
 
 - [ ] Sɛbɛnw suguya caman ɲɔgɔnna cili
 - [ ] Pure front-end sɛbɛnni dafalen ɲinini
-- [ ] RSS ka baarakɛminɛnw
-- [ ] ɲininikɛlanw ɲɛnabɔli
 - [ ] O waati kelen na, aw bɛ barokun kuraw gɛlɛya ka taa sosiyete ka kunnafonidilanbaw kan
 - [ ] Email bɛ sɔrɔ baarakɛlaw / `web push` Aw ye aw tɔgɔ sɛbɛn ka fɛn kuraw sɔrɔ
 - [ ] I ka kuma barokun dakunw kan

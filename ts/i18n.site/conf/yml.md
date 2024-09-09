@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Exikarhi ka swona, `upload` ku ya eka `ext:` wa nchumu wa vuhlanganisi swi vula leswaku i `.md` ntsena lowu nga ta layicha loko ku kandziyisiwa.
@@ -115,7 +117,7 @@ Laha, `menu: NB demo1,demo2` , swi vula ku tirhisa xifaniso xa `NB` ku humesa me
 `NB` yi landzeriwa hi parameter `demo1,demo2` leyi hundziseriweke eka yona.
 Xiya : ** A ku fanelanga ku va na swivandla ** emahlweni na le ndzhaku ka khoma `,` eka `demo1,demo2` .
 
-Fayili ya xikombo xa vukorhokeri leyi fambelanaka ya tipharamitha leti nga laha henhla i:
+Eka tipharamitha leti nga laha henhla, fayili ya index ya directory leyi fambelanaka i:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Mitila yimbirhi leyi landzelaka yi tanihilaha swi kombisiweke hakona eka xifanis
 `news/README.md` yi fambelana na `News` , .
 `news/begin.md` yi fambelana na `Our Product is Online !`
 
-`TOC` wa tifayela ti nghenisiwile ku kombisa vuxaka bya xiyimo xa le henhla bya xivumbeko na ku seketela ku nghenisiwa ka swiyimo swo tala.
+`TOC` wa tifayela ti nghenisiwile ku kombisa vuxaka bya xiyimo xa le henhla bya xivumbeko, ku seketela ku nghenisiwa ka swiyimo swo tala, na mavonelo ya milayeni lama sungulaka hi `#` .
 
 ##### Level Ya Mutswari Yi Tsala Nhlokomhaka Ntsena, Ku Nga Ri Leswi Nga Endzeni.
 

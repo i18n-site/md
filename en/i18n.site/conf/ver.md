@@ -2,7 +2,7 @@
 
 Taking the demo project as an example:
 
-In `en/demo2/v`, it is the current version number of the project, which will be displayed on the right side of the project name in the sidebar outline.
+`en/demo2/v` is the current version number of the project, and it will be shown on the right side of the project name in the sidebar outline.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

@@ -55,25 +55,9 @@ Klonladıktan sonra dizine girin ve `i18` komutunu çalıştırarak çeviriyi ta
 
 Dizine girin ve `i18` komutunu çalıştırarak çeviriyi gerçekleştirin.
 
-### Depoya Dosya Ekleyin
+Program, çeviriye ek olarak `.i18n/data` dizinini de oluşturacaktır; lütfen bu dizini depoya ekleyin.
 
-Program, çeviriye ek olarak aşağıdaki dosyaları da oluşturur; bunları depoya eklemelisiniz.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-`.i18n/cache/.gitignore` dosyasının içeriği şu şekildedir:
-
-```
-**/*
-!**/.gitignore
-```
-
-Bu, `.i18n/cache/` dizinindeki tüm dosyaların göz ardı edileceği anlamına gelir (`.i18n/cache/.gitignore` hariç).
-
-Eğer sürüm kontrol yazılımınız `git` değilse, bu yapılandırmayı dikkate almayın.
+Yeni bir dosya çevrildiğinde bu dizin altında yeni bir veri dosyası oluşturulacaktır. `git add .` komutunu eklemeyi unutmayın.
 
 ## Yapılandırma Dosyası
 

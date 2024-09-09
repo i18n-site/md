@@ -20,7 +20,7 @@ Jübi telefonynda ajaýyp okamak tejribesi hem bar.
 
 ## <a rel=id href="#ha" id="ha"></a> Öň tarapy ýokary elýeterlilik
 
-`i18n.site` sahypanyň mazmunyny `npmjs.com` e, [unpkg.com](//unpkg.com) we `npm` e ýüklenen beýleki `CDN` mazmunyň kömegi bilen çap eder [jsdelivr.com](//jsdelivr.com)
+`i18n.site` sahypanyň mazmunyny `npmjs.com` e, `npm` e ýüklenen beýleki `CDN` mazmunyň kömegi [unpkg.com](//unpkg.com) çap eder [jsdelivr.com](//jsdelivr.com)
 
 Şol esasda, hytaýly ulanyjylara durnukly girmek we **ýokary derejeli elýeterliligi** gazanmak üçin Hytaýyň materiklerinden aýna çeşmeleri goşuldy.
 
@@ -37,12 +37,18 @@ Sahypa, bir sahypalyk programma arhitekturasyny kabul edýär, sahypalary üýtg
 ### Gowy Dizaýn Edilen Stil
 
 > Ityönekeýligiň gözelligi bu web sahypasynyň web dizaýnynda ajaýyp düşündirilýär.
-> Gereksiz bezegi terk edýär we mazmuny iň arassa görnüşinde hödürleýär.
+> Artykmaç bezegi terk edýär we iň arassa görnüşinde mazmuny hödürleýär.
 > Owadan goşgy ýaly, gysga bolsa-da, adamlaryň ýüregine täsir edýär.
 
 <p style="text-align:right"></s> Awtor I18N.SITE</p>
 
 [Stil Stilleriň sanawyny görmek üçin şu ýere basyň](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Aboveokardaky surat `i18n.site` abuna `RSS` görkezýär [inoreader.com](//inoreader.com)
 
 ### Onlaýn Şriftleri Ýükläň, Hytaý Dilini Goldaň
 
@@ -68,16 +74,16 @@ Mazmuny sag tarapa aýlanyňyzda, çep tarapdaky setir şol bir wagtyň özünde
 
 ## Ajaýyp Jikme-Jiklikler
 
-### Syçanjygyň Täsiri
+### Syçan Täsirleri
 
 Ajaýyp aýratyn effektleri görmek üçin ýokarky nawigasiýanyň sag tarapyndaky düwmäniň üstünde syçanjygyňyzy basyň.
 
-### `404` Kiçijik Arwah
+### `404` Arwah
 
-`404` sahypada owadan kiçijik ýüzýän arwah bar, gözleri syçan bilen hereket eder, [view Görmek üçin şu ýere basyň](/404) ,
+`404` sahypada ýakymly ýüzýän arwah bar, gözleri syçan bilen hereket eder, [view Görmek üçin şu ýere basyň](/404) ,
 
 ## Kod Açyk Çeşme
 
 [Kod açyk çeşme bolup](/i18n.site/src) , ösüşe gatnaşmak isleseňiz, [poçta sanawy](//groups.google.com/u/2/g/i18n-site) bilen tanyşdyryň.
 
-Möhüm, ýöne gyssagly däl köp talaplar bar Ösüş topary, ökde tehnologiýaňyza görä tejribe meselelerini bellär we talaplary bellän mahaly ösüş resminamalaryny kämilleşdirer.
+Möhüm, ýöne gyssagly däl köp talaplar bar Ösüş topary, ökde tehnologiýalaryňyza esaslanyp, tabşyryklary berer we talaplary bellän mahaly ösüş resminamalaryny kämilleşdirer.

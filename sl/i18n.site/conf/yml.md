@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Med njimi konfiguracijski element `upload` do `ext:` pomeni, da bosta pri objavi naložena samo `.md` .
@@ -115,7 +117,7 @@ Tukaj `menu: NB demo1,demo2` pomeni uporabo predloge `NB` za upodabljanje spustn
 `NB` sledi parameter `demo1,demo2` , ki mu je bil posredovan.
 Opomba : ** Pred in za vejico `,` v `demo1,demo2` ne sme biti ** .
 
-Ustrezna datoteka indeksa imenika za zgornje parametre je:
+Za zgornje parametre je ustrezna datoteka indeksa imenika:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,9 +154,9 @@ Naslednji dve vrstici sta prikazani na spodnjem posnetku zaslona.
 `news/README.md` ustreza `News` ,
 `news/begin.md` ustreza `Our Product is Online !`
 
-Datoteke `TOC` so zamaknjene, da nakažejo hierarhično razmerje orisa in podpirajo večnivojsko zamikanje.
+Datoteke `TOC` so zamaknjene, da nakažejo hierarhično razmerje orisa, podpirajo zamik na več ravneh in vrstične komentarje, ki se začnejo z `#` .
 
-##### Nadrejena Raven Napiše Le Naslov, Ne Pa Vsebine.
+##### Nadrejena Raven Napiše Samo Naslov, Ne Pa Vsebine.
 
 Če obstaja več ravni zamika, nadrejena raven zapiše samo naslov in ne vsebine. V nasprotnem primeru bo tipografija motena.
 

@@ -1,11 +1,14 @@
 # Nayrar Sartañ Amtäwinak Wakicht’aña
 
-Aka wakiskir lurawinakaw lurasiski:
+## Tukuyatäxiwa
+
+- [x] RSS ukax mä jamuqawa
+- [x] thakhi thaqhaña thakhinchawi
+
+## Ukax Desarrollo Ukankiwa
 
 - [ ] Walja versión qillqatanaka taypin mayjt’ayaña
 - [ ] Q’uma front-end phuqhat qillqat thaqhaña
-- [ ] RSS ukax mä jamuqawa
-- [ ] thakhi thaqhaña thakhinchawi
 - [ ] Uka pachparakiw artículos actualizaciones ukanakax jach’a medios sociales ukar ch’amanchaña
 - [ ] Correo electrónico `web push` apnaqirinakatakiw utji /
 - [ ] Artículo tʼaqanakat qhanañchtʼam

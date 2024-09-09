@@ -55,25 +55,9 @@ He laʻana wale nō nā faila demo i unuhi ʻia ma ka papa kuhikuhi `en` a hiki 
 
 E komo i ka papa kuhikuhi a holo i `i18` e unuhi.
 
-### Hoʻohui I Nā Faila I Ka Waihona
+Ma waho aʻe o ka unuhi ʻana, e hoʻopuka pū ka papahana i ka waihona `.i18n/data` , e ʻoluʻolu e hoʻohui iā ia i ka waihona.
 
-Ma waho aʻe o ka unuhi ʻana, e hoʻopuka pū ka polokalamu i kēia mau faila, e ʻoluʻolu e hoʻohui iā lākou i ka waihona.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Mawaena o lakou, o ka mea o `.i18n/cache/.gitignore` penei :
-
-```
-**/*
-!**/.gitignore
-```
-
-ʻO ia hoʻi, ʻaʻole mālama ʻia nā faila āpau ma ka papa kuhikuhi `.i18n/cache/` (koe wale nō `.i18n/cache/.gitignore` ).
-
-Inā ʻaʻole `git` kāu polokalamu mana mana, e ʻoluʻolu e haʻalele iā ia e like me kēia hoʻonohonoho.
+Ma hope o ka unuhi ʻana `git add .` ka faila hou, e hana ʻia kahi faila ʻikepili hou ma kēia papa kuhikuhi.
 
 ## Faila Hoʻonohonoho
 

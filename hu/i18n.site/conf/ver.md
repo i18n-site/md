@@ -2,7 +2,7 @@
 
 A demó projekt például:
 
-`en/demo2/v` a projekt aktuális verziószáma, amely az oldalsáv tartalomjegyzékben a projekt neve mellett jelenik meg.
+`en/demo2/v` a projekt jelenlegi verziószáma, amely a navigációs oldalsávban a projekt neve mellett jelenik meg.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

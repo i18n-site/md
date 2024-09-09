@@ -1,6 +1,6 @@
 # .i18n/conf.yml
 
-Profilen for `i18n.site` er `.i18n/conf.yml`.
+`i18n.site`-konfigurationsfilen er `.i18n/conf.yml`.
 
 Bortset fra indstillingerne [`i18`](/i18) , `ignore:` og `i18n:` , er konfigurationsfilen som følger:
 
@@ -17,27 +17,29 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Blandt dem betyder `upload` til `ext:`-konfigurationselementet, at kun `.md`-filer vil blive uploadet ved udgivelse.
+HERunder betyder `upload`-`ext:`-indstillingen, at kun `.md`-filer uploades ved publicering.
 
-## Top Navigation nav
+## Top navigation nav
 
-`nav:`-konfigurationerne svarer til navigationsmenuen øverst på startsiden.
+`nav:`-konfigurationsindstillingerne svarer til navigationsmenuen øverst på startsiden.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Blandt dem svarer `i18n: home` til `home: Home` i `en/i18n.yml`.
+HERi `i18n: home` svarer til `home: Home` i `en/i18n.yml`.
 
 `en/i18n.yml` vil blive oversat til flere sprog, såsom `zh/i18n.yml`.
 
 <img src="//p.3ti.site/1721051689.avif" style="width:320px">
 
-Når oversættelsen er fuldført, kan du ændre værdien af oversættelsesfilen `yml`, men du må ikke tilføje eller slette nøglerne i oversættelsesfilen `yml`.
+Efter oversættelsen kan du ændre værdien af oversættelses-`yml`, men du må ikke tilføje eller fjerne nogen oversættelses-`yml`-nøgler.
 
-### `use: Toc`, Enkelt Fil Skabelon (Med Omrids)
+### `use: Toc`, Enkelt filskabelon (med indholdsfortegnelse)
 
-`nav`:
+I `nav`-konfigurationen:
 
 ```
   - i18n: home
@@ -45,29 +47,29 @@ Når oversættelsen er fuldført, kan du ændre værdien af oversættelsesfilen 
     url: /
 ```
 
-`use: Toc` betyder gengivelse ved hjælp af en `Toc`-skabelon, hvilket er gengivelse af en enkelt `Markdown`-skabelon.
+`use: Toc` betyder, at der bruges en `Toc`-skabelon til gengivelse, hvilket er gengivelse af en enkelt `Markdown`-skabelon.
 
-`TOC` er forkortelsen af `Table of Contents`. Når denne skabelon gengives, vil omridset af denne `Markdown`-fil blive vist i sidebjælken.
+`TOC` er forkortelsen for `Table of Contents`. Når denne skabelon gengives, vises indholdsfortegnelsen for denne `Markdown`-fil i sidebaren.
 
-`url:` repræsenterer filstien til `Markdown` (`/` svarer til roden `/README.md`, dette filnavn skal have et stort præfiks og et lille suffiks).
+`url:` repræsenterer `Markdown`-filens sti ( `/` svarer til rodmenuen `/README.md`, filnavnet skal have stort forbogstav og lille efternavn).
 
-### `use: Md`, Enkelt Fil Skabelon (Ingen Kontur)
+### `use: Md`, Enkelt filskabelon (uden indholdsfortegnelse)
 
-`Md`-skabelonen og `Toc`-skabelonen er den samme, og begge bruges til at gengive en enkelt `Markdown`-fil. Men `Md`-skabelonen viser ikke omridset i sidebjælken.
+`Md`-skabelonen og `Toc`-skabelonen er ens, begge bruges til at gengive en enkelt `Markdown`-fil, men `Md`-skabelonen viser ikke indholdsfortegnelsen i sidebaren.
 
-Du kan ændre `use: Toc` i ovenstående konfiguration til `use: Md`, køre `i18n.site` i `md`-mappen igen, og derefter besøge udviklingseksempel-URL'en for at observere ændringerne på hjemmesiden.
+Du kan ændre `use: Toc` i konfigurationen ovenfor til `use: Md`, køre `i18n.site` igen i `md`-mappen, og derefter besøge udviklingspreview-URL'en for at observere ændringerne på hjemmesiden.
 
-### Standardindlæsning Uden Konfigurationssti
+### Ingen konfigurationssti til standardindlæsning
 
-Hvis der tilgås en bestemt sti, og dens stipræfiks ikke er konfigureret i `nav:` , vil den tilsvarende `Markdown`-fil blive indlæst som standard og vist ved hjælp af `Md`-skabelonen.
+Hvis en bestemt sti tilgås, og dens stipræfiks ikke er konfigureret i `nav:`, vil den tilsvarende `Markdown`-fil blive indlæst som standard og renderet med `Md`-skabelonen.
 
-For eksempel, hvis `/test` tilgås, og `nav:` ikke er konfigureret til denne sti, og sidesproget er engelsk (kode `en`), vil `/en/test.md` blive indlæst som standard og vist ved hjælp af skabelon `Md`.
+F.eks. hvis `/test` tilgås, og `nav:` ikke er konfigureret for denne sti, og sidesproget er engelsk (koden `en`), vil `/en/test.md` blive indlæst og renderet med `Md`-skabelonen.
 
-Hvis `/en/test.md` denne fil ikke eksisterer, vil standardsiden `404` blive vist.
+Hvis `/en/test.md`-filen ikke findes, vil standard `404`-siden blive vist.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
-### `use: Doc`, Multi-Fil Skabelon
+### `use: Doc`, Flerspørgsmålsskabelon
 
 I konfigurationsfilen:
 
@@ -76,13 +78,13 @@ I konfigurationsfilen:
     use: Doc
 ```
 
-Angiver brug af `Doc` til skabelongengivelse.
+Dette betyder, at der bruges `Doc` til at rendere skabelonen.
 
-`Doc`-skabelonen understøtter integration af flere `Markdown`-filer for at generere dokumentkonturer til enkelte eller flere projekter.
+`Doc`-skabelonen understøtter integration af flere `Markdown`-filer for at generere en enkelt eller flere projektets dokumentationsoversigter.
 
-#### Enkelt Projekt (Flere Filer)
+#### Enkelt projekt (flere filer)
 
-Ovenstående `blog` er enkeltelementtilstanden `Doc`.
+`blog` i ovenstående er `Doc`'s enkeltprojekttilstand.
 
 ```
   - i18n: blog
@@ -92,13 +94,13 @@ Ovenstående `blog` er enkeltelementtilstanden `Doc`.
 
 ##### Når url Er Tom, Har Den Som Standard Værdien i18n
 
-Hvis `url` ikke er skrevet, er `url` som standard værdien af `i18n`. Denne regel gælder også for andre skabeloner.
+Hvis `url` ikke angives, er `url` som standard lig med værdien af `i18n`. Denne regel gælder også for andre skabeloner.
 
-Ovenstående skrivemetode svarer til `url: blog`, og dens tilsvarende fil er `en/blog/TOC`.
+Den ovenstående skrivning svarer til `url: blog`, og den tilsvarende fil er `en/blog/TOC`.
 
-#### Flere Projekter
+#### Flere projekter
 
-Konfigurationen af `i18n:doc` i `.i18n/conf.yml` er multi-projekttilstand.
+I `.i18n/conf.yml` er `i18n:doc`-konfigurationen flerspørgsmålstilstand.
 
 ```
   - i18n: doc
@@ -108,31 +110,31 @@ Konfigurationen af `i18n:doc` i `.i18n/conf.yml` er multi-projekttilstand.
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-Her betyder `menu: NB demo1,demo2`, at bruge `NB`-skabelonen til at gengive rullemenuen.
+HER, `menu: NB demo1,demo2`, betyder, at `NB`-skabelonen bruges til at rendere dropdown-menuen.
 
-`NB`, som er forkortelsen af `Name Brief`, betyder, at rullemenuen kan vise projektets navn og slogan.
+`NB` er forkortelsen for `Name Brief`, hvilket betyder, at dropdown-menuen kan vise projektets navn og slogan.
 
-`NB` efterfølges af parameteren `demo1,demo2`, der sendes til den.
-Bemærk: **Der må ikke være mellemrum** før og efter kommaet `,` i `demo1,demo2`.
+`NB` efterfulgt af parameteren `demo1,demo2`.
+Bemærk: **Der skal ikke være mellemrum** før og efter kommaet `,` i `demo1,demo2`.
 
-Den tilsvarende mappeindeksfil for ovenstående parametre er:
+De ovennævnte parametre, de tilsvarende katalogindeksfiler er:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### TOC Indholdsfortegnelse Indeks
+#### TOC katalogindeks
 
-`i18n.site` vil udføre `js`-plugin `.i18n/hook/after.tran/TOC.js` i demo-lageret for at læse indeksfilen med `doc`-mapper, der svarer til `TOC`-skabelonkonfigurationen, for at generere `json`-biblioteksoversigten.
+`i18n.site` vil udføre demonstrationens lager `js`-plugin `.i18n/hook/after.tran/TOC.js` for at læse `doc`-skabelonkonfigurationens tilsvarende `TOC` katalogindeksfil for at generere katalogoversigtens `json`.
 
-Hvis du bruger `doc`-skabelonen, skal du have dette plugin.
+Hvis du bruger `doc`-skabelonen, skal denne plugin være tilgængelig.
 
-Hvis du initialiserer projekt `i18n.site` fra en tom mappe, skal du huske at kopiere demoprojektets `.i18n` til dit bibliotek.
+Hvis du initialiserer `i18n.site`-projektet fra en tom mappe, husk at kopiere demonstrationens `.i18n` til din mappe.
 
-`Doc`-skabelonen vil gengive indholdsfortegnelsen baseret på den genererede `json`.
+`Doc`-skabelonen vil rendere katalogoversigten baseret på den genererede `json`.
 
-##### Detaljeret Indholdsforklaring
+##### Indholdsdetaljer
 
-`en/blog/TOC` Indholdet er som følger:
+`en/blog/TOC`-indholdet er som følger:
 
 ```
 README.md
@@ -141,54 +143,54 @@ news/README.md
   news/begin.md
 ```
 
-##### Brug Indrykning Til At Angive Niveauer
+##### Brug indrykning for at angive niveauer
 
-`README.md` i første række af `en/blog/TOC` svarer til `i18n.site` på billedet nedenfor, som er projektets navn.
+`en/blog/TOC`-første linje `README.md` svarer til `i18n.site` i.figuren nedenfor, dvs. projektets navn.
 
-De næste to linjer er som vist på skærmbilledet nedenfor.
+De næste to linjer, som vist i.figuren nedenfor.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
-`news/README.md` svarer til `News`,
+`news/README.md` svarer til `News`
 `news/begin.md` svarer til `Our Product is Online !`
 
-`TOC`-filer er indrykket for at angive det hierarkiske forhold i omridset og understøtter indrykning på flere niveauer.
+`TOC`-filen bruger indrykning for at angive katalogens hierarkiske relationer og understøtter flere niveauer af indrykning. Linjer, der begynder med `#`, er kommentarer.
 
-##### Forældreniveauet Skriver Kun Titlen, Ikke Indholdet
+##### På fædreniveauet skal du kun skrive titlen, ikke indholdet, ellers kan det forårsage layoutproblemer
 
-Når der er flere niveauer af indrykning, skriver det overordnede niveau kun titlen og ikke indholdet. Ellers vil typografien blive rodet.
+I flere niveauer af indrykning, skal du kun skrive titlen på fædreniveauet, ikke indholdet.
 
-##### Projekt README.md
+##### Projektets README.md
 
-Indhold kan skrives i `README.md`, såsom `en/demo2/README.md`.
+I projektets `README.md`, f.eks. `en/demo2/README.md`, kan du skrive indhold.
 
-Bemærk, at indholdet af denne fil ikke viser en indholdsfortegnelse, så det anbefales at begrænse længden og skrive en kort introduktion.
+Bemærk, at indholdet af denne fil ikke vises i katalogoversigten, så det anbefales at holde det kort og skrive en kort introduktion.
 
-###### Projektslogan
+###### Projektets slogan
 
-Du kan se `Your Project slogan` under `Deme Two` i rullemenuen og katalogets projektnavn.
+Du kan se, at `Deme Two` under dropdown-menuen og i katalogoversigtens projektets navn har sit projektets slogan: `Your Project slogan`.
 
 ![](https://p.3ti.site/1721276842.avif)
 
-Dette svarer til den første række i `en/demo2/README.md`:
+Dette svarer til den første linje i `en/demo2/README.md`:
 
 ```
 # Demo Two : Your Project slogan
 ```
 
-Indholdet efter det første kolon `:` i titlen på første niveau af projekt `README.md` vil blive betragtet som projektets slogan.
+Projektets `README.md`-første niveauoverskrifts første kolon `:` efter indholdet vil blive betragtet som projektets slogan.
 
-Brugere fra Kina, Japan og Korea, bemærk venligst, at du skal bruge halv-bredde kolon `:` i stedet for fuld bredde kolon.
+Kinesiske, japanske og koreanske brugere bemærk, at du skal bruge halvstore bogstaver `:` i stedet for fuldstørrelse koloner.
 
-##### Hvordan Flyttes TOC I Bulk?
+##### How to batch move TOC?
 
-`TOC`-filer skal placeres i kildesprogets bibliotek.
+`TOC`-filen skal placeres i kildesprogens mappe.
 
-For eksempel, hvis kildesproget er kinesisk, så er `TOC` ovenfor `zh/blog/TOC`.
+F.eks. hvis kildesproget er kinesisk, er ovenstående `TOC` `zh/blog/TOC`.
 
-Hvis kildesproget ændres, skal du batchflytte `TOC`-filerne på et bestemt sprog i projektet til et andet sprog.
+Hvis kildesproget ændres, skal du批量移动某语种的`TOC`-fil til en anden sprog.
 
-Du kan henvise til følgende kommandoer:
+Du kan følge følgende kommandoer:
 
 ```
 rsync -av --remove-source-files --include='*/' \

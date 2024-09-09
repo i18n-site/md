@@ -55,25 +55,9 @@ Fichye Demo yo tradui nan anyè `en` a se jis yon egzanp epi yo ka efase.
 
 Antre nan anyè a epi kouri `i18` pou tradui.
 
-### Ajoute Dosye Nan Repozitwa A
+Anplis tradiksyon an, pwogram nan pral jenere katab `.i18n/data` a tou, tanpri ajoute li nan depo a.
 
-Anplis tradiksyon, pwogram nan pral jenere tou dosye sa yo, tanpri ajoute yo nan depo a.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Pami yo, kontni an nan `.i18n/cache/.gitignore` se jan sa a :
-
-```
-**/*
-!**/.gitignore
-```
-
-Sa vle di ke tout fichye nan anyè `.i18n/cache/` (eksepte `.i18n/cache/.gitignore` ) yo inyore.
-
-Si lojisyèl kontwòl vèsyon ou an pa `git` , tanpri inyore li dapre konfigirasyon sa a.
+Apre ou fin tradui nouvo fichye a, yo pral pwodwi yon nouvo fichye done nan anyè sa a. Sonje ajoute `git add .` .
 
 ## Fichye Konfigirasyon
 

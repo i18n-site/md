@@ -1,8 +1,8 @@
 # .i18n/conf.yml
 
-Das Profil für `i18n.site` ist `.i18n/conf.yml`.
+Das Konfigurationsfile für `i18n.site` ist `.i18n/conf.yml`.
 
-Mit Ausnahme der Einstellungen [`i18`](/i18) , `ignore:` und `i18n:` lautet die Konfigurationsdatei wie folgt:
+Ausgenommen von den Einstellungen [`i18`](/i18), `ignore:` und `i18n:` sieht die Konfigurationsdatei wie folgt aus:
 
 ```yaml
 upload:
@@ -17,27 +17,29 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Dabei steht das `upload`-Element unter `ext:` für die Regelung, dass nur `.md`-Dateien bei der Veröffentlichung hochgeladen werden.
+Dort bedeutet die `upload`-Konfiguration mit `ext:`, dass beim Veröffentlichen nur `.md`-Dateien hochgeladen werden.
 
-## Obere Navigation
+## Oberste Navigation
 
-Die Konfigurationsoptionen unter `nav:` entsprechen dem Navigationsmenü oben auf der Startseite.
+Die Konfigurationsoptionen für `nav:` entsprechen der Navigationsleiste oben auf der Startseite.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Dabei entspricht `i18n: home` in `en/i18n.yml` `home: Home`.
+Dort entspricht `i18n: home` dem Eintrag `home: Home` in `en/i18n.yml`.
 
-`en/i18n.yml` wird in verschiedene Sprachen übersetzt, z.B. `zh/i18n.yml`.
+`en/i18n.yml` wird in mehrere Sprachen übersetzt, zum Beispiel `zh/i18n.yml`.
 
 <img src="//p.3ti.site/1721051689.avif" style="width:320px">
 
-Nach Abschluss der Übersetzung können Sie den Wert der Übersetzungsdatei `yml` ändern, aber die Schlüssel der Übersetzungsdatei `yml` nicht hinzufügen oder löschen.
+Nach Abschluss der Übersetzung können die Werte der Übersetzungsdatei `yml` geändert werden, aber die Schlüssel der Übersetzungsdatei `yml` nicht hinzugefügt oder gelöscht werden.
 
 ### `use: Toc`, Einzeldateivorlage (mit Inhaltsverzeichnis)
 
-`nav`:
+Im `nav`-Bereich:
 
 ```
   - i18n: home
@@ -45,29 +47,29 @@ Nach Abschluss der Übersetzung können Sie den Wert der Übersetzungsdatei `yml
     url: /
 ```
 
-`use: Toc` bedeutet, dass mit der `Toc`-Vorlage gerendert wird, was die Verwendung einer einzigen `Markdown`-Vorlage bedeutet.
+`use: Toc` bedeutet, dass die `Toc`-Vorlage verwendet wird, um eine einzelne `Markdown`-Datei zu rendern.
 
-`TOC` ist die Abkürzung für `Table of Contents`. Wenn diese Vorlage gerendert wird, wird der Inhaltsverzeichnisübersicht dieser `Markdown`-Datei in der Seitenleiste angezeigt.
+`TOC` ist die Abkürzung für `Table of Contents`. Diese Vorlage rendert eine Inhaltsübersicht der `Markdown`-Datei in der Seitenleiste.
 
-`url:` gibt den Dateipfad der `Markdown`-Datei an (`/` entspricht dem Stammverzeichnis `/README.md`, der Dateiname muss großgeschrieben und kleingeschrieben sein).
+`url:` gibt den `Markdown`-Dateipfad an ( `/` entspricht dem Stammverzeichnis `/README.md`, dieser Dateiname sollte ein Großbuchstaben-Präfix und ein Kleinbuchstaben-Suffix haben).
 
 ### `use: Md`, Einzeldateivorlage (ohne Inhaltsverzeichnis)
 
-Die `Md`-Vorlage ist wie die `Toc`-Vorlage und wird ebenfalls zur Rendrierung einer einzigen `Markdown`-Datei verwendet. Allerdings wird mit der `Md`-Vorlage kein Inhaltsverzeichnis in der Seitenleiste angezeigt.
+Die `Md`-Vorlage ist wie die `Toc`-Vorlage zum Rendern einer einzelnen `Markdown`-Datei, aber die `Md`-Vorlage zeigt kein Inhaltsverzeichnis in der Seitenleiste an.
 
-Sie können `use: Toc` in der obigen Konfiguration durch `use: Md` ersetzen, `i18n.site` im Verzeichnis `md` erneut ausführen und dann die Entwicklungsvorschau-URL besuchen, um die Änderungen auf der Homepage zu beobachten.
+Sie können `use: Toc` in der obigen Konfiguration in `use: Md` ändern, `i18n.site` im `md`-Verzeichnis erneut ausführen und dann die Entwicklungsvorschau-URL besuchen, um die Änderungen auf der Startseite zu beobachten.
 
-### Standardmäßige Ladevorgänge ohne Konfigurationspfad
+### Keine Konfigurationspfad-Standardladung
 
-Wenn auf einen bestimmten Pfad zugegriffen wird und der Pfadpräfix nicht in `nav:` konfiguriert ist, wird standardmäßig die entsprechende `Markdown`-Datei geladen und mit der `Md`-Vorlage gerendert.
+Wenn auf einen bestimmten Pfad zugegriffen wird und sein Pfadpräfix nicht in `nav:` konfiguriert ist, wird standardmäßig die dem Pfad entsprechende `Markdown`-Datei geladen und mit der `Md`-Vorlage gerendert.
 
-Beispielsweise wird bei Zugriff auf `/test` und fehlender Konfiguration dieses Pfades in `nav:` sowie einer englischen Sprache (Code `en`) standardmäßig `/en/test.md` geladen und mit der Vorlage `Md` gerendert.
+Zum Beispiel, wenn auf `/test` zugegriffen wird und `nav:` für diesen Pfad nicht konfiguriert ist und die Seitensprache Englisch ist (Code `en`), wird `/en/test.md` standardmäßig geladen und mit der `Md`-Vorlage gerendert.
 
-Wenn `/en/test.md` diese Datei nicht existiert, wird die Standardseite `404` angezeigt.
+Wenn `/en/test.md` nicht existiert, wird die Standard-`404`-Seite angezeigt.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
-### `use: Doc`, Vorlage für mehrere Dateien
+### `use: Doc`, Mehrdateivorlage
 
 In der Konfigurationsdatei:
 
@@ -76,13 +78,13 @@ In der Konfigurationsdatei:
     use: Doc
 ```
 
-Gibt an, dass die `Doc`-Vorlage für das Rendern verwendet wird.
+Es wird angegeben, dass `Doc` für das Rendern der Vorlage verwendet wird.
 
-Die `Doc`-Vorlage unterstützt die Integration mehrerer `Markdown`-Dateien, um Dokumentgliederungen für einzelne oder mehrere Projekte zu erstellen.
+Die `Doc`-Vorlage unterstützt die Integration mehrerer `Markdown`-Dateien zur Erstellung von Dokumentgliederungen für einzelne oder mehrere Projekte.
 
-#### Einzelnes Projekt (mehrere Dateien)
+#### Einzelpjekt (mehrere Dateien)
 
-`blog` oben ist der Einzelelementmodus der `Doc`-Vorlage.
+`blog` oben ist der Einzelpjektmodus von `Doc`.
 
 ```
   - i18n: blog
@@ -90,13 +92,13 @@ Die `Doc`-Vorlage unterstützt die Integration mehrerer `Markdown`-Dateien, um D
     use: Doc
 ```
 
-##### Wenn Die url Leer Ist, Wird Standardmäßig Der Wert i18n Verwendet
+##### Wenn die URL leer ist, wird standardmäßig der Wert von i18n verwendet
 
-Wenn `url` nicht angegeben wird, wird `url` standardmäßig auf den Wert von `i18n` gesetzt. Diese Regel gilt ebenfalls für andere Vorlagen.
+Wenn `url` nicht angegeben wird, wird `url` standardmäßig auf den Wert `i18n` gesetzt. Diese Regel gilt auch für andere Vorlagen.
 
 Die obige Schreibweise entspricht `url: blog`, und die entsprechende Datei ist `en/blog/TOC`.
 
-#### Mehere Projekte
+#### Mehrere Projekte
 
 Die Konfiguration `i18n:doc` in `.i18n/conf.yml` ist der Multiprojektmodus.
 
@@ -110,29 +112,29 @@ Die Konfiguration `i18n:doc` in `.i18n/conf.yml` ist der Multiprojektmodus.
 
 Hier bedeutet `menu: NB demo1,demo2`, dass die Vorlage `NB` zum Rendern des Dropdown-Menüs verwendet wird.
 
-`NB`, Abkürzung für `Name Brief`, bedeutet, dass der Name und der Slogan des Projekts im Dropdown-Menü angezeigt werden können.
+`NB` ist die Abkürzung für `Name Brief`, was bedeutet, dass das Dropdown-Menü den Namen und den Slogan des Projekts anzeigen kann.
 
-`NB` folgt den übergebenen Parametern `demo1,demo2`.
-Hinweis: **Es dürfen keine Leerzeichen vor und nach dem Komma `,` in `demo1,demo2` geben**.
+`NB` folgt den an ihn übergebenen Parameter `demo1,demo2`.
+Achtung: ** Vor und nach dem Komma `,` in `demo1,demo2` dürfen keine Leerzeichen sein **.
 
-Die entsprechende Verzeichnisindexdatei für die oben genannten Parameter ist:
+Für die oben genannten Parameter lautet die entsprechende Verzeichnisindexdatei:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### Inhaltsverzeichnisindex
+#### Inhaltsverzeichnis-Verzeichnisindex
 
-`i18n.site` führt `js` Plug-in `.i18n/hook/after.tran/TOC.js` im Demo-Warehouse aus, um die `doc` Verzeichnis-Indexdatei entsprechend der `TOC` Vorlagenkonfiguration zu lesen und die `json` Verzeichnis-Gliederung zu generieren.
+`i18n.site` führt das `js`-Plugin `.i18n/hook/after.tran/TOC.js` im Demo-Repository aus, um die `doc`-Verzeichnisindexdatei entsprechend der `TOC`-Vorlagenkonfiguration zu lesen und eine Inhaltsverzeichnis-`json` zu generieren.
 
-Wenn die `doc`-Vorlage verwendet wird, muss dieses Plugin vorhanden sein.
+Wenn Sie die `Doc`-Vorlage verwenden, müssen Sie über dieses Plugin verfügen.
 
-Wenn `i18n.site` aus einem leeren Ordner initialisiert wird, denken Sie daran, das Demoprojekt `.i18n` in Ihr Verzeichnis zu kopieren.
+Wenn Sie das `i18n.site`-Projekt aus einem leeren Ordner initialisieren, denken Sie daran, das `.i18n`-Verzeichnis des Demoprojekts in Ihr Verzeichnis zu kopieren.
 
-Die `Doc`-Vorlage rendert die Inhaltsverzeichnis Gliederung basierend auf der generierten `json`.
+Die `Doc`-Vorlage rendert die Inhaltsverzeichnis-Gliederung basierend auf der generierten `json`.
 
-##### Detailierte Inhaltserklärung
+##### Detaillierte Inhaltsbeschreibung
 
-Der Inhalt von `en/blog/TOC` ist wie folgt:
+Der Inhalt von `en/blog/TOC` lautet wie folgt:
 
 ```
 README.md
@@ -143,50 +145,50 @@ news/README.md
 
 ##### Verwenden Sie Einrückungen, um Ebenen anzuzeigen
 
-Die `README.md` in der ersten Zeile von `en/blog/TOC` entspricht der `i18n.site` im Bild unten, dem Projektnamen.
+Die erste Zeile von `en/blog/TOC`, `README.md`, entspricht der `i18n.site` im folgenden Bild, dem Projektnamen.
 
 Die nächsten beiden Zeilen sind wie im folgenden Screenshot dargestellt.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
-`news/README.md` entspricht `News`,
+`news/README.md` entspricht `News`
 `news/begin.md` entspricht `Our Product is Online !`
 
-Die `TOC`-Dateien werden durch Einrückungen dargestellt, um die hierarchische Beziehung der Gliederung anzuzeigen und mehrfache Einrückungen zu unterstützen.
+`TOC`-Dateien verwenden Einrückungen, um die Gliederungshierarchie anzuzeigen, unterstützen mehrere Einrückungsebenen und verwenden Zeilenkommentare, die mit `#` beginnen.
 
-##### Bei mehreren Einrückungsebenen wird nur der Titel der übergeordneten Ebene geschrieben, ohne Inhalt
+##### Obergeordnete Ebenen geben nur den Titel an, nicht den Inhalt
 
-Wird bei mehreren Einrückungsebenen der Inhalt der übergeordneten Ebene geschrieben, wird die Typografie durcheinandergebracht.
+Bei mehreren Einrückungsebenen geben die obergeordneten Ebenen nur den Titel und nicht den Inhalt an, um ein Durcheinander in der Formatierung zu vermeiden.
 
-##### Projekt README.md
+##### Projekt-README.md
 
-In der `README.md` des Projekts, z.B. `en/demo2/README.md`, kann der Inhalt geschrieben werden.
+Der Inhalt kann im Projekt-`README.md` geschrieben werden, zum Beispiel in `en/demo2/README.md`.
 
-Beachten Sie, dass der Inhalt dieser Datei kein Inhaltsverzeichnis hat. Daher wird empfohlen, die Länge zu begrenzen und eine kurze Einleitung zu schreiben.
+Beachten Sie, dass der Inhalt dieser Datei kein Inhaltsverzeichnis enthält. Es wird daher empfohlen, die Länge zu begrenzen und eine kurze Einführung zu schreiben.
 
 ###### Projektslogan
 
-`Deme Two` hat unter dem Dropdown-Menü und dem Projektname im Inhaltsverzeichnis seinen Projektslogan `Your Project slogan`.
+Man kann sehen, dass `Your Project slogan` unter dem Dropdown-Menü und der Projektnamen-Übersicht `Deme Two` seinen Projektslogan hat.
 
 ![](https://p.3ti.site/1721276842.avif)
 
-Dies entspricht der ersten Zeile in `en/demo2/README.md`:
+Dies entspricht der ersten Zeile von `en/demo2/README.md`:
 
 ```
 # Demo Two : Your Project slogan
 ```
 
-Der Inhalt nach dem ersten Doppelpunkt `:` des Titels der ersten Ebene in der `README.md` des Projekts wird als Projektslogan betrachtet.
+Der Inhalt nach dem ersten Doppelpunkt `:` im Titel der ersten Ebene des Projekt-`README.md` wird als Projektslogan betrachtet.
 
-Benutzer aus China, Japan und Korea beachten bitte, dass Sie den Doppelpunkt `:` in halber Breite anstelle des Doppelpunkts in voller Breite verwenden sollten.
+Benutzer aus China, Japan und Korea beachten bitte, dass sie den halben Doppelpunkt `:` anstelle des vollen Doppelpunkts verwenden sollten.
 
-##### Wie kann ich TOC in Massen verschieben?
+##### Wie kann man das Inhaltsverzeichnis in großen Mengen verschieben?
 
-`TOC`-Dateien müssen im Verzeichnis der Quellsprache abgelegt werden.
+`TOC`-Dateien müssen im Verzeichnis der Quellsprache gespeichert werden.
 
-Wenn die Ausgangssprache beispielsweise Chinesisch ist, ist `TOC` oben gleich `zh/blog/TOC`.
+Wenn die Ausgangssprache beispielsweise Chinesisch ist, ist das `TOC` oben gleich `zh/blog/TOC`.
 
-Wenn die Quellsprache geändert wird, müssen die `TOC`-Dateien einer bestimmten Sprache im Projekt in eine andere Sprache verschoben werden.
+Wenn die Ausgangssprache geändert wird, müssen die `TOC`-Dateien einer bestimmten Sprache im Projekt stapelweise in eine andere Sprache verschoben werden.
 
 Sie können sich auf die folgenden Befehle beziehen:
 
@@ -195,4 +197,4 @@ rsync -av --remove-source-files --include='*/' \
 --include='TOC' --exclude='*' en/ zh/
 ```
 
-Bitte ändern Sie `en/` und `zh/` im obigen Befehl in Ihren Sprachcode.
+Bitte ersetzen Sie `en/` und `zh/` im obigen Befehl durch Ihren Sprachcode.

@@ -2,7 +2,7 @@
 
 Ta demoprojektet som ett exempel:
 
-`en/demo2/v` innehåller projektets aktuella versionsnummer, vilket kommer att visas till höger om projektets namn i sidofältets disposition.
+`en/demo2/v` är det aktuella versionsnumret för projektet, som visas till höger om projektets namn i sidofältets disposition.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

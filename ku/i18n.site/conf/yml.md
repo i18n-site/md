@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Di nav wan de, `upload` heta `ext:` hêmanên veavakirinê tê vê wateyê ku dê tenê `.md` dema weşandinê werin barkirin.
@@ -115,7 +117,7 @@ Li vir, `menu: NB demo1,demo2` , tê vê wateyê ku hûn şablona `NB` bikar bî
 `NB` li pey parametreya `demo1,demo2` tê ku jê re derbas dibe.
 `demo1,demo2` : ** `,` **
 
-Ji bo pîvanên jorîn pelê navnîşa pelrêça têkildar ev e:
+Ji bo pîvanên jorîn, pelê navnîşa pelrêça têkildar ev e:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -128,9 +130,9 @@ Ger hûn şablonê `doc` bikar bînin, divê hûn vê pêvekê hebe.
 
 Ger hûn projeya `i18n.site` ji peldankek vala dest pê bikin, ji bîr mekin ku projeya demo `.i18n` li pelrêça xwe kopî bikin.
 
-Şablon `Doc` dê tabloya naverokê li ser bingeha `json` ya hatî çêkirin diyar bike.
+Şablona `Doc` dê tabloya naverokê li ser bingeha `json` ya hatî çêkirin diyar bike.
 
-##### Ravekirina Naveroka Berfireh
+##### Ravekirina Naverokê Ya Berfireh
 
 `en/blog/TOC` wiha ye :
 
@@ -152,7 +154,7 @@ Du rêzikên paşîn wekî ku di dîmendera jêrîn de têne xuyang kirin.
 `news/README.md` bi `News` re têkildar e,
 `news/begin.md` bi `Our Product is Online !` re têkildar e
 
-`TOC` pel ji bo nîşankirina pêwendiya hiyerarşîk a rêzenivîsê û piştgirîkirina dakêşana pir-ast têne veqetandin.
+`TOC` pel ji bo nîşankirina pêwendiya hiyerarşîk a xêzkirinê, piştgirîkirina dakêşana pir-asta, û şîroveyên rêzê yên ku bi `#` dest pê dikin têne veqetandin.
 
 ##### Asta Dêûbav Tenê Sernavê Dinivîse, Ne Naverokê.
 
@@ -162,7 +164,7 @@ Dema ku gelek astên vekêşanê hene, asta dêûbav tenê sernavê dinivîse û
 
 Naverok dikare di xala `README.md` de, wek `en/demo2/README.md` , were nivîsandin.
 
-Bala xwe bidinê ku naveroka vê pelê tabloyek naverokê nîşan nade, ji ber vê yekê tê pêşniyar kirin ku dirêjahiyê sînordar bikin û pêşgotinek kurt binivîsin.
+Bala xwe bidinê ku naveroka vê pelê tabloyek naverokê nîşan nade, ji ber vê yekê tê pêşniyar kirin ku dirêjahî bi sînor bikin û pêşgotinek kurt binivîsin.
 
 ###### Slogana Projeyê
 

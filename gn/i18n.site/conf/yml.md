@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Umíva apytépe, `upload` guive `ext:` peve elemento configuración rehegua heꞌise `.md` añoite ojeguerahaukáta oñemoherakuã jave.
@@ -35,7 +37,7 @@ Umíva apytépe, `i18n: home` okorresponde `home: Home` `en/i18n.yml` -pe.
 
 Ojejapopa rire ñembohasa, ikatu remoambue ñembohasa `yml` valor, ha katu ani remoĩ térã rembogue ñembohasa `yml` clave.
 
-### `use: Toc` , Peteĩ Vore Plantilla (Esquema Reheve) .
+### `use: Toc` , Peteĩ Archivo Plantilla (Esquema Reheve) .
 
 `nav` :
 
@@ -51,7 +53,7 @@ Ojejapopa rire ñembohasa, ikatu remoambue ñembohasa `yml` valor, ha katu ani r
 
 `url:` ohechauka vore rape `Markdown` ( `/` ojoaju kundaha ypykuépe `/README.md` , ko vore réra oikotevẽ peteĩ ñe’ẽpehẽtai tuicháva ha peteĩ ñe’ẽpehẽtai michĩva).
 
-### `use: Md` , Peteĩ Archivo Plantilla (Ndaipóri Esquema) .
+### `use: Md` , Peteĩ Vore Plantilla (Ndaipóri Esquema) .
 
 Pe `Md` plantilla ha `Toc` plantilla peteĩchaite ha mokõivéva ojepuru ojehechauka hag̃ua peteĩ `Markdown` vore añoite. Ha katu pe plantilla `Md` ndohechaukái pe esquema oĩva barra lateral-pe.
 
@@ -115,12 +117,12 @@ Ko’ápe, `menu: NB demo1,demo2` , he’ise ojepuruha plantilla `NB` ojehechauk
 `NB` hapykuéri oñemoĩ parámetro `demo1,demo2` oñembohasáva chupe.
 `demo1,demo2` : ** `,` **
 
-Pe archivo índice directorio rehegua ojoajúva umi parámetro yvateguápe g̃uarã haꞌehína:
+Umi parámetro yvateguápe g̃uarã, pe archivo índice directorio rehegua ojoajúva haꞌehína:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### TOC Cuadro De Contenidos Índice Rehegua
+#### Índice Cuadro De Contenidos TOC Rehegua
 
 `i18n.site` omoañetéta `js` plug-in `.i18n/hook/after.tran/TOC.js` almacén demostración-pe omoñeꞌe hag̃ua archivo índice `doc` directorio rehegua okorrespondéva configuración `TOC` plantilla rehegua omoheñói hag̃ua esquema `json` directorio rehegua.
 
@@ -152,7 +154,7 @@ Umi mokõi línea oúva ha’e ojehechaukaháicha pantalla’i iguýpe.
 `news/README.md` okorresponde `News` , .
 `news/begin.md` okorresponde `Our Product is Online !` rehe
 
-`TOC` archivo oñembohysýi ohechauka hag̃ua relación jerárquica esquema rehegua ha oipytyvõ hag̃ua indentación heta nivel rehegua.
+`TOC` vore oñembohysýi ojehechauka hag̃ua mbaꞌeichaitépa ojoaju jerárquica esquema rehegua, oipytyvõ indentación heta nivel rehegua ha umi ñeꞌepyrũ línea rehegua oñepyrũva `#` -gui.
 
 ##### Pe Nivel Tuvakuéra Ohai Pe Título Añoite, Ndaha’éi Pe Contenido.
 
@@ -184,7 +186,7 @@ Umi puruhára China, Japón ha Corea-gua, eñatendéke eipuruva’erãha `:` col
 
 `TOC` vore tekotevẽ oñemoĩ ñe’ẽ ypykue ryru’ípe.
 
-Techapyrã, ñeꞌe ypykue haꞌeramo chino, upéicharamo `TOC` yvategua haꞌehína `zh/blog/TOC` .
+Techapyrã, ñe’ẽ ypykue ha’éramo chino, upéicharõ `TOC` yvategua ha’e `zh/blog/TOC` .
 
 Oñemoambuéramo ñe’ẽ ypykue, tekotevẽ rembohasa lote-pe umi `TOC` vore peteĩ ñe’ẽmegua proyecto-pe ambue ñe’ẽme.
 

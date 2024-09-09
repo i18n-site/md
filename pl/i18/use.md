@@ -55,25 +55,9 @@ Pliki demonstracyjne w katalogu `en` są tylko przykładem i mogą zostać usuni
 
 Przejdź do katalogu i uruchom `i18`, aby przetłumaczyć.
 
-### Dodaj pliki do repozytorium
+Oprócz tłumaczenia, program wygeneruje również folder `.i18n/data`; proszę dodać go do repozytorium.
 
-Program wygeneruje również następujące pliki, które należy dodać do repozytorium.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Zawartość pliku `.i18n/cache/.gitignore` wygląda następująco:
-
-```
-**/*
-!**/.gitignore
-```
-
-Oznacza to, że wszystkie pliki w katalogu `.i18n/cache/` (z wyjątkiem `.i18n/cache/.gitignore`) są ignorowane.
-
-Jeśli Twoje oprogramowanie do kontroli wersji nie jest `git`, skonfiguruj je zgodnie z tą konfiguracją.
+Po przetłumaczeniu nowego pliku, w tym katalogu zostanie utworzony nowy plik danych. Pamiętaj o wykonaniu `git add .`.
 
 ## Plik konfiguracyjny
 

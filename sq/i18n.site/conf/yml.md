@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Midis tyre, `upload` deri në `ext:` artikull konfigurimi do të thotë se vetëm `.md` do të ngarkohen gjatë publikimit.
@@ -94,7 +96,7 @@ Modeli `Doc` mbështet integrimin e shumëfishtë `MarkDown` për të gjeneruar 
 
 Nëse `url` nuk shkruhet, `url` vendos vlerën e `i18n` Ky rregull hyn në fuqi edhe për shabllonet e tjerë.
 
-Metoda e mësipërme e shkrimit është e barabartë me `url: blog` , dhe skedari i saj përkatës është `en/blog/TOC` .
+Metoda e mësipërme e shkrimit është ekuivalente me `url: blog` , dhe skedari i saj përkatës është `en/blog/TOC` .
 
 #### Projekte Të Shumta
 
@@ -115,7 +117,7 @@ Këtu, `menu: NB demo1,demo2` , nënkupton përdorimin e shabllonit `NB` për t�
 `NB` pasohet nga parametri `demo1,demo2` që i kalohet.
 : ** Nuk duhet të ketë hapësira ** para dhe pas presjes `,` në `demo1,demo2` .
 
-Skedari përkatës i indeksit të drejtorisë për parametrat e mësipërm është:
+Për parametrat e mësipërm, skedari përkatës i indeksit të drejtorisë është:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Dy rreshtat e ardhshëm janë siç tregohet në pamjen e mëposhtme të ekranit.
 `news/README.md` korrespondon me `News` ,
 `news/begin.md` korrespondon me `Our Product is Online !`
 
-`TOC` skedarë janë futur për të treguar lidhjen hierarkike të skicës dhe për të mbështetur dhëmbëzimin me shumë nivele.
+`TOC` skedarë janë futur për të treguar lidhjen hierarkike të skicës, për të mbështetur dhëmbëzimin me shumë nivele dhe komentet e rreshtave që fillojnë me `#` .
 
 ##### Niveli Prind Shkruan Vetëm Titullin, Jo Përmbajtjen.
 

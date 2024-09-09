@@ -1,11 +1,14 @@
 # Ontwikkelingsbeplanning
 
-Die volgende belangrike kenmerke is onder ontwikkeling:
+## Voltooi
+
+- [x] RSS feed
+- [x] soekenjinoptimalisering
+
+## Onder Ontwikkeling
 
 - [ ] Skakel tussen verskeie weergawes van dokumente
 - [ ] Suiwer front-end volteks soektog
-- [ ] RSS feed
-- [ ] soekenjinoptimalisering
 - [ ] Druk terselfdertyd artikelopdaterings na groot sosiale media
 - [ ] E-pos beskikbaar vir / `web push` Teken in op produkopdaterings
 - [ ] Lewer kommentaar op artikelparagrawe

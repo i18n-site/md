@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Har'a tsona, ntho ea `upload` ho ea ho `ext:` e bolela hore ke `.md` feela e tla kenngoa ha e hatisoa.
@@ -115,7 +117,7 @@ Mona, `menu: NB demo1,demo2` , e bolela ho sebelisa template ea `NB` ho fana ka 
 `NB` lateloa ke lekhalo `demo1,demo2` le fetisetsoang ho lona.
 `,` `demo1,demo2` : ** **
 
-Faele e tsamaellanang ea li-directory tsa li-parameter tse kaholimo ke:
+Bakeng sa liparamente tse kaholimo, faele ea index ea directory e tsamaellanang ke:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Mela e 'meli e latelang e bontšitsoe skrineng e ka tlase.
 `news/README.md` e tsamaellana le `News` ,
 `news/begin.md` e tsamaellana le `Our Product is Online !`
 
-`TOC` difaele di kentswe ka hare ho bontsha kamano ya maemo a kemiso le ho tshehetsa ho indentation ya maemo a mangata.
+`TOC` difaele di na le indent ho bontsha kamano ya maemo a kemiso, tshehetso ya maemo a mangata, le ditlhaloso tsa mela e qalang ka `#` .
 
 ##### Boemo Ba Motsoali Bo Ngola Sehlooho Feela, Eseng Litaba.
 
@@ -160,7 +162,7 @@ Ha ho na le mekhahlelo e mengata ea indentation, boemo ba motsoali bo ngola feel
 
 ##### Morero README.md
 
-Likahare li ka ngoloa karolong ea `README.md` , joalo ka `en/demo2/README.md` .
+Likahare li ka ngoloa nthong ea `README.md` , joalo ka `en/demo2/README.md` .
 
 Hlokomela hore litaba tsa faele ena ha li bontše lethathamo la litaba tse ka hare, kahoo ho kgothaletswa ho fokotsa bolelele le ho ngola kenyelletso e khutšoanyane.
 

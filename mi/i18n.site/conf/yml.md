@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 I roto i a raatau, `upload` ki `ext:` te mea whirihoranga ko te tikanga ko `.md` anake ka tukuna ina whakaputa.
@@ -59,7 +61,7 @@ Ka taea e koe te whakarereke i `use: Toc` i te whirihoranga i runga ake nei ki `
 
 ### Uta Taunoa Me Te Kore Ara Whirihoranga
 
-Mena ka uru atu ki tetahi ara, karekau i whirihorahia te mua o te ara ki te `nav:` , ka utaina te konae `MarkDown` e rite ana ki te ara ma te taunoa ka tukuna ma te tauira `Md` .
+Mena ka uru atu ki tetahi ara, karekau i whirihorahia tona mua ara ki te `nav:` , ko te konae `MarkDown` e rite ana ki te ara ka utaina ma te taunoa ka whakaputa ma te tauira `Md` .
 
 Hei tauira, ki te uru atu ki `/test` , ka whirihorahia `nav:` me te kore tenei ara, a ko te reo o te wharangi he reo Ingarihi (waehere `en` ), ka utaina `/en/test.md` ma te taunoa ka whakaputa ma te tauira `Md` .
 
@@ -115,7 +117,7 @@ I konei, `menu: NB demo1,demo2` , ko te whakamahi i te tauira `NB` hei whakaatu 
 Ko `NB` ka whai i te tawhā `demo1,demo2` ka tukuna ki a ia.
 Kia : ** kia kaua he mokowā ** i mua me muri i te piko `,` i `demo1,demo2` .
 
-Ko te konae taurangi whaiaronga mo nga tawhā o runga ake ko:
+Mo nga tawhā o runga ake nei, ko te konae taupū whaiaronga e tika ana ko:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -126,7 +128,7 @@ Ko te konae taurangi whaiaronga mo nga tawhā o runga ake ko:
 
 Mena ka whakamahi koe i te tauira `doc` , me whai koe i tenei mono-mai.
 
-Mena ka arawhiti koe i te kaupapa `i18n.site` mai i te kōpaki kau, mahara ki te kape i te kaupapa demo `.i18n` ki to whaiaronga.
+Mena ka arawhiti koe i te kaupapa `i18n.site` mai i te kōpaki putua, mahara ki te kape i te kaupapa demo `.i18n` ki to whaiaronga.
 
 Ko te tauira `Doc` ka whakaatu i te raarangi ihirangi i runga i te `json` kua hangaia.
 
@@ -152,7 +154,7 @@ Ko nga rarangi e rua e whai ake nei e whakaatuhia ana i te Whakaahuamata i raro 
 `news/README.md` he rite ki `News` ,
 `news/begin.md` e rite ana ki `Our Product is Online !`
 
-`TOC` kua nukuhia nga konae hei tohu i te hononga aroraa o te whakahuahua me te tautoko i te nuku taumata-maha.
+`TOC` kua nukuhia nga konae hei tohu i te hononga aroraatanga o te whakahuahua, hei tautoko i te nuku taumata-maha, me nga korero rarangi timata mai i te `#` .
 
 ##### Ko Te Taumata Matua Ka Tuhi I Te Taitara Anake, Kaua Ko Nga Korero.
 
@@ -164,7 +166,7 @@ Ka taea te tuhi i te ihirangi ki te nama `README.md` , penei i `en/demo2/README.
 
 Kia mahara ko nga ihirangi o tenei konae karekau e whakaatu ana i te raarangi korero, na reira ka tūtohu kia whakawhāitihia te roa me te tuhi kupu whakataki poto.
 
-###### Peha Kaupapa
+###### Te Pepeha Kaupapa
 
 Ka kite koe kei a `Deme Two` tana tohu tohu kaupapa i raro `Your Project slogan` :
 

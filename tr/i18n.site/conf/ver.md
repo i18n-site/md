@@ -2,7 +2,7 @@
 
 Örnek olarak demo projesini ele alalım:
 
-`en/demo2/v`'de, kenar çubuğunda proje adının sağında görüntülenecek olan projenin mevcut sürüm numarası bulunmaktadır.
+`en/demo2/v` , kenar çubuğunda proje adının sağında görüntülenecek olan projenin mevcut sürüm numarasıdır.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

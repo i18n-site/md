@@ -55,25 +55,9 @@ Ko nga konae demo kua whakamaoritia i te raarangi `en` he tauira noa ka taea te 
 
 Whakauruhia te whaiaronga ka rere `i18` ki te whakamaori.
 
-### Tāpirihia Nga Konae Ki Te Putunga
+I tua atu i te whakamaoritanga, ka whakaputahia e te papatono te kōpaki `.i18n/data` , tēnā tāpirihia ki te putunga.
 
-I tua atu i te whakamaoritanga, ka mahia ano e te papatono nga konae e whai ake nei, tena koa taapirihia ki te putunga.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-I roto ia ratou, ko te ihirangi o `.i18n/cache/.gitignore` e whai ake nei :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ko te tikanga ko nga konae katoa kei roto i te whaiaronga `.i18n/cache/` (haunga `.i18n/cache/.gitignore` ) ka warewarehia.
-
-Ki te kore e `git` to rorohiko whakahaere putanga, kaua e warewarehia kia rite ki tenei whirihoranga.
+I muri i te whakamaoritanga i te konae hou, ka puta he konae raraunga hou ki tenei raarangi mahara ki te taapiri `git add .` .
 
 ## Kōnae Whirihoranga
 

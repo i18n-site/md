@@ -1,11 +1,14 @@
 # Tsare-Tsaren Ci Gaba
 
-Ana aiwatar da abubuwa masu mahimmanci masu zuwa:
+## An Kammala
+
+- [x] ciyarwar RSS
+- [x] inganta injin bincike
+
+## Karkashin Ci Gaba
 
 - [ ] Canjawa tsakanin nau'ikan takardu da yawa
 - [ ] Neman cikakken rubutu na gaba-karshen
-- [ ] ciyarwar RSS
-- [ ] inganta injin bincike
 - [ ] A lokaci guda tura sabuntawar labarin zuwa manyan kafofin watsa labarun
 - [ ] `web push` imel ga masu amfani /
 - [ ] Yi sharhi akan sakin layi na labarin

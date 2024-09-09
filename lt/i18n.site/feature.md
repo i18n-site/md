@@ -8,7 +8,7 @@ Programa turi įmontuotą `i18` vertimą, žr. [➔ `i18` dokumentą](/i18) , sk
 
 Numatytoji svetainės kalba automatiškai atitiks naršyklės kalbą.
 
-Kai vartotojas rankiniu būdu perjungia kalbas, vartotojo pasirinkimas bus prisimintas.
+Naudotojui rankiniu būdu perjungus kalbas, vartotojo pasirinkimas bus prisimintas.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) kodas :
 
@@ -28,7 +28,7 @@ Principas yra toks: perimkite užklausas su [`service worker`](https://developer
 
 [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker) kodas :
 
-## Vieno Puslapio Aplikacija, Itin Greitas Įkėlimas
+## Vieno Puslapio Programa, Itin Greitas Įkėlimas
 
 Svetainėje naudojama vieno puslapio programos architektūra, neatnaujinama perjungiant puslapius ir įkeliama ypač greitai.
 
@@ -43,6 +43,12 @@ Svetainėje naudojama vieno puslapio programos architektūra, neatnaujinama perj
 <p style="text-align:right">I18N.SITE Autorius</p>
 
 [➔ Spustelėkite čia, kad pamatytumėte stilių sąrašą](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Aukščiau esančiame paveikslėlyje pavaizduota `RSS` kalba naudojant prenumeratą `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Įkelkite Internetinius Šriftus, Palaikykite Kinų Kalbą
 
@@ -78,6 +84,6 @@ Užveskite pelės žymeklį virš mygtuko, esančio dešinėje viršutinės nar�
 
 ## Atvirojo Kodo Kodas
 
-[Kodas yra atvirojo kodo](/i18n.site/src) Jei jus domina kūrimas, prisistatykite [el](//groups.google.com/u/2/g/i18n-site) .
+[Kodas yra atvirojo kodo](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
 Yra daug smulkių reikalavimų, kurie yra svarbūs, bet ne skubūs.

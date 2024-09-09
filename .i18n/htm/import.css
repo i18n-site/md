@@ -1,15 +1,21 @@
-/* 检测有悬停能力的设备，并引入mouse.css文件 */
+@import '//registry.npmmirror.com/fc3/latest/files/index.css';
 
-@import "//registry.npmmirror.com/18x/latest/files/_.css";
+/*
+if want use local font , use like below
 
-/* @import "//registry.npmmirror.com/18x/latest/files/_.css"; */
-/* @import "//cdn.jsdelivr.net/npm/18x@0.1.193/_.css" */
-
-/* @import url("//127.0.0.1:7771/x/mouse.css") (any-hover: hover); */
-
-
-
-/* @import "//cdn.jsdelivr.net/npm/18x/_.css" */
-/* @import "//cdn.jsdelivr.net/npm/18x/_.css" */
-
-/* @import "//127.0.0.1:7771/_.css"; */
+@font-face {
+    font-family: 'h';
+    src: local('miui'),
+         local('BlinkMacSystemFont'),
+         local('Helvetica Neue'),
+         local('Helvetica'),
+         local('Segoe UI'),
+         local('Arial'),
+         local('Roboto'),
+         local('PingFang SC'),
+         local('Hiragino Sans GB'),
+         local('Microsoft Yahei');
+    font-style: normal;
+    font-weight: normal;
+}
+*/

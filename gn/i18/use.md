@@ -55,25 +55,9 @@ Umi archivo demostración oñembohasáva `en` directorio-pe haꞌehína techapyr
 
 Eike directorio-pe ha emongu’e `i18` embohasa hag̃ua.
 
-### Emoĩve Vore Ryru’ípe
+Ñembohasaha ári, programa omoheñóita avei `.i18n/data` ryru, emoĩve tendañongatuhápe.
 
-Ñembohasaha ári, programa omoheñóita avei ko’ã vore, emoĩve tendañongatuhápe.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Umíva apytépe, `.i18n/cache/.gitignore` contenido ha’e ko’ãva :
-
-```
-**/*
-!**/.gitignore
-```
-
-Kóva heꞌise opaite vore oĩva kundaha `.i18n/cache/` pe (ndahaꞌeiramo `.i18n/cache/.gitignore` ) oñemboykeha.
-
-Nde software control de versión rehegua ndaha’éiramo `git` , emboyke ko configuración he’iháicha.
+Oñembohasa rire vore pyahu, ojejapóta peteĩ vore dato rehegua pyahu ko kundahárape Nemandu’áke emoĩ hag̃ua `git add .` .
 
 ## Archivo Ñembohekorã Rehegua
 

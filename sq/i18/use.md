@@ -55,25 +55,9 @@ Skedarët demo të përkthyer në drejtorinë `en` janë vetëm një shembull dh
 
 Futni drejtorinë dhe ekzekutoni `i18` për të përkthyer.
 
-### Shtoni Skedarë Në Depo
+Përveç përkthimit, programi do të gjenerojë gjithashtu dosjen `.i18n/data` , ju lutemi shtoni atë në depo.
 
-Përveç përkthimit, programi do të gjenerojë gjithashtu skedarët e mëposhtëm, ju lutemi shtoni ato në depo.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Midis tyre, përmbajtja e `.i18n/cache/.gitignore` është si më poshtë :
-
-```
-**/*
-!**/.gitignore
-```
-
-Kjo do të thotë që të gjithë skedarët në drejtorinë `.i18n/cache/` (përveç `.i18n/cache/.gitignore` ) janë injoruar.
-
-Nëse softueri juaj i kontrollit të versionit nuk është `git` , ju lutemi injoroni atë sipas këtij konfigurimi.
+Pas përkthimit të skedarit të ri, në këtë direktori do të krijohet një skedar i ri `git add .` të dhënave.
 
 ## Skedari I Konfigurimit
 

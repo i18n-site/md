@@ -4,3 +4,8 @@ importmap:
   i/: //unpkg.com/@8n/
 
 api: //s.i18n.site/
+
+host: i18n.site
+seo: true
+out:
+  - s3

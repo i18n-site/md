@@ -2,7 +2,7 @@
 
 Vezměte si ukázkový projekt jako příklad:
 
-`en/demo2/v` je aktuální verze projektu, která se zobrazí napravo od názvu projektu v postranním panelu.
+`en/demo2/v` je aktuální verze projektu, která se zobrazí napravo od názvu projektu v postranním panelu ossu.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

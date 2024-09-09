@@ -2,7 +2,7 @@
 
 Ny mombamomba ny `i18n.site` dia `.i18n/conf.yml` .
 
-Afa-tsy ny firafitry ny [`i18`](/i18) , `ignore:` ary `i18n:` , dia toy izao ny fichier configuration:
+Afa-tsy ny firafitry ny [`i18`](/i18) , `ignore:` ary `i18n:` , dia toy izao manaraka izao ny fichier configuration:
 
 ```yaml
 upload:
@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Amin'izy ireo, `upload` hatramin'ny `ext:` ny singa fanamafisana dia midika fa `.md` ihany no halefa rehefa mamoaka.
@@ -53,7 +55,7 @@ Rehefa vita ny fandikan-teny dia azonao ovaina ny sandan'ny fandikan-teny `yml` 
 
 ### `use: Md` , Môdely Rakitra Tokana (Tsy Misy Drafitra)
 
-Mitovy ny môdely `Md` sy ny môdely `Toc` ary samy ampiasaina handikana rakitra `Markdown` tokana. Saingy ny môdely `Md` dia tsy mampiseho ny drafitra ao amin'ny sidebar.
+Mitovy ny môdely `Md` sy ny môdely `Toc` ary samy ampiasaina hamerenana rakitra `Markdown` tokana. Saingy ny môdely `Md` dia tsy mampiseho ny drafitra ao amin'ny sidebar.
 
 Azonao atao ny manova `use: Toc` amin'ny config etsy ambony ho `use: Md` , mandehana `i18n.site` ao amin'ny lahatahiry `md` indray, ary avy eo dia tsidiho ny URL momba ny fampivoarana mba hijerena ireo fiovana ao amin'ny pejy fandraisana.
 
@@ -110,12 +112,12 @@ Ny fandrindrana ny `i18n:doc` amin'ny `.i18n/conf.yml` dia maodely tetikasa maro
 
 Eto, `menu: NB demo1,demo2` , dia midika hoe mampiasa ny môdely `NB` hamerenana ny menio midina.
 
-`NB` , izay fanafohezana ny `Name Breif` , dia midika fa ny menio midina dia afaka mampiseho ny anarana sy ny teny filamatra ny tetikasa.
+`NB` , izay fanafohezana ny `Name Breif` , dia midika fa ny menio midina dia afaka mampiseho ny anarana sy ny teny filamatry ny tetikasa.
 
 `NB` dia arahin'ny paramètre `demo1,demo2` alefa aminy.
 Fanamarihana : ** Tsy tokony hisy toerana ** alohan'ny sy aorian'ny faingo `,` amin'ny `demo1,demo2` .
 
-Ny rakitra fanondroana lahatahiry mifanaraka amin'ireo masontsivana etsy ambony dia:
+Ho an'ireo masontsivana etsy ambony, ny rakitra fanondroana lahatahiry mifanaraka amin'izany dia:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,9 +154,9 @@ Ny andalana roa manaraka dia aseho amin'ny pikantsary etsy ambany.
 `news/README.md` mifanitsy amin'ny `News` ,
 `news/begin.md` mifanandrify amin'ny `Our Product is Online !`
 
-`TOC` ny rakitra dia apetraka mba hanondroana ny fifandraisana ara-jeografika amin'ny drafitra ary hanohanana ny indentation maromaro.
+`TOC` ny rakitra dia apetaka mba hanondroana ny fifandraisana ara-jeografika amin'ny drafitra, hanohanana indentation ambaratonga maro, ary fanehoan-kevitra andalana manomboka amin'ny `#` .
 
-##### Ny Lohatenin'ny Ray Aman-Dreny Ihany No Manoratra Fa Tsy Ny Votoatiny.
+##### Ny Lohatenin'ny Ray Aman-Dreny Ihany No Manoratra Fa Tsy Ny Atiny.
 
 Rehefa misy ambaratonga maromaro ny indentation dia ny lohatenin'ny ray aman-dreny ihany no manoratra fa tsy ny atiny. Raha tsy izany dia hikorontana ny typography.
 

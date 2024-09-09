@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Le wo dome la, ɖoɖowɔɖi ƒe nu `upload` va ɖo `ext:` fia be `.md` koe woada ɖe Internet dzi ne wole etam.
@@ -115,7 +117,7 @@ Le afisia la, `menu: NB demo1,demo2` , fia be nàzã `NB` ƒe nɔnɔmetata atsɔ
 `NB` kplɔe ɖo kple parameter `demo1,demo2` si wotsɔ yi nɛ.
 De : ** Mele be dometsotso ** aɖeke nanɔ anyi do ŋgɔ na koma `,` le `demo1,demo2` me kple emegbe o.
 
-Directory index file si sɔ na parameter siwo le etame enye:
+Le parameter siwo le etame gome la, directory index file si sɔ kplii enye:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Fli eve siwo kplɔe ɖo la le abe alesi woɖee fia le screenshot si le ete me en
 `news/README.md` sɔ kple `News` , .
 `news/begin.md` sɔ kple `Our Product is Online !`
 
-Wotsɔ faɛl `TOC` de eme be woatsɔ afia ƒomedodo si le ɖoɖowɔɖia me le ɖoɖo nu eye woado alɔ indentation si le ɖoƒe vovovowo.
+Wotsɔ faɛl `TOC` de eme be woatsɔ afia ƒomedodo si le ɖoɖowɔɖia ƒe ɖoɖo nu, ado alɔ nuŋɔŋlɔ si le ɖoƒe vovovowo, kple fli ƒe nyaŋuɖoɖo siwo dze egɔme kple `#` .
 
 ##### Dzila Ƒe Ɖoƒea Ŋlɔa Tanya La Ko, Ke Menye Emenyawo O.
 

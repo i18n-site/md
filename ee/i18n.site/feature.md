@@ -8,7 +8,7 @@ Gbegɔmeɖeɖe `i18` le ɖoɖowɔɖia me, taflatse kpɔ [➔ nuŋlɔɖi `i18`](/
 
 Gbe si nyatakakadzraɖoƒea zãna la asɔ kple web-browser la ƒe gbe le eɖokui si.
 
-Ne zãla la trɔ gbegbɔgblɔwo kple asi vɔ la, woaɖo ŋku amesi zãe la ƒe tiatia dzi.
+Ne ezãla tsɔ asi trɔ gbegbɔgblɔwo vɔ la, woaɖo ŋku amesi zãe la ƒe tiatia dzi.
 
 Kɔda si do ƒome [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -22,7 +22,7 @@ Nuxexlẽ ƒe nuteƒekpɔkpɔ deblibo hã le asitelefon dzi.
 
 `i18n.site` ata nyatakakadzraɖoƒea me nyawo ɖe `npmjs.com` dzi le gɔmedzedzea me, kple kpekpeɖeŋu [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) kple nyatakaka `CDN` bubu siwo woda ɖe `npm` dzi.
 
-Wonɔ te ɖe esia dzi tsɔ ahuhɔ̃e dzɔtsoƒe siwo tso China-nyigba gã dzi kpe ɖe eŋu be Chinatɔwo nate ŋu akpɔ mɔ si li ke eye woakpɔ **ŋgɔgbe-nukpɔsusu si sɔ gbɔ ŋutɔ** .
+Wonɔ te ɖe esia dzi tsɔ ahuhɔ̃e dzɔtsoƒe siwo tso China-nyigba gã dzi kpe ɖe eŋu be Chinatɔwo nate ŋu akpɔ mɔ si li ke eye woakpɔ **ŋgɔgbekpa dzi** .
 
 Gɔmeɖoseae nye: tsɔ [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) xe mɔ na biabiawo, gbugbɔ te biabia siwo do kpo nu kpɔ le `CDN` bubuwo dzi, eye nàtrɔ asi le eŋu be nàna gɔmedzeƒe si ɖoa nya ŋu kabakaba wu la nawɔ dɔ abe agbatsɔƒe si woɖo ɖi ene.
 
@@ -44,6 +44,12 @@ Nyatakakadzraɖoƒea zãa axa ɖeka ƒe dɔwɔɖoɖo ƒe ɖoɖo, eye womegawɔa 
 
 [➔ Zi afisia dzi be nàkpɔ atsyãwo ƒe xexlẽdzesi](/i18n.site/md/styl) .
 
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Nɔnɔmetata si le etame la ɖe gbegbɔgblɔ geɖe `RSS` fia [inoreader.com](//inoreader.com) nudɔdɔ `i18n.site` zazã me.
+
 ### De Internet Dzi Ŋɔŋlɔdzesiwo, Do Alɔ Chinagbe
 
 Le gɔmedzedzea me la, [Alimama dual-axis variable rectangular fonts](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) , [MiSans](https://hyperos.mi.com/font/zh/download/) kple internet dzi ŋɔŋlɔdzesiwo le nyatakakadzraɖoƒea be woawɔ ɖeka kple ezãlawo ƒe nuxexlẽ ƒe nuteƒekpɔkpɔ le mɔ̃ vovovowo dzi.
@@ -60,21 +66,21 @@ Yi dzi eye mɔfiame ɣaɣla la agadze ake.
 
 Adzo ne mouse la mele ʋuʋum o.
 
-Abɔta si le screen bliboa dzi le mɔfianu la ƒe ɖusime le etame be wòana nuŋlɔɖi xexlẽ ƒe nuteƒekpɔkpɔ si me nànyrɔ ame le.
+Abɔti si le screen bliboa dzi le mɔfianu la ƒe ɖusime le etame be wòana nuŋlɔɖi xexlẽ ƒe nuteƒekpɔkpɔ si me nànyrɔ ame le.
 
 ### Ta Si Li Fifia Ƒe Nɔnɔmetata Si Woɖe Ɖe Go Le Ɖoɖo Nu
 
-Ne èle emenyawo ʋum le ɖusime la, nɔnɔmetata si le miame la ate gbe ɖe ta si míele xlẽm fifia dzi le ɣeyiɣi ɖeka me.
+Ne èle emenyawo ʋum le ɖusime la, nɔnɔmetata si le miame la ahe susu ayi ta si míele xlẽm fifia dzi le ɣeyiɣi ɖeka me.
 
 ## Nyatakaka Fafɛwo Tsitotsito
 
 ### Mouse Ƒe Ŋusẽkpɔɖeamedziwo
 
-Tsɔ wò mouse da ɖe abɔta si le etame mɔfianu la ƒe ɖusime dzi be nàkpɔ nu tɔxɛ fafɛwo.
+Tsɔ wò mouse da ɖe abɔti si le etame ƒe ɖusime dzi be nàkpɔ nu tɔxɛ fafɛ fafɛwo.
 
 ### `404` Gbɔgbɔ Sue Aɖe
 
-Gbɔgbɔ sue dzeani aɖe si le tsia dzi le axa `404` la dzi, si ƒe ŋkuwo aʋuʋu kple mouse la, [➔ Zi afisia dzi be nàkpɔ](/404) , .
+`404` axa dzi gbɔgbɔ sue dzeani aɖe si le tsia dzi le esi, eƒe ŋkuwo aʋuʋu kple mouse, [➔ Zi afisia dzi be nàkpɔ](/404) , .
 
 ## Kɔda Ʋuʋu Dzɔtsoƒe
 

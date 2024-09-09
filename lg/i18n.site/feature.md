@@ -8,7 +8,7 @@ Programu erina enkyusa `i18` ezimbiddwamu, nsaba olabe [➔ ekiwandiiko `i18`](/
 
 Olulimi olusookerwako olw’omukutu lujja kukwatagana n’olulimi lwa browser mu ngeri ey’otoma.
 
-Oluvannyuma lw’omukozesa okukyusa ennimi mu ngalo, omukozesa ky’alonze kijja kujjukirwa.
+Oluvannyuma lw'omukozesa okukyusa ennimi mu ngalo, okulonda kw'omukozesa kujja kujjukirwa.
 
 Koodi ekwatagana [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ Waliwo n’okusoma okutuukiridde ku ssimu.
 
 ## <a rel=id href="#ha" id="ha"></a> Front-end okubeerawo kwa waggulu
 
-`i18n.site` ejja kufulumya ebirimu ku mukutu ku `npmjs.com` mu butonde, nga eyambibwako [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) n'ebintu ebirala `CDN` ebitikkiddwa ku `npm` .
+`i18n.site` ejja kufulumya ebirimu ku mukutu ku `npmjs.com` nga bwe biba, nga eyambibwako [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) n'ebintu ebirala ebingi `CDN` ebitikkiddwa ku `npm` .
 
 Ku musingi guno, ensonda z’endabirwamu okuva ku lukalu lwa China zaagattibwako okusobozesa abakozesa Abachina okufuna omukisa ogutebenkedde n’okutuuka ku **bufunze obw’amaanyi obw’omu maaso** .
 
@@ -37,12 +37,18 @@ Omukutu guno gukwata ensengeka y’enkola ey’olupapula lumu, nga tewali kuzza 
 ### Omusono Ogukoleddwa Obulungi
 
 > Obulungi bw’obwangu butaputibwa bulungi mu nkola ya web design y’omukutu guno.
-> Kisuula okuyooyoota okuteetaagisa ne kiraga ebirimu mu ngeri yaakyo esinga obulongoofu.
+> Esuula okuyooyoota okutaliimu nnyo era n’eyanjula ebirimu mu ngeri yaayo esinga obulongoofu.
 > Ng’ekitontome ekirabika obulungi, wadde nga kimpi, kikwata ku mitima gy’abantu.
 
 <p style="text-align:right">── Omuwandiisi I18N.SITE</p>
 
 [➔ Nyiga wano olabe olukalala lw'emisono](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ekifaananyi waggulu kiraga ennimi nnyingi `RSS` nga [inoreader.com](//inoreader.com) okuwandiika `i18n.site` .
 
 ### Tikka Fonts Ku Yintaneeti, Wagira Oluchina
 
@@ -74,10 +80,10 @@ Teeka mouse yo ku button eri ku ludda olwa ddyo olw’okutambulira waggulu olabe
 
 ### `404` Omuzimu Omutono
 
-Waliwo omuzimu omutono omulungi ogutengejja ku lupapula lwa `404` , amaaso ge gajja kutambula ne mouse, [➔ Nyiga wano okulaba](/404) ,
+`404` page erina omuzimu omutono omulungi ogutengejja, amaaso gaayo gajja kutambula ne mouse, [➔ Nyiga wano okulaba](/404) ,
 
 ## Code Open Source
 
 [Code is open source](/i18n.site/src) .Bw'oba oyagala okwetaba mu nkulaakulana, nsaba weeyanjule ku [lukalala lw'amabaluwa](//groups.google.com/u/2/g/i18n-site) .
 
-Waliwo ebyetaago bingi ebitonotono ebikulu naye nga si bya mangu Ttiimu y’enkulaakulana ejja kugaba emirimu gy’okwegezangamu okusinziira ku tekinologiya gw’oli omulungi, n’okulongoosa ebiwandiiko by’enkulaakulana ng’egaba ebyetaago.
+Waliwo ebyetaago bingi ebitonotono ebikulu naye nga si bya mangu Ttiimu y’enkulaakulana ejja kugaba emirimu egy’omu ngalo okusinziira ku tekinologiya gy’oli omulungi, n’okulongoosa ebiwandiiko by’enkulaakulana nga bw’ogaba ebyetaago.

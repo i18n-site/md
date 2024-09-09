@@ -55,25 +55,9 @@ Fayilolin demo da aka fassara a cikin kundin adireshin `en` misali ne kawai kuma
 
 Shigar da littafin kuma gudanar da `i18` don fassarawa.
 
-### Ƙara Fayiloli Zuwa Ma'ajiyar
+Baya ga fassarar, shirin zai kuma samar da babban fayil ɗin `.i18n/data` , da fatan za a ƙara shi zuwa ma'ajiyar.
 
-Baya ga fassarar, shirin zai kuma samar da fayiloli masu zuwa, da fatan za a ƙara su cikin ma'ajiyar.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Daga cikinsu, abun ciki na `.i18n/cache/.gitignore` shine kamar haka :
-
-```
-**/*
-!**/.gitignore
-```
-
-Wannan yana nufin cewa duk fayiloli a cikin directory `.i18n/cache/` (ban da `.i18n/cache/.gitignore` ) an yi watsi da su.
-
-Idan software mai sarrafa sigar ku ba `git` ba ce, da fatan za a yi watsi da ita bisa ga wannan tsarin.
+Bayan fassarar sabon fayil ɗin, za a samar da sabon fayil ɗin bayanai a cikin wannan kundin adireshi `git add .`
 
 ## Fayil Na Tsari
 

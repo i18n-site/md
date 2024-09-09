@@ -55,25 +55,9 @@ File demo anu ditarjamahkeun dina diréktori `en` ngan ukur conto sareng tiasa d
 
 Lebetkeun diréktori sareng ngajalankeun `i18` pikeun narjamahkeun.
 
-### Tambahkeun File Kana Gudang
+Salian tarjamahan, program ogé bakal ngahasilkeun folder `.i18n/data` , mangga tambahkeun kana gudang.
 
-Salian tarjamahan, program ogé bakal ngahasilkeun file di handap ieu, mangga tambahkeun kana gudang.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Di antarana, eusi `.i18n/cache/.gitignore` ieu di handap :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ieu ngandung harti yén sakabéh file dina diréktori `.i18n/cache/` (iwal `.i18n/cache/.gitignore` ) teu dipaliré.
-
-Upami parangkat lunak kontrol vérsi anjeun sanés `git` , punten teu malire dumasar kana konfigurasi ieu.
+Saatos narjamahkeun file anyar, file data anyar bakal dihasilkeun dina diréktori ieu `git add .`
 
 ## File Konfigurasi
 

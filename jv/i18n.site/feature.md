@@ -30,21 +30,27 @@ Kode sing [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/m
 
 ## Aplikasi Siji Kaca, Loading Cepet Banget
 
-Situs web nganggo arsitektur aplikasi siji-kaca, tanpa refresh nalika ngalih kaca lan loading cepet banget.
+Situs web nganggo arsitektur aplikasi siji-halaman, tanpa refresh nalika ngalih kaca lan loading cepet banget.
 
 ## Dioptimalake Kanggo Pengalaman Maca
 
 ### Gaya Sing Dirancang Kanthi Apik
 
 > Kaendahan kesederhanaan diinterpretasikake kanthi sampurna ing desain web situs web iki.
-> Ninggalake dekorasi sing ora perlu lan menehi konten kanthi bentuk sing paling murni.
-> Kados geguritan ingkang endah, senajan cekak, nanging nggegirisi manahipun tiyang.
+> Ninggalake dekorasi sing berlebihan lan menehi konten kanthi bentuk sing paling murni.
+> Ibarat geguritan kang endah, senajan cekak, nanging nyentuh atine wong.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Klik ing kene kanggo ndeleng dhaptar gaya](/i18n.site/md/styl) .
 
-### Muat Fonts Online, Ndhukung Basa Cina
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Gambar ing ndhuwur nuduhake multi-basa `RSS` nggunakake [inoreader.com](//inoreader.com) `i18n.site` .
+
+### Muat Font Online, Ndhukung Basa Cina
 
 Kanthi gawan, [Alimama dual-axis variable rectangular fonts](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) , [MiSans](https://hyperos.mi.com/font/zh/download/)
 
@@ -52,7 +58,7 @@ Ing wektu sing padha, kanggo nambah kacepetan loading, fonts diiris miturut stat
 
 Kode sing [github.com/i18n-site/font](https://github.com/i18n-site/font) :
 
-### Pandhu Arah Ndhuwur Didhelikake Kanthi Otomatis
+### Pandhu Arah Ndhuwur Kanthi Otomatis Didhelikake
 
 Gulung mudhun lan pandhu arah ndhuwur bakal ndhelikake kanthi otomatis.
 
@@ -72,7 +78,7 @@ Nalika nggulung isi ing sisih tengen, outline ing sisih kiwa bakal bebarengan ny
 
 Kisaran mouse liwat tombol ing sisih tengen pandhu arah ndhuwur kanggo ndeleng efek khusus kelangan.
 
-### `404` Memedi Cilik
+### `404` Hantu Cilik
 
 Ana hantu ngambang cilik sing lucu ing kaca `404` , sing mripate bakal obah nganggo mouse, [➔ Klik ing kene kanggo ndeleng](/404) ,
 
@@ -80,4 +86,4 @@ Ana hantu ngambang cilik sing lucu ing kaca `404` , sing mripate bakal obah ngan
 
 [Kode punika open source](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Ana akeh syarat cilik sing penting nanging ora penting Tim pangembangan bakal nemtokake tugas latihan miturut teknologi sing sampeyan kuasai, lan nambah dokumen pangembangan nalika nemtokake syarat kasebut.
+Ana akeh syarat cilik sing penting nanging ora penting.

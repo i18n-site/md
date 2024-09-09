@@ -55,25 +55,9 @@ Amafayela edemo ahunyushiwe ohlwini lwemibhalo `en` ayisibonelo nje futhi angasu
 
 Faka uhla lwemibhalo bese usebenzisa okuthi `i18` ukuze uhumushe.
 
-### Engeza Amafayela Endaweni Yokugcina
+Ngaphezu kokuhumusha, uhlelo luzophinda lukhiqize ifolda `.i18n/data` , sicela uyengeze endaweni yokugcina.
 
-Ngaphezu kokuhumusha, uhlelo luzophinda lukhiqize amafayela alandelayo, sicela uwangeze endaweni yokugcina.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Phakathi kwazo, okuqukethwe ngu `.i18n/cache/.gitignore` kungokulandelayo :
-
-```
-**/*
-!**/.gitignore
-```
-
-Lokhu kusho ukuthi wonke amafayela kuhla lwemibhalo `.i18n/cache/` (ngaphandle kuka `.i18n/cache/.gitignore` ) azitshwa.
-
-Uma isofthiwe yakho yokulawula inguqulo ingeyena `git` , sicela uyizibe ngokwalokhu kulungiselelwa.
+Ngemva kokuhumusha ifayela elisha, ifayela ledatha elisha lizokhiqizwa kulolu hlu lwemibhalo Khumbula ukwengeza okuthi `git add .` .
 
 ## Ifayela Lokucushwa
 

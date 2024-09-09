@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 N'ime ha, ihe nhazi `upload` ruo `ext:` pụtara na naanị `.md` ga-ebugo mgbe a na-ebipụta ya.
@@ -47,7 +49,7 @@ Ka emechara ntụgharị asụsụ, ị nwere ike gbanwee uru ntụgharị asụ
 
 `use: Toc` pụtara nsụgharị site na iji template `Toc` , nke na-enye otu ndebiri `Markdown` .
 
-`TOC` bụ mkpirisi nke `Table of Contents` Mgbe emegharịrị template a, a ga-egosipụta ndepụta nke faịlụ `Markdown` a na sidebar.
+`TOC` bụ mkpirisi nke `Table of Contents` Mgbe edeputara ndebiri a, a ga-egosipụta ndepụta nke faịlụ `Markdown` a na sidebar.
 
 `url:` na-anọchi anya ụzọ faịlụ nke `Markdown` ( `/` kwekọrọ na ndekọ mgbọrọgwụ `/README.md` , aha faịlụ a chọrọ prefix ukwu na obere suffix).
 
@@ -115,7 +117,7 @@ Ebe a, `menu: NB demo1,demo2` , pụtara iji template `NB` iji nye menu ndọda.
 `NB` na-esochi oke `demo1,demo2` gafere ya.
 `demo1,demo2` : ** `,` **
 
-Faịlụ ndekọ ndekọ aha kwekọrọ maka paramita ndị a dị n'elu bụ:
+Maka paramita ndị a dị n'elu, faịlụ ndekọ ndekọ aha kwekọrọ bụ:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Ahịrị abụọ na-esote dị ka egosiri na nseta ihuenyo dị n'okpuru.
 `news/README.md` dabara na `News` ,
 `news/begin.md` dabara na `Our Product is Online !`
 
-etinyere faịlụ `TOC` iji gosi njikọ nhazi ọkwa nke ndepụta ma kwado ntinye ọkwa ọtụtụ.
+A na-etinye faịlụ `TOC` iji gosi njikọ nhazi ọkwa nke ndepụta ahụ, kwado ntinye ọkwa ọtụtụ, na nkọwa ahịrị malite na `#` .
 
 ##### Ọkwa Nne Na Nna Na-Ede Aha Naanị, Ọ Bụghị Ọdịnaya.
 
@@ -188,7 +190,7 @@ Dịka ọmụmaatụ, ọ bụrụ na asụsụ isi mmalite bụ Chinese, mgbe 
 
 Ọ bụrụ na agbanweela asụsụ isi mmalite, ịkwesịrị ịkwaga faịlụ `TOC` nke otu asụsụ n'ime ọrụ ahụ gaa n'asụsụ ọzọ.
 
-Ị nwere ike rụtụ aka na iwu ndị a:
+Ị nwere ike zoo aka na iwu ndị a:
 
 ```
 rsync -av --remove-source-files --include='*/' \

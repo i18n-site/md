@@ -20,7 +20,7 @@ Mae yna hefyd brofiad darllen perffaith ar y ffôn symudol.
 
 ## <a rel=id href="#ha" id="ha"></a> Argaeledd uchel pen blaen
 
-Bydd `i18n.site` yn cyhoeddi cynnwys y wefan i `npmjs.com` yn ddiofyn, gyda chymorth [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) a chynnwys `CDN` arall wedi'i lwytho ar `npm` .
+Bydd `i18n.site` yn cyhoeddi cynnwys y wefan i `npmjs.com` yn ddiofyn, gyda chymorth [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) a chynnwys lluosog `CDN` arall wedi'i lwytho ar `npm` .
 
 Ar y sail hon, ychwanegwyd ffynonellau drych o dir mawr Tsieina i ganiatáu i ddefnyddwyr Tsieineaidd gael mynediad sefydlog a sicrhau **argaeledd pen blaen uchel** .
 
@@ -43,6 +43,12 @@ Mae'r wefan yn mabwysiadu pensaernïaeth cymhwysiad un dudalen, heb unrhyw adnew
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Cliciwch yma i weld rhestr o arddulliau](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Mae'r llun uchod yn dangos aml-iaith `RSS` gan ddefnyddio [inoreader.com](//inoreader.com) `i18n.site` .
 
 ### Llwytho Ffontiau Ar-Lein, Cefnogi Tsieinëeg
 
@@ -74,10 +80,10 @@ Hofranwch eich llygoden dros y botwm ar ochr dde'r llywio uchaf i weld effeithia
 
 ### `404` Ysbryd Bach
 
-Mae yna ysbryd bach ciwt arnofio ar y dudalen `404` , a bydd ei lygaid yn symud gyda'r llygoden, [➔ Cliciwch yma i weld](/404) ,
+Mae gan dudalen `404` ysbryd bach ciwt arnofio, bydd ei lygaid yn symud gyda'r llygoden, [➔ Cliciwch yma i weld](/404) ,
 
 ## Cod Ffynhonnell Agored
 
 [Mae'r cod yn ffynhonnell agored](/i18n.site/src) . Os oes gennych ddiddordeb mewn cymryd rhan mewn datblygiad, cyflwynwch eich hun i'r [rhestr bostio](//groups.google.com/u/2/g/i18n-site)
 
-Mae yna lawer o ofynion bach sy'n bwysig ond nid yn rhai brys.
+Mae yna lawer o ofynion bach sy'n bwysig ond nid ar frys.

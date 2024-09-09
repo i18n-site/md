@@ -8,7 +8,7 @@ O programa ten `i18` tradución integrada, consulta [➔ `i18` documento](/i18) 
 
 O idioma predeterminado do sitio web coincidirá automaticamente co idioma do navegador.
 
-Despois de que o usuario cambie de idioma manualmente, lembrarase a elección do usuario.
+Despois de que o usuario cambie manualmente o idioma, lembrarase a elección do usuario.
 
 Código relacionado : [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
@@ -37,12 +37,18 @@ O sitio web adopta unha arquitectura de aplicación dunha soa páxina, sen actua
 ### Estilo Ben Deseñado
 
 > A beleza da sinxeleza está perfectamente interpretada no deseño web deste sitio web.
-> Abandona a decoración innecesaria e presenta o contido en estado puro.
+> Abandona a decoración superflua e presenta o contido en estado puro.
 > Como un fermoso poema, aínda que é breve, toca o corazón da xente.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Fai clic aquí para ver unha lista de estilos](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+A imaxe de arriba mostra `RSS` multilingüe usando [inoreader.com](//inoreader.com) subscrición `i18n.site` .
 
 ### Carga Fontes en Liña, Admite O Chinés
 
@@ -80,4 +86,4 @@ Hai unha pequena pantasma flotante na páxina `404` , cuxos ollos se moverán co
 
 [O código é de código aberto](/i18n.site/src) Se estás interesado en participar no desenvolvemento, preséntate á [lista de correo](//groups.google.com/u/2/g/i18n-site) .
 
-Hai moitos pequenos requisitos que son importantes pero non urxentes. O equipo de desenvolvemento asignará tarefas de práctica segundo a tecnoloxía na que é bo e mellorará os documentos de desenvolvemento mentres asigna os requisitos.
+Hai moitos pequenos requisitos que son importantes pero non urxentes. O equipo de desenvolvemento asignará tarefas prácticas en función das tecnoloxías nas que é bo e mellorará os documentos de desenvolvemento mentres asigna os requisitos.

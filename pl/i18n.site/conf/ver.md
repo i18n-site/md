@@ -2,7 +2,7 @@
 
 Na przykładzie projektu demonstracyjnego:
 
-`en/demo2/v` zawiera bieżący numer wersji projektu, który będzie wyświetlany po prawej stronie nazwy projektu w panelu bocznym.
+`en/demo2/v` to obecna wersja projektu, która będzie wyświetlana po prawej stronie nazwy projektu w panelu przewodnika bocznego.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

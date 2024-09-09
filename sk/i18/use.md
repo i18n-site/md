@@ -55,25 +55,9 @@ Preložené ukážkové súbory v adresári `en` sú len príkladom a možno ich
 
 Zadajte adresár a spustite `i18` na preklad.
 
-### Pridajte Súbory Do Úložiska
+Okrem prekladu program vygeneruje aj priečinok `.i18n/data` , pridajte ho prosím do úložiska.
 
-Okrem prekladu program vygeneruje aj nasledujúce súbory, pridajte ich do úložiska.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Medzi nimi je obsah `.i18n/cache/.gitignore` nasledujúci :
-
-```
-**/*
-!**/.gitignore
-```
-
-To znamená, že všetky súbory v adresári `.i18n/cache/` (okrem `.i18n/cache/.gitignore` ) sú ignorované.
-
-Ak váš softvér na správu verzií nie je `git` , ignorujte ho podľa tejto konfigurácie.
+Po preložení nového súboru sa v tomto adresári vygeneruje nový dátový súbor. Nezabudnite pridať `git add .` .
 
 ## Konfiguračný Súbor
 

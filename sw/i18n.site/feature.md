@@ -8,7 +8,7 @@ Programu ina tafsiri `i18` ya ndani, tafadhali angalia [➔ hati `i18`](/i18) kw
 
 Lugha chaguo-msingi ya tovuti italingana kiotomatiki na lugha ya kivinjari.
 
-Baada ya mtumiaji kubadili lugha kwa mikono, chaguo la mtumiaji litakumbukwa.
+Baada ya mtumiaji kubadili mwenyewe lugha, chaguo la mtumiaji litakumbukwa.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) unaohusiana :
 
@@ -20,11 +20,11 @@ Pia kuna uzoefu mzuri wa kusoma kwenye simu ya rununu.
 
 ## <a rel=id href="#ha" id="ha"></a> Upatikanaji wa juu wa mwisho wa mbele
 
-`i18n.site` itachapisha maudhui ya tovuti kwa `npmjs.com` kwa chaguo-msingi, kwa usaidizi wa [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) na maudhui mengine `CDN` yaliyopakiwa kwenye `npm` .
+`i18n.site` itachapisha maudhui ya tovuti kwa `npmjs.com` kwa chaguo-msingi, kwa usaidizi wa [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) na maudhui mengine mengi `CDN` yaliyopakiwa kwenye `npm` .
 
 Kwa msingi huu, vyanzo vya kioo kutoka China bara viliongezwa ili kuruhusu watumiaji wa China kupata ufikiaji thabiti na kufikia **upatikanaji wa hali ya juu** .
 
-Kanuni ni: kukatiza maombi na [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , jaribu tena maombi yaliyoshindikana kwa `CDN` , na uwezeshe kwa urahisi tovuti asili inayojibu kwa haraka zaidi kama chanzo chaguo-msingi cha upakiaji.
+Kanuni ni: kukatiza maombi na [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , jaribu tena maombi ambayo hayakufaulu kwa `CDN` , na uwezeshe kwa urahisi tovuti asili inayojibu haraka kama chanzo chaguo-msingi cha upakiaji.
 
 [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker) unaohusiana :
 
@@ -37,12 +37,18 @@ Tovuti inachukua usanifu wa programu ya ukurasa mmoja, bila kuburudisha wakati w
 ### Mtindo Ulioundwa Vizuri
 
 > Uzuri wa unyenyekevu unafasiriwa kikamilifu katika muundo wa wavuti wa tovuti hii.
-> Inaacha mapambo yasiyo ya lazima na inatoa yaliyomo katika hali yake safi.
+> Inaacha mapambo ya ziada na inatoa maudhui katika hali yake safi.
 > Kama shairi zuri, ingawa ni fupi, linagusa mioyo ya watu.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Bofya hapa ili kuona orodha ya mitindo](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Picha hapo juu inaonyesha `RSS` ya lugha nyingi ukitumia [inoreader.com](//inoreader.com) `i18n.site` .
 
 ### Pakia Fonti Za Mtandaoni, Usaidie Kichina
 
@@ -74,10 +80,10 @@ Angusha kipanya chako juu ya kitufe kilicho upande wa kulia wa usogezaji wa juu 
 
 ### `404` Mzimu Mdogo
 
-Kuna mzimu mdogo mzuri unaoelea kwenye ukurasa wa `404` , ambaye macho yake yatatembea na panya, [➔ Bofya hapa kutazama](/404) ,
+Ukurasa `404` una mzimu mdogo mzuri unaoelea, macho yake yatatembea na panya, [➔ Bofya hapa kutazama](/404) ,
 
 ## Nambari Ya Chanzo Wazi
 
-[Msimbo ni chanzo huria](/i18n.site/src) . Ikiwa ungependa kushiriki katika uundaji, tafadhali jitambulishe kwenye [orodha ya wanaopokea barua pepe](//groups.google.com/u/2/g/i18n-site) .
+[Msimbo ni chanzo wazi](/i18n.site/src) . Ikiwa ungependa kushiriki katika utayarishaji, tafadhali jitambulishe kwenye [orodha ya wanaopokea barua pepe](//groups.google.com/u/2/g/i18n-site) .
 
-Kuna mahitaji mengi madogo ambayo ni muhimu lakini si ya dharura. Timu ya uendelezaji itapangia kazi za mazoezi kulingana na teknolojia unayoifahamu vizuri, na kuboresha hati za usanidi huku ikikabidhi mahitaji.
+Kuna mahitaji mengi madogo ambayo ni muhimu lakini si ya dharura. Timu ya uendelezaji itapangia kazi za mikono kulingana na teknolojia unazozijua vizuri, na kuboresha hati za usanidi huku ikikabidhi mahitaji.

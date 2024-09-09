@@ -8,7 +8,7 @@ Ang programa adunay built-in nga `i18` nga paghubad, palihug tan-awa ang [➔ `i
 
 Ang default nga pinulongan sa website awtomatik nga motakdo sa pinulongan sa browser.
 
-Human sa mano-mano nga pagbalhin sa mga pinulongan sa user, ang pagpili sa user mahinumduman.
+Human ang user mano-mano nga mag-ilis sa mga pinulongan, ang pagpili sa user mahinumduman.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) kalabotan nga code :
 
@@ -24,7 +24,7 @@ Adunay usab usa ka hingpit nga kasinatian sa pagbasa sa mobile phone.
 
 Pinasukad niini, ang mga tinubdan sa salamin gikan sa mainland China gidugang aron tugotan ang mga tiggamit sa China nga adunay lig-on nga pag-access ug makab-ot **ang taas nga pagkaanaa sa atubangan** .
 
-Ang prinsipyo mao ang: intercept nga mga hangyo gamit ang [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , sulayi pag-usab ang napakyas nga mga hangyo sa ubang `CDN` , ug mapahiangay nga makapahimo sa labing paspas nga pagtubag sa gigikanan nga site isip default nga tinubdan sa pagkarga.
+Ang prinsipyo mao ang: intercept nga mga hangyo gamit ang [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , sulayi pag-usab ang napakyas nga mga hangyo sa uban nga `CDN` , ug mapahiangay nga makapahimo sa labing paspas nga pagtubag sa gigikanan nga site isip default nga gigikanan sa pagkarga.
 
 [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker) kalabotan nga code :
 
@@ -37,12 +37,18 @@ Gisagop sa website ang usa ka panid nga arkitektura sa aplikasyon, nga wala’y 
 ### Maayo Nga Pagkadisenyo Nga Istilo
 
 > Ang katahum sa kayano hingpit nga gihubad sa disenyo sa web niini nga website.
-> Gibiyaan niini ang wala kinahanglana nga dekorasyon ug nagpresentar sa sulud sa labing putli nga porma.
+> Gibiyaan niini ang sobra nga dekorasyon ug nagpresentar sa sulud sa labing putli nga porma.
 > Sama sa usa ka matahum nga balak, bisan kini mubo, kini nakatandog sa kasingkasing sa mga tawo.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Pag-klik dinhi aron makita ang lista sa mga istilo](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ang hulagway sa ibabaw nagpakita sa multi-language `RSS` gamit `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Pag-Load Sa Mga Online Nga Font, Pagsuporta Sa Intsik
 
@@ -80,4 +86,4 @@ Adunay usa ka cute nga gamay nga naglutaw nga multo sa `404` nga panid, kansang 
 
 [Ang code kay open source](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Adunay daghang gagmay nga mga kinahanglanon nga hinungdanon apan dili dinalian Ang grupo sa pagpauswag mag-assign sa mga buluhaton sa pagpraktis sumala sa teknolohiya nga maayo nimo, ug pauswagon ang mga dokumento sa pag-uswag samtang nag-assign sa mga kinahanglanon.
+Adunay daghang gagmay nga mga kinahanglanon nga hinungdanon apan dili dinalian Ang grupo sa pagpauswag mag-assign sa mga buluhaton sa kamot base sa mga teknolohiya nga maayo nimo, ug pauswagon ang mga dokumento sa pag-uswag samtang nag-assign sa mga kinahanglanon.

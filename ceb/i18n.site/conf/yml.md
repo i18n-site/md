@@ -17,13 +17,15 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Lakip niini, `upload` hangtod `ext:` nga butang sa pag-configure nagpasabut nga `.md` ra ang ma-upload kung gimantala.
 
 ## Ibabaw Nga Nabigasyon nav
 
-`nav:` nga mga kapilian sa pagsumpo, nga katumbas sa menu sa nabigasyon sa ibabaw sa home page.
+`nav:` nga mga kapilian sa pagsumpo, nga katumbas sa menu sa nabigasyon sa ibabaw sa homepage.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
@@ -45,7 +47,7 @@ Human makompleto ang paghubad, mahimo nimong usbon ang bili sa paghubad `yml` , 
     url: /
 ```
 
-`use: Toc` nagpasabot sa paghubad gamit ang usa ka `Toc` template, nga mao ang paghubad sa usa ka `Markdown` ka template.
+`use: Toc` nagpasabot sa paghubad gamit ang `Toc` ka template, nga naghubad sa usa ka `Markdown` ka template.
 
 `TOC` mao ang abbreviation sa `Table of Contents` Sa diha nga kini nga template mahubad, ang outline niini nga `Markdown` file ipakita sa sidebar.
 
@@ -55,7 +57,7 @@ Human makompleto ang paghubad, mahimo nimong usbon ang bili sa paghubad `yml` , 
 
 Ang `Md` nga template ug ang `Toc` nga template parehas ug ang duha gigamit sa paghubad sa usa ka `Markdown` nga file. Apan ang `Md` nga template wala magpakita sa outline sa sidebar.
 
-Mahimo nimong usbon `use: Toc` sa ibabaw nga configuration ngadto sa `use: Md` , pagdagan `i18n.site` sa `md` nga direktoryo pag-usab, ug dayon bisitaha ang development preview URL aron maobserbahan ang mga kausaban sa homepage.
+Mahimo nimong usbon `use: Toc` sa konfigurasyon sa ibabaw ngadto sa `use: Md` , pagdagan `i18n.site` sa `md` nga direktoryo pag-usab, ug dayon bisitaha ang development preview URL aron maobserbahan ang mga kausaban sa homepage.
 
 ### Default Loading Nga Walay Configuration Path
 
@@ -76,7 +78,7 @@ Sa configuration file:
     use: Doc
 ```
 
-Nagpakita gamit ang `Doc` alang sa paghubad sa template.
+Nagpakita gamit ang `Doc` para sa paghubad sa template.
 
 `Doc` nga template nagsuporta sa paghiusa sa daghang `MarkDown` aron makamugna og mga outline sa dokumento alang sa usa o daghang mga proyekto.
 
@@ -115,7 +117,7 @@ Dinhi, `menu: NB demo1,demo2` , nagpasabot sa paggamit sa `NB` template sa paghu
 `NB` gisundan sa parameter `demo1,demo2` nga gipasa niini.
 `demo1,demo2` : ** `,` **
 
-Ang katugbang nga direktoryo nga index file alang sa mga parameter sa ibabaw mao ang:
+Alang sa mga parameter sa ibabaw, ang katugbang nga file sa indeks sa direktoryo mao ang:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Ang sunod nga duha ka linya sama sa gipakita sa screenshot sa ubos.
 `news/README.md` katumbas sa `News` ,
 `news/begin.md` katumbas sa `Our Product is Online !`
 
-`TOC` nga mga file gi-indent aron ipakita ang hierarchical nga relasyon sa outline ug pagsuporta sa multi-level indentation.
+`TOC` nga mga file gi-indent aron ipakita ang hierarchical nga relasyon sa outline, pagsuporta sa multi-level indentation, ug mga komento sa linya nga nagsugod sa `#` .
 
 ##### Ang Lebel Sa Ginikanan Nagsulat Lamang Sa Titulo, Dili Sa Sulod.
 
@@ -162,7 +164,7 @@ Kung adunay daghang lebel sa indentation, ang lebel sa ginikanan nagsulat lamang
 
 Ang sulod mahimong isulat sa aytem `README.md` , sama sa `en/demo2/README.md` .
 
-Timan-i nga ang sulod niini nga payl wala magpakita sa usa ka talaan sa mga sulod nga outline, mao nga girekomendar nga limitahan ang gitas-on ug magsulat og mubo nga pasiuna.
+Timan-i nga ang sulod niini nga payl wala magpakita sa talaan sa mga sulod nga outline, mao nga girekomendar nga limitahan ang gitas-on ug magsulat og mubo nga pasiuna.
 
 ###### Slogan Sa Proyekto
 

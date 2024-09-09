@@ -8,7 +8,7 @@ Ti programa ket addaan iti naibangon a `i18` a panagipatarus, pangngaasi a kitae
 
 Ti default a pagsasao ti website ket automatiko a maitunos iti pagsasao ti browser.
 
-Kalpasan a manual nga agbaliw ti agus-usar kadagiti pagsasao, malagipto ti pinili ti agus-usar.
+Kalpasan a manual nga agbaliw ti agus-usar kadagiti pagsasao, malagipto ti pili ti agar-aramat.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) a kodigo :
 
@@ -44,6 +44,12 @@ Ti website ket mangadaptar ti maymaysa a panid nga arkitektura ti aplikasion, ng
 
 [➔ I-click ditoy tapno makita ti listaan dagiti estilo](/i18n.site/md/styl) .
 
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ti ladawan iti ngato ket mangipakita ti multi-language `RSS` nga agus-usar `i18n.site` [inoreader.com](//inoreader.com)
+
 ### Ikarga Dagiti Online a Font, Suportaran Ti Insik
 
 Babaen ti kasisigud, [dagiti Alimama a doble-aksis a variable a rektanggulo a letra](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR) , [MiSans](https://hyperos.mi.com/font/zh/download/) ken dagiti dadduma pay nga online a letra ket napalubosan iti panid ti web tapno agkaykaysa ti padas ti panagbasa dagiti agar-aramat kadagiti nadumaduma a plataporma.
@@ -64,7 +70,7 @@ Adda full-screen button iti makinngato a kannawan a suli ti navigation bar tapno
 
 ### Naisinkronisar a Balabala a Panangitampok Iti Agdama a Kapitulo
 
-No i-scroll-mo ti linaon iti kannawan, aggigiddan nga itampok ti balabala iti kannigid ti agdama a mabasbasa a kapitulo.
+No i-scroll-mo ti linaon iti kannawan, aggigiddan nga itampok ti balabala iti kannigid ti agdama a mabasa a kapitulo.
 
 ## Nalamiis a Detalye
 

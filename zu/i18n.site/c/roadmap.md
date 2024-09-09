@@ -1,11 +1,14 @@
 # Ukuhlela Intuthuko
 
-Izici ezibalulekile ezilandelayo zisathuthukiswa:
+## Kuqediwe
+
+- [x] Okuphakelayo kwe-RSS
+- [x] injini yokusesha nokwenza kahle
+
+## Ngaphansi Kokuthuthukiswa
 
 - [ ] Ukushintsha phakathi kwezinguqulo eziningi zamadokhumenti
 - [ ] Usesho oluhlanzekile lombhalo ogcwele osekupheleni
-- [ ] Okuphakelayo kwe-RSS
-- [ ] injini yokusesha nokwenza kahle
 - [ ] Ngesikhathi esifanayo phusha izibuyekezo ze-athikili ezinkundleni zokuxhumana ezinkulu
 - [ ] I-imeyili iyatholakala / `web push` Bhalisela izibuyekezo zomkhiqizo
 - [ ] Phawula ngezigaba zesihloko

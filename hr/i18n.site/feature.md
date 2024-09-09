@@ -20,7 +20,7 @@ Tu je i savršeno iskustvo čitanja na mobilnom telefonu.
 
 ## <a rel=id href="#ha" id="ha"></a> Visoka dostupnost front-enda
 
-`i18n.site` će prema zadanim `npmjs.com` objaviti sadržaj stranice uz pomoć [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) i ostalih `CDN` sadržaja učitanih na `npm` .
+`i18n.site` će prema zadanim `npmjs.com` objaviti sadržaj stranice uz pomoć [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) i drugih višestrukih `CDN` sadržaja učitanih na `npm` .
 
 Na temelju toga dodani su zrcalni izvori iz kontinentalne Kine kako bi se kineskim korisnicima omogućio stabilan pristup i postigla **visoka dostupnost front-enda** .
 
@@ -43,6 +43,12 @@ Web-mjesto usvaja arhitekturu aplikacije s jednom stranom, bez osvježavanja pri
 <p style="text-align:right">── I18N.SITE Autor</p>
 
 [➔ Kliknite ovdje da vidite popis stilova](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Gornja slika prikazuje višejezičnost `RSS` pomoću pretplate `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Učitajte Online Fontove, Podržavajte Kineski
 
@@ -74,7 +80,7 @@ Zadržite pokazivač miša iznad gumba na desnoj strani gornje navigacije da bis
 
 ### `404` Mali Duh
 
-Na stranici `404` nalazi se slatki mali lebdeći duh čije će se oči pomicati pomoću miša, [➔ Kliknite ovdje za pregled](/404) ,
+`404` stranica ima slatkog malog lebdećeg duha, njegove će se oči pomicati pomoću miša, [➔ Kliknite ovdje za pregled](/404) ,
 
 ## Kod Otvorenog Koda
 

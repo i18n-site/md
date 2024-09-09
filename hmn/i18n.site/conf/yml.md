@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Ntawm lawv, `upload` mus rau `ext:` cov khoom teeb tsa txhais tau tias tsuas yog `.md` yuav raug xa tawm thaum tshaj tawm.
@@ -47,15 +49,15 @@ Tom qab kev txhais lus tiav lawm, koj tuaj yeem hloov kho tus nqi ntawm kev txha
 
 `use: Toc` txhais tau tias rendering siv `Toc` template, uas yog rendering ib `Markdown` template.
 
-`TOC` yog cov ntawv luv ntawm `Table of Contents` Thaum cov qauv no tau ua tiav, cov txheej txheem ntawm `Markdown` cov ntaub ntawv no yuav raug tso tawm rau hauv sidebar.
+`TOC` yog cov ntawv luv ntawm `Table of Contents` Thaum cov qauv no tau ua tiav, cov txheej txheem ntawm cov ntaub ntawv `Markdown` no yuav tshwm sim nyob rau hauv sidebar.
 
-`url:` sawv cev rau txoj kab ntawm cov ntaub ntawv ntawm `Markdown` ( `/` sib raug rau hauv paus directory `/README.md` , cov ntaub ntawv npe no yuav tsum muaj cov ntawv sau ua ntej thiab tus lej qis).
+`url:` sawv cev rau txoj kab ntawm cov ntaub ntawv ntawm `Markdown` ( `/` sib haum rau hauv paus directory `/README.md` , cov ntaub ntawv npe no yuav tsum muaj cov ntawv sau ua ntej thiab tus lej qis).
 
 ### `use: Md` , Ib Daim Ntawv Template (Tsis Muaj Cov Qauv)
 
 `Md` template thiab `Toc` template yog tib yam thiab ob qho tib si siv los ua ib daim ntawv `Markdown` . Tab sis `Md` tus qauv tsis qhia cov qauv hauv lub sidebar.
 
-Koj tuaj yeem hloov kho `use: Toc` hauv qhov kev teeb tsa saum toj no rau `use: Md` , khiav `i18n.site` hauv `md` phau ntawv qhia dua, thiab tom qab ntawd mus saib qhov kev txhim kho saib ua ntej URL los saib xyuas cov kev hloov pauv ntawm nplooj ntawv homepage.
+Koj tuaj yeem hloov kho `use: Toc` hauv qhov kev teeb tsa saum toj no rau `use: Md` , khiav `i18n.site` hauv `md` phau ntawv qhia dua, thiab tom qab ntawd mus saib qhov kev txhim kho saib ua ntej URL txhawm rau soj ntsuam cov kev hloov pauv ntawm nplooj ntawv homepage.
 
 ### Default Loading Tsis Configuration Txoj Kev
 
@@ -63,7 +65,7 @@ Yog tias ib txoj hauv kev nkag mus thiab nws txoj hauv kev ua ntej tsis tau teeb
 
 Piv txwv li, yog tias `/test` nkag mus, thiab `nav:` tau teeb tsa yam tsis muaj txoj hauv kev no, thiab nplooj ntawv hom lus yog lus Askiv (code `en` ), `/en/test.md` yuav raug thauj khoom los ntawm lub neej ntawd thiab siv cov qauv `Md` .
 
-Yog tias tsis muaj `/en/test.md` cov ntaub ntawv no, lub default `404` nplooj yuav tshwm sim.
+Yog tias tsis muaj `/en/test.md` cov ntaub ntawv no, lub neej ntawd `404` nplooj ntawv yuav tshwm sim.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
@@ -92,7 +94,7 @@ Qhia siv `Doc` rau template rendering.
 
 ##### Thaum url Yog Khoob, Nws Ua Rau Tus Nqi Ntawm i18n
 
-Yog tias `url` tsis tau sau, `url` defaults rau tus nqi ntawm `i18n` Txoj cai no tseem siv tau rau lwm cov qauv.
+Yog tias `url` tsis tau sau, `url` yuav ua rau tus nqi ntawm `i18n` Txoj cai no tseem siv tau rau lwm cov qauv.
 
 Txoj kev sau saum toj no yog sib npaug rau `url: blog` , thiab nws cov ntaub ntawv sib raug yog `en/blog/TOC` .
 
@@ -115,7 +117,7 @@ Ntawm no, `menu: NB demo1,demo2` , txhais tau tias siv `NB` template los ua cov 
 `NB` yog ua raws li qhov parameter `demo1,demo2` dhau mus rau nws.
 Nco ntsoov : ** Yuav tsum tsis muaj qhov chaw ** ua ntej thiab tom qab comma `,` hauv `demo1,demo2` .
 
-Cov ntaub ntawv txheeb xyuas cov ntaub ntawv txheeb xyuas rau cov kev txwv saum toj no yog:
+Rau cov kev txwv saum toj no, cov ntaub ntawv sib txuas ntawm cov ntaub ntawv index yog:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Ob kab tom ntej no yog raws li qhia hauv lub screenshot hauv qab no.
 `news/README.md` sib raug rau `News` ,
 `news/begin.md` sib `Our Product is Online !`
 
-`TOC` cov ntaub ntawv yog indented los qhia cov hierarchical kev sib raug zoo ntawm tus qauv thiab txhawb ntau theem indentation.
+`TOC` cov ntaub ntawv yog indented los qhia cov hierarchical kev sib raug zoo ntawm tus qauv, txhawb ntau theem indentation, thiab kab lus pib nrog `#` .
 
 ##### Qib Niam Txiv Tsuas Yog Sau Lub Npe Xwb, Tsis Yog Cov Ntsiab Lus.
 
@@ -166,7 +168,7 @@ Nco ntsoov tias cov ntsiab lus ntawm cov ntaub ntawv no tsis qhia cov ntsiab lus
 
 ###### Qhov Project Slogan
 
-Koj tuaj yeem pom tias `Deme Two` muaj nws qhov project tagline hauv qab cov ntawv qhia zaub mov thiab `Your Project slogan` ntawv teev npe qhov project npe :
+Koj tuaj yeem pom tias `Deme Two` muaj nws qhov project tagline hauv qab cov ntawv qhia zaub mov thiab `Your Project slogan` ntawv teev npe ntawm qhov project npe :
 
 ![](https://p.3ti.site/1721276842.avif)
 

@@ -1,12 +1,15 @@
-# Utvecklingsplan
+# Utvecklingsplanering
 
-Följande viktiga funktioner håller på att utvecklas:
+## Avslutad
 
-- [ ] Möjlighet att växla mellan flera versioner av dokument
-- [ ] Fulltextsökning på ren front-end
-- [ ] RSS-prenumeration
-- [ ] 搜索引擎优化
+- [x] RSS-prenumerationskälla
+- [x] sökmotoroptimering
+
+## Under utveckling
+
+- [ ] Växling mellan flera versioner av dokument
+- [ ] Ren front-end fulltextsökning
 - [ ] Synkroniserad push av artikeluppdateringar till ledande sociala medier
-- [ ] 用户可用邮件 /`web push`订阅产品更新
-- [ ] 对文章段落进行评论
-- [ ] Integrering av övervakning av lokala dokument för att generera förhandsgranskningar, utan behov av manuell kompilering och utan att använda NGINX
+- [ ] Användare kan prenumerera på produktuppdateringar via e-post / `web push`
+- [ ] Kommentarer på artikelavsnitt
+- [ ] Integrering av lokal dokumentövervakning för att generera förhandsvisningar, utan behov av manuell kompilering och utan att använda NGINX

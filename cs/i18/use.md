@@ -55,25 +55,9 @@ V adresáři `en` jsou ukázkové překladové soubory, které jsou pouze přík
 
 Zadejte adresář a spusťte `i18` pro překlad.
 
-### Přidání souborů do verze
+Program kromě překladu vytvoří také složku `.i18n/data`, přidejte ji prosím do repozitáře.
 
-Program kromě překladu vygeneruje také následující soubory, které přidejte prosím do verze.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Obsah `.i18n/cache/.gitignore` je následující:
-
-```
-**/*
-!**/.gitignore
-```
-
-To znamená, že všechny soubory v adresáři `.i18n/cache/` (kromě `.i18n/cache/.gitignore`) jsou ignorovány.
-
-Pokud váš verzovací software není `git`, konfigurujte ignorování podle této šablony.
+Po překladu nového souboru se v tomto adresáři vytvoří nový datový soubor, nezapomeňte jej přidat pomocí `git add .`.
 
 ## Konfigurační soubor
 

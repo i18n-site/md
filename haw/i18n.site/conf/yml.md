@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Ma waena o lākou, `upload` a `ext:` mea hoʻonohonoho hoʻonohonoho ʻo ia ka mea e hoʻouka ʻia `.md` wale nō i ka wā e paʻi ai.
@@ -80,9 +82,9 @@ Hōʻike i ka hoʻohana ʻana i `Doc` no ka hoʻohālikelike ʻana.
 
 `Doc` kākoʻo i ka hoʻohui ʻana i nā `MarkDown` he nui e hoʻopuka i nā kikoʻī palapala no nā papahana hoʻokahi a nui paha.
 
-#### Pāhana Hoʻokahi (Nui Nā Faila)
+#### Pāhana Hoʻokahi (Faila He Nui)
 
-ʻO `blog` ma luna nei ke ʻano ʻano mea hoʻokahi o `Doc` .
+`blog` ma luna ke ʻano ʻano mea hoʻokahi o `Doc` .
 
 ```
   - i18n: blog
@@ -94,7 +96,7 @@ Hōʻike i ka hoʻohana ʻana i `Doc` no ka hoʻohālikelike ʻana.
 
 Inā ʻaʻole i kākau ʻia `url` , hoʻopaʻa ʻia `url` i ka waiwai o `i18n` Hoʻohana pū ʻia kēia lula no nā mamana ʻē aʻe.
 
-ʻO ke ʻano kākau ma luna nei ua like ia me `url: blog` , a ʻo kāna faila pili ʻo `en/blog/TOC` .
+ʻO ke ʻano kākau ma luna nei ua like ia me `url: blog` , a ʻo kāna faila e pili ana ʻo `en/blog/TOC` .
 
 #### Mau Papahana
 
@@ -115,7 +117,7 @@ Maʻaneʻi, `menu: NB demo1,demo2` , ʻo ia ka hoʻohana ʻana i ka template `NB
 `NB` hahai ʻia e ka ʻāpana `demo1,demo2` i hāʻawi ʻia iā ia.
 `,` `demo1,demo2` : ** **
 
-ʻO ka waihona kuhikuhi kuhikuhi pili no nā ʻāpana i luna:
+No nā ʻāpana i luna, ʻo ka faila kuhikuhi kuhikuhi e pili ana:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -128,7 +130,7 @@ Inā hoʻohana ʻoe i `doc` template, pono ʻoe e loaʻa kēia plug-in.
 
 Inā hoʻomaka ʻoe i ka papahana `i18n.site` mai kahi waihona hakahaka, e hoʻomanaʻo e kope i ka papahana demo `.i18n` i kāu papa kuhikuhi.
 
-Na ka `Doc` template e hāʻawi i ka papa kuhikuhi o ka waihona ma muli o ka `json` i hana ʻia.
+Na ka `Doc` template e hāʻawi i ka papa kuhikuhi o nā mea i hoʻokumu ʻia ma ka `json` i hana ʻia.
 
 ##### ʻO Ka Wehewehe Kikoʻī Kikoʻī
 
@@ -152,7 +154,7 @@ news/README.md
 `news/README.md` pili me `News` ,
 `news/begin.md` pili me `Our Product is Online !`
 
-`TOC` ua hoʻokomo ʻia nā faila e hōʻike i ka pilina hierarchical o ka outline a kākoʻo i ka indentation multi-level.
+`TOC` ua hoʻokomo ʻia nā faila e hōʻike i ka pilina hierarchical o ka outline, kākoʻo i ka indentation multi-level, a me nā manaʻo laina e hoʻomaka me `#` .
 
 ##### ʻO Ke Poʻo Inoa Wale Nō Ka Pae Makua, ʻaʻole Ka ʻike.
 

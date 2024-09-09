@@ -55,25 +55,9 @@ Dagiti naipatarus a demo file iti `en` a direktorio ket maysa laeng a pagarigan 
 
 Iserrek ti direktorio ken tarayen `i18` tapno maipatarus.
 
-### Manginayon Kadagiti File Iti Pagidulinan
+Malaksid iti panagipatarus, ti programa ket mangpataudto pay ti `.i18n/data` a folder, pangngaasi nga inayon daytoy iti pagidulinan.
 
-Malaksid iti panagipatarus, ti programa ket mangpataud pay kadagiti sumaganad a file, pangngaasi nga inayon dagitoy iti pagidulinan.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Karaman kadagitoy, ti linaon ti `.i18n/cache/.gitignore` ket kastoy :
-
-```
-**/*
-!**/.gitignore
-```
-
-Kayatna a sawen nga amin a papeles iti direktorio `.i18n/cache/` (malaksid `.i18n/cache/.gitignore` ) ket saan a maikankano.
-
-No ti software ti panangtengngel ti bersionmo ket saan a `git` , pangngaasi a di ikankano daytoy segun iti daytoy a panagisaad.
+Kalpasan ti panangipatarus ti baro a papeles, ti baro a papeles ti datos ket mapataud iti daytoy a direktorio Laglagipem nga inayon `git add .` .
 
 ## File Ti Konfigurasion
 

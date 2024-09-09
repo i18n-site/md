@@ -55,25 +55,9 @@ Prevedene predstavitvene datoteke v imeniku `en` so samo primer in jih je mogoč
 
 Vnesite imenik in zaženite `i18` za prevajanje.
 
-### Dodajte Datoteke v Repozitorij
+Poleg prevoda bo program ustvaril tudi mapo `.i18n/data` , dodajte jo v repozitorij.
 
-Poleg prevoda bo program ustvaril tudi naslednje datoteke, dodajte jih v repozitorij.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Med njimi je vsebina `.i18n/cache/.gitignore` naslednja :
-
-```
-**/*
-!**/.gitignore
-```
-
-To pomeni, da so vse datoteke v imeniku `.i18n/cache/` (razen `.i18n/cache/.gitignore` ) prezrte.
-
-Če vaša programska oprema za nadzor različic ni `git` , jo glede na to konfiguracijo prezrite.
+Po prevodu nove datoteke bo v tem imeniku ustvarjena nova podatkovna `git add .` .
 
 ## Konfiguracijska Datoteka
 

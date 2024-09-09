@@ -20,11 +20,11 @@ Hinallataqmi celularpipas allin leenapaq experiencia kan.
 
 ## <a rel=id href="#ha" id="ha"></a> Ñawpaq-tukuy hatun tarikuy
 
-`i18n.site` kitip willayta `npmjs.com` kaqman ñawpaqmanta lluqsichinqa, [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) chaymanta wak `CDN` willayta `npm` kaqpi kargasqa yanapakuywan.
+`i18n.site` kitip willayta `npmjs.com` kaqman ñawpaqmanta lluqsichinqa, [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) chaymanta wak achka `CDN` willayta `npm` kaqpi kargasqa yanapakuywan.
 
 Kaypi, China hatun suyumanta espejo pukyuta yapasqa karqan Chinamanta llamk'aqkunata takyasqa yaykuyniyuq kanankupaq chaymanta **hatun ñawpaq-tukuy tarikuyninta** aypanankupaq .
 
-Principioqa kaymi: [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) kaqwan mañakuykunata hark'ay, wak `CDN` kaqpi mana atisqa mañakuykunata wakmanta kallpachakuy, chaymanta adaptativamente aswan utqaylla kutichiq qallariy kitita ñawpaqmanta karga pukyuta hina atichiy.
+Principioqa kaymi: [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) kaqwan mañakuykunata hark'ay, wak `CDN` kaqpi mana atisqa mañakuykunata wakmanta ruway, chaymanta adaptativamente aswan utqaylla kutichiq qallariy kitita ñawpaqmanta karga pukyuta hina atichiy.
 
 [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker) tupaq codigo :
 
@@ -37,12 +37,18 @@ Web kitiqa huk p'anqa ruwana arquitecturata hap'in, mana musuqyachiyniyuq p'anqa
 ### Allin Ruwasqa Estilo
 
 > Sumaq kayninqa kay web kitip web ruwayninpi allinta t'ikrakun.
-> Mana necesario adornokunata saqespanmi contenidota aswan ch’uya formapi presentan.
+> Saqenmi mana imapaq valeq adornokunata, hinaspan contenidota aswan ch’uya formapi presentan.
 > Sumaq harawi hinam, pisilla kaptinpas, runakunapa sunquntam llachpan.
 
 <p style="text-align:right">── I18N.SITE Qillqaq</p>
 
 [➔ Kaypi ñit'iy estilokunaq listanta qhawanaykipaq](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Hawa siq'iqa achka simikunata `RSS` nisqatam rikuchin suscripción `i18n.site` [inoreader.com](//inoreader.com) .
 
 ### Internetpi Qillqakunata Cargay, Chino Simita Yanapay
 
@@ -74,10 +80,10 @@ Mouseykita pata puriypa paña ladonpi kaq botonpi churay, q’oñi efectos espec
 
 ### `404` Uchuy Fantasma
 
-`404` p'anqapiqa kanmi huk munay huch'uy unupi puriq fantasma, paypa ñawinkunan kuyunqa mousewan, [➔ Kaypi ñit'iy qhawanaykipaq](/404) , .
+`404` p'anqaqa huk munay uchuy unupi puriq fantasmayuqmi, ñawinkunam kuyunqa silluwan, [➔ Kaypi ñit'iy qhawanaykipaq](/404) , .
 
 ## Kichasqa Qullqita Qillqay
 
 [Codigoqa kichasqa qullqiyuqmi](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Askha huch’uy mañakuykuna kanku mayqinkunachus importante kanku ichaqa mana usqhayllachu Wiñarichiy equipo ruway ruwanakunata qunqa tecnología kaqmanhina, chaymanta wiñachiy qillqakunata allinchanqa mañakuykunata quchkaspa.
+Askha huch'uy mañakuykuna kanku mayqinkunachus importante kanku ichaqa mana usqhayllachu Wiñarichiy equipo makiwan ruwanakunata qunqa tecnologiakuna allin kasqaykimanhina, chaymanta wiñachiy qillqakunata allinchanqa mañakuykunata quchkaspa.

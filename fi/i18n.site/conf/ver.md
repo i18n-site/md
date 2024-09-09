@@ -2,7 +2,7 @@
 
 2. Käytetään esimerkkinä demo-projektia:
 
-3. `en/demo2/v` sisältää projektin nykyisen versionumeron, joka näytetään sivupalkin tarkistuslistan projektin nimen oikealla puolella.
+`en/demo2/v` on projektin nykyinen versio, joka näytetään sivupalkin tietosanaston projektin nimen vieressä.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

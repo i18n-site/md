@@ -231,18 +231,10 @@ Les regles de la imatge superior són les següents. Si us plau, substituïu `i1
 
 ```
 (http.host in {"i18n.site"}) and not (
-ends_with(http.request.uri.path,".html") or
-ends_with(http.request.uri.path,".htm") or
-ends_with(http.request.uri.path,".ico") or
-ends_with(http.request.uri.path,".js") or
-ends_with(http.request.uri.path,".avif") or
-ends_with(http.request.uri.path,".css") or
-ends_with(http.request.uri.path,".json") or
-ends_with(http.request.uri.path,".png") or
-ends_with(http.request.uri.path,".svg") or
-ends_with(http.request.uri.path,".txt") or
-ends_with(http.request.uri.path,".webmanifest") or
-ends_with(http.request.uri.path,".xml")
+substring(http.request.uri.path,-3) in {".js" ".gz"} or
+substring(http.request.uri.path,-4) in {".htm" ".rss" ".css" ".svg" ".ico" ".png" ".xml" ".txt"} or
+substring(http.request.uri.path,-5) in {".html" ".avif" ".json"} or
+ends_with(http.request.uri.path,".webmanifest")
 )
 ```
 

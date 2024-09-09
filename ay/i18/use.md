@@ -55,25 +55,9 @@ Plantilla almacén directorio ukan estructurapax akhamawa
 
 Directorio ukar mantam ukat `i18` ukar jaqukipañatakix t’ijt’añamawa.
 
-### Uka Imaña Utaruxa Qillqatanaka Yapxataña
+Jaqukipañat sipansa, programax `.i18n/data` carpeta uñstayaraki, ukax imañ utar yapxatañamawa.
 
-Jaqukipañat sipansa, uka wakichäwix aka qillqatanakaw lurasirakini, ukanakx imañ utar yapxatañamawa.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Jupanak taypinx `.i18n/cache/.gitignore` ukax akhamawa :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ukax sañ muniw taqi qillqatanakax directorio `.i18n/cache/` (jan ukax `.i18n/cache/.gitignore` ) ukanx janiw yäqatäkiti.
-
-Software de control de versión ukax janiw `git` ukhamäkiti, ukax aka configuración ukarjam jan yäqañawa.
+Machaq qillqat jaqukipañ tukuyatatxa, mä machaq yatiyaw qillqataw aka directorio ukan lurasini Amtañani `git add .` yapxataña.
 
 ## Configuración Sata Qillqata
 

@@ -20,7 +20,7 @@ Mayroon ding perpektong karanasan sa pagbabasa sa mobile phone.
 
 ## <a rel=id href="#ha" id="ha"></a> Mataas na kakayahang magamit sa harap
 
-`i18n.site` ay i-publish ang nilalaman ng site sa `npmjs.com` bilang default, sa tulong ng [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) at iba pang `CDN` nilalaman na na-load sa `npm` .
+`i18n.site` ay i-publish ang nilalaman ng site sa `npmjs.com` bilang default, sa tulong ng [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) at iba pang maramihang `CDN` nilalaman na na-load sa `npm` .
 
 Sa batayan na ito, idinagdag ang mga mirror source mula sa mainland China upang payagan ang mga Chinese na user na magkaroon ng stable na access at magkaroon **ng mataas na front-end availability** .
 
@@ -38,11 +38,17 @@ Ang website ay gumagamit ng isang solong-pahinang arkitektura ng application, na
 
 > Ang kagandahan ng pagiging simple ay perpektong binibigyang kahulugan sa disenyo ng web ng website na ito.
 > Iniiwan nito ang hindi kinakailangang palamuti at nagpapakita ng nilalaman sa pinakadalisay nitong anyo.
-> Katulad ng isang magandang tula, bagaman ito ay maikli, nakakaantig sa puso ng mga tao.
+> Tulad ng isang magandang tula, kahit na ito ay maikli, ito ay umaantig sa puso ng mga tao.
 
 <p style="text-align:right">── I18N.SITE</p>
 
-[➔ Mag-click dito upang makita ang isang listahan ng mga istilo](/i18n.site/md/styl) .
+[➔ Mag-click dito para makakita ng listahan ng mga istilo](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ipinapakita ng larawan sa itaas ang multi-language `RSS` gamit `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Mag-Load Ng Mga Online Na Font, Suportahan Ang Chinese
 
@@ -74,10 +80,10 @@ I-hover ang iyong mouse sa button sa kanang bahagi ng tuktok na nabigasyon upang
 
 ### `404` Munting Multo
 
-Mayroong cute na maliit na lumulutang na multo sa `404` page, na ang mga mata ay gumagalaw gamit ang mouse, [➔ Mag-click dito upang tingnan](/404) ,
+`404` page ay may cute na maliit na lumulutang na multo, ang mga mata nito ay gumagalaw gamit ang mouse, [➔ Mag-click dito upang tingnan](/404) ,
 
 ## Code Open Source
 
-[Ang code ay open source](/i18n.site/src) . Kung interesado kang lumahok sa pag-unlad, mangyaring ipakilala ang iyong sarili sa [mailing list](//groups.google.com/u/2/g/i18n-site)
+[Ang code ay open source](/i18n.site/src) . Kung interesado kang lumahok sa development, mangyaring ipakilala ang iyong sarili sa [mailing list](//groups.google.com/u/2/g/i18n-site) .
 
-Maraming maliliit na kinakailangan na mahalaga ngunit hindi apurahan Ang pangkat ng pag-unlad ay magtatalaga ng mga gawain sa pagsasanay ayon sa teknolohiyang mahusay ka, at pagbutihin ang mga dokumento sa pag-unlad habang nagtatalaga ng mga kinakailangan.
+Maraming maliliit na kinakailangan na mahalaga ngunit hindi apurahan Ang development team ay magtatalaga ng mga hands-on na gawain batay sa mga teknolohiyang mahusay ka, at pagbutihin ang mga dokumento sa pag-develop habang nagtatalaga ng mga kinakailangan.

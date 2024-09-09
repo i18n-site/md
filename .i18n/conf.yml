@@ -21,3 +21,7 @@ nav:
   - i18n: blog
     use: Doc
 
+addon:
+  - i18n.addon/toc
+  - i18n.addon/mouse
+

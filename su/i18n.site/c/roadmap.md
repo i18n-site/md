@@ -1,11 +1,14 @@
 # Perencanaan Pangwangunan
 
-Fitur penting di handap ieu nuju dikembangkeun:
+## Réngsé
+
+- [x] eupan RSS
+- [x] optimasi search engine
+
+## Dina Pangwangunan
 
 - [ ] Pindah antara sababaraha versi dokumén
-- [ ] Murni hareup-tungtung pilarian full-téks
-- [ ] eupan RSS
-- [ ] optimasi search engine
+- [ ] Pilarian téks lengkep hareup-tungtung
 - [ ] Sakaligus nyorong apdet artikel ka média sosial utama
 - [ ] Email sadia pikeun pamaké / `web push` apdet produk
 - [ ] Koméntar kana paragraf artikel

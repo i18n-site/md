@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Di antarana, `upload` ka `ext:` item konfigurasi hartina ngan `.md` bakal diunggah nalika medarkeun.
@@ -45,7 +47,7 @@ Saatos tarjamahan réngsé, anjeun tiasa ngarobih nilai tarjamahan `yml` , tapi 
     url: /
 ```
 
-`use: Toc` hartina rendering ngagunakeun `Toc` template, nu ngajadikeun hiji `Markdown` template tunggal.
+`use: Toc` hartina rendering maké `Toc` template, nu ngajadikeun hiji `Markdown` template tunggal.
 
 `TOC` mangrupakeun singketan tina `Table of Contents` Nalika template ieu rendered, outline ieu `Markdown` file bakal dipintonkeun dina sidebar.
 
@@ -115,7 +117,7 @@ Di dieu, `menu: NB demo1,demo2` , hartina ngagunakeun citakan `NB` pikeun nyieun
 `NB` ieu dituturkeun ku parameter `demo1,demo2` dibikeun ka eta.
 Catetan : ** Henteu kedah aya spasi ** sateuacan sareng saatos koma `,` dina `demo1,demo2` .
 
-Berkas indéks diréktori anu cocog pikeun parameter di luhur nyaéta:
+Pikeun parameter di luhur, file indéks diréktori anu cocog nyaéta:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Dua garis salajengna ditémbongkeun saperti dina screenshot handap.
 `news/README.md` pakait jeung `News` ,
 `news/begin.md` pakait sareng `Our Product is Online !`
 
-`TOC` file indented pikeun nunjukkeun hubungan hirarkis outline jeung ngarojong indentation multi-level.
+`TOC` file indented pikeun nunjukkeun hubungan hirarkis outline, ngarojong indentation multi-level, sarta komentar baris dimimitian ku `#` .
 
 ##### Tingkat Indungna Ngan Ukur Nyerat Judul, Sanés Eusi.
 

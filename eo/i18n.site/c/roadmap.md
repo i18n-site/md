@@ -1,11 +1,14 @@
 # Disvolva Planado
 
-La sekvaj gravaj trajtoj estas evoluantaj:
+## Kompletigita
+
+- [x] RSS-fluo
+- [x] serĉilo-optimumigo
+
+## Sub Evoluo
 
 - [ ] Ŝanĝi inter pluraj versioj de dokumentoj
 - [ ] Pura antaŭfina plenteksta serĉo
-- [ ] RSS-fluo
-- [ ] serĉilo-optimumigo
 - [ ] Samtempe puŝu artikolajn ĝisdatigojn al ĉefaj sociaj amaskomunikiloj
 - [ ] Retpoŝto havebla al uzantoj / `web push` Abonu produktajn ĝisdatigojn
 - [ ] Komentu artikolajn alineojn

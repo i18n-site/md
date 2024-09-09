@@ -2,7 +2,7 @@
 
 Tengani projekiti yowonetsera monga chitsanzo:
 
-`en/demo2/v` ndi nambala yamakono ya pulojekitiyi, yomwe idzasonyezedwe kumanja kwa dzina la pulojekiti mu autilaini yam'mbali.
+`en/demo2/v` ndi nambala yaposachedwa ya pulojekitiyi, yomwe iwonetsedwa kumanja kwa dzina la polojekiti mu autilaini yam'mbali.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

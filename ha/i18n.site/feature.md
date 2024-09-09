@@ -8,7 +8,7 @@ Shirin yana da ginanniyar fassarar `i18` , da fatan za a duba [takaddun ➔ `i18
 
 Harshen tsohowar gidan yanar gizon zai dace ta atomatik ta harshen mai lilo.
 
-Bayan mai amfani ya canza harsuna da hannu, za a tuna da zaɓin mai amfani.
+Bayan mai amfani ya canza yaruka da hannu, za a tuna da zaɓin mai amfani.
 
 Code mai alaƙa : [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
@@ -20,7 +20,7 @@ Hakanan akwai ingantaccen ƙwarewar karatu akan wayar hannu.
 
 ## <a rel=id href="#ha" id="ha"></a> Babban samuwa na gaba-karshen
 
-`i18n.site` zai buga abun cikin `CDN` yanar gizon zuwa `npmjs.com` [unpkg.com](//unpkg.com) `npm` , tare da taimakon [jsdelivr.com](//jsdelivr.com)
+`i18n.site` zai buga abun cikin `CDN` yanar `npm` zuwa `npmjs.com` ta [unpkg.com](//unpkg.com) , tare da taimakon [jsdelivr.com](//jsdelivr.com)
 
 A kan wannan, an kara hanyoyin madubi daga babban yankin kasar Sin don ba da damar masu amfani da Sinawa su sami kwanciyar hankali da samun **isashen gaba** .
 
@@ -43,6 +43,12 @@ Gidan yanar gizon yana ɗaukar tsarin gine-ginen aikace-aikacen shafi guda ɗaya
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Danna nan don ganin jerin salo](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Hoton da ke sama yana nuna yare `RSS` ta amfani [inoreader.com](//inoreader.com) biyan kuɗi `i18n.site` .
 
 ### Load Da Rubutun Kan Layi, Goyi Bayan Sinanci
 
@@ -74,7 +80,7 @@ Juya linzamin kwamfuta akan maballin da ke gefen dama na babban kewayawa don gan
 
 ### `404` Yar Fatalwa
 
-Akwai wata fatalwa mai kyan gani mai yawo a shafin `404` , wacce idanuwanta za su motsa da linzamin kwamfuta, [➔ Danna nan don dubawa](/404) ,
+`404` page yana da kyawawan fatalwa mai yawo, idanunsa zasu motsa da linzamin kwamfuta, [➔ Danna nan don dubawa](/404) ,
 
 ## Lambar Bude Tushen
 

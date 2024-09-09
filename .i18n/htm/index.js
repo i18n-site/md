@@ -50,6 +50,7 @@ if (__CONF__ == "ol") {
 }
 
 const MAILSUB = "mailsub"
+
 Object.assign(window, {
 	webpush: async () => {
 		if ("granted" != (await Notification.requestPermission())) {

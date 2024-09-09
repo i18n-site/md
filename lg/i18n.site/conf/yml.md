@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Mu byo, ekintu eky’okusengeka `upload` ku `ext:` kitegeeza nti `.md` zokka ze zijja okuteekebwa ku mukutu nga zifulumya.
@@ -115,7 +117,7 @@ Wano, `menu: NB demo1,demo2` , kitegeeza okukozesa ekifaananyi kya `NB` okulaga 
 `NB` egobererwa parameter `demo1,demo2` eyisibwa ku yo.
 : ** Tewalina kubaawo bifo ** nga koma `,` mu `demo1,demo2` tennabaawo n'oluvannyuma lw'okugikola .
 
-Fayiro y’omuko gwa dayirekita ekwatagana ku bipimo ebyo waggulu eri:
+Ku bipimo ebyo waggulu, fayiro y’omuko gwa dayirekita ekwatagana ye:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Ennyiriri ebbiri eziddako ziri nga bwe ziragibwa mu kifaananyi wansi.
 `news/README.md` kikwatagana ne `News` , .
 `news/begin.md` kikwatagana ne `Our Product is Online !`
 
-Fayiro `TOC` ziyingiziddwa okulaga enkolagana y’ensengeka y’ensengeka n’okuwagira okuyingiza okw’emitendera mingi.
+`TOC` fayiro ziyingiziddwa okulaga enkolagana y’ensengeka y’ensengeka, okuwagira okuyingiza okw’emitendera mingi, n’okuteesa ku layini okutandika ne `#` .
 
 ##### Omutendera Gw’omuzadde Guwandiika Omutwe Gwokka, So Si Ebirimu.
 
@@ -178,7 +180,7 @@ Kino kikwatagana n'olunyiriri olusooka `en/demo2/README.md` :
 
 Ebirimu oluvannyuma lw’ennyiriri ezisooka `:` ez’omutwe ogw’omutendera ogusooka ogwa pulojekiti `README.md` bijja kutwalibwa ng’omubala gwa pulojekiti.
 
-Abakozesa okuva e China, Japan ne Korea, nsaba mumanye nti mulina okukozesa kkookolo `:` ey’obugazi obujjuvu.
+Abakozesa okuva e China, Japan ne Korea, nsaba mumanye nti mulina okukozesa kkookolo `:` ey’obugazi obw’ekitundu mu kifo ky’enkokola ey’obugazi obujjuvu.
 
 ##### Otambuza Otya TOC Mu Bungi?
 
@@ -186,7 +188,7 @@ Fayiro `TOC` zeetaaga okuteekebwa mu dayirekita y'olulimi olusibuka.
 
 Okugeza, singa olulimi oluvaamu luba lwa Luchina, olwo `TOC` waggulu eba `zh/blog/TOC` .
 
-Singa olulimi lw'ensibuko lukyusibwa, olina okutambuza fayiro `TOC` ez'olulimi olumu mu pulojekiti okudda mu lulimi olulala.
+Singa olulimi lw'ensibuko lukyusibwa, olina okutambuza fayiro `TOC` ez'olulimi olumu mu pulojekiti mu kibinja okudda mu lulimi olulala.
 
 Osobola okutunuulira ebiragiro bino wammanga:
 

@@ -1,11 +1,14 @@
 # Perencanaan Pembangunan
 
-Fitur penting ing ngisor iki dikembangake:
+## Rampung
+
+- [x] feed RSS
+- [x] optimasi mesin telusur
+
+## Ing Pembangunan
 
 - [ ] Ngalih ing antarane pirang-pirang versi dokumen
-- [ ] Panelusuran teks lengkap ngarep-mburi
-- [ ] feed RSS
-- [ ] optimasi mesin telusur
+- [ ] Panelusuran teks lengkap ngarep mburi murni
 - [ ] Bebarengan push nganyari artikel menyang media sosial utama
 - [ ] Email kasedhiya kanggo / `web push` Langganan nganyari produk
 - [ ] Komentar babagan paragraf artikel

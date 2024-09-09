@@ -1,11 +1,14 @@
 # Ûntwikkeling Planning
 
-De folgjende wichtige funksjes binne ûnder ûntwikkeling:
+## Foltôge
+
+- [x] RSS feed
+- [x] sykmasino-optimisaasje
+
+## Under Ûntwikkeling
 
 - [ ] Skeakelje tusken meardere ferzjes fan dokuminten
 - [ ] Pure front-end folsleine tekst sykjen
-- [ ] RSS feed
-- [ ] sykmasino-optimisaasje
 - [ ] Druk tagelyk artikelupdates nei grutte sosjale media
 - [ ] E-post beskikber foar / `web push` Abonnearje op produktupdates
 - [ ] Kommentaar op artikelparagrafen

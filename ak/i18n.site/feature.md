@@ -2,7 +2,7 @@
 
 ## `i18` Nkyerɛase Ahorow a Wɔaka Abom
 
-Dwumadi no wɔ nkyerɛaseɛ `i18` a wɔasisi mu, yɛsrɛ wo hwɛ [➔ `i18` krataa](/i18) ma dwumadie pɔtee bi.
+Dwumadi no wɔ nkyerɛase `i18` a wɔasisi mu, yɛsrɛ wo hwɛ [➔ krataa `i18`](/i18) ma wode bedi dwuma pɔtee.
 
 ## Wo Ara Ne Browser Kasa Hyia
 
@@ -20,7 +20,7 @@ Akenkan mu osuahu a edi mũ nso wɔ telefon a wokura kyin so.
 
 ## <a rel=id href="#ha" id="ha"></a> Front-end a ɛkorɔn a ɛwɔ hɔ
 
-`i18n.site` bɛtintim sait no mu nsɛm akɔ `npmjs.com` default so, denam mmoa a ɛne [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) ne nsɛm afoforo `CDN` a wɔde ahyɛ `npm` so.
+`i18n.site` bɛtintim sait no mu nsɛm akɔ `npmjs.com` default so, denam mmoa a ɛne [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) ne nsɛm afoforo pii `CDN` a wɔde ahyɛ `npm` so.
 
 Wogyinaa eyi so de ahwehwɛ fibea ahorow a efi China asasepɔn so kaa ho sɛnea ɛbɛyɛ a Chinafo a wɔde di dwuma no betumi anya kwan a ɛyɛ den na wɔanya **anim-akyi a ɛkorɔn** .
 
@@ -36,13 +36,19 @@ Wɛbsaet no fa kratafa biako application nhyehyɛe, a enni refresh biara bere a 
 
 ### Ɔkwan a Wɔayɛ No Yiye
 
-> Wɔakyerɛ ahoɔfɛ a ɛyɛ mmerɛw no ase pɛpɛɛpɛ wɔ wɛbsaet yi wɛb nhyehyɛe mu.
+> Wɔakyerɛ ahoɔfɛ a ɛyɛ mmerɛw no ase pɛpɛɛpɛ wɔ wɛbsaet yi wɛbsaet nhyehyɛe mu.
 > Egyae ahosiesie a ɛho nhia na ɛde emu nsɛm no kyerɛ wɔ ne kwan a ɛho tew sen biara so.
-> Te sɛ anwensɛm a ɛyɛ dɛ no, ɛwom sɛ ɛyɛ tiawa de, nanso ɛka nkurɔfo koma.
+> Te sɛ anwensɛm a ɛyɛ fɛ no, ɛwom sɛ ɛyɛ tiawa de, nanso ɛka nkurɔfo koma.
 
 <p style="text-align:right">── Ɔkyerɛwfo I18N.SITE</p>
 
 [➔ Klik ha na wubehu sɛnea wɔayɛ no](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Mfonini a ɛwɔ atifi hɔ `i18n.site` kyerɛ kasa horow pii `RSS` a wɔde [inoreader.com](//inoreader.com)
 
 ### Fa Intanɛt So Nkyerɛwde Gu Mu, Boa China Kasa
 
@@ -74,10 +80,10 @@ Fa wo mouse no si button a ɛwɔ soro navigation no nifa so no so na woahu speci
 
 ### `404` Honhom Ketewa
 
-Sunsum ketewa bi a ne ho yɛ fɛ a ɛsensɛn nsuo mu wɔ kratafa `404` no so, a n’ani bɛfa mouse no so, [➔ Klik ha na hwɛ](/404) , .
+`404` krataafa no wɔ honhom ketewa bi a ɔsensɛn nsu so a ne ho yɛ fɛ, n’ani bɛkɔ ne mouse no, [➔ Klik ha na hwɛ](/404) , .
 
 ## Kood a Wɔabue Ano
 
 [Code no yɛ open source](/i18n.site/src) Sɛ w’ani gye ho sɛ wode wo ho bɛhyɛ nkɔso mu a, yɛsrɛ wo kyerɛ wo ho wɔ [mailing list no](//groups.google.com/u/2/g/i18n-site) mu .
 
-Ahwehwɛdeɛ nketewa bebree wɔ hɔ a ɛho hia nanso ɛnyɛ ntɛmpɛ Nkɔsoɔ kuo no de nnwuma a wɔde yɛ adesua bɛma sɛdeɛ mfiridwuma a wo ho akokwa wɔ mu no teɛ, na wɔama nkɔsoɔ nkrataa no atu mpɔn berɛ a wɔde ahwehwɛdeɛ no rema.
+Ahwehwɛdeɛ nketewa pii wɔ hɔ a ɛho hia nanso ɛnyɛ ntɛmpɛ Nkɔsoɔ kuo no de nsaanodwuma a egyina mfiridwuma a wo ho akokwaw so bɛma, na wɔama nkɔsoɔ nkrataa no atu mpɔn berɛ a wɔde ahwehwɛdeɛ no rema.

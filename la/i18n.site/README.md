@@ -2,22 +2,20 @@
 
 `i18n.site` multi- lingua, mere static documentum site genitor.
 
-Praesens initio praesto est, sed adhuc momenti lineamenta sub progressione sunt. Quaeso videbis [evolutionis rationem](/i18n.site/c/roadmap) de singulis.
-
-Quaeso <button onclick="mailsub()">preme hanc epistulam ut scribeas ad product updates</button> et <button onclick="webpush()">da navigatro dis</button> .
-
-/ [i18n-site.bsky.social](https://bsky.app/profile/i18n-site.bsky.social) nostrae rationes sociales sequi [X.COM: @i18nSite](https://x.com/i18nSite)
-
 ## Praefatio
 
-`i18n.site` est exemplum progressionis a website me cogitare.
-
-Hoc documentum situs generantis ac paginae evolutionis compage.
+`i18n.site` documentum situs generantis ac paginae evolutionis compage.
 
 Novum paradigma evolutionis website, quod `MarkDown` accipit sicut centrum et utitur componentibus ante-finem interactivity injicere.
 
 Quaelibet pars ante-finem sarcina est quae independenter institui potest.
 
-Secundum separationem ante-finem et a tergo-finem, est etiam separatio rerum staticarum et notitiarum dynamicarum.
+Secundum separationem ante-finis et retro-finis, est etiam separatio contenti static et dynamici notitia.
 
 Quod visitas [i18n.site](/) aedificatum est secundum hoc compage (including systema usoris, systema exosculatio, subscriptione inscriptio, etc.).
+
+## Contineo Tactus
+
+Quaeso <button onclick="mailsub()">preme hanc epistulam ut scribeas ad product updates</button> et <button onclick="webpush()">da navigatro dis</button> .
+
+/ [i18n-site.bsky.social](https://bsky.app/profile/i18n-site.bsky.social) nostrae rationes sociales sequi [X.COM: @i18nSite](https://x.com/i18nSite)

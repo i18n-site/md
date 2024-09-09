@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Olu 'cɛ, `upload` ka Se `ext:` ma, o kɔrɔ ye ko `.md` dɔrɔn de bɛna Blà 'kɔnɔ ni a bɛ Bɔ.
@@ -59,7 +61,7 @@ I bɛ se ka `use: Toc` sɛmɛntiya sanfɛla labɛncogo la ka kɛ `use: Md` , ka 
 
 ### Default Loading Ni Configuration Sira Tɛ
 
-Ni sira dɔ Sɔrɔla n'a sira ɲɛbila ma Labɛn `nav:` la, filen `MarkDown` min bɛ Bɛn sira ma, o bɛ Lasegin ka Dabɔ ka Kɛɲɛ ni `Md` jatebɔlan ye.
+Ni sira dɔ Sɔrɔla n'a sira ɲɛbila ma Labɛn `nav:` la, filen `MarkDown` min bɛ Bɛn sira ma, o bɛ Lasegin ka Dabɔ k'a Jira ni `Md` jatebɔlan ye.
 
 Misali la, ni `/test` Sɔrɔla, ni `nav:` Labɛnna ni nin sira in tɛ, ni ɲɛkan ye tubabukan ye (kode `en` ), `/en/test.md` bɛ doni ka Da a kan k’a Jira ni jatebɔlan `Md` ye.
 
@@ -152,7 +154,7 @@ Zana fila nataw bɛ i n’a fɔ a jiralen bɛ cogo min na ja in na.
 `news/README.md` bɛ bɛn `News` ma , .
 `news/begin.md` bɛ bɛn `Our Product is Online !`
 
-`TOC` dosiyew bɛ Dòn 'kɔnɔ walasa ka 'sènfɛ-sɛbɛnni jɛɲɔgɔnya jira ani ka 'sèn caman Dòn 'kɔnɔ.
+`TOC` dosiyew bɛ Dòn 'kɔnɔ walasa ka 'sènfɛjuru jɛɲɔgɔnya jira, ka 'sèn caman Dòn 'kɔnɔ, ani zana fɔli minnu bɛ Daminɛ ni `#` ye.
 
 ##### Bangebagaw Nivo Bɛ Tɔgɔ Dɔrɔn De Sɛbɛn, a Kɔnɔkow Tɛ.
 

@@ -1,12 +1,15 @@
-# Ontwikkelingsplanning
+# Ontwikkelingsplan
 
-De volgende belangrijke kenmerken worden momenteel ontwikkeld:
+## Voltooid
+
+- [x] RSS-abonnementbron
+- [x] Zoekmachineoptimalisatie
+
+## In ontwikkeling
 
 - [ ] Schakelen tussen meerdere versies van documenten
 - [ ] Puur front-end full-text zoekfunctie
-- [ ] RSS-abonnementbron
-- [ ] 搜索引擎优化
-- [ ] Synchroniseren van artikelupdates naar verschillende sociale media
-- [ ] 用户可用邮件 /`web push`订阅产品更新
-- [ ] Mogelijkheid om reacties te plaatsen op artikelparagrafen
-- [ ] Integratie van lokale documentenbewaking om wijzigingen te volgen en previews te genereren, zonder dat handmatige compilatie en het gebruik van NGINX nodig is
+- [ ] Synchroniseer artikelpushupdates naar diverse sociale media
+- [ ] Gebruikers kunnen zich abonneren op productupdates via e-mail / `web push`
+- [ ] Commentaar toevoegen op artikelparagrafen
+- [ ] Integreer lokale documentenbewaking om wijzigingen te detecteren en previews te genereren, zonder dat handmatige compilatie en NGINX vereist zijn

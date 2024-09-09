@@ -55,25 +55,9 @@ Fail demo yang diterjemahkan dalam direktori `en` hanyalah contoh dan boleh dipa
 
 Masukkan direktori dan jalankan `i18` untuk menterjemah.
 
-### Tambah Fail Ke Repositori
+Sebagai tambahan kepada terjemahan, program ini juga akan menghasilkan folder `.i18n/data` , sila tambahkannya ke repositori.
 
-Selain terjemahan, program ini juga akan menjana fail berikut, sila tambahkannya ke repositori.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Antaranya, kandungan `.i18n/cache/.gitignore` adalah seperti berikut :
-
-```
-**/*
-!**/.gitignore
-```
-
-Ini bermakna semua fail dalam direktori `.i18n/cache/` (kecuali `.i18n/cache/.gitignore` ) diabaikan.
-
-Jika perisian kawalan versi anda bukan `git` , sila abaikan mengikut konfigurasi ini.
+Selepas menterjemah fail baharu, fail data baharu akan dihasilkan dalam direktori ini. Ingat untuk menambah `git add .` .
 
 ## Fail Konfigurasi
 

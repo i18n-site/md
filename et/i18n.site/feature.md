@@ -8,7 +8,7 @@ Programmil on sisseehitatud `i18` tõlge, konkreetse kasutuse kohta vaadake [➔
 
 Veebisaidi vaikekeel ühtib automaatselt brauseri keelega.
 
-Pärast seda, kui kasutaja on keelt käsitsi vahetanud, jäetakse kasutaja valik meelde.
+Pärast seda, kui kasutaja on keele käsitsi vahetanud, jäetakse kasutaja valik meelde.
 
 Seotud kood : [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
@@ -37,12 +37,18 @@ Veebisait võtab kasutusele ühelehelise rakendusearhitektuuri, lehtede vahetami
 ### Hästi Kujundatud Stiil
 
 > Lihtsuse ilu on selle veebisaidi veebikujunduses suurepäraselt tõlgendatud.
-> See loobub tarbetutest kaunistustest ja esitab sisu selle kõige puhtamal kujul.
+> See loobub üleliigsest kaunistusest ja esitab sisu selle kõige puhtamal kujul.
 > Nagu ilus luuletus, kuigi see on lühike, puudutab see inimeste südameid.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Klõpsa siia, et näha stiilide loendit](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ülaloleval pildil on mitu keelt `RSS` , kasutades tellimust `i18n.site` [inoreader.com](//inoreader.com)
 
 ### Laadige Veebifonte, Toetage Hiina Keelt
 
@@ -74,10 +80,10 @@ Lahedate eriefektide nägemiseks hõljutage kursorit ülemise navigeerimispaneel
 
 ### `404` Väike Kummitus
 
-`404` lehel on väike armas hõljuv kummitus, kelle silmad liiguvad koos hiirega, [➔ Vaatamiseks klõpsake siin](/404) ,
+`404` lehel on armas väike hõljuv kummitus, selle silmad liiguvad koos hiirega, [➔ Vaatamiseks klõpsake siin](/404) ,
 
 ## Kood Avatud Lähtekoodiga
 
 [Kood on avatud lähtekoodiga](/i18n.site/src) Kui olete huvitatud arenduses osalemisest, tutvustage end [meililistis](//groups.google.com/u/2/g/i18n-site) .
 
-On palju väikeseid nõudeid, mis on olulised, kuid mitte kiireloomulised. Arendusmeeskond määrab praktikaülesanded vastavalt teie oskustele ja täiustab nõuete määramisel arendusdokumente.
+On palju väikeseid nõudeid, mis on olulised, kuid mitte kiireloomulised. Arendusmeeskond määrab praktilised ülesanded, mis põhinevad teie oskustel ja nõuete määramisel täiustab arendusdokumente.

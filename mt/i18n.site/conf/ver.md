@@ -2,7 +2,7 @@
 
 Ħu l-proġett demo bħala eżempju:
 
-`en/demo2/v` huwa n-numru tal-verżjoni attwali tal-proġett, li se jintwera fuq il-lemin tal-isem tal-proġett fil-kontorn tal-bar tal-ġenb.
+`en/demo2/v` huwa n-numru tal-verżjoni attwali tal-proġett, li se jintwera fuq il-lemin tal-isem tal-proġett fil-kontorn tal-istrixxa tal-ġenb.
 
 <img src="https://p.3ti.site/1721290486.avif" width="320px">
 

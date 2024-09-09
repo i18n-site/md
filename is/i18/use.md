@@ -55,25 +55,9 @@ Uppbygging sniðmáts vöruhúsaskrár er sem hér segir
 
 Sláðu inn möppuna og keyrðu `i18` til að þýða.
 
-### Bættu Skrám Við Geymsluna
+Til viðbótar við þýðinguna mun forritið einnig búa til `.i18n/data` möppuna, vinsamlegast bættu henni við geymsluna.
 
-Auk þýðingar mun forritið einnig búa til eftirfarandi skrár, vinsamlegast bættu þeim við geymsluna.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Meðal þeirra er innihald `.i18n/cache/.gitignore` sem hér segir :
-
-```
-**/*
-!**/.gitignore
-```
-
-Þetta þýðir að allar skrár í möppu `.i18n/cache/` (nema `.i18n/cache/.gitignore` ) eru hunsaðar.
-
-Ef útgáfustýringarhugbúnaðurinn þinn er ekki `git` , vinsamlegast hunsa hann samkvæmt þessari uppsetningu.
+Eftir að hafa þýtt nýju skrána verður ný gagnaskrá búin til í þessari möppu Mundu að bæta við `git add .` .
 
 ## Stillingarskrá
 

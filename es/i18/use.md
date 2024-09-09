@@ -55,25 +55,9 @@ El directorio `en` contiene archivos de demostración de traducción, que son so
 
 Ingrese al directorio y ejecute `i18` para traducir.
 
-### Agregar Archivos Al Repositorio
+Además de generar la traducción, el programa también creará la carpeta `.i18n/data`; por favor, añádala al repositorio.
 
-Además de la traducción, el programa también generará los siguientes archivos; agréguelos al repositorio.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Entre ellos, el contenido de `.i18n/cache/.gitignore` es el siguiente :
-
-```
-**/*
-!**/.gitignore
-```
-
-Esto significa que se ignoran todos los archivos en el directorio `.i18n/cache/` (excepto `.i18n/cache/.gitignore` ).
-
-Si su software de control de versiones no es `git` , ignórelo de acuerdo con esta configuración.
+Tras traducir un archivo nuevo, se generará un archivo de datos adicional en este directorio. No olvides ejecutar `git add .` para incluirlo.
 
 ## Archivo De Configuración
 

@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Kabilang sa mga ito, `upload` hanggang `ext:` configuration item ay nangangahulugan na `.md` lang ang ia-upload kapag nag-publish.
@@ -92,7 +94,7 @@ Isinasaad ang paggamit ng `Doc` para sa pag-render ng template.
 
 ##### Kapag Walang Laman Ang Url, Nagde-Default Ito Sa Halaga Ng i18n
 
-Kung `url` ay hindi nakasulat, `url` ay magiging default sa halaga ng `i18n` Ang panuntunang ito ay magkakabisa rin para sa iba pang mga template.
+Kung `url` ay hindi nakasulat, `url` ang magiging default sa halaga ng `i18n` Ang panuntunang ito ay magkakabisa rin para sa iba pang mga template.
 
 Ang paraan ng pagsulat sa itaas ay katumbas ng `url: blog` , at ang katumbas na file nito ay `en/blog/TOC` .
 
@@ -115,7 +117,7 @@ Dito, `menu: NB demo1,demo2` , ay nangangahulugan ng paggamit ng `NB` template u
 `NB` ay sinusundan ng parameter `demo1,demo2` na ipinasa dito.
 Tandaan : ** Dapat walang mga puwang ** bago at pagkatapos ng kuwit `,` sa `demo1,demo2` .
 
-Ang kaukulang file ng index ng direktoryo para sa mga parameter sa itaas ay:
+Para sa mga parameter sa itaas, ang kaukulang file ng index ng direktoryo ay:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Ang susunod na dalawang linya ay tulad ng ipinapakita sa screenshot sa ibaba.
 `news/README.md` ay tumutugma sa `News` ,
 `news/begin.md` ay tumutugma sa `Our Product is Online !`
 
-`TOC` na mga file ay naka-indent upang isaad ang hierarchical na relasyon ng outline at sumusuporta sa multi-level na indentation.
+`TOC` file ay naka-indent upang isaad ang hierarchical na relasyon ng outline, suportahan ang multi-level na indentation, at mga komento sa linya na nagsisimula sa `#` .
 
 ##### Ang Antas Ng Magulang Ay Nagsusulat Lamang Ng Pamagat, Hindi Ang Nilalaman.
 

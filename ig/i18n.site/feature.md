@@ -4,7 +4,7 @@
 
 Mmemme nwere ntụgharị asụsụ `i18` arụnyere n'ime ya, biko hụ [akwụkwọ ➔ `i18`](/i18) maka ojiji akọwapụtara.
 
-## Dakọtara Asụsụ Nchọgharị Na-Akpaghị Aka
+## Dakọtara Asụsụ Ihe Nchọgharị Na-Akpaghị Aka
 
 Asụsụ ndabere webụsaịtị ga-adakọ na asụsụ ihe nchọgharị na-akpaghị aka.
 
@@ -20,7 +20,7 @@ Enwekwara ahụmịhe ọgụgụ zuru oke na ekwentị mkpanaaka.
 
 ## <a rel=id href="#ha" id="ha"></a> N'ihu-ọgwụgwụ dị elu nnweta
 
-`i18n.site` ga-ebipụta ọdịnaya saịtị na `npmjs.com` na ndabara, site n'enyemaka nke [jsdelivr.com](//jsdelivr.com) [unpkg.com](//unpkg.com) na ọdịnaya `CDN` ndị ọzọ kwajuru na `npm` .
+`i18n.site` ga-ebipụta ọdịnaya saịtị na `npmjs.com` site na ndabara, site n'enyemaka nke [jsdelivr.com](//jsdelivr.com) [unpkg.com](//unpkg.com) na ọtụtụ ọdịnaya `CDN` ndị ọzọ kwajuru na `npm` .
 
 Na ndabere nke a, agbakwunyere isi mmalite enyo sitere na ala China iji mee ka ndị ọrụ China nwee ohere kwụsiri ike wee nweta **nnweta ihu dị elu** .
 
@@ -43,6 +43,12 @@ Weebụsaịtị ahụ na-anakwere ihe owuwu ngwa nwere otu ibe, na-enweghị um
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Pịa ebe a ka ịhụ ndepụta nke ụdị](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Foto dị n'elu na-egosi `RSS` ọtụtụ asụsụ na [inoreader.com](//inoreader.com) ndenye aha `i18n.site` .
 
 ### Bunye Mkpụrụedemede N'ịntanetị, Kwado Ndị China
 
@@ -74,10 +80,10 @@ Hokwaa òké gị n'elu bọtịnụ dị n'akụkụ aka nri nke elu igodo iji 
 
 ### `404` Obere Mmụọ
 
-Enwere mmụọ mara mma na-ese n'elu mmiri na ibe `404` , nke anya ya ga-eji òké na-agagharị, [➔ Pịa ebe a ka ịlele](/404) ,
+`404` page nwere ọmarịcha obere mmụọ na-ese n'elu mmiri, anya ya ga-eji òké na-agagharị, [➔ Pịa ebe a ka ịhụ](/404) ,
 
 ## Koodu Mepere Emepe
 
 [Koodu bụ ebe mepere emepe](/i18n.site/src) Ọ bụrụ na ị nwere mmasị isonye na mmepe, biko gosi onwe gị na [listi nzipu ozi](//groups.google.com/u/2/g/i18n-site) .
 
-Enwere ọtụtụ obere ihe achọrọ dị mkpa mana ọ bụghị ngwa ngwa Ndị otu mmepe ga-ekenye ọrụ omume dịka teknụzụ ị dị mma, ma melite akwụkwọ mmepe mgbe ị na-ekenye ihe achọrọ.
+Enwere ọtụtụ obere ihe ndị dị mkpa ma ọ bụghị ngwa ngwa Ndị otu mmepe ga-ekenye ọrụ aka na-adabere na teknụzụ ị dị mma, ma melite akwụkwọ mmepe mgbe ị na-ekenye ihe ndị a chọrọ.

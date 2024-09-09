@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Olaryň arasynda `upload` dan `ext:` çenli konfigurasiýa elementi çap edilende diňe `.md` ýüklenjekdigini aňladýar.
@@ -47,9 +49,9 @@ Terjime gutaransoň, `yml` terjimäniň bahasyny üýtgedip bilersiňiz, ýöne 
 
 `use: Toc` , ýekeje `Markdown` şablony görkezýän `Toc` şablony ulanyp görkezmegi aňladýar.
 
-`TOC` gysgaltmasy `Table of Contents` Bu şablon görkezilende, bu `Markdown` faýlyň çyzgysy gapdal panelde görkeziler.
+`TOC` - gysgaltma `Table of Contents` Bu şablon görkezilende, bu `Markdown` faýlyň çyzgysy gapdal panelde görkeziler.
 
-`url:` faýl ýoluny görkezýär ( `Markdown` `/README.md` katalogyna gabat gelýär `/` bu faýlyň ady baş harp prefiksi we kiçi harp goşulmasy talap edýär).
+`url:` `Markdown` ýoluny görkezýär ( `/` kök katalogyna gabat gelýär `/README.md` bu faýl ady baş harp prefiksi we kiçi harp goşulmasy talap edýär).
 
 ### `use: Md` , Ýekeje Faýl Şablony (Çyzgysy Ýok)
 
@@ -152,15 +154,15 @@ Indiki iki setir aşakdaky skrinshotda görkezilişi ýaly.
 `news/README.md` gabat `News` ,
 `news/begin.md` `Our Product is Online !` gabat gelýär
 
-`TOC` faýl, meýilnamanyň iýerarhiki baglanyşygyny görkezmek we köp derejeli indentasiýany goldamak üçin ýazylýar.
+`TOC` faýl, meýilnamanyň iýerarhiki baglanyşygyny görkezmek, köp derejeli indentasiýany goldamak we `#` den başlap setir düşündirişleri görkezmek üçin ýazylýar.
 
-##### Ene-Ata Derejesi Diňe Mazmuny Däl-De, Adyny Ýazýar.
+##### Ene Derejesi Diňe Mazmuny Däl-De, Adyny Ýazýar.
 
 Birnäçe derejeli indentasiýa bolanda, ene-atanyň derejesi diňe mazmuny däl-de, adyny ýazýar. Otherwiseogsam, tipografiýa bulaşar.
 
 ##### Taslama README.md
 
-Mazmun `en/demo2/README.md` ýaly `README.md` njy bentde ýazylyp bilner.
+Mazmuny `en/demo2/README.md` ýaly `README.md` njy bentde ýazyp bolýar.
 
 Bu faýlyň mazmunynyň mazmunynyň tablisasyny görkezmeýändigine üns beriň, şonuň üçin uzynlygy çäklendirmek we gysga giriş ýazmak maslahat berilýär.
 
@@ -178,7 +180,7 @@ Bu `en/demo2/README.md` birinji hataryna gabat gelýär :
 
 `README.md` birinji derejeli adynyň `:` nji sütüninden soň mazmun taslama şygary hökmünde kabul ediler.
 
-Hytaýdan, Japanaponiýadan we Koreýadan gelen ulanyjylar, doly ini däl-de, ýarym ini sütün `:` ulanmalydygyny ýadyňyzdan çykarmaň.
+Hytaýdan, Japanaponiýadan we Koreýadan gelen ulanyjylar, doly ini däl-de, ýarym ini `:` ulanmalydygyny ýadyňyzdan çykarmaň.
 
 ##### TOC-Ny Nädip Köpeltmeli?
 

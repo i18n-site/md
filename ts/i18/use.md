@@ -55,25 +55,9 @@ Tifayili ta demo leti hundzuluxeriweke eka `en` directory i xikombiso ntsena nas
 
 Nghenisa eka xikombo u tsutsuma `i18` ku hundzuluxela.
 
-### Engetela Tifayela Eka Vuhlayiselo
+Ku engetela eka vuhundzuluxeri, nongonoko wu ta tlhela wu humesa folda ya `.i18n/data` , hi kombela u yi engetela eka vuhlayiselo.
 
-Ku engetela eka vuhundzuluxeri, nongonoko wu ta tlhela wu humesa tifayela leti landzelaka, hi kombela u ti engetela eka vuhlayiselo.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Exikarhi ka swona, leswi nga endzeni ka `.i18n/cache/.gitignore` hi leswi landzelaka :
-
-```
-**/*
-!**/.gitignore
-```
-
-Leswi swi vula leswaku tifayela hinkwato eka xikombo xa `.i18n/cache/` (handle ka `.i18n/cache/.gitignore` ) ti honisiwa.
-
-Loko software ya wena ya vulawuri bya vuhundzuluxeri yi nga ri `git` , hi kombela u yi honisa hi ku ya hi xivumbeko lexi.
+Endzhaku ko hundzuluxela fayili leyintshwa, fayili leyintshwa ya datha yi ta endliwa eka xikombo lexi Tsundzuka ku engetela `git add .` .
 
 ## Fayili Ya Vuhlanganisi
 

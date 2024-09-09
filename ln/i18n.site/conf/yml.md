@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Parmi bango, `upload` à `ext:` élément ya configuration elakisi que kaka `.md` nde eko uploader tango ya publier.
@@ -115,7 +117,7 @@ Awa, `menu: NB demo1,demo2` , elakisi kosalela modèle `NB` mpo na kosala menu o
 `NB` elandi na paramètre `demo1,demo2` oyo elekisami na yango.
 : ** Esengeli kozala na bisika te ** liboso mpe nsima ya virgule `,` na `demo1,demo2` .
 
-Fisyé index ya répertoire oyo ekokani mpo na ba paramètres oyo ezali likolo ezali:
+Mpo na ba paramètres oyo ezali likolo, fichier index ya répertoire oyo ekokani ezali:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Milɔngɔ́ mibale oyo elandi ezali ndenge emonisami na capture d’écran oyo e
 `news/README.md` ekokani na `News` , .
 `news/begin.md` ekokani na `Our Product is Online !`
 
-`TOC` fichiers ezali indentés pona kolakisa relation hiérarchique ya plan pe ko soutenir indentation multi-niveau.
+`TOC` fichiers ezali indentés mpo na kolakisa relation hiérarchique ya plan, ko soutenir indentation multi-niveau, mpe ba commentaires ya ligne kobanda na `#` .
 
 ##### Niveau Ya Parent Ekomaka Kaka Titre, Contenus Te.
 

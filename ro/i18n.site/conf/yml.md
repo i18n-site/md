@@ -17,27 +17,29 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Dintre acestea, opțiunea `upload` la `ext:` indică faptul că doar fișierele `.md` vor fi încărcate la publicare.
+În acest sens,配置项 `upload` la `ext:` indică faptul că doar fișierele cu extensia `.md` vor fi încărcate la publicare.
 
 ## Navigare De Sus nav
 
-Opțiunile de configurare `nav:` corespund meniului de navigare din partea de sus a paginii de start.
+Opțiunile de configurare pentru `nav:` corespund meniului de navigare situat în partea de sus a paginii de start.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Dintre acestea, `i18n: home` se potrivește cu `home: Home` din `en/i18n.yml`.
+Dintre acestea, `i18n: home` corespunde cu `home: Home` din `en/i18n.yml`.
 
 `en/i18n.yml` va fi tradus în mai multe limbi, cum ar fi `zh/i18n.yml`.
 
 <img src="//p.3ti.site/1721051689.avif" style="width:320px">
 
-După finalizarea traducerii, puteți modifica valorile traducerii `yml`, dar nu adăugați sau ștergeți cheile traducerii `yml`.
+După finalizarea traducerii, puteți modifica valorile traducerii în fișierul `yml`, dar nu adăugați sau ștergeți cheile traducerii din `yml`.
 
-### `use: Toc` , Șablon De Fișier Unic (Cu Contur)
+### `use: Toc`, șablon pentru un singur fișier (cu cuprins)
 
-În configurarea `nav`:
+În secțiunea `nav`:
 
 ```
   - i18n: home
@@ -45,29 +47,29 @@ După finalizarea traducerii, puteți modifica valorile traducerii `yml`, dar nu
     url: /
 ```
 
-`use: Toc` înseamnă utilizarea unui șablon `Toc` pentru randare, ceea ce implică randarea unui singur șablon `Markdown`.
+`use: Toc` înseamnă că se va folosi șablonul `Toc` pentru a reda un singur fișier `Markdown`.
 
-`TOC` este abrevierea de la `Table of Contents`. Când acest șablon este randat, cuprinsul fișierului `Markdown` va fi afișat în bara laterală.
+`TOC` este abrevierea pentru `Table of Contents`. Când acest șablon este redat, cuprinsul fișierului `Markdown` va fi afișat în bara laterală.
 
-`url:` reprezintă calea fișierului `Markdown` ( `/` corespunde directorului rădăcină `/README.md`, numele fișierului trebuie să fie cu majuscule la început și litere mici la sfârșit).
+`url:` indică calea către fișierul `Markdown` (de exemplu, `/` corespunde directorului rădăcină `/README.md`, iar numele fișierului trebuie să aibă prefixul în majuscule și sufixul în minuscule).
 
-### `use: Md` , Șablon De Fișier Unic (Fără Contur)
+### `use: Md`, șablon pentru un singur fișier (fără cuprins)
 
-Șablonul `Md` este similar cu șablonul `Toc` și este folosit pentru a randă un singur fișier `Markdown`. Cu toate acestea, șablonul `Md` nu afișează cuprinsul în bara laterală.
+Șablonul `Md` este similar cu șablonul `Toc`, ambele fiind folosite pentru a reda un singur fișier `Markdown`. Cu toate acestea, șablonul `Md` nu afișează cuprinsul în bara laterală.
 
-Puteți modifica `use: Toc` din configurația de mai sus la `use: Md`, rulați din nou `i18n.site` în directorul `md` și apoi vizitați URL-ul de previzualizare a dezvoltării pentru a observa modificările de pe pagina de pornire.
+Puteți schimba `use: Toc` la `use: Md` în configurația de mai sus, rulați din nou `i18n.site` în directorul `md`, apoi vizitați URL-ul de previzualizare a dezvoltării pentru a observa modificările pe pagina de start.
 
-### Încărcare Implicită Fără Calea De Configurare
+### Încărcare implicită fără cale de configurare
 
-Dacă o anumită cale este accesată și prefixul său de cale nu este configurat în `nav:` , fișierul `Markdown` corespunzător căii va fi încărcat implicit și redat folosind șablonul `Md`.
+Dacă o anumită cale este accesată și prefixul acestei căi nu este configurat în `nav:`, atunci fișierul `Markdown` corespunzător căii va fi încărcat implicit și redat folosind șablonul `Md`.
 
-De exemplu, dacă este accesat `/test` și `nav:` nu este configurat pentru această cale, iar limba paginii este engleză (cod `en`), `/en/test.md` va fi încărcat implicit și redat folosind șablonul `Md`.
+De exemplu, dacă se accesează `/test` și `nav:` nu este configurat pentru această cale, iar limba paginii este engleză (cod `en`), atunci se va încărca implicit `/en/test.md` și se va reda folosind șablonul `Md`.
 
-Dacă `/en/test.md` acest fișier nu există, va fi afișată pagina implicită `404`.
+Dacă `/en/test.md` nu există, se va afișa pagina implicită `404`.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
-### `use: Doc` , Șablon Cu Mai Multe Fișiere
+### `use: Doc`, șablon pentru mai multe fișiere
 
 În fișierul de configurare:
 
@@ -76,13 +78,13 @@ Dacă `/en/test.md` acest fișier nu există, va fi afișată pagina implicită 
     use: Doc
 ```
 
-Se indică utilizarea șablonului `Doc` pentru randare.
+Se indică utilizarea `Doc` pentru a reda șablonul.
 
-Șablonul `Doc` acceptă integrarea mai multor fișiere `Markdown` pentru a genera cuprinsuri ale documentelor pentru proiecte unice sau multiple.
+Șablonul `Doc` suportă integrarea mai multor fișiere `Markdown` pentru a genera cuprinsuri pentru documente unice sau multiple.
 
-#### Proiect Unic (Fișiere Multiple)
+#### Proiect unic (cu mai multe fișiere)
 
-`blog` de mai sus este un exemplu de mod cu un singur proiect de `Doc`.
+`blog` menționat anterior este un exemplu de modul unic de proiect `Doc`.
 
 ```
   - i18n: blog
@@ -92,13 +94,13 @@ Se indică utilizarea șablonului `Doc` pentru randare.
 
 ##### Când Adresa url Este Goală, Valoarea Implicită Este i18n
 
-Dacă nu este scris `url`, `url` are valoarea implicită de `i18n`. Această regulă este valabilă și pentru alte șabloane.
+Dacă nu este specificat `url`, atunci `url` va avea valoarea implicită `i18n`. Această regulă se aplică și pentru alte șabloane.
 
-Metoda de scriere de mai sus este echivalentă cu `url: blog`, iar fișierul corespunzător este `en/blog/TOC`.
+Modul de scriere de mai sus este echivalent cu `url: blog`, iar fișierul corespunzător este `en/blog/TOC`.
 
-#### Proiecte Multiple
+#### Proiecte multiple
 
-Configurația `i18n:doc` din `.i18n/conf.yml` este un mod multi-proiect.
+Configurația `i18n:doc` din `.i18n/conf.yml` este pentru modul multi-proiect.
 
 ```
   - i18n: doc
@@ -108,31 +110,31 @@ Configurația `i18n:doc` din `.i18n/conf.yml` este un mod multi-proiect.
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-Aici, `menu: NB demo1,demo2` indică utilizarea șablonului `NB` pentru a reda meniul derulant.
+Aici, `menu: NB demo1,demo2` înseamnă că se va folosi șablonul `NB` pentru a reda meniul derulant.
 
-`NB`, care este abrevierea de la `Name Brief`, înseamnă că meniul derulant poate afișa numele și sloganul proiectului.
+`NB` este abrevierea pentru `Name Brief`, ceea ce înseamnă că meniul derulant poate afișa numele și sloganul proiectului.
 
-`NB` este urmat de parametrii `demo1,demo2` transmiteți acestuia.
-Notă: **Nu există spații** înainte și după virgula `,` în `demo1,demo2`.
+`NB` este urmat de parametrii `demo1,demo2` care îi sunt transmiteți.
+Notă: **Nu trebuie să fie spații** înainte și după virgula `,` în `demo1,demo2`.
 
-Fișierul index al directorului corespunzător pentru parametrii de mai sus este:
+Pentru parametrii de mai sus, fișierul index al directorului corespunzător este:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### Indexul Cuprinsului TOC
+#### Indexul de conținut TOC
 
-`i18n.site` va executa plugin-ul `js` `.i18n/hook/after.tran/TOC.js` în depozitul demonstrativ pentru a citi fișierul index cu `doc` directoare corespunzătoare configurației șablonului `TOC` pentru a genera schița în format `json` a directoarelor.
+`i18n.site` va executa plugin-ul `js` `.i18n/hook/after.tran/TOC.js` din depozitul demonstrativ pentru a citi fișierele index `TOC` corespunzătoare configurărilor șablonului `doc` și pentru a genera cuprinsul `json`.
 
-Dacă utilizați șablonul `Doc`, trebuie să aveți acest plugin.
+Dacă se folosește șablonul `doc`, trebuie să fie instalat acest plugin.
 
-Dacă inițializați proiectul `i18n.site` dintr-un director gol, nu uitați să copiați directorul `.i18n` din proiectul demo în directorul dvs.
+Dacă inițializați proiectul `i18n.site` dintr-un folder gol, nu uitați să copiați fișierele `.i18n` din proiectul demonstrativ în directorul dvs.
 
-Șablonul `Doc` va reda cuprinsul pe baza `json` generat.
+Șablonul `Doc` va reda conturul cuprinsului pe baza `json` generat.
 
-##### Explicație Detaliată a Conținutului
+##### Explicație detaliată a conținutului
 
-`en/blog/TOC` este următorul:
+`en/blog/TOC` conține următorul text:
 
 ```
 README.md
@@ -141,52 +143,52 @@ news/README.md
   news/begin.md
 ```
 
-##### Utilizați Indentarea Pentru a Indica Nivelurile
+##### Indentarea este folosită pentru a indica nivelurile
 
-`README.md` din primul rând de `en/blog/TOC` de mai sus corespunde cu `i18n.site` din imaginea de mai jos, care este numele proiectului.
+`README.md` din primul rând al directorului `en/blog/TOC` de mai sus corespunde cu `i18n.site` din imaginea de mai jos, care este numele proiectului.
 
 Următoarele două rânduri sunt așa cum se arată în captura de ecran de mai jos.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
-`news/README.md` corespunde cu `News`,
+`news/README.md` corespunde cu `News`
 `news/begin.md` corespunde cu `Our Product is Online !`
 
-Fișierele `TOC` sunt indentate pentru a indica relația ierarhică a cuprinsului și pentru a suporta indentarea pe mai multe niveluri.
+Fișierele `TOC` sunt indentate pentru a indica relația ierarhică a cuprinsului, suportă mai multe niveluri de indentare și comentarii de linie care încep cu `#`.
 
-##### Nivelul Părinte Scrie Doar Titlul, Nu Și Conținutul
+##### Nivelul părinte indică doar titlul, nu și conținutul
 
-Când există mai multe niveluri de indentare, nivelul părinte scrie doar titlul și nu conținutul. În caz contrar, tipografia va fi încurcată.
+Când există mai multe niveluri de indentare, nivelul părinte indică doar titlul, fără conținut, pentru a evita erorile de formatare.
 
 ##### Proiectul README.md
 
-Conținutul poate fi scris în fișierul `README.md`, de exemplu `en/demo2/README.md`.
+În `README.md` al proiectului, cum ar fi `en/demo2/README.md`, se poate scrie conținut.
 
-Rețineți că conținutul acestui fișier nu afișează o schiță a cuprinsului, așa că este recomandat să limitați lungimea și să scrieți o scurtă introducere.
+Rețineți că conținutul acestui fișier nu afișează cuprinsul, așa că este recomandat să limitați lungimea și să scrieți o scurtă introducere.
 
-###### Sloganul Proiectului
+###### Sloganul proiectului
 
-Puteți vedea că `Deme Two` are sloganul proiectului sub meniul derulant și numele proiectului `Your Project slogan`:
+Puteți vedea că `Deme Two` are sloganul proiectului sub meniul derulant și numele proiectului `Your Project slogan`.
 
 ![](https://p.3ti.site/1721276842.avif)
 
-Aceasta corespunde primului rând `en/demo2/README.md`:
+Acest lucru corespunde primului rând din `en/demo2/README.md`:
 
 ```
 # Demo Two : Your Project slogan
 ```
 
-Conținutul de după primele două puncte `:` din titlul de prim nivel al proiectului `README.md` va fi considerat sloganul proiectului.
+Conținutul de după primul punct `:` din titlul de nivelul întâi al `README.md` al proiectului este considerat sloganul proiectului.
 
-Utilizatorii din China, Japonia și Coreea, vă rugăm să rețineți că ar trebui să utilizați `:` puncte de jumătate de lățime în loc de două puncte de lățime completă.
+Utilizatorii din China, Japonia și Coreea, vă rugăm să rețineți să utilizați punctul de jumătate de lățime `:` în loc de două puncte de lățime completă.
 
-##### Cum Să Mutați TOC În Vrac?
+##### Cum să mutați TOC în masă?
 
-`TOC` fișiere trebuie plasate în directorul limbii sursă.
+Fișierele `TOC` trebuie plasate în directorul limbii sursă.
 
 De exemplu, dacă limba sursă este chineza, atunci `TOC` de mai sus este `zh/blog/TOC`.
 
-Dacă limba sursă este modificată, trebuie să mutați în lot cele `TOC` fișiere dintr-o anumită limbă din proiect într-o altă limbă.
+Dacă limba sursă este modificată, trebuie să mutați în masă fișierele `TOC` dintr-o limbă anume din proiect într-o altă limbă.
 
 Puteți consulta următoarele comenzi:
 
@@ -195,4 +197,4 @@ rsync -av --remove-source-files --include='*/' \
 --include='TOC' --exclude='*' en/ zh/
 ```
 
-Vă rugăm să modificați `en/` și `zh/` din comanda de mai sus la codul de limbă.
+Modificați `en/` și `zh/` din comanda de mai sus la codul limbii corespunzător.

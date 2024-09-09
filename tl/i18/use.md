@@ -55,25 +55,9 @@ Ang mga isinaling demo file sa `en` na direktoryo ay isang halimbawa lamang at m
 
 Ipasok ang direktoryo at patakbuhin `i18` upang isalin.
 
-### Magdagdag Ng Mga File Sa Repositoryo
+Bilang karagdagan sa pagsasalin, bubuo din ang programa ng `.i18n/data` folder, mangyaring idagdag ito sa repositoryo.
 
-Bilang karagdagan sa pagsasalin, bubuo din ang programa ng mga sumusunod na file, mangyaring idagdag ang mga ito sa repositoryo.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Kabilang sa mga ito, ang nilalaman ng `.i18n/cache/.gitignore` ay ang mga sumusunod :
-
-```
-**/*
-!**/.gitignore
-```
-
-Nangangahulugan ito na ang lahat ng mga file sa direktoryo `.i18n/cache/` (maliban `.i18n/cache/.gitignore` ) ay binabalewala.
-
-Kung ang iyong version control software ay hindi `git` , mangyaring huwag pansinin ito ayon sa configuration na ito.
+Pagkatapos isalin ang bagong file, bubuo ng bagong data file sa direktoryong ito Tandaang idagdag `git add .` .
 
 ## File Ng Configuration
 

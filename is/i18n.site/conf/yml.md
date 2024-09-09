@@ -1,6 +1,6 @@
 # .i18n/conf.yml
 
-Sniðið fyrir `i18n.site` er `.i18n/conf.yml` .
+Snið fyrir `i18n.site` er `.i18n/conf.yml` .
 
 Fyrir utan stillingarnar [`i18`](/i18) , `ignore:` og `i18n:` , er stillingarskráin sem hér segir:
 
@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Meðal þeirra þýðir `upload` til `ext:` stillingaratriði að aðeins `.md` verður hlaðið upp við birtingu.
@@ -61,7 +63,7 @@ Eftir að þýðingunni er lokið geturðu breytt gildi þýðingar `yml` , en e
 
 Ef aðgangur er að ákveðinni slóð og slóðarforskeyti hennar er ekki stillt í `nav:` , verður `MarkDown` skráin sem samsvarar slóðinni sjálfgefið hlaðin og birt með `Md` sniðmátinu.
 
-Til dæmis, ef `/test` er opnuð og `nav:` er stillt án þessarar slóðar, og síðutungumálið er enska (kóði `en` ), verður `/en/test.md` sjálfgefið hlaðið og birt með sniðmáti `Md` .
+Til dæmis, ef `/test` er opnuð og `nav:` er stillt án þessarar slóðar og síðutungumálið er enska (kóði `en` ), verður `/en/test.md` sjálfgefið hlaðið og birt með sniðmáti `Md` .
 
 Ef `/en/test.md` þessi skrá er ekki til mun sjálfgefin `404` síða birtast.
 
@@ -115,7 +117,7 @@ Hér þýðir `menu: NB demo1,demo2` að nota `NB` sniðmátið til að birta fe
 `NB` er fylgt eftir af færibreytunni `demo1,demo2` sem er send til hennar.
 Athugaðu : ** Það ætti ekki að vera bil ** á undan og eftir kommu `,` á móti `demo1,demo2` .
 
-Samsvarandi skráarskrá fyrir ofangreindar breytur er:
+Fyrir ofangreindar færibreytur er samsvarandi skráarskrá:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,11 +154,11 @@ Næstu tvær línur eru eins og sýnt er á skjámyndinni hér að neðan.
 `news/README.md` samsvarar `News` ,
 `news/begin.md` samsvarar `Our Product is Online !`
 
-`TOC` skrár eru dregnar inn til að gefa til kynna stigveldistengsl útlínunnar og styðja inndrátt á mörgum stigum.
+`TOC` skrár eru dregnar inn til að gefa til kynna stigveldistengsl útlínunnar, styðja inndrátt á mörgum stigum og línu athugasemdir sem byrja á `#` .
 
 ##### Foreldrastigið Skrifar Aðeins Titilinn, Ekki Innihaldið.
 
-Þegar það eru mörg stig inndráttar skrifar yfirstigið aðeins titilinn en ekki innihaldið. Annars verður leturfræði ruglað.
+Þegar það eru mörg stig inndráttar skrifar foreldrastigið aðeins titilinn en ekki innihaldið. Annars verður leturfræði ruglað.
 
 ##### Verkefnið README.md
 
@@ -188,7 +190,7 @@ Til dæmis, ef frummálið er kínverska, þá er `TOC` fyrir ofan `zh/blog/TOC`
 
 Ef frumtungumálinu er breytt þarftu að færa `TOC` skrár á ákveðnu tungumáli í verkefninu á annað tungumál.
 
-Þú getur vísað í eftirfarandi skipanir:
+Þú getur vísað til eftirfarandi skipana:
 
 ```
 rsync -av --remove-source-files --include='*/' \

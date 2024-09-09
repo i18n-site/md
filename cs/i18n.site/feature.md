@@ -1,8 +1,8 @@
-# Vlastnosti Produktu
+# Vlastnosti produktu
 
 ## Integrované překlady `i18`
 
-Program obsahuje vestavěné překlady `i18`. Podrobnosti naleznete v [➔ dokumentu `i18`](/i18).
+Program obsahuje vestavěný překlad `i18`. Podrobnosti naleznete v [➔ dokumentu `i18`](/i18).
 
 ## Automatická shoda s jazykem prohlížeče
 
@@ -20,35 +20,41 @@ Na mobilních zařízeních poskytuje stejně dokonalý čtenářský zážitek.
 
 ## <a rel=id href="#ha" id="ha"></a> Vysoká dostupnost front-endu
 
-`i18n.site` automaticky publikuje obsah webu na `npmjs.com`, využívajíc [jsdelivr.com](//jsdelivr.com), [unpkg.com](//unpkg.com) a další `CDN` pro načítání obsahu z `npm`.
+`i18n.site` publikuje obsah webu ve výchozím nastavení na `npmjs.com` s pomocí [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) a dalších více `CDN` obsahu načtených na `npm` .
 
-Na tomto základě byly přidány zrcadlové zdroje pro pevninskou Čínu, aby čínským uživatelům zajistily stabilní přístup a umožnily dosáhnout **vysoké dostupnosti front-endu**.
+Na tomto základě byly přidány zrcadlové zdroje pro Čínu, což umožňuje čínským uživatelům stabilní přístup a zajišťuje **vysokou dostupnost front-endu**.
 
-Princip je následující: pomocí [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) zachytit požadavky, opakovat neúspěšné požadavky na jiných `CDN` a automaticky povolit nejrychleji reagující zdroj jako výchozí pro načítání.
+Princip je následující: zachytit požadavky s [`service worker`](https://developer.mozilla.org/docs/Web/API/Service_Worker_API) , opakovat neúspěšné požadavky na jiné `CDN` a adaptivně povolit nejrychleji reagující původní web jako výchozí zdroj načítání.
 
 Relevantní kód: [github.com/18x/serviceWorker](https://github.com/i18n-site/18x/tree/main/serviceWorker).
 
 ## Jednostránková aplikace, okamžité načítání
 
-Web využívá architekturu jednostránkové aplikace, což umožňuje okamžité načítání bez nutnosti obnovování stránky.
+Web využívá architekturu jednostránkové aplikace, což zajišťuje okamžité načítání bez nutnosti obnovování stránky.
 
 ## Optimalizováno pro čtenářský zážitek
 
 ### Pečlivě navržený styl
 
-> Krása jednoduchosti je v designu těchto webových stránek dokonalá.
-> Opouští zbytečné dekorace a prezentuje obsah v jeho nejčistší formě.
+> Elegantní jednoduchost je v designu tohoto webu dokonalá.
+> Web se zbavuje zbytečných dekorací a představuje obsah v jeho nejčistší podobě.
 > Jako krátká, ale dojemná báseň, která oslovuje srdce.
 
 <p style="text-align:right">── Autor I18N.SITE</p>
 
 [➔ Klikněte zde pro přehled stylů](/i18n.site/md/styl).
 
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Obrázek výše ukazuje vícejazyčné `RSS` pomocí [inoreader.com](//inoreader.com) `i18n.site` .
+
 ### Načítání online písem, podpora čínštiny
 
-Výchozí nastavení webových stránek zahrnuje [阿里妈妈双轴可变方圆体](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR), [MiSans](https://hyperos.mi.com/font/zh/download/) a další online písma, která zajišťují jednotný čtenářský zážitek napříč různými platformami.
+Výchozí písmo webových stránek zahrnuje [Alimama Double Axial Variable Rectangle](https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR), [MiSans](https://hyperos.mi.com/font/zh/download/) a další online písmo, aby zajistilo jednotný čtenářský zážitek napříč různými platformami.
 
-Současně pro zrychlení načítání jsou písma rozdělena podle frekvence výskytu znaků.
+Za účelem zvýšení rychlosti načítání jsou písmo rozdělena na části podle frekvence výskytu slov.
 
 Relevantní kód: [github.com/i18n-site/font](https://github.com/i18n-site/font).
 
@@ -58,26 +64,26 @@ Při posouvání dolů se horní navigace automaticky skryje.
 
 Při posouvání nahoru se skrytá navigace znovu zobrazí.
 
-Při nečinnosti myši dojde k postupnému zhasínání.
+Při nečinnosti myši se navigace postupně zhasne.
 
-V pravém horním rohu navigačního panelu je tlačítko pro zobrazení na celou obrazovku, které poskytuje ponořený čtenářský zážitek.
+V pravém horním rohu navigačního panelu je tlačítko pro zobrazení na celou obrazovku, které umožňuje ponořit se do čtení dokumentů.
 
 ### Synchronizované zvýraznění aktuální kapitoly v obsahu
 
 Při posouvání pravého obsahu se levý obsah zvýrazní, aby odpovídal aktuální kapitole.
 
-## Moderní detaily
+## Obrané detaily
 
 ### Speciální efekty myši
 
-Při umístění myši na tlačítko v pravé části horní navigace uvidíte efektní speciální efekty.
+Při umístění myši na tlačítko v pravé části horní navigace se objeví efekty.
 
 ### Malý duch na `404` stránce
 
-Na `404` stránce je roztomilý plovoucí duch, který sleduje pohyb myši, [➔ klikněte zde pro zobrazení](/404)
+Na `404` stránce je roztomilý plovoucí duch, který sleduje pohyb myši. [➔ Klikněte zde pro zobrazení](/404)
 
-## Kód open source
+## Kód je open source
 
-[Kód je open source](/i18n.site/src). Pokud máte zájem o účast na vývoji, přihlaste se prosím v [mailing listu](//groups.google.com/u/2/g/i18n-site).
+[Kód je open source](/i18n.site/src). Pokud máte zájem o účast na vývoji, představte se prosím v [mailing listu](//groups.google.com/u/2/g/i18n-site).
 
-Existuje mnoho menších, ale důležitých požadavků. Vývojový tým vám podle vašich technických dovedností přidělí cvičné úkoly a zároveň bude vylepšovat vývojovou dokumentaci.
+Existuje mnoho menších, ale důležitých požadavků. Vývojový tým přidělí úkoly na základě vašich technických dovedností a zároveň vylepšuje vývojovou dokumentaci.

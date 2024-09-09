@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Karaman kadagitoy, `upload` agingga iti `ext:` a configuration item ket kayatna a sawen a `.md` laeng ti mai-upload no agipablaak.
@@ -115,7 +117,7 @@ Ditoy, `menu: NB demo1,demo2` , ket kayatna a sawen ti panagusar ti plantilia ti
 `NB` ket sarunuen ti parametro `demo1,demo2` a naipasa iti daytoy.
 : ** Awan koma dagiti espasyo ** sakbay ken kalpasan ti koma `,` iti `demo1,demo2` .
 
-Ti maitunos a file ti indeks ti direktorio para kadagiti parametro iti ngato ket:
+Para kadagiti parametro iti ngato, ti maitunos a file ti indeks ti direktorio ket:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Ti sumaganad a dua a linia ket kas naipakita iti screenshot iti baba.
 `news/README.md` katupag ti `News` , .
 `news/begin.md` ket katupag ti `Our Product is Online !`
 
-`TOC` a papeles ket nai-indent tapno mangipakita ti hirarkikal a relasion ti balabala ken mangsuporta ti multi-level nga indentation.
+Dagiti `TOC` a papeles ket nai-indent tapno mangipakita ti hirarkikal a relasion ti balabala, mangsuporta ti adu nga antas a panag-indent, ken dagiti komento ti linia a mangrugi iti `#` .
 
 ##### Ti Parent Level Ket Isuratna Laeng Ti Paulo, Saan a Ti Linaon.
 

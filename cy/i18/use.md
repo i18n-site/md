@@ -55,25 +55,9 @@ Mae'r ffeiliau demo wedi'u cyfieithu yn y cyfeiriadur `en` yn enghraifft yn unig
 
 Rhowch y cyfeiriadur a rhedeg `i18` i gyfieithu.
 
-### Ychwanegu Ffeiliau I'r Gadwrfa
+Yn ogystal â'r cyfieithiad, bydd y rhaglen hefyd yn cynhyrchu'r ffolder `.i18n/data` , os gwelwch yn dda ei ychwanegu at y gadwrfa.
 
-Yn ogystal â chyfieithu, bydd y rhaglen hefyd yn cynhyrchu'r ffeiliau canlynol, os gwelwch yn dda eu hychwanegu at y gadwrfa.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Yn eu plith, mae cynnwys `.i18n/cache/.gitignore` fel a ganlyn :
-
-```
-**/*
-!**/.gitignore
-```
-
-Mae hyn yn golygu bod yr holl ffeiliau yng nghyfeiriadur `.i18n/cache/` (ac eithrio `.i18n/cache/.gitignore` ) yn cael eu hanwybyddu.
-
-Os nad yw eich meddalwedd rheoli fersiwn yn `git` , anwybyddwch ef yn ôl y ffurfweddiad hwn.
+Ar ôl cyfieithu'r ffeil newydd, bydd ffeil ddata newydd yn cael ei chynhyrchu yn y cyfeiriadur hwn Cofiwch atodi `git add .` .
 
 ## Ffeil Ffurfweddu
 

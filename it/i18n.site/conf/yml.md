@@ -1,6 +1,6 @@
 # .i18n/conf.yml
 
-Il profilo di configurazione per `i18n.site` è `.i18n/conf.yml`.
+Il file di configurazione per `i18n.site` è `.i18n/conf.yml`.
 
 Ad eccezione delle impostazioni [`i18`](/i18) , `ignore:` e `i18n:` , il file di configurazione è il seguente:
 
@@ -17,27 +17,29 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-tra cui, l'opzione di configurazione `upload` a `ext:` indica che durante la pubblicazione verranno caricati solo i file `.md`.
+tra cui, l'elemento di configurazione `upload` di `ext:` indica che durante la pubblicazione saranno caricati solo i file con estensione `.md`.
 
-## Navigazione in Alto
+## Navigazione in alto
 
-Le opzioni di configurazione `nav:` corrispondono al menu di navigazione nella parte superiore della pagina iniziale.
+Lle opzioni di configurazione `nav:` corrispondono al menu di navigazione in alto nella pagina iniziale.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-tra cui, `i18n: home` corrisponde a `home: Home` nel file `en/i18n.yml`.
+Tra cui, `i18n: home` corrisponde a `home: Home` in `en/i18n.yml`.
 
-Il file `en/i18n.yml` verrà tradotto in altre lingue, ad esempio `zh/i18n.yml`.
+Il file `en/i18n.yml` sarà tradotto in più lingue, come `zh/i18n.yml`.
 
 <img src="//p.3ti.site/1721051689.avif" style="width:320px">
 
-Una volta completata la traduzione, è possibile modificare il valore del file `yml` di traduzione, ma non aggiungere o eliminare le chiavi del file `yml` di traduzione.
+Dopo la traduzione, è possibile modificare i valori delle chiavi `yml` di traduzione, ma non si devono aggiungere o rimuovere chiavi `yml` di traduzione.
 
-### `use: Toc`, Modello di File Singolo (Con Indice)
+### `use: Toc`, template singolo di file (con sommario)
 
-`nav`:
+Nella configurazione `nav`:
 
 ```
   - i18n: home
@@ -45,44 +47,44 @@ Una volta completata la traduzione, è possibile modificare il valore del file `
     url: /
 ```
 
-`use: Toc` significa utilizzare il modello `Toc` per il rendering, ossia il rendering di un singolo modello `Markdown`.
+`use: Toc` indica che si utilizzerà il template `Toc` per il rendering, ovvero il rendering di un singolo template `Markdown`.
 
-`TOC` è l'abbreviazione di `Table of Contents`. Una volta eseguito il rendering di questo modello, la struttura del file `Markdown` verrà visualizzata nella barra laterale.
+`TOC` è l'abbreviazione di `Table of Contents`. Questo template, una volta renderizzato, visualizzerà nella barra laterale la struttura del file `Markdown`.
 
-`url:` rappresenta il percorso del file `Markdown` ( `/` corrisponde alla directory root `/README.md`, questo nome file deve avere un prefisso maiuscolo e un suffisso minuscolo).
+`url:` indica il percorso del file `Markdown` (il `/` corrisponde alla directory radice `/README.md`, il nome del file deve avere il prefisso maiuscolo e il suffisso minuscolo).
 
-### `use: Md`, Modello di File Singolo (Senza Indice)
+### `use: Md`, template singolo di file (senza sommario)
 
-Il modello `Md` è identico al modello `Toc` e entrambi vengono utilizzati per il rendering di un singolo file `Markdown`. Tuttavia, il modello `Md` non mostra l'indice nella barra laterale.
+Il template `Md` è simile al template `Toc` e entrambi vengono utilizzati per il rendering di un singolo file `Markdown`. Ma il template `Md` non visualizza il sommario nella barra laterale.
 
-Puoi modificare `use: Toc` nella configurazione precedente in `use: Md`, eseguire di nuovo `i18n.site` nella directory `md` e poi visitare l'URL di anteprima di sviluppo per osservare le modifiche nella pagina iniziale.
+Puoi modificare `use: Toc` nella configurazione precedente in `use: Md`, eseguire nuovamente `i18n.site` nella directory `md`, e poi visitare l'URL di anteprima dello sviluppo per osservare le modifiche nella pagina iniziale.
 
-### Caricamento Predefinito Senza Percorso di Configurazione
+### Caricamento predefinito senza percorso di configurazione
 
-Se si accede a un determinato percorso e il suo prefisso non è configurato in `nav:`, il file `Markdown` corrispondente al percorso verrà caricato per impostazione predefinita e reso utilizzando il modello `Md`.
+Se si accede a un percorso specifico e il suo prefisso non è configurato in `nav:`, il file `Markdown` corrispondente al percorso verrà caricato per impostazione predefinita e renderizzato utilizzando il template `Md`.
 
-Ad esempio, se si accede a `/test` e `nav:` non è configurato per questo percorso e la lingua della pagina è inglese (codice `en`), verrà caricato per impostazione predefinita `/en/test.md` e reso utilizzando il modello `Md`.
+Ad esempio, se si accede a `/test` e la configurazione `nav:` non include questo percorso e la lingua della pagina è inglese (codice `en`), verrà caricato per impostazione predefinita `/en/test.md` e renderizzato utilizzando il template `Md`.
 
 Se il file `/en/test.md` non esiste, verrà visualizzata la pagina predefinita `404`.
 
 <img src="https://p.3ti.site/1721184299.avif" style="width:360px">
 
-### `use: Doc`, Modello Multi-File
+### `use: Doc`, template multi-file
 
-Nel file di configurazione:
+Nella configurazione del file:
 
 ```
   - i18n: blog
     use: Doc
 ```
 
-Indica l'uso del modello `Doc` per il rendering.
+indica l'uso di `Doc` per il rendering del template.
 
-Il modello `Doc` supporta l'integrazione di più file `Markdown` per generare la struttura dei documenti per progetti singoli o multipli.
+Il template `Doc` supporta l'integrazione di più file `Markdown` per generare sommari di documenti per progetti singoli o multipli.
 
-#### Progetto Singolo (Più File)
+#### Progetto singolo (più file)
 
-`blog` in precedenza è la modalità a progetto singolo del modello `Doc`.
+Il `blog` menzionato sopra è la modalità a progetto singolo di `Doc`.
 
 ```
   - i18n: blog
@@ -92,13 +94,13 @@ Il modello `Doc` supporta l'integrazione di più file `Markdown` per generare la
 
 ##### Quando l'URL È Vuoto, Il Valore Predefinito È i18n
 
-Se non viene specificato `url`, `url` assume il valore predefinito `i18n`. Questa regola si applica anche agli altri modelli.
+Se non viene specificato `url`, `url` assume il valore predefinito `i18n`. Questa regola si applica anche agli altri template.
 
-Il metodo di scrittura sopra è equivalente a `url: blog` e il file corrispondente è `en/blog/TOC`.
+Il metodo di scrittura sopra è equivalente a `url: blog`, e il file corrispondente è `en/blog/TOC`.
 
-#### Molteplici Progetti
+#### Multiprogetti
 
-La configurazione `i18n:doc` nel file `.i18n/conf.yml` è in modalità multiprogetto.
+La configurazione `i18n:doc` in `.i18n/conf.yml` è in modalità multiprogetto.
 
 ```
   - i18n: doc
@@ -108,31 +110,31 @@ La configurazione `i18n:doc` nel file `.i18n/conf.yml` è in modalità multiprog
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-qui, `menu: NB demo1,demo2` indica l'uso del modello `NB` per il rendering del menu a discesa.
+Quindi, `menu: NB demo1,demo2` indica che si utilizzerà il template `NB` per il rendering del menu a tendina.
 
-`NB`, che sta per `Name Brief`, significa che il menu a tendina può visualizzare il nome e lo slogan del progetto.
+`NB` è l'abbreviazione di `Name Brief`, che significa che il menu a tendina può visualizzare il nome e lo slogan del progetto.
 
-`NB` è seguito dai parametri `demo1,demo2` passati a lui.
-Nota: **non ci devono essere spazi** prima e dopo la virgola `,` in `demo1,demo2`.
+`NB` è seguito dai parametri `demo1,demo2` che gli vengono passati.
+Nota: **Non ci devono essere spazi** prima e dopo la virgola `,` in `demo1,demo2`.
 
-Il file di indice della directory corrispondente per i parametri di cui sopra è:
+I parametri sopra menzionati corrispondono al file di indice della directory:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
-#### Indice del Sommario del Sommario
+#### Indice del sommario del catalogo
 
-`i18n.site` eseguirà il plugin `js` `.i18n/hook/after.tran/TOC.js` nel repository demo per leggere il file di indice `TOC` della directory corrispondente alla configurazione del modello `doc` per generare la struttura del file `json` della directory.
+`i18n.site` eseguirà lo script `js` `.i18n/hook/after.tran/TOC.js` nel repository demo per leggere il file di indice del catalogo `TOC` corrispondente alla configurazione del template `doc` per generare la struttura del sommario in `json`.
 
-Se si utilizza il modello `doc`, è necessario disporre di questo plugin.
+Se si utilizza il template `doc`, è necessario avere questo plugin.
 
-Se si inizializza il progetto `i18n.site` da una cartella vuota, ricordare di copiare il progetto demo `.i18n` nella propria directory.
+Se inizializzi il progetto `i18n.site` da una cartella vuota, ricorda di copiare il repository demo `.i18n` nella tua directory.
 
-Il modello `Doc` renderà la struttura del sommario in base al file `json` generato.
+Il template `Doc` renderizzerà la struttura del sommario in base al `json` generato.
 
-##### Spiegazione Dettagliata del Contenuto
+##### Spiegazione dettagliata del contenuto
 
-Il contenuto del file `en/blog/TOC` è il seguente:
+Il contenuto di `en/blog/TOC` è il seguente:
 
 ```
 README.md
@@ -141,32 +143,32 @@ news/README.md
   news/begin.md
 ```
 
-##### Utilizzare il Rientro per Indicare i Livelli
+##### Usare il rientro per indicare i livelli
 
-Il file `README.md` nella prima riga di `en/blog/TOC` corrisponde a `i18n.site` nell'immagine sottostante, che è il nome del progetto.
+`README.md` nella prima riga di `en/blog/TOC` corrisponde a `i18n.site` nell'immagine sottostante, che rappresenta il nome del progetto.
 
-Le due righe successive sono come mostrate nello screenshot qui sotto.
+Le due righe successive sono illustrate nella seguente immagine.
 
 <img src="https://p.3ti.site/1721097381.avif" style="width:320px">
 
-Il file `news/README.md` corrisponde a `News`,
-e `news/begin.md` corrisponde a `Our Product is Online !`
+`news/README.md` corrisponde a `News`
+`news/begin.md` corrisponde a `Our Product is Online !`
 
-Il file `TOC` utilizza il rientro per indicare la relazione gerarchica della struttura e supporta il rientro a più livelli.
+Il file `TOC` utilizza il rientro per indicare la relazione gerarchica della struttura, supporta il rientro su più livelli e i commenti di riga che iniziano con `#`.
 
-##### Il Livello Principale Scrive Solo il Titolo, Senza il Contenuto
+##### Il livello principale scrive solo il titolo, non il contenuto
 
-Quando ci sono più livelli di rientro, il livello principale deve scrivere solo il titolo e non il contenuto. Altrimenti, la tipografia potrebbe essere disturbata.
+Nel caso di più livelli di rientro, il livello principale scrive solo il titolo e non il contenuto, altrimenti la formattazione potrebbe essere disordinata.
 
 ##### Progetto README.md
 
 Il contenuto può essere scritto nel file `README.md` del progetto, ad esempio `en/demo2/README.md`.
 
-Tieni presente che il contenuto di questo file non viene visualizzato nell'indice del sommario, quindi si consiglia di limitare la lunghezza e scrivere una breve introduzione.
+Tieni presente che il contenuto di questo file non mostra una struttura del sommario, quindi si consiglia di limitare la lunghezza e scrivere una breve introduzione.
 
-###### Slogan del Progetto
+###### Slogan del progetto
 
-Puoi vedere che `Deme Two` ha lo slogan del progetto sotto il menu a discesa e il nome del progetto nella struttura del catalogo `Your Project slogan`.
+Puoi vedere che `Deme Two` ha lo slogan del progetto sotto il menu a tendina e il nome del progetto nella struttura del catalogo `Your Project slogan`.
 
 ![](https://p.3ti.site/1721276842.avif)
 
@@ -176,17 +178,17 @@ Ciò corrisponde alla prima riga di `en/demo2/README.md`:
 # Demo Two : Your Project slogan
 ```
 
-Il contenuto dopo i primi due punti `:` del titolo di primo livello del file `README.md` del progetto viene considerato come slogan del progetto.
+Il contenuto dopo i due punti `:` del primo livello del titolo del progetto `README.md` viene considerato come slogan del progetto.
 
-Per gli utenti provenienti dalla Cina, Giappone e Corea, tieni presente che è necessario utilizzare i due punti `:` di metà larghezza anziché i due punti a larghezza intera.
+Gli utenti di Cina, Giappone e Corea devono notare che devono utilizzare i due punti `:` a metà larghezza invece dei due punti a larghezza intera.
 
-##### Come Spostare TOC in Blocco?
+##### Come procedere per spostare il TOC in blocco?
 
-Il file `TOC` deve essere inserito nella directory della lingua di origine.
+Il file `TOC` deve essere posizionato nella directory della lingua di origine.
 
-Ad esempio, se la lingua di origine è il cinese, il file `TOC` sarà `zh/blog/TOC`.
+Ad esempio, se la lingua di origine è il cinese, il `TOC` sopra sarà `zh/blog/TOC`.
 
-Se la lingua di origine viene modificata, è necessario spostare in blocco i file `TOC` di una determinata lingua nel progetto a un'altra lingua.
+Se la lingua di origine viene modificata, è necessario spostare in blocco i file `TOC` di una determinata lingua in un'altra lingua del progetto.
 
 Puoi fare riferimento ai seguenti comandi:
 
@@ -195,4 +197,4 @@ rsync -av --remove-source-files --include='*/' \
 --include='TOC' --exclude='*' en/ zh/
 ```
 
-Modifica `en/` e `zh/` nel comando precedente nel codice della tua lingua.
+Modifica `en/` e `zh/` nel comando precedente con il codice della tua lingua.

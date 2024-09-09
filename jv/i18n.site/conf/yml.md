@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Antarane, item konfigurasi `upload` nganti `ext:` tegese mung `.md` sing bakal diunggah nalika nerbitake.
@@ -110,12 +112,12 @@ Konfigurasi `i18n:doc` saka `.i18n/conf.yml` yaiku mode multi-proyek.
 
 Ing kene, `menu: NB demo1,demo2` , tegese nggunakake cithakan `NB` kanggo nggawe menu gulung mudhun.
 
-`NB` , yaiku singkatan saka `Name Breif` , tegese menu gulung mudhun bisa nampilake jeneng lan slogan proyek kasebut.
+`NB` , sing minangka singkatan saka `Name Breif` , tegese menu gulung mudhun bisa nampilake jeneng lan slogan proyek kasebut.
 
 `NB` ngiring dening parameter `demo1,demo2` liwati menyang.
 Cathetan : ** Ora ana spasi ** sadurunge lan sawise koma `,` ing `demo1,demo2` .
 
-File indeks direktori sing cocog kanggo paramèter ing ndhuwur yaiku:
+Kanggo paramèter ing ndhuwur, file indeks direktori sing cocog yaiku:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Loro baris sabanjure ditampilake ing gambar ing ngisor iki.
 `news/README.md` cocog karo `News` ,
 `news/begin.md` cocog karo `Our Product is Online !`
 
-`TOC` file indentasi kanggo nunjukake hubungan hierarki outline lan ndhukung indentasi multi-level.
+`TOC` file indentasi kanggo nunjukake hubungan hierarkis outline, ndhukung indentasi multi-level, lan komentar baris diwiwiti karo `#` .
 
 ##### Tingkat Wong Tuwa Mung Nulis Judhul, Ora Isi.
 

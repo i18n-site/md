@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Inter ili, `upload` ĝis `ext:` agorda ero signifas, ke nur `.md` estos alŝutitaj dum eldonado.
@@ -115,7 +117,7 @@ La agordo de `i18n:doc` el `.i18n/conf.yml` estas plurprojekta reĝimo.
 `NB` estas sekvata de la parametro `demo1,demo2` pasita al ĝi.
 : ** Ne devus esti spacoj ** antaŭ kaj post la komo `,` en `demo1,demo2` .
 
-La responda dosierujo indeksa dosiero por ĉi-supraj parametroj estas:
+Por ĉi-supraj parametroj, la responda dosierujo indeksa dosiero estas:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ La sekvaj du linioj estas kiel montritaj en la ekrankopio malsupre.
 `news/README.md` respondas al `News` ,
 `news/begin.md` respondas al `Our Product is Online !`
 
-`TOC` dosieroj estas indentitaj por indiki la hierarkian rilaton de la skizo kaj subteni plurnivelan indentadon.
+`TOC` dosieroj estas indentitaj por indiki la hierarkian rilaton de la skizo, subtenas plurnivelan indentaĵon kaj liniajn komentojn komencantajn per `#` .
 
 ##### La Gepatra Nivelo Nur Skribas La Titolon, Ne La Enhavon.
 

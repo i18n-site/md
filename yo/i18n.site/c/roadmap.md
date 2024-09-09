@@ -1,11 +1,14 @@
 # Idagbasoke Igbogun
 
-Awọn ẹya pataki wọnyi wa labẹ idagbasoke:
+## Ti Pari
+
+- [x] kikọ sii RSS
+- [x] search engine ti o dara ju
+
+## Labẹ Idagbasoke
 
 - [ ] Yipada laarin ọpọ awọn ẹya ti awọn iwe aṣẹ
 - [ ] Wiwa ọrọ-kikun iwaju-opin mimọ
-- [ ] kikọ sii RSS
-- [ ] search engine ti o dara ju
 - [ ] Nigbakannaa Titari awọn imudojuiwọn nkan si media awujọ pataki
 - [ ] Imeeli wa si awọn / `web push` Alabapin si awọn imudojuiwọn ọja
 - [ ] Ọrọìwòye lori awọn ìpínrọ article

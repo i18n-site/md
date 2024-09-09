@@ -55,25 +55,9 @@ Klonlaşdyrylandan soň, katalogy giriziň we terjimesini tamamlamak üçin `i18
 
 Katalogy giriziň we terjime etmek üçin `i18` işlediň.
 
-### Ammara Faýl Goşuň
+Terjimeden başga-da, programma `.i18n/data` bukjany hem döreder, ony ammarda goşmagyňyzy haýyş edýäris.
 
-Terjimeden başga-da, programma aşakdaky faýllary hem döreder, olary ammarda goşmagyňyzy haýyş edýäris.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Olaryň arasynda `.i18n/cache/.gitignore` nyň mazmuny aşakdaky ýaly :
-
-```
-**/*
-!**/.gitignore
-```
-
-Bu `.i18n/cache/` katalogdaky ( `.i18n/cache/.gitignore` den başga) ähli faýllaryň hasaba alynmaýandygyny aňladýar.
-
-Wersiýa dolandyryş programma üpjünçiligiňiz `git` däl bolsa, bu konfigurasiýa laýyklykda üns bermäň.
+Täze faýly terjime edensoň, bu katalogda täze maglumat faýly dörediler. `git add .` goşmagy ýatdan çykarmaň.
 
 ## Sazlama Faýly
 

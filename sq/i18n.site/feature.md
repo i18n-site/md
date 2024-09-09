@@ -8,7 +8,7 @@ Programi ka përkthim të integruar `i18` , ju lutemi shihni [➔ `i18` dokument
 
 Gjuha e paracaktuar e faqes së internetit do të përputhet automatikisht me gjuhën e shfletuesit.
 
-Pasi përdoruesi të ndërrojë gjuhët me dorë, zgjedhja e përdoruesit do të mbahet mend.
+Pasi përdoruesi të ndërrojë manualisht gjuhët, zgjedhja e përdoruesit do të mbahet mend.
 
 Kodi i [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -20,7 +20,7 @@ Ekziston edhe një përvojë e përsosur leximi në celular.
 
 ## <a rel=id href="#ha" id="ha"></a> Disponueshmëri e lartë në pjesën e përparme
 
-`i18n.site` do të publikojë përmbajtjen e faqes në `npmjs.com` si parazgjedhje, me ndihmën [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) dhe `CDN` përmbajtjeve të tjera të ngarkuara në `npm` .
+`i18n.site` do të publikojë përmbajtjen e faqes në `npmjs.com` si parazgjedhje, me ndihmën [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) dhe përmbajtjeve të tjera të `CDN` të ngarkuara në `npm` .
 
 Mbi këtë bazë, u shtuan burime pasqyre nga Kina kontinentale për të lejuar përdoruesit kinezë të kenë akses të qëndrueshëm dhe të arrijnë **disponueshmëri të lartë të pjesës së përparme** .
 
@@ -43,6 +43,12 @@ Faqja e internetit miraton një arkitekturë aplikacioni me një faqe, pa rifres
 <p style="text-align:right">I18N.SITE Autor</p>
 
 [➔ Klikoni këtu për të parë një listë të stileve](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Figura e mësipërme tregon shumë gjuhë `RSS` duke përdorur [inoreader.com](//inoreader.com) `i18n.site` .
 
 ### Ngarkoni Fontet Në Internet, Mbështesni Gjuhën Kineze
 
@@ -74,7 +80,7 @@ Zhvendosni miun mbi butonin në anën e djathtë të navigimit të sipërm për 
 
 ### `404` Fantazmë E Vogël
 
-Ekziston një fantazmë e lezetshme lundruese në faqen `404` , sytë e të cilit do të lëvizin me miun, [➔ Klikoni këtu për të parë](/404) ,
+Faqja `404` ka një fantazmë të vogël lundruese, sytë e saj do të lëvizin me miun, [➔ Klikoni këtu për të parë](/404) ,
 
 ## Kodi Me Burim Të Hapur
 

@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Antaranya, item konfigurasi `upload` hingga `ext:` bermakna hanya `.md` akan dimuat naik apabila diterbitkan.
@@ -92,7 +94,7 @@ Menunjukkan menggunakan `Doc` untuk pemaparan templat.
 
 ##### Apabila url Kosong, Ia Lalai Kepada Nilai i18n
 
-Jika `url` tidak ditulis, `url` menjadi lalai kepada nilai `i18n` Peraturan ini juga berkuat kuasa untuk templat lain.
+Jika `url` tidak ditulis, `url` lalai kepada nilai `i18n` Peraturan ini juga berkuat kuasa untuk templat lain.
 
 Kaedah penulisan di atas adalah bersamaan dengan `url: blog` , dan fail yang sepadan ialah `en/blog/TOC` .
 
@@ -115,7 +117,7 @@ Di sini, `menu: NB demo1,demo2` , bermakna menggunakan `NB` templat untuk memapa
 `NB` diikuti oleh parameter `demo1,demo2` yang dihantar kepadanya.
 Nota : ** Tiada ruang ** sebelum dan selepas koma `,` dalam `demo1,demo2` .
 
-Fail indeks direktori yang sepadan untuk parameter di atas ialah:
+Untuk parameter di atas, fail indeks direktori yang sepadan ialah:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Dua baris seterusnya adalah seperti yang ditunjukkan dalam tangkapan skrin di ba
 `news/README.md` sepadan dengan `News` ,
 `news/begin.md` sepadan dengan `Our Product is Online !`
 
-`TOC` fail diinden untuk menunjukkan hubungan hierarki garis besar dan menyokong lekukan berbilang peringkat.
+`TOC` fail diinden untuk menunjukkan hubungan hierarki garis besar, menyokong lekukan berbilang peringkat dan komen baris bermula dengan `#` .
 
 ##### Peringkat Ibu Bapa Hanya Menulis Tajuk, Bukan Kandungan.
 

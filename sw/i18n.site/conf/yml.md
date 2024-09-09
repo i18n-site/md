@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Miongoni mwao, kipengee cha usanidi `upload` hadi `ext:` kinamaanisha kuwa `.md` pekee ndizo zitapakiwa wakati wa uchapishaji.
@@ -59,7 +61,7 @@ Unaweza kurekebisha `use: Toc` katika usanidi ulio hapo juu hadi `use: Md` , end
 
 ### Upakiaji Chaguo-Msingi Bila Njia Ya Usanidi
 
-Ikiwa njia fulani itafikiwa na kiambishi awali cha njia yake hakijasanidiwa katika `nav:` , faili `MarkDown` inayolingana na njia hiyo itapakiwa kwa chaguo-msingi na kutolewa kwa kutumia kiolezo `Md` .
+Ikiwa njia fulani inafikiwa na kiambishi awali cha njia yake hakijasanidiwa katika `nav:` , faili `MarkDown` inayolingana na njia hiyo itapakiwa kwa chaguo-msingi na kutolewa kwa kutumia kiolezo `Md` .
 
 Kwa mfano, ikiwa `/test` imefikiwa, na `nav:` imesanidiwa bila njia hii, na lugha ya ukurasa ni Kiingereza (msimbo wa `en` ), `/en/test.md` itapakiwa kwa chaguo-msingi na kutolewa kwa kutumia kiolezo `Md` .
 
@@ -115,7 +117,7 @@ Hapa, `menu: NB demo1,demo2` , inamaanisha kutumia kiolezo `NB` kutoa menyu kunj
 `NB` inafuatwa na parameta `demo1,demo2` iliyopitishwa kwake.
 Kumbuka : ** Kusiwe na nafasi ** kabla na baada ya koma `,` kwa `demo1,demo2` .
 
-Faili inayolingana ya saraka ya vigezo hapo juu ni:
+Kwa vigezo hapo juu, faili ya index ya saraka inayolingana ni:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Mistari miwili inayofuata ni kama inavyoonyeshwa kwenye picha ya skrini hapa chi
 `news/README.md` inalingana na `News` ,
 `news/begin.md` inalingana na `Our Product is Online !`
 
-Faili `TOC` zimewekwa ndani ili kuonyesha uhusiano wa daraja la muhtasari na kusaidia ujongezaji wa viwango vingi.
+Faili `TOC` zimewekwa ndani ili kuonyesha uhusiano wa daraja la muhtasari, kusaidia ujongezaji wa viwango vingi, na maoni ya mstari yanayoanza na `#` .
 
 ##### Kiwango Cha Mzazi Huandika Tu Mada, Sio Yaliyomo.
 
@@ -162,7 +164,7 @@ Wakati kuna viwango vingi vya ujongezaji, kiwango cha mzazi huandika kichwa peke
 
 Maudhui yanaweza kuandikwa katika kipengele `README.md` , kama vile `en/demo2/README.md` .
 
-Kumbuka kwamba maudhui ya faili hii haionyeshi jedwali la muhtasari wa yaliyomo, kwa hiyo inashauriwa kupunguza urefu na kuandika utangulizi mfupi.
+Kumbuka kuwa yaliyomo kwenye faili hii haionyeshi jedwali la muhtasari wa yaliyomo, kwa hivyo inashauriwa kupunguza urefu na kuandika utangulizi mfupi.
 
 ###### Kauli Mbiu Ya Mradi
 

@@ -55,25 +55,9 @@ I `en`-katalogen finns översättningsdemonstrationfiler, som bara är exempel o
 
 Gå in i katalogen och kör `i18` för att översätta.
 
-### Lägg till filer i versionskontroll
+Förutom översättningen kommer programmet också att skapa mappen `.i18n/data`, var vänlig lägg till den i versionssystemet.
 
-Programmet genererar utöver översättningar följande filer, som du bör lägga till i versionskontrollen.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Därmed, innehållet i `.i18n/cache/.gitignore` ser ut så här:
-
-```
-**/*
-!**/.gitignore
-```
-
-Detta betyder att alla filer i `.i18n/cache/`-katalogen ignoreras (utom `.i18n/cache/.gitignore`).
-
-om din versionskontrollprogramvara inte är `git`, konfigurera den enligt denna logik.
+Efter att ha översatt nya filer kommer det att genereras nya datafiler i denna katalog, kom ihåg att använda `git add .` för att lägga till dem.
 
 ## Konfigurationsfil
 

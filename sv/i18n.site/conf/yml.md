@@ -17,17 +17,19 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
-Där betyder `upload`-alternativet `ext:` att endast `.md`-filer laddas upp vid publicering.
+Därmed betyder `upload`-konfigurationens `ext:` att endast `.md`-filer laddas upp vid publicering.
 
-## Toppnavigering nav
+## Toppnavigering: nav
 
-`nav:`-konfigurationsalternativen motsvarar navigeringsmenyn överst på startsidan.
+`nav:`-konfigurationsalternativen motsvarar den övre navigeringsmenyn på startsidan.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
-Däribland motsvarar `i18n: home` `home: Home` i `en/i18n.yml`.
+Bland dem motsvarar `i18n: home` `home: Home` i `en/i18n.yml`.
 
 `en/i18n.yml` kommer att översättas till flera språk, såsom `zh/i18n.yml`.
 
@@ -35,7 +37,7 @@ Däribland motsvarar `i18n: home` `home: Home` i `en/i18n.yml`.
 
 När översättningen är klar kan du ändra översättningens `yml`-värden, men du får inte lägga till eller ta bort några `yml`-nycklar.
 
-### `use: Toc`, enskild sidomall (med innehållsförteckning)
+### `use: Toc`, enskild mall (med innehållsförteckning)
 
 I `nav`-konfigurationen:
 
@@ -47,21 +49,21 @@ I `nav`-konfigurationen:
 
 `use: Toc` betyder att använda `Toc`-mallen för rendering, vilket innebär att rendera en enskild `Markdown`-mall.
 
-`TOC` är en förkortning av `Table of Contents`. När denna mall renderas visas denna `Markdown`-fills innehållsförteckning i sidofältet.
+`TOC` är en förkortning av `Table of Contents`. När denna mall renderas kommer denna `Markdown`-fills innehållsförteckning att visas i sidofältet.
 
-`url:` representerar sökvägen till `Markdown`-filen (`/` motsvarar rotkatalogen `/README.md`, detta filnamn måste börja med versaler och slutar med gemener).
+`url:` representerar `Markdown`-filens sökväg ( `/` motsvarar rotkatalogen `/README.md`, filnamnet börjar med en stor bokstav och slutar med en liten bokstav).
 
-### `use: Md`, enskild sidomall (utan innehållsförteckning)
+### `use: Md`, enskild mall (utan innehållsförteckning)
 
 `Md`-mallen och `Toc`-mallen är desamma och båda används för att rendera en enskild `Markdown`-fil. Men `Md`-mallen visar inte innehållsförteckningen i sidofältet.
 
-Du kan ändra `use: Toc` i konfigurationen ovan till `use: Md`, köra `i18n.site` igen i `md`-katalogen och sedan besöka utvecklingsförhandsgransknings-URL:en för att observera förändringarna på startsidan.
+Du kan ändra `use: Toc` i den tidigare konfigurationen till `use: Md`, köra `i18n.site` igen i `md`-katalogen och sedan besöka utvecklingsförhandsgranskningens webbadress för att observera förändringarna på startsidan.
 
-### Ingen konfigurationsväg för standardladdning
+### Standardinläsning utan konfigurerad sökväg
 
-Om en viss sökväg anropas och dess prefix inte är konfigurerat i `nav:`, laddas som standard den motsvarande `Markdown`-filen och renderas med `Md`-mallen.
+Om en viss sökväg anropas och dess sökvägsprefix inte är konfigurerat i `nav:`, laddas som standard den `Markdown`-fil som motsvarar sökvägen och renderas med `Md`-mallen.
 
-Till exempel, om `/test` anropas och `nav:` inte är konfigurerat för denna sökväg och sidans språk är engelska (kod `en`), laddas `/en/test.md` som standard och renderas med `Md`-mallen.
+Till exempel, om `/test` anropas och `nav:` inte är konfigurerat för denna sökväg och sidspråket är engelska (kod `en`), laddas `/en/test.md` som standard och renderas med `Md`-mallen.
 
 Om `/en/test.md`-filen inte finns, visas standard `404`-sidan.
 
@@ -76,13 +78,13 @@ I konfigurationsfilen:
     use: Doc
 ```
 
-Det innebär att `Doc` används för mallrendering.
+Detta indikerar att `Doc` används för mallrendering.
 
 `Doc`-mallen stöder integration av flera `Markdown`-filer för att generera en eller flera projektets dokumentationssidor.
 
 #### Enstaka projekt (flera filer)
 
-`blog` ovan är ett exempel på `Doc`-mallens enkla projektläge.
+`blog` som nämns ovan är ett enskilt projektläge för `Doc`.
 
 ```
   - i18n: blog
@@ -92,9 +94,9 @@ Det innebär att `Doc` används för mallrendering.
 
 ##### När url Är Tom Har Den Som Standard Värdet i18n
 
-Om `url` inte anges, är `url` som standard lika med värdet för `i18n`. Denna regel tillämpas också på andra mallar.
+Om `url` inte anges, har `url` standardvärdet `i18n`. Denna regel gäller också för andra maller.
 
-Ovanstående skrivning motsvarar `url: blog`, och den motsvarande filen är `en/blog/TOC`.
+Ovanstående skrivning motsvarar `url: blog`, och dess motsvarande fil är `en/blog/TOC`.
 
 #### Flera projekt
 
@@ -108,27 +110,27 @@ Ovanstående skrivning motsvarar `url: blog`, och den motsvarande filen är `en/
 
 <img src="https://p.3ti.site/1721275191.avif" width="320px">
 
-Här betyder `menu: NB demo1,demo2` att `NB`-mallen används för att rendera rullgardinsmenyn.
+Här betyder `menu: NB demo1,demo2` att du använder `NB`-mallen för att rendera rullgardinsmenyn.
 
 `NB` är en förkortning av `Name Brief`, vilket innebär att rullgardinsmenyn kan visa projektets namn och slogan.
 
-`NB` följs av parametrarna `demo1,demo2`.
-Observera: ** Det får inte finnas några mellanslag ** runt kommatecknet `,` i `demo1,demo2`.
+`NB` följs av parametern `demo1,demo2`.
+Observera: ** Det får inte finnas några mellanslag ** före och efter kommatecknet `,` i `demo1,demo2`.
 
-Den motsvarande katalogindexfilen för dessa parametrar är:
+För ovanstående parametrar är motsvarande katalogindexfil:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
 
 #### TOC-innehållsförteckning index
 
-`i18n.site` kör `js`-pluginet `.i18n/hook/after.tran/TOC.js` i demolagret för att läsa `TOC`-katalogindexfilen som motsvarar `Doc`-mallkonfigurationen och generera en `json`-innehållsförteckning.
+`i18n.site` kommer att köra `js`-pluginet `.i18n/hook/after.tran/TOC.js` i demolagret för att läsa `TOC`-katalogindexfilerna som motsvarar `doc`-mallkonfigurationen och generera en `json`-innehållsförteckning.
 
-Om du använder `Doc`-mallen måste du ha denna plugin.
+Om du använder `doc`-mallen måste du ha denna plugin.
 
 Om du initialiserar ett `i18n.site`-projekt från en tom mapp, kom ihåg att kopiera `.i18n` från demolagret till din katalog.
 
-`Doc`-mallen renderar innehållsförteckningen baserat på den genererade `json`.
+`Doc`-mallen kommer att rendera innehållsförteckningen baserat på den genererade `json`.
 
 ##### Detaljerad innehållsförklaring
 
@@ -143,7 +145,7 @@ news/README.md
 
 ##### Använd indrag för att indikera nivåer
 
-`README.md` i första raden av `en/blog/TOC` motsvarar `i18n.site` i figuren nedan, vilket är projektnamnet.
+`README.md` i första raden av `en/blog/TOC` ovan motsvarar `i18n.site` i figuren nedan, vilket är projektnamnet.
 
 De följande två raderna visas som i skärmdumpen nedan.
 
@@ -152,17 +154,17 @@ De följande två raderna visas som i skärmdumpen nedan.
 `news/README.md` motsvarar `News`
 `news/begin.md` motsvarar `Our Product is Online !`
 
-`TOC`-filer använder indrag för att indikera konturens hierarkiska struktur och stödjer flera nivåers indrag.
+`TOC`-filer använder indrag för att indikera konturens hierarkiska struktur, stödjer flera nivåers indrag och rader som börjar med `#` som kommentarer.
 
-##### På föräldernivå skrivs endast titeln, inte innehållet
+##### På föräldranivå skrivs endast titeln, inte innehållet
 
-När det finns flera nivåer av indrag skrivs endast titeln på den överordnade nivån, inte innehållet, annars kan layouten bli förstörd.
+När det finns flera nivåer av indrag skrivs endast titeln på föräldranivån, inte innehållet, annars kan layouten bli förstörd.
 
-##### Projekt README.md
+##### Projektets README.md
 
 Innehåll kan skrivas i projektets `README.md`, till exempel `en/demo2/README.md`.
 
-Observera att denna fil inte visar en innehållsförteckning, så det rekommenderas att hålla texten kort och koncis.
+Observera att innehållet i denna fil inte visar en innehållsförteckning, så det rekommenderas att hålla längden kort och skriva en kort introduktion.
 
 ###### Projektslogan
 
@@ -176,7 +178,7 @@ Detta motsvarar den första raden i `en/demo2/README.md`:
 # Demo Two : Your Project slogan
 ```
 
-Innehållet efter det första kolonet `:` i den första nivåns rubrik i projektets `README.md` betraktas som projektets slogan.
+Innehållet efter det första kolonet `:` i titeln på första nivån i projektets `README.md` betraktas som projektets slogan.
 
 Användare från Kina, Japan och Korea, observera att ni bör använda halvbreddskolon `:` istället för fullbreddskolon.
 
@@ -184,7 +186,7 @@ Användare från Kina, Japan och Korea, observera att ni bör använda halvbredd
 
 `TOC`-filer måste placeras i katalogen för källspråket.
 
-Till exempel, om källspråket är kinesiska, är `TOC` som följer `zh/blog/TOC`.
+Till exempel, om källspråket är kinesiska, är `TOC` ovan `zh/blog/TOC`.
 
 Om källspråket ändras måste du flytta `TOC`-filerna för ett visst språk i projektet till ett annat språk.
 

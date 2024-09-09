@@ -20,7 +20,7 @@ També hi ha una experiència de lectura perfecta al telèfon mòbil.
 
 ## <a rel=id href="#ha" id="ha"></a> Alta disponibilitat frontal
 
-`i18n.site` publicarà el contingut del lloc a `npmjs.com` per defecte, amb l'ajuda de [jsdelivr.com](//jsdelivr.com) [unpkg.com](//unpkg.com) i altres `CDN` continguts carregats a `npm` .
+`i18n.site` publicarà el contingut del lloc a `npmjs.com` de manera predeterminada, amb l'ajuda de [jsdelivr.com](//jsdelivr.com) [unpkg.com](//unpkg.com) i altres continguts múltiples `CDN` carregats a `npm` .
 
 Sobre aquesta base, es van afegir fonts miralls de la Xina continental per permetre als usuaris xinesos tenir un accés estable i aconseguir **una alta disponibilitat frontal** .
 
@@ -37,12 +37,18 @@ El lloc web adopta una arquitectura d'aplicació d'una sola pàgina, sense actua
 ### Estil Ben Dissenyat
 
 > La bellesa de la senzillesa s'interpreta perfectament en el disseny web d'aquest lloc web.
-> Abandona la decoració innecessària i presenta el contingut en estat pur.
+> Abandona la decoració superflua i presenta el contingut en estat pur.
 > Com un poema preciós, tot i que és breu, toca el cor de la gent.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Feu clic aquí per veure una llista d'estils](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+La imatge de dalt mostra `RSS` en diversos idiomes [inoreader.com](//inoreader.com) la subscripció `i18n.site` .
 
 ### Carregueu Tipus De Lletra en Línia, Admet El Xinès
 
@@ -58,7 +64,7 @@ Desplaceu-vos cap avall i la navegació superior s'amagarà automàticament.
 
 Desplaceu-vos cap amunt i tornarà a aparèixer la navegació oculta.
 
-S'apagarà quan el ratolí no es mogui.
+S'esvairà quan el ratolí no es mogui.
 
 Hi ha un botó de pantalla completa a la cantonada superior dreta de la barra de navegació per crear una experiència immersiva de lectura de documents.
 
@@ -74,10 +80,10 @@ Passeu el ratolí per sobre del botó de la part dreta de la navegació superior
 
 ### `404` Petit Fantasma
 
-Hi ha un petit fantasma flotant a la pàgina `404` , els ulls del qual es mouran amb el ratolí, [➔ Feu clic aquí per veure](/404) ,
+La pàgina `404` té un bonic fantasma flotant, els seus ulls es mouran amb el ratolí, [➔ Feu clic aquí per veure](/404) ,
 
 ## Codi De Codi Obert
 
 [El codi és de codi obert](/i18n.site/src) Si esteu interessats a participar en el desenvolupament, si us plau, presenteu-vos a [la llista de correu](//groups.google.com/u/2/g/i18n-site) .
 
-Hi ha molts petits requisits que són importants però no urgents. L'equip de desenvolupament assignarà tasques de pràctica segons la tecnologia en què us conegueu i millorarà els documents de desenvolupament mentre assigna els requisits.
+Hi ha molts requisits petits que són importants, però no urgents. L'equip de desenvolupament assignarà tasques pràctiques en funció de les tecnologies en què us conegueu i millorarà els documents de desenvolupament mentre assigna els requisits.

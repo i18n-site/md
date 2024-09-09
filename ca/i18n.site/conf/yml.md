@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Entre ells, un element de configuració `upload` a `ext:` significa que només se'n carregaran `.md` quan es publiquin.
@@ -115,7 +117,7 @@ Aquí, `menu: NB demo1,demo2` , significa utilitzar la plantilla `NB` per repres
 `NB` va seguit del paràmetre `demo1,demo2` que se li passa.
 Nota : ** No hi hauria d'haver espais ** abans i després de la coma `,` a `demo1,demo2` .
 
-El fitxer d'índex de directori corresponent per als paràmetres anteriors és:
+Per als paràmetres anteriors, el fitxer d'índex del directori corresponent és:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,11 +154,11 @@ Les dues línies següents són com es mostra a la captura de pantalla següent.
 `news/README.md` correspon a `News` ,
 `news/begin.md` correspon a `Our Product is Online !`
 
-Els fitxers `TOC` estan sagnats per indicar la relació jeràrquica de l'esquema i donar suport al sagnat de diversos nivells.
+Els fitxers `TOC` estan sagnats per indicar la relació jeràrquica de l'esquema, admeten el sagnat de diversos nivells i els comentaris de línia que comencen per `#` .
 
 ##### El Nivell Principal Només Escriu El Títol, No El Contingut.
 
-Quan hi ha diversos nivells de sagnat, el nivell principal només escriu el títol i no el contingut. En cas contrari, la tipografia es desordenarà.
+Quan hi ha diversos nivells de sagnat, el nivell principal només escriu el títol i no el contingut. En cas contrari, la tipografia s'esfondrarà.
 
 ##### Projecte README.md
 

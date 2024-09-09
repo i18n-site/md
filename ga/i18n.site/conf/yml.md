@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Ina measc, ciallaíonn `upload` go `ext:` mhír chumraíochta nach n-uaslódálfar ach `.md` cheann agus iad á bhfoilsiú.
@@ -115,7 +117,7 @@ Ciallaíonn `NB` , arb é an giorrúchán é `Name Breif` , gur féidir leis an 
 `NB` ina dhiaidh sin cuirtear an paraiméadar `demo1,demo2` ar aghaidh chuige.
 Tabhair faoi deara : ** Níor cheart go mbeadh spásanna ** roimh agus tar éis an camóg `,` in `demo1,demo2` .
 
-Is é an comhad innéacs eolaire comhfhreagrach do na paraiméadair thuas:
+Maidir leis na paraiméadair thuas, is é an comhad innéacs eolaire comhfhreagrach:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -126,9 +128,9 @@ Déanfaidh `i18n.site` `js` plug-in `.i18n/hook/after.tran/TOC.js` a fhorghníom
 
 Má úsáideann tú `doc` teimpléad, ní mór duit an breiseán seo a bheith agat.
 
-Má chuireann tú tús le tionscadal `i18n.site` ó fhillteán folamh, cuimhnigh ar thionscadal taispeána `.i18n` a chóipeáil chuig d’eolaire.
+Má chuireann tú tús le tionscadal `i18n.site` ó fhillteán folamh, cuimhnigh ar thionscadal taispeána `.i18n` a chóipeáil chuig do eolaire.
 
-Déanfaidh teimpléad `Doc` imlíne an chláir ábhair bunaithe ar an `json` ginte.
+Déanfaidh an teimpléad `Doc` imlíne ar an gclár ábhar bunaithe ar an `json` ginte.
 
 ##### Míniú Mionsonraithe Ar an Ábhar
 
@@ -152,7 +154,7 @@ Tá an chéad dá líne eile mar a thaispeántar sa screenshot thíos.
 Freagraíonn `news/README.md` do `News` ,
 Freagraíonn `news/begin.md` do `Our Product is Online !`
 
-Tá `TOC` comhad eangaithe chun gaol ordlathach an imlíne a léiriú agus chun tacú le eangú il-leibhéil.
+`TOC` comhad atá eangaithe chun gaol ordlathach an imlíne a léiriú, chun tacú le eangú il-leibhéil, agus tráchtanna líne ag tosú le `#` .
 
 ##### Ní Scríobhann Leibhéal Na Dtuismitheoirí Ach an Teideal, Ní an T-Ábhar.
 
@@ -166,7 +168,7 @@ Tabhair faoi deara nach léiríonn ábhar an chomhaid seo imlíne tábla na n-á
 
 ###### Mana Tionscadail
 
-Is féidir leat a fheiceáil go bhfuil a chliblíne tionscadail ag `Deme Two` faoin roghchlár anuas agus imlíne catalóige `Your Project slogan` :
+Is féidir leat a fheiceáil go bhfuil a chliblíne tionscadail `Your Project slogan` `Deme Two` faoin roghchlár anuas agus imlíne catalóige ainm an tionscadail : .
 
 ![](https://p.3ti.site/1721276842.avif)
 
@@ -186,7 +188,7 @@ Ní mór `TOC` comhad a chur in eolaire na teanga foinse.
 
 Mar shampla, más Sínis an teanga fhoinseach, is é `TOC` thuas ná `zh/blog/TOC` .
 
-Má athraítear an teanga foinse, ní mór duit na `TOC` gcomhad i dteanga áirithe sa tionscadal a bhogadh go teanga eile i mbaisceanna.
+Má athraítear an teanga foinse, ní mór duit na `TOC` gcomhad de theanga áirithe sa tionscadal a bhogadh go teanga eile sa bhaisc.
 
 Is féidir leat tagairt a dhéanamh do na horduithe seo a leanas:
 

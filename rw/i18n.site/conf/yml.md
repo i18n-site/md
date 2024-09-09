@@ -17,13 +17,15 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Muri byo, ibintu `upload` kugeza kuri `ext:` iboneza bivuze ko `.md` gusa bizashyirwaho mugihe cyo gutangaza.
 
 ## Kugendagenda Hejuru nav
 
-`nav:` Iboneza Iboneza, bihuye na menu yo kugendagenda hejuru yurupapuro rwurugo.
+`nav:` iboneza ryiboneza, bihuye na menu yo kugendagenda hejuru yurupapuro rwurugo.
 
 <img src="//p.3ti.site/1721051426.avif" style="width:320px">
 
@@ -49,11 +51,11 @@ Ubusobanuro bumaze kurangira, urashobora guhindura agaciro k'ubuhinduzi `yml` , 
 
 `TOC` ni impfunyapfunyo ya `Table of Contents` Iyo iyi shusho yatanzwe, urucacagu rwiyi dosiye `Markdown` ruzerekanwa kuruhande.
 
-`url:` yerekana inzira ya dosiye ya `Markdown` ( `/` ihuye numuzi wububiko bwa `/README.md` , iri zina rya dosiye risaba inyuguti nkuru ninyuguti nto).
+`url:` yerekana inzira ya dosiye ya `Markdown` ( `/` ihuye numuzi wububiko `/README.md` , iri zina rya dosiye risaba inyuguti nkuru ninyuguti nto).
 
 ### `use: Md` , Dosiye Imwe Yicyitegererezo (Nta Rupapuro)
 
-Inyandikorugero `Md` na `Toc` inyandikorugero nimwe kandi byombi bikoreshwa mugutanga dosiye `Markdown` . Ariko inyandikorugero `Md` ntabwo yerekana urucacagu kuruhande.
+Inyandikorugero `Md` hamwe nicyitegererezo `Toc` nimwe kandi byombi bikoreshwa mugutanga dosiye `Markdown` . Ariko inyandikorugero `Md` ntabwo yerekana urucacagu kuruhande.
 
 Urashobora guhindura `use: Toc` muburyo bwavuzwe haruguru kuri `use: Md` , ukore `i18n.site` mububiko `md` , hanyuma usure URL ibanziriza iterambere kugirango urebe impinduka kurugo.
 
@@ -98,7 +100,7 @@ Uburyo bwo kwandika hejuru buhwanye na `url: blog` , kandi dosiye ihuye ni `en/b
 
 #### Imishinga Myinshi
 
-Iboneza rya `i18n:doc` kuri `.i18n/conf.yml` nuburyo bwinshi bwimishinga.
+Iboneza rya `i18n:doc` kuri `.i18n/conf.yml` nuburyo bwimishinga myinshi.
 
 ```
   - i18n: doc
@@ -115,7 +117,7 @@ Hano, `menu: NB demo1,demo2` , bisobanura gukoresha inyandikorugero `NB` kugiran
 `NB` ikurikirwa na parameter `demo1,demo2` yayinyujije.
 : ** Ntihakagombye kubaho umwanya ** mbere na nyuma ya koma `,` muri `demo1,demo2` .
 
-Ububiko bwerekana ububiko bwa dosiye kubipimo byavuzwe haruguru ni:
+Kubipimo byavuzwe haruguru, dosiye yerekana ububiko bwa dosiye ni:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Imirongo ibiri ikurikira nkuko bigaragara mumashusho hepfo.
 `news/README.md` ihuye na `News` ,
 `news/begin.md` ihuye na `Our Product is Online !`
 
-Amadosiye `TOC` yatanzwe kugirango yerekane isano iri hagati yurucacagu kandi ishyigikire urwego rwinshi.
+Amadosiye `TOC` yatanzwe kugirango yerekane isano iri hagati yurucacagu, ishyigikire urwego rwinshi, hamwe nibitekerezo bitangirira kuri `#` .
 
 ##### Urwego Rwababyeyi Rwandika Gusa Umutwe, Ntabwo Ibirimo.
 
@@ -176,7 +178,7 @@ Ibi bihuye numurongo wambere `en/demo2/README.md` :
 # Demo Two : Your Project slogan
 ```
 
-Ibirimo nyuma yumurongo wambere wa `:` wurwego rwambere rwumutwe wumushinga `README.md` bizafatwa nkigikorwa cyumushinga.
+Ibirimo nyuma yumurongo wambere wa `:` wurwego rwambere rwumutwe wumushinga `README.md` bizafatwa nkicyerekezo cyumushinga.
 
 Abakoresha baturutse mubushinwa, Ubuyapani na Koreya, nyamuneka menya ko ugomba gukoresha igice cyubugari bwa colon `:` aho gukoresha ubugari bwuzuye.
 

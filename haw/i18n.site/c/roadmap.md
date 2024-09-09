@@ -1,11 +1,14 @@
 # Hoʻolālā Hoʻomohala
 
-Ke kūkulu ʻia nei nā hiʻohiʻona nui:
+## Ua Pau
+
+- [x] hānai RSS
+- [x] ʻenekini huli
+
+## Ma Lalo O Ka Hoʻomohala ʻana
 
 - [ ] Ke hoʻololi nei ma waena o nā mana he nui o nā palapala
 - [ ] Huli kikokikona piha mua
-- [ ] hānai RSS
-- [ ] ʻenekini huli
 - [ ] I ka manawa like, e hoʻolele i nā mea hou o ka ʻatikala i ka media kaiapili nui
 - [ ] `web push` ka leka uila i nā mea hoʻohana /
 - [ ] Manaʻo ma nā paukū ʻatikala

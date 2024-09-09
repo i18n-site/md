@@ -4,7 +4,7 @@
 
 Bernameyê wergerandina `i18` -yê çêkirî ye, ji kerema xwe ji bo karanîna taybetî [➔ `i18` belgeyê](/i18) bibînin.
 
-## Zimanê Gerokê Bixweber Li Hev Bikin
+## Xweser Bi Zimanê Gerokê Li Hev Bikin
 
 Zimanê xwerû yê malperê dê bixweber bi zimanê gerokê re li hev bike.
 
@@ -20,7 +20,7 @@ Li ser têlefona desta jî ezmûnek xwendina bêkêmasî heye.
 
 ## <a rel=id href="#ha" id="ha"></a> Ber-end hebûna bilind
 
-`i18n.site` dê naveroka malperê ji hêla `npmjs.com` ve biweşîne, bi [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) û `CDN` naverokên din ên li ser `npm` hatine barkirin.
+`i18n.site` dê naveroka malperê ji hêla `npmjs.com` ve biweşîne, bi [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) û pirjimar `CDN` ê ku li ser `npm` hatî barkirin.
 
 Li ser vê bingehê, çavkaniyên neynikê yên ji axa Chinaînê hatin zêdekirin da ku bikarhênerên Chineseînî xwedan gihîştina bi îstîqrar bin û bigihîjin **berdestbûna pêşîn a bilind** .
 
@@ -37,12 +37,18 @@ Malper mîmariya serîlêdanê ya yek-rûpelî, bêyî nûvekirina dema guheztin
 ### Şêweyek Baş Hatî Sêwirandin
 
 > Bedewiya sadebûnê di sêwirana malpera vê malperê de bêkêmasî tê şîrove kirin.
-> Ew dev ji xemlên nehewce berdide û naverokê di forma xwe ya herî pak de pêşkêş dike.
+> Ew dev ji xemlên zêde berdide û naverokê di forma xweya herî pak de pêşkêş dike.
 > Mîna helbesteke xweş, her çendî kurt be jî, dilê mirov dixemilîne.
 
 <p style="text-align:right">I18N.SITE Nivîskar</p>
 
 [➔ Li vir bikirtînin da ku navnîşek şêwazan bibînin](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Wêneyê li jor pirzimanî `RSS` bi karanîna abonetiya `i18n.site` nîşan dide [inoreader.com](//inoreader.com)
 
 ### Fontên Serhêl Barkirin, Çînî Piştgirî Bikin
 
@@ -58,7 +64,7 @@ Li jêr bigerin û navîgasyon jorîn bixweber vedişêre.
 
 Bigerin jor û navîgasyon veşartî dê dîsa xuya bibe.
 
-Dema ku mişk nelive ew ê biqelişe.
+Dema ku mişk nelive ew ê wenda bibe.
 
 Li quncika jorîn a rastê ya barika navîgasyonê bişkokek tev-ekran heye ku ezmûnek xwendina belgeya berbiçav biafirîne.
 
@@ -70,14 +76,14 @@ Dema ku naverokê li milê rastê bigerin, xêza li milê çepê dê di heman de
 
 ### Bandorên Mişkî
 
-Moşka xwe li ser bişkoka li milê rastê yê navîgasyon jorîn bihêlin da ku hûn bandorên taybetî yên xweş bibînin.
+Moşka xwe li ser bişkoka li milê rastê yê navîgasyon jorîn bihêlin da ku bandorên taybetî yên xweş bibînin.
 
 ### `404` Giyanê Piçûk
 
-Li ser rûpela `404` ê giyanek gemarî ya xweşik heye, ku çavên wî dê bi mişkê re tevbigerin, [➔ Ji bo dîtinê li vir bikirtînin](/404) ,
+`404` rûpel xwedan giyanek hûrik a xweşik e, çavên wî dê bi mişkê re tevbigerin, [➔ Ji bo dîtinê li vir bikirtînin](/404) ,
 
 ## Koda Çavkaniya Vekirî
 
 [Koda çavkaniyek vekirî ye](/i18n.site/src) Heke hûn dixwazin beşdarî pêşkeftinê bibin, ji kerema xwe xwe bi [navnîşa posteyê](//groups.google.com/u/2/g/i18n-site) bidin nasîn.
 
-Gelek hewcedariyên piçûk hene ku girîng in lê ne lezgîn in Tîma pêşkeftinê dê li gorî teknolojiya ku hûn jê re baş in peywirên pratîkê destnîşan bikin, û dema ku hewcedariyên destnîşan dikin, belgeyên pêşkeftinê baştir bikin.
+Gelek hewcedariyên piçûk hene ku girîng in lê ne bilez in Tîma pêşkeftinê dê li ser bingeha teknolojiyên ku hûn jê re baş in, peywirên destan destnîşan bike, û dema ku hewcedariyên destnîşan dike, belgeyên pêşkeftinê baştir bike.

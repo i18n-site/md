@@ -17,6 +17,8 @@ nav:
     use: Doc
   - i18n: blog
     use: Doc
+addon:
+  - i18n.addon/toc
 ```
 
 Dorënner heescht `upload` bis `ext:` Konfiguratiounsartikel datt nëmmen `.md` eropgeluede ginn beim Verëffentlechen.
@@ -45,7 +47,7 @@ Nodeems d'Iwwersetzung ofgeschloss ass, kënnt Dir de Wäert vun der Iwwersetzun
     url: /
 ```
 
-`use: Toc` heescht Rendering mat engem `Toc` Schabloun, wat eng eenzeg `Markdown` Schabloun rendert.
+`use: Toc` heescht Rendering mat enger `Toc` Schabloun, déi eng eenzeg `Markdown` Schabloun rendert.
 
 `TOC` ass d'Ofkierzung vun `Table of Contents` Wann dës Schabloun rendert gëtt, gëtt d'Kontur vun dëser `Markdown` Datei an der Sidebar ugewisen.
 
@@ -92,7 +94,7 @@ Gëtt un `Doc` fir Schablounrendering ze benotzen.
 
 ##### Wann d'URL Eidel Ass, Setzt Se Als Standard Op De Wäert Vun i18n
 
-Wann `url` net geschriwwe gëtt, gëtt `url` Standard op de Wäert vun `i18n` Dës Regel trëtt och fir aner Schablounen a Kraaft.
+Wann `url` net geschriwwe gëtt, gëtt `url` Standard op de Wäert vun `i18n` Dës Regel trëtt och a Kraaft fir aner Schablounen.
 
 Déi uewe genannte Schreifmethod ass gläichwäerteg mat `url: blog` , a seng entspriechend Datei ass `en/blog/TOC` .
 
@@ -115,7 +117,7 @@ Hei, `menu: NB demo1,demo2` , heescht d' `NB` Schabloun ze benotzen fir den Drop
 `NB` gëtt gefollegt vum Parameter `demo1,demo2` deen derbäi ass.
 Opgepasst : ** Et sollt keng Plazen ** virum an nom Komma `,` op `demo1,demo2` sinn.
 
-Déi entspriechend Verzeechnesindexdatei fir déi uewe genannte Parameteren ass:
+Fir déi uewe genannte Parameteren ass déi entspriechend Verzeechnesindexdatei:
 
 * `en/demo1/TOC`
 * `en/demo2/TOC`
@@ -152,7 +154,7 @@ Déi nächst zwou Zeilen si wéi am Screenshot hei ënnen gewisen.
 `news/README.md` entsprécht `News` ,
 `news/begin.md` entsprécht `Our Product is Online !`
 
-`TOC` Dateien ginn agedréckt fir d'hierarchesch Relatioun vum Kontur unzeweisen an Multi-Level Indentatioun z'ënnerstëtzen.
+`TOC` Dateien ginn indentéiert fir d'hierarchesch Relatioun vum Kontur unzeweisen, Multi-Level Indentatioun z'ënnerstëtzen, a Zeilkommentarer mat `#` unzefänken.
 
 ##### Den Elterendeel Schreift Nëmmen Den Titel, Net Den Inhalt.
 
@@ -180,7 +182,7 @@ Den Inhalt nom éischte Colon `:` vum éischten Niveau Titel vum Projet `README.
 
 Benotzer aus China, Japan a Korea, notéiert w.e.g. datt Dir d'Halschent-Breet Colon `:` amplaz vu Vollbreed Colon benotze sollt.
 
-##### Wéi Réckelen TOC Am Bulk?
+##### Wéi Réckelen Ech TOC Am Bulk?
 
 `TOC` Dateien mussen am Verzeechnes vun der Quellsprooch gesat ginn.
 

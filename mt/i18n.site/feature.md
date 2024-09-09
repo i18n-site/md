@@ -8,7 +8,7 @@ Il-programm fih `i18` traduzzjoni, jekk jogħġbok ara [➔ dokument `i18`](/i18
 
 Il-lingwa default tal-websajt awtomatikament taqbel mal-lingwa tal-browser.
 
-Wara li l-utent jaqleb il-lingwi manwalment, l-għażla tal-utent tibqa’ mfakkar.
+Wara li l-utent jaqleb il-lingwi manwalment, l-għażla tal-utent tibqa' mfakkra.
 
 [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) relatat :
 
@@ -37,12 +37,18 @@ Il-websajt jadotta arkitettura ta' applikazzjoni ta' paġna waħda, mingħajr eb
 ### Stil Iddisinjat Tajjeb
 
 > Is-sbuħija tas-sempliċità hija interpretata perfettament fid-disinn tal-web ta 'din il-websajt.
-> Jabbanduna dekorazzjoni bla bżonn u jippreżenta kontenut fil-forma l-aktar pura tiegħu.
+> Tabbanduna dekorazzjoni superfluwa u tippreżenta kontenut fil-forma l-aktar pura tagħha.
 > Bħal poeżija sabiħa, għalkemm hija qasira, tmiss qalb in-nies.
 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Ikklikkja hawn biex tara lista ta' stili](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+L-istampa ta' hawn fuq turi multi-lingwa `RSS` bl-użu ta [inoreader.com](//inoreader.com) abbonament `i18n.site` .
 
 ### Tagħbija Fonts Online, Appoġġ Ċiniż
 
@@ -58,7 +64,7 @@ Skrollja 'l isfel u n-navigazzjoni ta' fuq tinħeba awtomatikament.
 
 Skrollja 'l fuq u n-navigazzjoni moħbija terġa' tidher.
 
-Se jisparixxi meta l-maws ma jkunx miexi.
+Se fade out meta l-maws ma jkunx miexi.
 
 Hemm buttuna ta 'skrin sħiħ fir-rokna ta' fuq tal-lemin tal-bar tan-navigazzjoni biex toħloq esperjenza ta 'qari ta' dokumenti immersiva.
 
@@ -80,4 +86,4 @@ Hemm fantat żgħir ħelu f'wiċċ l-ilma fuq il-paġna `404` , li għajnejh se 
 
 [Il-kodiċi huwa open source](/i18n.site/src) Jekk inti interessat li tipparteċipa fl-iżvilupp, jekk jogħġbok daħħal lilek innifsek fil [-lista tal-posta](//groups.google.com/u/2/g/i18n-site) .
 
-Hemm ħafna rekwiżiti żgħar li huma importanti iżda mhux urġenti It-tim ta 'żvilupp se jassenja kompiti ta' prattika skond it-teknoloġija li int tajjeb fiha, u jtejjeb id-dokumenti ta 'żvilupp filwaqt li jassenja r-rekwiżiti.
+Hemm ħafna rekwiżiti żgħar li huma importanti iżda mhux urġenti It-tim tal-iżvilupp se jassenja kompiti prattiċi bbażati fuq it-teknoloġiji li int tajjeb fihom, u jtejjeb id-dokumenti tal-iżvilupp filwaqt li jassenja r-rekwiżiti.

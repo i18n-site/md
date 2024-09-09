@@ -8,7 +8,7 @@ Ko programa oguereko `i18` ñembohasa incorporado, ehecha [➔ `i18` kuatia](/i1
 
 Pe página web ñe’ẽ tee ojoajúta ijeheguiete pe kundahára ñe’ẽ ndive.
 
-Pojoapy ombohasa rire ipo rupive ñe’ẽ, imandu’áta puruhára oiporavóvare.
+Pojoapy ombohasa rire ipo rupive ñe’ẽ, ojegueromandu’áta puruhára oiporavóva.
 
 Código [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee) :
 
@@ -37,12 +37,18 @@ Ko página web oadopta peteĩ arquitectura aplicación peteĩ página rehegua, n
 ### Estilo Ojejapo Porãva
 
 > Pe iporãva sencillez rehegua oñeinterpreta porãiterei pe diseño web ko página web-pe.
-> Oheja decoración innecesaria ha opresenta contenido iforma ipotîvévape.
+> Oheja decoración superflua ha opresenta contenido iforma ipotîvévape.
 > Ñe’ẽpoty porãicha, mbyky ramo jepe, opoko tapichakuéra korasõre.
 
 <p style="text-align:right">── Ñe’ẽpoty ha purahéi I18N.SITE</p>
 
 [➔ Emboguejy ko'ápe rehecha haguã peteĩ lista estilo rehegua](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ta'anga yvategua ohechauka heta ñe'ẽ `RSS` [inoreader.com](//inoreader.com) suscripción `i18n.site` .
 
 ### Ekarga Umi Fuente en Línea, Eipytyvõ Chino
 
@@ -80,4 +86,4 @@ Oĩ peteĩ fantasma michĩ ha lindo otyryrýva pe `404` página-pe, hesa omýita
 
 Pe [código](//groups.google.com/u/2/g/i18n-site) [haꞌehína código abierto](/i18n.site/src) .
 
-Oĩ heta mba’e ojejeruréva michĩva iñimportánteva ha katu ndaha’éiva pya’e Pe equipo desarrollo rehegua ome’ẽta tembiapo práctica rehegua según pe tecnología nde ikatupyrýva, ha omoporãvéta umi kuatia desarrollo rehegua oasigna aja umi mba’e ojejeruréva.
+Oĩ heta mba’e ojejeruréva michĩva iñimportánteva ha katu ndaha’éiva pya’e Pe equipo de desarrollo ome’ẽta tembiapo po rupive umi tecnología nde ikatupyrýva rehe, ha omoporãvéta umi kuatia desarrollo rehegua oasigna aja umi mba’e ojejeruréva.

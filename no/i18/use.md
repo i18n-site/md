@@ -55,25 +55,9 @@ De oversatte demofilene i `en`-katalogen er bare eksempler og kan slettes.
 
 Gå inn i katalogen og kjør `i18` for å oversette.
 
-### Legg til filer i versjonskontroll
+Programmet genererer i tillegg til oversettelsen også `.i18n/data`-mappen. Legg den til i versjonskontrollsystemet.
 
-I tillegg til oversettelsen, vil programmet også generere følgende filer, vennligst legg dem til i versjonskontrollen.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Blant dem er innholdet i `.i18n/cache/.gitignore` som følger:
-
-```
-**/*
-!**/.gitignore
-```
-
-Dette betyr at alle filer i katalogen `.i18n/cache/` (unntatt `.i18n/cache/.gitignore`) ignoreres.
-
-Hvis ditt versjonskontrollsystem ikke er `git`, vennligst ignorer dette i henhold til denne konfigurasjonen.
+Etter å ha oversatt en ny fil, vil det bli opprettet en ny datafil i denne katalogen. Husk å bruke `git add .` for å legge til endringene.
 
 ## Konfigurasjonsfil
 

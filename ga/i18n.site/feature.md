@@ -20,7 +20,7 @@ Tá taithí léitheoireachta foirfe ar an bhfón póca freisin.
 
 ## <a rel=id href="#ha" id="ha"></a> Fáil ard ar an gceann tosaigh
 
-Foilseoidh `i18n.site` ábhar an tsuímh chuig `npmjs.com` de réir réamhshocraithe, le cabhair ó [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) agus inneachar `CDN` eile luchtaithe ar `npm` .
+Foilseoidh `i18n.site` ábhar an tsuímh chuig `npmjs.com` de réir réamhshocraithe, le cabhair ó [jsdelivr.com](//jsdelivr.com) , [unpkg.com](//unpkg.com) agus inneachar iolrach `CDN` eile arna luchtú ar `npm` .
 
 Ar an mbonn seo, cuireadh foinsí scátháin ó mhórthír na Síne leis chun ligean d'úsáideoirí na Síne rochtain chobhsaí a bheith acu agus **infhaighteacht ard tosaigh** a bhaint amach.
 
@@ -43,6 +43,12 @@ Glacann an láithreán gréasáin ailtireacht feidhmchláir aon leathanach, gan 
 <p style="text-align:right">── I18N.SITE</p>
 
 [➔ Cliceáil anseo chun liosta stíleanna a fheiceáil](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Taispeánann an pictiúr thuas iltheanga `RSS` ag [inoreader.com](//inoreader.com) síntiús `i18n.site` .
 
 ### Lódáil Clónna Ar Líne, Tacaigh Le Sínis
 
@@ -74,10 +80,10 @@ Hover do luch thar an gcnaipe ar thaobh na láimhe deise den nascleanúint barr 
 
 ### `404` Taibhse Beag
 
-Tá taibhse beag gleoite ar snámh ar an leathanach `404` , a bhogfaidh a shúile leis an luch, [➔ Cliceáil anseo chun é a fheiceáil](/404) ,
+Tá taibhse beag ar snámh ag `404` leathanach, bogfaidh a shúile leis an luch, [➔ Cliceáil anseo chun é a fheiceáil](/404) ,
 
 ## Cód Foinse Oscailte
 
 [Tá an cód foinse oscailte](/i18n.site/src) [.](//groups.google.com/u/2/g/i18n-site)
 
-Tá go leor ceanglais bheaga ann atá tábhachtach ach gan a bheith práinneach.
+Tá go leor ceanglais bheaga ann atá tábhachtach ach níl siad práinneach. Sannfaidh an fhoireann forbartha tascanna láimhe bunaithe ar na teicneolaíochtaí a bhfuil tú go maith acu, agus feabhsóidh siad na doiciméid forbartha agus na ceanglais á sannadh.

@@ -55,25 +55,9 @@ Txantiloi biltegiko direktorioaren egitura honakoa da
 
 Sartu direktorioa eta exekutatu `i18` itzultzeko.
 
-### Gehitu Fitxategiak Biltegian
+Itzulpenaz gain, programak `.i18n/data` karpeta ere sortuko du, mesedez, gehitu biltegian.
 
-Itzulpenaz gain, programak ondorengo fitxategiak ere sortuko ditu, mesedez, gehitu biltegian.
-
-```
-.i18n/hash
-.i18n/cache/.gitignore
-```
-
-Horien artean, `.i18n/cache/.gitignore` ren edukia honako hau da :
-
-```
-**/*
-!**/.gitignore
-```
-
-Horrek esan nahi du `.i18n/cache/` direktorioko fitxategi guztiak ( `.i18n/cache/.gitignore` izan ezik) ez direla aintzat hartzen.
-
-Zure bertsioak kontrolatzeko softwarea `git` ez bada, mesedez, ez ikusi egin konfigurazio honen arabera.
+Fitxategi berria itzuli ondoren, datu-fitxategi berri bat sortuko da direktorio honetan. Gogoratu `git add .` eranstea.
 
 ## Konfigurazio Fitxategia
 

@@ -8,7 +8,7 @@ He whakamaoritanga `i18` te kaupapa, tirohia [➔ `i18` tuhinga](/i18) mo te wha
 
 Ko te reo taunoa o te paetukutuku ka orite aunoa ki te reo o te kaitirotiro.
 
-Whai muri i te huri a te kaiwhakamahi i nga reo, ka maumaharatia te whiringa a te kaiwhakamahi.
+I muri i te huri a te kaiwhakamahi i nga reo, ka maumaharatia te whiringa a te kaiwhakamahi.
 
 Waehere e pa ana : [github.com/i18n-site/18x/src/lang.coffee](https://github.com/i18n-site/18x/blob/main/src/lang.coffee)
 
@@ -20,7 +20,7 @@ He wheako panui tino pai ano i runga i te waea pukoro.
 
 ## <a rel=id href="#ha" id="ha"></a> Mua-mutunga teitei te waatea
 
-`i18n.site` ka whakaputa i te ihirangi pae ki `npm` `npmjs.com` [unpkg.com](//unpkg.com) te taunoa, me te awhina `CDN` [jsdelivr.com](//jsdelivr.com)
+`i18n.site` ka whakaputa i `npm` ihirangi pae ki `CDN` `npmjs.com` [unpkg.com](//unpkg.com) te taunoa, me te awhina o [jsdelivr.com](//jsdelivr.com)
 
 I runga i tenei kaupapa, i taapirihia nga puna whakaata mai i te tuawhenua o Haina kia taea ai e nga kaiwhakamahi Hainamana te uru pumau me te whakatutuki i **te waatea o mua** .
 
@@ -37,12 +37,18 @@ Ka whakamahia e te paetukutuku he hoahoanga tono wharangi kotahi, kaore he whaka
 ### He Ahua Pai Te Hoahoa
 
 > Ko te ataahua o te ngawari ka tino whakamaoritia i roto i te hoahoa paetukutuku o tenei paetukutuku.
-> Ka whakarerea e ia te whakapaipai koretake me te whakaatu i nga ihirangi i roto i tona ahua parakore.
+> Ka whakarerea e ia te whakapaipai nui me te whakaatu i nga ihirangi i roto i tona ahua tino parakore.
 > Pērā i te oriori ataahua, ahakoa he poto, ka pa ki te ngakau o te tangata.
 
 <p style="text-align:right">── I18N.SITE Kaituhi</p>
 
 [➔ Paatohia a konei kia kite i te rarangi o nga momo ahua](/i18n.site/md/styl) .
+
+### `RSS`
+
+![](//p.3ti.site/1725541085.avif)
+
+Ko te pikitia i runga ake nei e whakaatu ana i te reo-maha `RSS` e whakamahi ana [inoreader.com](//inoreader.com) te ohaurunga `i18n.site` .
 
 ### Utaina Nga Momotuhi Ipurangi, Tautoko I Te Hainamana
 
@@ -74,10 +80,10 @@ Whakaparohia to kiore ki runga i te paatene kei te taha matau o te whakaterenga 
 
 ### `404` Wairua Iti
 
-Kei te wharangi `404` te kehua iti orotika, ka korikori ona kanohi me te kiore, [➔ Paatohia a konei ki te tiro](/404) ,
+`404` te wharangi he kehua maanu iti orotika, ka korikori ona kanohi me te kiore, [➔ Paatohia a konei ki te tiro](/404) ,
 
 ## Waehere Puna Tuwhera
 
-[He puna tuwhera te waehere](/i18n.site/src) Mena kei te pirangi koe ki te whai waahi ki te whakawhanaketanga, tena koa whakauru mai koe ki [te rarangi mēra](//groups.google.com/u/2/g/i18n-site) .
+[He puna tuwhera te waehere](/i18n.site/src) Mena kei te pirangi koe ki te whai waahi ki te whakawhanaketanga, tena koa whakauru mai ki [te rarangi mēra](//groups.google.com/u/2/g/i18n-site) .
 
-He maha nga whakaritenga iti he mea nui engari ehara i te mea ohorere Ka whakatauhia e te roopu whanaketanga nga mahi whakangungu i runga i te hangarau e pai ana koe, me te whakapai ake i nga tuhinga whanaketanga i te wa e tohatoha ana nga whakaritenga.
+He maha nga whakaritenga iti he mea nui engari ehara i te mea ohorere Ka whakatauhia e te roopu whanaketanga nga mahi-a-ringa i runga i nga hangarau e pai ana koe, me te whakapai ake i nga tuhinga whanaketanga i te wa e tohatoha ana nga whakaritenga.
