@@ -1,6 +1,7 @@
 @!3O6b-ov1h9WkpgYa7CQCmZtFZrCuu1RJktcf8wIIOxldWu7wm_Dl3otVRk2l-ipB5J2RxFRUZYM0Bxp$NnXxH29To8GaI-_6gmJN7FR!3riTHsD0to1QNFs3k7QpW$!eAcsw$8cb_4e99fJWDm-DY6EHKtxBczaLy6H!Ff
 - i18n.site:
   - conf:
+    - addon.md#VCByJ
     - foot.md#0N8n9V
     - seo.md#0N8n9V
     - ver.md#0N8n9V
@@ -9,6 +10,7 @@
     - fmt.md#0N8n9V
     - ide.md#0N8n9V
     - styl.md#0N8n9V
+  - README.md#VCByJ
   - cli.md#0N8n9V
   - feature.md#0N8n9V
   - qa.md#0N8n9V
