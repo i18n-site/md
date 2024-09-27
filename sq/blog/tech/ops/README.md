@@ -1,1 +1,0 @@
-# Funksionimi Dhe Mirëmbajtja

@@ -1,3 +1,0 @@
-# Szerver telepítése
-
-## Szerver kiválasztása

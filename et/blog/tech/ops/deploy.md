@@ -1,3 +1,0 @@
-# Serveri Juurutamine
-
-## Serveri Valik

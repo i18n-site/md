@@ -1,1 +1,0 @@
-# Adwumayɛ Ne Nsiesie

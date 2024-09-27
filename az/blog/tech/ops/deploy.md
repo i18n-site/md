@@ -1,3 +1,0 @@
-# Server Yerləşdirilməsi
-
-## Server Seçimi

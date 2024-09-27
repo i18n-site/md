@@ -1,1 +1,0 @@
-# Tembiporu Pyahu

@@ -1,3 +1,0 @@
-# Deplwaman Sèvè
-
-## Seleksyon Sèvè

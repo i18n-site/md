@@ -1,3 +1,0 @@
-# Postavljanje Poslužitelja
-
-## Izbor Poslužitelja

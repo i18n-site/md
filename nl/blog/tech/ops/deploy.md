@@ -1,3 +1,0 @@
-# Serverimplementatie
-
-## Serverkeuze

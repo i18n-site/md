@@ -1,3 +1,0 @@
-# Namestitev Strežnika
-
-## Izbira Strežnika

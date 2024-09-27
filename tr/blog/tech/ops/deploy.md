@@ -1,3 +1,0 @@
-# Sunucu Dağıtımı
-
-## Sunucu Seçimi

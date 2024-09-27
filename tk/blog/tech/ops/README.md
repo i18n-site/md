@@ -1,1 +1,0 @@
-# Işleýiş We Tehniki Hyzmat

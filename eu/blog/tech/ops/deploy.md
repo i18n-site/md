@@ -1,3 +1,0 @@
-# Zerbitzariaren Hedapena
-
-## Zerbitzariaren Hautaketa

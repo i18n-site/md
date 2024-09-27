@@ -1,3 +1,0 @@
-# Postavljanje Servera
-
-## Izbor Servera

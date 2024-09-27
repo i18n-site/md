@@ -1,3 +1,0 @@
-# Imscaradh Freastalaí
-
-## Roghnú Freastalaí

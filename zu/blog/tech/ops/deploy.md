@@ -1,3 +1,0 @@
-# Ukuthunyelwa Kweseva
-
-## Ukukhetha Iseva

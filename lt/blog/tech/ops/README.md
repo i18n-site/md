@@ -1,1 +1,0 @@
-# Eksploatacija Ir Priežiūra

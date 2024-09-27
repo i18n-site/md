@@ -1,1 +1,0 @@
-# Operasion Ken Pannakamantener

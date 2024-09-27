@@ -1,1 +1,0 @@
-# Funzionamentu È Mantenimentu

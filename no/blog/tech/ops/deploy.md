@@ -1,3 +1,0 @@
-# Serverplassering
-
-## Serverutvalg

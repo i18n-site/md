@@ -1,3 +1,0 @@
-# Dabeşkirina Serverê
-
-## Hilbijartina Serverê

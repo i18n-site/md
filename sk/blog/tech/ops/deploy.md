@@ -1,3 +1,0 @@
-# Nasadenie Servera
-
-## Výber Servera

@@ -1,3 +1,0 @@
-# Palvelimen käyttöönotto
-
-## Palvelimen valinta

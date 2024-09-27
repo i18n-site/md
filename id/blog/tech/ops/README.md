@@ -1,1 +1,0 @@
-# Operasi Dan Pemeliharaan

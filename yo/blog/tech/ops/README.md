@@ -1,1 +1,0 @@
-# Isẹ Ati Itọju

@@ -1,3 +1,0 @@
-# Server Ynset
-
-## Server Seleksje

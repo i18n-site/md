@@ -1,3 +1,0 @@
-# Kerahan Pelayan
-
-## Pemilihan Pelayan

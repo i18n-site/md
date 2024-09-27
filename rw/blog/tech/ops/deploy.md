@@ -1,3 +1,0 @@
-# Seriveri Yoherejwe
-
-## Guhitamo Seriveri

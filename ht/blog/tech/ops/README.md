@@ -1,1 +1,0 @@
-# Operasyon Ak Antretyen

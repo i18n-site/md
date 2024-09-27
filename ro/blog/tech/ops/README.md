@@ -1,1 +1,0 @@
-# Operare și Întreținere

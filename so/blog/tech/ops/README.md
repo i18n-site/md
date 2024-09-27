@@ -1,1 +1,0 @@
-# Hawlgalka Iyo Dayactirka

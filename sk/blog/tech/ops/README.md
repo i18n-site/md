@@ -1,1 +1,0 @@
-# Prevádzka a Údržba

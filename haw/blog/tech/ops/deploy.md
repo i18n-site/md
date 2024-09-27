@@ -1,3 +1,0 @@
-# Hoʻolālā Kikowaena
-
-## Koho Kikowaena

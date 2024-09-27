@@ -1,3 +1,0 @@
-# Implementarea serverului
-
-## Selecția serverului

@@ -1,3 +1,0 @@
-# Server Deployment
-
-## Sevha Sarudzo

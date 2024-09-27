@@ -1,1 +1,0 @@
-# Operatio Et Sustentatio

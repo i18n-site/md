@@ -1,3 +1,0 @@
-# Servidorpa Mastariynin
-
-## Servidor Akllay

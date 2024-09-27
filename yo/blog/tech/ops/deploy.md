@@ -1,3 +1,0 @@
-# Ifiranṣẹ Olupin
-
-## Aṣayan Olupin

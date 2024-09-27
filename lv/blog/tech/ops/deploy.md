@@ -1,3 +1,0 @@
-# Servera Izvietošana
-
-## Servera Izvēle

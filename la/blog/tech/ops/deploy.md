@@ -1,3 +1,0 @@
-# Servo Instruere
-
-## Servo Delectu

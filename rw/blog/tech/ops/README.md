@@ -1,1 +1,0 @@
-# Gukora No Kubungabunga

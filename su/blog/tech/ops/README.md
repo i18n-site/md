@@ -1,1 +1,0 @@
-# Operasi Jeung Pangropéa

@@ -1,1 +1,0 @@
-# ürün Çalıştırma ve Bakım

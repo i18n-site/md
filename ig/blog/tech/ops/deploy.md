@@ -1,3 +1,0 @@
-# Nbunye Nkesa
-
-## Nhọrọ Nkesa

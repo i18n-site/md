@@ -1,1 +1,0 @@
-# Operasyon at Pagpapanatili

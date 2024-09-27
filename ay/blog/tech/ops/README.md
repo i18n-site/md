@@ -1,1 +1,0 @@
-# Operación Ukatxa Mantenimiento Ukanaka

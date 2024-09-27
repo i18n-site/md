@@ -1,3 +1,0 @@
-# Serverimplementering
-
-## Serverudvælgelse

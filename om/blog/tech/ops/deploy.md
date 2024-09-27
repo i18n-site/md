@@ -1,3 +1,0 @@
-# Bobbaa Sarvarii
-
-## Filannoo Sarvarii

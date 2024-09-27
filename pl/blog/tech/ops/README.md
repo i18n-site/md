@@ -1,1 +1,0 @@
-# Obsługa techniczna

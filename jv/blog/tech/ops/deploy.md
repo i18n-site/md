@@ -1,3 +1,0 @@
-# Penyebaran Server
-
-## Pilihan Server

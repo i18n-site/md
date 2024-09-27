@@ -1,1 +1,0 @@
-# Funkciado Kaj Bontenado

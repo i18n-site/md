@@ -1,3 +1,0 @@
-# Serverio Diegimas
-
-## Serverio Pasirinkimas

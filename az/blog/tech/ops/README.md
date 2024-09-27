@@ -1,1 +1,0 @@
-# İstismar Və Texniki Xidmət

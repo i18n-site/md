@@ -1,3 +1,0 @@
-# Nasazení serveru
-
-## Výběr serveru

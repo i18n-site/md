@@ -1,1 +1,0 @@
-# Operación Y Mantenimiento Nisqa

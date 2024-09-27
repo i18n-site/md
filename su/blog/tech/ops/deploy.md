@@ -1,3 +1,0 @@
-# Deployment Server
-
-## Pilihan Server

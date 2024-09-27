@@ -1,1 +1,0 @@
-# Operazzjoni U Manutenzjoni
