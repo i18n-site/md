@@ -3,7 +3,7 @@
 DIR=$(realpath $0) && DIR=${DIR%/*}
 cd $DIR
 set -ex
-
+mkdir -p out/ol/htm
 cd out/ol/htm
 targets=(
   "baidu:/i18n"
