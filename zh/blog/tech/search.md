@@ -25,7 +25,15 @@ https://www.fusejs.io
 
 https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries
 
-并发加载, 几`MB`的文档, 一秒索引
+并发加载, 几`MB`的文档, 一两秒完成索引
+
+
+https://github.com/weixsong/elasticlunr.js
+https://lunrjs.com/guides/index_prebuilding.html
+
+`2.1KB`
+
+`25KB`
 
 ## 代码库
 
@@ -37,7 +45,11 @@ https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-
 
 ## 前缀搜索
 
-## 按需搜索
+## 按需加载搜索结果
 
-## IndexedDB 的高并发写入
+### 全匹配
+
+### 部分匹配
+
+## IndexedDB 高并发写入
 
