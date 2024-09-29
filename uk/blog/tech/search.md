@@ -2,4 +2,6 @@
 
 ## Послідовність
 
-![](https://p.3ti.site/1727600475.avif)
+Автоматичний багатомовний纯粹前端 інвертований пошук з відображенням результатів
+
+<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>

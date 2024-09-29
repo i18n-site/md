@@ -2,4 +2,6 @@
 
 ## ക്രമം
 
-![](https://p.3ti.site/1727600475.avif)
+ഓട്ടോമാറ്റിക് മൾട്ടി-ലാംഗ്വേജ് പ്യുവർ ഫ്രണ്ട്-എൻഡ് ഇൻവെർട്ടഡ് തിരയൽ
+
+<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>

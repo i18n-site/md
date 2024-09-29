@@ -2,4 +2,6 @@
 
 ## sequence
 
-![](https://p.3ti.site/1727600475.avif)
+အလိုအလျောက် ဘာသာစကားပေါင်းစုံ သန့်စင်သော ရှေ့ဆုံးကို ပြောင်းပြန်လှန်ထားသော ရှာဖွေမှု
+
+<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
