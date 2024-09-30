@@ -6,27 +6,27 @@ Bir neçə həftəlik inkişafdan sonra [i18n.site](//i18n.site) (sırf statik m
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Bu məqalə `i18n.site` tam mətnli axtarış texnologiyasının tətbiqini paylaşacaq. [i18n.site](//i18n.site) axtarış effektini yaşaya bilərsiniz.
+Bu məqalə, axtarış effektini [i18n.site](//i18n.site) üçün `i18n.site` tam mətnli axtarışın texniki tətbiqini paylaşacaq.
 
-Kod açıq mənbə [axtarış nüvəsi](//github.com/i18n-site/ie/tree/main/qy) [İnteraktiv interfeys](//github.com/i18n-site/plugin/tree/main/qy) /
+Açıq mənbə kodu : [Axtarış nüvəsi](//github.com/i18n-site/ie/tree/main/qy) / [İnteraktiv interfeys](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Serversiz Tam Mətnli Axtarış Həllərinin Nəzərdən Keçirilməsi
 
-Sırf statik olan sənədlər/şəxsi bloqlar kimi kiçik vebsaytlar üçün, şübhəsiz ki, özünüz tərəfindən tam mətnli axtarış backend yaratmaq çox ağırdır və xidmətlər olmadan tam mətn axtarışı, şübhəsiz ki, daha yaxşı çəkidir.
+Sənədlər/şəxsi bloqlar kimi kiçik və orta ölçülü sırf statik veb-saytlar üçün öz-özünə qurulmuş tam mətnli axtarış backendinin yaradılması çox ağırdır və xidmətsiz tam mətn axtarışı daha çox yayılmış seçimdir.
 
-Mövcud serversiz tam mətnli axtarış həlləri iki geniş kateqoriyaya bölünür.
+Serversiz tam mətnli axtarış həlləri iki geniş kateqoriyaya bölünür:
 
-Bunlardan biri [algolia.com](//algolia.com) o, tam mətnli axtarış komponentlərini təqdim edir.
+Birincisi, oxşar [algolia.com](//algolia.com)
 
-Bu cür xidmətlər ödəniş tələb edir və vebsayt uyğunluğu ilə bağlı problemlər səbəbindən materik Çində istifadəçilər üçün əlçatan deyil.
+Bu cür xidmətlər axtarış həcminə görə ödəniş tələb edir və vebsayta uyğunluq kimi problemlərə görə materik Çindəki istifadəçilər üçün çox vaxt əlçatmaz olur.
 
 O, oflayn istifadə edilə bilməz, intranetdə istifadə edilə bilməz və böyük məhdudiyyətlərə malikdir. Bu məqalə çox müzakirə olunmur.
 
 İkincisi, sırf front-end tam mətn axtarışıdır.
 
-Daha çox məşhur olan tam mətnli axtarışlara və [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) daxildir [lunrjs](https://lunrjs.com)
+Tez-tez istifadə [lunrjs](https://lunrjs.com) tam mətnli axtarışlara və [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) daxildir.
 
-`lunrjs` İndekslərin qurulmasının iki yolu var, lakin hər ikisinin öz problemləri var.
+`lunrjs` İndekslərin qurulmasının iki yolu var və hər ikisinin öz problemləri var.
 
 1. Əvvəlcədən qurulmuş indeks faylları
 
@@ -38,6 +38,8 @@ Daha çox məşhur olan tam mətnli axtarışlara və [ ElasticLunr.js ] [https:
 
    İndeksin yaradılması hesablama baxımından intensiv işdir, ona hər dəfə daxil olduqda onu yenidən qurmaq aşkar gecikmələrə və zəif istifadəçi təcrübəsinə səbəb olacaq.
 
+---
+
 `lunrjs` -dan əlavə, bir neçə tam mətnli axtarış həlləri var, məsələn :
 
 [fusejs](https://www.fusejs.io) axtarış üçün sətirlər arasındakı oxşarlığı hesablayın.
@@ -46,13 +48,13 @@ Bu həllin performansı son dərəcə zəifdir və tam mətn axtarışı üçün
 
 [TinySearch](https://github.com/tinysearch/tinysearch) axtarış üçün Bloom filtrindən istifadə edin, prefiks axtarışı üçün istifadə edilə bilməz (məsələn, `goo` daxil edin, axtarış `good` , `google` ) və oxşar avtomatik tamamlama effekti əldə edə bilməz.
 
-Mövcud həllərin çatışmazlıqlarından narazı qalaraq, `i18n.site` aşağıdakı xüsusiyyətlərə malik olan yeni təmiz ön tam mətnli axtarış həlli hazırladı :
+Mövcud həllərin çatışmazlıqlarına görə, `i18n.site` aşağıdakı xüsusiyyətlərə malik olan yeni təmiz ön tam mətnli axtarış həlli hazırladı :
 
 1. Çoxdilli axtarışı dəstəkləyir və ölçüsü kiçikdir `gzip` qablaşdırmadan sonra axtarış nüvəsinin ölçüsü `6.9KB` dir (müqayisə üçün `lunrjs` nin ölçüsü `25KB` dür).
 1. Daha az yaddaş tutan və sürətli olan `indexedb` a əsaslanan ters çevrilmiş indeks yaradın.
 1. Sənədlər əlavə edildikdə/dəyişdirildikdə, yalnız əlavə edilmiş və ya dəyişdirilmiş sənədlər yenidən indeksləşdirilir və hesablamaların həcmi azalır.
 1. Prefiks axtarışını dəstəkləyir və istifadəçi yazarkən axtarış nəticələrini real vaxtda göstərə bilər.
-1. Oflayn mövcuddur
+1. Oflayn Mövcuddur
 
 Aşağıda `i18n.site` texniki icra detalları ətraflı şəkildə təqdim ediləcək.
 
@@ -146,7 +148,7 @@ prefixPush = pusher()
 
 ![](https://p.3ti.site/1727684944.avif)
 
-Axtarış ləpəsi söz seqmentindən sonra sonuncu söz üçün `prefix` cədvəlindən istifadə edərək prefikslə yazılmış bütün sözləri tapacaq və ardıcıllıqla axtarış edəcək.
+Axtarış nüvəsi söz seqmentindən sonra sonuncu söz üçün `prefix` cədvəlindən onunla prefiks edilmiş bütün sözləri tapmaq və ardıcıllıqla axtaracaq.
 
 Anti-silkələnmə funksiyası `debounce` həmçinin istifadəçi girişinin axtarışlarını tetiklemesinin tezliyini azaltmaq və hesablamanın həcmini azaltmaq üçün front-end qarşılıqlı əlaqədə istifadə olunur (aşağıdakı kimi həyata keçirilir).
 
@@ -214,6 +216,6 @@ Axtarış nəticələrini göstərərkən, fəsil adı göstəriləcək və klik
 
 ## Ümumiləşdirin
 
-Ters çevrilmiş tam mətn axtarışı sırf ön hissədə həyata keçirilir, sürətli cavab verir və serverə ehtiyac yoxdur.
+Ters çevrilmiş tam mətn axtarışı sırf ön hissədə həyata keçirilir, server tələb olunmur. Sənədlər və şəxsi bloqlar kimi kiçik və orta ölçülü vebsaytlar üçün çox uyğundur.
 
-Sənədlər və şəxsi bloqlar kimi kiçik və orta ölçülü vebsaytlar üçün çox uyğundur.
+`i18n.site` Açıq mənbə özü inkişaf etdirdiyi təmiz ön axtarış, kiçik ölçülü və sürətli cavab, hazırkı saf front-end tam mətn axtarışının çatışmazlıqlarını həll edir və daha yaxşı istifadəçi təcrübəsi təmin edir.

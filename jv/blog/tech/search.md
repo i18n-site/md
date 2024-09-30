@@ -6,27 +6,27 @@ Sawise pirang-pirang minggu pembangunan, [i18n.site](//i18n.site) (alat bangunan
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Artikel iki bakal nuduhake implementasine `i18n.site` teknologi telusuran teks lengkap ing ngarep [i18n.site](//i18n.site) bisa ngalami efek telusuran.
+Artikel iki bakal nuduhake implementasi teknis `i18n.site` telusuran teks lengkap ing ngarep kanggo [i18n.site](//i18n.site) efek telusuran.
 
-Kode [kernel telusuran](//github.com/i18n-site/ie/tree/main/qy) sumber [terbuka](//github.com/i18n-site/plugin/tree/main/qy) /
+Kode open source : [Telusuri kernel](//github.com/i18n-site/ie/tree/main/qy) / [Antarmuka interaktif](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Ringkesan Solusi Telusuran Teks Lengkap Tanpa Server
 
-Kanggo situs web cilik kayata dokumen / blog pribadi sing statis, mesthine abot banget kanggo mbangun backend telusuran teks lengkap dhewe, lan telusuran teks lengkap tanpa layanan mesthi bobote luwih apik.
+Kanggo situs web statis ukuran cilik lan medium kayata dokumen / blog pribadi, mbangun backend telusuran teks lengkap sing dibangun dhewe banget abot, lan telusuran teks lengkap tanpa layanan minangka pilihan sing luwih umum.
 
-Solusi telusuran teks lengkap tanpa server sing saiki ana dadi rong kategori.
+Solusi telusuran teks lengkap tanpa server kalebu rong kategori:
 
-Salah sijine yaiku panyedhiya layanan telusuran pihak katelu sing padha karo [algolia.com](//algolia.com) sing nyedhiyakake komponen telusuran teks lengkap ing ngarep.
+[algolia.com](//algolia.com) , panyedhiya layanan telusuran pihak katelu sing padha nyedhiyakake komponen ngarep kanggo telusuran teks lengkap.
 
-Layanan kasebut mbutuhake pambayaran lan ora kasedhiya kanggo pangguna ing daratan China amarga masalah kepatuhan situs web.
+Layanan kasebut mbutuhake pambayaran adhedhasar volume telusuran, lan asring ora kasedhiya kanggo pangguna ing daratan China amarga ana masalah kayata kepatuhan situs web.
 
 Ora bisa digunakake offline, ora bisa digunakake ing intranet, lan duwe watesan gedhe. Artikel iki ora ngrembug akeh.
 
 Kapindho yaiku telusuran teks lengkap ngarep-mburi.
 
-Panelusuran teks lengkap ngarep sing ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) kalebu [lunrjs](https://lunrjs.com)
+Panelusuran teks lengkap ngarep sing [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js kalebu [lunrjs](https://lunrjs.com)
 
-`lunrjs` Ana rong cara kanggo mbangun indeks, nanging loro-lorone duwe masalah dhewe.
+`lunrjs` Ana rong cara kanggo mbangun indeks, lan loro-lorone duwe masalah dhewe.
 
 1. File indeks sing wis dibangun
 
@@ -38,6 +38,8 @@ Panelusuran teks lengkap ngarep sing ElasticLunr.js [https://github.com/weixsong
 
    Mbangun indeks minangka tugas komputasi intensif Mbangun maneh indeks saben-saben sampeyan ngakses bakal nimbulaké lags ketok lan pengalaman pangguna miskin.
 
+---
+
 Saliyane `lunrjs` , ana sawetara solusi telusuran teks lengkap liyane, kayata :
 
 [fusejs](https://www.fusejs.io) , ngitung podho antarane strings kanggo nggoleki.
@@ -46,13 +48,13 @@ Kinerja solusi iki arang banget lan ora bisa digunakake kanggo nggoleki teks len
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , gunakake Filter Bloom kanggo nggoleki, ora bisa digunakake kanggo telusuran awalan (contone, ketik `goo` , telusuran `good` , `google` ), lan ora bisa entuk efek rampung otomatis sing padha.
 
-Amarga ora marem karo kekurangan saka solusi sing wis ana, `i18n.site` ngembangake solusi telusuran teks lengkap ngarep murni anyar, sing nduweni fitur ing ngisor iki :
+Amarga kekurangan saka solusi sing wis ana, `i18n.site` ngembangake solusi telusuran teks lengkap ngarep murni anyar, sing nduweni ciri ing ngisor iki :
 
 1. Ndhukung panelusuran multi-basa lan ukurane cilik Ukuran kernel telusuran sawise kemasan `gzip` yaiku `6.9KB` (kanggo mbandhingake, ukuran `lunrjs` yaiku `25KB` ).
 1. Mbangun indeks kuwalik adhedhasar `indexedb` , kang njupuk munggah memori kurang lan cepet.
 1. Nalika dokumen ditambahake / diowahi, mung dokumen sing ditambahake utawa diowahi sing diindeks maneh, nyuda jumlah petungan.
 1. Ndhukung telusuran awalan lan bisa nampilake asil panelusuran ing wektu nyata nalika pangguna lagi ngetik.
-1. Kasedhiya offline
+1. Kasedhiya Offline
 
 Ing ngisor iki, `i18n.site` rincian implementasi teknis bakal dikenalake kanthi rinci.
 
@@ -214,6 +216,6 @@ Nalika nampilake asil panelusuran, jeneng bab bakal ditampilake lan bab bakal na
 
 ## Ngringkes
 
-Panelusuran teks lengkap terbalik sing ditindakake mung ing ngarep, kanthi respon cepet lan ora perlu server.
+Panelusuran teks lengkap sing dibalik ditindakake mung ing ngarep, ora ana server sing dibutuhake. Cocog banget kanggo situs web ukuran cilik lan medium kayata dokumen lan blog pribadi.
 
-Cocog banget kanggo situs web ukuran cilik lan medium kayata dokumen lan blog pribadi.
+`i18n.site` Panelusuran ngarep-mburi murni sing dikembangake dhewe kanthi sumber terbuka, ukurane cilik lan respon cepet, ngrampungake kekurangan saka telusuran teks lengkap ngarep murni saiki lan menehi pengalaman pangguna sing luwih apik.

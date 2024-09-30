@@ -6,27 +6,27 @@
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Nkhaniyi igawana kukhazikitsidwa kwa ukadaulo wa `i18n.site` -mapeto-wonse Wosaka Mutha kukumana ndi [i18n.site](//i18n.site) .
+Nkhaniyi igawana zaukadaulo wa `i18n.site` kusaka kwathunthu-kumapeto [i18n.site](//i18n.site) kuti mumve zakusaka.
 
-Code open [source](//github.com/i18n-site/plugin/tree/main/qy) [search kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Khodi gwero : [fufuzani kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive mawonekedwe](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Chidule Cha Mayankho Osakira Mawu Opanda Seva
 
-Kwa mawebusayiti ang'onoang'ono monga zolemba / mabulogu anu omwe ali osasunthika, mosakayika ndizolemetsa kwambiri kuti mupange kusaka ndi zolemba zonse nokha, ndipo kusaka zolemba zonse popanda ntchito mosakayikira ndikolemera kwambiri.
+Kwa mawebusayiti ang'onoang'ono ndi apakatikati omwe ali ngati zikalata / mabulogu anu, kupanga zolemba zodzipangira nokha ndizolemera kwambiri, ndipo kusaka mawu athunthu kopanda ntchito ndikomwe kofala.
 
-Mayankho omwe alipo kale osakira mawu athunthu amagwera m'magulu awiri akulu.
+Mayankho osakira mawu opanda seva amagwera m'magulu awiri:
 
-Mmodzi ndi wopereka chithandizo chamagulu ena ofanana ndi [algolia.com](//algolia.com) yomwe imapereka zigawo zakutsogolo zofufuzira mawu.
+Choyamba, ofanana [algolia.com](//algolia.com)
 
-Ntchito zotere zimafunikira kulipira ndipo sizipezeka kwa ogwiritsa ntchito ku China chifukwa chotsatira mawebusayiti.
+Ntchito zotere zimafunikira kulipira kutengera kuchuluka kwakusaka, ndipo nthawi zambiri sapezeka kwa ogwiritsa ntchito ku China chifukwa chazovuta monga kutsata tsamba lawebusayiti.
 
 Sichingagwiritsidwe ntchito pa intaneti, sichingagwiritsidwe ntchito pa intaneti, ndipo chili ndi malire aakulu. Nkhaniyi sifotokoza zambiri.
 
 Chachiwiri ndikufufuza mawu athunthu.
 
-Kusaka kodziwika [lunrjs](https://lunrjs.com) kwa mawu akutsogolo kumaphatikizapo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Kusaka kwa [lunrjs](https://lunrjs.com) akutsogolo kumaphatikizapo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Pali njira ziwiri zopangira ma index, koma onse ali ndi zovuta zawo.
+`lunrjs` Pali njira ziwiri zopangira ma index, ndipo onse ali ndi zovuta zawo.
 
 1. Mafayilo opangidwa kale
 
@@ -38,6 +38,8 @@ Kusaka kodziwika [lunrjs](https://lunrjs.com) kwa mawu akutsogolo kumaphatikizap
 
    Kupanga index ndi ntchito yovuta kwambiri yomanganso index nthawi iliyonse mukafika kumapangitsa kuti pakhale kusakhazikika komanso kusazindikira bwino kwa ogwiritsa ntchito.
 
+---
+
 Kuphatikiza pa `lunrjs` , palinso mayankho ena athunthu, monga :
 
 [fusejs](https://www.fusejs.io) , werengerani kufanana pakati pa zingwe kuti mufufuze.
@@ -46,13 +48,13 @@ Magwiridwe a yankholi ndiwoyipa kwambiri ndipo sangathe kugwiritsidwa ntchito po
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , gwiritsani ntchito fyuluta ya Bloom kuti mufufuze, siingagwiritsidwe ntchito pakusaka kwachiyambi (mwachitsanzo, lowetsani `goo` , fufuzani `good` , `google` ), ndipo simungathe kukwaniritsa zotsatira zofananazo.
 
-Chifukwa chosakhutira ndi zofooka za mayankho omwe alipo, `i18n.site` adapanga njira yatsopano yosakira zolemba zonse, zomwe zili ndi zotsatirazi :
+Chifukwa cha zolakwika za mayankho omwe alipo, `i18n.site` yapanga njira yatsopano yosakira mawu, yomwe ili ndi zotsatirazi :
 
 1. Imathandizira kusaka kwa zinenero zambiri ndipo ndi yaying'ono mu kukula kwa kernel yofufuzira pambuyo pa kulongedza `gzip` ndi `6.9KB` (poyerekeza, kukula kwa `lunrjs` ndi `25KB` )
 1. Pangani index inverted yochokera ku `indexedb` , yomwe imatenga kukumbukira pang'ono komanso mwachangu.
 1. Zolemba zikawonjezeredwa / kusinthidwa, zolemba zokha zowonjezera kapena zosinthidwa zimasinthidwanso, kuchepetsa kuchuluka kwa mawerengedwe.
 1. Imathandizira kusaka kwachiyambi ndipo imatha kuwonetsa zotsatira zake munthawi yeniyeni pomwe wogwiritsa ntchito akulemba.
-1. Ikupezeka popanda intaneti
+1. Ikupezeka Popanda Intaneti
 
 Pansipa, `i18n.site` tsatanetsatane waukadaulo waukadaulo adzafotokozedwa mwatsatanetsatane.
 
@@ -214,6 +216,6 @@ Mukawonetsa zotsatira zakusaka, dzina lamutu lidzawonetsedwa ndipo mutuwo udzawu
 
 ## Fotokozerani Mwachidule
 
-Kusaka kwa mawu otembenuzidwa kumayendetsedwa kumapeto kwenikweni, ndikuyankha mwachangu komanso osafunikira seva.
+Kusaka kwa mawu otembenuzidwa kumayendetsedwa kumapeto kwenikweni, palibe seva yofunikira. Ndizoyenera kwambiri mawebusayiti ang'onoang'ono komanso apakatikati monga zolemba ndi mabulogu anu.
 
-Ndizoyenera kwambiri mawebusayiti ang'onoang'ono komanso apakatikati monga zolemba ndi mabulogu anu.
+`i18n.site` Kusaka kotseguka kodzipangira nokha koyambirira, kocheperako komanso kuyankha mwachangu, kumathetsa zophophonya zakusaka kwapamapeto akutsogolo komanso kumapereka chidziwitso cha ogwiritsa ntchito.

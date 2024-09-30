@@ -6,27 +6,27 @@ Torban hedduu booda, [i18n.site](//i18n.site) (meeshaa ijaarsa weebsaayitii mark
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Barreeffamni kun hojiirra oolmaa teeknooloojii barbaacha barreeffama fuulduraa qulqulluu `i18n.site` ni qooddata Daawwannaa [i18n.site](//i18n.site)
+Barreeffamni kun hojiirra oolmaa teeknikaa `i18n.site` pure front-end full-text search ni [i18n.site](//i18n.site) .
 
-Koodii madda [banaa](//github.com/i18n-site/plugin/tree/main/qy) barbaacha [kernel Walqunnamtii](//github.com/i18n-site/ie/tree/main/qy) /
+/ [banaa](//github.com/i18n-site/ie/tree/main/qy) [koodii](//github.com/i18n-site/plugin/tree/main/qy) :
 
 ## Haala Waliigalaa Furmaata Barbaacha Barreeffama Guutuu Sarvarii Hin Qabne
 
-Weebsaayitoota xixiqqoo kan akka sanadoota/biloogii dhuunfaa kanneen qulqulluu ta’aniif, ofuma keetiin duubbee barbaacha barreeffama guutuu ijaaruun baay’ee ulfaataa ta’uun isaa hin shakkisiisu, akkasumas barbaacha barreeffama guutuu tajaajila malee ulfaatina fooyya’aa ta’uun isaa hin shakkisiisu.
+Weebsaayitoota xixiqqoo fi giddu galeessaa kanneen qulqulluu ta’an kanneen akka sanadoota/biloogii dhuunfaatiif, duubbee barbaacha barreeffama guutuu ofumaan ijaarame ijaaruun garmalee ulfaataadha, barbaacha barreeffama guutuu tajaajila irraa bilisa ta’e filannoo baay’ee beekamaadha.
 
-Furmaatni barbaacha barreeffama guutuu sarvarii hin qabne jiran gosoota bal’aa lamatti qoodamu.
+Furmaatni barbaacha barreeffama guutuu sarvarii hin qabne gosoota bal’aa lamatti qoodamu:
 
-Tokko dhiyeessaa tajaajila barbaacha qaama sadaffaa [algolia.com](//algolia.com) kan qaamolee barbaacha barreeffama guutuu fuulduraa kan kennudha.
+Tokkoffaa, walfakkaataa [algolia.com](//algolia.com) Dhiyeessitoonni tajaajila barbaacha qaama sadaffaa barbaacha barreeffama guutuuf qaamolee fuulduraa ni kennu.
 
-Tajaajiloonni akkanaa kaffaltii kan barbaadan yoo ta’u, dhimma walsimannaa weebsaayitii irraa kan ka’e fayyadamtoota Chaayinaa guddittii keessa jiraniif hin argaman.
+Tajaajiloonni akkanaa baay'ina barbaacha irratti hundaa'uun kaffaltii kan barbaadan yoo ta'u, yeroo baayyee fayyadamtoota Chaayinaa guddittii keessa jiraniif dhimmoota akka walsimannaa marsariitiitiin kan hin argamnedha.
 
 Toora ala fayyadamuu hin danda'u, intranet irratti fayyadamuu hin danda'u, daangaa guddaa qaba. Barreeffamni kun waan baay’ee irratti hin mari’atu.
 
 Inni lammaffaan barbaacha barreeffama guutuu fuulduraa qulqulluudha.
 
-Barbaachawwan barreeffama guutuu fuulduraa qulqulluu caalaatti beekaman [lunrjs](https://lunrjs.com) fi [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) of keessatti qabatu.
+Barbaachawwan barruu guutuu fuulduraa qulqulluu yeroo baay'ee itti fayyadaman [lunrjs](https://lunrjs.com) fi [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) of keessatti qabata.
 
-`lunrjs` Indeeksii ijaaruuf karaan lama jira, garuu lamaan isaanii rakkoo mataa isaanii qabu.
+`lunrjs` Indeeksii ijaaruuf karaan lama jira, lamaan isaanii iyyuu rakkoo mataa isaanii qabu.
 
 1. Faayilota indeeksii dursanii ijaaraman
 
@@ -38,6 +38,8 @@ Barbaachawwan barreeffama guutuu fuulduraa qulqulluu caalaatti beekaman [lunrjs]
 
    Indeeksii ijaaruun hojii shallaggii cimaadha yeroo hunda indeeksii irra deebitee ijaaruun duubatti hafummaa ifa ta'ee fi muuxannoo fayyadamaa gadhee fida.
 
+---
+
 `lunrjs` malees, furmaata barbaacha barreeffama guutuu biroo tokko tokko jiru, kan akka :
 
 [fusejs](https://www.fusejs.io) , walfakkeenya dhangiiwwan gidduu jiru shallagi.
@@ -46,13 +48,13 @@ Gahumsi furmaata kanaa garmalee gadhee waan ta'eef barbaacha barreeffama guutuuf
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Hanqina furmaata jiruun quufa dhabuu irraa kan ka'e, `i18n.site` furmaata barbaacha barreeffama guutuu fuulduraa qulqulluu haaraa, kan amaloota armaan gadii qabu hojjete :
+Sababa hanqina furmaata jiruun, `i18n.site` furmaata barbaacha barreeffama guutuu fuulduraa qulqulluu haaraa, kan amala armaan gadii qabu hojjeteera :
 
 1. Barbaacha `25KB` hedduu kan `lunrjs` `gzip` `6.9KB` , guddinaan xiqqaadha.
 1. Indeeksii garagalfame `indexedb` irratti hundaa'e ijaari, kunis yaadannoo xiqqaa kan fudhatuu fi saffisaa dha.
 1. Yeroo sanadoonni dabalaman/foyya’an, sanadoota dabalaman ykn fooyya’an qofatu irra deebi’amee indeksii ta’a, kunis hamma shallaggii hir’isa.
 1. Barbaacha durtii ni deeggara, kunis bu'aa barbaacha yeroo qabatamaa keessatti yeroo fayyadamaan barreessu agarsiisuu danda'a.
-1. Toora irraa ala ni argama
+1. Toora Irraa Ala Ni Argama
 
 Armaan gaditti ibsi raawwii teeknikaa `i18n.site` bal’inaan ni dhiyaata.
 
@@ -214,6 +216,6 @@ Yeroo bu'aa barbaacha agarsiisu, maqaan boqonnaa ni mul'ata, boqonnaan immoo yer
 
 ## Cuunfaa
 
-Barbaacha barreeffama guutuu garagalfame kan hojiirra oole qulqulluu fuulduraa irratti, deebii saffisaa fi sarvarii hin barbaachisu.
+Barbaacha barruu guutuu garagalfame qulqulluu fuulduraa irratti hojiirra oole, sarvariin hin barbaachisu. Marsariitiiwwan xixiqqaa fi giddu galeessaa kanneen akka sanadootaa fi biloogii dhuunfaatiif baay’ee mijataadha.
 
-Marsariitiiwwan xixiqqaa fi giddu galeessaa kanneen akka sanadootaa fi biloogii dhuunfaatiif baay’ee mijataadha.
+`i18n.site` Barbaacha fuula duraa qulqulluu ofumaan qopheesse madda banaa, guddinaan xiqqaa fi deebii saffisaa, hanqina barbaacha barreeffama guutuu fuula duraa qulqulluu ammaa furuu fi muuxannoo fayyadamaa fooyya’aa ta’e kenna.

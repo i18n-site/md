@@ -6,27 +6,27 @@ Ma hope o kekahi mau pule & ka hoʻomohala ʻana, kākoʻo markdown [i18n.site](
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-E kaʻana [i18n.site](//i18n.site) kēia ʻatikala i ka hoʻokō ʻana i `i18n.site` ʻenehana hulina mua-hopena.
+E kaʻana [i18n.site](//i18n.site) kēia ʻatikala i ka hoʻokō ʻenehana o `i18n.site` maʻemaʻe mua-hopena ʻimi kikokikona piha.
 
-[Hoʻokaʻawale](//github.com/i18n-site/plugin/tree/main/qy) ʻia ke kumu [hulina kernel](//github.com/i18n-site/ie/tree/main/qy) /
+: [i ka kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## He Hiʻohiʻona O Nā Hāʻina Huli Kikokikona ʻole Serverless
 
-No nā pūnaewele liʻiliʻi e like me nā palapala / moʻomanaʻo pilikino maʻemaʻe, ʻaʻohe mea kānalua ke kūkulu ʻana i kahi hulina holoʻokoʻa piha ma hope o ʻoe iho, a ʻo ka ʻimi kikokikona piha me ka ʻole o nā lawelawe he mea ʻoi aku ka maikaʻi.
+No nā pūnaewele paʻa liʻiliʻi a me ka liʻiliʻi e like me nā palapala / moʻomanaʻo pilikino, ʻoi aku ka kaumaha o ke kūkulu ʻana i kahi backend hulina piha piha i kūkulu ʻia, a ʻo ka ʻimi kikokikona ʻole lawelawe ka mea maʻamau.
 
-Loaʻa nā hāʻina hulina kikokikona ʻole server i loko o ʻelua mau ʻāpana ākea.
+Hāʻule nā hāʻina hulina kikokikona piha ʻole i ʻelua ʻāpana ākea:
 
-ʻO kekahi he mea lawelawe ʻimi ʻaoʻao ʻekolu e like me [algolia.com](//algolia.com) e hāʻawi ana i nā mea huli kikokikona piha mua.
+ʻO ka mea mua [algolia.com](//algolia.com) hāʻawi nā mea lawelawe hulina ʻaoʻao ʻekolu i nā ʻāpana mua no ka huli kikokikona piha.
 
-Pono ia mau lawelawe i ka uku a ʻaʻole i loaʻa i nā mea hoʻohana ma ka ʻāina nui o Kina ma muli o nā pilikia hoʻokō pūnaewele.
+Pono ia mau lawelawe i ka uku ma muli o ka nui o ka huli ʻana, a ʻaʻole i loaʻa pinepine i nā mea hoʻohana ma ka ʻāina nui o Kina ma muli o nā pilikia e like me ka hoʻokō pūnaewele.
 
 ʻAʻole hiki ke hoʻohana ʻia ma waho, ʻaʻole hiki ke hoʻohana ʻia ma ka intranet, a he nui nā palena. ʻAʻole kūkākūkā nui kēia ʻatikala.
 
 ʻO ka lua, ʻo ia ka ʻimi kikokikona piha mua.
 
-ʻO nā ʻimi kikokikona piha mua maʻemaʻe ʻoi aku ka maikaʻi [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) pili ana i ElasticLunr.js [lunrjs](https://lunrjs.com)
+[lunrjs](https://lunrjs.com) nā ʻimi kikokikona piha maʻemaʻe i hoʻohana mau ʻia me ka [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` ʻElua mau ala e kūkulu ai i nā kuhikuhi, akā loaʻa iā lāua nā pilikia ponoʻī.
+`lunrjs` ʻElua ala e kūkulu ai i nā kuhikuhi, a loaʻa iā lāua nā pilikia ponoʻī.
 
 1. Nā waihona kuhikuhi i kūkulu mua ʻia
 
@@ -38,6 +38,8 @@ Pono ia mau lawelawe i ka uku a ʻaʻole i loaʻa i nā mea hoʻohana ma ka ʻā
 
    ʻO ke kūkulu ʻana i kahi papa kuhikuhi he hana koʻikoʻi ka helu ʻana ʻo ke kūkulu hou ʻana i ka ʻōlelo kuhikuhi i kēlā me kēia manawa āu e komo ai e hōʻike ʻia nā lag a me ka maikaʻi ʻole o ka mea hoʻohana.
 
+---
+
 Ma waho aʻe o `lunrjs` , aia kekahi mau ʻōlelo hoʻoponopono ʻimi kikokikona piha, e like me :
 
 [fusejs](https://www.fusejs.io) , e helu i ka like ana o na kaula e huli ai.
@@ -46,13 +48,13 @@ Ma waho aʻe o `lunrjs` , aia kekahi mau ʻōlelo hoʻoponopono ʻimi kikokikona
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , hoʻohana i ka kānana Bloom no ka huli ʻana, ʻaʻole hiki ke hoʻohana ʻia no ka ʻimi prefix (no ka laʻana, hoʻokomo i `goo` , huli `good` , `google` ), a ʻaʻole hiki ke loaʻa i ka hopena hoʻopau ʻakomi like.
 
-Ma muli o ka ʻoluʻolu ʻole i nā hemahema o nā hāʻina i loaʻa, ua hoʻomohala ʻo `i18n.site` i kahi hoʻonā ʻimi huaʻōlelo piha mua maʻemaʻe, nona nā hiʻohiʻona aʻe :
+Ma muli o nā hemahema o nā hāʻina i loaʻa, ua hoʻomohala ʻo `i18n.site` i kahi hoʻoponopono hulina kikokikona piha mua maʻemaʻe, nona nā ʻano aʻe :
 
 1. Kākoʻo i ka ʻimi ʻōlelo lehulehu a liʻiliʻi ka nui ʻO ka nui o ka pahu huli ma hope o ka hoʻopili ʻana `gzip` he `6.9KB` (no ka hoʻohālikelike ʻana, ʻo ka nui o `lunrjs` he `25KB` ).
 1. E kūkulu i ka papa kuhikuhi inverted e pili ana i `indexedb` , ka mea e emi iho ka hoʻomanaʻo a me ka wikiwiki.
 1. Ke hoʻohui ʻia a hoʻololi ʻia nā palapala, ʻo nā palapala i hoʻohui ʻia a i hoʻololi ʻia wale nō ke kuhikuhi hou ʻia, e hōʻemi ana i ka nui o nā helu.
 1. Kākoʻo i ka ʻimi prefix, hiki ke hōʻike i nā hualoaʻa i ka manawa maoli i ka wā e paʻi ana ka mea hoʻohana.
-1. Loaʻa ma waho
+1. Loaʻa Ma Waho
 
 Ma lalo iho nei, e hōʻike ʻia nā kikoʻī hoʻokō ʻenehana `i18n.site` .
 
@@ -214,6 +216,6 @@ Ke hōʻike ʻia nā hopena hulina, e hōʻike ʻia ka inoa mokuna a e hoʻokele
 
 ## Hōʻuluʻulu
 
-Hoʻokomo ʻia ka ʻimi kikokikona piha i hoʻohuli ʻia ma ka ʻaoʻao mua, me ka pane wikiwiki a ʻaʻohe pono no kahi kikowaena.
+Hoʻohana ʻia ka ʻimi kikokikona piha i hoʻohuli ʻia ma ka ʻaoʻao mua, ʻaʻohe kikowaena pono. He kūpono loa ia no nā pūnaewele liʻiliʻi a me ka liʻiliʻi e like me nā palapala a me nā blog pilikino.
 
-He kūpono loa ia no nā pūnaewele liʻiliʻi a me ka liʻiliʻi e like me nā palapala a me nā blog pilikino.
+`i18n.site` Open source i hoʻomohala pono i ka huli mua maʻemaʻe, liʻiliʻi ka nui a me ka pane wikiwiki, e hoʻonā i nā hemahema o ka ʻimi kikokikona piha mua maʻemaʻe a hāʻawi i kahi ʻike mea hoʻohana ʻoi aku ka maikaʻi.

@@ -6,27 +6,27 @@ Taorian'ny herinandro maromaro nisian'ny fampandrosoana, [i18n.site](//i18n.site
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ity lahatsoratra ity dia hizara ny fampiharana ny teknolojia fikarohana an-tsoratra feno `i18n.site` [i18n.site](//i18n.site) afaka miaina ny vokatry ny fikarohana ianao.
+Ity lahatsoratra ity dia hizara ny fampiharana ara-teknika amin'ny fikarohana an-tsoratra feno amin'ny [i18n.site](//i18n.site) `i18n.site` .
 
-Kaody open source [fikarohana](//github.com/i18n-site/plugin/tree/main/qy) [kernel](//github.com/i18n-site/ie/tree/main/qy) /
+[Loharano](//github.com/i18n-site/ie/tree/main/qy) / [kaody](//github.com/i18n-site/plugin/tree/main/qy) :
 
 ## Famintinana Ny Vahaolana Fikarohana Lahatsoratra Feno Tsy Misy Mpizara
 
-Ho an'ny tranonkala madinika toy ny antontan-taratasy/bilaogy manokana izay tsy mitongilana fotsiny, tsy isalasalana fa mavesatra loatra ny manangana fikarohana lahatsoratra feno amin'ny tenanao manokana, ary ny fikarohana lahatsoratra feno tsy misy serivisy dia tsy isalasalana fa lanja tsara kokoa.
+Ho an'ny tranokala static tsotra sy salantsalany toy ny antontan-taratasy/bilaogy manokana, mavesatra loatra ny fananganana backend fikarohana lahatsoratra feno namboarin'ny tena, ary ny fikarohana lahatsoratra feno tsy misy serivisy no safidy mahazatra kokoa.
 
-Ny vahaolana fikarohana lahatsoratra feno tsy misy mpizara efa misy dia tafiditra ao anatin'ny sokajy roa lehibe.
+Ny vahaolana amin'ny fikarohana lahatsoratra feno tsy misy mpizara dia mizara ho sokajy roa lehibe:
 
-Ny iray dia mpanome tolotra fikarohana avy amin'ny antoko fahatelo mitovy amin'ny [algolia.com](//algolia.com) izay manome singa fikarohana lahatsoratra feno eo anoloana.
+Voalohany, mitovitovy amin'izany [algolia.com](//algolia.com)
 
-Mitaky fandoavana ny serivisy toy izany ary tsy azon'ny mpampiasa any amin'ny tanibe Shina noho ny olana amin'ny fanarahan-dalàna ny tranokala.
+Mitaky fandoavam-bola mifototra amin'ny habetsahan'ny fikarohana ireo tolotra ireo, ary matetika tsy azon'ny mpampiasa any amin'ny tanibe Shina noho ny olana toy ny fanarahana ny tranonkala.
 
 Tsy azo ampiasaina ivelan'ny aterineto, tsy azo ampiasaina amin'ny intranet, ary misy fetrany lehibe. Tsy miresaka firy ity lahatsoratra ity.
 
 Ny faharoa dia ny fitadiavana lahatsoratra feno amin'ny endriny voalohany.
 
-Ny fikarohana an [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) tsoratra feno amin'ny endriny madio ElasticLunr.js kokoa dia ahitana [lunrjs](https://lunrjs.com)
+Ny fikarohana lahatsoratra feno amin'ny endriny madio fampiasa matetika dia ahitana [lunrjs](https://lunrjs.com) sy [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Misy fomba roa hanamboarana index, saingy samy manana ny olany.
+`lunrjs` Misy fomba roa hanamboarana index, ary samy manana ny olany.
 
 1. Ny rakitra fanondro efa namboarina
 
@@ -38,6 +38,8 @@ Ny fikarohana an [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E
 
    Ny fananganana tondro dia asa mavesa-danja amin'ny fikajiana ny fananganana indray ny tondro isaky ny miditra amin'izany dia miteraka fahatarana miharihary sy traikefan'ny mpampiasa.
 
+---
+
 Ho fanampin'ny `lunrjs` , dia misy vahaolana hafa amin'ny fikarohana lahatsoratra feno, toy ny :
 
 [fusejs](https://www.fusejs.io) , kajy ny fitoviana eo amin'ny tady hikaroka.
@@ -46,13 +48,13 @@ Tena ratsy ny fahombiazan'ity vahaolana ity ary tsy azo ampiasaina amin'ny fikar
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , ampiasao ny sivana Bloom raha hikaroka, tsy azo ampiasaina amin'ny fikarohana prefix (ohatra, ampidiro `goo` , karohy `good` , `google` ), ary tsy afaka mahazo vokatra vita ho azy.
 
-Noho ny tsy fahafaham-po amin'ny lesoka amin'ny vahaolana efa misy, `i18n.site` dia namolavola vahaolana fitadiavana lahatsoratra feno amin'ny endriny madio, izay manana ireto endri-javatra manaraka ireto :
+Noho ny lesoka amin'ny vahaolana efa misy, `i18n.site` dia namolavola vahaolana fikarohana feno amin'ny endriny madio madio, izay manana ireto toetra manaraka ireto :
 
 1. Manohana fikarohana amin'ny fiteny maro ary kely ny haben'ny kernel fikarohana aorian'ny fonosana `gzip` dia `6.9KB` (ho fampitahana, ny haben'ny `lunrjs` dia `25KB` ).
 1. Manangana tondro mivadika mifototra amin'ny `indexedb` , izay maka fitadidiana kely ary haingana.
 1. Rehefa ampiana / ovaina ny antontan-taratasy dia ny antontan-taratasy fanampiny na ovaina ihany no averina averina, mampihena ny isan'ny kajy.
 1. Manohana fikarohana prefix, izay afaka mampiseho ny valin'ny fikarohana amin'ny fotoana tena izy rehefa manoratra ny mpampiasa.
-1. Misy ivelan'ny aterineto
+1. Misy Ivelan'ny Aterineto
 
 Ity ambany ity dia haseho amin'ny antsipiriany ny antsipiriany momba ny fampiharana teknika `i18n.site` .
 
@@ -214,6 +216,6 @@ Rehefa mampiseho valim-pikarohana dia haseho ny anaran'ny toko ary hivezivezy ny
 
 ## Mamintina
 
-Fikarohana lahatsoratra feno mivadika natao teo amin'ny farany aloha, miaraka amin'ny valiny haingana ary tsy mila mpizara.
+Fikarohana lahatsoratra feno navadika natao teo amin'ny farany aloha, tsy mila mpizara. Tena mety amin'ny tranokala madinika sy salantsalany toy ny antontan-taratasy sy bilaogy manokana.
 
-Tena mety amin'ny tranokala madinika sy salantsalany toy ny antontan-taratasy sy bilaogy manokana.
+`i18n.site` Loharanom-baovao misokatra ho an'ny tenany manokana novolavolain'ny fikarohana amin'ny endriny madio, kely ny habeny ary ny valiny haingana, dia mamaha ny lesoka amin'ny fikarohana lahatsoratra feno amin'izao fotoana izao ary manome traikefa mpampiasa tsara kokoa.

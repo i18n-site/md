@@ -6,27 +6,27 @@ Po nekaj tednih razvoja [i18n.site](//i18n.site) (čisto statično markdown mult
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ta članek bo delil implementacijo `i18n.site` čiste tehnologije iskanja po celotnem besedilu. [i18n.site](//i18n.site) lahko učinek iskanja.
+Ta članek bo delil tehnično izvedbo `i18n.site` po [i18n.site](//i18n.site) besedilu.
 
-Koda odprtokodnega [iskalnega jedra](//github.com/i18n-site/ie/tree/main/qy) / [Interaktivni vmesnik](//github.com/i18n-site/plugin/tree/main/qy)
+Odprta koda : [Išči jedro](//github.com/i18n-site/ie/tree/main/qy) / [Interaktivni vmesnik](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Pregled Rešitev Za Iskanje Po Celotnem Besedilu Brez Strežnika
 
-Za majhna spletna mesta, kot so dokumenti/osebni blogi, ki so povsem statična, je nedvomno pretežko, da bi sami zgradili zaledje za iskanje po celotnem besedilu, iskanje po celotnem besedilu brez storitev pa je nedvomno boljša teža.
+Za majhna in srednje velika povsem statična spletna mesta, kot so dokumenti/osebni spletni dnevniki, je izdelava zaledja iskanja po celotnem besedilu, ki ga sami izdelajo, pretežka, zato je iskanje po celotnem besedilu brez storitev pogostejša izbira.
 
-Obstoječe brezstrežniške rešitve za iskanje po celotnem besedilu spadajo v dve veliki kategoriji.
+Rešitve za iskanje po celotnem besedilu brez strežnika spadajo v dve veliki kategoriji:
 
-Eden je ponudnik storitev iskanja tretje osebe, podoben [algolia.com](//algolia.com) ki ponuja komponente iskanja po celotnem besedilu na sprednji strani.
+Prvič, podobno [algolia.com](//algolia.com) Ponudniki storitev iskanja tretjih oseb zagotavljajo sprednje komponente za iskanje po celotnem besedilu.
 
-Takšne storitve zahtevajo plačilo in niso na voljo uporabnikom v celinski Kitajski zaradi težav s skladnostjo spletnega mesta.
+Takšne storitve zahtevajo plačilo na podlagi obsega iskanja in pogosto niso na voljo uporabnikom v celinski Kitajski zaradi težav, kot je skladnost spletnega mesta.
 
 Ni ga mogoče uporabljati brez povezave, ni ga mogoče uporabljati na intranetu in ima velike omejitve. Ta članek ne razpravlja veliko.
 
 Drugi je čisto čelno iskanje po celotnem besedilu.
 
-Dobro znana iskanja po [lunrjs](https://lunrjs.com) besedilu na sprednji strani vključujejo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Pogosto uporabljena čista iskanja po [lunrjs](https://lunrjs.com) besedilu vključujejo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Obstajata dva načina za izdelavo indeksov, vendar imata oba svoje težave.
+`lunrjs` Obstajata dva načina za izdelavo indeksov in oba imata svoje težave.
 
 1. Vnaprej zgrajene indeksne datoteke
 
@@ -38,6 +38,8 @@ Dobro znana iskanja po [lunrjs](https://lunrjs.com) besedilu na sprednji strani 
 
    Izgradnja indeksa je računalniško intenzivna naloga. Ob vsakem dostopu do indeksa bo prišlo do očitnih zaostankov in slabe uporabniške izkušnje.
 
+---
+
 Poleg `lunrjs` obstaja še nekaj drugih rešitev za iskanje po celotnem besedilu, kot je :
 
 [fusejs](https://www.fusejs.io) , izračunajte podobnost med nizi za iskanje.
@@ -46,13 +48,13 @@ Zmogljivost te rešitve je izjemno slaba in je ni mogoče uporabiti za iskanje p
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , za iskanje uporabite filter Bloom, ni ga mogoče uporabiti za iskanje po predponi (na primer vnesite `goo` , poiščite `good` , `google` ) in ne morete doseči podobnega učinka samodejnega dokončanja.
 
-Zaradi nezadovoljstva s pomanjkljivostmi obstoječih rešitev je `i18n.site` razvil novo čisto sprednjo rešitev za iskanje po celotnem besedilu, ki ima naslednje lastnosti :
+Zaradi pomanjkljivosti obstoječih rešitev je `i18n.site` razvil novo čisto front-end rešitev za iskanje po celotnem besedilu, ki ima naslednje značilnosti :
 
 1. Podpira večjezično iskanje in ima majhno velikost iskalnega jedra po embalaži `gzip` je `6.9KB` (za primerjavo je velikost `lunrjs` `25KB` ).
 1. Zgradite invertni indeks na podlagi `indexedb` , ki zavzame manj pomnilnika in je hiter.
 1. Ko so dokumenti dodani/spremenjeni, so samo dodani ali spremenjeni dokumenti ponovno indeksirani, kar zmanjša količino izračunov.
 1. Podpira iskanje po predponi in lahko prikaže rezultate iskanja v realnem času, medtem ko uporabnik tipka.
-1. Na voljo brez povezave
+1. Na Voljo Brez Povezave
 
 `i18n.site` bodo podrobno predstavljene podrobnosti tehnične izvedbe.
 
@@ -214,6 +216,6 @@ Pri prikazu rezultatov iskanja bo prikazano ime poglavja in ob kliku bo prikazan
 
 ## Povzemite
 
-Obrnjeno iskanje po celotnem besedilu, implementirano izključno na sprednji strani, s hitrim odzivom in brez potrebe po strežniku.
+Obrnjeno iskanje po celotnem besedilu je izvedeno izključno na sprednji strani, strežnik ni potreben. Zelo primeren je za mala in srednje velika spletna mesta, kot so dokumenti in osebni blogi.
 
-Zelo primeren je za mala in srednje velika spletna mesta, kot so dokumenti in osebni blogi.
+`i18n.site` Odprtokodno samorazvito čisto čelno iskanje, majhne velikosti in hitrega odziva, odpravlja pomanjkljivosti trenutnega čistega sprednjega iskanja po celotnem besedilu in zagotavlja boljšo uporabniško izkušnjo.

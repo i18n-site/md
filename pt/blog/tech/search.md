@@ -6,27 +6,27 @@ Após várias semanas de desenvolvimento, [i18n.site](//i18n.site) (ferramenta d
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Este artigo compartilhará a implementação da tecnologia de pesquisa de texto completo de front-end puro do `i18n.site`. Você pode experimentar o efeito de pesquisa acessando [i18n.site](//i18n.site).
+Este artigo compartilhará a implementação técnica da pesquisa de texto completo do `i18n.site` com front-end puro. Acesse [i18n.site](//i18n.site) para experimentar o efeito da pesquisa.
 
-O código-fonte está aberto: [kernel de pesquisa](//github.com/i18n-site/ie/tree/main/qy) / [interface interativa](//github.com/i18n-site/plugin/tree/main/qy)
+O código é开源: [Kernel de pesquisa](//github.com/i18n-site/ie/tree/main/qy) / [Interface interativa](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Visão geral das soluções de pesquisa de texto completo sem servidor
 
-Para sites pequenos, como documentos/blogs pessoais, que são puramente estáticos, é sem dúvida muito pesado construir você mesmo um back-end de pesquisa de texto completo, e a pesquisa de texto completo sem serviços é, sem dúvida, uma solução mais leve.
+Para sites puramente estáticos de pequeno e médio porte, como documentos/blogs pessoais, construir um back-end de pesquisa de texto completo autoconstruído é muito pesado, e a pesquisa de texto completo sem serviço é a escolha mais comum.
 
-As soluções existentes de pesquisa de texto completo sem servidor se dividem em duas categorias principais.
+As soluções de pesquisa de texto completo sem servidor se dividem em duas grandes categorias:
 
-Uma delas são provedores de serviços de pesquisa de terceiros, como [algolia.com](//algolia.com), que oferecem componentes de pesquisa de texto completo para o front-end.
+A primeira, serviços de pesquisa de terceiros como [algolia.com](//algolia.com), que fornecem componentes front-end para pesquisa de texto completo.
 
-Esses serviços são pagos e, devido a questões de conformidade do site, não estão disponíveis para usuários na China continental.
+Este tipo de serviço requer pagamento com base na quantidade de buscas e frequentemente não está disponível para usuários na China continental devido a questões de conformidade do site.
 
 Eles não podem ser usados offline ou em redes internas, com muitas limitações. Este artigo não entrará em detalhes.
 
-A outra é a pesquisa de texto completo de front-end puro.
+A segunda categoria é a pesquisa de texto completo puramente front-end.
 
-As pesquisas de texto completo de front-end puro mais conhecidas incluem [lunrjs](/0) e [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Pesquisas de texto completo de front-end puro comumente usadas incluem [lunrjs](/0) e [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` tem duas maneiras de construir índices, mas ambas têm problemas.
+O `lunrjs` possui duas maneiras de construir índices, ambas com suas próprias limitações.
 
 1. Índices pré-construídos
 
@@ -38,6 +38,8 @@ As pesquisas de texto completo de front-end puro mais conhecidas incluem [lunrjs
 
    Construir índices é uma tarefa intensiva em cálculos, e reconstruir índices a cada acesso resulta em atrasos visíveis e uma má experiência do usuário.
 
+---
+
 Além de `lunrjs`, existem outras soluções de pesquisa de texto completo, como:
 
 [fusejs](https://www.fusejs.io), que calcula a semelhança entre strings para pesquisa.
@@ -46,7 +48,7 @@ Essa solução tem desempenho muito ruim e não pode ser usada para pesquisa de 
 
 [TinySearch](https://github.com/tinysearch/tinysearch), que usa filtros Bloom para pesquisa, não pode ser usado para pesquisa de prefixo (por exemplo, inserir `goo` para pesquisar `good`, `google`), e não pode implementar um efeito de preenchimento automático semelhante.
 
-Insatisfeito com as deficiências das soluções existentes, o `i18n.site` desenvolveu uma nova solução de pesquisa de texto completo de front-end puro, com as seguintes características:
+Devido às desvantagens das soluções atuais, `i18n.site` desenvolveu uma nova solução de pesquisa de texto completo puramente front-end, com as seguintes características:
 
 1. Suporte a pesquisa em vários idiomas, com tamanho pequeno; o kernel de pesquisa empacotado com `gzip` tem um tamanho de `6.9KB` (para comparação, o tamanho do `lunrjs` é `25KB`)
 1. Construção de índices invertidos baseada em `IndexedDB`, com baixo uso de memória e alta velocidade
@@ -214,6 +216,6 @@ Ao exibir resultados de pesquisa, o nome do capítulo é exibido e o capítulo �
 
 ## Resumo
 
-A pesquisa de texto completo invertida implementada exclusivamente no front-end tem resposta rápida e não requer servidor.
+Implementação de pesquisa de texto completo invertida puramente no front-end, sem a necessidade de um servidor. Ideal para sites de pequeno e médio porte, como documentos e blogs pessoais.
 
-É muito adequada para sites de pequeno e médio porte, como documentos e blogs pessoais.
+A pesquisa de front-end pura e开源 desenvolvida por `i18n.site` é compacta, responde rapidamente e resolve os problemas da pesquisa de texto completo puramente front-end atual, oferecendo uma melhor experiência ao usuário.

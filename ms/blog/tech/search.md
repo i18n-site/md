@@ -6,27 +6,27 @@ Selepas beberapa minggu pembangunan, [i18n.site](//i18n.site) (alat pembinaan ta
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Artikel ini akan berkongsi pelaksanaan `i18n.site` teknologi carian teks penuh hadapan yang tulen [i18n.site](//i18n.site) boleh mengalami kesan carian.
+Artikel ini akan berkongsi pelaksanaan teknikal `i18n.site` carian teks penuh bahagian hadapan tulen [i18n.site](//i18n.site) mengalami kesan carian.
 
-Kod [kernel carian](//github.com/i18n-site/ie/tree/main/qy) sumber [terbuka](//github.com/i18n-site/plugin/tree/main/qy) /
+Kod sumber terbuka : [Cari kernel](//github.com/i18n-site/ie/tree/main/qy) / [Antara muka interaktif](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Gambaran Keseluruhan Penyelesaian Carian Teks Penuh Tanpa Pelayan
 
-Untuk tapak web kecil seperti dokumen/blog peribadi yang statik semata-mata, sudah pasti terlalu berat untuk membina bahagian belakang carian teks penuh sendiri, dan carian teks penuh tanpa perkhidmatan sudah pasti adalah berat yang lebih baik.
+Untuk tapak web statik semata-mata dan bersaiz sederhana seperti dokumen/blog peribadi, membina bahagian belakang carian teks penuh binaan sendiri adalah terlalu berat dan carian teks penuh tanpa perkhidmatan adalah pilihan yang lebih biasa.
 
-Penyelesaian carian teks penuh tanpa pelayan sedia ada terbahagi kepada dua kategori yang luas.
+Penyelesaian carian teks penuh tanpa pelayan terbahagi kepada dua kategori yang luas:
 
-Satu ialah penyedia perkhidmatan carian pihak ketiga yang serupa dengan [algolia.com](//algolia.com) yang menyediakan komponen carian teks penuh bahagian hadapan.
+Pertama, pembekal perkhidmatan carian pihak ketiga yang [algolia.com](//algolia.com) menyediakan komponen bahagian hadapan untuk carian teks penuh.
 
-Perkhidmatan sedemikian memerlukan pembayaran dan tidak tersedia kepada pengguna di tanah besar China kerana isu pematuhan tapak web.
+Perkhidmatan sedemikian memerlukan pembayaran berdasarkan volum carian dan selalunya tidak tersedia kepada pengguna di tanah besar China kerana isu seperti pematuhan tapak web.
 
 Ia tidak boleh digunakan di luar talian, tidak boleh digunakan pada intranet, dan mempunyai had yang besar. Artikel ini tidak banyak membincangkan.
 
 Yang kedua ialah carian teks penuh bahagian hadapan tulen.
 
-Carian teks penuh hadapan tulen yang lebih terkenal termasuk [lunrjs](https://lunrjs.com) dan [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Carian teks penuh hadapan tulen yang biasa digunakan termasuk [lunrjs](https://lunrjs.com) dan [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Terdapat dua cara untuk membina indeks, tetapi kedua-duanya mempunyai masalah mereka sendiri.
+`lunrjs` Terdapat dua cara untuk membina indeks, dan kedua-duanya mempunyai masalah mereka sendiri.
 
 1. Fail indeks pra-bina
 
@@ -38,6 +38,8 @@ Carian teks penuh hadapan tulen yang lebih terkenal termasuk [lunrjs](https://lu
 
    Membina indeks ialah tugas yang intensif dari segi pengiraan Membina semula indeks setiap kali anda mengaksesnya akan menyebabkan ketinggalan yang jelas dan pengalaman pengguna yang lemah.
 
+---
+
 Selain `lunrjs` , terdapat beberapa penyelesaian carian teks penuh lain, seperti :
 
 [fusejs](https://www.fusejs.io) , hitung persamaan antara rentetan untuk mencari.
@@ -46,13 +48,13 @@ Prestasi penyelesaian ini sangat lemah dan tidak boleh digunakan untuk carian te
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , gunakan penapis Bloom untuk mencari, tidak boleh digunakan untuk carian awalan (contohnya, masukkan `goo` , cari `good` , `google` ), dan tidak boleh mencapai kesan penyiapan automatik yang serupa.
 
-Oleh kerana tidak berpuas hati dengan kekurangan penyelesaian sedia ada, `i18n.site` membangunkan penyelesaian carian teks penuh bahagian hadapan tulen baharu, yang mempunyai ciri berikut :
+Disebabkan kelemahan penyelesaian sedia ada, `i18n.site` telah membangunkan penyelesaian carian teks penuh bahagian hadapan tulen baharu, yang mempunyai ciri-ciri berikut :
 
 1. Menyokong carian berbilang bahasa dan bersaiz kecil Saiz kernel carian selepas pembungkusan `gzip` ialah `6.9KB` (untuk perbandingan, saiz `lunrjs` ialah `25KB` )
 1. Bina indeks terbalik berdasarkan `indexedb` , yang menggunakan lebih sedikit memori dan pantas.
 1. Apabila dokumen ditambah/diubah suai, hanya dokumen yang ditambah atau diubah suai diindeks semula, mengurangkan jumlah pengiraan.
 1. Menyokong carian awalan, yang boleh memaparkan hasil carian dalam masa nyata semasa pengguna menaip.
-1. Tersedia di luar talian
+1. Tersedia Di Luar Talian
 
 Di bawah, `i18n.site` butiran pelaksanaan teknikal akan diperkenalkan secara terperinci.
 
@@ -214,6 +216,6 @@ Apabila memaparkan hasil carian, nama bab akan dipaparkan dan bab akan dilayari 
 
 ## Rumuskan
 
-Carian teks penuh terbalik dilaksanakan semata-mata pada bahagian hadapan, dengan respons pantas dan tidak memerlukan pelayan.
+Carian teks penuh terbalik dilaksanakan semata-mata pada bahagian hadapan, tiada pelayan diperlukan. Ia sangat sesuai untuk laman web bersaiz kecil dan sederhana seperti dokumen dan blog peribadi.
 
-Ia sangat sesuai untuk laman web bersaiz kecil dan sederhana seperti dokumen dan blog peribadi.
+`i18n.site` Carian bahagian hadapan tulen yang dibangunkan sendiri sumber terbuka, bersaiz kecil dan tindak balas pantas, menyelesaikan kelemahan carian teks penuh bahagian hadapan tulen semasa dan memberikan pengalaman pengguna yang lebih baik.

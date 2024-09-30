@@ -6,27 +6,27 @@ Po niekoľkých týždňoch vývoja [i18n.site](//i18n.site) (čisto statický m
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Tento článok bude zdieľať implementáciu `i18n.site` čisto front-end technológie fulltextového vyhľadávania Navštívte [i18n.site](//i18n.site)
+Tento článok bude zdieľať technickú implementáciu `i18n.site` čistého front-endového fulltextového vyhľadávania. Navštívte stránku [i18n.site](//i18n.site)
 
-[Jadro](//github.com/i18n-site/plugin/tree/main/qy) [na vyhľadávanie](//github.com/i18n-site/ie/tree/main/qy) kódu s otvoreným zdrojom /
+[Kód](//github.com/i18n-site/plugin/tree/main/qy) / [source](//github.com/i18n-site/ie/tree/main/qy) :
 
 ## Prehľad Riešení Fulltextového Vyhľadávania Bez Servera
 
-Pre malé webové stránky, ako sú dokumenty/osobné blogy, ktoré sú čisto statické, je nepochybne príliš ťažké vytvoriť si backend fulltextového vyhľadávania a fulltextové vyhľadávanie bez služieb je nepochybne lepšia váha.
+Pre malé a stredne veľké čisto statické webové stránky, ako sú dokumenty/osobné blogy, je budovanie vlastného backendu pre fulltextové vyhľadávanie príliš náročné a častejšou voľbou je fulltextové vyhľadávanie bez služieb.
 
-Existujúce riešenia fulltextového vyhľadávania bez serverov spadajú do dvoch širokých kategórií.
+Bezserverové riešenia fulltextového vyhľadávania spadajú do dvoch širokých kategórií:
 
-Jedným z nich je poskytovateľ vyhľadávacích služieb tretej strany podobný [algolia.com](//algolia.com) ktorý poskytuje front-endové komponenty fulltextového vyhľadávania.
+Po prvé, [algolia.com](//algolia.com) poskytovatelia vyhľadávacích služieb tretích strán poskytujú front-end komponenty pre fulltextové vyhľadávanie.
 
-Takéto služby vyžadujú platbu a nie sú dostupné pre používateľov v pevninskej Číne z dôvodu problémov s dodržiavaním pravidiel webovej stránky.
+Takéto služby vyžadujú platbu na základe objemu vyhľadávania a pre používateľov v pevninskej Číne sú často nedostupné z dôvodu problémov, ako je napríklad dodržiavanie pravidiel webovej stránky.
 
 Nedá sa použiť offline, nedá sa použiť na intranete a má veľké obmedzenia. Tento článok veľa nerozoberá.
 
 Druhým je čisté front-endové fulltextové vyhľadávanie.
 
-Medzi známejšie čisto front-endové fulltextové vyhľadávania patria [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Bežne používané čisto front-endové fulltextové vyhľadávania zahŕňajú [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Existujú dva spôsoby vytvárania indexov, ale oba majú svoje vlastné problémy.
+`lunrjs` Existujú dva spôsoby vytvárania indexov a oba majú svoje vlastné problémy.
 
 1. Vopred vytvorené indexové súbory
 
@@ -38,6 +38,8 @@ Medzi známejšie čisto front-endové fulltextové vyhľadávania patria [lunrj
 
    Vytvorenie indexu je výpočtovo náročná úloha Prebudovanie indexu zakaždým, keď k nemu pristúpite, spôsobí zjavné oneskorenia a zlú používateľskú skúsenosť.
 
+---
+
 Okrem `lunrjs` existujú aj iné riešenia fulltextového vyhľadávania, ako napríklad :
 
 [fusejs](https://www.fusejs.io) vypočítajte podobnosť medzi reťazcami na vyhľadávanie.
@@ -46,13 +48,13 @@ Výkon tohto riešenia je extrémne slabý a nedá sa použiť na fulltextové v
 
 [TinySearch](https://github.com/tinysearch/tinysearch) na vyhľadávanie použite filter Bloom, nedá sa použiť na vyhľadávanie prefixov (napríklad zadajte `goo` , hľadajte `good` , `google` ) a nemôžete dosiahnuť podobný efekt automatického dokončenia.
 
-Z nespokojnosti s nedostatkami existujúcich riešení vyvinul `i18n.site` nové čisté front-endové fulltextové riešenie vyhľadávania, ktoré má nasledujúce vlastnosti :
+Z dôvodu nedostatkov existujúcich riešení vyvinul `i18n.site` nové čisté front-endové fulltextové riešenie, ktoré má nasledujúce vlastnosti :
 
 1. Podporuje viacjazyčné vyhľadávanie a má malú veľkosť. Veľkosť vyhľadávacieho jadra po zabalení `gzip` je `6.9KB` (pre porovnanie, veľkosť `lunrjs` je `25KB` ).
 1. Zostavte invertovaný index založený na `indexedb` , ktorý zaberá menej pamäte a je rýchly.
 1. Keď sa pridajú/upravia dokumenty, preindexujú sa iba pridané alebo upravené dokumenty, čím sa zníži množstvo výpočtov.
 1. Podporuje vyhľadávanie prefixov, ktoré dokáže zobraziť výsledky vyhľadávania v reálnom čase, keď používateľ píše.
-1. Dostupné offline
+1. Dostupné Offline
 
 Nižšie bude podrobne predstavených `i18n.site` podrobností o technickej implementácii.
 
@@ -148,7 +150,7 @@ Aby sa zobrazili výsledky vyhľadávania, keď používateľ píše, napríklad
 
 Vyhľadávacie jadro použije tabuľku `prefix` pre segmentáciu posledného slova za slovom na nájdenie všetkých slov s predponou a postupné vyhľadávanie.
 
-Funkcia Anti-shake `debounce` sa tiež používa v interakcii na prednej strane (implementovaná nasledovne), aby sa znížila frekvencia vstupu používateľa spúšťajúceho vyhľadávanie a znížil sa objem výpočtov.
+Funkcia Anti-shake `debounce` sa používa aj pri interakcii na prednej strane (implementovaná nasledovne), aby sa znížila frekvencia vstupu používateľa spúšťajúceho vyhľadávanie a znížil sa objem výpočtov.
 
 ```js
 export default (wait, func) => {
@@ -214,6 +216,6 @@ Pri zobrazovaní výsledkov vyhľadávania sa zobrazí názov kapitoly a po klik
 
 ## Zhrnúť
 
-Invertované fulltextové vyhľadávanie implementované čisto na frontende, s rýchlou odozvou a bez potreby servera.
+Invertované fulltextové vyhľadávanie implementované čisto na frontende, nie je potrebný žiadny server. Je veľmi vhodný pre malé a stredne veľké webové stránky, ako sú dokumenty a osobné blogy.
 
-Je veľmi vhodný pre malé a stredne veľké webové stránky, ako sú dokumenty a osobné blogy.
+`i18n.site` Open source samostatne vyvinuté čisté front-end vyhľadávanie, malé rozmery a rýchla odozva, rieši nedostatky súčasného čistého front-end fulltextového vyhľadávania a poskytuje lepšiu používateľskú skúsenosť.

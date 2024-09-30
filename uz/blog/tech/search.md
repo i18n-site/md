@@ -6,27 +6,27 @@ Bir necha haftalik ishlab chiqishdan so'ng, [i18n.site](//i18n.site) (sof statik
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ushbu maqola `i18n.site` sof to'liq matnli qidiruv texnologiyasini amalga oshirishni baham ko'radi Visit [i18n.site](//i18n.site)
+Ushbu maqola `i18n.site` sof to'liq matnli qidiruvning texnik tatbiqini baham [i18n.site](//i18n.site) .
 
-Ochiq kodli [qidiruv yadrosi](//github.com/i18n-site/ie/tree/main/qy) / [interfeysi](//github.com/i18n-site/plugin/tree/main/qy)
+: manba kodini [qidirish yadrosi](//github.com/i18n-site/ie/tree/main/qy) / [Interfaol interfeys](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Serversiz Toʻliq Matnli Qidiruv Yechimlarini Koʻrib Chiqish
 
-Hujjatlar/shaxsiy bloglar kabi sof statik bo'lgan kichik veb-saytlar uchun, shubhasiz, o'zingiz to'liq matnli qidiruvni yaratish juda og'ir va xizmatlarsiz to'liq matnli qidiruv, shubhasiz, yaxshiroq vazndir.
+Hujjatlar/shaxsiy bloglar kabi kichik va oʻrta oʻlchamli sof statik veb-saytlar uchun oʻz-oʻzidan qurilgan toʻliq matnli qidiruv serverini yaratish juda ogʻir va xizmatsiz toʻliq matnli qidiruv keng tarqalgan tanlovdir.
 
-Mavjud serversiz to'liq matnli qidiruv echimlari ikkita keng toifaga bo'linadi.
+Serversiz toʻliq matnli qidiruv yechimlari ikkita keng toifaga boʻlinadi:
 
-Ulardan biri [algolia.com](//algolia.com) u toʻliq matnli qidiruv komponentlarini taqdim etadi.
+Birinchidan, [algolia.com](//algolia.com) o'xshash uchinchi tomon qidiruv xizmati provayderlari to'liq matnli qidiruv uchun front-end komponentlarini taqdim etadilar.
 
-Bunday xizmatlar to'lovni talab qiladi va veb-saytga muvofiqlik muammolari tufayli materik Xitoydagi foydalanuvchilar uchun mavjud emas.
+Bunday xizmatlar qidiruv hajmiga qarab to'lovni talab qiladi va veb-saytga muvofiqlik kabi muammolar tufayli materik Xitoydagi foydalanuvchilar uchun ko'pincha mavjud emas.
 
 U oflayn rejimda ishlatilmaydi, intranetda ishlatilmaydi va katta cheklovlarga ega. Ushbu maqolada ko'p muhokama qilinmaydi.
 
 Ikkinchisi sof front-end to'liq matnli qidiruvdir.
 
-Ko'proq taniqli so'z oldingi to'liq matnli qidiruvlar [lunrjs](https://lunrjs.com) va [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) o'z ichiga oladi.
+Keng tarqalgan sof front-end toʻliq matnli qidiruvlar [lunrjs](https://lunrjs.com) va [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) oʻz ichiga oladi.
 
-`lunrjs` Indekslarni yaratishning ikkita usuli bor, lekin ikkalasining ham o'z muammolari bor.
+`lunrjs` Indekslarni yaratishning ikki yo'li mavjud va ikkalasining ham o'z muammolari bor.
 
 1. Oldindan tuzilgan indeks fayllari
 
@@ -38,6 +38,8 @@ Ko'proq taniqli so'z oldingi to'liq matnli qidiruvlar [lunrjs](https://lunrjs.co
 
    Indeks yaratish - bu hisoblashni talab qiladigan ish bo'lib, unga har safar kirganingizda uni qayta tiklash aniq kechikishlar va yomon foydalanuvchi tajribasini keltirib chiqaradi.
 
+---
+
 `lunrjs` dan tashqari yana ba'zi to'liq matnli qidiruv echimlari mavjud, masalan :
 
 [fusejs](https://www.fusejs.io) qidirish uchun satrlar orasidagi o'xshashlikni hisoblang.
@@ -46,13 +48,13 @@ Ushbu yechimning unumdorligi juda past va uni toʻliq matnli qidirish uchun ishl
 
 [TinySearch](https://github.com/tinysearch/tinysearch) qidirish uchun Bloom filtridan foydalaning, prefiksni qidirish uchun ishlatib bo'lmaydi (masalan, `goo` kiriting, `good` , `google` ni kiriting) va shunga o'xshash avtomatik yakunlash effektiga erishib bo'lmaydi.
 
-Mavjud yechimlarning kamchiliklaridan norozi bo'lgan holda, `i18n.site` quyidagi xususiyatlarga ega bo'lgan yangi sof front-end to'liq matnli qidiruv yechimini ishlab chiqdi :
+Mavjud echimlarning kamchiliklari tufayli `i18n.site` quyidagi xususiyatlarga ega bo'lgan yangi sof front-end to'liq matnli qidiruv yechimini ishlab chiqdi :
 
 1. Ko'p tilli qidiruvni qo'llab-quvvatlaydi va kichik o'lchamli `gzip` qadoqlashdan keyin qidiruv yadrosining o'lchami `6.9KB` ga teng (taqqoslash uchun `lunrjs` o'lchami `25KB` ga teng).
 1. `indexedb` ga asoslangan teskari indeksni yarating, u kamroq xotirani egallaydi va tezdir.
 1. Hujjatlar qo'shilganda/o'zgartirilganda faqat qo'shilgan yoki o'zgartirilgan hujjatlar qayta indekslanadi, bu esa hisob-kitoblar miqdorini kamaytiradi.
 1. Prefiks qidiruvini qo'llab-quvvatlaydi va foydalanuvchi yozish paytida real vaqtda qidiruv natijalarini ko'rsatishi mumkin.
-1. Oflayn rejimda mavjud
+1. Oflayn Rejimda Mavjud
 
 Quyida `i18n.site` texnik amalga oshirish tafsilotlari batafsil tanishtiriladi.
 
@@ -214,6 +216,6 @@ Qidiruv natijalarini ko'rsatishda bo'lim nomi ko'rsatiladi va bosilganda bo'lim 
 
 ## Xulosa Qiling
 
-To'liq matnli teskari qidiruv faqat old tomondan amalga oshiriladi, tezkor javob beradi va serverga ehtiyoj sezmaydi.
+Inverted to'liq matnli qidiruv faqat old tomonda amalga oshiriladi, server talab qilinmaydi. Hujjatlar va shaxsiy bloglar kabi kichik va o'rta veb-saytlar uchun juda mos keladi.
 
-Hujjatlar va shaxsiy bloglar kabi kichik va o'rta veb-saytlar uchun juda mos keladi.
+`i18n.site` Ochiq manbali o'z-o'zidan ishlab chiqilgan sof oldingi qidiruv, kichik o'lchamli va tezkor javob, hozirgi sof front-end to'liq matnli qidiruvning kamchiliklarini hal qiladi va foydalanuvchi tajribasini yaxshilaydi.

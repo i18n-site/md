@@ -6,27 +6,27 @@ Ngemva kwamaviki ambalwa okuthuthuka, [i18n.site](//i18n.site) (ithuluzi lokwakh
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Lesi sihloko sizokwabelana ngokusetshenziswa kobuchwepheshe bokusesha bombhalo ophelele ongu `i18n.site` . Ungathola umphumela [i18n.site](//i18n.site) .
+Lesi sihloko sizokwabelana ngokusetshenziswa kobuchwepheshe bosesho oluphelele lombhalo ophelele ongu `i18n.site` [i18n.site](//i18n.site) ukuze uthole umphumela wosesho.
 
-Ikhodi yomthombo [wokusesha](//github.com/i18n-site/ie/tree/main/qy) ovulekile i / [interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
+Ikhodi yomthombo ovulekile : [Sesha i-kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Uhlolojikelele Lwezisombululo Zokusesha Zombhalo Ogcwele Ezingenasiphakeli
 
-Kumawebhusayithi amancane afana namadokhumenti/amabhulogi omuntu siqu amile nje, akungabazeki ukuthi kunzima kakhulu ukwakha isipele sosesho sombhalo ogcwele uwedwa, futhi ukusesha umbhalo ogcwele ngaphandle kwezinsizakalo ngokungangabazeki kuyisisindo esingcono.
+Kumawebhusayithi amancane naphakathi nendawo amile njengamadokhumenti/amabhulogi omuntu siqu, ukwakha isizinda sokusesha sombhalo ogcwele esakhelwe wena kusinda kakhulu, futhi ukusesha umbhalo ogcwele okungenasevisi kuyisinqumo esivame kakhulu.
 
-Izixazululo ezikhona zokusesha umbhalo ogcwele ezingenasiphakeli ziwela ezigabeni ezimbili ezibanzi.
+Izixazululo zokusesha umbhalo ogcwele ezingenaseva ziwela ezigabeni ezimbili ezibanzi:
 
-Omunye ungumnikezeli wesevisi yosesho wenkampani yangaphandle efana ne- [algolia.com](//algolia.com) ehlinzeka ngezingxenye zokusesha zombhalo ogcwele osekupheleni.
+Okokuqala, okufanayo [algolia.com](//algolia.com)
 
-Amasevisi anjalo adinga inkokhelo futhi awatholakali kubasebenzisi base-Mainland China ngenxa yezinkinga zokuthobela iwebhusayithi.
+Amasevisi anjalo adinga inkokhelo ngokusekelwe kumthamo wokusesha, futhi ngokuvamile awatholakali kubasebenzisi base-Mainland China ngenxa yezinkinga ezifana nokuthobela iwebhusayithi.
 
 Ngeke isetshenziswe ungaxhunyiwe ku-inthanethi, ayikwazi ukusetshenziswa ku-intranethi, futhi inemikhawulo emikhulu. Lesi sihloko asixoxi okuningi.
 
 Okwesibili usesho lombhalo ogcwele osekupheleni.
 
-Ukusesha kombhalo ogcwele ophelele [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js kuhlanganisa [lunrjs](https://lunrjs.com)
+Ukusesha kombhalo ophelele okuvame [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js kuhlanganisa [lunrjs](https://lunrjs.com)
 
-`lunrjs` Zimbili izindlela zokwakha izinkomba, kodwa zombili zinezinkinga zazo.
+`lunrjs` Kunezindlela ezimbili zokwakha izinkomba, futhi zombili zinezinkinga zazo.
 
 1. Amafayela enkomba akhiwe ngaphambilini
 
@@ -38,6 +38,8 @@ Ukusesha kombhalo ogcwele ophelele [https://github.com/weixsong/elasticlunr.js](
 
    Ukwakha inkomba kuwumsebenzi onzima wekhompyutha Ukwakha kabusha inkomba njalo lapho ufinyelela kuyo kuzobangela ukubambezeleka okusobala kanye nolwazi olubi lomsebenzisi.
 
+---
+
 Ngokungeziwe kokuthi `lunrjs` , kunezinye izixazululo zokusesha zombhalo ogcwele, njengokuthi :
 
 [fusejs](https://www.fusejs.io) , bala ukufana phakathi kwezintambo zokusesha.
@@ -46,13 +48,13 @@ Ukusebenza kwalesi sixazululo kumbi kakhulu futhi akukwazi ukusetshenziselwa uku
 
 [TinySearch](https://github.com/tinysearch/tinysearch) sebenzisa isihlungi se-Bloom ukusesha, asikwazi ukusetshenziselwa ukusesha isiqalo (isibonelo, faka `goo` , sesha `good` , `google` ), futhi awukwazi ukuzuza umphumela ofanayo wokuqedela ozenzakalelayo.
 
-Ngenxa yokunganeliseki ngokushiyeka kwezixazululo ezikhona, `i18n.site` uthuthukise isixazululo esisha sombhalo ogcwele esihlanzekile esingaphambili, esinezici ezilandelayo :
+Ngenxa yokushiyeka kwezixazululo ezikhona, `i18n.site` usungule isisombululo esisha sombhalo ophelele esihlanzekile esingaphambili, esinezici ezilandelayo :
 
 1. Isekela ukusesha kwezilimi eziningi futhi incane ngosayizi Usayizi we-kernel yokusesha ngemuva kokupakishwa `gzip` ngu- `6.9KB` (uma kuqhathaniswa, usayizi ka- `lunrjs` ngu- `25KB` )
 1. Yakha inkomba ehlanekezelwe ngokusekelwe ku `indexedb` , ethatha inkumbulo encane futhi esheshayo.
 1. Lapho amadokhumenti engezwa/elungiswa, imibhalo eyengeziwe noma eshintshiwe kuphela ekhonjiswa kabusha, okunciphisa inani lezibalo.
 1. Isekela ukusesha kwesiqalo, okungabonisa imiphumela yosesho ngesikhathi sangempela ngenkathi umsebenzisi ebhala.
-1. Itholakala ungaxhunyiwe ku-inthanethi
+1. Itholakala Ungaxhunyiwe Ku-Inthanethi
 
 Ngezansi, imininingwane engu `i18n.site` yokuqalisa ukusebenza izokwethulwa ngokuningiliziwe.
 
@@ -214,6 +216,6 @@ Uma ubonisa imiphumela yosesho, igama lesahluko lizovezwa futhi isahluko sizozul
 
 ## Fingqa
 
-Usesho lombhalo ogcwele ohlanekezelwe lwenziwa ekuqaleni kuphela, olunempendulo esheshayo futhi asikho isidingo seseva.
+Usesho lombhalo ogcwele ohlanekezelwe lusetshenziswe ekuqaleni kuphela, asikho iseva edingekayo. Ifaneleka kakhulu kumawebhusayithi amancane naphakathi afana namadokhumenti namabhulogi omuntu siqu.
 
-Afaneleka kakhulu amawebhusayithi amancane naphakathi afana namadokhumenti namabhulogi omuntu siqu.
+`i18n.site` Umthombo ovulekile usesho lwangaphambili oluhlanzekile oluthuthukisiwe, oluncane ngosayizi nokusabela okusheshayo, luxazulula ukushiyeka kosesho olugcwele lwamanje lwangaphambili oluphelele futhi lunikeza ulwazi olungcono lomsebenzisi.

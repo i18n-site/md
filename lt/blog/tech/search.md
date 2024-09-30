@@ -6,27 +6,27 @@ Po kelių savaičių kūrimo, [i18n.site](//i18n.site) (visiškai statinis markd
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Šiame straipsnyje bus pristatyta `i18n.site` grynos viso teksto paieškos technologija. [i18n.site](//i18n.site) patirti paieškos efektą.
+Šiame straipsnyje bus aprašytas `i18n.site` grynos viso teksto paieškos techninis įgyvendinimas. Aplankykite [i18n.site](//i18n.site)
 
-Kodas atviro kodo [paieškos](//github.com/i18n-site/ie/tree/main/qy) [branduolys](//github.com/i18n-site/plugin/tree/main/qy) /
+Kodas atviro : [Ieškoti branduolio](//github.com/i18n-site/ie/tree/main/qy) / [Interaktyvi sąsaja](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Be Serverio Viso Teksto Paieškos Sprendimų Apžvalga
 
-Mažoms svetainėms, tokioms kaip dokumentai / asmeniniai tinklaraščiai, kurie yra visiškai statiški, neabejotinai per sunku patiems sukurti viso teksto paieškos užpakalinę programą, o viso teksto paieška be paslaugų yra neabejotinai geresnis svoris.
+Mažoms ir vidutinėms visiškai statinėms svetainėms, pvz., dokumentams / asmeniniams tinklaraščiams, sukurti savarankiškai sukurtą viso teksto paieškos užpakalinę programą yra per sunku, o viso teksto paieška be paslaugų yra dažnesnis pasirinkimas.
 
-Esami be serverio viso teksto paieškos sprendimai skirstomi į dvi plačias kategorijas.
+Viso teksto paieškos be serverio sprendimai skirstomi į dvi plačias kategorijas:
 
-Vienas yra trečiosios šalies paieškos paslaugų teikėjas, panašus į [algolia.com](//algolia.com) teikiantis priekinės viso teksto paieškos komponentus.
+Pirma, [algolia.com](//algolia.com) trečiųjų šalių paieškos paslaugų teikėjai teikia priekinius komponentus viso teksto paieškai.
 
-Už tokias paslaugas reikia mokėti ir jos nepasiekiamos vartotojams žemyninėje Kinijoje dėl svetainių atitikties problemų.
+Už tokias paslaugas reikia mokėti pagal paieškos apimtį ir dažnai nepasiekiamos naudotojams žemyninėje Kinijoje dėl tokių problemų, kaip svetainės atitiktis.
 
 Jis negali būti naudojamas neprisijungus, negali būti naudojamas intranete ir turi didelių apribojimų. Šiame straipsnyje daug nekalbama.
 
 Antrasis yra gryna priekinė viso teksto paieška.
 
-Gerai žinomos priekinės viso teksto paieškos [lunrjs](https://lunrjs.com) ir [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Dažniausiai naudojamos grynos priekinės viso teksto paieškos [lunrjs](https://lunrjs.com) ir [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Yra du indeksų kūrimo būdai, tačiau abu turi savo problemų.
+`lunrjs` Yra du indeksų kūrimo būdai ir abu turi savo problemų.
 
 1. Iš anksto sukurti indekso failai
 
@@ -38,6 +38,8 @@ Gerai žinomos priekinės viso teksto paieškos [lunrjs](https://lunrjs.com) ir 
 
    Indekso kūrimas yra daug skaičiavimo reikalaujanti užduotis. Kiekvieną kartą, kai jį pasiekiate, atkuriant indeksą atsiras akivaizdžių vėlavimų ir prastos vartotojo patirties.
 
+---
+
 Be `lunrjs` , yra keletas kitų viso teksto paieškos sprendimų, tokių kaip :
 
 [fusejs](https://www.fusejs.io) apskaičiuokite ieškomų eilučių panašumą.
@@ -46,13 +48,13 @@ Be `lunrjs` , yra keletas kitų viso teksto paieškos sprendimų, tokių kaip :
 
 , [TinySearch](https://github.com/tinysearch/tinysearch) naudokite „Bloom“ filtrą, jo negalima naudoti ieškant priešdėlių (pvz., įveskite `goo` , ieškokite `good` , `google` ) ir negalite pasiekti panašaus automatinio užbaigimo efekto.
 
-Iš nepasitenkinimo esamų sprendimų trūkumais `i18n.site` sukūrė naują gryno front-end viso teksto paieškos sprendimą, kuris turi šias funkcijas :
+Dėl esamų sprendimų trūkumų `i18n.site` sukūrė naują gryno front-end viso teksto paieškos sprendimą, kuris pasižymi šiomis savybėmis :
 
 1. Palaiko paiešką keliomis kalbomis ir yra mažo dydžio. Paieškos branduolio dydis supakavus `gzip` yra `6.9KB` (palyginimui, `lunrjs` dydis yra `25KB` ).
 1. Sukurkite apverstą indeksą, pagrįstą `indexedb` , kuris užima mažiau atminties ir yra greitas.
 1. Pridedant/keičiant dokumentus, iš naujo indeksuojami tik pridėti ar pakeisti dokumentai, sumažinant skaičiavimų kiekį.
 1. Palaiko priešdėlių paiešką, kuri gali rodyti paieškos rezultatus realiuoju laiku, kai vartotojas rašo.
-1. Galima neprisijungus
+1. Galima Neprisijungus
 
 Žemiau bus išsamiai pristatyta `i18n.site` techninio įgyvendinimo detalių.
 
@@ -214,6 +216,6 @@ Kai rodomi paieškos rezultatai, bus rodomas skyriaus pavadinimas, o spustelėju
 
 ## Apibendrinti
 
-Apversta viso teksto paieška įdiegta tik priekinėje dalyje, greitai reaguoja ir nereikia serverio.
+Apversta viso teksto paieška įdiegta tik priekinėje dalyje, nereikia serverio. Tai labai tinka mažoms ir vidutinio dydžio svetainėms, tokioms kaip dokumentai ir asmeniniai tinklaraščiai.
 
-Tai labai tinka mažoms ir vidutinio dydžio svetainėms, tokioms kaip dokumentai ir asmeniniai tinklaraščiai.
+`i18n.site` Atvirojo kodo savarankiškai sukurta gryna priekinė paieška, mažo dydžio ir greito atsako, pašalina dabartinės grynos priekinės viso teksto paieškos trūkumus ir suteikia geresnę vartotojo patirtį.

@@ -6,27 +6,27 @@ Pärast mitmenädalast arendust toetab [i18n.site](//i18n.site) (puhtalt staatil
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-See artikkel jagab `i18n.site` puhta esiotsa täistekstiotsingu tehnoloogiat Külastage [i18n.site](//i18n.site)
+See artikkel jagab `i18n.site` puhta esiotsa täistekstiotsingu tehnilist rakendamist Külastage [i18n.site](//i18n.site)
 
-Kood avatud [lähtekoodiga](//github.com/i18n-site/plugin/tree/main/qy) [otsingutuum](//github.com/i18n-site/ie/tree/main/qy) /
+Kood avatud : [Otsi kernelist](//github.com/i18n-site/ie/tree/main/qy) / [Interaktiivne liides](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Ülevaade Serverita Täistekstiotsingu Lahendustest
 
-Väikeste veebisaitide jaoks, nagu näiteks dokumendid/isiklikud ajaveebid, mis on puhtalt staatilised, on kahtlemata liiga raske ise täistekstiotsingu taustaprogrammi luua ja ilma teenusteta täistekstiotsing on kahtlemata parem.
+Väikeste ja keskmise suurusega puhtalt staatiliste veebisaitide (nt dokumendid/isiklikud ajaveebid) jaoks on iseehitatud täistekstiotsingu taustaprogrammi loomine liiga raske ja teenusevaba täistekstiotsing on levinum valik.
 
-Olemasolevad serverita täistekstiotsingu lahendused jagunevad kahte suurde kategooriasse.
+Serverita täistekstiotsingu lahendused jagunevad kahte suurde kategooriasse:
 
-Üks on teenusega [algolia.com](//algolia.com) mis pakub esiotsa täistekstiotsingu komponente.
+Esiteks pakuvad [algolia.com](//algolia.com) kolmanda osapoole otsinguteenuse pakkujad täistekstiotsingu jaoks esiotsa komponente.
 
-Sellised teenused nõuavad tasu ja pole Mandri-Hiina kasutajatele veebisaidi vastavuse probleemide tõttu saadaval.
+Sellised teenused nõuavad otsingumahul põhinevat tasu ja sageli pole need Mandri-Hiina kasutajatele saadaval selliste probleemide tõttu nagu veebisaidi järgimine.
 
 Seda ei saa kasutada võrguühenduseta, seda ei saa kasutada sisevõrgus ja sellel on suured piirangud. See artikkel ei käsitle palju.
 
 Teine on puhas esiotsa täistekstiotsing.
 
-Tuntumad puhtad esiotsa täistekstiotsingud [lunrjs](https://lunrjs.com) ja [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Tavaliselt kasutatavad puhtad esiotsa täistekstiotsingud [lunrjs](https://lunrjs.com) ja [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Indeksite koostamiseks on kaks võimalust, kuid mõlemal on oma probleemid.
+`lunrjs` Indeksite koostamiseks on kaks võimalust ja mõlemal on oma probleemid.
 
 1. Eelehitatud indeksfailid
 
@@ -38,6 +38,8 @@ Tuntumad puhtad esiotsa täistekstiotsingud [lunrjs](https://lunrjs.com) ja [ El
 
    Indeksi koostamine on arvutuslikult intensiivne ülesanne. Indeksi uuesti ülesehitamine iga kord, kui sellele juurde pääsete, põhjustab ilmseid viivitusi ja kehva kasutuskogemust.
 
+---
+
 Lisaks `lunrjs` -le on veel mõned täistekstiotsingu lahendused, näiteks :
 
 [fusejs](https://www.fusejs.io) arvutage otsitavate stringide sarnasus.
@@ -46,13 +48,13 @@ Selle lahenduse jõudlus on äärmiselt halb ja seda ei saa kasutada täisteksti
 
 [TinySearch](https://github.com/tinysearch/tinysearch) kasutage otsimiseks Bloomi filtrit, seda ei saa kasutada eesliidete otsimiseks (näiteks sisestage `goo` , otsige `good` , `google` ) ega saa saavutada sarnast automaatse lõpetamise efekti.
 
-Rahulolematusest olemasolevate lahenduste puudustega töötas `i18n.site` välja uue puhta esiotsa täistekstiotsingu lahenduse, millel on järgmised omadused :
+Olemasolevate lahenduste puuduste tõttu töötas `i18n.site` välja uue puhta esiotsa täistekstiotsingu lahenduse, millel on järgmised omadused :
 
 1. Toetab mitmekeelset otsingut ja on väikese suurusega. Otsingutuuma suurus pärast pakkimist `gzip` on `6.9KB` (võrdluseks: `lunrjs` suurus on `25KB` ).
 1. Koostage `indexedb` põhinev ümberpööratud indeks, mis võtab vähem mälu ja on kiire.
 1. Dokumentide lisamisel/muutmisel indekseeritakse uuesti ainult lisatud või muudetud dokumendid, vähendades arvutuste mahtu.
 1. Toetab eesliidete otsingut, mis kuvab otsingutulemusi reaalajas, kui kasutaja sisestab.
-1. Saadaval võrguühenduseta
+1. Saadaval Võrguühenduseta
 
 Allpool tutvustatakse üksikasjalikult `i18n.site` tehnilist teostuse üksikasju.
 
@@ -214,6 +216,6 @@ Otsingutulemuste kuvamisel kuvatakse peatüki nimi ja klõpsamisel navigeeritaks
 
 ## Tehke Kokkuvõte
 
-Ümberpööratud täistekstiotsing, mis on rakendatud puhtalt esiotsas, kiire reageerimisega ja serverit pole vaja.
+Pööratud täistekstiotsing on rakendatud puhtalt esiotsas, serverit pole vaja. See sobib väga hästi väikeste ja keskmise suurusega veebisaitidele, nagu dokumendid ja isiklikud ajaveebid.
 
-See sobib väga hästi väikeste ja keskmise suurusega veebisaitidele, nagu dokumendid ja isiklikud ajaveebid.
+`i18n.site` Avatud lähtekoodiga isearendatud puhas esiotsing, väikese suurusega ja kiire reageerimine, lahendab praeguse puhta esiotsa täistekstiotsingu puudused ja pakub paremat kasutuskogemust.

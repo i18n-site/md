@@ -6,27 +6,27 @@ Endzhaku ka mavhiki yo hlayanyana ya nhluvukiso, [i18n.site](//i18n.site) (xitir
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Xihloko lexi xi ta avelana ku tirhisiwa ka `i18n.site` pure front-end full-text search Endzela [i18n.site](//i18n.site)
+Xihloko lexi xi ta [i18n.site](//i18n.site) ku tirhisiwa ka xithekiniki ka `i18n.site` pure front-end full-text Search !
 
-Khodi ya xihlovo xo pfuleka [xa](//github.com/i18n-site/plugin/tree/main/qy) [ku lavisisa kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Khodi xihlovo lexi pfulekeke : [Search kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Nkatsakanyo Wa Swintshuxo Swa Ku Lavisisa Matsalwa Hinkwawo Lama Nga Riki Na Sevha
 
-Eka tiwebsite letitsongo to fana na matsalwa/ti-blog ta munhu hi xiyexe leti nga cinciki ntsena, handle ko kanakana swa tika swinene ku aka backend yo lavisisa matsalwa hinkwawo hi wexe, naswona ku lavisisa matsalwa hinkwawo handle ka vukorhokeri handle ko kanakana i ntiko wo antswa.
+Eka tiwebsite letitsongo na ta le xikarhi leti nga cinciki ntsena to fana na matsalwa/tiblog ta munhu hi xiyexe, ku aka backend yo lavisisa matsalwa hinkwawo leyi tiyimeleke swi tika ngopfu, naswona ku lavisisa matsalwa hinkwawo lama nga riki na vukorhokeri i nhlawulo lowu tolovelekeke swinene.
 
-Switshuxo swa ku lavisisa matsalwa hinkwawo leswi nga kona leswi nga riki na sevha swi wela eka swiyenge swimbirhi swo anama.
+Switshuxo swa ku lavisisa matsalwa hinkwawo lama nga riki na sevha swi wela eka swiyenge swimbirhi swo anama:
 
-Yin’wana i muphakeri wa vukorhokeri bya ku lavisisa wa munhu wa vunharhu loyi a fanaka na [algolia.com](//algolia.com) loyi a nyikaka swiphemu swa ku lavisisa swa matsalwa hinkwawo ya le mahlweni.
+Xo sungula, lava fanaka [algolia.com](//algolia.com) Vaphakeri va vukorhokeri bya ku lavisisa bya vanhu va vunharhu va nyika swiphemu swa le mahlweni swa ku lavisisa matsalwa hinkwawo.
 
-Vukorhokeri byo tano byi lava ku hakeriwa naswona a byi kumeki eka vatirhisi etikweni-nkulu ra China hikwalaho ka timhaka ta ku landzelela tiwebsite.
+Vukorhokeri byo tano byi lava ku hakeriwa hi ku ya hi vholumo ya ku lavisisa, naswona hakanyingi a byi kumeki eka vatirhisi etikweni-nkulu ra China hikwalaho ka timhaka to fana na ku landzelerisa ka webusayiti.
 
 A yi nge tirhisiwi handle ka inthanete, a yi nge tirhisiwi eka intranet naswona yi ni swipimelo leswikulu. Xihloko lexi a xi vulavuli hi swo tala.
 
 Xa vumbirhi i ku lavisisa matsalwa hinkwawo ya le mahlweni lama tengeke.
 
-Ku lavisisa loku tivekaka swinene ka pure front-end full-text ku katsa [lunrjs](https://lunrjs.com) na [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Ku lavisisa ka matsalwa hinkwawo ya le mahlweni lama tengeke lama tirhisiwaka hi ntolovelo ku katsa [lunrjs](https://lunrjs.com) na [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Ku na tindlela timbirhi to aka ti-index, kambe ha timbirhi ti na swiphiqo swa tona.
+`lunrjs` Kuna tindlela timbirhi to aka ti index, naswona havumbirhi bya tona ti na swiphiqo swa tona.
 
 1. Tifayili ta index leti akiweke ka ha ri emahlweni
 
@@ -38,6 +38,8 @@ Ku lavisisa loku tivekaka swinene ka pure front-end full-text ku katsa [lunrjs](
 
    Ku aka index i ntirho lowu lavaka xibalo Ku tlhela u aka index nkarhi wun’wana na wun’wana loko u yi nghena swi ta vanga ku hlwela loku nga erivaleni na ntokoto wo biha wa mutirhisi.
 
+---
+
 Ku engetela eka `lunrjs` , ku na swintshuxo swin’wana swo lavisisa matsalwa lama heleleke, swo tanihi :
 
 [fusejs](https://www.fusejs.io) , hlayela ku fana exikarhi ka tintambhu to lavisisa.
@@ -46,13 +48,13 @@ Matirhelo ya xitshunxo lexi ya bihile swinene naswona a ya nge tirhisiwi ku lavi
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Hi ku nga eneriseki hi ku pfumaleka ka swintshuxo leswi nga kona, `i18n.site` u tumbuluxile xitshunxo lexintshwa xo lavisisa xa matsalwa hinkwawo xa le mahlweni lexi tengeke, lexi nga na swihlawulekisi leswi landzelaka :
+Hikwalaho ka ku pfumaleka ka swintshuxo leswi nga kona, `i18n.site` yi tumbuluxile xitshunxo lexintshwa xa pure front-end full-text search, lexi nga na swihlawulekisi leswi landzelaka :
 
 1. Yi seketela ku lavisisa ka tindzimi to tala naswona i yitsongo hi vukulu Vukulu bya kernel yo lavisisa endzhaku ko paka `gzip` i `6.9KB` (ku pimanisa, vukulu bya `lunrjs` i `25KB` )
 1. Aka index leyi hundzuriweke leyi sekeriweke eka `indexedb` , leyi tekaka memori yitsongo naswona yi hatlisaka.
 1. Loko matsalwa ya engeteriwa/cinciwa, i matsalwa lama engeteriweke kumbe lama cinciweke ntsena lama tlhelaka ma endliwa index, leswi hungutaka nhlayo ya swibalo.
 1. Yi seketela ku lavisisa ka swirhangi, leswi nga kombisaka mbuyelo wa ku lavisisa hi nkarhi wa xiviri loko mutirhisi a ri karhi a thayipa.
-1. Yi kumeka ehandle ka inthanete
+1. Yi Kumeka Ehandle Ka Inthanete
 
 Laha hansi, vuxokoxoko `i18n.site` bya ku tirhisiwa ka xithekiniki byi ta nghenisiwa hi vuxokoxoko.
 
@@ -214,6 +216,6 @@ Loko ku kombisiwa mimbuyelo ya ku lavisisa, vito ra ndzima ri ta kombisiwa naswo
 
 ## Pfuxeta
 
-Ku lavisisa ka matsalwa hinkwawo loku hundzuriweke loku tirhisiweke ntsena eka makumu ya le mahlweni, na nhlamulo yo hatlisa naswona ku nga ri na xilaveko xa sevha.
+Ku lavisisa ka matsalwa hinkwawo loku hundzuriweke ku tirhisiwa ntsena eka makumu ya le mahlweni, a ku laveki sevha. Yi lulamerile swinene eka tiwebsite letintsongo na ta le xikarhi to fana na matsalwa na ti-blog ta munhu hi xiyexe.
 
-Yi lulamerile swinene eka tiwebsite letintsongo na ta le xikarhi to fana na matsalwa na ti-blog ta munhu hi xiyexe.
+`i18n.site` Ku lavisisa ka le mahlweni loku tengeke loku ti tumbuluxeke ka xihlovo lexi pfulekeke, lokutsongo hi vukulu na nhlamulo yo hatlisa, ku tlhantlha swihoxo swa ku lavisisa ka sweswi ka matsalwa yo basa ya le mahlweni yo basa naswona ku nyika ntokoto wo antswa wa mutirhisi.

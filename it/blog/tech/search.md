@@ -6,27 +6,27 @@ Dopo diverse settimane di sviluppo, [i18n.site](//i18n.site) (strumento di tradu
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Questo articolo condividerà l'implementazione della ricerca full-text pura front-end di `i18n.site`, puoi provare l'effetto di ricerca visitando [i18n.site](//i18n.site).
+Questo articolo condiverrà l'implementazione tecnica della ricerca full-text front-end su `i18n.site`. Visita [i18n.site](//i18n.site) per provare l'effetto di ricerca.
 
-Il codice è open source: [kernel di ricerca](//github.com/i18n-site/ie/tree/main/qy) / [interfaccia interattiva](//github.com/i18n-site/plugin/tree/main/qy)
+Il codice è open source: [motore di ricerca](//github.com/i18n-site/ie/tree/main/qy) / [interfaccia utente](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Una Panoramica Delle Soluzioni Di Ricerca Full-Text Serverless
 
-Per i siti Web di piccole dimensioni come documenti/blog personali che sono puramente statici, è senza dubbio troppo pesante costruire da soli un backend di ricerca full-text e la ricerca full-text senza servizi è senza dubbio un peso migliore.
+Per i siti web puramente statici di piccole e medie dimensioni come documenti/blog personali, la creazione di un backend di ricerca full-text autocostruito è troppo pesante e la ricerca full-text senza servizi è la scelta più comune.
 
-Le soluzioni di ricerca full-text serverless esistenti si dividono in due categorie principali.
+Lasoluzioni di ricerca full-text senza server si dividono in due grandi categorie:
 
-La prima categoria include fornitori di servizi di ricerca di terze parti come [algolia.com](//algolia.com), che offrono componenti di ricerca full-text front-end.
+La prima è rappresentata da fornitori di servizi di ricerca di terze parti come [algolia.com](//algolia.com), che offrono componenti front-end per la ricerca full-text.
 
-Tali servizi richiedono un pagamento e, a causa di problemi di conformità del sito web, non sono accessibili agli utenti in Cina continentale.
+Questi servizi richiedono un pagamento in base alla quantità di ricerche effettuate e spesso non sono accessibili agli utenti cinesi continentali a causa di problemi di conformità del sito.
 
 Non possono essere utilizzati offline o in rete interna, con limitazioni significative. Questo articolo non li discuterà ulteriormente.
 
-La seconda categoria è la ricerca full-text pura front-end.
+La seconda categoria è la ricerca full-text puramente front-end.
 
-Le ricerche full-text pure front-end più note includono [lunrjs](/0) e [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Le ricerche full-text front-end pure comunemente utilizzate includono [lunrjs](/0) e [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` offre due modalità di costruzione degli indici, ma entrambe presentano problemi.
+`lunrjs` offre due metodi per costruire gli indici, ma entrambi presentano problemi.
 
 1. File indice predefiniti
 
@@ -38,6 +38,8 @@ Le ricerche full-text pure front-end più note includono [lunrjs](/0) e [ Elasti
 
    La costruzione dell'indice è un'attività ad alta intensità di calcolo. La ricostruzione dell'indice ad ogni accesso causa ritardi evidenti e una scarsa esperienza utente.
 
+---
+
 Oltre a `lunrjs`, ci sono altre soluzioni di ricerca full-text, come:
 
 [fusejs](https://www.fusejs.io), che ricerca calcolando la somiglianza tra le stringhe.
@@ -46,13 +48,13 @@ Questa soluzione ha prestazioni molto scarse e non è adatta per la ricerca full
 
 [TinySearch](https://github.com/tinysearch/tinysearch), che utilizza il filtro Bloom per la ricerca, non supporta la ricerca del prefisso (ad esempio, non può cercare `good` o `google` digitando `goo`) e non può implementare funzionalità di completamento automatico.
 
-Per ovviare ai problemi delle soluzioni esistenti, `i18n.site` ha sviluppato una nuova soluzione di ricerca full-text pura front-end con le seguenti caratteristiche:
+Poiché le soluzioni esistenti presentano vari svantaggi, `i18n.site` ha sviluppato una nuova soluzione di ricerca full-text front-end, con le seguenti caratteristiche:
 
 1. Supporta la ricerca multilingue ed è di piccole dimensioni. La dimensione del kernel di ricerca dopo aver impacchettato `gzip` è `6.9KB` (per confronto, la dimensione di `lunrjs` è `25KB`)
 1. Utilizza `IndexedDB` per costruire l'indice invertito, con basso consumo di memoria e alta velocità
 1. Quando i documenti vengono aggiunti/modificati, solo i documenti aggiunti o modificati vengono reindicizzati, riducendo la quantità di calcoli
 1. Supporta la ricerca del prefisso, mostrando i risultati della ricerca in tempo reale mentre l'utente digita
-1. Disponibile offline
+1. Disponibile Offline
 
 Procederemo a descrivere in dettaglio l'implementazione tecnica di `i18n.site`.
 
@@ -214,6 +216,6 @@ Quando si visualizzano i risultati della ricerca, verrà visualizzato il nome de
 
 ## Riassumere
 
-Ricerca full-text invertita implementata esclusivamente sul front-end, con risposta rapida e senza necessità di un server.
+Implementazione di una ricerca full-text invertita puramente front-end, senza la necessità di un server. Molto adatto per siti di piccole e medie dimensioni come documenti e blog personali.
 
-La ricerca full-text invertita implementata esclusivamente sul front-end offre una risposta rapida e non richiede un server.
+La ricerca front-end pura sviluppata da `i18n.site` è open source, compatta e veloce, risolvendo i problemi delle attuali soluzioni di ricerca full-text front-end e offrendo una migliore esperienza utente.

@@ -6,27 +6,27 @@ Piştî çend & pêşkeftinê markdown [i18n.site](//i18n.site)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ev gotar dê pêkanîna `i18n.site` teknolojiya lêgerîna tev-nivîsê ya paqij parve bike [i18n.site](//i18n.site) dikarin bandora lêgerînê biceribînin.
+Ev gotar dê pêkanîna teknîkî ya `i18n.site` -paqij-lêgerîna tev-nivîsê parve bike [i18n.site](//i18n.site) ku bandora lêgerînê biceribîne.
 
-[Naveroka](//github.com/i18n-site/plugin/tree/main/qy) [lêgerîna](//github.com/i18n-site/ie/tree/main/qy) çavkaniya vekirî ya kodê /
+Koda çavkaniya : [kernel Lêgerîn](//github.com/i18n-site/ie/tree/main/qy) / [Navbera înteraktîf](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Awirek Li Ser Çareseriyên Lêgerîna Tev-Nivîsarê Yên Bê Server
 
-Ji bo malperên piçûk ên wekî belgeyên / blogên kesane yên ku bi tenê statîk in, bê guman pir giran e ku hûn bi xwe paşnavek lêgerîna tevahî-text ava bikin, û lêgerîna tev-nivîsê bêyî karûbar bê guman giraniyek çêtir e.
+Ji bo malperên piçûk û navîn ên safî yên statîk ên wekî belge / blogên kesane, avakirina paşnavek lêgerîna tev-nivîsê ya bixwe-çêkirî pir giran e, û lêgerîna tev-nivîsê ya bê karûbar bijareya gelemperî ye.
 
-Çareseriyên lêgerîna tev-nivîsarê yên bê server ên heyî di du kategoriyên berfireh de ne.
+Çareseriyên lêgerîna tev-nivîsa serverê di du kategoriyên berfireh de cih digirin:
 
-Yek pêşkêşkerek karûbarê lêgerînê ya sêyemîn e ku mîna [algolia.com](//algolia.com) ku hêmanên lêgerîna tev-nivîsê ya pêşîn peyda dike.
+Pêşîn, bi heman [algolia.com](//algolia.com) pêşkêşkerên karûbarê lêgerînê yên sêyemîn ji bo lêgerîna tev-nivîsê hêmanên pêşîn peyda dikin.
 
-Karûbarên weha hewceyê dravdanê ne û ji ber pirsgirêkên lihevhatina malperê ji bikarhêneran re li axa Chinaînê peyda nabin.
+Karûbarên bi vî rengî li ser bingeha qebareya lêgerînê drav hewce dike, û bi gelemperî ji ber pirsgirêkên wekî lihevhatina malperê ji bikarhêneran re li axa Chinaînê nayê peyda kirin.
 
 Ew nekare offline were bikar anîn, nikare li ser intranetê were bikar anîn, û xwedan sînorên mezin e. Ev gotar zêde nîqaş nake.
 
 Ya duyemîn lêgerîna tev-nivîsê ya pêşîn-paqij e.
 
-Lêgerînên tam-nivîsarê [lunrjs](https://lunrjs.com) safî yên naskirî û [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) hene.
+Lêgerînên tam-nivîsê [lunrjs](https://lunrjs.com) ku bi gelemperî têne bikar anîn û [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Du awayên avakirina indexan hene, lê her du jî pirsgirêkên xwe hene.
+`lunrjs` Du awayên avakirina indexan hene, û her du jî pirsgirêkên xwe hene.
 
 1. Pelên indexê yên pêş-avakirî
 
@@ -38,6 +38,8 @@ Lêgerînên tam-nivîsarê [lunrjs](https://lunrjs.com) safî yên naskirî û 
 
    Avakirina îndeksek ji hêla jimartinê ve karekî zexm e. Her gava ku hûn bigihîjin wê ji nû ve avakirina pêvekê dê bibe sedema derengmayînên eşkere û ezmûna xirab a bikarhêner.
 
+---
+
 Ji bilî `lunrjs` , hin çareseriyên lêgerîna tev-nivîsê yên din jî hene, wek :
 
 [fusejs](https://www.fusejs.io) wekheviya di navbera rêzikên lêgerînê de hesab bikin.
@@ -46,13 +48,13 @@ Performansa vê çareseriyê pir kêm e û nikare ji bo lêgerîna tev-nivîsê 
 
 [TinySearch](https://github.com/tinysearch/tinysearch) ji bo lêgerînê Parzûna Bloom bikar bînin, ji bo lêgerîna pêşgiran nayê bikar anîn (mînak, `goo` , lêgerîn `good` , `google` ), û nikare bandorek temamkirina otomatîkî ya wekhev bi dest bixe.
 
-Ji ber nerazîbûna ji kêmasiyên çareseriyên heyî, `i18n.site` çareseriyek nû ya lêgerîna tev-nivîsê ya pêş-end-paqij a nû pêşxist, ku xwedan taybetmendiyên jêrîn e :
+Ji ber kêmasiyên çareseriyên heyî, `i18n.site` çareseriyek nû ya lêgerîna tev-nivîsê ya pêş-end-paqij a nû pêşxistiye, ku xwediyê taybetmendiyên jêrîn e :
 
 1. Piştgiriya lêgerîna pirzimanî dike û bi mezinahiyê piçûk e Mezinahiya kernelê piştî pakkirina `gzip` `6.9KB` e (ji bo berhevdanê, mezinahiya `lunrjs` `25KB` ye).
 1. Indeksek berevajîkirî li ser bingeha `indexedb` ava bikin, ku kêmtir bîra digire û bilez e.
 1. Dema ku belge têne zêdekirin/guherandin, tenê belgeyên zêdekirî an guheztin ji nû ve têne navnîş kirin, ku hêjmara hesaban kêm dike.
 1. Piştgiriya lêgerîna pêşgiran dike, ku dikare encamên lêgerînê di demek rast de nîşan bide dema ku bikarhêner dinivîse.
-1. Offline heye
+1. Offline Heye
 
 Li jêr, `i18n.site` hûrguliyên pêkanîna teknîkî dê bi hûrgulî bêne destnîşan kirin.
 
@@ -214,6 +216,6 @@ Dema ku encamên lêgerînê têne xuyang kirin, navê beşê dê were xuyang ki
 
 ## Bihevrekirin
 
-Lêgerîna tev-nivîsê ya berevajîkirî ku bi tenê li pêşiya pêşîn, bi bersivek bilez û bê hewcedariya serverek hatî bicîh kirin.
+Lêgerîna tev-nivîsê ya berevajîkirî ku bi tenê li pêşiya pêşîn hatî bicîh kirin, serverek hewce nake. Ew ji bo malperên piçûk û navîn ên wekî belge û blogên kesane pir maqûl e.
 
-Ew ji bo malperên piçûk û navîn ên wekî belge û blogên kesane pir maqûl e.
+`i18n.site` Lêgerîna paşîn a paqij-xwe-pêşkeftî ya çavkaniya vekirî, bi pîvana piçûk û bersivek bilez, kêmasiyên lêgerîna tev-nivîsê ya paşîn a heyî çareser dike û ezmûnek bikarhênerek çêtir peyda dike.

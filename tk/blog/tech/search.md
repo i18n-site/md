@@ -6,27 +6,27 @@ Birnäçe hepde ösüşden soň [i18n.site](//i18n.site) (diňe statik markdown 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Bu [i18n.site](//i18n.site) `i18n.site` sap tekst gözleg tehnologiýasyny durmuşa geçirer.
+Bu makala gözleg effektini başdan geçirmek üçin `i18n.site` sap arassa tekst gözleginiň tehniki ýerine ýetirilişini paýlaşar [i18n.site](//i18n.site)
 
-Kod açyk çeşme [gözleg](//github.com/i18n-site/ie/tree/main/qy) [ýadrosy](//github.com/i18n-site/plugin/tree/main/qy) /
+Kod açyk çeşme [Gözleg ýadrosy](//github.com/i18n-site/ie/tree/main/qy) / [Interaktiw interfeýs](//github.com/i18n-site/plugin/tree/main/qy) :
 
 ## Serwersiz Doly Tekst Gözleg Çözgütlerine Syn
 
-Diňe statik bolan resminamalar / şahsy bloglar ýaly kiçijik web sahypalary üçin doly tekst gözleg arkasyny gurmak gaty şübhesiz, hyzmatlarsyz doly tekst gözlegi, şübhesiz has gowy agram.
+Resminamalar / şahsy bloglar ýaly kiçi we orta göwrümli arassa statiki web sahypalary üçin özbaşdak gurlan doly tekst gözleg arkasyny gurmak gaty agyr we hyzmatsyz doly tekst gözlegi has giňden ýaýran saýlawdyr.
 
-Bar bolan serwersiz doly tekst gözleg çözgütleri iki giň kategoriýa bölünýär.
+Serwersiz doly tekst gözleg çözgütleri iki giň kategoriýa bölünýär:
 
-Biri, birinji tekstli gözleg böleklerini üpjün edýän meňzeş üçünji tarap gözleg hyzmatyny üpjün ediji [algolia.com](//algolia.com)
+Birinjiden, [algolia.com](//algolia.com) meňzeş Üçünji tarap gözleg hyzmatyny üpjün edijiler doly tekst gözlegi üçin öňdäki bölekleri üpjün edýärler!
 
-Şeýle hyzmatlar töleg talap edýär we web sahypasynyň berjaý edilmegi sebäpli Hytaýyň materiginde ulanyjylar üçin elýeterli däl.
+Şeýle hyzmatlar gözleg mukdaryna görä töleg talap edýär we web sahypasynyň berjaý edilmegi ýaly meseleler sebäpli köplenç Hytaýyň materiginde ulanyjylar üçin elýeterli däl.
 
 Oflayn ulanyp bolmaýar, intranetde ulanyp bolmaýar we uly çäklendirmeleri bar. Bu makalada kän bir pikir ýok.
 
 Ikinjisi, doly tekstli gözleg.
 
-Has meşhur arassa tekstli gözlegler we [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) öz içine alýar [lunrjs](https://lunrjs.com)
+Köplenç ulanylýan arassa öňdäki doly tekst gözlegleri we [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) [lunrjs](https://lunrjs.com)
 
-`lunrjs` Indeksleri gurmagyň iki ýoly bar, ýöne ikisiniňem öz problemalary bar.
+`lunrjs` Indeksleri gurmagyň iki ýoly bar we ikisiniňem öz problemalary bar.
 
 1. Öň gurlan indeks faýllary
 
@@ -38,6 +38,8 @@ Has meşhur arassa tekstli gözlegler we [ ElasticLunr.js ] [https://github.com/
 
    Indeks gurmak hasaplaýyş taýdan köp mesele bolup durýar, her gezek gireniňizde indeksiň täzeden gurulmagy aç-açan yza galmagyna we ulanyjy tejribesiniň pes bolmagyna sebäp bolar.
 
+---
+
 `lunrjs` dan başga-da, başga-da doly tekst gözleg çözgütleri bar :
 
 gözlemek üçin setirleriň arasyndaky meňzeşligi hasaplaň [fusejs](https://www.fusejs.io)
@@ -46,13 +48,13 @@ Bu çözgüdiň öndürijiligi gaty pes we doly tekst gözlemek üçin ulanyp bo
 
 gözlemek üçin “Bloom” süzgüçini ulanyň [TinySearch](https://github.com/tinysearch/tinysearch) prefiks gözlemek üçin ulanyp bolmaýar (mysal üçin `goo` giriziň, `good` , `google` gözläň) we şuňa meňzeş awtomatiki gutarnykly effekt gazanyp bilmersiňiz.
 
-Bar bolan çözgütleriň kemçiliklerinden nägilelik bildirip, `i18n.site` aşakdaky aýratynlyklara eýe bolan täze arassa tekstli gözleg çözgüdini döretdi :
+Bar bolan çözgütleriň kemçilikleri sebäpli, `i18n.site` aşakdaky aýratynlyklara eýe bolan täze arassa doly tekstli gözleg çözgüdini döretdi :
 
 1. Köp dilli gözlegi goldaýar we göwrümi `gzip` dan soň gözleg ýadrosynyň ululygy `6.9KB` (deňeşdirmek üçin `lunrjs` ululygy `25KB` )
 1. Az ýat tutýan we çalt bolan `indexedb` -a esaslanýan ters indeks guruň.
 1. Resminamalar goşulanda / üýtgedilende, hasaplamalaryň mukdaryny azaldyp, diňe goşulan ýa-da üýtgedilen resminamalar gaýtadan indekslenýär.
 1. Ulanyjy ýazýarka gözleg netijelerini hakyky wagtda görkezip bilýän prefiks gözlegini goldaýar.
-1. Oflayn elýeterli
+1. Oflayn Elýeterli
 
 Aşakda `i18n.site` tehniki durmuşa geçiriş jikme-jigi jikme-jik hödürlener.
 
@@ -214,6 +216,6 @@ Gözleg netijeleri görkezilende, bölümiň ady görkeziler we basylanda bap ug
 
 ## Gysgaça Jemläň
 
-Tersine doly tekst gözlegi, çalt seslenme we serwere zerurlyk ýok, diňe öň tarapynda amala aşyrylýar.
+Tersine doly tekst gözlegi diňe öň tarapynda amala aşyryldy, serwer gerek däl. Resminamalar we şahsy bloglar ýaly kiçi we orta web sahypalary üçin örän amatly.
 
-Resminamalar we şahsy bloglar ýaly kiçi we orta web sahypalary üçin örän amatly.
+`i18n.site` Açyk çeşme öz-özünden arassa arassa gözleg, ululygy we çalt seslenmesi, häzirki arassa doly tekst gözleginiň kemçiliklerini çözýär we has gowy ulanyjy tejribesini üpjün edýär.

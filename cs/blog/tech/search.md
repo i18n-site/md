@@ -6,27 +6,27 @@ Po několika týdnech vývoje nyní [i18n.site](//i18n.site) (čistě statický 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Tento článek bude sdílet implementaci `i18n.site` čisté front-end technologie fulltextového vyhledávání Navštivte [i18n.site](//i18n.site)
+Tento článek bude sdílet technickou implementaci `i18n.site` čistě front-endového fulltextového vyhledávání Navštivte [i18n.site](//i18n.site)
 
-[Jádro pro vyhledávání](//github.com/i18n-site/ie/tree/main/qy) / s otevřeným zdrojovým kódem [Interaktivní rozhraní](//github.com/i18n-site/plugin/tree/main/qy)
+Kód open source : / [Interaktivní](//github.com/i18n-site/plugin/tree/main/qy) [rozhraní](//github.com/i18n-site/ie/tree/main/qy)
 
 ## Přehled Řešení Fulltextového Vyhledávání Bez Serveru
 
-U malých webů, jako jsou dokumenty/osobní blogy, které jsou čistě statické, je nepochybně příliš těžké vytvořit si backend fulltextového vyhledávání sami a fulltextové vyhledávání bez služeb je bezpochyby lepší váha.
+Pro malé a středně velké čistě statické webové stránky, jako jsou dokumenty/osobní blogy, je budování vlastního backendu pro fulltextové vyhledávání příliš těžké a běžnější volbou je fulltextové vyhledávání bez služeb.
 
-Stávající řešení fulltextového vyhledávání bez serveru spadají do dvou širokých kategorií.
+Řešení fulltextového vyhledávání bez serveru spadají do dvou širokých kategorií:
 
-Jedním z nich je poskytovatel vyhledávacích služeb třetí strany podobný [algolia.com](//algolia.com) který poskytuje front-endové komponenty fulltextového vyhledávání.
+Za prvé, [algolia.com](//algolia.com) poskytovatelé vyhledávacích služeb třetích stran poskytují front-endové komponenty pro fulltextové vyhledávání.
 
-Tyto služby vyžadují platbu a nejsou dostupné uživatelům v pevninské Číně kvůli problémům s dodržováním předpisů na webových stránkách.
+Tyto služby vyžadují platbu na základě objemu vyhledávání a pro uživatele v pevninské Číně jsou často nedostupné kvůli problémům, jako je soulad s webovými stránkami.
 
 Nelze jej používat offline, nelze jej používat na intranetu a má velká omezení. Tento článek moc nepojednává.
 
 Druhým je čistě frontendové fulltextové vyhledávání.
 
-Mezi známější čistě frontendové fulltextové vyhledávání patří [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Běžně používaná čistě frontendová fulltextová vyhledávání zahrnují [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Existují dva způsoby, jak vytvářet indexy, ale oba mají své vlastní problémy.
+`lunrjs` Existují dva způsoby vytváření indexů a oba mají své vlastní problémy.
 
 1. Předem vytvořené indexové soubory
 
@@ -38,6 +38,8 @@ Mezi známější čistě frontendové fulltextové vyhledávání patří [lunr
 
    Vytvoření indexu je výpočetně náročný úkol. Přebudování indexu pokaždé, když k němu přistoupíte, způsobí zjevné zpoždění a špatné uživatelské prostředí.
 
+---
+
 Kromě `lunrjs` existují některá další řešení fulltextového vyhledávání, jako například :
 
 [fusejs](https://www.fusejs.io) vypočítejte podobnost mezi hledanými řetězci.
@@ -46,13 +48,13 @@ Výkon tohoto řešení je extrémně slabý a nelze jej použít pro fulltextov
 
 [TinySearch](https://github.com/tinysearch/tinysearch) použijte k vyhledávání filtr Bloom, nelze jej použít pro vyhledávání prefixů (například zadejte `goo` , vyhledejte `good` , `google` ) a nelze dosáhnout podobného efektu automatického dokončení.
 
-Z nespokojenosti s nedostatky stávajících řešení vyvinul `i18n.site` nové čistě front-endové fulltextové řešení pro vyhledávání, které má následující vlastnosti :
+Kvůli nedostatkům stávajících řešení vyvinul `i18n.site` nové čistě front-endové fulltextové řešení pro vyhledávání, které má následující vlastnosti :
 
 1. Podporuje vícejazyčné vyhledávání a má malou velikost. Velikost vyhledávacího jádra po zabalení `gzip` je `6.9KB` (pro srovnání velikost `lunrjs` je `25KB` ).
 1. Sestavte invertovaný index založený na `indexedb` , který zabírá méně paměti a je rychlý.
 1. Když jsou dokumenty přidány/upraveny, pouze přidané nebo upravené dokumenty jsou znovu indexovány, což snižuje množství výpočtů.
 1. Podporuje vyhledávání prefixů, které může zobrazovat výsledky vyhledávání v reálném čase, zatímco uživatel píše.
-1. Dostupné offline
+1. Dostupné Offline
 
 Níže bude podrobně představeno `i18n.site` podrobností o technické implementaci.
 
@@ -214,6 +216,6 @@ Při zobrazení výsledků hledání se zobrazí název kapitoly a po kliknutí 
 
 ## Shrnout
 
-Invertované fulltextové vyhledávání implementované čistě na frontendu, s rychlou odezvou a bez potřeby serveru.
+Invertované fulltextové vyhledávání implementované čistě na frontendu, není potřeba žádný server. Je velmi vhodný pro malé a středně velké webové stránky, jako jsou dokumenty a osobní blogy.
 
-Je velmi vhodný pro malé a středně velké webové stránky, jako jsou dokumenty a osobní blogy.
+`i18n.site` Open source samostatně vyvinuté čisté front-end vyhledávání, malé rozměry a rychlá odezva, řeší nedostatky současného čistě frontendového fulltextového vyhledávání a poskytuje lepší uživatelskou zkušenost.

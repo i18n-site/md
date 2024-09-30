@@ -6,27 +6,27 @@ Tar éis roinnt seachtainí forbartha, tacaíonn [i18n.site](//i18n.site) (uirli
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Roinnfidh an t-alt seo cur i bhfeidhm `i18n.site` teicneolaíocht chuardaigh téacs iomlán tosaigh íon Tabhair cuairt ar [i18n.site](//i18n.site)
+Déanfaidh an t-alt seo cur i bhfeidhm teicniúil `i18n.site` cuardach téacs iomlán tosaigh íon a roinnt chun [i18n.site](//i18n.site) a fháil ar an éifeacht cuardaigh.
 
-Cód [eithne](//github.com/i18n-site/plugin/tree/main/qy) [cuardaigh](//github.com/i18n-site/ie/tree/main/qy) foinse oscailte /
+[Cód](//github.com/i18n-site/plugin/tree/main/qy) [foinse](//github.com/i18n-site/ie/tree/main/qy) / :
 
 ## Forbhreathnú Ar Réitigh Chuardaigh Téacs Iomlán Gan Fhreastalaí
 
-I gcás suíomhanna gréasáin beaga mar dhoiciméid/blaganna pearsanta nach bhfuil ach statach, níl aon dabht ach go bhfuil sé róthrom inneall cuardaigh lán-théacs a thógáil leat féin, agus gan dabht is meáchan níos fearr é cuardach lántéacs gan seirbhísí.
+I gcás suíomhanna gréasáin beaga agus meánmhéide atá ina n-aonar statach, mar dhoiciméid/blaganna pearsanta, tá sé róthrom inneall cuardaigh lántéacs féin-thógtha a thógáil, agus is é cuardach lántéacs gan seirbhís an rogha is coitianta.
 
-Titeann réitigh chuardaigh lántéacs gan fhreastalaí atá ann faoi láthair in dhá chatagóir leathana.
+Tá dhá chatagóir leathana i gceist le réitigh chuardaigh téacs iomlán gan fhreastalaí:
 
-Is soláthraí seirbhíse cuardaigh tríú páirtí é amháin cosúil le [algolia.com](//algolia.com) a sholáthraíonn comhpháirteanna cuardaigh téacs iomlán tosaigh.
+Ar an gcéad dul síos [algolia.com](//algolia.com) cuireann soláthraithe seirbhíse cuardaigh tríú páirtí comhpháirteanna tosaigh le haghaidh cuardach téacs iomlán.
 
-Éilíonn seirbhísí den sórt sin íocaíocht agus níl siad ar fáil d'úsáideoirí ar mhórthír na Síne mar gheall ar cheisteanna comhlíonta an láithreáin ghréasáin.
+Éilíonn seirbhísí den sórt sin íocaíocht bunaithe ar mhéid an chuardaigh, agus is minic nach mbíonn siad ar fáil d'úsáideoirí ar mhórthír na Síne mar gheall ar cheisteanna cosúil le comhlíonadh láithreán gréasáin.
 
 Ní féidir é a úsáid as líne, ní féidir é a úsáid ar an inlíon, agus tá teorainneacha móra aige. Ní phléann an t-alt seo mórán.
 
 Is é an dara ceann cuardach téacs iomlán tosaigh íon.
 
-I measc na gcuardach lántéacs tosaigh íon is cáiliúla tá [lunrjs](https://lunrjs.com) agus [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+I measc na gcuardach lántéacs tosaigh íon a úsáidtear go coitianta tá [lunrjs](https://lunrjs.com) agus [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Tá dhá bhealach ann le hinnéacsanna a thógáil, ach tá a gcuid fadhbanna féin ag an mbeirt.
+`lunrjs` Tá dhá bhealach ann le hinnéacsanna a thógáil, agus tá a gcuid fadhbanna féin ag an mbeirt.
 
 1. Comhaid innéacs réamhthógtha
 
@@ -38,6 +38,8 @@ I measc na gcuardach lántéacs tosaigh íon is cáiliúla tá [lunrjs](https://
 
    Is dianchúram ríomhaireachta é innéacs a thógáil.
 
+---
+
 Chomh maith le `lunrjs` , tá roinnt réiteach cuardaigh téacs iomlán eile, mar :
 
 [fusejs](https://www.fusejs.io) , ríomh an chosúlacht idir teaghráin chun cuardach a dhéanamh.
@@ -46,13 +48,13 @@ Tá feidhmíocht an réitigh seo an-lag agus ní féidir é a úsáid le haghaid
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , úsáid scagaire Bloom chun cuardach a dhéanamh, ní féidir é a úsáid le haghaidh cuardaigh réimír (mar shampla, cuir isteach `goo` , cuardaigh `good` , `google` ), agus ní féidir leis an éifeacht críochnaithe uathoibríoch chomhchosúil a bhaint amach.
 
-As míshástacht le heasnaimh na réitigh atá ann cheana féin, d'fhorbair `i18n.site` réiteach cuardaigh téacs iomlán nua tosaigh íon, a bhfuil na gnéithe seo a leanas aige :
+Mar gheall ar easnaimh na réitigh atá ann cheana féin, d'fhorbair `i18n.site` réiteach cuardaigh téacs iomlán nua tosaigh íon, a bhfuil na tréithe seo a leanas aige :
 
 1. Tacaíonn sé le cuardach iltheanga `25KB` tá sé `6.9KB` `gzip` méid `lunrjs`
 1. Tóg innéacs inbhéartaithe bunaithe ar `indexedb` , a thógann suas níos lú cuimhne agus atá tapa.
 1. Nuair a dhéantar doiciméid a shuimiú nó a mhodhnú, ní dhéantar ach na doiciméid bhreise nó leasaithe a ath-innéacsú, rud a laghdóidh méid na ríomhanna.
 1. Tacaíonn sé le cuardach réimír, ar féidir leis torthaí cuardaigh a thaispeáint i bhfíor-am agus an t-úsáideoir ag clóscríobh.
-1. Ar fáil as líne
+1. Ar Fáil as Líne
 
 Anseo thíos, tabharfar isteach sonraí cur chun feidhme teicniúil `i18n.site` go mion.
 
@@ -214,6 +216,6 @@ Nuair a thaispeánfar torthaí cuardaigh, taispeánfar ainm na caibidle agus dé
 
 ## Achoimre
 
-Cuardach téacs iomlán inbhéartaithe curtha i bhfeidhm ar an taobh tosaigh amháin, le freagairt thapa agus gan aon ghá le freastalaí.
+Cuardach téacs iomlán inbhéartaithe curtha i bhfeidhm ar an taobh tosaigh amháin, níl aon fhreastalaí ag teastáil. Tá sé an-oiriúnach do shuíomhanna gréasáin beaga agus meánmhéide cosúil le doiciméid agus blaganna pearsanta.
 
-Tá sé an-oiriúnach do shuíomhanna gréasáin beaga agus meánmhéide cosúil le doiciméid agus blaganna pearsanta.
+`i18n.site` Réitíonn cuardach tosaigh íon féinfhorbartha foinse oscailte, beag i méid agus freagra tapa, easnaimh an chuardaigh téacs iomlán tosaigh íon atá ann faoi láthair agus cuireann sé eispéireas úsáideora níos fearr ar fáil.

@@ -6,27 +6,27 @@ Dɔgɔkun damadɔ yiriwali kɔfɛ, [i18n.site](//i18n.site) (a ye markdown kan c
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Nin barokun in bɛna `i18n.site` pure front-end full-text search technology waleyali tila ɲɔgɔn na Visit [i18n.site](//i18n.site)
+Nin barokun in bɛna `i18n.site` pure front-end full-text ɲinini kɛcogo jira walasa ka ɲinini nɔ [i18n.site](//i18n.site) .
 
-Kode da wulilen [ɲinini kernel](//github.com/i18n-site/ie/tree/main/qy) [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy) /
+Kode : wulilen [kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Sɛbɛnni Dafalen Ɲinini Ɲɛnabɔcogo Minnu Tɛ Sèrwɛri Ye, Olu Lajɛlen
 
-Siti misɛnninw kama i n’a fɔ sɛbɛnw/mɔgɔ yɛrɛ ka bulɔgu minnu bɛ yɔrɔ kelen na, siga t’a la ko a ka gɛlɛn kojugu ka sɛbɛn dafalen ɲinini kɔkanna jɔ i yɛrɛ ye, wa sɛbɛnni dafalen ɲinini ni baarakɛminɛnw tɛ, siga t’a la ko o ye girinya ɲuman ye.
+Siti misɛnninw ni cɛmancɛw kama minnu bɛ jɔ dɔrɔn i n’a fɔ sɛbɛnw/mɔgɔ yɛrɛ ka bulɔguw, sɛbɛnni dafalen ɲinini kɔkanna jɔli min bɛ kɛ a yɛrɛ ye, o ka gɛlɛn kojugu, wa sɛbɛnni dafalen ɲinini min tɛ baara kɛ, o de ye sugandili ye min ka ca.
 
-Sɛbɛnni dafalen ɲinini fɛɛrɛ minnu bɛ yen minnu tɛ sèrwɛri ye, olu bɛ Dòn kulu fla la minnu ka bon.
+Sɛbɛnni dafalen ɲinini ɲɛnabɔcogo minnu tɛ sèrwɛri ye, olu bɛ Dòn kulu fla la minnu ka bon:
 
-Kelen ye ɲininikɛla sabanan ye min ni [algolia.com](//algolia.com) min bɛ ɲɛfɛ-sɛbɛn dafalen ɲinini yɔrɔw Di.
+A fɔlɔ, o ɲɔgɔnna [algolia.com](//algolia.com)
 
-O baara suguw bɛ wari de wajibiya, wa u tɛ sɔrɔ baarakɛlaw fɛ Sinuwa jamanaba kɔnɔ k’a sababu kɛ sitiw ka sariya labatoli koɲɛw ye.
+O baara suguw bɛ wari ɲini ka da ɲinini hakɛ kan, wa a ka c’a la, u tɛ sɔrɔ baarakɛlaw fɛ Sinuwa jamanaba kɔnɔ k’a sababu kɛ ko dɔw ye i n’a fɔ sitiw ka sariya labatoli.
 
 A tɛ se ka baara kɛ ni a ye ɛntɛrinɛti kɔkan, a tɛ se ka kɛ ɛntɛrinɛti kan, wa dan bɛ a la kosɛbɛ. Nin barokun tɛ kuma caman kan.
 
 Filanan ye ɲɛfɛla-sɛbɛn dafalen ɲinini saniyalen ye.
 
-Fɛnɲɛnɛma-sɛbɛn dafalen ɲinini minnu lakodɔnnen don kosɛbɛ ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ye [lunrjs](https://lunrjs.com)
+Ɲɛjirali saniyalen ElasticLunr.js bɛ kɛ ka caya, [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ye [lunrjs](https://lunrjs.com)
 
-`lunrjs` Indexw jɔcogo fila bɛ yen, nka u fila bɛɛ n’u ka gɛlɛyaw don.
+`lunrjs` Indexw jɔcogo fila bɛ yen, wa u fila bɛɛ n’u ka gɛlɛyaw don.
 
 1. Index files minnu jɔra ka kɔn
 
@@ -38,6 +38,8 @@ Fɛnɲɛnɛma-sɛbɛn dafalen ɲinini minnu lakodɔnnen don kosɛbɛ ElasticLunr
 
    Index (index) jɔli ye baara ye min bɛ jatebɔ-ba Kɛ ni i ye index (yɔrɔ) jɔ kokura tuma o tuma n’i y’a Sɔrɔ o bɛna Kɛ sababu ye ka kɔtigɛ jɛlenw Kɛ ani baarakɛlaw ka dɔnniya jugu.
 
+---
+
 Ka fara `lunrjs` kan, sɛbɛnni dafalen ɲinini fɛɛrɛ wɛrɛw bɛ yen, i n’a fɔ :
 
 [fusejs](https://www.fusejs.io)
@@ -46,13 +48,13 @@ Nin fura in baarakɛcogo man ɲi kosɛbɛ wa a tɛ se ka kɛ sɛbɛnni dafalen �
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-K’a sababu kɛ wasabaliya ye fura minnu bɛ yen, olu dɛsɛw la, `i18n.site` ye ɲinini ɲɛnabɔcogo kura saniyalen dɔ labɛn ɲɛfɛ-sɛbɛn dafalen kɔnɔ, min bɛ ni nin fɛn ninnu ye :
+K’a sababu kɛ fura minnu bɛ yen, olu dɛsɛw kosɔn, `i18n.site` ye ɲɛfɛla saniyalen ɲinini fɛɛrɛ kura dɔ labɛn, min bɛ ni nin jogo ninnu ye :
 
 1. A bɛ kan caman ɲinini dɛmɛ ani a bonya ka dɔgɔn ɲininikɛlan hakɛ min bɛ pake `gzip` kɔfɛ, o ye `6.9KB` ye (ka kɛɲɛ ni ɲɔgɔn ye, `lunrjs` bonya ye `25KB` ye).
 1. Index inversé (yɔrɔ inversé) jɔ min sinsinnen bɛ `indexedb` kan, o min bɛ hakilijagabɔ dɔɔnin ta, wa a bɛ teliya.
 1. Ni sɛbɛnw farala ɲɔgɔn kan/b’u sɛmɛntiya, sɛbɛn minnu farala ɲɔgɔn kan walima minnu sɛmɛntiyalen don, olu dɔrɔn de bɛ segin ka kɛ index ye, o bɛ dɔ bɔ jatebɔ hakɛ la.
 1. A bɛ daminɛ ɲinini dɛmɛ, min bɛ se ka ɲinini jaabiw jira waati yɛrɛ la k’a sɔrɔ baarakɛla bɛ sɛbɛnni kɛ.
-1. A bɛ sɔrɔ ɛntɛrinɛti kɔkan
+1. A Bɛ Sɔrɔ Ɛntɛrinɛti Kɔkan
 
 Dugujukɔrɔ, fɛɛrɛko waleyali kunnafoni `i18n.site` bɛna jira ka ɲɛ.
 
@@ -214,6 +216,6 @@ Ni ɲinini jaabiw jiralen don, sapitiri tɔgɔ bɛna jira ani sapitiri bɛna taa
 
 ## Kuma Surun Kɛ
 
-Sɛbɛn dafalen ɲinini inversé (sɛbɛnni dafalen ɲinini) min bɛ Kɛ ɲɛfɛ dɔrɔn, ni jaabi teliya ye wa mago tɛ sèrwɛri la.
+Inverted full-text search (sɛbɛnni dafalen ɲinini) min bɛ waleya ɲɛfɛ dɔrɔn, sèrwɛri si ma wajibiya. A bɛnnen don kosɛbɛ siti misɛnninw ni cɛmancɛw ma i n’a fɔ sɛbɛnw ani mɔgɔ yɛrɛ ka bulɔguw.
 
-A bɛnnen don kosɛbɛ siti misɛnninw ni cɛmancɛw ma i n’a fɔ sɛbɛnw ani mɔgɔ yɛrɛ ka bulɔguw.
+`i18n.site` Open source yɛrɛ ka ɲɛfɛla saniyalen ɲinini, min ka dɔgɔn a bonya la ani a jaabi teliyalen don, o bɛ sisan ɲɛfɛla saniyalen ɲinini dafalenw dɛsɛw ɲɛnabɔ ani ka baarakɛlaw ka baarakɛcogo ɲuman di.

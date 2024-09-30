@@ -6,27 +6,27 @@ Después de varias semanas de desarrollo, [i18n.site](//i18n.site) (una herramie
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-En este artículo se compartirá la implementación de la tecnología de búsqueda de texto completo pura de `i18n.site`. Puedes experimentar el efecto de búsqueda en [i18n.site](//i18n.site).
+Este artículo compartirá la implementación técnica de la búsqueda de texto completo puramente frontal en `i18n.site`. Puedes visitar [i18n.site](//i18n.site) para experimentar el efecto de búsqueda.
 
-Código abierto de [núcleo de búsqueda](//github.com/i18n-site/ie/tree/main/qy) / [interfaz interactiva](//github.com/i18n-site/plugin/tree/main/qy)
+Código abierto: [Núcleo de búsqueda](//github.com/i18n-site/ie/tree/main/qy) / [Interfaz de usuario](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Resumen de soluciones de búsqueda de texto completo sin servidor
 
-Para sitios web pequeños como documentos/blogs personales que son puramente estáticos, sin duda es demasiado pesado crear un backend de búsqueda de texto completo usted mismo, y la búsqueda de texto completo sin servicios es sin duda un mejor peso.
+Para sitios web pequeños y medianos puramente estáticos, como documentos/blogs personales, crear un backend de búsqueda de texto completo autoconstruido es demasiado pesado, y la búsqueda de texto completo sin servicios es la opción más común.
 
-Las soluciones existentes de búsqueda de texto completo sin servidor se dividen en dos grandes categorías.
+Las soluciones de búsqueda de texto completo sin servidor se dividen en dos grandes categorías:
 
-La primera es similar a [algolia.com](//algolia.com), proveedores de servicios de búsqueda de terceros que ofrecen componentes de búsqueda de texto completo en el front-end.
+La primera, como [algolia.com](//algolia.com), proveedores de servicios de búsqueda de terceros que ofrecen componentes front-end para la búsqueda de texto completo.
 
-Estos servicios requieren pago y no están disponibles para los usuarios de China continental debido a problemas de cumplimiento del sitio web.
+Este tipo de servicios requiere pago según el volumen de búsqueda y, a menudo, no están disponibles para los usuarios en China continental debido a problemas de cumplimiento del sitio web.
 
 No se puede usar sin conexión, ni en la intranet, y tiene muchas limitaciones. Este artículo no los tratará en profundidad.
 
-La segunda categoría es la búsqueda puramente frontal de texto completo.
+La segunda es la búsqueda de texto completo puramente frontal.
 
-Las búsquedas de texto completo más conocidas incluyen [lunrjs](/0) y [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Las búsquedas de texto completo de front-end puras más utilizadas incluyen [lunrjs](/0) y [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` tiene dos métodos para construir índices, pero ambos presentan problemas.
+`lunrjs` tiene dos métodos para construir índices, y ambos presentan problemas específicos.
 
 1. Archivos de índice preconstruidos
 
@@ -38,6 +38,8 @@ Las búsquedas de texto completo más conocidas incluyen [lunrjs](/0) y [ Elasti
 
    La construcción de índices es una tarea intensiva en cálculos, y reconstruir el índice cada vez que se accede puede causar retrasos evidentes y una mala experiencia de usuario.
 
+---
+
 Además de `lunrjs`, hay otras soluciones de búsqueda de texto completo, como:
 
 [fusejs](https://www.fusejs.io), que calcula la similitud entre cadenas para realizar la búsqueda.
@@ -46,7 +48,7 @@ Esta solución tiene un rendimiento muy pobre y no es apta para búsquedas de te
 
 [TinySearch](https://github.com/tinysearch/tinysearch), que utiliza un filtro Bloom para buscar, no admite búsquedas de prefijos (por ejemplo, buscar `good` o `google` al escribir `goo`) y no puede proporcionar un efecto de autocompletado similar.
 
-Durante la insatisfacción con las soluciones existentes, `i18n.site` desarrolló una nueva solución de búsqueda de texto completo pura en el front-end, con las siguientes características:
+Debido a las limitaciones de las soluciones actuales, `i18n.site` ha desarrollado una nueva solución de búsqueda de texto completo puramente frontal con las siguientes características:
 
 1. Soporte para búsqueda multilingüe, pequeño en tamaño; el núcleo de búsqueda empacado con `gzip` tiene un tamaño de `6.9KB` (para comparar, `lunrjs` tiene un tamaño de `25KB`)
 1. Se construye un índice invertido basado en `IndexedDB`, ocupando menos memoria y siendo rápido
@@ -146,9 +148,9 @@ Para mostrar los resultados de búsqueda mientras el usuario escribe, por ejempl
 
 ![](https://p.3ti.site/1727684944.avif)
 
-El núcleo de búsqueda utiliza la tabla `prefix` para encontrar todas las palabras que comienzan con la última palabra segmentada, y busca secuencialmente.
+El núcleo de búsqueda utiliza la tabla `prefix` para encontrar todas las palabras que comienzan con la última palabra segmentada y busca secuencialmente.
 
-Además, se utiliza la función `debounce` en la interfaz de usuario (implementada como se muestra a continuación) para reducir la frecuencia de las búsquedas activadas por las entradas del usuario y así reducir la cantidad de cálculos.
+La función `debounce` también se utiliza en la interfaz de usuario (implementada como se muestra a continuación) para reducir la frecuencia de las entradas del usuario que activan búsquedas y reducir la cantidad de cálculos.
 
 ```js
 export default (wait, func) => {
@@ -214,6 +216,6 @@ Al mostrar los resultados de la búsqueda, se muestra el nombre del capítulo y,
 
 ## Resumen
 
-La implementación de búsqueda de texto completo invertida pura en el front-end ofrece una respuesta rápida y no requiere un servidor.
+Búsqueda de texto completo inversa implementada completamente en el front-end, sin necesidad de servidor. Es ideal para sitios web pequeños y medianos, como documentos y blogs personales.
 
-Es muy adecuada para sitios web pequeños y medianos, como documentos y blogs personales.
+`i18n.site` ofrece una búsqueda de texto completo front-end propia y de código abierto, de pequeño tamaño y rápida respuesta, que soluciona los problemas actuales de la búsqueda de texto completo front-end y proporciona una mejor experiencia de usuario.

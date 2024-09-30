@@ -6,27 +6,27 @@ Pēc vairāku nedēļu izstrādes [i18n.site](//i18n.site) (tīri statisks markd
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Šajā rakstā tiks parādīta `i18n.site` tīras pilna teksta meklēšanas tehnoloģija. [i18n.site](//i18n.site) varat izbaudīt meklēšanas efektu.
+Šajā rakstā tiks sniegta informācija par `i18n.site` tīrās priekšgala pilna teksta meklēšanu, lai [i18n.site](//i18n.site) meklēšanas efektu.
 
-[Koda](//github.com/i18n-site/plugin/tree/main/qy) atvērtā koda [meklēšanas kodols](//github.com/i18n-site/ie/tree/main/qy) /
+Kods : koda [meklēšana](//github.com/i18n-site/ie/tree/main/qy) / [Interaktīvā saskarne](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Pārskats Par Bezservera Pilna Teksta Meklēšanas Risinājumiem
 
-Nelielām vietnēm, piemēram, dokumentiem/personīgajiem emuāriem, kas ir tīri statiski, neapšaubāmi ir pārāk smagi pašam izveidot pilna teksta meklēšanas aizmuguri, un pilna teksta meklēšana bez pakalpojumiem neapšaubāmi ir labāka.
+Mazām un vidējām tīri statiskām vietnēm, piemēram, dokumentiem/personīgajiem emuāriem, pašbūvētas pilna teksta meklēšanas aizmugursistēmas izveide ir pārāk smaga, un pilna teksta meklēšana bez pakalpojumiem ir biežāka izvēle.
 
-Esošie bezserveru pilna teksta meklēšanas risinājumi iedalās divās plašās kategorijās.
+Pilna teksta meklēšanas risinājumi bez serveriem iedalās divās plašās kategorijās:
 
-Viens ir trešās puses meklēšanas pakalpojumu sniedzējs, kas līdzīgs [algolia.com](//algolia.com) kas nodrošina priekšgala pilna teksta meklēšanas komponentus.
+Pirmkārt, [algolia.com](//algolia.com) trešās puses meklēšanas pakalpojumu sniedzēji nodrošina priekšgala komponentus pilna teksta meklēšanai.
 
-Par šādiem pakalpojumiem ir jāmaksā, un tie nav pieejami lietotājiem kontinentālajā Ķīnā vietņu atbilstības problēmu dēļ.
+Par šādiem pakalpojumiem ir jāmaksā, pamatojoties uz meklēšanas vaicājumu skaitu, un tie bieži vien nav pieejami lietotājiem kontinentālajā Ķīnā tādu problēmu dēļ kā vietņu atbilstība.
 
 To nevar izmantot bezsaistē, nevar izmantot iekštīklā, un tam ir lieli ierobežojumi. Šajā rakstā nav daudz apspriests.
 
 Otrais ir tīra priekšgala pilna teksta meklēšana.
 
-Plašāk zināmie priekšgala pilna teksta meklējumi ietver [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Parasti izmantotie priekšgala pilna teksta meklējumi ietver [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Ir divi veidi, kā veidot indeksus, taču abiem ir savas problēmas.
+`lunrjs` Ir divi veidi, kā veidot indeksus, un abiem ir savas problēmas.
 
 1. Iepriekš izveidoti indeksa faili
 
@@ -38,6 +38,8 @@ Plašāk zināmie priekšgala pilna teksta meklējumi ietver [lunrjs](https://lu
 
    Indeksa izveide ir skaitļošanas ziņā ietilpīgs uzdevums. Indeksa atjaunošana katru reizi, kad tam piekļūstat, radīs acīmredzamas kavēšanās un sliktu lietotāja pieredzi.
 
+---
+
 Papildus `lunrjs` ir daži citi pilna teksta meklēšanas risinājumi, piemēram :
 
 [fusejs](https://www.fusejs.io) aprēķiniet meklējamo virkņu līdzību.
@@ -46,13 +48,13 @@ Papildus `lunrjs` ir daži citi pilna teksta meklēšanas risinājumi, piemēram
 
 [TinySearch](https://github.com/tinysearch/tinysearch) izmantojiet Blūma filtru, lai meklētu, to nevar izmantot prefiksu meklēšanai (piemēram, ievadiet `goo` , meklējiet `good` , `google` ), un nevar sasniegt līdzīgu automātiskās pabeigšanas efektu.
 
-No neapmierinātības ar esošo risinājumu trūkumiem, `i18n.site` izstrādāja jaunu tīru priekšgala pilna teksta meklēšanas risinājumu, kuram ir šādas funkcijas :
+Esošo risinājumu nepilnību dēļ `i18n.site` ir izstrādājis jaunu tīru priekšgala pilna teksta meklēšanas risinājumu, kam ir šādas īpašības :
 
 1. Atbalsta meklēšanu vairākās valodās un ir maza izmēra. Meklēšanas kodola izmērs pēc `gzip` iepakojuma ir `6.9KB` (salīdzinājumam, `lunrjs` izmērs ir `25KB` ).
 1. Izveidojiet apgrieztu indeksu, pamatojoties uz `indexedb` , kas aizņem mazāk atmiņas un ir ātrs.
 1. Pievienojot/pārveidojot dokumentus, atkārtoti tiek indeksēti tikai pievienotie vai pārveidotie dokumenti, samazinot aprēķinu apjomu.
 1. Atbalsta prefiksu meklēšanu un var parādīt meklēšanas rezultātus reāllaikā, kamēr lietotājs raksta.
-1. Pieejams bezsaistē
+1. Pieejams Bezsaistē
 
 Zemāk tiks detalizēti aprakstītas `i18n.site` tehniskās ieviešanas detaļas.
 
@@ -214,6 +216,6 @@ Rādot meklēšanas rezultātus, tiks parādīts nodaļas nosaukums un, noklikš
 
 ## Apkopojiet
 
-Apgrieztā pilna teksta meklēšana, kas ieviesta tikai priekšpusē, ar ātru atbildi un nav nepieciešams serveris.
+Apgrieztā pilna teksta meklēšana ir ieviesta tikai priekšpusē, serveris nav nepieciešams. Tas ir ļoti piemērots mazām un vidējām vietnēm, piemēram, dokumentiem un personīgajiem emuāriem.
 
-Ļoti piemērots mazām un vidējām vietnēm, piemēram, dokumentiem un personīgajiem emuāriem.
+`i18n.site` Atklātā pirmkoda paša izstrādāta tīrā priekšgala meklēšana, maza izmēra un ātra reakcija, atrisina pašreizējās tīrās priekšgala pilna teksta meklēšanas trūkumus un nodrošina labāku lietotāja pieredzi.

@@ -6,27 +6,27 @@ Ar ôl sawl wythnos o ddatblygiad, [i18n.site](//i18n.site) (offeryn adeiladu gw
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Bydd yr erthygl hon yn rhannu gweithrediad `i18n.site` technoleg chwilio testun llawn pen blaen Ymwelwch [i18n.site](//i18n.site)
+Bydd yr erthygl hon yn rhannu gweithrediad technegol `i18n.site` chwiliad testun llawn pen blaen Ymweliad [i18n.site](//i18n.site)
 
-Cod [cnewyllyn](//github.com/i18n-site/plugin/tree/main/qy) [chwilio](//github.com/i18n-site/ie/tree/main/qy) ffynhonnell agored /
+[Cod](//github.com/i18n-site/plugin/tree/main/qy) [ffynhonnell](//github.com/i18n-site/ie/tree/main/qy) / :
 
 ## Trosolwg O Atebion Chwilio Testun Llawn Heb Weinydd
 
-Ar gyfer gwefannau bach fel dogfennau / blogiau personol sy'n hollol statig, heb os, mae'n rhy drwm adeiladu ôl-len chwiliad testun llawn ar eich pen eich hun, ac mae chwilio testun llawn heb wasanaethau yn sicr yn bwysau gwell.
+Ar gyfer gwefannau bach a chanolig pur statig megis dogfennau/blogiau personol, mae adeiladu ôl-len chwiliad testun llawn hunan-adeiladu yn rhy drwm, a chwilio testun llawn heb wasanaeth yw'r dewis mwyaf cyffredin.
 
-Mae datrysiadau chwilio testun llawn heb weinydd yn perthyn i ddau gategori eang.
+Mae datrysiadau chwilio testun llawn di-weinydd yn perthyn i ddau gategori eang:
 
-Mae un yn ddarparwr gwasanaeth chwilio trydydd parti tebyg i [algolia.com](//algolia.com) sy'n darparu cydrannau chwilio testun llawn pen blaen.
+Yn gyntaf, tebyg [algolia.com](//algolia.com) Mae darparwyr gwasanaeth chwilio trydydd parti yn darparu cydrannau pen blaen ar gyfer chwiliad testun llawn.
 
-Mae angen talu am wasanaethau o'r fath ac nid ydynt ar gael i ddefnyddwyr ar dir mawr Tsieina oherwydd materion cydymffurfio â'r wefan.
+Mae angen talu gwasanaethau o'r fath yn seiliedig ar nifer y chwiliadau, ac yn aml nid ydynt ar gael i ddefnyddwyr ar dir mawr Tsieina oherwydd materion megis cydymffurfiad gwefan.
 
 Ni ellir ei ddefnyddio all-lein, ni ellir ei ddefnyddio ar y fewnrwyd, ac mae ganddo gyfyngiadau mawr. Nid yw'r erthygl hon yn trafod llawer.
 
 Yr ail yw chwiliad testun llawn pen blaen pur.
 
-Mae'r chwiliadau testun llawn pen blaen pur mwy adnabyddus yn cynnwys [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Mae chwiliadau testun llawn pen blaen pur a ddefnyddir yn gyffredin yn cynnwys [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Mae dwy ffordd i adeiladu mynegeion, ond mae gan y ddau eu problemau eu hunain.
+`lunrjs` Mae dwy ffordd i adeiladu mynegeion, ac mae gan y ddau eu problemau eu hunain.
 
 1. Ffeiliau mynegai a adeiladwyd ymlaen llaw
 
@@ -38,6 +38,8 @@ Mae'r chwiliadau testun llawn pen blaen pur mwy adnabyddus yn cynnwys [lunrjs](h
 
    Mae adeiladu mynegai yn dasg gyfrifiadurol ddwys.
 
+---
+
 Yn ogystal â `lunrjs` , mae rhai datrysiadau chwilio testun llawn eraill, megis :
 
 [fusejs](https://www.fusejs.io) , cyfrifwch y tebygrwydd rhwng llinynnau i chwilio.
@@ -46,13 +48,13 @@ Mae perfformiad y datrysiad hwn yn eithriadol o wael ac ni ellir ei ddefnyddio a
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , defnyddiwch hidlydd Bloom i chwilio, ni ellir ei ddefnyddio ar gyfer chwiliad rhagddodiad (er enghraifft, rhowch `goo` , chwiliwch `good` , `google` ), ac ni all gyflawni effaith cwblhau awtomatig tebyg.
 
-Allan o anfodlonrwydd â diffygion yr atebion presennol, datblygodd `i18n.site` ddatrysiad chwilio testun llawn pen blaen pur newydd, sydd â'r nodweddion canlynol :
+Oherwydd diffygion yr atebion presennol, mae `i18n.site` wedi datblygu datrysiad chwilio testun llawn pen blaen pur newydd, sydd â'r nodweddion canlynol :
 
 1. Yn cefnogi chwiliad aml-iaith ac mae'n fach o ran maint Maint y cnewyllyn chwilio ar ôl pecynnu `gzip` yw `6.9KB` (er mwyn cymharu, maint `lunrjs` yw `25KB` ).
 1. Adeiladwch fynegai gwrthdro yn seiliedig ar `indexedb` , sy'n cymryd llai o gof ac sy'n gyflym.
 1. Pan fydd dogfennau'n cael eu hychwanegu/addasu, dim ond y dogfennau sydd wedi'u hychwanegu neu eu haddasu sy'n cael eu hail-fynegeio, gan leihau nifer y cyfrifiadau.
 1. Yn cefnogi chwiliad rhagddodiad, a all ddangos canlyniadau chwilio mewn amser real tra bod y defnyddiwr yn teipio.
-1. Ar gael all-lein
+1. Ar Gael All-Lein
 
 Isod, cyflwynir manylion gweithredu technegol `i18n.site` yn fanwl.
 
@@ -214,6 +216,6 @@ Wrth ddangos canlyniadau chwilio, bydd enw'r bennod yn cael ei arddangos a bydd 
 
 ## Crynhoi
 
-Chwiliad testun llawn gwrthdro wedi'i weithredu ar y pen blaen yn unig, gydag ymateb cyflym a dim angen gweinydd.
+Chwiliad testun llawn gwrthdro wedi'i weithredu ar y pen blaen yn unig, nid oes angen gweinydd. Mae'n addas iawn ar gyfer gwefannau bach a chanolig fel dogfennau a blogiau personol.
 
-Mae'n addas iawn ar gyfer gwefannau bach a chanolig fel dogfennau a blogiau personol.
+`i18n.site` Mae chwiliad pen blaen pur ffynhonnell agored hunanddatblygedig, bach o ran maint ac ymateb cyflym, yn datrys diffygion y chwiliad testun llawn pen blaen pur presennol ac yn darparu profiad gwell i ddefnyddwyr.

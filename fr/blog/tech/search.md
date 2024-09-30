@@ -6,27 +6,27 @@ Après plusieurs semaines de développement, [i18n.site](//i18n.site) (un outil 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Cet article partagera la mise en œuvre de `i18n.site` technologie de recherche en texte intégral frontale pure. [i18n.site](//i18n.site) Vous pouvez découvrir l'effet de recherche.
+Article détaillé sur la mise en œuvre technique de la recherche en texte intégral front-end pure sur `i18n.site`. Visitez [i18n.site](//i18n.site) pour expérimenter les fonctionnalités de recherche.
 
-Code [du noyau de recherche](//github.com/i18n-site/ie/tree/main/qy) [open](//github.com/i18n-site/plugin/tree/main/qy) source /
+Le code est open source : [kernel de recherche](//github.com/i18n-site/ie/tree/main/qy) / [interface utilisateur](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Un Aperçu Des Solutions De Recherche En Texte Intégral Sans Serveur
 
-Pour les petits sites Web tels que les documents/blogs personnels qui sont purement statiques, il est sans aucun doute trop lourd de créer vous-même un backend de recherche en texte intégral, et la recherche en texte intégral sans services est sans aucun doute un meilleur choix.
+Pour les sites Web purement statiques de petite et moyenne taille, tels que les documents/blogs personnels, la création d'un moteur de recherche en texte intégral auto-construit est trop lourde, et la recherche en texte intégral sans service est le choix le plus courant.
 
-Les solutions de recherche en texte intégral sans serveur existantes se répartissent en deux grandes catégories.
+Les solutions de recherche en texte intégral sans service se divisent en deux catégories principales :
 
-L'un est un fournisseur de services de recherche tiers similaire à [algolia.com](//algolia.com) qui fournit des composants de recherche en texte intégral front-end.
+La première, à l'image de [algolia.com](//algolia.com), propose des fournisseurs de services de recherche tiers qui offrent des composants front-end pour la recherche en texte intégral.
 
-Ces services sont payants et ne sont pas disponibles pour les utilisateurs en Chine continentale en raison de problèmes de conformité du site Web.
+Ces services nécessitent un paiement en fonction du volume de recherche et sont souvent inaccessibles aux utilisateurs de Chine continentale en raison de questions de conformité du site.
 
 Il ne peut pas être utilisé hors ligne, ni sur l’intranet et présente de grandes limitations. Cet article ne discute pas de grand chose.
 
-La seconde est une pure recherche de texte intégral frontale.
+La seconde catégorie concerne la recherche en texte intégral purement front-end.
 
-Les recherches en texte intégral purement frontales les plus connues incluent [lunrjs](https://lunrjs.com) et [ ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发).
+Les recherches en texte intégral purement frontales couramment utilisées incluent [lunrjs](/0) et [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` a deux manières de créer des index, mais elles ont toutes leurs propres problèmes.
+`lunrjs` propose deux méthodes de construction d'index, chacune avec ses propres problèmes.
 
 1. Fichiers d'index prédéfinis
 
@@ -38,6 +38,8 @@ Les recherches en texte intégral purement frontales les plus connues incluent [
 
    La création d'un index est une tâche gourmande en calcul. La reconstruction de l'index à chaque fois que vous y accédez entraînera des retards évidents et une mauvaise expérience utilisateur.
 
+---
+
 En plus de `lunrjs` , il existe d'autres solutions de recherche en texte intégral, telles que :
 
 [fusejs](https://www.fusejs.io) , calcule la similarité entre les chaînes à rechercher.
@@ -46,7 +48,7 @@ Les performances de cette solution sont extrêmement médiocres et ne peuvent pa
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , utilisez le filtre Bloom pour rechercher, ne peut pas être utilisé pour la recherche de préfixe (par exemple, entrez `goo` , recherchez `good` , `google` ) et ne peut pas obtenir un effet de complétion automatique similaire.
 
-Insatisfait des lacunes des solutions existantes, `i18n.site` a développé une nouvelle solution de recherche en texte intégral purement front-end, qui présente les fonctionnalités suivantes :
+Compte tenu des inconvénients des solutions actuelles, `i18n.site` a développé une nouvelle solution de recherche en texte intégral purement front-end, caractérisée par les éléments suivants :
 
 1. Prend en charge la recherche multilingue, est de petite taille et le noyau de recherche après l'empaquetage `gzip` ne pèse que `6.9KB` (comparé à `lunrjs` qui pèse `25KB`)
 1. Créez un index inversé basé sur `indexedb` , qui prend moins de mémoire et est rapide
@@ -146,9 +148,9 @@ Afin d'afficher les résultats de la recherche pendant que l'utilisateur tape, p
 
 ![](https://p.3ti.site/1727684944.avif)
 
-Le noyau de recherche utilisera la table `prefix` pour le dernier mot après la segmentation des mots afin de trouver tous les mots préfixés par celui-ci et de rechercher dans l'ordre.
+Le cœur de recherche utilise la table `prefix` pour le dernier mot après le fractionnement, afin de trouver tous les mots qui commencent par ce préfixe et de les chercher successivement.
 
-La fonction anti-tremblement `debounce` est également utilisée dans l'interaction frontale (implémentée comme suit), pour réduire la fréquence des recherches déclenchant les entrées utilisateur et réduire la quantité de calcul.
+L'interface utilisateur front-end intègre une fonction anti-rebonds `debounce` (implémentée comme suit) pour réduire la fréquence des déclenchements de recherche lors de la saisie des utilisateurs, diminuant ainsi la charge de calcul.
 
 ```js
 export default (wait, func) => {
@@ -214,6 +216,6 @@ Lors de l'affichage des résultats de recherche, le nom du chapitre est affiché
 
 ## Synthèse
 
-La recherche full-text inversée, entièrement réalisée sur le front-end, offre une rapidité de réponse et n'a pas besoin de serveur.
+Recherche en texte intégral inversée entièrement réalisée sur le front-end, sans nécessiter de serveur. Idéale pour les sites web de petite et moyenne taille comme les documents et les blogs personnels.
 
-Tres adaptée aux sites de petite et moyenne envergure, tels que les documents et les blogs personnels.
+La solution de recherche front-end pure développée par `i18n.site` est open source, compacte et rapide, résolvant les problèmes actuels des recherches en texte intégral front-end et offrant une meilleure expérience utilisateur.

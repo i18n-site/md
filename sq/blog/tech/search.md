@@ -6,27 +6,27 @@ Pas disa javësh & markdown [i18n.site](//i18n.site)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ky artikull do të ndajë zbatimin e `i18n.site` teknologjisë së plotë të kërkimit me tekst të plotë. [i18n.site](//i18n.site) mund të përjetoni efektin e kërkimit.
+Ky artikull do të ndajë zbatimin teknik të `i18n.site` kërkimit të plotë me tekst të plotë për të [i18n.site](//i18n.site) efektin e kërkimit.
 
-[Bërthama](//github.com/i18n-site/plugin/tree/main/qy) [e kërkimit](//github.com/i18n-site/ie/tree/main/qy) me kod të hapur /
+Kodi [me](//github.com/i18n-site/ie/tree/main/qy) [burim](//github.com/i18n-site/plugin/tree/main/qy) të / :
 
 ## Një Përmbledhje E Zgjidhjeve Të Kërkimit Me Tekst Të Plotë Pa Server
 
-Për faqet e internetit të vogla si dokumente/bloge personale që janë thjesht statike, është padyshim shumë e rëndë të ndërtosh vetë një bazë kërkimi me tekst të plotë dhe kërkimi me tekst të plotë pa shërbime është padyshim një peshë më e mirë.
+Për uebsajte thjesht statike me madhësi të vogël dhe të mesme, si p.sh. dokumente/bloge personale, ndërtimi i një fundi të kërkimit me tekst të plotë të ndërtuar vetë është shumë i rëndë dhe kërkimi me tekst të plotë pa shërbime është zgjidhja më e zakonshme.
 
-Zgjidhjet ekzistuese të kërkimit me tekst të plotë pa server ndahen në dy kategori të gjera.
+Zgjidhjet e kërkimit me tekst të plotë pa server ndahen në dy kategori të gjera:
 
-Njëri është një ofrues i shërbimit të kërkimit të palëve të treta i ngjashëm me [algolia.com](//algolia.com) i cili ofron komponentë të kërkimit me tekst të plotë në fund.
+Së [algolia.com](//algolia.com) , ofruesit e shërbimeve të kërkimit të palëve të treta ofrojnë komponentë të përparme për kërkimin me tekst të plotë.
 
-Shërbime të tilla kërkojnë pagesë dhe nuk janë të disponueshme për përdoruesit në Kinën kontinentale për shkak të çështjeve të pajtueshmërisë së faqes në internet.
+Shërbime të tilla kërkojnë pagesë bazuar në vëllimin e kërkimit dhe shpesh nuk janë të disponueshme për përdoruesit në Kinën kontinentale për shkak të çështjeve të tilla si pajtueshmëria me uebsajtin.
 
 Nuk mund të përdoret jashtë linje, nuk mund të përdoret në intranet dhe ka kufizime të mëdha. Ky artikull nuk diskuton shumë.
 
 E dyta është kërkimi i pastër me tekst të plotë.
 
-Kërkimet më të njohura të tekstit të plotë përfshijnë [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Kërkimet e thjeshta me tekst të plotë të përdorura zakonisht përfshijnë [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Ka dy mënyra për të krijuar indekse, por të dyja kanë problemet e tyre.
+`lunrjs` Ka dy mënyra për të krijuar indekse dhe të dyja kanë problemet e tyre.
 
 1. Skedarët e indeksit të para-ndërtuar
 
@@ -38,6 +38,8 @@ Kërkimet më të njohura të tekstit të plotë përfshijnë [lunrjs](https://l
 
    Ndërtimi i një indeksi është një detyrë intensive llogaritëse.
 
+---
+
 Përveç `lunrjs` , ka disa zgjidhje të tjera të kërkimit me tekst të plotë, si p.sh. :
 
 [fusejs](https://www.fusejs.io) llogaritni ngjashmërinë midis vargjeve për të kërkuar.
@@ -46,13 +48,13 @@ Performanca e kësaj zgjidhjeje është jashtëzakonisht e dobët dhe nuk mund t
 
 , përdorni filtrin Bloom për të kërkuar, nuk mund [TinySearch](https://github.com/tinysearch/tinysearch) përdoret për kërkimin e prefiksit (për shembull, shkruani `goo` , kërkoni `good` , `google` ) dhe nuk mund të arrini efekt të ngjashëm të përfundimit.
 
-Nga pakënaqësia me mangësitë e zgjidhjeve ekzistuese, `i18n.site` zhvilloi një zgjidhje të re të pastër të kërkimit me tekst të plotë, e cila ka karakteristikat e mëposhtme :
+Për shkak të mangësive të zgjidhjeve ekzistuese, `i18n.site` zhvilloi një zgjidhje të re të pastër të kërkimit me tekst të plotë, e cila ka karakteristikat e mëposhtme :
 
 1. Mbështet kërkimin në shumë gjuhë dhe është i vogël në madhësi. Madhësia e kernelit të kërkimit pas paketimit `gzip` është `6.9KB` (për krahasim, madhësia e `lunrjs` është `25KB` ).
 1. Ndërtoni një indeks të përmbysur bazuar në `indexedb` , i cili merr më pak memorie dhe është i shpejtë.
 1. Kur dokumentet shtohen/modifikohen, vetëm dokumentet e shtuara ose të modifikuara riindeksohen, duke zvogëluar sasinë e llogaritjeve.
 1. Mbështet kërkimin me prefiks, i cili mund të shfaqë rezultatet e kërkimit në kohë reale ndërsa përdoruesi është duke shtypur.
-1. E disponueshme jashtë linje
+1. E Disponueshme Jashtë Linje
 
 Më poshtë, `i18n.site` detaje teknike të zbatimit do të prezantohen në detaje.
 
@@ -214,6 +216,6 @@ Kur shfaqen rezultatet e kërkimit, do të shfaqet emri i kapitullit dhe kapitul
 
 ## Përmblidhni
 
-Kërkimi i përmbysur me tekst të plotë i zbatuar thjesht në pjesën e përparme, me përgjigje të shpejtë dhe pa nevojë për server.
+Kërkimi i përmbysur me tekst të plotë i zbatuar thjesht në pjesën e përparme, nuk kërkohet asnjë server. Është shumë i përshtatshëm për faqet e internetit të vogla dhe të mesme si dokumente dhe blogje personale.
 
-Është shumë i përshtatshëm për faqet e internetit të vogla dhe të mesme si dokumente dhe blogje personale.
+`i18n.site` Kërkimi i pastër në fund të përparmë i vetë-zhvilluar me burim të hapur, me përmasa të vogla dhe përgjigje të shpejtë, zgjidh mangësitë e kërkimit aktual të pastër me tekst të plotë dhe ofron një përvojë më të mirë të përdoruesit.

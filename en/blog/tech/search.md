@@ -6,27 +6,27 @@ After several weeks of development, [i18n.site](//i18n.site) (a purely static ma
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-This article will share the implementation details of `i18n.site`'s pure front-end full-text search technology. Visit [i18n.site](//i18n.site) to experience the search effect.
+This article will share the technical implementation of `i18n.site`'s pure front-end full-text search. Visit [i18n.site](//i18n.site) to experience the search effect.
 
-Code open source [search kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
+Code open source: [Search kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## An Overview of Serverless Full-Text Search Solutions
 
-For small websites such as documents/personal blogs that are purely static, it is undoubtedly too cumbersome to build a full-text search backend by oneself, and serverless full-text search is undoubtedly a better choice.
+For small and medium-sized purely static websites such as documents/personal blogs, building a self-built full-text search backend is overly burdensome, and service-free full-text search is a more common choice.
 
-Existing serverless full-text search solutions can be divided into two main categories.
+Serverless full-text search solutions can be divided into two broad categories:
 
-One is a third-party search service provider similar to [algolia.com](//algolia.com), which provides front-end full-text search components.
+Firstly, similar to [algolia.com](//algolia.com), third-party search service providers offer front-end components for full-text search.
 
-Such services require payment and are not available to users in mainland China due to website compliance issues.
+Such services require payment based on the search volume, and are often unavailable to users in mainland China due to issues such as website compliance.
 
 It cannot be used offline or on the intranet, and has significant limitations. This article does not discuss this in detail.
 
-The second is pure front-end full-text search.
+The second one is pure front-end full-text search.
 
-The more well-known pure front-end full-text search methods include [lunrjs](https://lunrjs.com) and [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发).
+Commonly used pure front-end full-text searches include [lunrjs](https://lunrjs.com) and [ElasticLunr.js] [https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发).
 
-`lunrjs` has two index-building methods, but both have their own problems.
+`lunrjs` has two index-building methods, and both have their own problems.
 
 1. Pre-building index files
 
@@ -38,6 +38,8 @@ The more well-known pure front-end full-text search methods include [lunrjs](htt
 
    Building an index is a computationally intensive task. Rebuilding the index every time it is accessed will cause obvious lags and a poor user experience.
 
+---
+
 In addition to `lunrjs`, there are some other full-text search solutions, such as:
 
 [fusejs](https://www.fusejs.io), which calculates the similarity between strings for searching.
@@ -46,13 +48,13 @@ The performance of this solution is extremely poor and cannot be used for full-t
 
 [TinySearch](https://github.com/tinysearch/tinysearch), which uses a Bloom filter for searching, cannot be used for prefix search (for example, entering `goo`, searching for `good`, `google`), and cannot achieve a similar automatic completion effect.
 
-Due to dissatisfaction with the shortcomings of existing solutions, `i18n.site` has developed a new pure front-end full-text search solution with the following characteristics:
+Due to the shortcomings of the existing solutions, `i18n.site` has independently developed a new pure front-end full-text search solution, which has the following characteristics:
 
 1. Supports multi-language search and has a small volume. The size of the search kernel after packaging with `gzip` is `6.9KB` (for comparison, the size of `lunrjs` is `25KB`)
 1. Builds an inverted index based on `indexedb`, which has less memory usage and is fast
 1. When documents are added/modified, only the added or modified documents are re-indexed, reducing the amount of calculations
 1. Supports prefix search and can display search results in real time while the user is typing
-1. Available offline
+1. Available Offline
 
 Below, the technical implementation details of `i18n.site` will be introduced in detail.
 
@@ -142,13 +144,13 @@ prefixPush = pusher()
 
 ## Prefix Real-Time Search
 
-To achieve the display of search results while the user is inputting, for instance, when ` Wor` is entered, words like `words` and `work` prefixed with ` Wor` are shown.
+To realize the display of search results while the user is inputting, for example, when ` Wor` is entered, words such as `words` and `work` prefixed with ` Wor` are displayed.
 
 ![](https://p.3ti.site/1727684944.avif)
 
-The search kernel will utilize the `prefix` table for the last word after word segmentation to find all words prefixed with it, and conduct searches sequentially.
+The search kernel will make use of the `prefix` table for the last word after word segmentation to find all words prefixed with it, and search in sequence.
 
-The anti-shake function `debounce` is also employed in the front-end interaction (implemented as follows) to reduce the frequency of user input-triggered searches and the amount of computation.
+The anti-shake function `debounce` is also adopted in the front-end interaction (implemented as follows) to reduce the frequency of user input-triggered searches and the computational amount.
 
 ```js
 export default (wait, func) => {
@@ -214,6 +216,6 @@ When presenting the display of search results, the chapter name will be shown an
 
 ## Summarize
 
-An inverted full-text search implemented purely on the front end, with a fast response and no need for a server.
+Inverted full-text search implemented purely on the front end, without the need for a server. It is very suitable for small and medium-sized websites such as documents and personal blogs.
 
-It is highly suitable for small and medium-sized websites such as documents and personal blogs.
+`i18n.site`'s open source self-developed pure front-end search is small in size and has a fast response, resolving various shortcomings of the current pure front-end full-text search and providing a better user experience.

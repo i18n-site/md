@@ -6,27 +6,27 @@ Nach mehreren Wochen der Entwicklung unterstützt [i18n.site](//i18n.site) (ein 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-In diesem Artikel wird die Implementierung der `i18n.site` Frontend-Volltextsuchtechnologie beschrieben. Besuchen Sie [i18n.site](//i18n.site), um die Suchfunktion auszuprobieren.
+In diesem Artikel wird die technische Implementierung der reinen Frontend-Volltextsuche von `i18n.site` vorgestellt. Besuchen Sie [i18n.site](//i18n.site), um die Suchfunktion auszuprobieren.
 
-Der Code ist Open Source: [Suchkernel](//github.com/i18n-site/ie/tree/main/qy) / [Interaktive Schnittstelle](//github.com/i18n-site/plugin/tree/main/qy)
+Der Code ist Open Source: [Suchkernel](//github.com/i18n-site/ie/tree/main/qy) / [Benutzeroberfläche](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Überblick über serverlose Volltextsuchlösungen
 
-Für kleine Websites wie Dokumente/persönliche Blogs, die rein statisch sind, ist es zweifellos zu schwer, selbst ein Backend für die Volltextsuche zu erstellen, und eine Volltextsuche ohne Dienste ist zweifellos ein besseres Gewicht.
+Für kleine und mittlere rein statische Websites wie Dokumente/persönliche Blogs ist der Aufbau eines selbst erstellten Backends für die Volltextsuche zu aufwendig, und die dienstoffreie Volltextsuche ist die häufigere Wahl.
 
-Bestehende serverlose Volltextsuchlösungen lassen sich in zwei große Kategorien einteilen.
+Lösungen für serverlose Volltextsuche lassen sich in zwei Hauptkategorien einteilen:
 
-Einer ist der Einsatz von Drittanbieter-Suchdiensten wie [algolia.com](//algolia.com), die Frontend-Volltextsuchkomponenten anbieten.
+Erstens, ähnlich wie [algolia.com](//algolia.com), bieten Drittanbieter für Suchdienste Frontend-Komponenten für die Volltextsuche an.
 
-Solche Dienste sind kostenpflichtig und stehen Nutzern in China aufgrund von Compliance-Problemen nicht zur Verfügung.
+Diese Dienste erfordern eine Gebühr basierend auf der Suchmenge und sind oft aufgrund von Compliance-Problemen mit Websites für chinesische Benutzer auf dem Festland nicht verfügbar.
 
 Sie können nicht offline oder im Intranet verwendet werden und haben daher erhebliche Einschränkungen. Diese Lösung wird hier nicht weiter diskutiert.
 
-Die zweite Kategorie umfasst rein frontendbasierte Volltextsuchlösungen.
+Zweitens gibt es die reine Frontend-Volltextsuche.
 
-Zu den bekannteren reinen Frontend-Volltextsuchlösungen gehören [lunrjs](https://lunrjs.com) und [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发).
+Zu den häufig verwendeten reinen Frontend-Volltextsuchen gehören [lunrjs](/0) und [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` bietet zwei Methoden zur Indexerstellung, beide haben jedoch ihre eigenen Nachteile.
+`lunrjs` bietet zwei Methoden zur Indexerstellung, beide haben jedoch ihre eigenen Probleme.
 
 1. Vorgefertigte Indexdateien
 
@@ -38,6 +38,8 @@ Zu den bekannteren reinen Frontend-Volltextsuchlösungen gehören [lunrjs](https
 
    Das Erstellen eines Indexes ist eine rechenintensive Aufgabe, und das ständige Neuerstellen des Indexes bei jedem Zugriff führt zu erheblichen Verzögerungen und einer schlechten Benutzererfahrung.
 
+---
+
 Neben `lunrjs` gibt es noch einige andere Volltextsuchlösungen, wie zum Beispiel:
 
 [fusejs](https://www.fusejs.io), das Ähnlichkeiten zwischen Zeichenfolgen berechnet, um zu suchen.
@@ -46,7 +48,7 @@ Diese Lösung ist von extrem schlechter Leistung und kann nicht für die Volltex
 
 [TinySearch](https://github.com/tinysearch/tinysearch), das den Bloom-Filter zum Suchen verwendet, kann nicht für Präfixsuchen verwendet werden (z.B. bei Eingabe von `goo` werden `good` und `google` nicht gefunden) und kann keinen ähnlichen automatischen Vervollständigungseffekt erzielen.
 
-Unzufriedenheit mit den Schwächen bestehender Lösungen führte dazu, dass `i18n.site` eine neue, rein frontende Volltextsuchlösung entwickelt hat, die folgende Merkmale aufweist:
+Aufgrund der Nachteile bestehender Lösungen hat `i18n.site` eine neue, rein frontendbasierte Volltextsuchlösung entwickelt, die folgende Merkmale aufweist:
 
 1. Unterstützt die mehrsprachige Suche und ist klein. Die Größe des Suchkerns nach dem Packen von `gzip` beträgt `6.9KB` (zum Vergleich: Die Größe von `lunrjs` beträgt `25KB` )
 1. Basiert auf `indexedb` und erstellt einen invertierten Index, der weniger Speicherplatz beansprucht und schnell ist
@@ -214,6 +216,6 @@ Zusammenfassung
 
 ## Zusammenfassung
 
-Sie ist ideal für kleine und mittelgroße Websites wie Dokumente und persönliche Blogs.
+Eine rein frontendbasierte invertierte Volltextsuche, die keinen Server erfordert. Sie ist besonders gut geeignet für Dokumente, persönliche Blogs und andere kleine bis mittlere Websites.
 
-Sehr gut geeignet für kleine und mittlere Websites wie Dokumente und persönliche Blogs.
+Die von `i18n.site` entwickelte und als Open Source veröffentlichte reine Frontend-Suche ist kompakt und reagiert schnell, behebt die bestehenden Nachteile der reinen Frontend-Volltextsuche und bietet eine bessere Benutzererfahrung.

@@ -6,27 +6,27 @@ Kadib dhowr toddobaad oo horumarin ah [i18n.site](//i18n.site) (qalab dhisme oo 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Maqaalkani wuxuu wadaagi doonaa hirgelinta `i18n.site` saafi ah oo qoraal ah oo qoraal ah Booqo [i18n.site](//i18n.site)
+Maqaalkani wuxuu wadaagi doonaa hirgelinta farsamada ee `i18n.site` qoraal-buuxa oo saafi ah Booqo [i18n.site](//i18n.site)
 
-Koodhka isha furan [ee](//github.com/i18n-site/plugin/tree/main/qy) [raadinta kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Koodhka isha furan : [raadinta kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Dib U Eegis Lagu Sameeyay Xalal Raadinta Qoraal Buuxa Oo Bilaa Server Ah
 
-Mareegaha yar yar sida dukumeentiyada/bloogyada gaarka ah ee sida tooska ah u taagan, shaki la'aan aad bay u culus tahay in la dhiso qoraal buuxa oo raadinta adiga qudhaadu, iyo raadinta qoraal-buuxa oo aan adeegyo lahayn shaki la'aan waa miisaan ka wanaagsan.
+Kuwa yaryar iyo kuwa dhexdhexaadka ah ee shabakadaha taagan sida dukumeentiyada/bloogyada gaarka ah, dhisidda dhabarka raadinta qoraal-buuxa oo iskiis u dhisan waa mid aad u culus, iyo raadinta qoraal-buuxa oo bilaa adeeg ah ayaa ah doorashada caadiga ah.
 
-Xalka raadinta qoraal-buuxa ee server-la'aanta jira waxay u kala baxaan laba qaybood oo ballaadhan.
+Xalka raadinta qoraal-buuxa ee aan server-ka lahayn waxay u kala baxaan laba qaybood:
 
-Mid waa bixiyaha adeegga raadinta dhinac saddexaad oo la mid ah [algolia.com](//algolia.com) kaas oo bixisa dhamaadka-dhamaadka qaybaha raadinta qoraalka.
+Marka hore [algolia.com](//algolia.com) kuwa la midka ah bixiyeyaasha adeegga raadinta ee dhinac saddexaad waxay bixiyaan qaybaha hore ee raadinta qoraalka buuxa.
 
-Adeegyada noocan oo kale ah waxay u baahan yihiin lacag bixin mana heli karaan isticmaalayaasha ku sugan dhul weynaha Shiinaha sababo la xiriira u hoggaansanaanta bogga.
+Adeegyada noocan oo kale ah waxay u baahan yihiin lacag-bixin ku salaysan mugga raadinta, oo inta badan ma helaan isticmaalayaasha ku sugan dhul weynaha Shiinaha arrimo ay ka mid yihiin u hoggaansanaanta shabakadda.
 
 Looma isticmaali karo offline, laguma isticmaali karo intranetka, waxayna leedahay xaddidaadyo waaweyn. Maqaalkani wax badan kama hadlayo.
 
 Midka labaad waa raadinta qoraal buuxa oo saafi ah.
 
-Baadhitaannada qoraal-buuxa ee saafiga hore-dhamaadka ee aad loo yaqaan waxaa ka mid ah [lunrjs](https://lunrjs.com) iyo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Baadhitaano qoraal buuxa ah oo saafi ah oo hore-dhamaadka ah waxaa ka mid ah [lunrjs](https://lunrjs.com) iyo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Waxaa jira laba siyaabood oo loo dhiso tusmooyin, laakiin labaduba waxay leeyihiin dhibaatooyin iyaga u gaar ah.
+`lunrjs` Waxaa jira laba siyaabood oo loo dhiso tusmooyinka, labaduba waxay leeyihiin dhibaatooyin iyaga u gaar ah.
 
 1. Faylasha tusmada ee horay loo dhisay
 
@@ -38,6 +38,8 @@ Baadhitaannada qoraal-buuxa ee saafiga hore-dhamaadka ee aad loo yaqaan waxaa ka
 
    Dhisidda tusmaynta waa hawl adag oo xisaabin ah mar kasta oo aad gasho waxay sababi doontaa habacsanaan muuqata iyo khibrad isticmaale oo liidata.
 
+---
+
 Marka lagu daro `lunrjs` , waxaa jira xalal raadin qoraal-buuxa oo kale ah, sida :
 
 [fusejs](https://www.fusejs.io) xisaabi isku ekaanshaha xargaha si loo baadho.
@@ -46,13 +48,13 @@ Waxqabadka xalkan aad buu u liitaa loomana isticmaali karo raadinta qoraal buuxa
 
 [TinySearch](https://github.com/tinysearch/tinysearch) isticmaal filtarrada Bloom si aad u baadho, looma isticmaali karo raadinta horgalayaasha (tusaale, geli `goo` , raadinta `good` , `google` ), mana gaadhi karto saamayn dhammaystiran oo toos ah oo la mid ah.
 
-Iyada oo aan ku qanacsanayn cilladaha xalalka jira, `i18n.site` waxay soo saartay xal cusub oo qoraal ah oo saafi ah, kaas oo leh sifooyinka soo socda :
+Sababtoo ah cilladaha xalalka jira, `i18n.site` waxay soo saartay xal cusub oo saafi ah oo hore-dhamaadka qoraalka buuxa ah, kaas oo leh sifooyinka soo socda :
 
 1. Waxay taageertaa raadinta luqadaha badan waana yar tahay cabbirka kernelka ka dib xirmada `gzip` waa `6.9KB` (marka la barbardhigo, cabbirka `lunrjs` waa `25KB` )
 1. Samee tilmaame rogan oo ku salaysan `indexedb` , kaas oo qaada xusuusta yar oo dhakhso badan.
 1. Marka dukumentiyada lagu daro/wax laga beddelo, kaliya dukumeentiyada lagu daray ama la beddelay ayaa dib-u-tusmayn lagu sameeyay, taasoo yaraynaysa tirada xisaabinta.
 1. Waxay taageertaa horgalayaasha raadinta waxayna soo bandhigi kartaa natiijooyinka raadinta wakhtiga dhabta ah inta isticmaaluhu wax qorayo.
-1. La heli karo offline
+1. La Heli Karo Offline
 
 Hoosta, `i18n.site` faahfaahinta hirgelinta farsamada ayaa loo soo bandhigi doonaa si faahfaahsan.
 
@@ -214,6 +216,6 @@ Marka la soo bandhigo natiijooyinka raadinta, magaca cutubka ayaa la soo bandhig
 
 ## Soo Koob
 
-Raadinta qoraal-buuxa oo rogan ayaa lagu hirgeliyay si kali ah dhanka hore, iyadoo leh jawaab degdeg ah oo aan loo baahnayn server.
+Raadinta qoraal-buuxa oo rogan ayaa lagu hirgeliyay oo keliya dhinaca hore, looma baahna server. Aad bay ugu habboon tahay shabakadaha yaryar iyo kuwa dhexdhexaadka ah sida dukumentiyada iyo blogyada gaarka ah.
 
-Aad bay ugu habboon tahay shabakadaha yaryar iyo kuwa dhexdhexaadka ah sida dukumentiyada iyo blogyada gaarka ah.
+`i18n.site` Isha furan oo iskeed u horumarisay raadinta dhamaadka hore ee saafiga ah, cabbir yar iyo jawaab degdeg ah, waxay xallisaa cilladaha hadda jira ee dhamaadka-dhamaadka sare ee raadinta qoraalka buuxa waxayna bixisaa khibrad isticmaale oo wanaagsan.

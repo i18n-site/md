@@ -6,27 +6,27 @@
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Iyi ngingo izagabana ishyirwa mubikorwa rya `i18n.site` yuzuye-ishakisha ryuzuye-tekinoroji yo [i18n.site](//i18n.site) .
+Iyi [i18n.site](//i18n.site) izagabana ishyirwa mubikorwa rya tekiniki ya `i18n.site` yuzuye-ishakisha ryuzuye-Gusura.
 
-Kode ifunguye [isoko yo gushakisha](//github.com/i18n-site/ie/tree/main/qy) [intangiriro](//github.com/i18n-site/plugin/tree/main/qy) /
+Kode ifungura : [Shakisha intangiriro](//github.com/i18n-site/ie/tree/main/qy) / [Imigaragarire](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Incamake Ya Seriveri Idafite Inyandiko Yuzuye Ishakisha Ibisubizo
 
-Kurubuga ruto nkinyandiko / blog zumuntu zihamye gusa, ntagushidikanya ko biremereye cyane kubaka inyandiko yuzuye ishakisha inyuma wenyine, kandi gushakisha inyandiko-yuzuye idafite serivisi nta gushidikanya ko ari uburemere bwiza.
+Kurubuga ruto kandi ruciriritse gusa ruhagaze neza nkurubuga nkinyandiko / blog bwite, kubaka wenyine-wongeyeho inyandiko-yuzuye ishakisha inyuma biraremereye cyane, kandi serivisi-yubusa-yuzuye-ishakisha ryuzuye ni amahitamo menshi.
 
-Kubaho bitagira seriveri yuzuye-ibisubizo byubushakashatsi biri mubyiciro bibiri bigari.
+Serverless yuzuye-ibisubizo byubushakashatsi biri mubice bibiri bigari:
 
-Imwe nigice cya gatatu cyishakisha rya serivise itanga isa na [algolia.com](//algolia.com) Itanga imbere-iherezo ryuzuye-ibice byubushakashatsi.
+[algolia.com](//algolia.com) mbere, bisa nagatatu-gatanga serivisi zishakisha zitanga ibice byanyuma-gushakisha inyandiko-yuzuye.
 
-Serivisi nkizo zisaba kwishura kandi ntizishobora kuboneka kubakoresha mugihugu cyUbushinwa kubera ibibazo byo kubahiriza urubuga.
+Serivisi nkizo zisaba kwishura zishingiye ku bwinshi bw’ishakisha, kandi akenshi ntizishobora kuboneka ku bakoresha ku mugabane w’Ubushinwa kubera ibibazo nko kubahiriza urubuga.
 
 Ntishobora gukoreshwa kumurongo, ntishobora gukoreshwa kuri intranet, kandi ifite aho igarukira. Iyi ngingo ntabwo ivuga byinshi.
 
 Iya kabiri ni isuku imbere-iherezo ryuzuye-ishakisha.
 
-Byinshi bizwi neza imbere-iherezo ryuzuye-shakisha harimo na [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) [lunrjs](https://lunrjs.com)
+Mubisanzwe bikoreshwa imbere-impera yuzuye-ishakisha harimo na [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) [lunrjs](https://lunrjs.com)
 
-`lunrjs` Hariho inzira ebyiri zo kubaka indangagaciro, ariko zombi zifite ibibazo byazo.
+`lunrjs` Hariho inzira ebyiri zo kubaka indangagaciro, kandi zombi zifite ibibazo byazo.
 
 1. Imbere yububiko bwa dosiye
 
@@ -38,6 +38,8 @@ Byinshi bizwi neza imbere-iherezo ryuzuye-shakisha harimo na [ ElasticLunr.js ] 
 
    Kubaka indangagaciro ni umurimo wo kubara cyane.
 
+---
+
 Usibye `lunrjs` , hari ibindi bisobanuro byuzuye-byashakishijwe ibisubizo, nka :
 
 [fusejs](https://www.fusejs.io) kubara, guhuza imirongo yo gushakisha!
@@ -46,13 +48,13 @@ Imikorere yiki gisubizo irakennye cyane kandi ntishobora gukoreshwa mubushakasha
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Kubera kutanyurwa nubusembwa bwibisubizo bihari, `i18n.site` yashyizeho igisubizo gishya cyimbere-cyanyuma cyuzuye-igisubizo cyishakisha, gifite ibintu bikurikira :
+Kubera ibitagenda neza kubisubizo bihari, `i18n.site` yashyizeho uburyo bushya bwuzuye imbere-impera yuzuye-ishakisha igisubizo, gifite ibimenyetso bikurikira :
 
 1. Shyigikira indimi nyinshi kandi ni nto mubunini. Ingano yintangiriro yishakisha nyuma yo gupakira `gzip` ni `6.9KB` (kubigereranya, ubunini bwa `lunrjs` ni `25KB` )
 1. Kubaka indangagaciro ihindagurika ishingiye kuri `indexedb` , ifata kwibuka bike kandi byihuse.
 1. Iyo inyandiko zongeweho / zahinduwe, gusa inyandiko zongeweho cyangwa zahinduwe zongeye gushyirwaho, kugabanya umubare wabazwe.
 1. Shyigikira prefix ishakisha, irashobora kwerekana ibisubizo byubushakashatsi mugihe nyacyo mugihe uyikoresha yandika.
-1. Kuboneka kumurongo
+1. Kuboneka Kumurongo
 
 Hasi, `i18n.site` tekiniki yo gushyira mubikorwa tekinike izatangizwa muburyo burambuye.
 
@@ -214,6 +216,6 @@ Mugihe werekana ibisubizo byubushakashatsi, izina ryigice rizerekanwa kandi igic
 
 ## Vuga Muri Make
 
-Guhindura inyandiko-yuzuye ishakisha yashyizwe mubikorwa gusa imbere yimbere, hamwe nigisubizo cyihuse kandi ntigikenewe seriveri.
+Guhindura inyandiko-yuzuye ishakisha yashyizwe mubikorwa gusa imbere, nta seriveri isabwa. Birakwiriye cyane kurubuga ruto kandi ruciriritse nkinyandiko na blog bwite.
 
-Birakwiriye cyane kurubuga ruto kandi ruciriritse nkinyandiko na blog bwite.
+`i18n.site` Gufungura isoko yonyine-yateje imbere ishakisha ryimbere-ntoya, ntoya mubunini no gusubiza byihuse, ikemura ibitagenda neza byubu byimbere-byuzuye byuzuye-ishakisha kandi itanga uburambe bwabakoresha.

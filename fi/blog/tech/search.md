@@ -6,27 +6,27 @@ Useiden viikkojen kehitystyön jälkeen [i18n.site](//i18n.site) (puhtaasti staa
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Tämä artikkeli jakaa `i18n.site` puhdasta etupään kokotekstihakutekniikan toteutusta, ja voit kokeilla hakutehoa [i18n.site](//i18n.site).
+Artikkeli jakaa `i18n.site`-sivuston puhtaan front-endin täystekstihaun teknisen toteutuksen, ja voit kokeilla hakutoimintoa osoitteessa [i18n.site](//i18n.site).
 
-Koodi on avoimen lähdekoodin [hakuydin](//github.com/i18n-site/ie/tree/main/qy) / [käyttöliittymä](//github.com/i18n-site/plugin/tree/main/qy)
+Koodi on avoimen lähdekoodin: [hakukone](//github.com/i18n-site/ie/tree/main/qy) / [käyttöliittymä](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Yleiskatsaus palvelimettomiin kokotekstihakuratkaisuihin
 
-Pienille verkkosivustoille, kuten asiakirjoille/henkilökohtaisille blogeille, jotka ovat puhtaasti staattisia, on epäilemättä liian raskasta rakentaa itse kokotekstihaun taustaohjelma, ja palvelimettomat kokotekstihaku on epäilemättä parempi vaihtoehto.
+Pienille ja keskikokoisille puhtaasti staattisille verkkosivustoille, kuten asiakirjoille/henkilökohtaisille blogeille, itse rakennetun kokotekstihaun taustaohjelman rakentaminen on liian raskasta, ja palveluvapaa kokotekstihaku on yleisempi valinta.
 
-Nykyiset palvelimettomat kokotekstihakuratkaisut jakautuvat kahteen laajaan luokkaan.
+Palvelimettomat täystekstihaun ratkaisut jakautuvat kahteen pääluokkaan:
 
-Yksi on kolmannen osapuolen hakupalveluntarjoaja, kuten [algolia.com](//algolia.com), joka tarjoaa etupään kokotekstihakukomponentteja.
+Ensimmäinen on, että kolmannen osapuolen palveluntarjoajat, kuten [algolia.com](//algolia.com), tarjoavat täystekstihaun front-end-komponentteja.
 
-Tällaiset palvelut vaativat maksua, eivätkä ne ole Manner-Kiinan käyttäjien saatavilla verkkosivustojen yhteensopivuusongelmien vuoksi.
+Tällaiset palvelut vaativat maksun hakujen määrän perusteella ja ne ovat usein saatavilla vain tietyin vaatimuksin, mikä tekee niistä käyttökelvottomia Kiinan manneralueen käyttäjille.
 
 Ne eivät ole saatavilla offline-tilassa, eivätkä ne ole saatavilla intranetissä, ja niillä on suuria rajoituksia. Tässä artikkelissa ei käsitellä paljon.
 
-Toinen on puhdas etupään kokotekstihaku.
+Toinen on puhtaan front-endin täystekstihaku.
 
-Tunnetuimpia puhtaita käyttöliittymän kokotekstihakuja [lunrjs](/0) ja [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Yleisesti käytettyjä puhtaita käyttöliittymän kokotekstihakuja ovat [lunrjs](/0) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` tarjoaa kaksi tapaa rakentaa indeksejä, mutta molemmissa on omat ongelmansa.
+`lunrjs` tarjoaa kaksi tapaa luoda indeksejä, joilla on molemmilla omat ongelmansa.
 
 1. Valmiiksi rakennetut indeksitiedostot
 
@@ -38,6 +38,8 @@ Tunnetuimpia puhtaita käyttöliittymän kokotekstihakuja [lunrjs](/0) ja [ Elas
 
    Indeksin luominen on laskennallisesti intensiivinen tehtävä, ja indeksin uudelleen rakentaminen joka kerta, kun sitä käytetään, aiheuttaa ilmeisiä viiveitä ja huonon käyttökokemuksen.
 
+---
+
 `lunrjs`-lisäksi on olemassa joitain muita kokotekstihakuratkaisuja, kuten:
 
 [fusejs](https://www.fusejs.io), joka laskee haettavien merkkijonojen välinen samankaltaisuus.
@@ -46,7 +48,7 @@ Tämän ratkaisun suorituskyky on erittäin heikko, eikä sitä voida käyttää
 
 [TinySearch](https://github.com/tinysearch/tinysearch), joka käyttää etsimiseen Bloom-suodatinta, sitä ei voi käyttää etuliitehakuun (esimerkiksi kirjoita `goo`, haku `good`, `google`), eikä vastaavaa automaattista täydennystehoa voi saada.
 
-Tyytymättömyydestä olemassa olevien ratkaisujen puutteisiin `i18n.site` kehitti uuden puhtaan etupään kokotekstihakuratkaisun, jossa on seuraavat ominaisuudet:
+Koska nykyiset ratkaisut ovat puutteellisia, `i18n.site` on kehittänyt uuden puhtaan front-endin täystekstihaun ratkaisun, joka sisältää seuraavat ominaisuudet:
 
 1. Tukee monikielistä hakua, on kooltaan pieni, hakuytimen pakattu `gzip`-koko on `6.9KB` (vertailun vuoksi, `lunrjs`-koko on `25KB`)
 1. Rakennettu `indexedb`-perusteella, joka vie vähemmän muistia ja on nopea
@@ -214,6 +216,6 @@ Yhteenveto
 
 ## Tee yhteenveto
 
-Se sopii erittäin hyvin pienille ja keskikokoisille verkkosivustoille, kuten asiakirjoille ja henkilökohtaisille blogeille.
+Puhtaan front-endin toteuttama käänteinen täystekstihaku, joka ei vaadi palvelinta. Se sopii erinomaisesti pienille ja keskisuurille verkkosivustoille, kuten asiakirjoille ja henkilökohtaisille blogeille.
 
-Tämä ratkaisu sopii erittäin hyvin pienille ja keskikokoisille verkkosivustoille, kuten asiakirjoille ja henkilökohtaisille blogeille.
+`i18n.site` tarjoaa avoimen lähdekoodin itsekehittämänsä puhtaan front-endin täystekstihaun, joka on pienikokoinen ja nopeasti vastaava, ratkaisee nykyisten puhtaiden front-endin täystekstihaun ongelmat ja tarjoaa paremman käyttökokemuksen.

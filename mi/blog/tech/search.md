@@ -6,27 +6,27 @@ Whai muri i nga wiki maha o te whakawhanaketanga, [i18n.site](//i18n.site) (he t
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ka tohatohahia e tenei tuhinga te whakatinanatanga o `i18n.site` hangarau rapu kupu-katoa o mua-mua [i18n.site](//i18n.site) taea e koe te wheako i te paanga rapu.
+Ka tohatohahia e tenei tuhinga te whakatinanatanga hangarau o te `i18n.site` parakore o mua-mutunga rapu kupu-katoa Tirohia [i18n.site](//i18n.site)
 
-Waehere atanga [rapu](//github.com/i18n-site/ie/tree/main/qy) puna [tuwhera](//github.com/i18n-site/plugin/tree/main/qy) /
+Waehere tuwhera puna : [Rapu kernel](//github.com/i18n-site/ie/tree/main/qy) / [Atanga tauwhitiwhiti](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## He Tirohanga Whanui Mo Nga Otinga Rapu Kupu-Katoa Kaore He Tūmau
 
-Mo nga paetukutuku iti penei i nga tuhinga/purangi whaiaro e noho noa ana, he tino taumaha rawa ki te hanga i tetahi rapunga kupu-katoa i muri i a koe, a ko te rapu kupu-katoa kaore he ratonga he pai ake te taumaha.
+Mo nga paetukutuku iti me te rahi-waenga noa penei i nga tuhinga/purangi whaiaro, he taumaha rawa te hanga i te tuara rapu kupu-katoa i hangaia e koe ake, a ko te rapu kupu-katoa-kore ratonga te whiriwhiri noa ake.
 
-Ka taka nga otinga rapu kupu-katoa kaore he tūmau o naianei ki nga waahanga whanui e rua.
+Ko nga otinga rapu kupu-katoa kore-tumau ka taka ki nga waahanga whanui e rua:
 
-Ko tetahi he kaiwhakarato ratonga rapu-tuatoru e rite ana ki te [algolia.com](//algolia.com) e whakarato ana i nga waahanga rapu kuputuhi-mua.
+Tuatahi, he rite [algolia.com](//algolia.com) Ko nga kaiwhakarato ratonga rapu tuatoru e whakarato ana i nga waahanga o mua mo te rapu kupu-katoa.
 
-Ko enei ratonga me utu, kaore e waatea ki nga kaiwhakamahi i te tuawhenua o Haina na runga i nga take tautukunga o te paetukutuku.
+Ko enei ratonga me utu i runga i te rahinga rapunga, he maha nga wa karekau e waatea ki nga kaiwhakamahi i te tuawhenua o Haina na runga i nga take penei i te hanganga ture paetukutuku.
 
 Kaore e taea te whakamahi tuimotu, kaore e taea te whakamahi ki te ipurangiroto, he nui nga here. Kaore tenei tuhinga e korero nui.
 
 Ko te tuarua ko te rapu kuputuhi-katoa o mua-mutunga.
 
-Ko nga rapunga kupu-katoa o mua-mutunga ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ko [lunrjs](https://lunrjs.com)
+Ko nga rapunga kupu-katoa o mua o [lunrjs](https://lunrjs.com) ko te [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` E rua nga huarahi hei hanga taurangi, engari he raru ano to raua.
+`lunrjs` E rua nga huarahi ki te hanga taurangi, a kei a raua ano o raua raru.
 
 1. Ko nga konae taupū kua oti te hanga
 
@@ -38,6 +38,8 @@ Ko nga rapunga kupu-katoa o mua-mutunga ElasticLunr.js [https://github.com/weixs
 
    Ko te hanga i te taurangi he mahi tino kaha ki te hanga i te taurangi i nga wa katoa ka uru koe ka kitea he takamuri me te ngoikore o te wheako kaiwhakamahi.
 
+---
+
 I tua atu i `lunrjs` , tera ano etahi atu otinga rapu kupu-katoa, penei i te :
 
 [fusejs](https://www.fusejs.io) , tātaihia te ōritenga o ngā aho ki te rapu.
@@ -46,13 +48,13 @@ He tino rawe te mahinga o tenei otinga, kaore e taea te whakamahi mo te rapu kup
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , whakamahia te tātari Bloom ki te rapu, kaore e taea te whakamahi mo te rapu prefix (hei tauira, tomo `goo` , rapu `good` , `google` ), a kaore e taea te whakatutuki i te paanga whakaoti aunoa.
 
-Na te kore i pai ki nga ngoikoretanga o nga otinga o naianei, i whakawhanakehia `i18n.site` tetahi otinga rapu kupu-katoa o mua parakore, kei a ia nga ahuatanga e whai ake nei :
+Na nga ngoikoretanga o nga otinga o naianei, kua whakawhanakehia `i18n.site` tetahi otinga rapu kupu-katoa o mua parakore, e whai ake nei nga ahuatanga :
 
 1. Ka tautokohia te rapu reo-maha, he iti te rahi Ko te rahi o te kakano rapu i muri i te kohinga `gzip` he `6.9KB` (mo te whakataurite, ko te rahi o `lunrjs` he `25KB` ).
 1. Hangaia he taupū hurihuri i runga i `indexedb` , he iti ake te mahara, he tere hoki.
 1. Ina taapirihia nga tuhinga, ko nga tuhinga kua taapirihia, kua whakarerekehia ranei ka tohuhia ano, ka whakaitihia te nui o nga tatauranga.
 1. Ka tautokohia te rapu prefix, ka taea te whakaatu i nga hua rapu i te waa tonu i te wa e pato ana te kaiwhakamahi.
-1. Kei te waatea tuimotu
+1. Kei Te Waatea Tuimotu
 
 Kei raro iho nei, `i18n.site` nga korero mo te whakatinanatanga hangarau ka whakaatuhia.
 
@@ -214,6 +216,6 @@ I te wa e whakaatu ana i nga hua rapu, ka whakaatuhia te ingoa pene ka whakatere
 
 ## Whakarāpopoto
 
-Ko te rapu kuputuhi-katoa kua huri kua mahia ki te pito o mua, me te whakautu tere me te kore e hiahiatia he tūmau.
+Ko te rapu kuputuhi-katoa kua huri kua mahia ki te pito o mua, kaore he tūmau e hiahiatia. He mea tino pai mo nga paetukutuku iti me te reo-rahi penei i nga tuhinga me nga rangitaki whaiaro.
 
-He mea tino pai mo nga paetukutuku iti me te reo-rahi penei i nga tuhinga me nga rangitaki whaiaro.
+`i18n.site` Ko te puna tuwhera i whakawhanakehia e ia ano te rapu parakore o mua-mutunga, he iti te rahi me te whakautu tere, ka whakaoti i nga ngoikoretanga o te rapu kupu-katoa o mua-mutunga parakore o naianei me te whakarato i te wheako kaiwhakamahi pai ake.

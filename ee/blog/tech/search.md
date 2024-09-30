@@ -6,27 +6,27 @@ Le kwasiɖa geɖe ƒe ŋgɔyiyi megbe la, [i18n.site](//i18n.site) (si nye markd
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Nyati sia agblɔ `i18n.site` pure front-end full-text search technology ƒe dɔwɔwɔ Visit [i18n.site](//i18n.site)
+Nyati sia agblɔ mɔ̃ɖaŋununya ƒe dɔwɔwɔ le `i18n.site` pure front-end full-text search Visit [i18n.site](//i18n.site)
 
-Code [ʋuʋu dzɔtsoƒe didi kernel](//github.com/i18n-site/ie/tree/main/qy) / [interface](//github.com/i18n-site/plugin/tree/main/qy)
+Code open source : [Di kernel](//github.com/i18n-site/ie/tree/main/qy) / [Nuwɔwɔ aduadu ƒe ŋgɔdonya](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Serverless Full-Text Didi Ƒe Kuxiwo Gbɔkpɔnu Ƒe Wɔwɔfia
 
-Le nyatakakadzraɖoƒe suewo abe nuŋlɔɖiwo/ame ŋutɔ ƒe blog siwo le teƒe ɖeka ko gome la, ɖikeke mele eme o be elolo akpa be wò ŋutɔ nàtu nuŋɔŋlɔ blibo didi ƒe megbenya, eye ɖikeke mele eme o be nuŋɔŋlɔ blibo didi subɔsubɔdɔ manɔmee nye kpekpeme nyuitɔ.
+Le nyatakakadzraɖoƒe suewo kple gãwo siwo le teƒe ɖeka ko abe nuŋlɔɖiwo/ame ŋutɔ ƒe blogwo ene gome la, nuŋɔŋlɔ blibo didi ƒe megbenya si ame ŋutɔ tu tutu kpekpe akpa, eye nuŋɔŋlɔ blibo didi si me subɔsubɔdɔ aɖeke mele o ye nye tiatia si bɔ wu.
 
-Serverless full-text search solutions siwo li fifia la dze le hatsotso gbadza eve me.
+Serverless full-text search solutions dze le hatsotso gã eve me:
 
-Ðeka nye ame etɔ̃lia ƒe didiƒe dɔwɔƒe si sɔ kple [algolia.com](//algolia.com) si naa ŋgɔgbekpa dzi nyatakaka blibo didi ƒe akpawo.
+Gbã la, [algolia.com](//algolia.com)
 
-Subɔsubɔdɔ mawo bia be woaxe fe eye womele wo zãlawo si le China-nyigba gã dzi o le nyatakakadzraɖoƒea ƒe sedziwɔwɔ ŋuti nyawo ta.
+Dɔ siawo tɔgbe bia be woaxe fe ɖe nusiwo wodi ƒe agbɔsɔsɔ nu, eye zi geɖe la, womete ŋu zãa wo le China-nyigba gã dzi o le nyawo abe nyatakakadzraɖoƒewo ƒe sedziwɔwɔ ene ta.
 
 Womate ŋu azãe le Internet dzi o, womate ŋu azãe le Internet dzi o, eye seɖoƒe gã aɖe le eŋu. Nyati sia meƒo nu tso nu geɖe ŋu o.
 
 Evelia nye ŋgɔgbekpa dzi didi dzadzɛ.
 
-Nuŋɔŋlɔ blibo siwo le ŋgɔgbe dzadzɛ siwo wonya nyuie wu dometɔ aɖewoe nye [lunrjs](https://lunrjs.com) kple [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Nuŋɔŋlɔ blibo siwo le ŋgɔgbe dzadzɛ siwo wozãna zi geɖe dometɔ aɖewoe nye [lunrjs](https://lunrjs.com) kple [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Mɔ eve li siwo dzi woato atu indexwo, gake wo ame evea siaa ƒe kuxiwo le wo si.
+`lunrjs` Mɔ eve li siwo dzi woato atu indexwo, eye wo ame evea siaa ƒe kuxiwo le wo si.
 
 1. Index file siwo wotu do ŋgɔ
 
@@ -38,6 +38,8 @@ Nuŋɔŋlɔ blibo siwo le ŋgɔgbe dzadzɛ siwo wonya nyuie wu dometɔ aɖewoe n
 
    Index tutu nye dɔ si me akɔntabubu sesẽ le Ne ègbugbɔ index la tutu ɣesiaɣi si nège ɖe eme la, ahe megbedede si dze ƒã kple ezãla ƒe nuteƒekpɔkpɔ gbegblẽ vɛ.
 
+---
+
 Tsɔ kpe ɖe `lunrjs` ŋu la, nuŋɔŋlɔ bliboa didi ƒe kuxiwo gbɔkpɔnu bubu aɖewo hã li, abe :
 
 [fusejs](https://www.fusejs.io) , bu akɔnta le ka siwo nàdi dome ƒe sɔsɔ ŋu.
@@ -46,13 +48,13 @@ Egbɔkpɔnu sia ƒe dɔwɔwɔ menyo kura o eye womate ŋu azãe na nuŋɔŋlɔ b
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Le dzimaɖitsitsi ɖe egbɔkpɔnu siwo li fifia ƒe gbɔdzɔgbɔdzɔwo ŋu ta la, `i18n.site` to ŋgɔdonya dzadzɛ si me nyawo katã le didi ƒe egbɔkpɔnu yeye aɖe vɛ, si me nɔnɔme siwo gbɔna le :
+Le egbɔkpɔnu siwo li ƒe gbɔdzɔgbɔdzɔwo ta la, `i18n.site` to ŋgɔgbe-nuŋɔŋlɔ blibo didi ƒe egbɔkpɔnu yeye dzadzɛ aɖe vɛ, si ƒe nɔnɔmewo gbɔna :
 
 1. Doa alɔ gbegbɔgblɔ geɖe me didi eye wòle sue le eƒe lolome nu Didi ƒe kernel ƒe lolome le packing `gzip` megbe nye `6.9KB` (ne woatsɔe asɔ kple wo nɔewo la, `lunrjs` ƒe lolome nye `25KB` )
 1. Tu index si wogbugbɔ trɔ si wotu ɖe `indexedb` dzi, si mexɔa ŋkuɖodzinu boo aɖeke o eye wòwɔa dɔ kabakaba.
 1. Ne wotsɔ nuŋlɔɖiwo kpee/trɔ asi le wo ŋu la, nuŋlɔɖi siwo wotsɔ kpe ɖe eŋu alo esiwo ŋu wotrɔ asi le koe wogbugbɔ dea xexlẽdzesiwo me, si wɔnɛ be akɔntabubuwo dzi ɖena kpɔtɔna.
 1. Doa alɔ ŋgɔdonya didi, si ate ŋu aɖe didi me tsonu afia le ɣeyiɣi ŋutɔŋutɔ me esime zãla le nu ŋlɔm.
-1. Woate ŋu akpɔe le Internet dzi
+1. Woate Ŋu Akpɔe Le Internet Dzi
 
 Le ete la, woaɖe mɔ̃ɖaŋununya ƒe dɔwɔwɔ ŋuti nyatakaka `i18n.site` afia tsitotsito.
 
@@ -214,6 +216,6 @@ Ne èle nyatakaka siwo nèdi la ɖem fia la, ta la ƒe ŋkɔ adze eye nàʋu ta 
 
 ## Gblɔe Kpuie
 
-Nuŋɔŋlɔ bliboa didi si wogbugbɔ trɔ si wowɔ le ŋgɔgbekpa dzi ɖeɖeko, eye woɖoa eŋu kabakaba eye mehiã be woawɔ dɔdzikpɔla o.
+Nuŋɔŋlɔ blibo didi si wogbugbɔ trɔ si wowɔ le ŋgɔgbekpa dzi ɖeɖeko, mehiã be woawɔ server aɖeke o. Esɔ ŋutɔ na nyatakakadzraɖoƒe suewo kple gãwo abe nuŋlɔɖiwo kple ame ŋutɔ ƒe blogwo ene.
 
-Esɔ ŋutɔ na nyatakakadzraɖoƒe suewo kple gãwo abe nuŋlɔɖiwo kple ame ŋutɔ ƒe blogwo ene.
+`i18n.site` Open source self-veloped pure front-end search, si le sue le eƒe lolome nu eye wòwɔa nu kabakaba, kpɔa fifi pure front-end full-text didi ƒe gbɔdzɔgbɔdzɔwo gbɔ eye wònaa zãla ƒe nuteƒekpɔkpɔ nyuitɔ.

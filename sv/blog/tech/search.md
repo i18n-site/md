@@ -6,27 +6,27 @@ Efter några veckors utveckling stöder [i18n.site](//i18n.site) (ett rent stati
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Denna artikel delar `i18n.site` ren front-end fulltextsökningsteknikimplementering. Besök [i18n.site](//i18n.site) för att uppleva sökeffekten.
+Denna artikel kommer att dela tekniken bakom `i18n.site` för ren front-end fulltext sökning. Besök [i18n.site](//i18n.site) för att uppleva sökfunktionen.
 
-Koden är öppen [sökkärna](//github.com/i18n-site/ie/tree/main/qy) / [interaktivt gränssnitt](//github.com/i18n-site/plugin/tree/main/qy)
+Kod är öppen: [Sökcore](//github.com/i18n-site/ie/tree/main/qy) / [Interaktiv gränssnitt](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## En översikt över serverlösa fulltextsöklösningar
 
-För små webbplatser som dokument/personliga bloggar som är rent statiska är det utan tvekan för tungt att bygga en fulltextsökningsbackend själv, och fulltextsökning utan tjänster är utan tvekan en bättre vikt.
+För små och medelstora rent statiska webbplatser som dokument/personliga bloggar är det för tungt att bygga en egenbyggd fulltextsökningsbackend, och tjänstefri fulltextsökning är det vanligaste valet.
 
-Befintliga serverlösa fulltextsöklösningar kan delas in i två huvudkategorier.
+Serverlösa fulltext söklösningar kan delas in i två huvudkategorier:
 
-Den ena är tredjepartssökningstjänster som [algolia.com](//algolia.com) som erbjuder front-end fulltextsökningkomponenter.
+Den ena är lik [algolia.com](//algolia.com), tredjeparts söktjänsteleverantörer som erbjuder front-end komponenter för fulltext sökning.
 
-Dessa tjänster kräver betalning och är inte tillgängliga för användare i Kina på grund av webbplatsens efterlevnad.
+Dessa tjänster kräver betalning baserat på sökvolym och är ofta inte tillgängliga för användare i Kina på grund av合规性问题.
 
 Kan inte användas offline, kan inte användas på intranätet, och har stora begränsningar. Denna artikel kommer inte att diskutera detta i detalj.
 
-Den andra är en ren front-end fulltextsökning.
+Den andra kategorin är ren front-end fulltext sökning.
 
-De mer välkända rena frontend-fulltextsökningarna [lunrjs](/0) och [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Vanligt använda rena front-end-fulltextsökningar [lunrjs](/0) och [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` har två sätt att bygga index, men båda har sina egna problem.
+`lunrjs` har två metoder för att skapa index, och båda har sina egna problem.
 
 1. Förbyggda indexfiler
 
@@ -38,6 +38,8 @@ De mer välkända rena frontend-fulltextsökningarna [lunrjs](/0) och [ ElasticL
 
    Att bygga ett index är en beräkningsintensiv uppgift, och att bygga om indexet vid varje besök kommer att orsaka uppenbara fördröjningar och en dålig användarupplevelse.
 
+---
+
 Utanför `lunrjs` finns det några andra fulltextsöklösningar, såsom:
 
 [fusejs](https://www.fusejs.io), som söker genom att beräkna likheten mellan strängar.
@@ -46,13 +48,13 @@ Denna lösning har mycket dålig prestanda och kan inte användas för fulltexts
 
 [TinySearch](https://github.com/tinysearch/tinysearch), som söker med hjälp av Bloom-filtrer, kan inte användas för prefixsökning (t.ex. att skriva `goo` och söka `good`, `google`), och kan inte uppnå en automatisk kompletteringseffekt.
 
-På grund av missnöje med bristerna i befintliga lösningar har `i18n.site` utvecklat en ny ren front-end fulltextsökning som har följande egenskaper:
+På grund av de olika problemen med befintliga lösningar har `i18n.site` utvecklat en helt ny ren front-end fulltext söklösning med följande egenskaper:
 
 1. Stöder flerspråkig sökning och är liten i storleken. Storleken på sökkärnan efter paketering `gzip` är `6.9KB` (för jämförelse, storleken på `lunrjs` är `25KB` )
 1. Bygger ett inverterat index baserat på `IndexedDB`, vilket minskar minnesanvändningen och ökar hastigheten
 1. När dokument läggs till/ändras, återindexeras endast de tillagda eller ändrade dokumenten, vilket minskar antalet beräkningar
 1. Stöder prefixsökning, kan visa sökresultat i realtid medan användaren skriver
-1. Kan användas offline
+1. Tillgänglig Offline
 
 Nedan kommer vi att ge en detaljerad beskrivning av `i18n.site` tekniska implementering.
 
@@ -214,6 +216,6 @@ När du visar sökresultat kommer kapitelnamnet att visas, och kapitlet navigera
 
 ## Sammanfatta
 
-Sammanfattning
+Ren front-end implementerad inverted index fulltext sökning, ingen server behövs. Mycket lämplig för små och medelstora webbplatser som dokument och personliga bloggar.
 
-Ett rent front-end implementerat inverterat fulltextsökningssystem som är snabbt och kräver ingen server.
+`i18n.site` öppen källkod egenutvecklad ren front-end sökning, liten i storlek och snabb respons, löser de nuvarande problemen med ren front-end fulltext sökning och erbjuder en bättre användarupplevelse.

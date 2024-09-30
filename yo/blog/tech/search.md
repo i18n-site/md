@@ -6,27 +6,27 @@ Lẹhin markdown ọsẹ pupọ & idagbasoke, [i18n.site](//i18n.site)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Nkan yii yoo pin imuse ti `i18n.site` mimọ iwaju-opin imọ-ẹrọ wiwa ni kikun Ibẹwo [i18n.site](//i18n.site)
+Nkan yii yoo pin imuse imọ-ẹrọ ti wiwa iwaju-opin `i18n.site` Ibewo [i18n.site](//i18n.site)
 
-[Ekuro](//github.com/i18n-site/plugin/tree/main/qy) [wiwa](//github.com/i18n-site/ie/tree/main/qy) orisun ṣiṣi koodu /
+[Orisun](//github.com/i18n-site/ie/tree/main/qy) / [koodu](//github.com/i18n-site/plugin/tree/main/qy) :
 
 ## Akopọ Ti Awọn Solusan Wiwa Ọrọ Kikun Ti Ko Ni Olupin
 
-Fun awọn oju opo wẹẹbu kekere gẹgẹbi awọn iwe aṣẹ/awọn bulọọgi ti ara ẹni ti o jẹ aimi, laiseaniani o wuwo pupọ lati kọ ẹhin wiwa ọrọ-kikun nipasẹ ararẹ, ati wiwa ọrọ kikun laisi awọn iṣẹ jẹ laiseaniani iwuwo to dara julọ.
+Fun awọn oju opo wẹẹbu aimi ni iwọn kekere ati alabọde gẹgẹbi awọn iwe aṣẹ/awọn bulọọgi ti ara ẹni, kikọ ẹhin wiwa ọrọ-kikun ti ara ẹni ti wuwo pupọ, ati wiwa ọrọ ni kikun laisi iṣẹ jẹ yiyan ti o wọpọ julọ.
 
-Awọn ojutu wiwa ọrọ kikun ti ko ni olupin ti o wa tẹlẹ ṣubu si awọn ẹka gbooro meji.
+Awọn ojutu wiwa ọrọ kikun ti ko ni olupin ṣubu si awọn ẹka nla meji:
 
-Ọkan jẹ olupese iṣẹ wiwa ẹni-kẹta ti o jọra si [algolia.com](//algolia.com) eyiti o pese awọn paati wiwa ọrọ-kikun iwaju-opin.
+Ni akọkọ, iru [algolia.com](//algolia.com)
 
-Iru awọn iṣẹ bẹ nilo isanwo ati pe ko si fun awọn olumulo ni Ilu China nitori awọn ọran ibamu oju opo wẹẹbu.
+Iru awọn iṣẹ bẹẹ nilo isanwo ti o da lori iwọn wiwa, ati nigbagbogbo ko si fun awọn olumulo ni oluile China nitori awọn ọran bii ibamu oju opo wẹẹbu.
 
 Ko ṣee lo ni aisinipo, ko ṣee lo lori intranet, o si ni awọn idiwọn nla. Nkan yii ko jiroro pupọ.
 
 Awọn keji jẹ funfun iwaju-opin wiwa ọrọ ni kikun.
 
-Awọn wiwa-ọrọ ni kikun ti ElasticLunr.js mọ ni iwaju- [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) pẹlu [lunrjs](https://lunrjs.com)
+Awọn wiwa ọrọ ni kikun iwaju-opin mimọ ti [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) lo ElasticLunr.js pẹlu [lunrjs](https://lunrjs.com)
 
-`lunrjs` Awọn ọna meji lo wa lati kọ awọn atọka, ṣugbọn awọn mejeeji ni awọn iṣoro tiwọn.
+`lunrjs` Awọn ọna meji lo wa lati kọ awọn atọka, ati pe awọn mejeeji ni awọn iṣoro tiwọn.
 
 1. Awọn faili atọka ti a ti kọ tẹlẹ
 
@@ -38,6 +38,8 @@ Awọn wiwa-ọrọ ni kikun ti ElasticLunr.js mọ ni iwaju- [https://github.co
 
    Ṣiṣeto atọka jẹ iṣẹ-ṣiṣe aladanla oniṣiro ni gbogbo igba ti o wọle si yoo fa lags ti o han gedegbe ati iriri olumulo ti ko dara.
 
+---
+
 Ni afikun si `lunrjs` , awọn ojutu wiwa ọrọ-kikun miiran wa, bii :
 
 [fusejs](https://www.fusejs.io) , ṣe iṣiro ibajọra laarin awọn okun lati wa.
@@ -46,13 +48,13 @@ Iṣe ti ojutu yii ko dara pupọ ati pe a ko le lo fun wiwa ọrọ-kikun (wo [
 
 [TinySearch](https://github.com/tinysearch/tinysearch) lo Bloom àlẹmọ lati wa, ko le ṣee lo fun ìpele àwárí (fun apẹẹrẹ, tẹ `goo` , àwárí `good` , `google` ), ati ki o ko ba le se aseyori iru laifọwọyi Ipari ipa.
 
-Ninu ainitẹlọrun pẹlu awọn ailagbara ti awọn solusan ti o wa tẹlẹ, `i18n.site` ṣe agbekalẹ ojuutu wiwa iwaju-ipari kikun-ọrọ mimọ tuntun, eyiti o ni awọn ẹya wọnyi :
+Nitori awọn ailagbara ti awọn solusan ti o wa tẹlẹ, `i18n.site` ṣe agbekalẹ ojuutu wiwa ọrọ-ipari iwaju mimọ tuntun, eyiti o ni awọn abuda wọnyi :
 
 1. Ṣe `lunrjs` wiwa ede-pupọ ati pe `gzip` jẹ `6.9KB` ni iwọn `25KB`
 1. Kọ itọka inverted ti o da lori `indexedb` , eyiti o gba iranti kere si ati iyara.
 1. Nigbati awọn iwe ba ti wa ni afikun / títúnṣe, nikan ni afikun tabi títúnṣe awọn iwe aṣẹ ti wa ni tun atọka, atehinwa iye ti isiro.
 1. Ṣe atilẹyin wiwa iṣaaju, eyiti o le ṣafihan awọn abajade wiwa ni akoko gidi lakoko ti olumulo n tẹ.
-1. Wa ni aisinipo
+1. Wa Ni Aisinipo
 
 Ni isalẹ, awọn alaye imuse imọ-ẹrọ `i18n.site` yoo ṣafihan ni awọn alaye.
 
@@ -214,6 +216,6 @@ Nigbati o ba n ṣafihan awọn abajade wiwa, orukọ ipin naa yoo han ati ipin 
 
 ## Ṣe Akopọ
 
-Ṣiṣawari ọrọ-kikun ti a ṣe iyipada ti a ṣe imuse ni iha iwaju, pẹlu idahun iyara ati pe ko si iwulo fun olupin kan.
+Ṣiṣawari ọrọ-kikun ti a yipada ti ṣe imuse ni iha iwaju, ko si olupin ti o nilo. O dara pupọ fun awọn oju opo wẹẹbu kekere ati alabọde bii awọn iwe aṣẹ ati awọn bulọọgi ti ara ẹni.
 
-O dara pupọ fun awọn oju opo wẹẹbu kekere ati alabọde bii awọn iwe aṣẹ ati awọn bulọọgi ti ara ẹni.
+`i18n.site` Ṣii orisun ti ara ẹni ti o ni idagbasoke wiwa iwaju-opin mimọ, kekere ni iwọn ati idahun iyara, yanju awọn ailagbara ti wiwa iwaju-ipari iwaju mimọ lọwọlọwọ ati pese iriri olumulo ti o dara julọ.

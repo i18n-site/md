@@ -6,27 +6,27 @@ Oluvannyuma lwa wiiki eziwerako ez'okukulaakulanya, [i18n.site](//i18n.site) (ek
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ekiwandiiko kino kijja kugabana ku kussa mu nkola tekinologiya w’okunoonya `i18n.site` pure front-end full-text Visit [i18n.site](//i18n.site)
+Ekiwandiiko kino kijja kugabana ku nkola ey'ekikugu ey'okunoonya `i18n.site` pure front-end full-text Visit [i18n.site](//i18n.site)
 
-Code open source [okunoonya](//github.com/i18n-site/plugin/tree/main/qy) [kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Code open source : [Okunoonya kernel](//github.com/i18n-site/ie/tree/main/qy) / [Enkolagana ey'okukwatagana](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Okulambika Kw'ebigonjoola Eby'okunoonya Ebiwandiiko Ebijjuvu Ebitaliiko Seva
 
-Ku mikutu emitono nga ebiwandiiko/buloogu ez’obuntu ezibeera ezitakyukakyuka zokka, awatali kubuusabuusa kizitowa nnyo okuzimba backend y’okunoonya ebiwandiiko ebijjuvu wekka, era okunoonya ebiwandiiko ebijjuvu awatali mpeereza awatali kubuusabuusa buzito busingako.
+Ku mikutu emitono n’egya wakati egy’obutakyukakyuka nga ebiwandiiko/buloogu ez’obuntu, okuzimba backend y’okunoonya ebiwandiiko ebijjuvu eyeezimbye kizitowa nnyo, era okunoonya ebiwandiiko ebijjuvu okutaliimu mpeereza kye kisinga okulondebwa.
 
-Ebigonjoola eby’okunoonya ebiwandiiko ebijjuvu ebiriwo nga tebirina seeva bigwa mu biti bibiri ebigazi.
+Ebigonjoola eby’okunoonya ebiwandiiko ebijjuvu ebitaliiko seva bigwa mu biti bibiri ebigazi:
 
-Ekimu kye kitongole eky’okusatu ekigaba empeereza y’okunoonya okufaananako [algolia.com](//algolia.com) egaba ebitundu by’okunoonya eby’ebiwandiiko ebijjuvu eby’omu maaso.
+Ekisooka, okufaananako [algolia.com](//algolia.com)
 
-Empeereza ng’ezo zeetaaga okusasula era tezifunibwa bakozesa ku lukalu lwa China olw’ensonga z’okugoberera amateeka g’omukutu gwa yintaneeti.
+Empeereza nga zino zeetaaga okusasula okusinziira ku bungi bw’okunoonya, era zitera obutafunibwa bakozesa ku lukalu lwa China olw’ensonga ng’okugoberera omukutu gwa yintaneeti.
 
 Tesobola kukozesebwa offline, tesobola kukozesebwa ku intranet, era erina obuzibu bungi. Ekitundu kino tekiyogera ku bingi.
 
 Ekyokubiri kwe kunoonya ebiwandiiko byonna mu maaso okulongoofu.
 
-Okunoonya okumanyiddwa ennyo okw'ebiwandiiko ebijjuvu eby'omu maaso omulongoofu mulimu [lunrjs](https://lunrjs.com) ne [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Okunoonya ebiwandiiko ebijjuvu eby'omu maaso ebirongoofu ebikozesebwa ennyo mulimu [lunrjs](https://lunrjs.com) ne [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Waliwo engeri bbiri ez’okuzimba indexes, naye zombi zirina ebizibu byazo.
+`lunrjs` Waliwo engeri bbiri ez’okuzimba indexes, era zombi zirina ebizibu byazo.
 
 1. Fayiro za index ezizimbibwa nga tezinnabaawo
 
@@ -38,6 +38,8 @@ Okunoonya okumanyiddwa ennyo okw'ebiwandiiko ebijjuvu eby'omu maaso omulongoofu 
 
    Okuzimba index mulimu gwa kubala nnyo Okuddamu okuzimba index buli lw’ogiyingira kijja kuleeta okuddirira okweyoleka n’obumanyirivu obubi obw’omukozesa.
 
+---
+
 Ng’oggyeeko `lunrjs` , waliwo ebirala eby’okunoonya ebiwandiiko ebijjuvu, gamba nga :
 
 [fusejs](https://www.fusejs.io) , bala okufaanagana wakati w'ennyiriri okunoonya.
@@ -46,13 +48,13 @@ Enkola y’okugonjoola kino mbi nnyo era tesobola kukozesebwa kunoonya biwandiik
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Olw’obutali bumativu n’ebbula ly’ebigonjoola ebiriwo, `i18n.site` yakola eky’okunoonya ekipya ekirongoofu eky’okunoonya ebiwandiiko ebijjuvu mu maaso, ekirimu ebintu bino wammanga :
+Olw’obusobozi obutono bw’ebigonjoola ebiriwo, `i18n.site` ekoze eky’okunoonya ekipya ekirongoofu eky’okunoonya ebiwandiiko ebijjuvu mu maaso, ekirina engeri zino wammanga :
 
 1. Ewagira okunoonya mu nnimi nnyingi era ntono mu sayizi Enkula ya kernel y'okunoonya oluvannyuma lw'okupakinga `gzip` eri `6.9KB` (okugeraageranya, obunene bwa `lunrjs` buli `25KB` )
 1. Zimba index ekyusiddwa nga osinziira ku `indexedb` , etwala memory entono ate nga ya mangu.
 1. Ebiwandiiko bwe byongerwako/ebikyusiddwa, ebiwandiiko byokka ebyongerwako oba ebikyusiddwa bye biddamu okuteekebwako omuko, ekikendeeza ku bungi bw’okubalirira.
 1. Awagira okunoonya entandikwa, okuyinza okulaga ebivudde mu kunoonya mu kiseera ekituufu ng’omukozesa awandiika.
-1. Esangibwa ku mukutu gwa yintaneeti
+1. Esangibwa Ku Mukutu Gwa Yintaneeti
 
 Wansi, ebikwata ku nkola y’ebyekikugu `i18n.site` bijja kwanjulwa mu bujjuvu.
 
@@ -146,7 +148,7 @@ Okusobola okulaga ebivudde mu kunoonyereza ng’omukozesa awandiika, okugeza, `w
 
 ![](https://p.3ti.site/1727684944.avif)
 
-Kernel y’okunoonya ejja kukozesa emmeeza `prefix` ku kigambo ekisembayo oluvannyuma lw’okugabanya ebigambo okuzuula ebigambo byonna ebigisoose, n’okunoonya mu mutendera.
+Kernel y’okunoonya ejja kukozesa emmeeza `prefix` ku kigambo ekisembayo oluvannyuma lw’okugabanya ebigambo okuzuula ebigambo byonna ebisookerwako nayo, n’okunoonya mu mutendera.
 
 Omulimu oguziyiza okukankana `debounce` era gukozesebwa mu nkolagana y’omu maaso (eteekebwa mu nkola nga bwe guti) okukendeeza ku mirundi gy’okuyingiza kw’abakozesa okutandika okunoonya n’okukendeeza ku bungi bw’okubalirira.
 
@@ -214,6 +216,6 @@ Bw’oba olaga ebivudde mu kunoonyereza, erinnya ly’essuula lijja kulagibwa er
 
 ## Mu Bufunze
 
-Okunoonya ebiwandiiko ebijjuvu okukyusiddwa kuteekebwa mu nkola ku nkomerero y’omu maaso yokka, nga kuddamu mangu era nga tekyetaagisa seva.
+Okunoonya ebiwandiiko ebijjuvu okukyusiddwa okuteekebwa mu nkola ku nkomerero y’omu maaso yokka, tekyetaagisa seva. Esaanira nnyo emikutu emitono n’egya wakati nga ebiwandiiko ne blogs ez’obuntu.
 
-Esaanira nnyo emikutu emitono n’egya wakati nga ebiwandiiko ne blogs ez’obuntu.
+`i18n.site`

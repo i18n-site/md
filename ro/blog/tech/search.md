@@ -6,27 +6,27 @@
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-3	本文将分享`i18n.site`纯前端全文搜索技术实现，访问[i18n.site](//i18n.site)可体验搜索效果。
+Acest articol va prezenta implementarea tehnică a căutării front-end pentru `i18n.site`, pe care o puteți experimenta la [i18n.site](//i18n.site).
 
-4	代码开源 [搜索内核](//github.com/i18n-site/ie/tree/main/qy) / [交互界面](//github.com/i18n-site/plugin/tree/main/qy)
+Codul este deschis: [ nucleul de căutare ](//github.com/i18n-site/ie/tree/main/qy) / [ interfața interactivă ](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## 5	无服务全文搜索解决方案综述
 
-6	对应文档/个人博客等小型网站纯静态而言，自己搭建全文搜索后台无疑太重，无服务的全文搜索无疑是更好的权重。
+Pentru site-urile web de dimensiuni mici și mijlocii pur statice, cum ar fi documentele/blogurile personale, construirea unui backend de căutare full-text auto-construit este prea grea, iar căutarea full-text fără servicii este alegerea mai comună.
 
-7	现有的无服务全文搜索解决方案分两大类。
+Soluțiile de căutare full-text fără servicii se împart în două mari categorii:
 
-8	其一，是类似 [algolia.com](//algolia.com) 的第三方搜索服务商，提供了前端全文搜索的组件。
+Prima categorie include furnizori terți de servicii de căutare, cum ar fi [algolia.com](//algolia.com), care oferă componente front-end pentru căutarea full-text.
 
-9	此类服务需付费，且因为网站合规性的问题，中国大陆用户无法使用。
+Acest tip de serviciu necesită plată în funcție de volumul de căutare și este adesea inaccesibil utilizatorilor din China continentală din cauza problemelor de conformitate ale site-urilor.
 
 10	无法离线使用，无法在内网使用，局限性很大。 本文不多做讨论。
 
-11	其二，是纯前端的全文搜索。
+Cea de-a doua categorie este căutarea full-text pur front-end.
 
-Cele mai cunoscute căutări de tip front-end cu text complet includ [lunrjs](/0) și [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Căutările de text integral utilizate în mod obișnuit includ [lunrjs](/0) și [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-13	`lunrjs` 有两种索引构建方式，但是又都有各自的问题。
+`lunrjs` are două metode de construire a indecsilor, ambele având propriile probleme.
 
 1. 14	预构建索引文件
 
@@ -38,6 +38,8 @@ Cele mai cunoscute căutări de tip front-end cu text complet includ [lunrjs](/0
 
    19	构建索引是计算密集型任务，每次访问都重新构建索引会有明显的卡顿，用户体验差。
 
+---
+
 20	除了 `lunrjs` 之外，还有一些其他的全文搜索方案，比如:
 
 21	[fusejs](https://www.fusejs.io)，计算字符串之间的相似度来搜索。
@@ -46,13 +48,13 @@ Cele mai cunoscute căutări de tip front-end cu text complet includ [lunrjs](/0
 
 23	[TinySearch](https://github.com/tinysearch/tinysearch)，使用布隆过滤器来搜索，无法用于前缀搜索(比如输入`goo`，搜索`good`、`google`)，无法实现类似自动补全效果。
 
-24	出于对现有方案弊端的不满， `i18n.site` 自研了全新纯前端全文搜索方案，具有以下特色:
+Din cauza dezavantajelor soluțiilor existente, `i18n.site` a dezvoltat o nouă soluție de căutare full-text pur front-end, care are următoarele caracteristici:
 
 1. 25	支持多语言搜索，体积小，搜索内核打包`gzip`后体积为`6.9KB` (作为对比，`lunrjs` 体积为 `25KB`)
 1. 26	基于 `indexedb` 构建倒排索引，内存占用少，速度快
 1. 27	当文档有新增/改动的时候，只对增改的文档重新索引，减少了计算量
 1. 28	支持前缀搜索，可以在用户输入的同时实时展示搜索结果
-1. 29	离线可用
+1. Disponibilitate offline
 
 30	下面，将详细介绍 `i18n.site` 技术实现细节。
 
@@ -214,6 +216,6 @@ Când se afișează rezultatele căutării, numele capitolului va fi afișat și
 
 ## Rezumat
 
-74	总结
+Implementare de căutare full-text inversată pur front-end, fără a necesita server. Este foarte potrivită pentru site-uri web mici și mijlocii, cum ar fi documente și bloguri personale.
 
-75	纯前端实现的倒排全文搜索，响应速度快，无需服务器。
+`i18n.site` oferă o soluție de căutare front-end pură, open-source, cu dimensiuni mici și răspuns rapid, rezolvând diversele probleme ale căutării full-text front-end și oferind o experiență îmbunătățită pentru utilizatori.

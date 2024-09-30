@@ -6,27 +6,27 @@ Human sa pipila ka semana nga pag-uswag, [i18n.site](//i18n.site) (usa ka static
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Kini nga [i18n.site](//i18n.site) magpaambit sa pagpatuman sa `i18n.site` puro front-end full-text nga teknolohiya sa pagpangita.
+Kini nga [i18n.site](//i18n.site) magpaambit sa teknikal nga pagpatuman sa `i18n.site` puro front-end full-text nga pagpangita.
 
-Code open [source](//github.com/i18n-site/plugin/tree/main/qy) [search kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Code open source : [Pangitaa ang kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive nga interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Usa Ka Kinatibuk-Ang Panan-Aw Sa Walay Server Nga Full-Text Nga Mga Solusyon Sa Pagpangita
 
-Alang sa gagmay nga mga website sama sa mga dokumento/personal nga mga blog nga puro static, sa walay duhaduha bug-at kaayo ang paghimo sa usa ka full-text nga backend sa pagpangita sa imong kaugalingon, ug ang full-text nga pagpangita nga walay mga serbisyo sa walay duhaduha mas maayo nga gibug-aton.
+Alang sa gagmay ug medium-kadako nga puro static nga mga website sama sa mga dokumento/personal nga mga blog, ang paghimo sa usa ka self-built full-text search backend bug-at kaayo, ug ang walay serbisyo nga full-text nga pagpangita mao ang mas komon nga pagpili.
 
-Ang naglungtad nga serverless full-text nga mga solusyon sa pagpangita nahulog sa duha ka halapad nga mga kategorya.
+Ang walay server nga full-text nga mga solusyon sa pagpangita nahulog sa duha ka halapad nga mga kategorya:
 
-Ang usa kay third-party search service provider nga susama sa [algolia.com](//algolia.com) nga naghatag sa front-end full-text nga mga component sa pagpangita.
+Una, parehas nga [algolia.com](//algolia.com) Ang mga tighatag sa serbisyo sa pagpangita sa ikatulo nga partido naghatag mga sangkap sa unahan alang sa pagpangita sa tibuuk nga teksto.
 
-Ang ingon nga mga serbisyo nanginahanglan bayad ug dili magamit sa mga tiggamit sa mainland China tungod sa mga isyu sa pagsunod sa website.
+Ang ingon nga mga serbisyo nanginahanglan bayad base sa gidaghanon sa pagpangita, ug kanunay nga dili magamit sa mga tiggamit sa mainland China tungod sa mga isyu sama sa pagsunod sa website.
 
 Dili kini magamit sa offline, dili magamit sa intranet, ug adunay daghang mga limitasyon. Kini nga artikulo wala kaayo maghisgot.
 
 Ang ikaduha kay puro front-end full-text search.
 
-Ang mas ElasticLunr.js nga puro front-end full [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) text nga pagpangita naglakip sa [lunrjs](https://lunrjs.com)
+ElasticLunr.js kasagarang gigamit nga puro front-end full-text nga [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) naglakip sa [lunrjs](https://lunrjs.com)
 
-`lunrjs` Adunay duha ka paagi sa paghimo og mga indeks, apan ang duha adunay kaugalingon nga mga problema.
+`lunrjs` Adunay duha ka paagi sa paghimo og mga indeks, ug ang duha adunay kaugalingon nga mga problema.
 
 1. Pre-built index files
 
@@ -38,6 +38,8 @@ Ang mas ElasticLunr.js nga puro front-end full [https://github.com/weixsong/elas
 
    Ang pagtukod og index usa ka computationally intensive nga buluhaton.
 
+---
+
 Dugang sa `lunrjs` , adunay uban pang mga full-text nga mga solusyon sa pagpangita, sama sa :
 
 [fusejs](https://www.fusejs.io) , kuwentaha ang pagkaparehas sa mga kuwerdas nga pangitaon.
@@ -46,13 +48,13 @@ Ang pasundayag niini nga solusyon hilabihan ka kabus ug dili magamit alang sa ti
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , gamita ang Bloom filter sa pagpangita, dili magamit para sa prefix search (pananglitan, enter `goo` , search `good` , `google` ), ug dili makab-ot ang susama nga awtomatikong pagkompleto nga epekto.
 
-Tungod sa pagkadiskontento sa mga kakulangan sa kasamtangan nga mga solusyon, `i18n.site` nakahimo og usa ka bag-ong puro front-end full-text nga solusyon sa pagpangita, nga adunay mosunod nga mga bahin :
+Tungod sa mga kakulangan sa kasamtangan nga mga solusyon, `i18n.site` nakamugna og bag-ong puro front-end full-text nga solusyon sa pagpangita, nga adunay mosunod nga mga kinaiya :
 
 1. Nagsuporta sa multi-language search ug gamay ang gidak-on Ang gidak-on sa search kernel human sa packaging `gzip` mao ang `6.9KB` (alang sa pagtandi, ang gidak-on sa `lunrjs` kay `25KB` ).
 1. Paghimo ug balit-ad nga index base sa `indexedb` , nga gamay ra ang memorya ug paspas.
 1. Kung ang mga dokumento gidugang/gibag-o, ang gidugang o giusab nga mga dokumento lamang ang gi-indeks pag-usab, nga nagpamenos sa gidaghanon sa mga kalkulasyon.
 1. Nagsuporta sa pagpangita sa prefix ug mahimong magpakita sa mga resulta sa pagpangita sa tinuod nga panahon samtang ang user nag-type.
-1. Anaa offline
+1. Anaa Offline
 
 Sa ubos, `i18n.site` nga mga detalye sa teknikal nga pagpatuman ang ipaila sa detalye.
 
@@ -142,7 +144,7 @@ prefixPush = pusher()
 
 ## Prefix Real-Time Nga Pagpangita
 
-Aron mapakita ang mga resulta sa pagpangita samtang ang tiggamit nag-type, pananglitan, kung `wor` gisulod, ang mga pulong nga prefix sa `wor` sama sa `words` ug `work` gipakita.
+Aron mapakita ang mga resulta sa pagpangita samtang ang user nag-type, pananglitan, kung `wor` ang gisulod, ang mga pulong nga prefix sa `wor` sama sa `words` ug `work` gipakita.
 
 ![](https://p.3ti.site/1727684944.avif)
 
@@ -214,6 +216,6 @@ Kung ipakita ang mga resulta sa pagpangita, ang ngalan sa kapitulo ipakita ug an
 
 ## I-Summarize
 
-Ang balit-ad nga full-text nga pagpangita nga gipatuman lunsay sa atubangan nga tumoy, nga adunay paspas nga pagtubag ug wala magkinahanglan og server.
+Ang balit-ad nga full-text nga pagpangita nga gipatuman lunsay sa atubangan nga tumoy, walay server nga gikinahanglan. Haom kaayo kini alang sa gagmay ug medium-kadako nga mga website sama sa mga dokumento ug personal nga mga blog.
 
-Haom kaayo kini alang sa gagmay ug medium-kadako nga mga website sama sa mga dokumento ug personal nga mga blog.
+`i18n.site` Ang open source nga gimugna sa kaugalingon nga puro front-end search, gamay ang gidak-on ug paspas nga tubag, nagsulbad sa mga kakulangan sa kasamtangan nga puro front-end full-text nga pagpangita ug naghatag og mas maayong kasinatian sa user.

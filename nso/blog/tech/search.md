@@ -6,27 +6,27 @@ Ka & ga dibeke tše mmalwa tša tlhabollo markdown [i18n.site](//i18n.site)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Sehlogo se se tla abelana ka phethagatšo ya `i18n.site` ya go nyaka sengwalwa se se hlwekilego sa ka pele Etela [i18n.site](//i18n.site)
+Sehlogo se se tla abelana ka phethagatšo ya setegeniki ya `i18n.site` pure front-end full-text [i18n.site](//i18n.site) go itemogela phello ya go nyaka.
 
-Khoutu [bulehileng](//github.com/i18n-site/plugin/tree/main/qy) mohlodi [batla kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Khoutu mohlodi o bulehileng : [Search kernel](//github.com/i18n-site/ie/tree/main/qy) / [Segokaganyi sa tirišano](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Kakaretšo Ya Ditharollo Tša Go Nyaka Sengwalwa Ka Moka Tšeo Di Se Nago Seva
 
-Bakeng sa diwepesaete tše nnyane tša go swana le ditokomane/di-blog tša motho ka noši tšeo di sa fetogego ka mo go feletšego, ga go pelaelo gore go boima kudu go aga backend ya go nyaka sengwalwa ka botlalo ka bowena, gomme nyakišišo ya sengwalwa ka botlalo ntle le ditirelo ka ntle le pelaelo ke boima bjo bokaone.
+Bakeng sa diwepesaete tše nnyane le tša magareng tšeo di sa fetogego ka mo go feletšego go swana le ditokomane/di-blog tša motho ka noši, go aga backend ya go nyaka sengwalwa ka moka seo se ikgethilego go boima kudu, gomme nyakišišo ya sengwalwa ka moka seo se se nago tirelo ke kgetho ye e tlwaelegilego kudu.
 
-Ditharollo tša go nyaka sengwalwa ka moka tše di lego gona tšeo di se nago seva di wela ka magoro a mabedi a sephara.
+Ditharollo tša go nyaka sengwalwa ka moka tšeo di se nago seva di wela ka magoro a mabedi a sephara:
 
-E nngwe ke moabi wa tirelo ya nyakišišo ya mokgatlo wa boraro yo a swanago le [algolia.com](//algolia.com) yeo e fago dikarolo tša nyakišišo ya sengwalwa ka moka sa mafelelo a ka pele.
+Sa pele, tšoanang [algolia.com](//algolia.com) Baabi ba ditirelo tša go nyaka ba mokgatlo wa boraro ba fana ka dikarolo tša ka pele bakeng sa nyakišišo ya sengwalwa ka botlalo.
 
-Ditirelo tše bjalo di nyaka tefo gomme ga di hwetšagale go badiriši ka nagengkgolo ya China ka lebaka la ditaba tša kobamelo ya weposaete.
+Ditirelo tše bjalo di nyaka tefo yeo e theilwego godimo ga bophagamo bja nyakišišo, gomme gantši ga di hwetšagale go badiriši ka nagengkgolo ya China ka lebaka la ditaba tša go swana le kobamelo ya weposaete.
 
 E ka se šomišwe ka ntle ga inthanete, e ka se šomišwe go intranet, ebile e na le mellwane ye megolo. Sehlogo se ga se bolele kudu.
 
 Ya bobedi ke go nyaka sengwalwa ka botlalo sa mafelelo a go hlweka.
 
-Dinyakišišo tše di tsebegago kudu tša sengwalwa se se hlwekilego sa mafelelo a ka pele di akaretša [lunrjs](https://lunrjs.com) le [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Dinyakišišo tša sengwalwa ka botlalo tša mafelelo a hlwekilego tšeo di šomišwago ka tlwaelo di akaretša [lunrjs](https://lunrjs.com) le [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Go na le ditsela tše pedi tša go aga ditšhupetšo, eupša bobedi bja tšona di na le mathata a tšona.
+`lunrjs` Go na le ditsela tše pedi tša go aga ditšhupetšo, gomme bobedi bja tšona di na le mathata a tšona.
 
 1. Pre-hahiloeng index difaele
 
@@ -38,6 +38,8 @@ Dinyakišišo tše di tsebegago kudu tša sengwalwa se se hlwekilego sa mafelelo
 
    Go aga tšhupamabaka ke mošomo wo o nyakago go šomiša dikhomphuthara Go aga leswa tšhupamabaka nako le nako ge o e fihlelela go tla hlola go šalela morago mo go lego molaleng le boitemogelo bjo bo fokolago bja modiriši.
 
+---
+
 Go tlaleletša go `lunrjs` , go na le ditharollo tše dingwe tša go nyaka sengwalwa ka botlalo, go swana le :
 
 [fusejs](https://www.fusejs.io) , bala go swana magareng ga dithapo go nyaka.
@@ -46,13 +48,13 @@ Tiragatšo ya tharollo ye e fokola kudu gomme e ka se šomišwe go nyaka sengwal
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Ka lebaka la go se kgotsofale ka mafokodi a ditharollo tše di lego gona, `i18n.site` e hlamile tharollo ye mpsha ye e hlwekilego ya go nyaka sengwalwa se se tletšego sa ka pele, yeo e nago le dikarolo tše di latelago :
+Ka lebaka la mafokodi a ditharollo tše di lego gona, `i18n.site` e hlamile tharollo ye mpsha ye e hlwekilego ya go nyaka sengwalwa ka botlalo sa ka pele, yeo e nago le dimelo tše di latelago :
 
 1. E thekga nyakišišo ya maleme a mantši gomme ke ye nnyane ka bogolo Bogolo bja kernel ya nyakišišo ka morago ga go phuthela `gzip` ke `6.9KB` (bakeng sa go bapetša, bogolo bja `lunrjs` ke `25KB` )
 1. Aga tšhupamabaka ye e fetotšwego yeo e theilwego go `indexedb` , yeo e tšeago memori ye nnyane ebile e le ka lebelo.
 1. Ge ditokomane di okeditšwe/phetošwa, ke fela ditokomane tše di okeditšwego goba tše di fetotšwego tšeo di tšhupamago gape, go fokotša palo ya dipalo.
 1. E thekga nyakišišo ya hlogo gomme e ka bontšha dipoelo tša nyakišišo ka nako ya nnete ge modiriši a thaepa.
-1. E hwetšagala ka ntle ga inthanete
+1. E Hwetšagala Ka Ntle Ga Inthanete
 
 Ka fase, dintlha tše `i18n.site` tša phethagatšo ya sethekniki di tla tsebagatšwa ka botlalo.
 
@@ -214,6 +216,6 @@ Ge o bontšha dipoelo tša nyakišišo, leina la kgaolo le tla bontšhwa gomme k
 
 ## Akaretša
 
-Inverted sengwalwa ka botlalo batla kenngwa tshebetsong feela ka pele qetellong, le karabelo e potlakileng le ha ho hlokahale hore seva.
+Inverted sengwalwa ka botlalo batla kenngwa tshebetsong feela ka pele qetellong, ha ho seva hlokahala. E loketše kudu diwepesaete tše nnyane le tše bogareng tša go swana le ditokomane le di-blog tša motho ka noši.
 
-E loketše kudu diwepesaete tše nnyane le tše bogareng tša go swana le ditokomane le di-blog tša motho ka noši.
+`i18n.site` Patlo ya ka pele ye e hlwekilego yeo e itlhamilego ka mohlodi wo o bulegilego, ye nnyane ka bogolo le karabelo ya ka pela, e rarolla mafokodi a nyakišišo ya bjale ye e hlwekilego ya mafelelo a ka pele ya sengwalwa ka botlalo gomme e fa maitemogelo a kaone a modiriši.

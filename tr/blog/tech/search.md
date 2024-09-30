@@ -6,27 +6,27 @@
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-3	本文将分享`i18n.site`纯前端全文搜索技术实现，访问[i18n.site](//i18n.site)可体验搜索效果。
+Bu makale, `i18n.site` adresindeki saf ön uç tam metin arama teknolojisinin uygulamasını paylaşacaktır; [i18n.site](//i18n.site) adresini ziyaret ederek arama efekti deneyebilirsiniz.
 
-4	代码开源 [搜索内核](//github.com/i18n-site/ie/tree/main/qy) / [交互界面](//github.com/i18n-site/plugin/tree/main/qy)
+Kod açık kaynaklıdır: [Arama Çekirdeği](//github.com/i18n-site/ie/tree/main/qy) / [İnteraktif Arayüz](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## 5	无服务全文搜索解决方案综述
 
-6	对应文档/个人博客等小型网站纯静态而言，自己搭建全文搜索后台无疑太重，无服务的全文搜索无疑是更好的权重。
+Belgeler/kişisel bloglar gibi küçük ve orta ölçekli tamamen statik web siteleri için, kendi kendine oluşturulmuş bir tam metin arama arka ucu oluşturmak çok ağırdır ve hizmet gerektirmeyen tam metin araması daha yaygın bir seçimdir.
 
-7	现有的无服务全文搜索解决方案分两大类。
+Sunucusuz tam metin arama çözümleri iki ana gruba ayrılır:
 
-8	其一，是类似 [algolia.com](//algolia.com) 的第三方搜索服务商，提供了前端全文搜索的组件。
+Birincisi, [algolia.com](//algolia.com) gibi üçüncü taraf arama hizmet sağlayıcılarıdır, bu sağlayıcılar tam metin araması için ön uç bileşenleri sunar.
 
-9	此类服务需付费，且因为网站合规性的问题，中国大陆用户无法使用。
+Bu tür hizmetler, arama hacmine göre ücretlendirilir ve web sitesi uyumluluk gibi nedenlerle Çin anakarasındaki kullanıcılar tarafından genellikle kullanılamaz.
 
 10	无法离线使用，无法在内网使用，局限性很大。 本文不多做讨论。
 
-11	其二，是纯前端的全文搜索。
+Ikincisi, saf ön uç tam metin aramasıdır.
 
-12	比较知名纯前端的全文搜索的有 [lunrjs](https://lunrjs.com) 和 [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发)。
+Yaygın olarak kullanılan saf ön uç tam metin aramaları arasında [lunrjs](https://lunrjs.com) ve [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发) bulunur.
 
-13	`lunrjs` 有两种索引构建方式，但是又都有各自的问题。
+`lunrjs`, iki farklı dizin oluşturma yöntemine sahiptir ve her ikisinin de kendi sorunları vardır.
 
 1. 14	预构建索引文件
 
@@ -38,6 +38,8 @@
 
    19	构建索引是计算密集型任务，每次访问都重新构建索引会有明显的卡顿，用户体验差。
 
+---
+
 20	除了 `lunrjs` 之外，还有一些其他的全文搜索方案，比如:
 
 21	[fusejs](https://www.fusejs.io)，计算字符串之间的相似度来搜索。
@@ -46,13 +48,13 @@
 
 23	[TinySearch](https://github.com/tinysearch/tinysearch)，使用布隆过滤器来搜索，无法用于前缀搜索(比如输入`goo`，搜索`good`、`google`)，无法实现类似自动补全效果。
 
-24	出于对现有方案弊端的不满， `i18n.site` 自研了全新纯前端全文搜索方案，具有以下特色:
+Mevcut çözümlerin dezavantajları nedeniyle `i18n.site`, aşağıdaki özelliklere sahip yeni bir saf ön uç tam metin arama çözümü geliştirmiştir:
 
 1. 25	支持多语言搜索，体积小，搜索内核打包`gzip`后体积为`6.9KB` (作为对比，`lunrjs` 体积为 `25KB`)
 1. 26	基于 `indexedb` 构建倒排索引，内存占用少，速度快
 1. 27	当文档有新增/改动的时候，只对增改的文档重新索引，减少了计算量
 1. 28	支持前缀搜索，可以在用户输入的同时实时展示搜索结果
-1. 29	离线可用
+1. 66	离线可用
 
 30	下面，将详细介绍 `i18n.site` 技术实现细节。
 
@@ -140,15 +142,15 @@ rindexPush = pusher()
 prefixPush = pusher()
 ```
 
-## 51	前缀实时搜索
+## 62	前缀实时搜索
 
-52	为了实现用户输入的同时展示搜索结果，比如输入 `wor` 的时候，展示 `words` 和 `work` 等以 `wor` 为前缀的单词。
+63	为了实现用户输入的同时展示搜索结果，比如输入 `wor` 的时候，展示 `words` 和 `work` 等以 `wor` 为前缀的单词。
 
 ![](https://p.3ti.site/1727684944.avif)
 
-53	搜索内核会对分词后的最后一个词借助`prefix`表，找到所有以它为前缀的词，依次搜索。
+64	搜索内核会对分词后的最后一个词借助`prefix`表，找到所有以它为前缀的词，依次搜索。
 
-54	前端交互中还采用了防抖函数 `debounce`(实现如下)，降低用户输入触发搜索的频率减少计算量。
+65	前端交互中还采用了防抖函数 `debounce`(实现如下)，降低用户输入触发搜索的频率减少计算量。
 
 ```js
 export default (wait, func) => {
@@ -214,6 +216,6 @@ export default (wait, func) => {
 
 ## 73	总结
 
-74	纯前端实现的倒排全文搜索，响应速度快，无需服务器。
+Pure front-end gerçekleştirilmiş tersine çevrilmiş tam metin araması, sunucuya ihtiyaç duymaz. Dokümanlar ve kişisel bloglar gibi orta ve küçük ölçekli web siteleri için非常适合tir.
 
-75	非常适合文档、个人博客等中小型网站。
+`i18n.site` tarafından geliştirilen açık kaynaklı saf ön uç arama, küçük boyutlu ve hızlı yanıt süreleriyle mevcut saf ön uç tam metin arama çözümlerinin eksikliklerini gidermiş ve daha iyi bir kullanıcı deneyimi sunmuştur.

@@ -6,27 +6,27 @@ Post pluraj semajnoj da evoluo [i18n.site](//i18n.site) (nure senmova markdown m
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ĉi tiu artikolo dividos la efektivigon de `i18n.site` pura front-end-plenteksta serĉa teknologio. [i18n.site](//i18n.site) povas sperti la serĉan efikon.
+Ĉi tiu artikolo dividos la teknikan efektivigon de `i18n.site` pura front-end-plenteksta serĉo [i18n.site](//i18n.site) sperti la serĉan efikon.
 
-Kodo malfermkoda [serĉa](//github.com/i18n-site/ie/tree/main/qy) [kerno](//github.com/i18n-site/plugin/tree/main/qy) /
+Kodo : [Serĉu kernon](//github.com/i18n-site/ie/tree/main/qy) / [Interaga interfaco](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Superrigardo De Senservilaj Plentekstaj Serĉsolvoj
 
-Por malgrandaj retejoj kiel dokumentoj/personaj blogoj kiuj estas pure senmovaj, estas sendube tro peza konstrui plentekstan serĉan backend mem, kaj plenteksta serĉo sen servoj estas sendube pli bona pezo.
+Por malgrandaj kaj mezgrandaj pure senmovaj retejoj kiel dokumentoj/personaj blogoj, konstrui memkonstruitan plentekstan serĉan backend estas tro peza, kaj senserva plenteksta serĉo estas la pli ofta elekto.
 
-Ekzistantaj senservilaj plentekstaj serĉsolvoj kategoriiĝas en du larĝajn kategoriojn.
+Senservilaj plentekstaj serĉsolvoj kategoriiĝas en du larĝajn kategoriojn:
 
-Unu estas triaparta serĉservoprovizanto simila al [algolia.com](//algolia.com) kiu disponigas front-finajn plentekstan serĉkomponentojn.
+Unue, [algolia.com](//algolia.com) Triaj serĉservoprovizantoj provizas antaŭajn komponantojn por plenteksta serĉo.
 
-Tiaj servoj postulas pagon kaj ne haveblas al uzantoj en kontinenta Ĉinio pro retejaj konformecaj problemoj.
+Tiaj servoj postulas pagon bazitan sur serĉvolumo, kaj ofte estas neatingeblaj por uzantoj en kontinenta Ĉinio pro problemoj kiel retejo-konformeco.
 
 Ĝi ne povas esti uzata eksterrete, ne povas esti uzata en la intrareto kaj havas grandajn limigojn. Ĉi tiu artikolo ne multe diskutas.
 
 La dua estas pura antaŭfina plenteksta serĉo.
 
-La pli konataj puraj plentekstaj serĉoj inkluzivas [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Ofte uzataj puraj plentekstaj serĉoj inkluzivas [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Estas du manieroj konstrui indeksojn, sed ambaŭ havas siajn proprajn problemojn.
+`lunrjs` Estas du manieroj konstrui indeksojn, kaj ambaŭ havas siajn proprajn problemojn.
 
 1. Antaŭkonstruitaj indeksaj dosieroj
 
@@ -38,6 +38,8 @@ La pli konataj puraj plentekstaj serĉoj inkluzivas [lunrjs](https://lunrjs.com)
 
    Konstrui indekson estas komputile intensa tasko Rekonstrui la indekson ĉiufoje kiam vi aliras ĝin kaŭzos evidentajn malfruojn kaj malbonan sperton de uzanto.
 
+---
+
 Krom `lunrjs` , ekzistas iuj aliaj plentekste serĉsolvoj, kiel ekzemple :
 
 [fusejs](https://www.fusejs.io) , kalkulu la similecon inter ĉenoj por serĉi.
@@ -46,13 +48,13 @@ La rendimento de ĉi tiu solvo estas ekstreme malbona kaj ne povas esti uzata po
 
 [TinySearch](https://github.com/tinysearch/tinysearch) uzu Bloom-filtrilon por serĉi, ne povas esti uzata por prefiksa serĉo (ekzemple, enigu `goo` , serĉu `good` , `google` ), kaj ne povas atingi similan aŭtomatan kompletigan efikon.
 
-Pro malkontento pri la mankoj de ekzistantaj solvoj, `i18n.site` evoluigis novan puran antaŭfinan plentekstan serĉsolvon, kiu havas la jenajn funkciojn :
+Pro la mankoj de la ekzistantaj solvoj, `i18n.site` evoluigis novan puran antaŭfinan plentekstan serĉsolvon, kiu havas la jenajn karakterizaĵojn :
 
 1. Subtenas plurlingvan serĉon kaj estas malgranda en grandeco La grandeco de la serĉkerno post pakado `gzip` estas `6.9KB` (por komparo, la grandeco de `lunrjs` estas `25KB` ).
 1. Konstruu inversan indekson bazitan sur `indexedb` , kiu okupas malpli da memoro kaj estas rapida.
 1. Kiam dokumentoj estas aldonitaj/modifitaj, nur la aldonitaj aŭ modifitaj dokumentoj estas reindeksitaj, reduktante la kvanton de kalkuloj.
 1. Elportas prefiksan serĉon kaj povas montri serĉrezultojn en reala tempo dum la uzanto tajpas.
-1. Disponebla eksterrete
+1. Disponebla Eksterrete
 
 Malsupre, `i18n.site` teknikaj efektivigdetaloj estos enkondukitaj detale.
 
@@ -214,6 +216,6 @@ Kiam vi montras serĉrezultojn, la nomo de la ĉapitro estos montrata kaj la ĉa
 
 ## Resumu
 
-Invertita plenteksta serĉo efektivigita nur ĉe la antaŭa fino, kun rapida respondo kaj sen bezono de servilo.
+Inversa plenteksta serĉo efektivigita nur ĉe la antaŭa finaĵo, neniu servilo bezonata. Ĝi estas tre taŭga por malgrandaj kaj mezgrandaj retejoj kiel dokumentoj kaj personaj blogoj.
 
-Ĝi estas tre taŭga por malgrandaj kaj mezgrandaj retejoj kiel dokumentoj kaj personaj blogoj.
+`i18n.site` Malferma fonto memevoluinta pura antaŭfina serĉo, malgranda laŭ grandeco kaj rapida respondo, solvas la mankojn de la nuna pura antaŭfina plenteksta serĉo kaj provizas pli bonan uzantan sperton.

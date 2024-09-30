@@ -6,27 +6,27 @@ Bayan makonni & yawa na ci gaba markdown [i18n.site](//i18n.site)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Wannan labarin zai raba aiwatar da fasaha na bincike na gaba-gaba mai `i18n.site` Ziyarci [i18n.site](//i18n.site)
+Wannan labarin zai raba aikin fasaha na `i18n.site` mai cikakken bincike na gaba-gaba [i18n.site](//i18n.site) don sanin tasirin bincike.
 
-Code [buɗaɗɗen](//github.com/i18n-site/plugin/tree/main/qy) tushen [bincike kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Lambar : tushen [kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Bayanin Hanyoyin Bincike Cikakken Rubutu Mara Sabar
 
-Don ƙananan gidajen yanar gizo irin su takardu/shafukan yanar gizo waɗanda ke tsaye kawai, babu shakka yana da nauyi sosai don gina cikakken bayanan bincike da kanku, kuma binciken cikakken rubutu ba tare da sabis ɗin ba shakka shine mafi nauyi.
+Don ƙanana da matsakaita masu girman kai zalla tsayayyen gidajen yanar gizo kamar takardu/shafukan yanar gizo na sirri, gina bayanan bincike mai cikakken rubutu da kansa ya yi nauyi sosai, kuma binciken cikakken rubutu mara sabis shine zaɓi na gama gari.
 
-Maganganun binciken cikakken rubutu mara sabar da ke wanzu sun faɗi cikin faffadan rubu'i biyu.
+Maganganun neman cikakken rubutu mara uwar garken sun faɗi cikin manyan rukunai biyu:
 
-Ɗaya shine mai bada sabis na bincike na ɓangare na uku mai kama da [algolia.com](//algolia.com) wanda ke ba da cikakkun abubuwan bincike na gaba-gaba.
+Na farko, irin wannan [algolia.com](//algolia.com)
 
-Irin waɗannan sabis ɗin suna buƙatar biyan kuɗi kuma ba su samuwa ga masu amfani a babban yankin China saboda batutuwan bin gidan yanar gizon.
+Irin waɗannan sabis ɗin suna buƙatar biyan kuɗi bisa ƙarar bincike, kuma galibi ba su samuwa ga masu amfani a babban yankin China saboda batutuwa kamar yarda da gidan yanar gizo.
 
 Ba za a iya amfani da shi ta layi ba, ba za a iya amfani da shi akan intanet ba, kuma yana da iyakacin iyaka. Wannan labarin bai tattauna da yawa ba.
 
 Na biyu shine bincike mai cikakken rubutu na gaba-karshen.
 
-Sanannen ElasticLunr.js binciken gaba-karshen cikakken rubutu sun haɗa [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) [lunrjs](https://lunrjs.com)
+Binciken cikakken rubutu na gaba da aka ElasticLunr.js amfani [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) shi ya haɗa da [lunrjs](https://lunrjs.com)
 
-`lunrjs` Akwai hanyoyi guda biyu don gina fihirisa, amma duka biyun suna da nasu matsalolin.
+`lunrjs` Akwai hanyoyi guda biyu don gina fihirisa, kuma dukansu suna da nasu matsalolin.
 
 1. Fayilolin fihirisa da aka riga aka gina
 
@@ -38,6 +38,8 @@ Sanannen ElasticLunr.js binciken gaba-karshen cikakken rubutu sun haɗa [https:/
 
    Gina fihirisar aiki ne mai tsananin ƙirƙira Sake gina fihirisar a duk lokacin da ka sami damar hakan zai haifar da ɓarna a fili da ƙarancin ƙwarewar mai amfani.
 
+---
+
 Baya ga `lunrjs` , akwai wasu cikakkun hanyoyin bincike na rubutu, kamar :
 
 [fusejs](https://www.fusejs.io) lissafta kamance tsakanin kirtani don bincika.
@@ -46,13 +48,13 @@ Ayyukan wannan maganin ba su da kyau sosai kuma ba za a iya amfani da su don nem
 
 [TinySearch](https://github.com/tinysearch/tinysearch) Yi amfani da tace Bloom don bincika, ba za a iya amfani da shi don binciken prefix ba (misali, shigar da `goo` , bincika `good` , `google` ), kuma ba za a iya cimma irin wannan sakamako ta atomatik ba.
 
-Saboda rashin gamsuwa da gazawar hanyoyin da ake da su, `i18n.site` ya haɓaka sabon ingantaccen bayani na gaba-gaba mai cikakken rubutu, wanda ke da fasali masu zuwa :
+Saboda gazawar hanyoyin da ake da su, `i18n.site` ya haɓaka sabon ingantaccen bayani na gaba-gaba mai cikakken rubutu, wanda ke da halaye masu zuwa :
 
 1. Yana goyan bayan binciken yaruka da yawa kuma yana da ƙananan girman girman kernel ɗin bayan fakitin `gzip` shine `6.9KB` (don kwatanta, girman `lunrjs` shine `25KB` ).
 1. Gina juzu'i mai jujjuyawa dangane da `indexedb` , wanda ke ɗaukar ƙarancin ƙwaƙwalwar ajiya kuma yana da sauri.
 1. Lokacin da aka ƙara / gyaggyara takardu, kawai ƙara ko gyare-gyaren takaddun da aka sake tsarawa, rage adadin ƙididdiga.
 1. Yana goyan bayan binciken prefix kuma yana iya nuna sakamakon bincike a ainihin lokacin yayin da mai amfani ke bugawa.
-1. Akwai layi
+1. Akwai Layi
 
 A ƙasa, `i18n.site` za a gabatar da cikakkun bayanan aiwatar da fasaha daki-daki.
 
@@ -146,7 +148,7 @@ Domin nuna sakamakon bincike yayin da mai amfani ke bugawa, misali, lokacin da a
 
 ![](https://p.3ti.site/1727684944.avif)
 
-Kwayar bincike za ta yi amfani da tebur `prefix` don kalma ta ƙarshe bayan rarrabuwar kalma don nemo duk kalmomin da aka riga aka kayyade tare da shi, kuma a bincika a jere.
+Kwayar bincike za ta yi amfani da tebur na `prefix` don kalma ta ƙarshe bayan rarrabuwar kalma don nemo duk kalmomin da aka riga aka kayyade tare da shi, da bincika a jere.
 
 Hakanan ana amfani da aikin Anti-shake `debounce` a cikin hulɗar gaba-gaba (an aiwatar da shi kamar haka) don rage yawan shigar da mai amfani yana haifar da bincike da rage adadin ƙididdiga.
 
@@ -214,6 +216,6 @@ Lokacin nuna sakamakon bincike, za a nuna sunan babin kuma za a kewaya babin ida
 
 ## Takaita
 
-Jujjuyawar binciken cikakken rubutu da aka aiwatar kawai a ƙarshen gaba, tare da amsa mai sauri kuma babu buƙatar sabar.
+Jujjuyawar binciken cikakken rubutu da aka aiwatar a ƙarshen gaba zalla, babu uwar garken da ake buƙata. Ya dace sosai don ƙananan gidajen yanar gizo da matsakaita kamar takardu da shafukan yanar gizo na sirri.
 
-Ya dace sosai don ƙananan gidajen yanar gizo da matsakaita kamar takardu da shafukan yanar gizo na sirri.
+`i18n.site` Buɗe tushen bincike mai tsabta na gaba-gaba mai ƙima, ƙarami a cikin girma da amsa mai sauri, yana magance gazawar bincike mai cikakken rubutu na gaba-ƙarshen yanzu kuma yana ba da ingantaccen ƙwarewar mai amfani.

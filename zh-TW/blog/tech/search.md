@@ -6,27 +6,27 @@
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-本文將分享`i18n.site`純前端全文搜索技術實現，訪問[i18n.site](//i18n.site)可體驗搜索效果。
+本文將分享`i18n.site`純前端全文搜索的技術實現，訪問[i18n.site](//i18n.site)可體驗搜索效果。
 
-代碼開源 [搜索內核](//github.com/i18n-site/ie/tree/main/qy) / [交互界面](//github.com/i18n-site/plugin/tree/main/qy)
+代碼開源 : [搜索內核](//github.com/i18n-site/ie/tree/main/qy) / [交互界面](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## 無服務全文搜索解決方案綜述
 
-對應文檔/個人博客等小型網站純靜態而言，自己搭建全文搜索后台無疑太重，無服務的全文搜索無疑是更好的權重。
+對應文檔/個人博客等中小型純靜態網站而言，自建全文搜索后台太重，無服務全文搜索是更常見的選擇。
 
-現有的無服務全文搜索解決方案分兩大類。
+無服務全文搜索解決方案分兩大類:
 
-其一，是類似 [algolia.com](//algolia.com) 的第三方搜索服務商，提供了前端全文搜索的組件。
+其一，類似 [algolia.com](//algolia.com) 第三方搜索服務商，提供了全文搜索的前端組件。
 
-此類服務需付費，且因為網站合規性的問題，中國大陸用戶無法使用。
+此類服務需按搜索量付費，且常因網站合規性等問題，導致中國大陸用戶無法使用。
 
 無法離线使用，無法在內網使用，局限性很大。 本文不多做討論。
 
-其二，是純前端的全文搜索。
+其二，就是純前端的全文搜索。
 
-比較知名純前端的全文搜索的有 [lunrjs](https://lunrjs.com) 和 [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次開发)。
+当下常見純前端的全文搜索的有 [lunrjs](https://lunrjs.com) 和 [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次開发)。
 
-`lunrjs` 有兩種索引構建方式，但是又都有各自的問題。
+`lunrjs` 有兩種索引構建方式，又都有各自的問題。
 
 1. 預構建索引文件
 
@@ -38,6 +38,8 @@
 
    構建索引是計算密集型任務，每次訪問都重新構建索引會有明顯的卡頓，用戶體驗差。
 
+---
+
 除了 `lunrjs` 之外，還有一些其他的全文搜索方案，比如:
 
 [fusejs](https://www.fusejs.io)，計算字符串之間的相似度來搜索。
@@ -46,7 +48,7 @@
 
 [TinySearch](https://github.com/tinysearch/tinysearch)，使用布隆過濾器來搜索，無法用于前綴搜索(比如輸入`goo`，搜索`good`、`google`)，無法實現類似自動補全效果。
 
-出于對現有方案弊端的不滿， `i18n.site` 自研了全新純前端全文搜索方案，具有以下特色:
+因為現有方案各自的弊端， `i18n.site` 自研了全新純前端全文搜索方案，具有以下特色:
 
 1. 支持多語言搜索，體積小，搜索內核打包`gzip`后體積為`6.9KB` (作為對比，`lunrjs` 體積為 `25KB`)
 1. 基于 `indexedb` 構建倒排索引，內存占用少，速度快
@@ -215,6 +217,6 @@ export default (wait, func) => {
 
 ## 總結
 
-純前端實現的倒排全文搜索，響應速度快，無需服務器。
+純前端實現的倒排全文搜索，無需服務器。非常適合文檔、個人博客等中小型網站。
 
-非常適合文檔、個人博客等中小型網站。
+`i18n.site` 開源的自研純前端搜索，體積小，響應快，解決了当前純前端全文搜索的種種弊端，提供了更好的用戶體驗。

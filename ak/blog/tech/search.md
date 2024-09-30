@@ -6,27 +6,27 @@ Wɔ adapɛn pii nkɔso akyi no, [i18n.site](//i18n.site) (a ɛyɛ static markdow
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-[i18n.site](//i18n.site) asɛm yi bɛkyɛ `i18n.site` pure front-end full-text search technology a wɔde di dwuma no mu.
+Saa asɛm yi bɛkyɛ mfiridwuma mu dwumadie a ɛfa `i18n.site` pure front-end full-text search Nsrahwɛ [i18n.site](//i18n.site)
 
-Code open source [hwehwɛ kernel](//github.com/i18n-site/ie/tree/main/qy) / [ntam nkitahodi](//github.com/i18n-site/plugin/tree/main/qy)
+Code open source : [Hwehwɛ kernel](//github.com/i18n-site/ie/tree/main/qy) / [Nkitahodi ntam nkitahodi](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Serverless Full-Text Hwehwɛ Ano Aduru Ho Nsɛm a Wɔaka Abom
 
-Wɔ wɛbsaet nketewa te sɛ nkrataa/ankorankoro blog ahorow a ɛyɛ static kɛkɛ no, akyinnye biara nni ho sɛ emu yɛ duru dodo sɛ w’ankasa wobɛkyekyere nsɛm nyinaa hwehwɛ akyi kwan, na akyinnye biara nni ho sɛ ɛyɛ mu duru a eye sen biara.
+Wɔ wɛbsaet nketewa ne akɛse a ɛnyɛ nea ɛkɔ so daa te sɛ nkrataa/ankorankoro blog ahorow fam no, sɛ wɔbɛkyekyere nsɛm nyinaa hwehwɛ akyi kwan a obi ankasa ayɛ no yɛ duru dodo, na nsɛm nyinaa hwehwɛ a ɔsom biara nni mu ne nea wɔtaa paw.
 
-Serverless full-text search solutions a ɛwɔ hɔ dedaw no hyɛ akuw abien a ɛtrɛw mu.
+Serverless full-text search solutions no hyɛ akuw abien a ɛtrɛw mu:
 
-Biako ne hwehwɛ adwuma a ɛto so abiɛsa a ɛte sɛ [algolia.com](//algolia.com) a ɛma anim-akyi nsɛm nyinaa hwehwɛ afã horow.
+Nea edi kan no, a ɛte saa ara [algolia.com](//algolia.com)
 
-Nnwuma a ɛtete saa no hwehwɛ sɛ wotua ka na wɔn a wɔde di dwuma wɔ China asasepɔn so no ntumi nnya esiane nsɛm a ɛfa wɛbsaet no mmara sodi ho nti.
+Nnwuma a ɛte saa no hwehwɛ sɛ wotua ka gyina dodow a wɔhwehwɛ so, na mpɛn pii no, wɔn a wɔde di dwuma wɔ China asasepɔn so no ntumi nyɛ adwuma esiane nsɛm te sɛ wɛbsaet no mmara sodi nti.
 
 Wontumi mfa nni dwuma wɔ intanɛt so, wontumi mfa nni dwuma wɔ intranet so, na ɛwɔ anohyeto akɛse. Asɛm yi nka pii ho asɛm.
 
 Nea ɛto so abien ne anim-awiei a ɛho tew a wɔde hwehwɛ nsɛm nyinaa mu.
 
-Nneɛma a wɔhwehwɛ a ɛyɛ kronkron a wonim no yiye a ɛfa anim-awiei nyinaa ho no bi ne [lunrjs](https://lunrjs.com) ne [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Nneɛma a wɔtaa de di dwuma a ɛyɛ kronkron a wɔde hwehwɛ nsɛm nyinaa mu no bi ne [lunrjs](https://lunrjs.com) ne [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Akwan mmienu na ɛwɔ hɔ a wɔfa so yɛ index, nanso abien no nyinaa wɔ wɔn ankasa haw.
+`lunrjs` Akwan mmienu na ɛwɔ hɔ a wɔfa so yɛ index, na abien no nyinaa wɔ wɔn ankasa haw.
 
 1. Index fael ahorow a wɔadi kan ayɛ
 
@@ -38,6 +38,8 @@ Nneɛma a wɔhwehwɛ a ɛyɛ kronkron a wonim no yiye a ɛfa anim-awiei nyinaa h
 
    Index a wobɛkyekyere no yɛ adwuma a ɛyɛ den sɛ wobɛhyehyɛ index no bere biara a wobɛkɔ mu no bɛma woanya lags a ɛda adi pefee ne osuahu a enye a wode di dwuma.
 
+---
+
 Wɔ `lunrjs` akyi no, ano aduru afoforo bi wɔ hɔ a wɔde hwehwɛ nsɛm nyinaa mu, te sɛ :
 
 [fusejs](https://www.fusejs.io) , bu nsɛdi a ɛwɔ nhama a wobɛhwehwɛ mu no ho akontaa.
@@ -46,13 +48,13 @@ Saa ano aduru yi adwumayɛ nyɛ papa koraa na wontumi mfa nni dwuma mma nsɛm a 
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Esiane sɛ na `i18n.site` ani nnye ano aduru a ɛwɔ hɔ dedaw no sintɔ ahorow ho nti, ɔyɛɛ ano aduru foforo a ɛho tew a ɛwɔ anim a wɔakyerɛw nsɛm nyinaa wom, a ɛwɔ nneɛma a edidi so yi :
+Esiane sintɔ ahorow a ɛwɔ ano aduru a ɛwɔ hɔ dedaw no mu nti, `i18n.site` ayɛ ano aduru foforo a ɛho tew a ɛwɔ anim-akyi nsɛm a wɔakyerɛw nyinaa hwehwɛ ano aduru, a ɛwɔ su ahorow a edidi so yi :
 
 1. Ɛboa kasa ahodoɔ hwehwɛ na ɛyɛ ketewa wɔ ne kɛseɛ mu hwehwɛ kernel no kɛseɛ wɔ packaging `gzip` akyi yɛ `6.9KB` (sɛ yɛde toto ho a, `lunrjs` kɛseɛ yɛ `25KB` )
 1. Yɛ index a wɔadan no a egyina `indexedb` so, a egye memory kakraa bi na ɛyɛ ntɛmntɛm.
 1. Sɛ wɔde nkrataa ka ho/wɔsesa a, nkrataa a wɔde aka ho anaa wɔasesa no nkutoo na wɔsan de index yɛ, na ɛtew akontaabu dodow so.
 1. Ɛboa prefix search na ɛtumi kyerɛ nhwehwɛmu aba wɔ berɛ ankasa mu berɛ a ɔdefoɔ no rekyerɛw.
-1. Wobetumi anya bi wɔ offline
+1. Wobetumi Anya Bi Wɔ Offline
 
 Wɔ aseɛ ha yi, wɔde mfiridwuma ho dwumadie ho nsɛm `i18n.site` bɛba kɔ akyiri.
 
@@ -214,6 +216,6 @@ Sɛ worekyerɛ nea wɔhwehwɛ no a, ti no din bɛda adi na bere a woakliki no ak
 
 ## Bobɔ No Mua
 
-Inverted full-text search a wɔde dii dwuma wɔ anim no nkutoo, a mmuae ntɛmntɛm na enhia sɛ wɔde server di dwuma.
+Inverted full-text search a wɔde dii dwuma wɔ anim no nkutoo, ɛho nhia sɛ server biara. Ɛfata yie ma wɛbsaet nketewa ne akɛseɛ te sɛ nkrataa ne ankorankoro blog.
 
-Ɛfata yiye ma wɛbsaet nketewa ne akɛse te sɛ nkrataa ne ankorankoro blog ahorow.
+`i18n.site` Open source ankasa ayɛ pure front-end search, ketewa wɔ ne kɛseɛ mu na ɛyɛ ntɛm, di mprempren pure front-end full-text search no sintɔ ahodoɔ ho dwuma na ɛma osuahu a ɛyɛ papa a ɔde di dwuma.

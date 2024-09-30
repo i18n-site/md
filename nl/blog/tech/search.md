@@ -6,27 +6,27 @@ Na weken van ontwikkeling ondersteunt [i18n.site](//i18n.site) (een puur statisc
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Dit artikel deelt de implementatie van de pure front-end volledige tekstzoektechnologie van `i18n.site`. Bezoek [i18n.site](//i18n.site) om de zoekresultaten te ervaren.
+Dit artikel zal de technische realisatie van de pure front-end full-text zoekfunctie van `i18n.site` delen. Bezoek [i18n.site](//i18n.site) om de zoekfunctie te ervaren.
 
-Code is open source: [zoekkernel](//github.com/i18n-site/ie/tree/main/qy) / [interactieve interface](//github.com/i18n-site/plugin/tree/main/qy)
+De code is open source: [Zoekkernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactieve interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Overzicht van serverloze volledige tekstzoekoplossingen
 
-Voor kleine websites zoals documenten/persoonlijke blogs die puur statisch zijn, is het ongetwijfeld te zwaar om zelf een full-text zoekbackend te bouwen, en full-text zoeken zonder services is ongetwijfeld een betere keuze.
+Voor kleine en middelgrote puur statische websites zoals documenten/persoonlijke blogs is het bouwen van een zelfgebouwde backend voor zoeken in volledige tekst te zwaar, en is servicevrij zoeken in volledige tekst de meest voorkomende keuze.
 
-Er zijn twee soorten bestaande serverloze volledige tekstzoekoplossingen.
+Servicevrije full-text zoekoplossingen zijn onder te verdelen in twee grote categorieën:
 
-De eerste is een externe zoekserviceprovider zoals [algolia.com](//algolia.com), die front-end componenten voor volledige tekstzoekopdrachten biedt.
+Ten eerste, diensten zoals [algolia.com](//algolia.com), die externe zoekserviceproviders zijn die front-endcomponenten voor full-text zoekfuncties aanbieden.
 
-Deze diensten zijn betaald en niet beschikbaar voor gebruikers in China vanwege compliantieproblemen.
+Voor deze diensten moet men betalen op basis van het zoekvolume en ze zijn vaak niet beschikbaar voor gebruikers in China vanwege complianceproblemen met de website.
 
 Ze kunnen niet offline of op een intranet worden gebruikt, wat beperkingen met zich meebrengt. Dit artikel zal hier niet verder op ingaan.
 
-De tweede is pure front-end volledige tekstzoekopdrachten.
+Ten tweede, is er de pure front-end full-text zoekoplossing.
 
-De ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) pure front-end full-text zoekopdrachten omvatten [lunrjs](/0)
+Veelgebruikte pure front-end zoekopdrachten in de volledige tekst zijn onder [lunrjs](/0) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` heeft twee manieren om indexen te bouwen, maar beide hebben hun eigen problemen.
+`lunrjs` heeft twee methoden voor het bouwen van indexen, en beide hebben hun eigen problemen.
 
 1. Vooraf gebouwde indexbestanden
 
@@ -38,6 +38,8 @@ De ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8
 
    Het bouwen van een index is een rekenintensieve taak, en het opnieuw bouwen van de index bij elke toegang veroorzaakt vertragingen en een slechte gebruikerservaring.
 
+---
+
 Naast `lunrjs` zijn er andere volledige tekstzoekoplossingen, zoals:
 
 [fusejs](https://www.fusejs.io), die de gelijkenis tussen te zoeken strings berekent.
@@ -46,7 +48,7 @@ Deze oplossing heeft een slechte prestatie en kan niet worden gebruikt voor voll
 
 [TinySearch](https://github.com/tinysearch/tinysearch), die een Bloom-filter gebruikt voor zoekopdrachten, kan niet worden gebruikt voor voorvoegselzoekopdrachten (bijvoorbeeld het invoeren van `goo` om `good` en `google` te zoeken) en kan geen automatisch aanvulfunctionaliteit bieden.
 
-Uit ontevredenheid over de tekortkomingen van bestaande oplossingen heeft `i18n.site` een nieuwe pure front-end volledige tekstzoekoplossing ontwikkeld met de volgende kenmerken:
+Vanwege de nadelen van de huidige oplossingen heeft `i18n.site` een nieuwe pure front-end full-text zoekoplossing ontwikkeld, met de volgende kenmerken:
 
 1. Ondersteunt zoeken in meerdere talen en is klein van formaat. De grootte van de zoekkernel na verpakking `gzip` is `6.9KB` (ter vergelijking: de grootte van `lunrjs` is `25KB` )
 1. Gebaseerd op `IndexedDB` om een omgekeerde index te bouwen, weinig geheugengebruik, snelle prestaties
@@ -148,7 +150,7 @@ Om zoekresultaten weer te geven terwijl de gebruiker typt, bijvoorbeeld `wor` in
 
 De zoekkernel gebruikt de `prefix` tabel om het laatste woord na woordsegmentatie te vinden en zoekt alle woorden die daarmee beginnen.
 
-In front-end-interacties wordt ook de anti-shake-functie `debounce` gebruikt (zoals hieronder geïmplementeerd) om de frequentie van gebruikersinvoer die zoekopdrachten activeert te verminderen en de hoeveelheid berekeningen te verminderen.
+De anti-shake-functie `debounce` wordt ook gebruikt bij front-end-interactie (zoals hieronder geïmplementeerd) om de frequentie van gebruikersinvoer die zoekopdrachten activeert te verminderen en de hoeveelheid berekeningen te verminderen.
 
 ```js
 export default (wait, func) => {
@@ -214,6 +216,6 @@ Wanneer zoekresultaten worden weergegeven, wordt de hoofdstuknaam weergegeven en
 
 ## Samenvatting
 
-Pure front-end implementatie van omgekeerde volledige tekstzoekopdrachten, snelle respons, geen server nodig.
+Een pure front-end omgekeerde full-text zoekfunctie, die geen server vereist. Dit is zeer geschikt voor documenten en persoonlijke blogs als middelgrote en kleine websites.
 
-Zeer geschikt voor kleine en middelgrote websites zoals documenten en persoonlijke blogs.
+`i18n.site` biedt een zelf ontwikkeld, open source pure front-end zoekfunctie, compact van formaat en snel in respons, die de problemen van de huidige pure front-end full-text zoekoplossingen oplost en een betere gebruikerservaring biedt.

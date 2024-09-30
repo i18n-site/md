@@ -6,27 +6,27 @@ I le mae'a ai o ni nai vaiaso o atina'e, [i18n.site](//i18n.site) (se fa'aliliug
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-O lenei tusiga o le a faʻasoaina le faʻatinoga o `i18n.site` mama pito i luma-tekonolosi suʻesuʻega atoa Asiasi [i18n.site](//i18n.site)
+O lenei tusiga o le a faʻasoaina le faʻatinoga faʻapitoa o le `i18n.site` suʻesuʻega faʻamaʻi pito i luma Asiasi [i18n.site](//i18n.site)
 
-[Fa'asinomaga](//github.com/i18n-site/plugin/tree/main/qy) tatala puna [su'esu'e](//github.com/i18n-site/ie/tree/main/qy) fatu /
+[Fa'ailoga](//github.com/i18n-site/ie/tree/main/qy) [matala](//github.com/i18n-site/plugin/tree/main/qy) / :
 
 ## Se Fa'amatalaga Lautele Ole Serverless Full-Text Search Solutions
 
-Mo 'upega tafaʻilagi laiti e pei o pepa / blogs patino e mama atoatoa, e mautinoa lava e mamafa tele le fausiaina o se suʻesuʻega atoa i tua e oe lava, ma le suʻesuʻeina o tusitusiga atoa e aunoa ma se tautua e mautinoa lava o se mamafa sili atu.
+Mo 'upega tafaʻilagi faʻapitoa laiti ma feololo e pei o pepa / blogs a le tagata lava ia, o le fausiaina o se faʻataʻitaʻiga o suʻesuʻega atoa e fai e le tagata lava ia e mamafa tele, ma o le suʻesuʻeina o tusitusiga atoa e leai se tautua o le filifiliga sili lea ona taatele.
 
-O lo'o iai fa'amaumauga e leai ni 'au'auna o lo'o i ai fa'amaumauga atoa e pa'ū i ni vaega lautele se lua.
+O fa'ai'uga su'esu'e fa'amaumauga atoa e leai ni 'au'aunaga e pa'u'ū i ni vaega lautele se lua:
 
-O le tasi o le vaega lona tolu o lo'o tu'uina atu au'aunaga su'esu'e tutusa ma [algolia.com](//algolia.com) lea e tu'uina atu ai vaega pito i luma o le su'esu'ega atoa.
+Muamua, tutusa [algolia.com](//algolia.com) E tu'uina atu e 'au'aunaga su'esu'e isi vaega pito i luma mo le su'esu'eina o tusitusiga atoa.
 
-O ia auaunaga e mana'omia ai le totogiina ma e le o avanoa mo tagata fa'aoga i le atunu'u tele o Saina ona o fa'afitauli o le tausisia o le upega tafa'ilagi.
+O ia 'au'aunaga e mana'omia le totogiina e fa'atatau i le tele o su'esu'ega, ma e masani ona le maua e tagata fa'aoga i le atunu'u tele o Saina ona o fa'afitauli e pei o le tausisia o le upega tafa'ilagi.
 
 E le mafai ona fa'aoga tuimotu, e le mafai ona fa'aoga i luga ole initaneti, ma e tele ni tapula'a. E lē tele ni tala e talanoaina i lenei mataupu.
 
 O le lona lua ole su'esu'ega atoa i luma pito i luma.
 
-O [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) fa'asolo pito i luma e ElasticLunr.js ona ta'uta'ua e aofia ai [lunrjs](https://lunrjs.com)
+E [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ona fa'aogaina su'esu'ega ElasticLunr.js i luma pito i luma e aofia ai [lunrjs](https://lunrjs.com)
 
-`lunrjs` E lua auala e fausia ai fa'asino igoa, ae e iai uma a latou fa'afitauli.
+`lunrjs` E lua auala e fausia ai fa'asino igoa, ma e tofu uma ma a latou fa'afitauli.
 
 1. faila fa'asinomaga na muai fausia
 
@@ -38,6 +38,8 @@ O [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4
 
    Fausiaina o se fa'asinomaga ose galuega fa'akomupiuta O le toe fausia o le fa'asinomaga i taimi uma e te maua ai o le a fa'aalia ai le tuai ma le le lelei o le fa'aoga.
 
+---
+
 I le faaopoopo atu i `lunrjs` , o loʻo i ai nisi faʻamatalaga suʻesuʻega atoa, pei ole :
 
 [fusejs](https://www.fusejs.io) , fuafua le tutusa i le va o manoa e su'e.
@@ -46,13 +48,13 @@ O le fa'atinoga o lenei fofo e matua leaga lava ma e le mafai ona fa'aogaina mo 
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , fa'aoga Bloom filter e su'e ai, e le mafai ona fa'aoga mo su'esu'ega muamua (mo se fa'ata'ita'iga, ulufale i `goo` , su'esu'e `good` , `google` ), ma e le mafai ona maua fa'apena fa'amae'a fa'amae'a.
 
-Ona o le le fiafia i faʻaletonu o fofo o loʻo i ai nei, na fausia ai `i18n.site` se fofo fou suʻesuʻe pito i luma-atoa, o loʻo i ai foliga nei :
+Ona o le faaletonu o fofo o loʻo i ai nei, ua fausia ai e `i18n.site` se fofo fou suʻesuʻe pito i luma, o loʻo i ai uiga nei :
 
 1. Lagolago su'esu'ega gagana e tele ma e la'ititi le lapopo'a Ole lapo'a ole fatu su'esu'e pe a uma le afifiina `gzip` ole `6.9KB` (mo fa'atusatusaga, ole lapo'a ole `lunrjs` ole `25KB` ).
 1. Fausia se fa'ailoga fa'aliliu e fa'atatau i `indexedb` , lea e fa'aitiitia ai le manatua ma e vave.
 1. Pe a faʻaopoopoina / faʻaleleia pepa, naʻo pepa faʻaopoopo pe suia e toe faʻasinoina, faʻaitiitia ai le aofaʻi o faʻatusatusaga.
 1. Lagolago su'esu'ega prefix ma e mafai ona fa'aali fa'ai'uga su'esu'e i le taimi moni a'o lomi le tagata fa'aoga.
-1. Avanoa tuimotu
+1. Avanoa Tuimotu
 
 I lalo, `i18n.site` faʻamatalaga faʻatinoga faʻapitoa o le a faʻaalia i auiliiliga.
 
@@ -142,7 +144,7 @@ prefixPush = pusher()
 
 ## Prefix Su'esu'e Taimi Moni
 
-Ina ia mafai ona faʻaalia iʻuga o suʻesuʻega aʻo taina e le tagata faʻaoga, mo se faʻataʻitaʻiga, pe a tuʻuina `wor` , o upu faʻapipiʻi i `wor` e pei o `words` ma `work` o loʻo faʻaalia.
+Ina ia mafai ona faʻaalia iʻuga suʻesuʻe aʻo lomi le tagata faʻaoga, mo se faʻataʻitaʻiga, pe a tuʻuina `wor` , o loʻo faʻaalia upu faʻapipiʻi i `wor` pei o `words` ma `work` .
 
 ![](https://p.3ti.site/1727684944.avif)
 
@@ -214,6 +216,6 @@ A fa'aalia i'uga su'esu'e, o le a fa'aalia le igoa o le mataupu ma fa'atautaia l
 
 ## Aotele
 
-Su'esu'ega fa'aliliuga fa'ato'a fa'atinoina i le pito i luma, fa'atasi ai ma le tali vave ma e le mana'omia se 'au'aunaga.
+Su'esu'ega fa'aliliuga fa'ato'a fa'atinoina ile pito i luma, e leai se server e mana'omia. E fetaui lelei mo 'upega tafaʻilagi laiti ma feololo e pei o pepa ma blogs patino.
 
-E fetaui lelei mo 'upega tafaʻilagi laiti ma feololo e pei o pepa ma blogs patino.
+`i18n.site` Open source suʻesuʻe pito i luma mama e faʻavaeina e le tagata lava ia, laʻititi i le lapopoa ma le tali vave, foia faʻaletonu o le suʻesuʻega atoa o loʻo i ai nei i luma ma maua ai se poto masani faʻaoga.

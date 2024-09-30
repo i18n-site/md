@@ -6,27 +6,27 @@ markdown kweeveki & zophuhliso, [i18n.site](//i18n.site)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Eli nqaku liza kwabelana ngokuphunyezwa kwe `i18n.site` ye-tech-end epheleleyo yokukhangela iteknoloji [i18n.site](//i18n.site) Unokufumana umphumo wokukhangela.
+Eli nqaku liza kwabelana ngokuphunyezwa kobugcisa be [i18n.site](//i18n.site) `i18n.site` ecocekileyo yokukhangela okubhaliweyo okugcweleyo.
 
-Ikhowudi [evulelekileyo](//github.com/i18n-site/plugin/tree/main/qy) [yokukhangela ikernel](//github.com/i18n-site/ie/tree/main/qy) /
+Ikhowudi : [yokukhangela i-kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Isishwankathelo Sezisombululo Zophendlo Lwesicatshulwa Esipheleleyo Esingenaseva
 
-Kwiiwebhusayithi ezincinci ezifana namaxwebhu / iiblogi zobuqu ezizinzileyo, ngokungathandabuzekiyo kunzima kakhulu ukwakha i-backend yokukhangela okubhaliweyo okugcweleyo ngokwakho, kunye nokukhangela okubhaliweyo okupheleleyo ngaphandle kweenkonzo ngokungathandabuzekiyo bubunzima obungcono.
+Kwiiwebhusayithi ezincinci neziphakathi ezizinzileyo ezinje ngamaxwebhu/iiblogi zobuqu, ukwakha i-backend yokukhangela egcweleyo ezakhelweyo inzima kakhulu, kwaye ukukhangela okubhaliweyo okupheleleyo okungenankonzo lolona khetho luqhelekileyo.
 
-Izisombululo ezikhoyo zokukhangela ezipheleleyo ezingenamncedisi ziwela kwiindidi ezimbini ezibanzi.
+Izisombululo zokukhangela ezipheleleyo ezingenaseva ziwela kwiindidi ezimbini ezibanzi:
 
-Omnye ngumnikezeli wenkonzo yokukhangela yomntu wesithathu efana ne [algolia.com](//algolia.com) ebonelela ngamacandelo okukhangela okubhaliweyo okupheleleyo.
+Okokuqala, ezifanayo [algolia.com](//algolia.com)
 
-Ezo nkonzo zifuna intlawulo kwaye azifumaneki kubasebenzisi belizwe laseTshayina ngenxa yemicimbi yokuthotyelwa kwewebhusayithi.
+Ezo nkonzo zifuna intlawulo esekelwe kumthamo wokukhangela, kwaye zihlala zingafumaneki kubasebenzisi belizwe laseTshayina ngenxa yemicimbi efana nokuthotyelwa kwewebhusayithi.
 
 Ayinakusetyenziswa ngaphandle kweintanethi, ayinakusetyenziswa kwi-intranethi, kwaye inemida emikhulu. Eli nqaku alithethi kakhulu.
 
 Okwesibini luphendlo olusulungekileyo lwangaphambili olupheleleyo.
 
-Uphendlo olusulungekileyo lwangaphambili olwaziwayo ngakumbi lubandakanya [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Uphendlo oluqhelekileyo olusetyenziswayo olusulungekileyo lwangaphambili olupheleleyo lubandakanya [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Kukho iindlela ezimbini zokwakha izalathisi, kodwa zombini zineengxaki zazo.
+`lunrjs` Kukho iindlela ezimbini zokwakha izalathisi, kwaye zombini zineengxaki zazo.
 
 1. Iifayile zesalathiso ezakhiwe kwangaphambili
 
@@ -38,6 +38,8 @@ Uphendlo olusulungekileyo lwangaphambili olwaziwayo ngakumbi lubandakanya [lunrj
 
    Ukwakha isalathiso ngumsebenzi onzima wokubala.
 
+---
+
 Ukongeza ku `lunrjs` , kukho ezinye izisombululo zokukhangela okubhaliweyo okugcweleyo, njenge :
 
 [fusejs](https://www.fusejs.io) , bala ukufana phakathi kwemitya ukukhangela.
@@ -46,13 +48,13 @@ Ukusebenza kwesi sisombululo kumbi kakhulu kwaye akunakusetyenziselwa ukukhangel
 
 [TinySearch](https://github.com/tinysearch/tinysearch) sebenzisa i-Bloom filter ukukhangela, ayinakusetyenziselwa uphendlo lwesimaphambili (umzekelo, ngenisa `goo` , khangela `good` , `google` ), kwaye awukwazi ukufikelela kwisiphumo esizenzekelayo esizenzekelayo.
 
-Ngenxa yokunganeliseki ngeentsilelo zezisombululo ezikhoyo, `i18n.site` yavelisa isisombululo esitsha esicocekileyo esipheleleyo sokukhangela isicatshulwa, esinezi zinto zilandelayo :
+Ngenxa yokungaphumeleli kwezisombululo ezikhoyo, `i18n.site` yavelisa isisombululo esitsha esicocekileyo esipheleleyo sesicatshulwa esipheleleyo, esinezi mpawu zilandelayo :
 
 1. Ixhasa uphando lweelwimi ezininzi kwaye incinci ngobukhulu Ubungakanani bekernel yokukhangela emva kokupakishwa `gzip` yi- `6.9KB` (ukuthelekisa, ubungakanani be `lunrjs` yi- `25KB` )
 1. Yakha isalathiso esiguqulweyo esekwe kwi `indexedb` , ethatha imemori encinci kwaye iyakhawuleza.
 1. Xa amaxwebhu ongezwa / aguqulwa, kuphela amaxwebhu adityanisiweyo okanye atshintshiweyo aphinde afakwe kwakhona, ukunciphisa inani lokubala.
 1. Ixhasa uphendlo lwesimaphambili kwaye ingabonisa iziphumo zophendlo ngexesha lokwenyani ngelixa umsebenzisi echwetheza.
-1. Iyafumaneka ngaphandle kweintanethi
+1. Iyafumaneka Ngaphandle Kweintanethi
 
 Ngezantsi, `i18n.site` iinkcukacha zokuphunyezwa kobugcisa ziya kwaziswa ngokubanzi.
 
@@ -214,6 +216,6 @@ Xa ubonisa iziphumo zophendlo, igama lesahluko liya kuboniswa kwaye isahluko siy
 
 ## Shwankathela
 
-Uphendlo lokubhaliweyo okugcweleyo oluguqulweyo luphunyezwe kuphela ngaphambili, ngempendulo ekhawulezayo kwaye akukho mfuneko yomncedisi.
+Uphendlo lokubhaliweyo okupheleleyo oluguqulweyo luphunyezwe ngokuchanekileyo kumphambili, akukho mncedisi ufunekayo. Ifanelekile kakhulu kwiiwebhusayithi ezincinci kunye neziphakathi ezifana namaxwebhu kunye neeblogi zomntu.
 
-Ifanelekile kakhulu kwiiwebhusayithi ezincinci kunye neziphakathi ezifana namaxwebhu kunye neeblogi zomntu.
+`i18n.site` Umthombo ovulekileyo oziphuhlisileyo uphendlo olusulungekileyo lwangaphambili, ubungakanani obuncinci kunye nokuphendula ngokukhawuleza, ukusombulula iintsilelo zophendlo lwangoku olusulungekileyo olupheleleyo lwangaphambili kwaye lubonelela ngamava angcono omsebenzisi.

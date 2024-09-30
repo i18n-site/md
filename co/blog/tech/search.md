@@ -6,27 +6,27 @@ Dopu à parechje settimane di sviluppu, [i18n.site](//i18n.site) (un strumentu p
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Questu articulu hà da sparte l'implementazione di `i18n.site` pura tecnulugia di ricerca di testu in u front-end [i18n.site](//i18n.site) .
+Questu articulu hà da sparte l'implementazione tecnicu di `i18n.site` pura ricerca di testu in u front-end [i18n.site](//i18n.site) per sperimentà l'effettu di ricerca.
 
-[U kernel di ricerca](//github.com/i18n-site/ie/tree/main/qy) di u codice [apertu](//github.com/i18n-site/plugin/tree/main/qy) /
+Code open : [Ricerca kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interfaccia interattiva](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Una Panoramica Di E Soluzioni Di Ricerca Full-Text Senza Server
 
-Per i picculi siti web, cum'è documenti / blogs persunali chì sò puramente statici, hè indubbiamente troppu pesante per custruisce un backend di ricerca full-text da sè stessu, è a ricerca full-text senza servizii hè senza dubbitu un pesu megliu.
+Per i siti web puramente statici chjuchi è mediani, cum'è documenti / blogs persunali, a custruzzione di un backend di ricerca full-text autocustruita hè troppu pesante, è a ricerca di testu cumpletu senza serviziu hè a scelta più cumuna.
 
-Soluzioni esistenti di ricerca full-text senza servitore sò in duie categurie larghe.
+Soluzioni di ricerca di testu pienu senza server sò in duie categorie larghe:
 
-Unu hè un fornitore di serviziu di ricerca di terzu partitu simile à [algolia.com](//algolia.com) chì furnisce cumpunenti di ricerca di testu integrale front-end.
+Prima, simili [algolia.com](//algolia.com) i fornitori di servizii di ricerca di terze parti furniscenu cumpunenti front-end per a ricerca full-text.
 
-Tali servizii necessitanu pagamentu è ùn sò micca dispunibili per l'utilizatori in Cina continentale per via di prublemi di conformità di u situ web.
+Tali servizii necessitanu pagamentu basatu nantu à u voluminu di ricerca, è sò spessu indisponibili per l'utilizatori in Cina continentale per prublemi cum'è a conformità di u situ web.
 
 Ùn pò micca esse usatu offline, ùn pò micca esse usatu in l'intranet, è hà grandi limitazioni. Questu articulu ùn parla micca assai.
 
 U sicondu hè pura ricerca full-text front-end.
 
-I più cunnisciuti ricerchi di testu integrali puri includenu [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Ricerche di testu integrale di front-end puri ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) include [lunrjs](https://lunrjs.com)
 
-`lunrjs` Ci hè duie manere di custruisce indici, ma tutti dui anu i so prublemi.
+`lunrjs` Ci hè duie manere di custruisce indici, è tutti dui anu i so prublemi.
 
 1. File d'indexu pre-custruiti
 
@@ -38,6 +38,8 @@ I più cunnisciuti ricerchi di testu integrali puri includenu [lunrjs](https://l
 
    Custruì un indice hè un compitu intensivu di calculu A ricustruisce l'indici ogni volta chì accede à ellu pruvucarà ritardi evidenti è una povera sperienza d'utilizatore.
 
+---
+
 In più di `lunrjs` , ci sò altre soluzioni di ricerca di testu pienu, cum'è :
 
 [fusejs](https://www.fusejs.io) , calculate a similarità trà e stringhe per circà.
@@ -46,13 +48,13 @@ A prestazione di sta suluzione hè estremamente povera è ùn pò micca esse usa
 
 [TinySearch](https://github.com/tinysearch/tinysearch) Aduprate u filtru Bloom per circà, ùn pò micca esse usatu per a ricerca di prefissu (per esempiu, entre `goo` , ricerca `good` , `google` ), è ùn pò micca ottene un effettu di cumpletu automaticu simili.
 
-Fora di dissatisfaction cù i difetti di suluzioni esistenti, `i18n.site` hà sviluppatu una nova suluzione pura di ricerca full-text front-end, chì hà e seguenti caratteristiche :
+A causa di i difetti di e suluzioni esistenti, `i18n.site` hà sviluppatu una nova suluzione di ricerca di testu integrale pura, chì hà e seguenti caratteristiche :
 
 1. Supporta a ricerca multilingua è hè chjuca in grandezza A dimensione di u kernel di ricerca dopu l'imballu `gzip` hè `6.9KB` (per paragunà, a dimensione di `lunrjs` hè `25KB` ).
 1. Custruisce un indice inversu basatu annantu à `indexedb` , chì occupa menu memoria è hè veloce.
 1. Quandu i ducumenti sò aghjuntu / mudificati, solu i ducumenti aghjunti o mudificati sò re-indexati, riducendu a quantità di calculi.
 1. Supporta a ricerca di prefissi, chì ponu visualizà risultati di ricerca in tempu reale mentre l'utilizatore scrive.
-1. Disponibile offline
+1. Disponibile Offline
 
 Sottu, `i18n.site` dettagli di implementazione tecnica seranu presentati in dettagliu.
 
@@ -146,7 +148,7 @@ Per vede i risultati di ricerca mentre l'utilizatore scrive, per esempiu, quandu
 
 ![](https://p.3ti.site/1727684944.avif)
 
-U kernel di ricerca utilizerà a tavola `prefix` per l'ultima parola dopu a segmentazione di a parolla per truvà tutte e parolle prefissate cun ella, è cercate in sequenza.
+U kernel di ricerca utilizerà a tavola `prefix` per l'ultima parola dopu a segmentazione di e parolle per truvà tutte e parolle prefissate cù questu, è cercate in sequenza.
 
 A funzione anti-shake `debounce` hè ancu aduprata in l'interazzione front-end (implementata cum'è seguita) per riduce a freccia di l'input di l'utilizatori chì attivanu e ricerche è riduce a quantità di calculu.
 
@@ -214,6 +216,6 @@ Quandu si vede i risultati di ricerca, u nome di u capitulu serà affissatu è u
 
 ## Riassume
 
-A ricerca di testu integrale invertita implementata puramente in u front-end, cù una risposta rapida è senza bisognu di un servitore.
+A ricerca di testu integrale invertita implementata solu in u front-end, ùn hè micca necessariu un servitore. Hè assai adattatu per i siti web chjuchi è mediani, cum'è documenti è blog persunali.
 
-Hè assai adattatu per i siti web chjuchi è mediani, cum'è documenti è blog persunali.
+`i18n.site` A ricerca di front-end pura auto-sviluppata open source, chjuca in dimensione è risposta rapida, risolve i difetti di l'attuale ricerca di testu integrale di front-end pura è furnisce una sperienza d'utilizatore megliu.

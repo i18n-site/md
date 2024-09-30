@@ -6,27 +6,27 @@ No e puer Woche vun der Entwécklung, [i18n.site](//i18n.site) (eng reng statesc
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Dësen Artikel deelt d'Ëmsetzung vun `i18n.site` pure Front-End Volltext Sichtechnologie [i18n.site](//i18n.site) Dir kënnt de Sicheffekt erliewen.
+Dësen Artikel deelt d'technesch Ëmsetzung vun `i18n.site` pure Front-End Volltext Sich [i18n.site](//i18n.site) fir de Sicheffekt ze erliewen.
 
-Code Open Source [Sich](//github.com/i18n-site/ie/tree/main/qy) [Kernel](//github.com/i18n-site/plugin/tree/main/qy) /
+Code Open : [Sich Kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interaktiven Interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## En Iwwerbléck Iwwer Serverlos Volltext Sichléisungen
 
-Fir kleng Websäite wéi Dokumenter / perséinlech Blogs déi reng statesch sinn, ass et ouni Zweifel ze schwéier fir e Volltext Sich Backend selwer ze bauen, a Volltext Sich ouni Servicer ass ouni Zweifel e bessert Gewiicht.
+Fir kleng a mëttelgrouss reng statesch Websäite wéi Dokumenter / perséinlech Blogs, e selbstgebaute Volltext Sich Backend ze bauen ass ze schwéier, a Service-gratis Volltext Sich ass déi méi heefeg Wiel.
 
-Bestehend serverlos Volltext Sichléisungen falen an zwou breet Kategorien.
+Serverlos Volltext Sichléisungen falen an zwou breet Kategorien:
 
-Een ass en Drëtt Partei Sichserviceprovider ähnlech wéi [algolia.com](//algolia.com) deen Front-End Volltext Sichkomponenten ubitt.
+Als éischt, [algolia.com](//algolia.com) Drëtt-Partei Sichserviceprovider bidden Front-End Komponenten fir Volltext Sich.
 
-Esou Servicer erfuerderen Bezuelung a sinn net verfügbar fir Benotzer am Festland China wéinst Websäit Konformitéitsprobleemer.
+Esou Servicer erfuerderen Bezuelung baséiert op Sichvolumen, a sinn dacks net verfügbar fir Benotzer am Festland China wéinst Themen wéi Websäit Konformitéit.
 
 Et kann net offline benotzt ginn, kann net am Intranet benotzt ginn, an huet grouss Aschränkungen. Dësen Artikel diskutéiert net vill.
 
 Déi zweet ass reng Front-End Volltext Sich.
 
-Déi méi bekannte pure Frontend Volltext Sichen [lunrjs](https://lunrjs.com) an [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Allgemeng benotzt pure Front-End Volltext Sichen [lunrjs](https://lunrjs.com) an [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Et ginn zwou Weeër fir Indexen ze bauen, awer béid hunn hir eege Problemer.
+`lunrjs` Et ginn zwou Méiglechkeeten fir Indexen ze bauen, a béid hunn hir eege Problemer.
 
 1. Pre-gebaut Indexdateien
 
@@ -38,6 +38,8 @@ Déi méi bekannte pure Frontend Volltext Sichen [lunrjs](https://lunrjs.com) an
 
    En Index opzebauen ass eng berechnend intensiv Aufgab Den Index opzebauen all Kéier wann Dir et zougitt wäert evident Lags a schlecht Benotzererfarung verursaachen.
 
+---
+
 Zousätzlech zu `lunrjs` ginn et e puer aner Volltext Sichléisungen, wéi :
 
 [fusejs](https://www.fusejs.io) berechent d'Ähnlechkeet tëscht Strings fir ze sichen.
@@ -46,13 +48,13 @@ D'Leeschtung vun dëser Léisung ass extrem schlecht a kann net fir Volltext Sic
 
 [TinySearch](https://github.com/tinysearch/tinysearch) benotzt Bloom Filter fir ze sichen, kann net fir Präfix Sich benotzt ginn (zum Beispill, gitt `goo` , Sich `good` , `google` ), a kann net ähnlechen automateschen Ofschlosseffekt erreechen.
 
-Aus Onzefriddenheet mat de Mängel vun existéierende Léisungen huet `i18n.site` eng nei reng Front-End Volltext Sichléisung entwéckelt, déi folgend Features huet :
+Wéinst de Mängel vun den existente Léisungen huet `i18n.site` eng nei pure Front-End Volltext Sichléisung entwéckelt, déi folgend Charakteristiken huet :
 
 1. `lunrjs` Multi-Sprooch Sich an ass `6.9KB` `gzip` Gréisst `25KB`
 1. Baut en ëmgedréint Index baséiert op `indexedb` , dee manner Erënnerung ophëlt a séier ass.
 1. Wann Dokumenter bäigefüügt/geännert ginn, ginn nëmmen déi dobäi oder geännert Dokumenter nei indexéiert, wat d'Quantitéit u Berechnungen reduzéiert.
 1. Ënnerstëtzt Präfix Sich a kann Sichresultater an Echtzäit weisen wärend de Benotzer tippt.
-1. Offline verfügbar
+1. Offline Verfügbar
 
 Drënner ginn `i18n.site` technesch Ëmsetzungsdetailer am Detail agefouert.
 
@@ -214,6 +216,6 @@ Wann Dir Sichresultater weist, gëtt de Kapitelnumm ugewisen an d'Kapitel gëtt 
 
 ## Zesummefaassen
 
-Invertéiert Volltext Sich reng um Frontend implementéiert, mat schneller Äntwert a kee Besoin fir e Server.
+Invertéiert Volltext Sich reng um Frontend implementéiert, kee Server erfuerderlech. Et ass ganz gëeegent fir kleng a mëttelgrouss Websäite wéi Dokumenter a perséinlech Blogs.
 
-Ganz gëeegent fir kleng a mëttelgrouss Websäite wéi Dokumenter a perséinlech Blogs.
+`i18n.site` Open Source selwer entwéckelt pur Front-End Sich, kleng a Gréisst a séier Äntwert, léist d'Mängel vun der aktueller purer Front-End Volltext Sich a bitt eng besser Benotzererfarung.

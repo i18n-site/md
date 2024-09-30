@@ -6,27 +6,27 @@ Mushure & akati wandei markdown , [i18n.site](//i18n.site)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ichi chinyorwa chichagovera kushandiswa kwe `i18n.site` yakachena-yekupedzisira-yakazara-manyoro ekutsvaga tekinoroji [i18n.site](//i18n.site) unogona kuona maitiro ekutsvaga.
+Ichi chinyorwa chichagovera kushandiswa kwehunyanzvi kwe `i18n.site` kumberi-yekupedzisira-yakazara yekutsvaga [i18n.site](//i18n.site) kuti uwane maitiro ekutsvaga.
 
-Kodhi [yakavhurika](//github.com/i18n-site/plugin/tree/main/qy) sosi [yekutsvaga kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Kodhi yakavhurika : [tsvaga kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Mucherechedzo We Serverless Yakazara-Mavara Ekutsvaga Mhinduro
 
-Kune mawebhusaiti madiki akadai semagwaro/mabhurogu ega akanyatsomira, hapana mubvunzo kuti zvinorema kuvaka yakazara-mavara yekutsvaga backend uri wega, uye yakazara-mavara kutsvaga pasina masevhisi pasina kupokana huremu huri nani.
+Kumawebhusaiti madiki uye epakati nepakati senge magwaro/mabhurogu ega, kuvaka yakazvivakira yakazara-manyoro yekutsvaga backend inorema, uye sevhisi-yemahara yakazara-mavara kutsvaga ndiyo inonyanya kusarudzwa sarudzo.
 
-Iripo serverless yakazara-zvinyorwa zvekutsvaga mhinduro zvinowira muzvikamu zviviri zvakafara.
+Serverless full-text search solutions inowira muzvikamu zviviri zvakafara:
 
-Imwe ndeyechitatu-bato rekutsvaga sevhisi sevhisi yakafanana ne [algolia.com](//algolia.com) iyo inopa kumberi-yekupedzisira-yakazara-mavara ekutsvaga zvikamu.
+Chekutanga, zvakafanana [algolia.com](//algolia.com)
 
-Masevhisi akadai anoda kubhadharwa uye haawanikwe kune vashandisi vari kuMainland China nekuda kwewebhusaiti yekutevedzera nyaya.
+Masevhisi akadai anoda mubhadharo zvichienderana nehuwandu hwekutsvaga, uye kazhinji haawanikwe kune vashandisi vari mu mainland China nekuda kwenyaya dzakadai sekutevedzera webhusaiti.
 
 Haikwanise kushandiswa kunze kwenyika, haigone kushandiswa paintraneti, uye ine mipimo mikuru. Ichi chinyorwa hachitauri zvakawanda.
 
 Yechipiri ndeyekumberi-kuguma kwakazara-mavara kutsvaga.
 
-Izvo ElasticLunr.js kuzivikanwa zvakachena zvemberi-zvizere- [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) kutsvaga zvinosanganisira [lunrjs](https://lunrjs.com)
+Zvinowanzo shandiswa zvakachena zvemberi-zvizere [lunrjs](https://lunrjs.com) zvinosanganisa uye [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Pane nzira mbiri dzekugadzira indexes, asi zvese zvine matambudziko azvo.
+`lunrjs` Pane nzira mbiri dzekugadzira indexes, uye ese ane matambudziko azvo.
 
 1. Pre-yakavakwa index mafaira
 
@@ -38,6 +38,8 @@ Izvo ElasticLunr.js kuzivikanwa zvakachena zvemberi-zvizere- [https://github.com
 
    Kuvaka indekisi ibasa rakasimba rekuvakazve iyo index nguva yese yaunowana inokonzeresa kunonoka uye kusaziva kwemushandisi.
 
+---
+
 Pamusoro `lunrjs` , kune mamwe akazara-zvinyorwa zvekutsvaga mhinduro, senge :
 
 [fusejs](https://www.fusejs.io) verenga kufanana pakati petambo kutsvaga.
@@ -46,13 +48,13 @@ Kuita kwemhinduro iyi kwakashata zvakanyanya uye hakugone kushandiswa pakutsvaga
 
 [TinySearch](https://github.com/tinysearch/tinysearch) shandisa Bloom sefa kutsvaga, haigone kushandiswa kutsvaga prefix (semuenzaniso, isa `goo` , tsvaga `good` , `google` ), uye haugone kuwana zvakafanana nekupedzisa kuita.
 
-Nekuda kwekusagutsikana nekukanganisa kwezvigadziriso zviripo, `i18n.site` yakagadzira mutsva wakachena wemberi-yekupedzisira yakazara-mavara yekutsvaga mhinduro, ine zvinotevera maitiro :
+Nekuda kwekukanganisa kwezvigadziriso zviripo, `i18n.site` yakagadzira mutsva wakachena wemberi-yekupedzisira yakazara-zvinyorwa yekutsvaga mhinduro, ine zvinotevera maitiro :
 
 1. `25KB` kutsvaga kwemitauro yakawanda `gzip` `6.9KB` muhukuru `lunrjs`
 1. Vaka inverted index yakavakirwa `indexedb` , iyo inotora ndangariro shoma uye inokurumidza.
 1. Kana magwaro akawedzerwa / akagadziridzwa, magwaro chete akawedzerwa kana akagadziridzwa anoiswa zvakare indexed, kuderedza huwandu hwekuverenga.
 1. Inotsigira kutsvaga kwekutanga, iyo inogona kuratidza mibairo yekutsvaga munguva chaiyo mushandisi ari kutaipa.
-1. Inowanikwa pasina Indaneti
+1. Inowanikwa Pasina Indaneti
 
 Pazasi, `i18n.site` tekinoroji yekushandisa ruzivo ichaunzwa zvakadzama.
 
@@ -142,7 +144,7 @@ prefixPush = pusher()
 
 ## Prefix Yekutsvaga Chaiyo-Nguva
 
-Kuti uratidze mhinduro dzekutsvaga mushandisi achinyora, semuenzaniso, kana `wor` apinzwa, mazwi ane prefixed `wor` senge `words` uye `work` anoratidzwa.
+Kuti uratidze mhinduro dzekutsvaga mushandisi paanenge achinyora, semuenzaniso, kana `wor` yaiswa, mazwi ane prefixed `wor` senge `words` uye `work` anoratidzwa.
 
 ![](https://p.3ti.site/1727684944.avif)
 
@@ -214,6 +216,6 @@ Paunenge uchitaridza zvawanikwa, zita rechitsauko richaratidzwa uye chitsauko ch
 
 ## Pfupisa
 
-Inverted full-text search inoshandiswa kumberi chete, nemhinduro inokurumidza uye pasina kudiwa kweseva.
+Inverted full-text search yakaitwa kumberi chete, hapana server inodiwa. Yakanyatsokodzera kune madiki uye epakati-saizi mawebhusaiti akadai semagwaro uye ega mablog.
 
-Yakanyatsokodzera kune madiki uye epakati-saizi mawebhusaiti akadai semagwaro uye ega mablog.
+`i18n.site` Vhura sosi yakazvigadzira yakachena yekumberi-yekupedzisira kutsvaga, diki muhukuru uye nekukurumidza mhinduro, inogadzirisa zvikanganiso zvezvino zvakachena zvemberi-yekupedzisira-yakazara zvinyorwa kutsvaga uye inopa zvirinani mushandisi ruzivo.

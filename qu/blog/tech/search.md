@@ -6,27 +6,27 @@ Achka simanakuna wiñachiymanta, [i18n.site](//i18n.site) (huk puramente estáti
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Kay qillqasqaqa `i18n.site` puro front-end hunt'asqa qillqa maskana tecnologiapa ruwayninta qunakunqa Watukuy [i18n.site](//i18n.site)
+Kay qillqasqaqa `i18n.site` ch'uya front-end hunt'a qillqa maskana técnica implementacionta qunakunqa [i18n.site](//i18n.site) maskana efectota experimentanaykipaq.
 
-Codigo kichasqa qullqi [maskana k'iti](//github.com/i18n-site/ie/tree/main/qy) [Interactivo interfaz](//github.com/i18n-site/plugin/tree/main/qy) /
+[Codigo](//github.com/i18n-site/plugin/tree/main/qy) / [qullqi](//github.com/i18n-site/ie/tree/main/qy) :
 
 ## Mana Servidorniyuq Hunt'asqa Qillqa Maskana Allichaykunamanta Huk Qhaway
 
-Huch'uy web kitikunapaq kayhina documentokuna/sapalla blogs kaqpaq mayqinkunachus ch'uya mana kuyukuq kanku, mana iskayrayaspa ancha llasa kan huk hunt'asqa qillqa maskana qhipa ruwayta sapallayki ruwanaykipaq, chaymanta hunt'asqa qillqa maskana mana yanapakuyniyuq mana iskayrayaspa aswan allin llasa.
+Huch'uy chaymanta chawpi sayayniyuq ch'uya mana kuyukuq web kitikunapaq qillqakuna/sapa blogkuna hina, kikin ruwasqa hunt'asqa qillqa maskana qhipa ruwayqa ancha llasa, chaymanta mana yanapakuyniyuq hunt'asqa qillqa maskana aswan riqsisqa akllana.
 
-Kunan kaq mana servidorniyuq hunt'asqa qillqa maskana allichaykuna iskay hatun categoría kaqpi urmayku.
+Mana servidorniyuq hunt'asqa qillqa maskana allichaykuna iskay hatun categoría kaqpi urmayku:
 
-Huknin huk kimsa kaq maskana yanapakuy quq [algolia.com](//algolia.com) mayqinchus ñawpaq-tukuy hunt'asqa qillqa maskana componentekuna qun.
+Ñawpaqta, rikch'aq [algolia.com](//algolia.com) Kimsa kaq maskana yanapakuy quqkuna ñawpaq-tukuy componentekuna hunt'asqa qillqa maskanapaq qunku.
 
-Kayhina yanapakuykuna qullqita mañanku chaymanta mana China hatun suyupi ruwaqkunapaq kanchu web kiti hunt'aymanta sasachakuykunarayku.
+Kayhina yanapakuykuna maskana volumen kaqpi qullqita mañanku, chaymanta sapa kuti mana China hatun suyupi ruwaqkunapaq atikunkuchu web kiti hunt'aynin hina sasachakuykunarayku.
 
 Mana internetpi llamk'achiy atikunmanchu, mana intranet kaqpi llamk'achiy atikunmanchu, chaymanta hatun limitacionniyuq. Kay qillqasqaqa manam anchatachu rimachkan.
 
 Iskay kaqtaq ch'uya ñawpaq-tukuy hunt'asqa qillqa maskaymi.
 
-Aswan riqsisqa ch'uya ñawpaq-tukuy hunt'asqa qillqa maskanakuna [lunrjs](https://lunrjs.com) chaymanta [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Sapa kuti llamk'achisqa ch'uya ñawpaq-tukuy hunt'a qillqa maskanakuna [lunrjs](https://lunrjs.com) , [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Iskay ñanmi kan indicekuna ruwanapaq, ichaqa iskayninkupas sasachakuyniyuqmi.
+`lunrjs` Iskay ñanmi kan indicekuna ruwanapaq, iskayninkutaqmi sasachakuyninku kan.
 
 1. Ñawpaqmanta ruwasqa indis willañiqikuna
 
@@ -38,6 +38,8 @@ Aswan riqsisqa ch'uya ñawpaq-tukuy hunt'asqa qillqa maskanakuna [lunrjs](https:
 
    Huk indice ruwayqa huk computacionalmente intensivo ruwaymi sapa kuti indiceta wakmanta ruwayqa sut'i qhipakuykunata chaymanta mana allin user experienciata ruwanqa.
 
+---
+
 `lunrjs` -manta aswanta, wakin huk hunt'asqa qillqa maskana allichaykunapas kanmi, ahinataq :
 
 [fusejs](https://www.fusejs.io) , maskanapaq watiqakunap rikch'ayninta yupay.
@@ -46,13 +48,13 @@ Kay allichaypa ruwayninqa ancha mana allinmi, manataqmi hunt'asqa qillqa maskana
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Kunan kaq allichaykunapa pantayninkunawan mana kusikuymanta, `i18n.site` musuq ch'uya ñawpaq-tukuy hunt'asqa qillqa maskana allichayta ruwarqa, mayqinchus kay ruwanakunayuq :
+Kunan kaq allichaykunap pisiyayninrayku, `i18n.site` musuq ch'uya ñawpaq-tukuy hunt'asqa qillqa maskana allichayta ruwarqan, kaytaq kay ruwanakunayuq :
 
 1. Achka simi maskana yanapakun chaymanta uchuylla hatun kayninpi maskana k'itipa sayayninqa `gzip` paqueteomanta qhipaman `6.9KB` (tupanachiypaq, `lunrjs` hatun kayninqa `25KB` )
 1. `indexedb` kaqpi sayasqa huk tikrasqa indisota ruway, aswan pisi yuyayta hap'in chaymanta utqaylla.
 1. Qillqakuna yapasqa/hukchasqa kaptin, yapasqa utaq tikrasqa qillqakunalla musuqmanta indexasqa kanku, yupaykunata pisiyachispa.
 1. Yanapakun ñawpaq simi maskana, mayqinchus maskana ruwaykunata chiqa pachapi rikuchiyta atin ruwaq qillqachkaptin.
-1. Mana internetpi tarikuq
+1. Mana Internetpi Tarikuq
 
 Uraypi, `i18n.site` técnica implementacionmanta detalles detalles riqsichisqa kanqa.
 
@@ -214,6 +216,6 @@ Maskanapaq ruwasqakunata qawachiptinchikqa, capitulopa sutinmi qawachikunqa, ñi
 
 ## Resumenpi Rimay
 
-Invertido hunt'asqa qillqa maskana ruwasqa ch'uya ñawpaq kaqpi, utqaylla kutichiywan chaymanta mana huk sirwiq necesidadniyuq.
+Invertido hunt'asqa qillqa maskana ruwasqa ch'uya ñawpaq kaqpi, mana sirwiq mañasqachu. Ancha allinmi huch’uy, chawpi web nisqakunapaq, documentokuna hinallataq blogs personales nisqapaqpas.
 
-Ancha allinmi huch’uy, chawpi web nisqakunapaq, documentokuna hinallataq blogs personales nisqapaqpas.
+`i18n.site` Kichasqa qullqisapa kikinmanta ruwasqa ch'uya ñawpaq maskana, huch'uy sayayniyuq chaymanta utqaylla kutichiy, kunan ch'uya ñawpaq hunt'asqa qillqa maskana pantayninkunata allichan chaymanta aswan allin ruwaqpa kawsayninta qun.

@@ -6,27 +6,27 @@ Wara diversi ġimgħat ta' żvilupp, [i18n.site](//i18n.site) (għodda ta' bini 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Dan l-artikolu se jaqsam l-implimentazzjoni ta `i18n.site` teknoloġija ta' tfittxija ta 'test sħiħ ta' front-end. Tista [i18n.site](//i18n.site) tesperjenza l-effett tat-tfittxija.
+Dan l-artikolu se jaqsam l-implimentazzjoni teknika ta ' `i18n.site` tfittxija full-test ta' quddiem [i18n.site](//i18n.site) tesperjenza l-effett tat-tfittxija.
 
-[Qalma ta' tfittxija](//github.com/i18n-site/ie/tree/main/qy) ta' kodiċi ta' sors [interattiv](//github.com/i18n-site/plugin/tree/main/qy) /
+Kodiċi sors miftuħ : [kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Ħarsa Ġenerali Lejn Is-Soluzzjonijiet Ta' Tfittxija B'test Sħiħ Mingħajr Server
 
-Għal websajts żgħar bħal dokumenti/blogs personali li huma purament statiċi, huwa bla dubju tqil wisq biex tibni backend ta 'tfittxija full-test waħdek, u tfittxija full-test mingħajr servizzi hija bla dubju piż aħjar.
+Għal websajts ta 'daqs żgħir u medju purament statiċi bħal dokumenti/blogs personali, il-bini ta' backend ta 'tfittxija ta' test sħiħ mibni waħdu huwa tqil wisq, u tfittxija ta 'test sħiħ mingħajr servizz hija l-aktar għażla komuni.
 
-Is-soluzzjonijiet eżistenti ta’ tfittxija ta’ test sħiħ bla server jaqgħu f’żewġ kategoriji wesgħin.
+Is-soluzzjonijiet tat-tiftix tat-test sħiħ mingħajr server jaqgħu f'żewġ kategoriji wesgħin:
 
-Wieħed huwa fornitur ta 'servizz ta' tfittxija ta 'parti terza simili għal [algolia.com](//algolia.com) li jipprovdi komponenti ta' tfittxija ta 'test sħiħ ta' quddiem.
+L-ewwel, fornituri ta' servizzi ta' tfittxija ta' partijiet terzi [algolia.com](//algolia.com) jipprovdu komponenti front-end għal tfittxija full-test.
 
-Servizzi bħal dawn jeħtieġu ħlas u mhumiex disponibbli għall-utenti fiċ-Ċina kontinentali minħabba kwistjonijiet ta 'konformità tal-websajt.
+Servizzi bħal dawn jeħtieġu ħlas ibbażat fuq il-volum tat-tiftix, u ħafna drabi ma jkunux disponibbli għall-utenti fiċ-Ċina kontinentali minħabba kwistjonijiet bħall-konformità tal-websajt.
 
 Ma jistax jintuża offline, ma jistax jintuża fuq l-intranet, u għandu limitazzjonijiet kbar. Dan l-artikolu ma jiddiskutix ħafna.
 
 It-tieni hija purament tfittxija full-test front-end.
 
-It-tfittxijiet ta' test sħiħ ta' quddiem nett aktar magħrufa jinkludu [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Tfittxijiet ta' test sħiħ ta' front-end użati b'mod komuni jinkludu [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Hemm żewġ modi kif jinbnew l-indiċi, iżda t-tnejn għandhom il-problemi tagħhom.
+`lunrjs` Hemm żewġ modi kif tibni indiċi, u t-tnejn għandhom il-problemi tagħhom.
 
 1. Fajls tal-indiċi mibnija minn qabel
 
@@ -38,6 +38,8 @@ It-tfittxijiet ta' test sħiħ ta' quddiem nett aktar magħrufa jinkludu [lunrjs
 
    Il-bini ta 'indiċi huwa kompitu intensiv fil-komputazzjoni. Il-bini mill-ġdid tal-indiċi kull darba li taċċessa se tikkawża dewmien ovvju u esperjenza fqira tal-utent.
 
+---
+
 Minbarra `lunrjs` , hemm xi soluzzjonijiet oħra ta' tfittxija b'test sħiħ, bħal :
 
 [fusejs](https://www.fusejs.io) , ikkalkula x-xebh bejn is-sekwenzi biex tfittex.
@@ -46,13 +48,13 @@ Il-prestazzjoni ta 'din is-soluzzjoni hija estremament fqira u ma tistax tintuż
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , uża l-filtru Bloom biex tfittex, ma tistax tintuża għat-tfittxija tal-prefiss (per eżempju, daħħal `goo` , fittex `good` , `google` ), u ma tistax tikseb effett ta' tlestija awtomatika simili.
 
-Min-nuqqas ta' sodisfazzjon bin-nuqqasijiet tas-soluzzjonijiet eżistenti, `i18n.site` żviluppa soluzzjoni ġdida ta' tfittxija ta' test sħiħ ta' quddiem pur, li għandha l-karatteristiċi li ġejjin :
+Minħabba n-nuqqasijiet tas-soluzzjonijiet eżistenti, `i18n.site` żviluppat soluzzjoni pura ġdida ta 'tfittxija ta' test sħiħ ta 'quddiem, li għandha l-karatteristiċi li ġejjin :
 
 1. Jappoġġja tfittxija b'ħafna lingwi u huwa żgħir fid-daqs Id-daqs tal-qalba tat-tfittxija wara l-ippakkjar `gzip` huwa `6.9KB` (għal tqabbil, id-daqs ta ' `lunrjs` huwa `25KB` ).
 1. Ibni indiċi maqlub ibbażat fuq `indexedb` , li jieħu inqas memorja u huwa mgħaġġel.
 1. Meta d-dokumenti jiġu miżjuda/modifikati, id-dokumenti miżjuda jew modifikati biss jiġu indiċjati mill-ġdid, u jitnaqqas l-ammont ta 'kalkoli.
 1. Jappoġġja t-tfittxija tal-prefiss u jista 'juri r-riżultati tat-tfittxija f'ħin reali waqt li l-utent ikun qed ittajpja.
-1. Disponibbli offline
+1. Disponibbli Offline
 
 Hawn taħt, `i18n.site` dettalji ta' implimentazzjoni teknika se jiġu introdotti fid-dettall.
 
@@ -142,7 +144,7 @@ prefixPush = pusher()
 
 ## Prefiss Tfittxija F'ħin Reali
 
-Sabiex jintwerew ir-riżultati tat-tfittxija waqt li l-utent ikun qed ittajpja, pereżempju, meta tiddaħħal `wor` , jintwerew kliem prefissati bi `wor` bħal `words` u `work` .
+Sabiex jintwerew ir-riżultati tat-tfittxija waqt li l-utent ikun qed ittajpja, pereżempju, meta tiddaħħal `wor` , jintwerew kliem prefissi bi `wor` bħal `words` u `work` .
 
 ![](https://p.3ti.site/1727684944.avif)
 
@@ -214,6 +216,6 @@ Meta turi r-riżultati tat-tfittxija, jintwera l-isem tal-kapitolu u l-kapitolu 
 
 ## Agħti Fil-Qosor
 
-Tfittxija maqluba bit-test sħiħ implimentata purament fuq in-naħa ta' quddiem, b'rispons mgħaġġel u l-ebda ħtieġa għal server.
+Tfittxija maqluba bit-test sħiħ implimentata purament fuq in-naħa ta' quddiem, l-ebda server meħtieġ. Huwa adattat ħafna għal websajts żgħar u ta 'daqs medju bħal dokumenti u blogs personali.
 
-Adattat ħafna għal websajts żgħar u ta' daqs medju bħal dokumenti u blogs personali.
+`i18n.site` Tfittxija ta 'quddiem pura żviluppata minn sors miftuħ, żgħir fid-daqs u rispons veloċi, issolvi n-nuqqasijiet tat-tfittxija tat-test sħiħ ta' quddiem pura attwali u tipprovdi esperjenza aħjar għall-utent.

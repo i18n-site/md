@@ -6,27 +6,27 @@ Tom qab markdown peb lub lis piam ntawm txoj kev loj & , [i18n.site](//i18n.site
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Tsab ntawv xov xwm no yuav qhia txog qhov kev siv ntawm `i18n.site` ntshiab pem hauv ntej-kawg tag nrho cov ntawv tshawb fawb mus ntsib [i18n.site](//i18n.site)
+Tsab ntawv xov xwm no yuav qhia txog kev siv ntawm `i18n.site` ntshiab pem hauv ntej-kawg-cov ntawv nyeem tag nrho mus ntsib [i18n.site](//i18n.site)
 
-Code qhib qhov tshawb [nrhiav](//github.com/i18n-site/plugin/tree/main/qy) [kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Code [qhib](//github.com/i18n-site/plugin/tree/main/qy) / [chaw](//github.com/i18n-site/ie/tree/main/qy) :
 
 ## Lub Ntsiab Lus Ntawm Serverless Cov Ntawv Tshawb Nrhiav Cov Kev Daws Teeb Meem
 
-Rau cov vev xaib me xws li cov ntaub ntawv / tus kheej blogs uas yog qhov zoo li qub, nws yog qhov hnyav dhau los tsim cov ntawv tshawb nrhiav puv ntoob los ntawm koj tus kheej, thiab nrhiav cov ntawv sau tag nrho yam tsis muaj kev pabcuam yog qhov hnyav dua.
+Rau cov vev xaib me me thiab nruab nrab ntawm cov vev xaib zoo li qub xws li cov ntaub ntawv / tus kheej blogs, kev tsim tus kheej tsim cov ntawv sau tag nrho cov ntaub ntawv rov qab yog qhov hnyav dhau, thiab kev pabcuam-dawb nrhiav cov ntawv nyeem yog qhov kev xaiv ntau dua.
 
-Tam sim no serverless tag nrho cov ntawv tshawb nrhiav kev daws teeb meem poob rau hauv ob pawg dav.
+Serverless tag nrho cov ntawv tshawb nrhiav kev daws teeb meem poob rau hauv ob pawg dav:
 
-Ib tug yog ib tug thib peb-tog nrhiav kev pab cuam zoo ib yam li [algolia.com](//algolia.com) uas muab pem hauv ntej-kawg tag nrho cov ntaub ntawv tshawb fawb Cheebtsam.
+Ua ntej, zoo sib xws [algolia.com](//algolia.com)
 
-Cov kev pabcuam zoo li no yuav tsum tau them nyiaj thiab tsis muaj rau cov neeg siv hauv Suav teb av loj vim muaj teeb meem ua raws lub vev xaib.
+Cov kev pabcuam zoo li no yuav tsum tau them nyiaj raws li kev tshawb fawb ntim, thiab feem ntau tsis muaj rau cov neeg siv hauv Suav teb loj vim muaj teeb meem xws li kev ua raws li lub vev xaib.
 
 Nws tsis tuaj yeem siv offline, tsis tuaj yeem siv hauv intranet, thiab muaj kev txwv loj. Kab lus no tsis tham ntau ntau.
 
-Qhov thib ob yog qhov ntshiab pem hauv ntej-kawg tag nrho cov ntawv tshawb nrhiav.
+Qhov thib ob yog qhov ntshiab pem hauv ntej-kawg nrhiav cov ntawv nyeem.
 
-Cov kev paub zoo tshaj plaws hauv pem hauv ntej-kawg nrhiav cov ntawv nyeem suav nrog [lunrjs](https://lunrjs.com) thiab [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Feem ntau siv cov ntawv sau ua ntej-kawg tshawb nrhiav suav nrog [lunrjs](https://lunrjs.com) thiab [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Muaj ob txoj hauv kev los tsim cov indexes, tab sis ob leeg muaj lawv tus kheej cov teeb meem.
+`lunrjs` Muaj ob txoj hauv kev los tsim cov indexes, thiab ob leeg muaj lawv tus kheej cov teeb meem.
 
 1. Pre-built index files
 
@@ -38,6 +38,8 @@ Cov kev paub zoo tshaj plaws hauv pem hauv ntej-kawg nrhiav cov ntawv nyeem suav
 
    Txhim kho qhov Performance index yog ib txoj hauj lwm uas yuav tsum tau ua kom rov tsim kho qhov Performance index txhua zaus koj nkag mus rau nws yuav ua rau pom kev lag luam thiab cov neeg siv tsis zoo.
 
+---
+
 Ntxiv rau `lunrjs` , muaj qee qhov kev tshawb nrhiav cov ntawv nyeem tag nrho, xws li :
 
 [fusejs](https://www.fusejs.io) , xam qhov zoo sib xws ntawm cov hlua mus nrhiav.
@@ -46,13 +48,13 @@ Qhov kev ua tau zoo ntawm qhov kev daws teeb meem no yog qhov tsis zoo thiab tsi
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , siv Bloom lim los tshawb nrhiav, tsis tuaj yeem siv rau kev tshawb nrhiav ua ntej (piv txwv li, nkag mus `goo` , tshawb nrhiav `good` , `google` ), thiab tsis tuaj yeem ua tiav cov txiaj ntsig zoo li qub.
 
-Tawm ntawm kev tsis txaus siab nrog qhov tsis txaus ntawm cov kev daws teeb meem uas twb muaj lawm, `i18n.site` tau tsim ib qho tshiab ntawm cov ntawv tshawb fawb tshiab, uas muaj cov yam ntxwv hauv qab no :
+Vim yog qhov tsis txaus ntawm cov kev daws teeb meem uas twb muaj lawm, `i18n.site` tau tsim qhov tshiab ntshiab pem hauv ntej-kawg tag nrho cov ntawv tshawb nrhiav, uas muaj cov yam ntxwv hauv qab no :
 
 1. Txhawb kev tshawb nrhiav ntau hom lus thiab me me Qhov loj ntawm cov khoom tshawb nrhiav tom qab ntim `gzip` yog `6.9KB` (rau kev sib piv, qhov loj ntawm `lunrjs` yog `25KB` ).
 1. Tsim ib qho inverted Performance index raws li `indexedb` , uas yuav siv sij hawm tsawg dua nco thiab ceev.
 1. Thaum cov ntaub ntawv ntxiv / hloov kho, tsuas yog cov ntaub ntawv ntxiv lossis hloov kho cov ntaub ntawv rov qab ntsuas dua, txo cov nqi ntawm kev suav.
 1. Txhawb kev tshawb nrhiav ua ntej, uas tuaj yeem tso saib cov txiaj ntsig tshawb fawb hauv lub sijhawm tiag tiag thaum tus neeg siv ntaus ntawv.
-1. Muaj offline
+1. Muaj Offline
 
 Hauv qab no, `i18n.site` cov ntsiab lus ntawm kev siv cov txheej txheem yuav raug qhia kom ntxaws.
 
@@ -146,7 +148,7 @@ Txhawm rau tso saib cov txiaj ntsig tshawb fawb thaum tus neeg siv ntaus ntawv, 
 
 ![](https://p.3ti.site/1727684944.avif)
 
-Cov lus tshawb nrhiav yuav siv `prefix` lub rooj rau lo lus kawg tom qab lo lus segmentation kom pom tag nrho cov lus ua ntej nrog nws, thiab tshawb nrhiav hauv ntu.
+Cov lus tshawb nrhiav yuav siv `prefix` lub rooj rau lo lus kawg tom qab lo lus segmentation kom pom tag nrho cov lus ua ntej nrog nws, thiab tshawb hauv ib ntus.
 
 Anti-shake muaj nuj nqi `debounce` kuj tseem siv nyob rau hauv pem hauv ntej-kawg kev sib cuam tshuam (ua raws li hauv qab no) kom txo tau qhov zaus ntawm cov neeg siv tswv yim ua rau kev tshawb nrhiav thiab txo cov nqi ntawm kev suav.
 
@@ -214,6 +216,6 @@ Thaum pom cov txiaj ntsig tshawb fawb, tshooj npe yuav tshwm sim thiab tshooj yu
 
 ## Cov Ntsiab Lus
 
-Rov qab nrhiav cov ntawv nyeem tag nrho tau ua tiav nyob rau pem hauv ntej kawg, nrog cov lus teb nrawm thiab tsis xav tau lub server.
+Inverted tag nrho cov ntawv tshawb nrhiav tau ua tiav ntawm lub hauv ntej kawg, tsis muaj server xav tau. Nws yog qhov tsim nyog rau cov vev xaib me me thiab nruab nrab xws li cov ntaub ntawv thiab cov blogs tus kheej.
 
-Nws yog qhov tsim nyog rau cov vev xaib me me thiab nruab nrab xws li cov ntaub ntawv thiab cov blogs tus kheej.
+`i18n.site` Qhib qhov chaw nws tus kheej tsim cov ntshiab pem hauv ntej-kawg tshawb nrhiav, me me thiab cov lus teb ceev ceev, daws qhov tsis txaus ntawm qhov tam sim no ntshiab pem hauv ntej-kawg nrhiav cov ntawv nyeem thiab muab kev paub zoo dua rau cov neeg siv.

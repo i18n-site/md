@@ -6,27 +6,27 @@ Heta arapokõindy oñembosako’i rire, [i18n.site](//i18n.site) (peteĩ tembipu
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ko artículo okomparti implementación `i18n.site` tecnología de búsqueda de texto completo puro [i18n.site](//i18n.site) reñandu pe efecto jeheka rehegua.
+Ko artíkulo okomparti implementación técnica `i18n.site` puro front-end jeheka rehegua Visit [i18n.site](//i18n.site)
 
-Kódigo [kernel de búsqueda](//github.com/i18n-site/ie/tree/main/qy) código [abierto](//github.com/i18n-site/plugin/tree/main/qy) rehegua /
+[Código](//github.com/i18n-site/plugin/tree/main/qy) [código](//github.com/i18n-site/ie/tree/main/qy) / :
 
 ## Peteĩ Jehechapyrã Umi Solución Jeheka Rehegua Jehaipyre Pukukue Ndorekóiva Servidor Rehegua
 
-Umi ñanduti renda michĩvape g̃uarã ha’eháicha kuatia/blog personal ha’éva puramente estático, katuete ipohýieterei remopu’ã hag̃ua peteĩ jeporeka jehaipyre pukukue ndejehegui, ha jeheka jehaipyre pukukue servicio’ỹre katuete ha’e peteĩ mba’epohýi iporãvéva.
+Umi ñanduti renda michĩ ha mbytegua puramente estático-pe g̃uarã haꞌeháicha kuatia/blog personal, omopuꞌa peteĩ jeporeka jehaipyre pukukue ojejapóva ijeheguiete ipohýieterei, ha jeporeka jehaipyre tuichakue rehegua ndorekóiva servicio haꞌehína pe ojeporavovéva.
 
-Umi solución jeheka rehegua texto completo ndorekóiva servidor-pe oĩmava ho’a mokõi categoría tuichávape.
+Umi solución jeheka rehegua jehaipyre pukukue ndorekóiva servidor ho’a mokõi categoría tuichávape:
 
-Peteĩva haꞌehína peteĩ mbohapýha tapicha jeheka mboajepyréva ojoguáva [algolia.com](//algolia.com) omeꞌeva umi componente jehekarã jehaipyre pukukue tenondegua.
+Peteĩha, ojoguáva [algolia.com](//algolia.com)
 
-Ko'ãichagua servicio oikotevë pago ha ndojeguerekói umi usuario China continental-pe péva umi tema cumplimiento sitio web.
+Ko’ãichagua servicio oikotevẽ pago oñemopyendáva volumen de búsqueda rehe, ha heta jey ndojeguerekói umi usuario China continental-pe umi tema ha’eháicha cumplimiento sitio web.
 
 Ndaikatúi ojeporu offline, ndaikatúi ojeporu intranet-pe ha oguereko tuicha limitación. Ko artíkulope noñeñeʼẽi heta mbaʼére.
 
 Mokõiha ha’e jeporeka puro front-end texto completo rehegua.
 
-Umi jeporeka jehaipyre henyhẽva tenondegua puro ojekuaavéva apytépe oĩ [lunrjs](https://lunrjs.com) ha [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Umi jeporeka jehaipyre henyhẽva tenondegua puro ojepuruvéva apytépe oĩ [lunrjs](https://lunrjs.com) ha [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Oĩ mokõi tape ojejapo hag̃ua índice, ha katu mokõivéva oguereko iprovléma.
+`lunrjs` Oĩ mokõi tape ojejapo hag̃ua índice, ha mokõivéva oguereko iprovléma.
 
 1. Umi archivo índice rehegua oñemopuꞌa mboyve
 
@@ -38,6 +38,8 @@ Umi jeporeka jehaipyre henyhẽva tenondegua puro ojekuaavéva apytépe oĩ [lun
 
    Oñemopuꞌa peteĩ índice haꞌehína peteĩ tembiapo oñemombaꞌeva computacionalmente Oñemopuꞌa jeývo índice opaite jave reike jave, omoheñóita retraso ojehechakuaáva ha puruhára experiencia vai.
 
+---
+
 `lunrjs` ári, oĩ ambue solución jehekarã jehaipyre pukukue rehegua, haꞌeháicha :
 
 [fusejs](https://www.fusejs.io) , ekalkula mbaꞌeichaitépa ojoavy umi cadena ojeheka hag̃ua.
@@ -46,13 +48,13 @@ Ko solución rembiapo ivaieterei ha ndaikatúi ojepuru ojeheka hag̃ua jehaipyre
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Ndojeguerohorýigui umi solución oĩmava deficiencia rehe, `i18n.site` omoheñói peteĩ solución pyahu jeporeka texto completo front-end puro rehegua, oguerekóva ko’ã mba’e :
+Umi solución oĩmava ofaltágui, `i18n.site` omoheñói peteĩ solución pyahu jeporeka texto completo front-end puro rehegua, oguerekóva ko’ã característica :
 
 1. Oipytyvõ jeheka heta ñe’ẽme ha michĩ ituichakuépe Pe jeheka kernel tuichakue oñembohyru rire `gzip` ha’e `6.9KB` (oñembojojávo, `lunrjs` tuichakue ha’e `25KB` )
 1. Emopuꞌa peteĩ índice invertido oñemopyendáva `indexedb` rehe, oipyhýva saꞌivéva manduꞌa ha ipyaꞌeva.
 1. Oñemoĩ/oñemoambue jave kuatiakuéra, umi kuatia oñembojoapýva térã oñemoambuéva añoite oñeindexa jey, omboguejývo umi cálculo.
 1. Oipytyvõ ñe’ẽpehẽtai jeheka ha ikatu ohechauka jeheka resultado tiempo real-pe puruhára ohai aja.
-1. Ojeguereko offline-pe
+1. Ojeguereko Offline-Pe
 
 Iguýpe, `i18n.site` detalle implementación técnico rehegua oñembohasáta detalle reheve.
 
@@ -214,6 +216,6 @@ Ojehechaukávo umi mba’e ojehekáva, ojehechaukáta pe kapítulo réra ha ojeg
 
 ## Embohysýi
 
-Jeporeka jehaipyre pukukue invertido oñemboguatáva puramente front end-pe, ombohovái pyaꞌe ha natekotevẽi peteĩ servidor.
+Jeporeka jehaipyre pukukue invertido oñemboguatáva puramente front end-pe, noñeikotevẽi servidor. Oĩ porãiterei umi página web michĩ ha mediana-pe g̃uarã ha’eháicha kuatia ha blog personal.
 
-Oĩ porãiterei umi página web michĩ ha mediana-pe g̃uarã ha’eháicha kuatia ha blog personal.
+`i18n.site` Jeporeka tenondegua puro omoheñóiva ijeheguiete código abierto, michĩva ha ombohovái pyaꞌe, osoluciona umi mba’e’apo’ỹ ko’ag̃agua jeheka tenondegua puro jehaipyre pukukue rehegua ha omeꞌe peteĩ jeiko porãve puruhárape.

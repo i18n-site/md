@@ -6,27 +6,27 @@ Després de diverses setmanes de desenvolupament, [i18n.site](//i18n.site) (una 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Aquest article compartirà la implementació de la tecnologia de cerca de text complet `i18n.site` Podeu experimentar l'efecte de [i18n.site](//i18n.site) .
+Aquest article compartirà la implementació tècnica de la cerca de text complet `i18n.site` [i18n.site](//i18n.site) experimentar l'efecte de cerca.
 
-[Nucli de cerca](//github.com/i18n-site/ie/tree/main/qy) de codi obert / [interactiva](//github.com/i18n-site/plugin/tree/main/qy)
+Codi de codi obert : [Cerca del nucli](//github.com/i18n-site/ie/tree/main/qy) / [Interfície interactiva](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Una Visió General De Les Solucions De Cerca De Text Complet Sense Servidor
 
-Per a llocs web petits com ara documents/blocs personals que són purament estàtics, és sens dubte massa pesat crear un backend de cerca de text complet per tu mateix, i la cerca de text complet sense serveis és sens dubte un millor pes.
+Per als llocs web purament estàtics de mida petita i mitjana, com ara documents/blocs personals, la creació d'un backend de cerca de text complet autoconstruït és massa pesat i la cerca de text complet sense servei és l'opció més habitual.
 
-Les solucions de cerca de text complet sense servidor existents es divideixen en dues grans categories.
+Les solucions de cerca de text complet sense servidor es divideixen en dues grans categories:
 
-Un és un proveïdor de serveis de cerca de tercers similar a [algolia.com](//algolia.com) que proporciona components de cerca de text complet de front-end.
+En primer lloc [algolia.com](//algolia.com) els proveïdors de serveis de cerca de tercers ofereixen components de front-end per a la cerca de text complet.
 
-Aquests serveis requereixen pagament i no estan disponibles per als usuaris de la Xina continental a causa de problemes de compliment del lloc web.
+Aquests serveis requereixen un pagament en funció del volum de cerca i sovint no estan disponibles per als usuaris de la Xina continental a causa de problemes com ara el compliment del lloc web.
 
 No es pot utilitzar fora de línia, no es pot utilitzar a la intranet i té grans limitacions. Aquest article no parla gaire.
 
 La segona és la cerca de text complet de front-end pura.
 
-Les cerques de text complet de front-end més conegudes inclouen [lunrjs](https://lunrjs.com) i [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Les cerques de text complet de front-end que s'utilitzen habitualment inclouen [lunrjs](https://lunrjs.com) i [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Hi ha dues maneres de crear índexs, però ambdues tenen els seus propis problemes.
+`lunrjs` Hi ha dues maneres de crear índexs, i ambdues tenen els seus propis problemes.
 
 1. Fitxers d'índex preconstruïts
 
@@ -38,6 +38,8 @@ Les cerques de text complet de front-end més conegudes inclouen [lunrjs](https:
 
    La creació d'un índex és una tasca computacionalment intensiva. Reconstruir l'índex cada vegada que hi accediu provocarà retards evidents i una mala experiència d'usuari.
 
+---
+
 A més de `lunrjs` , hi ha altres solucions de cerca de text complet, com ara :
 
 [fusejs](https://www.fusejs.io) , calcula la similitud entre les cadenes per cercar.
@@ -46,13 +48,13 @@ El rendiment d'aquesta solució és extremadament baix i no es pot utilitzar per
 
 [TinySearch](https://github.com/tinysearch/tinysearch) utilitzeu el filtre Bloom per cercar, no es pot utilitzar per a la cerca de prefix (per exemple, introduïu `goo` , cerca `good` , `google` ) i no pot aconseguir un efecte de finalització automàtica similar.
 
-Com a insatisfacció amb les deficiències de les solucions existents, `i18n.site` va desenvolupar una nova solució de cerca de text complet de front-end pura, que té les següents característiques :
+A causa de les deficiències de les solucions existents, `i18n.site` ha desenvolupat una nova solució de cerca de text complet de front-end pura, que té les característiques següents :
 
 1. Admet la cerca en diversos idiomes i té una mida petita. La mida del nucli de cerca després de l'empaquetament `gzip` és `6.9KB` (per a la comparació, la mida de `lunrjs` és `25KB` ).
 1. Creeu un índex invertit basat en `indexedb` , que ocupa menys memòria i és ràpid.
 1. Quan s'afegeixen/modifiquen documents, només es tornen a indexar els documents afegits o modificats, reduint la quantitat de càlculs.
 1. Admet la cerca de prefix i pot mostrar els resultats de la cerca en temps real mentre l'usuari està escrivint.
-1. Disponible fora de línia
+1. Disponible Fora De Línia
 
 A continuació, s'introduiran detalladament `i18n.site` detalls tècnics d'implementació.
 
@@ -214,6 +216,6 @@ Quan es mostrin els resultats de la cerca, es mostrarà el nom del capítol i es
 
 ## Resumir
 
-Cerca invertida de text complet implementada exclusivament a la portada, amb resposta ràpida i sense necessitat de servidor.
+La cerca invertida de text complet s'ha implementat exclusivament a la portada, no cal cap servidor. És molt adequat per a llocs web de mida petita i mitjana com ara documents i blocs personals.
 
-És molt adequat per a llocs web de mida petita i mitjana com ara documents i blocs personals.
+`i18n.site` La cerca de front-end pura autodesenvolupada de codi obert, de mida petita i resposta ràpida, resol les deficiències de la cerca de text complet de front-end pura actual i ofereix una millor experiència d'usuari.

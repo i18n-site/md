@@ -6,27 +6,27 @@ Sima ya ba semaines ebele ya développement, [i18n.site](//i18n.site) (esaleli y
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Lisolo oyo ekokabola mise en œuvre ya `i18n.site` pure front-end full-text technologie Visit [i18n.site](//i18n.site)
+Lisolo oyo ekokabola mise en œuvre technique ya `i18n.site` recherche ya texte mobimba ya pure Visit [i18n.site](//i18n.site)
 
-Code [ya recherche](//github.com/i18n-site/ie/tree/main/qy) ya source ouverte [Interface interactive](//github.com/i18n-site/plugin/tree/main/qy) /
+Code source ouverte [noyau ya boluki](//github.com/i18n-site/ie/tree/main/qy) / [Interface](//github.com/i18n-site/plugin/tree/main/qy) :
 
 ## Botali Ya Mozindo Ya Ba Solutions Ya Boluki Ya Texte Mobimba Sans Serveur
 
-Mpo na ba site internet ya mike lokola mikanda/blogs personnels oyo ezali purement statique, ezali na ntembe te kilo mingi mpo na kotonga backend ya boluki ya makomi mobimba yo moko, mpe boluki ya makomi mobimba kozanga ba services ezali na ntembe te kilo ya malamu koleka.
+Mpo na ba site internet ya mike mpe ya monene oyo ezali kaka statique lokola mikanda/ba blogs personnels, kotonga backend ya boluki ya makomi mobimba oyo etongami yo moko ezali kilo mingi, mpe boluki ya makomi mobimba oyo ezangi service ezali kopona oyo esalemaka mingi.
 
-Ba solutions ya boluki ya texte mobimba oyo ezali na serveur te ekweyi na ba catégories mibale ya minene.
+Ba solutions ya boluki ya texte mobimba sans serveur ekweyi na ba catégories mibale ya minene:
 
-Moko ezali mopesi ya service ya boluki ya bato mosusu oyo ekokani na [algolia.com](//algolia.com) oyo epesaka ba composants ya boluki ya makomi mobimba ya liboso.
+Ya liboso, ndenge moko [algolia.com](//algolia.com) Ba fournisseurs ya service ya recherche ya troisième partie bapesaka ba composants ya front-end pona recherche ya texte mobimba.
 
-Misala ya boye esengaka kofuta mpe ezali te mpo na basaleli na Chine continent mpo na makambo ya botosi ya site internet.
+Misala ya boye esengaka kofuta na kotalaka volume ya boluki, mpe mbala mingi ezalaka te mpo na basaleli na Chine continent mpo na makambo lokola botosi ya site internet.
 
 Ekoki kosalelama te na nzela ya Internet te, ekoki kosalelama te na intranet, mpe ezali na bandelo minene. Lisolo oyo elobeli makambo mingi te.
 
 Ya mibale ezali boluki ya makomi mobimba ya liboso ya pɛto.
 
-Bolukiluki ya makomi mobimba ya peto oyo eyebani mingi ezali na [lunrjs](https://lunrjs.com) mpe [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Boluki ya makomi mobimba ya liboso oyo esalelamaka mingi ezali [lunrjs](https://lunrjs.com) mpe [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Ezali na ndenge mibale ya kotonga ba index, kasi nyonso mibale ezali na mikakatano na yango.
+`lunrjs` Ezali na banzela mibale ya kotonga ba index, mpe nyonso mibale ezali na mikakatano na yango.
 
 1. Ba fichiers ya index oyo etongami liboso
 
@@ -38,6 +38,8 @@ Bolukiluki ya makomi mobimba ya peto oyo eyebani mingi ezali na [lunrjs](https:/
 
    Kotonga index ezali mosala oyo esɛngaka calcul mingi Kotonga lisusu index mbala nyonso oyo okokɔta na yango ekosala ete ezala na retard ya polele mpe ekosala ete mosaleli ezala malamu te.
 
+---
+
 Longola `lunrjs` , ezali na mwa ba solutions mosusu ya boluki ya makomi mobimba, lokola :
 
 [fusejs](https://www.fusejs.io) , sala calcul ya bokokani kati na ba chaînes oyo esengeli koluka.
@@ -46,13 +48,13 @@ Performance ya solution oyo ezali très mauvaise mpe ekoki kosalelama te pona re
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Na insatisfaction na ba manques ya ba solutions existantes, `i18n.site` a développer solution ya sika ya recherche ya texte complet ya front-end pure, oyo ezali na ba fonctionnalités oyo elandi :
+Na tina ya ba manques ya ba solutions oyo ezali, `i18n.site` esali solution ya sika ya recherche ya texte complet ya front-end pure, oyo ezali na ba caractéristiques oyo elandi :
 
 1. Ezali kosunga boluki ya minoko mingi mpe ezali moke na bonene Bonene ya noyau ya boluki nsima ya emballage `gzip` ezali `6.9KB` (mpo na bokokanisi, bonene ya `lunrjs` ezali `25KB` )
 1. Tongela index inversé oyo esalemi na `indexedb` , oyo ezuaka mémoire moke mpe ezalaka mbangu.
 1. Tango mikanda ebakisami/ebongwani, kaka mikanda oyo ebakisami to oyo ebongisami nde ezongisami na index, ekitisaka motango ya ba calculs.
 1. Esungaka boluki ya liboso, oyo ekoki kolakisa ba résultats ya boluki na tango ya solo tango mosaleli azali kokoma.
-1. Ezali na nzela ya internet te
+1. Ezali Na Nzela Ya Internet Te
 
 Na se, `i18n.site` ba détails techniques ya mise en œuvre eko kotisama na bozindo.
 
@@ -214,6 +216,6 @@ Ntango ozali kolakisa ba résultats ya boluki, kombo ya mokapo ekobima mpe mokap
 
 ## Lobelá Na Mokuse
 
-Boluki ya makomi mobimba inversée esalemi kaka na liboso, na eyano ya mbangu mpe na ntina ya serveur te.
+Boluki ya makomi mobimba inversée esalemi kaka na front end, serveur esengeli te. Ebongi mingi mpo na ba site internet ya mike mpe ya monene lokola mikanda mpe ba blogs personnels.
 
-Ebongi mingi mpo na ba site internet ya mike mpe ya monene lokola mikanda mpe ba blogs personnels.
+`i18n.site` Boluki ya peto ya liboso oyo esalemi yango moko na source ouverte, ya moke na bonene mpe eyano ya mbangu, esilisaka mabunga ya boluki ya makomi mobimba ya liboso ya peto ya lelo mpe epesaka mayele ya malamu ya mosaleli.

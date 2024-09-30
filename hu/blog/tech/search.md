@@ -6,27 +6,27 @@ Néhány hetes & után markdown [i18n.site](/0)
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ez a cikk megosztja az `i18n.site` tiszta front-end teljes szöveges keresési technológiájának megvalósítását. A keresési hatást itt lehet kipróbálni: [i18n.site](//i18n.site).
+Ez a cikk a `i18n.site` tiszta front-end teljes szöveges keresés technikai megvalósítását osztja meg. Látogasson el az [i18n.site](//i18n.site) oldalra a keresési élmény kipróbálásához.
 
-A kód nyílt forráskódú: [kereső kernel](//github.com/i18n-site/ie/tree/main/qy) / [interakciós felület](//github.com/i18n-site/plugin/tree/main/qy)
+Kód nyílt forrás: [Keresési magj](//github.com/i18n-site/ie/tree/main/qy) / [Felhasználói felület](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Szerver nélküli teljes szöveges keresési megoldások áttekintése
 
-Kis webhelyek, például dokumentumok/személyes blogok, amelyek tisztán statikusak, kétségtelenül túl nehéz saját kezűleg létrehozni egy teljes szöveges keresési háttérrendszert, és a szolgáltatások nélküli teljes szöveges keresés kétségtelenül jobb súlyt jelent.
+Kis és közepes méretű, tisztán statikus webhelyek, például dokumentumok/személyes blogok esetében a saját építésű teljes szövegű keresési háttérrendszer felépítése túl nehéz feladat, és a szolgáltatásmentes teljes szöveges keresés a gyakoribb választás.
 
-A meglévő szerver nélküli teljes szöveges keresési megoldások két fő kategóriába sorolhatók.
+Az无忧服务 alapú teljes szöveges keresési megoldások két fő csoportra oszthatók:
 
-Egyrészt olyan harmadik féltől származó keresési szolgáltatók, mint az [algolia.com](//algolia.com), amelyek front-end teljes szöveges keresési komponenseket biztosítanak.
+Elsőként, a [algolia.com](//algolia.com) hasonló harmadik féltől származó keresési szolgáltatók teljes szöveges keresési front-end komponenseket biztosítanak.
 
-Ilyen szolgáltatásokért fizetni kell, és a webhely megfelelőségi problémái miatt a kínai felhasználók nem férhetnek hozzá.
+Ilyen szolgáltatásokért a keresési mennyiség alapján kell fizetni, és gyakran a weboldal megfelelőségi problémák miatt a kínai felhasználók számára nem érhetők el.
 
 Nem használható offline, nem használható belső hálózaton, és jelentős korlátokkal rendelkezik. Ezért nem részletezzük őket.
 
-Másrészt a tiszta front-end teljes szöveges keresés.
+A második csoport a tiszta front-end teljes szöveges keresés.
 
-A legismertebb tiszta front-end teljes szöveges keresések közé tartozik [lunrjs](/0) és a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Az általánosan használt tiszta front-end teljes szöveges keresések közé tartozik [lunrjs](/0) és a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-A `lunrjs` két különböző indexelési módot használ, de mindkettőnek megvannak a maga problémái.
+A `lunrjs` két indexelési módszert kínál, mindkettőnek megvannak a maga problémái.
 
 1. Előre elkészített indexfájlok
 
@@ -38,6 +38,8 @@ A `lunrjs` két különböző indexelési módot használ, de mindkettőnek megv
 
    Az indexelés számítási igényes feladat, és minden látogatásnál újra indexelni az indexet jelentős késéseket és rossz felhasználói élményt okoz.
 
+---
+
 `lunrjs` mellett több más teljes szöveges keresési megoldás is létezik, például:
 
 [fusejs](https://www.fusejs.io), amely a karakterláncok közötti hasonlóságot számítja ki.
@@ -46,7 +48,7 @@ Ez a megoldás teljesítménye rendkívül gyenge, és nem használható teljes 
 
 [TinySearch](https://github.com/tinysearch/tinysearch), amely a Bloom szűrőt használja a kereséshez, nem használható előtag keresésre (például `goo` beírása esetén `good` vagy `google` keresése), és nem érhető el hasonló automatikus befejezési hatás.
 
-A meglévő megoldások hiányosságaival való elégedetlenség miatt az `i18n.site` új, tiszta front-end teljes szöveges keresési megoldást fejlesztett ki, amely a következő tulajdonságokkal rendelkezik:
+Mivel a meglévő megoldások különböző hátrányai miatt az `i18n.site` egy új tiszta front-end teljes szöveges keresési megoldást fejlesztett, amely a következő jellemzőkkel rendelkezik:
 
 1. Támogatja a többnyelvű keresést, és kis méretű A keresőmag mérete `gzip` csomagolás után `6.9KB` (összehasonlításképpen a `lunrjs` es mérete `25KB` )
 1. `indexedb` alapján létrehozott fordított indexet használ, amely kevesebb memóriát foglal el és gyors
@@ -214,6 +216,6 @@ A keresési eredmények megjelenítésekor jelenítse meg a fejezet neveket, és
 
 ## Összefoglalva
 
-Nagyon alkalmas kis és közepes méretű webhelyekhez, például dokumentumokhoz és személyes blogokhoz.
+Tiszta front-end invertált teljes szöveges keresés, amely nem igényel szerver. Nagyon alkalmas kis és közepes méretű weboldalakhoz, például dokumentumokhoz és személyes blogokhoz.
 
-Nagyon alkalmas kis és közepes méretű webhelyekhez, például dokumentumokhoz és személyes blogokhoz.
+Az `i18n.site` nyílt forráskódú saját fejlesztésű tiszta front-end keresés kis méretű és gyors válasz, amely megoldja a jelenlegi tiszta front-end teljes szöveges keresés problémáit, és jobb felhasználói élményt nyújt.

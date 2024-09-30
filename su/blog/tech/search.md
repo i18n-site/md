@@ -6,27 +6,27 @@ Sanggeus sababaraha minggu pangwangunan, [i18n.site](//i18n.site) (alat wangunan
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Artikel ieu bakal ngabagikeun palaksanaan `i18n.site` téhnologi pilarian full-teks hareup-tungtung Anjeun bisa ngalaman efek pilarian [i18n.site](//i18n.site)
+Artikel ieu bakal ngabagikeun palaksanaan téknis `i18n.site` milarian téks lengkep hareup-tungtung [i18n.site](//i18n.site) ngalaman éfék milarian.
 
-Kodeu [kernel pilarian](//github.com/i18n-site/ie/tree/main/qy) [open](//github.com/i18n-site/plugin/tree/main/qy) source /
+Kodeu open source : [Pilarian kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Tinjauan Solusi Milarian Téks Lengkep Tanpa Server
 
-Pikeun situs wéb leutik sapertos dokumén / blog pribadi anu murni statik, pasti beurat teuing pikeun ngawangun backend milarian téks lengkep ku nyalira, sareng milarian téks lengkep tanpa jasa pasti langkung saé.
+Pikeun situs web statik ukuran leutik sareng sedeng sapertos dokumén / blog pribadi, ngawangun backend milarian téks lengkep anu diwangun diri beurat teuing, sareng milarian téks lengkep gratis jasa mangrupikeun pilihan anu langkung umum.
 
-Solusi milarian téks lengkep tanpa server anu aya digolongkeun kana dua kategori anu lega.
+Solusi milarian téks lengkep tanpa server digolongkeun kana dua kategori anu lega:
 
-Salah sahiji nyaéta panyadia ladenan pilarian pihak katilu sarupa [algolia.com](//algolia.com) nu nyadiakeun hareup-tungtung komponén pilarian full-téks.
+Kahiji, panyadia ladenan pilarian pihak-katilu [algolia.com](//algolia.com) nyadiakeun komponén hareup-tungtung pikeun pilarian-téks lengkep.
 
-Ladenan sapertos kitu ngabutuhkeun pamayaran sareng henteu sayogi pikeun pangguna di daratan Cina kusabab masalah patuh situs wéb.
+Ladenan sapertos kitu ngabutuhkeun pamayaran dumasar kana volume pamilarian, sareng sering henteu sayogi pikeun pangguna di daratan Cina kusabab masalah sapertos patuh halaman wéb.
 
 Teu bisa dipaké offline, teu bisa dipaké dina intranet, sarta ngabogaan watesan hébat. Tulisan ieu henteu seueur ngabahas.
 
 Anu kadua nyaéta milarian téks lengkep hareup-tungtung murni.
 
-Paluruh téks lengkep hareup-tungtung anu ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) kalebet [lunrjs](https://lunrjs.com)
+Paluruh téks lengkep hareup-tungtung [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js dianggo kalebet [lunrjs](https://lunrjs.com)
 
-`lunrjs` Aya dua cara pikeun ngawangun indéks, tapi duanana gaduh masalah sorangan.
+`lunrjs` Aya dua cara pikeun ngawangun indéks, sareng duanana gaduh masalah sorangan.
 
 1. Pra-diwangun file indéks
 
@@ -38,6 +38,8 @@ Paluruh téks lengkep hareup-tungtung anu ElasticLunr.js [https://github.com/wei
 
    Ngawangun indéks mangrupa tugas komputasi intensif Rebuilding indéks unggal waktos Anjeun ngakses eta bakal ngabalukarkeun lags atra jeung pangalaman pamaké goréng.
 
+---
+
 Salian `lunrjs` , aya sababaraha solusi pilarian téks lengkep lianna, kayaning :
 
 [fusejs](https://www.fusejs.io) , itung kasaruaan antara senar pikeun milarian.
@@ -46,13 +48,13 @@ Kinerja leyuran ieu pisan goréng jeung teu bisa dipaké pikeun milarian full-t�
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , paké Bloom filter pikeun milarian, teu tiasa dianggo pikeun milarian awalan (contona, lebetkeun `goo` , milarian `good` , `google` ), sareng henteu tiasa ngahontal éfék lengkep otomatis anu sami.
 
-Kusabab sugema sareng kakurangan tina solusi anu tos aya, `i18n.site` ngembangkeun solusi milarian téks lengkep hareup-tungtung murni anyar, anu ngagaduhan fitur-fitur ieu :
+Kusabab kakurangan tina solusi anu aya, `i18n.site` ngembangkeun solusi milarian téks lengkep hareup-tungtung murni anu anyar, anu ngagaduhan ciri-ciri ieu :
 
 1. Ngarojong milarian multi-basa sareng ukuranana leutik Ukuran kernel milarian saatos bungkusan `gzip` nyaéta `6.9KB` (pikeun babandingan, ukuran `lunrjs` nyaéta `25KB` ).
 1. Ngawangun indéks inverted dumasar kana `indexedb` , nu nyokot memori kirang na gancang.
 1. Nalika dokumén ditambahkeun / dirobah, ngan dokumén ditambahkeun atawa dirobah nu ulang indéks, ngurangan jumlah itungan.
 1. Ngarojong milarian awalan sareng tiasa ningalikeun hasil pamilarian sacara real waktos nalika pangguna ngetik.
-1. Sadia offline
+1. Sadia Offline
 
 Di handap, `i18n.site` rinci palaksanaan teknis bakal diwanohkeun dina jéntré.
 
@@ -214,6 +216,6 @@ Lamun mintonkeun hasil teangan, ngaran bab bakal dipintonkeun jeung bab bakal na
 
 ## Nyimpulkeun
 
-Inverted pilarian full-téks dilaksanakeun murni dina tungtung hareup, kalawan respon gancang sarta teu merlukeun server a.
+Inverted pilarian full-téks dilaksanakeun murni dina tungtung hareup, euweuh server diperlukeun. Éta cocog pisan pikeun situs wéb leutik sareng sedeng sapertos dokumén sareng blog pribadi.
 
-Éta cocog pisan pikeun situs wéb leutik sareng sedeng sapertos dokumén sareng blog pribadi.
+`i18n.site` Open source pilarian hareup-tungtung murni anu dikembangkeun ku sorangan, ukuranana leutik sareng réspon gancang, ngarengsekeun kakurangan tina pamilarian téks lengkep hareup-tungtung murni ayeuna sareng nyayogikeun pangalaman pangguna anu langkung saé.

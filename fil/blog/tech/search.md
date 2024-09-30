@@ -6,27 +6,27 @@ Pagkatapos ng ilang linggo ng pag-develop, [i18n.site](//i18n.site) (isang puron
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-[i18n.site](//i18n.site) ng artikulong ito ang pagpapatupad ng `i18n.site` pure front-end na full-text na teknolohiya sa paghahanap.
+[i18n.site](//i18n.site) ng artikulong ito ang teknikal na pagpapatupad ng `i18n.site` puro front-end na full-text na paghahanap.
 
-Code open [source](//github.com/i18n-site/plugin/tree/main/qy) [search kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Code open source : [Search kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive na interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Isang Pangkalahatang-Ideya Ng Walang Server Na Full-Text Na Mga Solusyon Sa Paghahanap
 
-Para sa maliliit na website tulad ng mga dokumento/personal na blog na puro static, walang alinlangan na masyadong mabigat na bumuo ng isang full-text na backend sa paghahanap nang mag-isa, at ang buong-text na paghahanap na walang mga serbisyo ay walang alinlangan na mas mahusay na timbang.
+Para sa maliliit at katamtamang laki na puro static na mga website tulad ng mga dokumento/personal na blog, ang pagbuo ng self-built na full-text na backend sa paghahanap ay masyadong mabigat, at ang walang serbisyong full-text na paghahanap ay ang mas karaniwang pagpipilian.
 
-Ang mga umiiral nang serverless full-text na solusyon sa paghahanap ay nahahati sa dalawang malawak na kategorya.
+Ang mga walang server na full-text na solusyon sa paghahanap ay nahahati sa dalawang malawak na kategorya:
 
-Ang isa ay isang third-party na search service provider na katulad ng [algolia.com](//algolia.com) na nagbibigay ng front-end na full-text na mga bahagi ng paghahanap.
+Una, ang mga katulad na [algolia.com](//algolia.com)
 
-Ang mga naturang serbisyo ay nangangailangan ng pagbabayad at hindi available sa mga user sa mainland China dahil sa mga isyu sa pagsunod sa website.
+Ang mga naturang serbisyo ay nangangailangan ng pagbabayad batay sa dami ng paghahanap, at kadalasang hindi available sa mga user sa mainland China dahil sa mga isyu gaya ng pagsunod sa website.
 
 Hindi ito magagamit offline, hindi magagamit sa intranet, at may malaking limitasyon. Hindi gaanong tinatalakay ang artikulong ito.
 
 Ang pangalawa ay puro front-end na full-text na paghahanap.
 
-Ang ElasticLunr.js kilalang puro front-end na full-text na paghahanap [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) kinabibilangan ng [lunrjs](https://lunrjs.com)
+Kasama [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) mga karaniwang ginagamit na puro front-end na full-text na paghahanap ElasticLunr.js [lunrjs](https://lunrjs.com)
 
-`lunrjs` Mayroong dalawang mga paraan upang bumuo ng mga index, ngunit pareho ay may sariling mga problema.
+`lunrjs` Mayroong dalawang paraan upang bumuo ng mga index, at pareho silang may sariling mga problema.
 
 1. Pre-built index file
 
@@ -38,6 +38,8 @@ Ang ElasticLunr.js kilalang puro front-end na full-text na paghahanap [https://g
 
    Ang pagbuo ng index ay isang computationally intensive na gawain Ang muling pagbuo ng index sa tuwing maa-access mo ito ay magdudulot ng mga halatang lags at hindi magandang karanasan ng user.
 
+---
+
 Bilang karagdagan sa `lunrjs` , may ilang iba pang full-text na solusyon sa paghahanap, tulad ng :
 
 [fusejs](https://www.fusejs.io) , kalkulahin ang pagkakatulad sa pagitan ng mga string upang maghanap.
@@ -46,13 +48,13 @@ Ang pagganap ng solusyon na ito ay napakahina at hindi magagamit para sa buong t
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , gumamit ng Bloom filter upang maghanap, hindi magagamit para sa paghahanap ng prefix (halimbawa, ilagay ang `goo` , paghahanap `good` , `google` ), at hindi makakamit ang katulad na epekto ng awtomatikong pagkumpleto.
 
-Dahil sa kawalang-kasiyahan sa mga pagkukulang ng mga umiiral na solusyon, nakabuo `i18n.site` ng isang bagong solusyon sa paghahanap ng full-text na purong front-end, na may mga sumusunod na tampok :
+Dahil sa mga pagkukulang ng mga kasalukuyang solusyon, `i18n.site` ay nakabuo ng isang bagong purong front-end na full-text na solusyon sa paghahanap, na may mga sumusunod na katangian :
 
 1. Sinusuportahan ang paghahanap sa maraming wika at maliit ang laki Ang laki ng kernel ng paghahanap pagkatapos ng packaging `gzip` ay `6.9KB` (para sa paghahambing, ang laki ng `lunrjs` ay `25KB` ).
 1. Bumuo ng inverted index batay sa `indexedb` , na kumukuha ng mas kaunting memorya at mabilis.
 1. Kapag ang mga dokumento ay idinagdag/binago, tanging ang idinagdag o binagong mga dokumento lamang ang muling ini-index, na binabawasan ang dami ng mga kalkulasyon.
 1. Sinusuportahan ang paghahanap ng prefix at maaaring magpakita ng mga resulta ng paghahanap sa real time habang nagta-type ang user.
-1. Available offline
+1. Available Offline
 
 Sa ibaba, `i18n.site` detalye ng teknikal na pagpapatupad ang ipapakilala nang detalyado.
 
@@ -214,6 +216,6 @@ Kapag nagpapakita ng mga resulta ng paghahanap, ang pangalan ng kabanata ay ipap
 
 ## Ibuod
 
-Ang inverted full-text na paghahanap ay ipinatupad lamang sa front end, na may mabilis na tugon at hindi na kailangan ng server.
+Ang inverted full-text na paghahanap ay ipinatupad lamang sa front end, walang server na kinakailangan. Ito ay napaka-angkop para sa maliit at katamtamang laki ng mga website tulad ng mga dokumento at personal na blog.
 
-Ito ay napaka-angkop para sa maliit at katamtamang laki ng mga website tulad ng mga dokumento at personal na blog.
+`i18n.site` Open source na self-developed purong front-end na paghahanap, maliit sa laki at mabilis na pagtugon, nilulutas ang mga pagkukulang ng kasalukuyang purong front-end na full-text na paghahanap at nagbibigay ng mas magandang karanasan ng user.

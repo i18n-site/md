@@ -6,27 +6,27 @@ Baada ya majuma kadhaa ya maendeleo, [i18n.site](//i18n.site) (zana ya kujenga t
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Makala haya yatashiriki utekelezaji wa teknolojia `i18n.site` ya utafutaji wa maandishi kamili Tembelea [i18n.site](//i18n.site)
+Makala haya yatashiriki utekelezwaji wa kiufundi wa utafutaji `i18n.site` wa maandishi kamili wa mbele Tembelea [i18n.site](//i18n.site)
 
-Nambari ya chanzo [huria](//github.com/i18n-site/plugin/tree/main/qy) [ya utafutaji kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Chanzo wazi cha msimbo : [Tafuta kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Muhtasari Wa Suluhu Za Utafutaji Wa Maandishi Kamili Bila Seva
 
-Kwa tovuti ndogo kama vile hati/blogu za kibinafsi ambazo hazijatulia, bila shaka ni nzito sana kuunda utaftaji wa maandishi kamili peke yako, na utafutaji wa maandishi kamili bila huduma bila shaka ni uzito bora.
+Kwa tovuti ndogo na za kati zilizosimama tuli kama vile hati/blogu za kibinafsi, kujenga mandharinyuma ya utafutaji wa maandishi kamili iliyojijengea yenyewe ni nzito sana, na utafutaji wa maandishi kamili bila huduma ndio chaguo la kawaida zaidi.
 
-Ufumbuzi uliopo wa utaftaji wa maandishi kamili usio na seva huanguka katika kategoria mbili pana.
+Suluhu za utaftaji wa maandishi kamili bila seva ziko katika kategoria mbili pana:
 
-Mmoja ni mtoa huduma wa utafutaji wa wahusika wengine sawa na [algolia.com](//algolia.com) ambayo hutoa vipengele vya utafutaji wa maandishi kamili ya mbele.
+Kwanza, sawa [algolia.com](//algolia.com)
 
-Huduma kama hizo zinahitaji malipo na hazipatikani kwa watumiaji nchini Uchina kwa sababu ya masuala ya kufuata tovuti.
+Huduma kama hizo zinahitaji malipo kulingana na kiasi cha utafutaji, na mara nyingi hazipatikani kwa watumiaji nchini Uchina kwa sababu ya masuala kama vile kufuata tovuti.
 
 Haiwezi kutumika nje ya mtandao, haiwezi kutumika kwenye intraneti, na ina mapungufu makubwa. Makala hii haijadili sana.
 
 Ya pili ni utafutaji safi wa maandishi kamili ya mbele.
 
-Utafutaji safi wa mwisho-mwisho kamili unaojulikana ni [lunrjs](https://lunrjs.com) na [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Utafutaji wa maandishi kamili ElasticLunr.js kwa [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ni pamoja na [lunrjs](https://lunrjs.com)
 
-`lunrjs` Kuna njia mbili za kuunda faharisi, lakini zote zina shida zao.
+`lunrjs` Kuna njia mbili za kuunda faharisi, na zote zina shida zao.
 
 1. Faili za faharasa zilizoundwa mapema
 
@@ -38,6 +38,8 @@ Utafutaji safi wa mwisho-mwisho kamili unaojulikana ni [lunrjs](https://lunrjs.c
 
    Kuunda faharasa ni kazi kubwa ya kukokotoa Kuunda upya faharasa kila wakati unapoifikia kutasababisha uzembe wa dhahiri na uzoefu duni wa mtumiaji.
 
+---
+
 Kwa kuongezea `lunrjs` , kuna suluhisho zingine za utaftaji wa maandishi kamili, kama vile :
 
 [fusejs](https://www.fusejs.io) , hesabu kufanana kati ya mifuatano ya kutafuta.
@@ -46,13 +48,13 @@ Utendaji wa suluhisho hili ni duni sana na hauwezi kutumika kwa utafutaji wa maa
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , tumia kichujio cha Bloom kutafuta, haiwezi kutumika kwa utafutaji wa kiambishi awali (kwa mfano, ingiza `goo` , tafuta `good` , `google` ), na haiwezi kufikia athari sawa ya kukamilisha otomatiki.
 
-Kwa kutoridhishwa na mapungufu ya masuluhisho yaliyopo, `i18n.site` alitengeneza suluhisho jipya la utafutaji wa maandishi kamili ya mbele, ambalo lina vipengele vifuatavyo :
+Kwa sababu ya mapungufu ya ufumbuzi uliopo, `i18n.site` imetengeneza ufumbuzi mpya wa utafutaji wa maandishi kamili wa mbele, ambao una sifa zifuatazo :
 
 1. Inaauni utaftaji wa lugha nyingi na ni ndogo kwa saizi saizi ya kerneli ya utaftaji baada ya ufungaji `gzip` ni `6.9KB` (kwa kulinganisha, saizi ya `lunrjs` ni `25KB` )
 1. Unda faharasa iliyogeuzwa kulingana na `indexedb` , ambayo inachukua kumbukumbu kidogo na ni ya haraka.
 1. Nyaraka zinapoongezwa/kurekebishwa, ni hati zilizoongezwa au zilizorekebishwa pekee ndizo zinazoonyeshwa upya, na hivyo kupunguza kiasi cha mahesabu.
 1. Inaauni utafutaji wa kiambishi awali na inaweza kuonyesha matokeo ya utafutaji kwa wakati halisi wakati mtumiaji anaandika.
-1. Inapatikana nje ya mtandao
+1. Inapatikana Nje Ya Mtandao
 
 Hapo chini, maelezo `i18n.site` ya utekelezaji wa kiufundi yatawasilishwa kwa undani.
 
@@ -140,7 +142,7 @@ rindexPush = pusher()
 prefixPush = pusher()
 ```
 
-## Tafuta Kwa Wakati Halisi
+## Kiambishi Awali Cha Utafutaji Wa Wakati Halisi
 
 Ili kuonyesha matokeo ya utafutaji mtumiaji anapoandika, kwa mfano, `wor` inapoingizwa, maneno yaliyowekwa awali na `wor` kama vile `words` na `work` yanaonyeshwa.
 
@@ -214,6 +216,6 @@ Wakati wa kuonyesha matokeo ya utafutaji, jina la sura litaonyeshwa na sura itas
 
 ## Fanya Muhtasari
 
-Utafutaji uliogeuzwa wa maandishi kamili umetekelezwa tu kwenye ncha ya mbele, yenye majibu ya haraka na hakuna haja ya seva.
+Utafutaji uliogeuzwa wa maandishi kamili umetekelezwa kwenye sehemu ya mbele pekee, hakuna seva inayohitajika. Inafaa sana kwa tovuti ndogo na za kati kama vile hati na blogu za kibinafsi.
 
-Inafaa sana kwa tovuti ndogo na za kati kama vile hati na blogu za kibinafsi.
+`i18n.site` Chanzo huria, utafutaji safi wa mwisho wa mbele, mdogo kwa ukubwa na majibu ya haraka, hutatua mapungufu ya utafutaji wa sasa wa maandishi kamili ya mbele na hutoa uzoefu bora wa mtumiaji.

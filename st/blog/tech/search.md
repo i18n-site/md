@@ -6,27 +6,27 @@ Kamora libeke tse 'maloa tsa nts'etsopele [i18n.site](//i18n.site) (sesebelisoa 
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Sengoliloeng [i18n.site](//i18n.site) se tla arolelana ts'ebetsong ea theknoloji ea `i18n.site` e felletseng ea ho batla.
+Sengoliloeng sena se tla arolelana ts'ebetso ea botekgeniki ea `i18n.site` search-end-end-full-end [i18n.site](//i18n.site) ho ba le phello ea ho batla.
 
-[Khoutu](//github.com/i18n-site/plugin/tree/main/qy) ea mohloli o bulehileng [oa ho batla kernel](//github.com/i18n-site/ie/tree/main/qy) /
+Khoutu mohloli o : [kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Kakaretso Ea Litharollo Tsa Patlo Ea Mongolo O Felletseng Ntle Le Seva
 
-Bakeng sa liwebsaete tse nyane tse joalo ka litokomane / li-blog tsa hau tse sa fetoheng, ha ho pelaelo hore ho boima haholo ho iketsetsa lipatlisiso tsa mongolo o felletseng u le mong, 'me ho batla mongolo o felletseng ntle le lits'ebeletso ntle ho pelaelo ke boima bo betere.
+Bakeng sa liwebsaete tse nyane le tse mahareng tse sa fetoheng joalo ka litokomane / li-blog tsa motho, ho aha mokhoa oa ho batla oa mongolo o felletseng o boima haholo, 'me ho batla mongolo o felletseng ntle le litšebeletso ke khetho e tloaelehileng.
 
-Litharollo tse teng tse teng tsa ho batla mongolo o felletseng li oela likarolong tse peli tse pharaletseng.
+Litharollo tsa patlo ea mongolo o felletseng ntle le seva li oela ka mekhahlelo e 'meli e pharaletseng:
 
-E 'ngoe ke mofani oa litšebeletso tsa patlo oa mokha oa boraro ea ts'oanang le [algolia.com](//algolia.com) e fanang ka likarolo tsa lipatlisiso tsa mongolo o felletseng.
+Taba ea pele, tse tšoanang [algolia.com](//algolia.com)
 
-Litšebeletso tse joalo li hloka tefo 'me ha li fumanehe ho basebelisi ba naha ea China ka lebaka la litaba tsa ho latela melao ea sebaka sa marang-rang.
+Litšebeletso tse joalo li hloka tefo ho ipapisitsoe le bongata ba patlo, 'me hangata ha li fumanehe ho basebelisi ba China ka lebaka la litaba tse kang ho latela melao ea sebaka sa marang-rang.
 
 E ke ke ea sebelisoa ntle le marang-rang, e ke ke ea sebelisoa ho intranet, 'me e na le meeli e mengata. Sengoliloeng sena ha se bue haholo.
 
 Ea bobeli ke patlo e felletseng ea mongolo.
 
-Lipatlisiso tse tsebahalang haholo tsa mongolo [lunrjs](https://lunrjs.com) felletseng li kenyelletsa [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Lipatlisiso tsa mongolo o felletseng tse [lunrjs](https://lunrjs.com) hangata li kenyelletsa [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Ho na le mekhoa e 'meli ea ho theha li-index, empa ka bobeli li na le mathata a tsona.
+`lunrjs` Ho na le mekhoa e 'meli ea ho theha li-index,' me ka bobeli li na le mathata a tsona.
 
 1. Lifaele tsa index tse hahiloeng esale pele
 
@@ -38,6 +38,8 @@ Lipatlisiso tse tsebahalang haholo tsa mongolo [lunrjs](https://lunrjs.com) fell
 
    Ho aha index ke mosebetsi o boima haholo oa ho aha index nako le nako ha u fihla ho eona ho tla baka pherekano e hlakileng le boiphihlelo bo bobe ba mosebelisi.
 
+---
+
 Ntle le `lunrjs` , ho na le litharollo tse ling tsa ho batla mongolo ka botlalo, joalo ka :
 
 [fusejs](https://www.fusejs.io) , bala ho tšoana pakeng tsa likhoele ho batla.
@@ -46,13 +48,13 @@ Ts'ebetso ea tharollo ena e mpe haholo 'me e ke ke ea sebelisoa ho batla mongolo
 
 [TinySearch](https://github.com/tinysearch/tinysearch) sebelisa Bloom filter ho batla, e ke ke ea sebelisoa bakeng sa ho batla sehlohlolong (mohlala, kenya `goo` , batla `good` , `google` ), 'me e ke ke ea finyella phello e tšoanang ea ho qetela.
 
-Ka lebaka la ho se khotsofatsoe ke mefokolo ea litharollo tse teng, `i18n.site` ile a hlahisa tharollo e ncha e hloekileng ea ho batla mongolo o felletseng, e nang le likarolo tse latelang :
+Ka lebaka la mefokolo ea litharollo tse teng, `i18n.site` ile a hlahisa tharollo e ncha e hloekileng ea ho batla mongolo o felletseng, e nang le litšobotsi tse latelang :
 
 1. E ts'ehetsa patlo ea lipuo tse ngata `gzip` me e nyane `6.9KB` `25KB` `lunrjs`
 1. Theha index e sothehileng e thehiloeng ho `indexedb` , e nkang mohopolo o fokolang mme e potlakile.
 1. Ha litokomane li eketsoa / li fetotsoe, ke litokomane tse ekelitsoeng kapa tse fetotsoeng feela tse bonts'itsoeng hape, ho fokotsa palo ea lipalo.
 1. E ts'ehetsa patlo ea prefix, e ka bonts'ang liphetho tsa lipatlisiso ka nako ea nnete ha mosebelisi a ntse a ngola.
-1. E fumaneha ntle le inthanete
+1. E Fumaneha Ntle Le Inthanete
 
 Ka tlase, lintlha `i18n.site` tsa ts'ebetsong ea tekheniki li tla hlahisoa ka botlalo.
 
@@ -214,6 +216,6 @@ Ha o hlahisa liphetho tsa lipatlisiso, lebitso la khaolo le tla hlahisoa 'me kha
 
 ## Akaretsa
 
-Patlo ea mongolo o felletseng e kentsoeng qalong feela, ka karabelo e potlakileng, 'me ha e hloke seva.
+Patlo ea mongolo o felletseng e kentsoeng pheletsong e ka pele, ha ho na seva e hlokahalang. E loketse haholo bakeng sa liwebsaete tse nyenyane le tse mahareng tse kang litokomane le li-blogs tsa botho.
 
-E loketse haholo bakeng sa liwebsaete tse nyane le tse mahareng tse kang litokomane le li-blog tsa motho.
+`i18n.site` Mohloli o bulehileng o iketselitseng patlo e ka pele, e nyane ka boholo le karabelo e potlakileng, e rarolla mefokolo ea patlo ea hajoale e hlakileng ea mongolo o felletseng mme e fana ka boiphihlelo bo betere ba basebelisi.

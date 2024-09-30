@@ -6,27 +6,27 @@ Apre plizyè semèn nan devlopman [i18n.site](//i18n.site) (yon zouti ki piman e
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Atik sa a pral pataje aplikasyon `i18n.site` pi bon kalite rechèch tèks konplè Vizite [i18n.site](//i18n.site)
+Atik sa a pral pataje aplikasyon teknik `i18n.site` pi bon kalite rechèch plen tèks [i18n.site](//i18n.site) fè eksperyans efè rechèch la.
 
-Kod ouvè [rechèch](//github.com/i18n-site/ie/tree/main/qy) [koòdone](//github.com/i18n-site/plugin/tree/main/qy) /
+Kòd louvri : [rechèch kernel](//github.com/i18n-site/ie/tree/main/qy) / [entèaktif](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Yon Apèsi Sou Solisyon Rechèch Plen Tèks San Sèvè
 
-Pou ti sit entènèt tankou dokiman / blog pèsonèl ki piman estatik, li san dout twò lou pou konstwi yon backend rechèch plen tèks poukont ou, ak rechèch tèks konplè san sèvis se san dout yon pi bon pwa.
+Pou ti ak mwayen gwosè sit entènèt piman estatik tankou dokiman/blog pèsonèl, bati yon backend rechèch plen tèks pwòp tèt ou twò lou, ak rechèch konplè tèks gratis se chwa ki pi komen.
 
-Solisyon rechèch tèks konplè ki egziste deja yo tonbe nan de kategori.
+Solisyon rechèch plen tèks san sèvè yo tonbe nan de gwo kategori:
 
-Youn nan se yon founisè sèvis rechèch twazyèm pati ki sanble ak [algolia.com](//algolia.com) ki bay eleman rechèch plen tèks devan yo.
+Premyèman, menm jan an [algolia.com](//algolia.com) Founisè sèvis rechèch twazyèm pati yo bay eleman front-end pou rechèch tèks konplè.
 
-Sèvis sa yo mande pou peman epi yo pa disponib pou itilizatè yo nan tè pwensipal Lachin akòz pwoblèm konfòmite sit entènèt.
+Sèvis sa yo mande pou peman ki baze sou volim rechèch, epi yo souvan pa disponib pou itilizatè yo nan tè pwensipal Lachin akòz pwoblèm tankou konfòmite sit entènèt.
 
 Li pa ka itilize offline, pa ka itilize sou intranet la, epi li gen gwo limit. Atik sa a pa pale anpil.
 
 Dezyèm lan se pi bon kalite rechèch plen tèks.
 
-Rechèch tèks konplè pi byen koni yo genyen ladan [lunrjs](https://lunrjs.com) ak [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Rechèch tèks konplè yo itilize souvan gen ladan [lunrjs](https://lunrjs.com) ak [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Gen de fason pou konstwi endis, men tou de gen pwòp pwoblèm yo.
+`lunrjs` Gen de fason pou konstwi endis, epi tou de gen pwoblèm pwòp yo.
 
 1. Fichye endèks pre-bati
 
@@ -38,6 +38,8 @@ Rechèch tèks konplè pi byen koni yo genyen ladan [lunrjs](https://lunrjs.com)
 
    Konstwi yon endèks se yon travay entansif enfòmatik.
 
+---
+
 Anplis `lunrjs` , gen kèk lòt solisyon rechèch plen tèks, tankou :
 
 [fusejs](https://www.fusejs.io) , kalkile resanblans ki genyen ant fisèl pou fè rechèch.
@@ -46,13 +48,13 @@ Pèfòmans solisyon sa a se ekstrèmman pòv epi yo pa ka itilize pou rechèch t
 
 [TinySearch](https://github.com/tinysearch/tinysearch) sèvi ak Bloom filtre pou fè rechèch, pa ka itilize pou rechèch prefiks (pa egzanp, antre `goo` , rechèch `good` , `google` ), epi yo pa ka reyalize menm efè fini otomatik.
 
-Soti nan mekontantman ak enpèfeksyon yo nan solisyon ki deja egziste, `i18n.site` devlope yon nouvo pi bon kalite solisyon rechèch plen-tèks devan, ki gen karakteristik sa yo :
+Akòz enpèfeksyon yo nan solisyon yo ki deja egziste, `i18n.site` te devlope yon nouvo pi bon kalite solisyon rechèch plen-tèks devan, ki gen karakteristik sa yo :
 
 1. Sipòte rechèch milti-lang epi li se ti gwosè a nan nwayo rechèch la apre anbalaj `gzip` se `6.9KB` (pou konparezon, gwosè a nan `lunrjs` se `25KB` ).
 1. Bati yon endèks Envèse ki baze sou `indexedb` , ki pran mwens memwa epi li rapid.
 1. Lè dokiman yo ajoute/modifye, se sèlman dokiman ki ajoute oswa modifye yo re-endèks, sa ki diminye kantite kalkil yo.
 1. Sipòte rechèch prefiks, ki ka montre rezilta rechèch an tan reyèl pandan itilizatè a ap tape.
-1. Disponib offline
+1. Disponib Offline
 
 Anba a, `i18n.site` detay aplikasyon teknik yo pral prezante an detay.
 
@@ -214,6 +216,6 @@ Lè w ap montre rezilta rechèch la, yo pral montre non chapit la epi yo pral na
 
 ## Rezime
 
-Envèse rechèch tèks konplè aplike piman sou fen devan an, ak repons rapid epi pa bezwen yon sèvè.
+Envèse rechèch konplè tèks aplike piman sou fen devan an, pa gen okenn sèvè obligatwa. Li trè apwopriye pou sit entènèt ti ak mwayen gwosè tankou dokiman ak blog pèsonèl.
 
-Li trè apwopriye pou sit entènèt ti ak mwayen gwosè tankou dokiman ak blog pèsonèl.
+`i18n.site` Sous louvri pwòp tèt-devlope pi bon kalite rechèch devan-end, ti nan gwosè ak repons rapid, rezoud enpèfeksyon yo nan rechèch aktyèl la pi devan-fen plen tèks epi li bay yon pi bon eksperyans itilizatè.

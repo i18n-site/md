@@ -6,27 +6,27 @@ Nei ferskate wiken fan ûntwikkeling, stipet [i18n.site](//i18n.site) (in puur s
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Dit artikel sil de ymplemintaasje diele fan `i18n.site` pure front-end-syktechnology [i18n.site](//i18n.site) Jo kinne it sykeffekt ûnderfine.
+Dit artikel sil de technyske ymplemintaasje diele fan `i18n.site` pure front-end-sykjen [i18n.site](//i18n.site) om it sykeffekt te belibjen.
 
-Koade [iepen](//github.com/i18n-site/plugin/tree/main/qy) boarne [sykkernel](//github.com/i18n-site/ie/tree/main/qy) /
+Koade iepen : [Sykje kernel](//github.com/i18n-site/ie/tree/main/qy) / [Ynteraktive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## In Oersjoch Fan Serverless Folsleine-Tekst Sykoplossingen
 
-Foar lytse websiden lykas dokuminten/persoanlike blogs dy't suver statysk binne, is it sûnder mis te swier om sels in folsleine-tekst sykaksje te bouwen, en folsleine tekstsykjen sûnder tsjinsten is sûnder mis in better gewicht.
+Foar lytse en middelgrutte suver statyske websiden lykas dokuminten/persoanlike blogs, is it bouwen fan in selsboude folsleine-tekst sykbackend te swier, en tsjinstfrij folsleine-tekstsykjen is de meast foarkommende kar.
 
-Besteande serverless folsleine-tekst sykoplossingen falle yn twa brede kategoryen.
+Serverless folsleine-tekst sykoplossingen falle yn twa brede kategoryen:
 
-Ien is in syktsjinstprovider fan tredden fergelykber mei [algolia.com](//algolia.com) dy't front-end folsleine-tekst sykkomponinten leveret.
+As earste, [algolia.com](//algolia.com) syktsjinstproviders fan tredden leverje front-end-komponinten foar sykjen yn folsleine tekst.
 
-Sokke tsjinsten fereaskje betelling en binne net beskikber foar brûkers op it fêstelân fan Sina fanwegen problemen mei webside neilibjen.
+Sokke tsjinsten fereaskje betelling basearre op sykfolume, en binne faak net beskikber foar brûkers op it fêstelân fan Sina fanwege problemen lykas webside neilibjen.
 
 It kin net offline brûkt wurde, kin net brûkt wurde op it yntranet, en hat grutte beheiningen. Dit artikel besprekt net folle.
 
 De twadde is suver front-end full-text sykopdracht.
 
-De mear bekende pure front-end folsleine-tekst sykopdrachten [lunrjs](https://lunrjs.com) en [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Faak brûkte pure front-end folsleine-tekst sykopdrachten [lunrjs](https://lunrjs.com) en [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` D'r binne twa manieren om yndeksen te bouwen, mar beide hawwe har eigen problemen.
+`lunrjs` D'r binne twa manieren om yndeksen te bouwen, en beide hawwe har eigen problemen.
 
 1. Pre-boud yndeks triemmen
 
@@ -38,6 +38,8 @@ De mear bekende pure front-end folsleine-tekst sykopdrachten [lunrjs](https://lu
 
    It bouwen fan in yndeks is in berekkening yntinsive taak It opbouwen fan de yndeks eltse kear as jo tagong ta it sil foar de hân lizzende lags en minne brûkersûnderfining.
 
+---
+
 Neist `lunrjs` binne d'r wat oare oplossingen foar folsleine tekstsykjen, lykas :
 
 [fusejs](https://www.fusejs.io) , berekkenje de oerienkomst tusken strings om te sykjen.
@@ -46,13 +48,13 @@ De prestaasjes fan dizze oplossing binne ekstreem min en kinne net brûkt wurde 
 
 [TinySearch](https://github.com/tinysearch/tinysearch) brûke Bloom-filter om te sykjen, kin net brûkt wurde foar prefix-sykjen (fiere bygelyks `goo` , sykje `good` , `google` ), en kin gjin ferlykber automatysk foltôgingseffekt berikke.
 
-Ut ûntefredenens oer de tekoartkommingen fan besteande oplossingen, ûntwikkele `i18n.site` in nije suvere front-end folsleine-tekst sykaksje, dy't de folgjende funksjes hat :
+Fanwegen de tekortkomingen fan 'e besteande oplossingen hat `i18n.site` in nije suvere front-end folsleine-tekst sykoplossing ûntwikkele, dy't de folgjende skaaimerken hat :
 
 1. Unterstützt sykjen yn mear talen en is `6.9KB` `gzip` `25KB` `lunrjs`
 1. Bou in omkearde yndeks basearre op `indexedb` , dy't minder ûnthâld nimt en fluch is.
 1. As dokuminten wurde tafoege/wizige, wurde allinich de tafoege of wizige dokuminten opnij yndeksearre, wat it oantal berekkeningen ferminderje.
 1. Unterstützt sykjen nei foarheaksels en kin sykresultaten yn realtime werjaan wylst de brûker oan it typen is.
-1. Offline beskikber
+1. Offline Beskikber
 
 Hjirûnder sille `i18n.site` technyske ymplemintaasjedetails yn detail wurde yntrodusearre.
 
@@ -214,6 +216,6 @@ By it werjaan fan sykresultaten sil de haadstiknamme wurde werjûn en it haadsti
 
 ## Gearfetsje
 
-Omkearde sykopdracht mei folsleine tekst ymplementearre suver op 'e foarkant, mei rappe reaksje en gjin ferlet fan in tsjinner.
+Omkearde sykopdracht yn folsleine tekst ymplementearre puur op 'e foarkant, gjin server nedich. It is tige geskikt foar lytse en middelgrutte websiden lykas dokuminten en persoanlike blogs.
 
-It is tige geskikt foar lytse en middelgrutte websiden lykas dokuminten en persoanlike blogs.
+`i18n.site` Iepen boarne sels-ûntwikkele suvere front-end-sykjen, lyts yn grutte en rappe reaksje, lost de tekortkomingen op fan 'e hjoeddeistige pure front-end folsleine-tekstsykjen en leveret in bettere brûkersûnderfining.

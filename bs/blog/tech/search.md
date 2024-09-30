@@ -6,27 +6,27 @@ Nakon nekoliko sedmica razvoja, [i18n.site](//i18n.site) (čisto statičan markd
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Ovaj članak će podijeliti implementaciju `i18n.site` čiste front-end tehnologije pretraživanja. Posjetite [i18n.site](//i18n.site)
+Ovaj članak će podijeliti tehničku implementaciju `i18n.site` čistog front-end pretraživanja. Posjetite [i18n.site](//i18n.site)
 
-[Interaktivni interfejs](//github.com/i18n-site/plugin/tree/main/qy) [za pretraživanje](//github.com/i18n-site/ie/tree/main/qy) koda /
+Kod otvorenog : [Pretraživanje kernela](//github.com/i18n-site/ie/tree/main/qy) / [Interaktivni interfejs](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Pregled Rješenja Za Pretraživanje Punog Teksta Bez Servera
 
-Za male web stranice kao što su dokumenti/lični blogovi koji su čisto statični, nesumnjivo je previše teško sami izgraditi backend za pretraživanje punog teksta, a pretraživanje punog teksta bez usluga je nesumnjivo bolja težina.
+Za male i srednje čisto statične web stranice kao što su dokumenti/lični blogovi, izgradnja pozadinskog dijela pretraživanja punog teksta koji je sam napravio je preteška, a pretraživanje punog teksta bez usluga je češći izbor.
 
-Postojeća rješenja za pretraživanje punog teksta bez servera spadaju u dvije široke kategorije.
+Rešenja za pretraživanje punog teksta bez servera spadaju u dvije široke kategorije:
 
-Jedan je dobavljač usluge pretraživanja treće strane sličan [algolia.com](//algolia.com) koji pruža komponente za pretraživanje punog teksta na front-endu.
+Prvo, [algolia.com](//algolia.com) provajderi usluga pretraživanja treće strane pružaju prednje komponente za pretraživanje punog teksta.
 
-Takve usluge zahtijevaju plaćanje i nisu dostupne korisnicima u kontinentalnoj Kini zbog problema s usklađenošću web stranice.
+Takve usluge zahtijevaju plaćanje na osnovu obima pretraživanja i često su nedostupne korisnicima u kontinentalnoj Kini zbog problema kao što je usklađenost web stranice.
 
 Ne može se koristiti van mreže, ne može se koristiti na intranetu i ima velika ograničenja. Ovaj članak ne raspravlja mnogo.
 
 Drugi je čista front-end pretraga cijelog teksta.
 
-Više poznatih čistih front-end pretraživanja cijelog teksta uključuju [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Često korištena čista front-end pretraživanja cijelog teksta uključuju [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Postoje dva načina za pravljenje indeksa, ali oba imaju svoje probleme.
+`lunrjs` Postoje dva načina za pravljenje indeksa, i oba imaju svoje probleme.
 
 1. Unaprijed izgrađeni indeksni fajlovi
 
@@ -38,6 +38,8 @@ Više poznatih čistih front-end pretraživanja cijelog teksta uključuju [lunrj
 
    Izgradnja indeksa je računski intenzivan zadatak. Ponovna izgradnja indeksa svaki put kada mu pristupite prouzročit će očigledna kašnjenja i loše korisničko iskustvo.
 
+---
+
 Osim `lunrjs` , postoje još neka rješenja za pretraživanje cijelog teksta, kao što je :
 
 [fusejs](https://www.fusejs.io) izračunajte sličnost između nizova za pretraživanje.
@@ -46,13 +48,13 @@ Performanse ovog rješenja su izuzetno loše i ne mogu se koristiti za pretraži
 
 , koristite Bloom filter za pretragu, ne može se koristiti za pretragu po prefiksu (na primjer, unesite `goo` [TinySearch](https://github.com/tinysearch/tinysearch) pretražite `good` , `google` ) i ne može postići sličan efekat automatskog završetka.
 
-Zbog nezadovoljstva nedostacima postojećih rješenja, `i18n.site` je razvio novo čisto front-end rješenje za pretraživanje punog teksta, koje ima sljedeće karakteristike :
+Zbog nedostataka postojećih rješenja, `i18n.site` je razvio novo čisto front-end rješenje za pretraživanje punog teksta, koje ima sljedeće karakteristike :
 
 1. Podržava višejezičnu pretragu i male je veličine. Veličina kernela za pretragu nakon pakovanja `gzip` je `6.9KB` (za poređenje, veličina `lunrjs` je `25KB` ).
 1. Napravite obrnuti indeks zasnovan na `indexedb` , koji zauzima manje memorije i brz je.
 1. Kada se dokumenti dodaju/modificiraju, samo dodani ili izmijenjeni dokumenti se ponovo indeksiraju, smanjujući količinu proračuna.
 1. Podržava pretragu po prefiksu, koja može prikazati rezultate pretraživanja u realnom vremenu dok korisnik kuca.
-1. Dostupno van mreže
+1. Dostupno Van Mreže
 
 U nastavku će biti detaljno predstavljeno `i18n.site` tehničkih detalja implementacije.
 
@@ -214,6 +216,6 @@ Prilikom prikaza rezultata pretrage, naziv poglavlja će biti prikazan i poglavl
 
 ## Rezimiraj
 
-Obrnuto pretraživanje punog teksta implementirano isključivo na prednjem dijelu, sa brzim odgovorom i bez potrebe za serverom.
+Obrnuto pretraživanje punog teksta implementirano isključivo na prednjem dijelu, nije potreban server. Vrlo je pogodan za male i srednje web stranice kao što su dokumenti i lični blogovi.
 
-Vrlo je pogodan za male i srednje web stranice kao što su dokumenti i lični blogovi.
+`i18n.site` Samorazvijeno čisto front-end pretraživanje otvorenog koda, male veličine i brzog odziva, rješava nedostatke trenutnog čistog front-end pretraživanja punog teksta i pruža bolje korisničko iskustvo.

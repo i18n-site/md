@@ -6,27 +6,27 @@ Na 'n paar weke van ontwikkeling, ondersteun [i18n.site](//i18n.site) ('n suiwer
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Hierdie artikel sal die implementering van `i18n.site` suiwer front-end-volteks-soektegnologie deel. Besoek [i18n.site](//i18n.site)
+Hierdie artikel sal die tegniese implementering van `i18n.site` suiwer voorkant-voltekssoektog deel [i18n.site](//i18n.site) die soekeffek te ervaar.
 
-Kode [oopbron](//github.com/i18n-site/plugin/tree/main/qy) - [soekkern](//github.com/i18n-site/ie/tree/main/qy) /
+Kode oopbron : [Soek kern](//github.com/i18n-site/ie/tree/main/qy) / [Interaktiewe koppelvlak](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## 'n Oorsig Van Bedienerlose Volteks Soekoplossings
 
-Vir klein webwerwe soos dokumente/persoonlike blogs wat suiwer staties is, is dit ongetwyfeld te swaar om self 'n volteks soektog agterkant te bou, en volteks soektog sonder dienste is ongetwyfeld 'n beter gewig.
+Vir klein en mediumgrootte suiwer statiese webwerwe soos dokumente/persoonlike blogs, is dit te swaar om 'n selfgeboude voltekssoektog-agtergrond te bou, en diensvrye voltekssoektog is die meer algemene keuse.
 
-Bestaande bedienerlose volteks soekoplossings val in twee breë kategorieë.
+Bedienerlose volteks soekoplossings val in twee breë kategorieë:
 
-Een is 'n derdeparty-soekdiensverskaffer soortgelyk aan [algolia.com](//algolia.com) wat volledige tekssoekkomponente aan die voorkant verskaf.
+Eerstens, [algolia.com](//algolia.com) derdeparty-soekdiensverskaffers verskaf front-end-komponente vir voltekssoektog.
 
-Sulke dienste vereis betaling en is nie beskikbaar vir gebruikers op die vasteland van China nie as gevolg van kwessies oor die voldoening aan die webwerf.
+Sulke dienste vereis betaling gebaseer op soekvolume, en is dikwels nie beskikbaar vir gebruikers op die vasteland van China nie weens kwessies soos webwerf-nakoming.
 
 Dit kan nie vanlyn gebruik word nie, kan nie op die intranet gebruik word nie, en het groot beperkings. Hierdie artikel bespreek nie veel nie.
 
 Die tweede is suiwer front-end volteks soektog.
 
-Die meer bekende suiwer front-end volteks soektogte sluit [lunrjs](https://lunrjs.com) en [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Algemeen gebruikte suiwer voorkant-voltekssoektogte sluit [lunrjs](https://lunrjs.com) en [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Daar is twee maniere om indekse te bou, maar albei het hul eie probleme.
+`lunrjs` Daar is twee maniere om indekse te bou, en albei het hul eie probleme.
 
 1. Voorafgeboude indekslêers
 
@@ -38,6 +38,8 @@ Die meer bekende suiwer front-end volteks soektogte sluit [lunrjs](https://lunrj
 
    Die bou van 'n indeks is 'n berekeningsintensiewe taak Om die indeks te herbou elke keer as jy dit ingaan, sal duidelike vertragings en swak gebruikerservaring veroorsaak.
 
+---
+
 Benewens `lunrjs` , is daar 'n paar ander volteks soekoplossings, soos :
 
 [fusejs](https://www.fusejs.io) bereken die ooreenkoms tussen stringe om te soek.
@@ -46,13 +48,13 @@ Die werkverrigting van hierdie oplossing is uiters swak en kan nie vir volteksso
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , gebruik Bloom-filter om te soek, kan nie vir voorvoegselsoektog gebruik word nie (tik byvoorbeeld `goo` , soek `good` , `google` ), en kan nie soortgelyke outomatiese voltooiingseffek bereik nie.
 
-Uit ontevredenheid met die tekortkominge van bestaande oplossings, het `i18n.site` 'n nuwe suiwer front-end volteks soekoplossing ontwikkel, wat die volgende kenmerke het :
+As gevolg van die tekortkominge van die bestaande oplossings, het `i18n.site` 'n nuwe suiwer front-end volteks soekoplossing ontwikkel, wat die volgende kenmerke het :
 
 1. Ondersteun multi-taal soektog en is klein in grootte Die grootte van die soek kern na verpakking `gzip` is `6.9KB` (ter vergelyking, die grootte van `lunrjs` is `25KB` ).
 1. Bou 'n omgekeerde indeks gebaseer op `indexedb` , wat minder geheue opneem en vinnig is.
 1. Wanneer dokumente bygevoeg/gewysig word, word slegs die bygevoegde of gewysigde dokumente weer geïndekseer, wat die hoeveelheid berekeninge verminder.
 1. Ondersteun voorvoegselsoektog, wat soekresultate intyds kan vertoon terwyl die gebruiker tik.
-1. Vanlyn beskikbaar
+1. Vanlyn Beskikbaar
 
 Hieronder sal `i18n.site` tegniese implementeringbesonderhede in detail bekendgestel word.
 
@@ -214,6 +216,6 @@ Wanneer soekresultate vertoon word, sal die hoofstuknaam vertoon word en die hoo
 
 ## Som Op
 
-Omgekeerde voltekssoektog wat suiwer aan die voorkant geïmplementeer is, met vinnige reaksie en geen behoefte aan 'n bediener nie.
+Omgekeerde voltekssoektog wat suiwer aan die voorkant geïmplementeer is, geen bediener benodig nie. Dit is baie geskik vir klein en medium-grootte webwerwe soos dokumente en persoonlike blogs.
 
-Dit is baie geskik vir klein en medium-grootte webwerwe soos dokumente en persoonlike blogs.
+`i18n.site` Oopbron self-ontwikkelde suiwer front-end soektog, klein in grootte en vinnige reaksie, los die tekortkominge van die huidige suiwer front-end volteks soektog op en bied 'n beter gebruikerservaring.

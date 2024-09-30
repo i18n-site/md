@@ -6,27 +6,27 @@ Kalpasan ti sumagmamano a lawas ti panagrang-ay, [i18n.site](//i18n.site) (maysa
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Daytoy nga artikulo ket mangibinglay ti pannakaipatungpal ti `i18n.site` puro a front-end a naan-anay a teksto a teknolohia Bisitaen [i18n.site](//i18n.site)
+Daytoy nga artikulo ket mangibinglay ti teknikal a pannakaipatungpal ti `i18n.site` a puro a front-end a naan-anay a teksto a panagbiruk tapno [i18n.site](//i18n.site) ti epekto ti panagbiruk.
 
-Kodigo ti open source [search kernel](//github.com/i18n-site/ie/tree/main/qy) / [nga interface](//github.com/i18n-site/plugin/tree/main/qy)
+Kodigo [ti](//github.com/i18n-site/ie/tree/main/qy) / [source](//github.com/i18n-site/plugin/tree/main/qy) :
 
 ## Ti Pakabuklan Dagiti Serverless a Solusion Ti Panagbiruk Ti Naan-Anay a Teksto
 
-Para kadagiti babassit a website a kas dagiti dokumento/personal a blog a puro nga estatiko, awan duadua a nadagsen unay ti mangbangon iti naan-anay a teksto a panagbiruk a backend a bukodmo, ken ti naan-anay a teksto a panagbiruk nga awan dagiti serbisio ket awan duadua a nasaysayaat a dagsen.
+Para kadagiti babassit ken kalalainganna ti kadakkelda a puro nga estatiko a website a kas dagiti dokumento/personal a blog, ti panagbangon ti bukod a naibangon a naan-anay a teksto a panagbiruk a backend ket nadagsen unay, ken ti nawaya a serbisio a naan-anay a teksto a panagbiruk ket isu ti ad-adu a gagangay a pili.
 
-Dagiti agdama nga awan serverna a solusion ti panagbiruk ti naan-anay a teksto ket mairaman iti dua a nalawa a kategoria.
+Dagiti awan serbidor a solusion ti panagbiruk ti naan-anay a teksto ket mairaman iti dua a nalawa a kategoria:
 
-Maysa ket ti maikatlo a partido a mangipapaay ti serbisio ti panagbiruk a kapada ti [algolia.com](//algolia.com) a mangipaay kadagiti paset ti panagbiruk ti front-end a naan-anay a teksto.
+Umuna, dagiti kapada [algolia.com](//algolia.com) Dagiti mangipapaay ti serbisio ti panagbiruk ti maikatlo a partido ket mangipaay kadagiti paset ti sango para iti panagbiruk ti naan-anay a teksto.
 
-Kasapulan ti panagbayad dagiti kasta a serbisio ken saan a magun-odan dagiti agus-usar iti mainland China gapu kadagiti isyu iti panagtungpal iti website.
+Dagiti kasta a serbisio ket kasapulan ti panagbayad a naibatay iti kaadu ti panagsapul, ken masansan a saan a magun-od dagiti agar-aramat iti kontinente ti Tsina gapu kadagiti isyu a kas ti panagtungpal ti website.
 
 Saan a mausar dayta iti offline, saan a mausar iti intranet, ken dakkel ti limitasionna. Saan nga adu ti pagsasaritaan daytoy nga artikulo.
 
 Ti maikadua ket puro a front-end full-text search.
 
-Dagiti ad-adu a nalatak a puro a front-end a naan-anay a teksto a panagbiruk ket mairaman ti [lunrjs](https://lunrjs.com) ken [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Dagiti kadawyan a maus-usar a puro a front-end a naan-anay a teksto a panagbiruk ket mairaman ti [lunrjs](https://lunrjs.com) ken [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Adda dua a wagas ti panagbangon kadagiti indeks, ngem agpada nga addaan kadagiti bukodda a parikut.
+`lunrjs` Adda dua a wagas ti panagbangon kadagiti indeks, ken agpada nga addaan kadagiti bukodda a parikut.
 
 1. Dagiti nasakbay a naibangon nga index file
 
@@ -38,6 +38,8 @@ Dagiti ad-adu a nalatak a puro a front-end a naan-anay a teksto a panagbiruk ket
 
    Ti panagbangon ti indeks ket maysa a nainget nga aramid ti panagkomputar Ti panagbangon manen ti indeks tunggal makastrekka iti daytoy ket mangpataud kadagiti nalawag a panagbayag ken nakapuy a padas ti agar-aramat.
 
+---
+
 Malaksid iti `lunrjs` , adda dagiti dadduma pay a solusion ti panagbiruk ti naan-anay a teksto, a kas ti :
 
 [fusejs](https://www.fusejs.io) , kalkularen ti panagpapada dagiti kuerdas a sapulen.
@@ -46,13 +48,13 @@ Ti panagaramid daytoy a solusion ket nakurapay unay ken saan a mausar para iti p
 
 [TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
 
-Gapu ti saan a pannakapnek kadagiti pagkurangan dagiti agdama a solusion, `i18n.site` ket nangaramid ti baro a puro a front-end a full-text a solusion ti panagbiruk, nga addaan kadagiti sumaganad a tampok :
+Gapu kadagiti pagkurangan dagiti agdama a solusion, `i18n.site` ket nangaramid ti baro a puro a front-end a full-text a solusion ti panagbiruk, nga addaan kadagiti sumaganad a pakabigbigan :
 
 1. Suportaranna ti panagbiruk ti adu a pagsasao ken bassit ti kadakkelna Ti kadakkel ti kernel ti panagbiruk kalpasan ti panagempake `gzip` ket `6.9KB` (para iti panagidilig, ti kadakkel ti `lunrjs` ket `25KB` )
 1. Mangbangon ti nabaliktad nga indeks a naibatay iti `indexedb` , a mangala iti basbassit a memoria ken napardas.
 1. No dagiti dokumento ket mainayon/mabaliwan, dagiti laeng nainayon wenno nabaliwan a dokumento ti mai-index manen, a mangkissay iti kaadu dagiti kalkulasion.
 1. Suportaranna ti panagbiruk ti pangrugian, a mabalin a mangipakita kadagiti resulta ti panagbiruk iti aktual nga oras bayat nga ag-type ti agar-aramat.
-1. Mabalin nga usaren offline
+1. Mabalin Nga Usaren Offline
 
 Iti baba, `i18n.site` a detalye ti teknikal a pannakaipatungpal ti maipakaammo a detalyado.
 
@@ -214,6 +216,6 @@ No maipakita dagiti resulta ti panagbirok, maiparang ti nagan ti kapitulo ken ma
 
 ## Gupgopen
 
-Ti nabaliktad a panagbiruk ti naan-anay a teksto ket naipatungpal a puro iti sango a murdong, nga addaan iti napardas a sungbat ken saan a kasapulan ti serbidor.
+Nabaliktad a panagbiruk ti naan-anay a teksto a naipatungpal a puro iti sango a murdong, awan ti kasapulan a serbidor. Maibagay unay daytoy kadagiti babassit ken kalalainganna ti kadakkelda a website kas kadagiti dokumento ken personal a blog.
 
-Maibagay unay daytoy kadagiti babassit ken kalalainganna ti kadakkelda a website kas kadagiti dokumento ken personal a blog.
+`i18n.site` Ti open source a bukod a pinarang-ay a puro a front-end a panagbiruk, bassit ti kadakkelna ken napardas a sungbat, ket mangrisut kadagiti pagkurangan ti agdama a puro a front-end a naan-anay a teksto a panagbiruk ken mangipaay ti nasaysayaat a padas ti agar-aramat.

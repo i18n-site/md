@@ -6,27 +6,27 @@ Setelah beberapa minggu pengembangan, [i18n.site](//i18n.site) (alat pembuatan s
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Artikel ini akan membagikan penerapan `i18n.site` teknologi pencarian teks lengkap front-end murni. Kunjungi [i18n.site](//i18n.site) Anda dapat merasakan efek pencarian.
+Artikel ini akan membagikan implementasi teknis `i18n.site` pencarian teks lengkap front-end murni. Kunjungi [i18n.site](//i18n.site)
 
-Kode [kernel pencarian](//github.com/i18n-site/ie/tree/main/qy) sumber terbuka / [Antarmuka interaktif](//github.com/i18n-site/plugin/tree/main/qy)
+Kode open source : [Cari kernel](//github.com/i18n-site/ie/tree/main/qy) / [Antarmuka interaktif](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Ikhtisar Solusi Pencarian Teks Lengkap Tanpa Server
 
-Untuk situs web kecil seperti dokumen/blog pribadi yang murni statis, tidak diragukan lagi terlalu berat untuk membuat backend pencarian teks lengkap sendiri, dan pencarian teks lengkap tanpa layanan tidak diragukan lagi merupakan bobot yang lebih baik.
+Untuk situs web statis murni berukuran kecil dan menengah seperti dokumen/blog pribadi, membangun backend pencarian teks lengkap yang dibuat sendiri terlalu berat, dan pencarian teks lengkap bebas layanan adalah pilihan yang lebih umum.
 
-Solusi pencarian teks lengkap tanpa server yang ada terbagi dalam dua kategori besar.
+Solusi pencarian teks lengkap tanpa server terbagi dalam dua kategori besar:
 
-Salah satunya adalah penyedia layanan pencarian pihak ketiga yang mirip dengan [algolia.com](//algolia.com) yang menyediakan komponen pencarian teks lengkap front-end.
+Pertama, penyedia layanan pencarian pihak ketiga yang [algolia.com](//algolia.com) menyediakan komponen front-end untuk pencarian teks lengkap.
 
-Layanan tersebut memerlukan pembayaran dan tidak tersedia untuk pengguna di Tiongkok daratan karena masalah kepatuhan situs web.
+Layanan tersebut memerlukan pembayaran berdasarkan volume pencarian, dan sering kali tidak tersedia bagi pengguna di Tiongkok daratan karena masalah seperti kepatuhan situs web.
 
 Ini tidak dapat digunakan secara offline, tidak dapat digunakan di intranet, dan memiliki keterbatasan yang besar. Artikel ini tidak membahas banyak hal.
 
 Yang kedua adalah pencarian teks lengkap front-end murni.
 
-Pencarian teks lengkap front-end murni yang lebih terkenal mencakup [lunrjs](https://lunrjs.com) dan [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Pencarian teks lengkap front-end murni yang umum digunakan meliputi [lunrjs](https://lunrjs.com) dan [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Ada dua cara untuk membangun indeks, namun keduanya memiliki masalah masing-masing.
+`lunrjs` Ada dua cara untuk membangun indeks, dan keduanya memiliki permasalahannya masing-masing.
 
 1. File indeks yang dibuat sebelumnya
 
@@ -38,6 +38,8 @@ Pencarian teks lengkap front-end murni yang lebih terkenal mencakup [lunrjs](htt
 
    Membangun indeks adalah tugas komputasi yang intensif. Membangun kembali indeks setiap kali Anda mengaksesnya akan menyebabkan kelambatan yang jelas dan pengalaman pengguna yang buruk.
 
+---
+
 Selain `lunrjs` , ada beberapa solusi pencarian teks lengkap lainnya, seperti :
 
 [fusejs](https://www.fusejs.io) , hitung kesamaan antar string yang akan dicari.
@@ -46,13 +48,13 @@ Kinerja solusi ini sangat buruk dan tidak dapat digunakan untuk pencarian teks l
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , gunakan filter Bloom untuk mencari, tidak dapat digunakan untuk pencarian awalan (misalnya, masukkan `goo` , cari `good` , `google` ), dan tidak dapat mencapai efek penyelesaian otomatis serupa.
 
-Karena ketidakpuasan terhadap kekurangan solusi yang ada, `i18n.site` mengembangkan solusi pencarian teks lengkap front-end murni baru, yang memiliki fitur berikut :
+Karena kekurangan dari solusi yang ada, `i18n.site` mengembangkan solusi pencarian teks lengkap front-end murni baru, yang memiliki karakteristik sebagai berikut :
 
 1. Mendukung pencarian multi-bahasa dan ukurannya kecil. Ukuran kernel pencarian setelah pengemasan `gzip` adalah `6.9KB` (sebagai perbandingan, ukuran `lunrjs` adalah `25KB` )
 1. Bangun indeks terbalik berdasarkan `indexedb` , yang memakan lebih sedikit memori dan cepat.
 1. Ketika dokumen ditambahkan/dimodifikasi, hanya dokumen yang ditambahkan atau diubah yang diindeks ulang, sehingga mengurangi jumlah penghitungan.
 1. Mendukung pencarian awalan dan dapat menampilkan hasil pencarian secara real time saat pengguna mengetik.
-1. Tersedia offline
+1. Tersedia Offline
 
 Di bawah ini, `i18n.site` rincian implementasi teknis akan diperkenalkan secara rinci.
 
@@ -214,6 +216,6 @@ Saat menampilkan hasil pencarian, nama bab akan ditampilkan dan bab tersebut aka
 
 ## Meringkaskan
 
-Pencarian teks lengkap terbalik diterapkan murni di ujung depan, dengan respons cepat dan tidak memerlukan server.
+Pencarian teks lengkap terbalik diterapkan murni di ujung depan, tidak diperlukan server. Sangat cocok untuk website kecil dan menengah seperti dokumen dan blog pribadi.
 
-Sangat cocok untuk website kecil dan menengah seperti dokumen dan blog pribadi.
+`i18n.site` Pencarian front-end murni open source yang dikembangkan sendiri, berukuran kecil dan respons cepat, memecahkan kekurangan pencarian teks lengkap front-end murni saat ini dan memberikan pengalaman pengguna yang lebih baik.

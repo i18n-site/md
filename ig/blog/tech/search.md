@@ -6,27 +6,27 @@ Ka ọtụtụ izu nke mmepe gachara [i18n.site](//i18n.site) (ngwa ọrụ ụl
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Edemede a ga-ekekọrịta mmejuputa `i18n.site` dị ọcha n'ihu-ngwụcha nchọta teknụzụ ị nwere ike nweta nsonaazụ ọchụchọ [i18n.site](//i18n.site)
+Edemede a ga-ekekọrịta mmejuputa teknuzu nke `i18n.site` dị ọcha n'ihu-ngwụcha ederede [i18n.site](//i18n.site) na-enweta nsonaazụ ọchụchọ.
 
-Koodu [kernel nchọta](//github.com/i18n-site/ie/tree/main/qy) mepere [emepe](//github.com/i18n-site/plugin/tree/main/qy) /
+Koodu : [emepe kernel](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interface](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Nchịkọta Nke Ngwọta Ọchụchọ Ederede Zuru Oke Na-Enweghị Ihe Nkesa
 
-Maka obere weebụsaịtị dị ka akwụkwọ / blọọgụ nkeonwe nke kwụ ọtọ, obi abụọ adịghị ya na ọ dị oke arọ iji wuo nchọta ederede zuru oke site n'onwe gị, na nchọ ederede zuru oke na-enweghị ọrụ bụ ihe ịrụ ụka adịghị ya na ọ ka mma.
+Maka webụsaịtị pere mpe na nke ọkara kwụ ọtọ dị ka akwụkwọ/blọọgụ nkeonwe, iwulite ihe nchọta ederede zuru oke nke onwe ya dị oke arọ, na nchọ ederede zuru oke na-enweghị ọrụ bụ nhọrọ a na-ahụkarị.
 
-Ngwọta ọchụchọ ederede zuru oke na-enweghị ihe nkesa na-adaba n'ụdị abụọ sara mbara.
+Ngwọta ọchụchọ ederede zuru oke na-enweghị nkesa ga-adaba na ngalaba abụọ sara mbara:
 
-Otu bụ onye na-eweta ọrụ ọchụchọ ndị ọzọ yiri [algolia.com](//algolia.com) nke na-enye ihe nchọta ederede zuru oke n'ihu.
+Nke [algolia.com](//algolia.com) , ndị na-eweta ọrụ ọchụchọ ndị yiri ya na-enye ihe ndị dị n'ihu maka ọchụchọ ederede zuru oke.
 
-Ọrụ ndị dị otú ahụ chọrọ ugwo ma ọ bụghị maka ndị ọrụ na China China n'ihi nsogbu nnabata webụsaịtị.
+Ọrụ ndị dị otú ahụ chọrọ ugwo dabere na olu ọchụchọ, ma ọ naghị adị ndị ọrụ na ala China n'ihi okwu dị ka nnabata webụsaịtị.
 
 Enweghị ike iji ya na-anọghị n'ịntanetị, enweghị ike iji ya na intranet, ma nwee oke oke. Isiokwu a adịghị atụle nke ukwuu.
 
 Nke abụọ bụ nchọcha ederede zuru oke n'ihu.
 
-Nchọgharị ederede zuru oke n'ihu-ngwụcha ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) gụnyere [lunrjs](https://lunrjs.com)
+Nchọta ederede zuru ElasticLunr.js nke a na [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ejikarị eme ihe gụnyere [lunrjs](https://lunrjs.com)
 
-`lunrjs` Enwere ụzọ abụọ iji wuo ndeksi, mana ha abụọ nwere nsogbu nke ha.
+`lunrjs` Enwere ụzọ abụọ iji wuo ndeksi, ma ha abụọ nwere nsogbu nke ha.
 
 1. Faịlụ ndeksi ewuruburu
 
@@ -38,6 +38,8 @@ Nchọgharị ederede zuru oke n'ihu-ngwụcha ElasticLunr.js [https://github.co
 
    Ịmepụta ndeksi bụ ọrụ siri ike na-arụkọ ọrụ ọnụ mgbe ọ bụla ị nwetara ya ga-eme ka ọ bụrụ ihe na-adịghị mma na ahụmahụ onye ọrụ.
 
+---
+
 Na mgbakwunye na `lunrjs` , enwere ụfọdụ ngwọta ọchụchọ ederede zuru ezu, dị ka :
 
 [fusejs](https://www.fusejs.io) , gbakọọ myirịta n'etiti eriri iji chọọ.
@@ -46,13 +48,13 @@ Arụmọrụ nke ngwọta a dị oke njọ na enweghị ike iji ya maka nyocha 
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , jiri Bloom filter iji chọọ, enweghị ike iji ya mee ihe maka prefix (dịka ọmụmaatụ, tinye `goo` , ọchụchọ `good` , `google` ), na enweghị ike nweta nsonaazụ mmecha akpaka yiri ya.
 
-N'ihi enweghị afọ ojuju na adịghị ike nke ngwọta ndị dị ugbu a, `i18n.site` mepụtara ihe ọhụrụ dị ọcha n'ihu-ngwụcha ihe nchọta ederede zuru oke, nke nwere atụmatụ ndị a :
+N'ihi adịghị ike nke ihe ngwọta ndị dị ugbu a, `i18n.site` emepụtala ihe ọhụrụ dị ọcha n'ihu-ngwụcha ihe nchọta ederede zuru oke, nke nwere àgwà ndị a :
 
 1. Na-akwado nchọta asụsụ dị iche iche ma pere mpe n'ogo nke kernel ọchụchọ mgbe nkwakọchara `gzip` bụ `6.9KB` (maka ntụnyere, nha nke `lunrjs` bụ `25KB` ).
 1. Mepụta ndepụta ntụgharị ntụgharị dabere na `indexedb` , nke na-ewe obere ebe nchekwa na ngwa ngwa.
 1. Mgbe agbakwunyere / gbanwee akwụkwọ, ọ bụ naanị akwụkwọ agbakwunyere ma ọ bụ gbanwetụrụ ka a na-edegharịgharị ọzọ, na-ebelata ọnụ ọgụgụ nke mgbako.
 1. Na-akwado ọchụchọ prefix ma nwee ike igosipụta nsonaazụ ọchụchọ ozugbo mgbe onye ọrụ na-ede.
-1. Dị na-anọghị n'ịntanetị
+1. Dị Na-Anọghị N'ịntanetị
 
 N'okpuru ebe a, a ga-ewebata nkọwa mmejuputa teknụzụ `i18n.site` n'ụzọ zuru ezu.
 
@@ -214,6 +216,6 @@ Mgbe ị na-egosipụta nsonaazụ ọchụchọ, a ga-egosipụta aha isiakwụ
 
 ## Nchịkọta
 
-Nchọgharị ederede zuru oke etinyere na njedebe ihu, yana nzaghachi ngwa ngwa na enweghị mkpa maka sava.
+Achọgharị ederede zuru oke etinyere na njedebe ihu, ọ nweghị ihe nkesa achọrọ. Ọ dabara nke ọma maka obere weebụsaịtị dị ka akwụkwọ na blọọgụ nkeonwe.
 
-Ọ dabara nke ọma maka obere weebụsaịtị dị ka akwụkwọ na blọọgụ nkeonwe.
+`i18n.site` Mepee isi mmalite nke nchọta n'ihu dị ọcha mepụtara, obere nha na nzaghachi ngwa ngwa, na-edozi adịghị ike nke ugbu a dị ọcha n'ihu njedebe nchọ ederede zuru oke ma na-enye ahụmịhe onye ọrụ ka mma.

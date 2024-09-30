@@ -6,27 +6,27 @@ Hainbat aste garatu ondoren [i18n.site](//i18n.site) ( markdown hizkuntza anitze
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-Artikulu honek `i18n.site` front-end testu osoko bilaketa teknologiaren ezarpena partekatuko du Bisitatu [i18n.site](//i18n.site)
+Artikulu honek `i18n.site` frontend-eko testu osoko bilaketaren ezarpen teknikoa partekatuko du Bisitatu [i18n.site](//i18n.site)
 
-Kode irekiko bilaketa / [kernelaren](//github.com/i18n-site/ie/tree/main/qy) [interfaze interaktiboa](//github.com/i18n-site/plugin/tree/main/qy)
+Kode : [Bilatu nukleoa](//github.com/i18n-site/ie/tree/main/qy) / [Interactive interfazea](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## Zerbitzaririk Gabeko Testu Osoko Bilaketa-Soluzioen Ikuspegi Orokorra
 
-Estatiko hutsak diren dokumentuak/blog pertsonalak bezalako webgune txikientzat, dudarik gabe, astunegia da testu osoko bilaketa backend bat zuk zeuk eraikitzea, eta zerbitzurik gabeko testu osoko bilaketa pisu hobea da, zalantzarik gabe.
+Tamaina txiki eta ertaineko webgune estatiko hutsetarako, hala nola dokumentuak/blog pertsonalak, testu osoko bilaketaren backend auto-eraiki bat eraikitzea astunegia da, eta zerbitzurik gabeko testu osoko bilaketa aukera ohikoena da.
 
-Dauden zerbitzaririk gabeko testu osoko bilaketa-soluzioak bi kategoria zabaletan sartzen dira.
+Zerbitzaririk gabeko testu osoko bilaketa-soluzioak bi kategoria handitan banatzen dira:
 
-Bata [algolia.com](//algolia.com) eta testu osoko bilaketa osagaiak eskaintzen ditu.
+Lehenik eta behin [algolia.com](//algolia.com) antzeko bilaketa-zerbitzuen hornitzaileek front-end osagaiak eskaintzen dituzte testu osoko bilaketarako.
 
-Zerbitzu horiek ordainketa eskatzen dute eta ez daude erabilgarri Txina kontinentaleko erabiltzaileentzat webguneak betetzeko arazoak direla eta.
+Zerbitzu horiek bilaketa-bolumenaren arabera ordaintzea eskatzen dute, eta, askotan, Txina kontinentaleko erabiltzaileek ez dituzte erabilgarri webguneak betetzea bezalako arazoengatik.
 
 Ezin da lineaz kanpo erabili, ezin da intranetean erabili eta muga handiak ditu. Artikulu honek ez du asko eztabaidatzen.
 
 Bigarrena front-end testu osoko bilaketa hutsa da.
 
-Testu osoko frontend-eko bilaketa ezagunenak [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) dira.
+Gehien erabiltzen [lunrjs](https://lunrjs.com) frontend-eko testu osoko bilaketak eta [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
 
-`lunrjs` Indizeak eraikitzeko bi modu daude, baina biek arazoak dituzte.
+`lunrjs` Indizeak eraikitzeko bi modu daude, eta biek arazoak dituzte.
 
 1. Aurrez eraikitako indize fitxategiak
 
@@ -38,6 +38,8 @@ Testu osoko frontend-eko bilaketa ezagunenak [lunrjs](https://lunrjs.com) [ Elas
 
    Indize bat eraikitzea konputazio intentsiboa da. Indizea berregiten duzun bakoitzean atzerapen nabariak eta erabiltzailearen esperientzia txarra eragingo du.
 
+---
+
 `lunrjs` gain, testu osoko bilaketa-soluzio batzuk daude, adibidez :
 
 [fusejs](https://www.fusejs.io) , kalkulatu kateen arteko antzekotasuna bilatzeko.
@@ -46,13 +48,13 @@ Soluzio honen errendimendua oso eskasa da eta ezin da erabili testu osoko bilake
 
 [TinySearch](https://github.com/tinysearch/tinysearch) , erabili Bloom iragazkia bilatzeko, ezin da aurrizkiaren bilaketarako erabili (adibidez, idatzi `goo` , bilatu `good` , `google` ) eta ezin da antzeko osaketa automatikoko efekturik lortu.
 
-Dauden konponbideen gabeziekin atsekabetuta, `i18n.site` frontend-eko testu osoko bilaketa-soluzio berri bat garatu zuen, honako ezaugarri hauek dituena :
+Dauden soluzioen gabeziak direla eta, `i18n.site` frontend-eko testu osoko bilaketa-soluzio berri bat garatu du, ezaugarri hauek dituena :
 
 1. Hizkuntza anitzeko bilaketa onartzen du eta tamaina txikia da Bilaketa-kernelaren tamaina `gzip` ontziaren ondoren `6.9KB` da (konparaziorako, `lunrjs` -ren tamaina `25KB` da).
 1. Eraiki `indexedb` n oinarritutako alderantzizko indize bat, memoria gutxiago hartzen duena eta azkarra dena.
 1. Dokumentuak gehitzen/aldatzen direnean, gehitutako edo aldatutako dokumentuak soilik indexatzen dira berriro, kalkulu kopurua murriztuz.
 1. Aurrizkien bilaketa onartzen du, bilaketa-emaitzak denbora errealean bistaratu ditzake erabiltzaileak idazten ari den bitartean.
-1. Lineaz kanpo erabilgarri
+1. Lineaz Kanpo Erabilgarri
 
 Jarraian, `i18n.site` ezarpen teknikoko xehetasunak xehetasunez aurkeztuko dira.
 
@@ -214,6 +216,6 @@ Bilaketa-emaitzak bistaratzen direnean, kapituluaren izena bistaratuko da eta ka
 
 ## Laburtu
 
-Testu osoko bilaketa alderantzikatua frontoian soilik ezarrita, erantzun azkarrarekin eta zerbitzari baten beharrik gabe.
+Testu osoko bilaketa alderantzikatua frontend-ean soilik ezarri da, ez da zerbitzaririk behar. Oso egokia da webgune txiki eta ertainetarako, hala nola dokumentuak eta blog pertsonalak.
 
-Oso egokia da webgune txiki eta ertainetarako, hala nola dokumentuak eta blog pertsonalak.
+`i18n.site` Kode irekiko auto-garatutako frontend bilaketa hutsa, tamaina txikia eta erantzun azkarra, egungo frontend hutsaren testu osoko bilaketaren gabeziak konpontzen ditu eta erabiltzailearen esperientzia hobea eskaintzen du.
