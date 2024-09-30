@@ -1,7 +1,219 @@
-# Pesquisa inversa de front-end puro
+# Pesquisa de texto completo invertida de front-end puro
 
 ## Sequência
 
-Busca reversa automática de front-end multilíngue puro
+Após várias semanas de desenvolvimento, [i18n.site](//i18n.site) (ferramenta de tradução multilíngue de Markdown e construção de sites puramente estáticos) agora suporta pesquisa de texto completo de front-end puro.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Este artigo compartilhará a implementação da tecnologia de pesquisa de texto completo de front-end puro do `i18n.site`. Você pode experimentar o efeito de pesquisa acessando [i18n.site](//i18n.site).
+
+O código-fonte está aberto: [kernel de pesquisa](//github.com/i18n-site/ie/tree/main/qy) / [interface interativa](//github.com/i18n-site/plugin/tree/main/qy)
+
+## Visão geral das soluções de pesquisa de texto completo sem servidor
+
+Para sites pequenos, como documentos/blogs pessoais, que são puramente estáticos, é sem dúvida muito pesado construir você mesmo um back-end de pesquisa de texto completo, e a pesquisa de texto completo sem serviços é, sem dúvida, uma solução mais leve.
+
+As soluções existentes de pesquisa de texto completo sem servidor se dividem em duas categorias principais.
+
+Uma delas são provedores de serviços de pesquisa de terceiros, como [algolia.com](//algolia.com), que oferecem componentes de pesquisa de texto completo para o front-end.
+
+Esses serviços são pagos e, devido a questões de conformidade do site, não estão disponíveis para usuários na China continental.
+
+Eles não podem ser usados offline ou em redes internas, com muitas limitações. Este artigo não entrará em detalhes.
+
+A outra é a pesquisa de texto completo de front-end puro.
+
+As pesquisas de texto completo de front-end puro mais conhecidas incluem [lunrjs](/0) e [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+
+`lunrjs` tem duas maneiras de construir índices, mas ambas têm problemas.
+
+1. Índices pré-construídos
+
+   Como os índices contêm todas as palavras dos documentos, são grandes.
+   Quando os documentos são adicionados ou modificados, novos arquivos de índice devem ser carregados.
+   Isto aumenta o tempo de espera do usuário e consome muita largura de banda.
+
+2. Carregamento de documentos e construção de índices em tempo real
+
+   Construir índices é uma tarefa intensiva em cálculos, e reconstruir índices a cada acesso resulta em atrasos visíveis e uma má experiência do usuário.
+
+Além de `lunrjs`, existem outras soluções de pesquisa de texto completo, como:
+
+[fusejs](https://www.fusejs.io), que calcula a semelhança entre strings para pesquisa.
+
+Essa solução tem desempenho muito ruim e não pode ser usada para pesquisa de texto completo (veja [Fuse.js: Consulta longa leva mais de 10 segundos, como otimizá-la?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+
+[TinySearch](https://github.com/tinysearch/tinysearch), que usa filtros Bloom para pesquisa, não pode ser usado para pesquisa de prefixo (por exemplo, inserir `goo` para pesquisar `good`, `google`), e não pode implementar um efeito de preenchimento automático semelhante.
+
+Insatisfeito com as deficiências das soluções existentes, o `i18n.site` desenvolveu uma nova solução de pesquisa de texto completo de front-end puro, com as seguintes características:
+
+1. Suporte a pesquisa em vários idiomas, com tamanho pequeno; o kernel de pesquisa empacotado com `gzip` tem um tamanho de `6.9KB` (para comparação, o tamanho do `lunrjs` é `25KB`)
+1. Construção de índices invertidos baseada em `IndexedDB`, com baixo uso de memória e alta velocidade
+1. Quando documentos são adicionados/modificados, apenas os documentos adicionados ou modificados são reindexados, reduzindo a quantidade de cálculos
+1. Suporte a pesquisa de prefixo, que pode exibir resultados de pesquisa em tempo real enquanto o usuário digita
+1. Disponível offline
+
+Abaixo, detalharemos a implementação técnica do `i18n.site`.
+
+## Segmentação de palavras multilíngue
+
+A segmentação de palavras usa a segmentação de palavras nativa `Intl.Segmenter` do navegador, que é suportada por todos os principais navegadores.
+
+![](https://p.3ti.site/1727667759.avif)
+
+O código de segmentação `coffeescript` é o seguinte:
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+Onde:
+
+* `/\p{P}/` é uma expressão regular que corresponde a sinais de pontuação. Os símbolos correspondentes específicos incluem: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } `.</p><ul><li> `split('.')` é porque a segmentação de palavras do navegador `Firefox` não segmenta `.` .</li>
+
+
+## Construção de índice
+
+No `IndexedDB`, são criadas 5 tabelas de armazenamento de objetos:
+
+* `word`: id - palavra
+* `doc`: id - URL do documento - número da versão do documento
+* `docWord`: id do documento - array de id das palavras
+* `prefix`: prefixo - array de id das palavras
+* `rindex`: id da palavra - array de id do documento: números de linha
+
+Passando o array de `url` do documento e o número da versão `ver`, verifica-se na tabela `doc` se o documento existe. Se não existir, cria-se um índice invertido. Ao mesmo tempo, remove-se o índice invertido dos documentos não transmitidos.
+
+Desta forma, é possível implementar indexação incremental, reduzindo a quantidade de cálculo.
+
+Na interação front-end, uma barra de progresso de carregamento do índice pode ser exibida para evitar atrasos ao carregar pela primeira vez. Veja "Barra de progresso com animação, baseada em um único progress + implementação CSS pura" [em inglês](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [em chinês](https://juejin.cn/post/7413586285954154522).
+
+### Escrita simultânea alta do IndexedDB
+
+O projeto é desenvolvido com base no encapsulamento assíncrono de IndexedDB [idb](https://www.npmjs.com/package/idb).
+
+As operações de leitura e gravação do IndexedDB são assíncronas. Ao criar índices, os documentos são carregados simultaneamente para criar índices.
+
+Para evitar a perda de dados causada por gravações concorrentes, pode-se usar o código `coffeescript` abaixo para adicionar um cache `ing` entre leituras e gravações para interceptar gravações concorrentes.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Pesquisa de prefixo em tempo real
+
+Para exibir resultados de pesquisa enquanto o usuário digita, por exemplo, ao digitar `wor`, exibir palavras que começam com `wor`, como `words` e `work`.
+
+![](https://p.3ti.site/1727684944.avif)
+
+O kernel de pesquisa usa a tabela `prefix` para encontrar todas as palavras que começam com a última palavra segmentada e pesquisar sequencialmente.
+
+A função anti-vibração `debounce` é utilizada na interação front-end (implementada da seguinte forma) para reduzir a frequência de acionamentos de pesquisa por parte do usuário e minimizar a quantidade de cálculos.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Precisão e recall
+
+A pesquisa segmenta primeiro as palavras-chave inseridas pelo usuário.
+
+Suponha que haja `N` palavras após a segmentação. Ao retornar resultados, primeiro são retornados os resultados que contêm todas as palavras-chave, seguidos pelos resultados que contêm `N-1`, `N-2`, ..., `1` palavras-chave.
+
+Os resultados de pesquisa exibidos primeiro garantem a precisão da consulta, enquanto os resultados carregados posteriormente (ao clicar no botão "Carregar mais") garantem o recall.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Carregamento sob demanda
+
+Para melhorar a velocidade de resposta, a pesquisa usa o gerador `yield` para implementar o carregamento sob demanda, retornando resultados a cada `limit` consultas.
+
+Observe que, após cada `yield`, é necessário reabrir uma transação de consulta do `IndexedDB`.
+
+## Pesquisa de prefixo em tempo real
+
+Para exibir resultados de pesquisa enquanto o usuário digita, por exemplo, ao digitar `wor`, exibir palavras que começam com `wor`, como `words` e `work`.
+
+![](https://p.3ti.site/1727684944.avif)
+
+O kernel de pesquisa usa a tabela `prefix` para encontrar todas as palavras que começam com a última palavra segmentada e pesquisar sequencialmente.
+
+A função anti-vibração `debounce` é utilizada na interação front-end (implementada da seguinte forma) para reduzir a frequência de acionamentos de pesquisa por parte do usuário e minimizar a quantidade de cálculos.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Disponível offline
+
+A tabela de índice não armazena o texto original, apenas as palavras, reduzindo o uso de armazenamento.
+
+Para destacar os resultados da pesquisa, é necessário recarregar o texto original. Combinar com `service worker` pode evitar solicitações de rede repetidas.
+
+Ao mesmo tempo, como o `service worker` armazena em cache todos os artigos, assim que o usuário realiza uma pesquisa, todo o site, incluindo a pesquisa, fica disponível offline.
+
+## Optimização de exibição de documentos Markdown
+
+A solução de pesquisa front-end pura do `i18n.site` está otimizada para documentos `Markdown`.
+
+Ao exibir resultados de pesquisa, o nome do capítulo é exibido e o capítulo é navegado ao clicar nele.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Resumo
+
+A pesquisa de texto completo invertida implementada exclusivamente no front-end tem resposta rápida e não requer servidor.
+
+É muito adequada para sites de pequeno e médio porte, como documentos e blogs pessoais.
