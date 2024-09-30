@@ -24,7 +24,7 @@
 
 ሁለተኛው ንጹህ የፊት-መጨረሻ ሙሉ-ጽሑፍ ፍለጋ ነው።
 
-በብዛት ጥቅም ላይ የዋሉ ንጹህ የፊት-መጨረሻ ሙሉ-ጽሑፍ ፍለጋዎች እና [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ያካትታሉ [lunrjs](https://lunrjs.com)
+በአሁኑ ጊዜ፣ የተለመዱ የንፁህ የፊት-መጨረሻ ሙሉ-ጽሑፍ ፍለጋዎች [lunrjs](//lunrjs.com) እና [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (በ `lunrjs` ሁለተኛ ደረጃ እድገት ላይ የተመሰረቱ) ያካትታሉ።
 
 `lunrjs` ኢንዴክሶችን ለመገንባት ሁለት መንገዶች አሉ, እና ሁለቱም የራሳቸው ችግሮች አሏቸው.
 
@@ -42,11 +42,11 @@
 
 ከ `lunrjs` በተጨማሪ ሌሎች የሙሉ ጽሑፍ ፍለጋ መፍትሄዎች አሉ፣ ለምሳሌ :
 
-ለመፈለግ በሕብረቁምፊዎች መካከል ያለውን ተመሳሳይነት ያሰሉ [fusejs](https://www.fusejs.io)
+ለመፈለግ በሕብረቁምፊዎች መካከል ያለውን ተመሳሳይነት ያሰሉ [fusejs](//www.fusejs.io)
 
-የዚህ መፍትሔ አፈጻጸም እጅግ በጣም ደካማ ነው እና ለሙሉ ጽሑፍ ፍለጋ መጠቀም አይቻልም (ይመልከቱ [Fuse.js ረጅም መጠይቅ ከ 10 ሰከንድ በላይ ይወስዳል፣ እንዴት ማመቻቸት ይቻላል?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) )።
+የዚህ መፍትሔ አፈጻጸም እጅግ በጣም ደካማ ነው እና ለሙሉ ጽሑፍ ፍለጋ መጠቀም አይቻልም (ይመልከቱ [Fuse.js ረጅም መጠይቅ ከ 10 ሰከንድ በላይ ይወስዳል፣ እንዴት ማመቻቸት ይቻላል?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) )።
 
-[TinySearch](https://github.com/tinysearch/tinysearch) ፣ ለመፈለግ Bloom ማጣሪያን ይጠቀሙ፣ ለቅድመ-ቅጥያ ፍለጋ (ለምሳሌ፣ `goo` አስገባ፣ ፍለጋ `good` ፣ `google` ) መጠቀም አይቻልም፣ እና ተመሳሳይ የማጠናቀቂያ ውጤት ማምጣት አይቻልም።
+[TinySearch](//github.com/tinysearch/tinysearch) ፣ ለመፈለግ Bloom ማጣሪያን ይጠቀሙ፣ ለቅድመ-ቅጥያ ፍለጋ (ለምሳሌ፣ `goo` አስገባ፣ ፍለጋ `good` ፣ `google` ) መጠቀም አይቻልም፣ እና ተመሳሳይ የማጠናቀቂያ ውጤት ማምጣት አይቻልም።
 
 በነባር መፍትሄዎች ድክመቶች ምክንያት, `i18n.site` አዲስ ንጹህ የፊት-መጨረሻ ሙሉ-ጽሑፍ ፍለጋ መፍትሄ አዘጋጅቷል, እሱም የሚከተሉት ባህሪያት አሉት :
 
@@ -62,7 +62,7 @@
 
 የቃል ክፍፍል የአሳሹን ቤተኛ ቃል ክፍልፋይ `Intl.Segmenter` ይጠቀማል፣ እና ሁሉም ዋና አሳሾች ይህንን በይነገጽ ይደግፋሉ።
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 ክፍል `coffeescript` ኮድ የሚለው ቃል እንደሚከተለው ነው።
 
@@ -103,11 +103,11 @@ export segqy = (q) =>
 
 በዚህ መንገድ, የመጨመሪያ መረጃ ጠቋሚ ሊደረስበት እና የስሌቱ መጠን ይቀንሳል.
 
-በፊት-መጨረሻ መስተጋብር ውስጥ ለመጀመሪያ ጊዜ ሲጫኑ መዘግየትን ለማስወገድ የጠቋሚው የመጫኛ ሂደት አሞሌ ሊታይ ይችላል "የሂደት አሞሌ ከአኒሜሽን ጋር፣ በነጠላ ላይ የተመሰረተ progress + ንጹህ css ትግበራ" [እንግሊዝኛ](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [ቻይንኛ](https://juejin.cn/post/7413586285954154522) ።
+በፊት-መጨረሻ መስተጋብር / ለመጀመሪያ css ሲጫኑ መዘግየትን [ለማስወገድ](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) የመረጃ ጠቋሚው የመጫኛ ሂደት [ይታያል](//juejin.cn/post/7413586285954154522) progress +
 
 ### IndexedDB ከፍተኛ በተመሳሳይ ጊዜ መጻፍ
 
-ፕሮጀክቱ [idb](https://www.npmjs.com/package/idb) የ IndexedDB
+ፕሮጀክቱ [idb](//www.npmjs.com/package/idb) የ IndexedDB
 
 IndexedDB ማንበብ እና መፃፍ የማይመሳሰሉ ናቸው። ኢንዴክስ በሚፈጥሩበት ጊዜ ኢንዴክስ ለመፍጠር ሰነዶች በአንድ ጊዜ ይጫናሉ።
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 ተጠቃሚው በሚተይብበት ጊዜ የፍለጋ ውጤቶችን ለማሳየት ለምሳሌ `wor` ሲገባ `wor` እንደ `words` እና `work` ያሉ ቅድመ ቅጥያ ያላቸው ቃላት ይታያሉ።
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 የፍለጋ ከርነል ከቃላት ክፍፍል በኋላ ለመጨረሻው ቃል `prefix` ሠንጠረዥን ይጠቀማል እና ሁሉንም ቃላቶች ከእሱ ጋር ቅድመ ቅጥያ ለማግኘት እና በቅደም ተከተል ይፈልጉ።
 
@@ -170,7 +170,7 @@ export default (wait, func) => {
 
 የሚታየው የፍለጋ ውጤቶቹ በመጀመሪያ የጥያቄውን ትክክለኛነት ያረጋግጣሉ፣ እና ከዚያ በኋላ የተጫኑት ውጤቶች (የጭነቱን ተጨማሪ ቁልፍ ጠቅ ያድርጉ) የማስታወሻውን መጠን ያረጋግጣሉ።
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## በፍላጎት ላይ ይጫኑ
 
@@ -182,7 +182,7 @@ export default (wait, func) => {
 
 ተጠቃሚው በሚተይብበት ጊዜ የፍለጋ ውጤቶችን ለማሳየት ለምሳሌ `wor` ሲገባ `wor` እንደ `words` እና `work` ያሉ ቅድመ ቅጥያ ያላቸው ቃላት ይታያሉ።
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 የፍለጋ ከርነል ከቃላት ክፍፍል በኋላ ለመጨረሻው ቃል `prefix` ሠንጠረዥን ይጠቀማል እና ሁሉንም ቃላቶች ከእሱ ጋር ቅድመ ቅጥያ ለማግኘት እና በቅደም ተከተል ይፈልጉ።
 
@@ -212,7 +212,7 @@ export default (wait, func) => {
 
 የፍለጋ ውጤቶችን በሚያሳዩበት ጊዜ የምዕራፉ ስም ይታያል እና ክሊክ ሲደረግ ምዕራፉ ይዳሰሳል.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## ማጠቃለል
 

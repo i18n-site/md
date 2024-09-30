@@ -24,7 +24,7 @@ Sie können nicht offline oder im Intranet verwendet werden und haben daher erhe
 
 Zweitens gibt es die reine Frontend-Volltextsuche.
 
-Zu den häufig verwendeten reinen Frontend-Volltextsuchen gehören [lunrjs](/0) und [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Derzeit sind gängige reine Frontend-Volltextsuchlösungen [lunrjs](//lunrjs.com) und [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (weiterentwickelt basierend auf `lunrjs`).
 
 `lunrjs` bietet zwei Methoden zur Indexerstellung, beide haben jedoch ihre eigenen Probleme.
 
@@ -42,11 +42,11 @@ Zu den häufig verwendeten reinen Frontend-Volltextsuchen gehören [lunrjs](/0) 
 
 Neben `lunrjs` gibt es noch einige andere Volltextsuchlösungen, wie zum Beispiel:
 
-[fusejs](https://www.fusejs.io), das Ähnlichkeiten zwischen Zeichenfolgen berechnet, um zu suchen.
+[fusejs](//www.fusejs.io) berechnet die Ähnlichkeit zwischen Zeichenfolgen zur Durchführung von Suchvorgängen.
 
-Diese Lösung ist von extrem schlechter Leistung und kann nicht für die Volltextsuche verwendet werden (siehe [Fuse.js: Lange Abfragen dauern mehr als 10 Sekunden, wie optimiert man sie?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+Diese Lösung weist eine sehr geringe Leistung auf und ist nicht für Volltextsuchen geeignet (siehe [Fuse.js: Lange Abfragen dauern über 10 Sekunden, wie kann man optimieren?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch), das den Bloom-Filter zum Suchen verwendet, kann nicht für Präfixsuchen verwendet werden (z.B. bei Eingabe von `goo` werden `good` und `google` nicht gefunden) und kann keinen ähnlichen automatischen Vervollständigungseffekt erzielen.
+[TinySearch](//github.com/tinysearch/tinysearch) nutzt Bloom-Filter zur Suche, ist jedoch nicht für Präfixsuchen (beispielsweise bei Eingabe von `goo` die Suche nach `good` oder `google`) geeignet und kann keine automatische Vervollständigung ähnlich wie bei einer Suchleiste bieten.
 
 Aufgrund der Nachteile bestehender Lösungen hat `i18n.site` eine neue, rein frontendbasierte Volltextsuchlösung entwickelt, die folgende Merkmale aufweist:
 
@@ -62,7 +62,7 @@ Im Folgenden werden die technischen Implementierungsdetails von `i18n.site` im D
 
 Der `coffeescript` Code für die Wortsegmentierung lautet wie folgt:
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Der Wortsegmentierungs `coffeescript` Code lautet wie folgt
 
@@ -103,11 +103,11 @@ In:
 
 So kann eine inkrementelle Indizierung erreicht werden, was den Berechnungsaufwand reduziert.
 
-In der Frontend-Interaktion kann ein Fortschrittsbalken angezeigt werden, um Verzögerungen beim ersten Laden zu vermeiden. Siehe „Fortschrittsbalken mit Animation, basierend auf einer einzigen progress + Pure css -Implementierung“ [Englisch](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinesisch](https://juejin.cn/post/7413586285954154522).
+In der Front-End-Interaktion kann ein Ladefortschrittsbalken für den Index angezeigt werden, um Verzögerungen beim ersten Laden zu vermeiden. Nähere Informationen finden Sie in „Fortschrittsbalken mit Animation – basierend auf einer progress- und rein CSS-basierten Implementierung“ [Englisch](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinesisch](//juejin.cn/post/7413586285954154522).
 
 ### IndexedDB mit hoher Gleichzeitiger Schreibgeschwindigkeit
 
-Das Projekt basiert auf der asynchronen Kapselung von IndexedDB durch [idb](https://www.npmjs.com/package/idb).
+Das Projekt basiert auf der asynchronen IndexedDB-Kapselung [idb](//www.npmjs.com/package/idb) zur Entwicklung.
 
 IndexedDB-Lese- und Schreibvorgänge sind asynchron. Beim Erstellen eines Indexes werden Dokumente gleichzeitig geladen, um den Index zu erstellen.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Um Suchergebnisse anzuzeigen, während der Benutzer beispielsweise `wor` eingibt, werden Wörter mit dem Präfix `wor` wie `words` und `work` angezeigt.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 In der Frontend-Interaktion wird die Anti-Shake-Funktion `debounce` verwendet, um die Häufigkeit von Benutzereingaben zu reduzieren, die Suchen auslösen, und den Rechenaufwand zu reduzieren.
 
@@ -170,7 +170,7 @@ Gehen Sie davon aus, dass nach der Wortsegmentierung `N` Wörter vorhanden sind.
 
 Die zuerst angezeigten Ergebnisse stellen die Genauigkeit der Abfrage sicher, während die nachfolgend geladenen Ergebnisse (durch Klicken auf die Schaltfläche „Mehr laden“) die Vollständigkeit sicherstellen.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Bezugnahme auf Bedarf
 
@@ -182,7 +182,7 @@ Beachten Sie, dass nach jedem `yield` eine neue Abfrageübersetzung von `Indexed
 
 Um Suchergebnisse anzuzeigen, während der Benutzer beispielsweise `wor` eingibt, werden Wörter mit dem Präfix `wor` wie `words` und `work` angezeigt.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 In der Frontend-Interaktion wird die Anti-Shake-Funktion `debounce` verwendet, um die Häufigkeit von Benutzereingaben zu reduzieren, die Suchen auslösen, und den Rechenaufwand zu reduzieren.
 
@@ -212,7 +212,7 @@ Die reine Front-End-Suchlösung von `i18n.site` ist für `MarkDown` Dokumente op
 
 Zusammenfassung
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Zusammenfassung
 

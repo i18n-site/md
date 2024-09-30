@@ -24,7 +24,7 @@ E ka se šomišwe ka ntle ga inthanete, e ka se šomišwe go intranet, ebile e n
 
 Ya bobedi ke go nyaka sengwalwa ka botlalo sa mafelelo a go hlweka.
 
-Dinyakišišo tša sengwalwa ka botlalo tša mafelelo a hlwekilego tšeo di šomišwago ka tlwaelo di akaretša [lunrjs](https://lunrjs.com) le [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Ga bjale, dinyakišišo tše di tlwaelegilego tše di hlwekilego tša mafelelo a sengwalwa ka moka di akaretša [lunrjs](//lunrjs.com) le [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (tšeo di theilwego godimo ga `lunrjs` ya tlhabollo ya bobedi).
 
 `lunrjs` Go na le ditsela tše pedi tša go aga ditšhupetšo, gomme bobedi bja tšona di na le mathata a tšona.
 
@@ -42,11 +42,11 @@ Dinyakišišo tša sengwalwa ka botlalo tša mafelelo a hlwekilego tšeo di šom
 
 Go tlaleletša go `lunrjs` , go na le ditharollo tše dingwe tša go nyaka sengwalwa ka botlalo, go swana le :
 
-[fusejs](https://www.fusejs.io) , bala go swana magareng ga dithapo go nyaka.
+[fusejs](//www.fusejs.io) , bala go swana magareng ga dithapo go nyaka.
 
-Tiragatšo ya tharollo ye e fokola kudu gomme e ka se šomišwe go nyaka sengwalwa ka botlalo (bona [Fuse.js Potšišo ye telele e tšea metsotswana ye e fetago 10 , o ka e kaonafatša bjang?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Tiragatšo ya tharollo ye e fokola kudu gomme e ka se šomišwe go nyaka sengwalwa ka botlalo (bona [Fuse.js Potšišo ye telele e tšea metsotswana ye e fetago 10 , o ka e kaonafatša bjang?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Ka lebaka la mafokodi a ditharollo tše di lego gona, `i18n.site` e hlamile tharollo ye mpsha ye e hlwekilego ya go nyaka sengwalwa ka botlalo sa ka pele, yeo e nago le dimelo tše di latelago :
 
@@ -62,7 +62,7 @@ Ka fase, dintlha tše `i18n.site` tša phethagatšo ya sethekniki di tla tsebaga
 
 Karoganyo ya mantšu e šomiša karoganyo ya mantšu ya setlogo ya sephephediši `Intl.Segmenter` , gomme diphensele ka moka tše di tlwaelegilego di thekga segokanyimmediamentsi sa sebolokigolo se.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Khoutu ya karoganyo ya lentšu `coffeescript` e ka tsela ye e latelago
 
@@ -103,11 +103,11 @@ Fetiša ka gare ga lenaneo la tokumente `url` le nomoro ya phetolelo `ver` , gom
 
 Ka tsela ye, indexing ya go oketšega e ka fihlelelwa gomme palo ya go bala e a fokotšwa.
 
-Tšhomišano ya mafelelo a ka pele, baara ya tšwelopele ya go rwala tšhupamabaka e ka bontšhwa go efoga go šalela morago ge o laetša ka lekga la mathomo Bona "Baari ya Kgatelopele ka Dipopaye, E Theilwe godimo ga e tee progress + Pure css Implementation" [Seisemane](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Setšhaena](https://juejin.cn/post/7413586285954154522) .
+Tšhomišano ya mafelelo a ka pele, baara ya tšwelopele ya go rwala ya tšhupamabaka e ka bontšhwa go efoga go šalela morago ge o laetša ka lekga la mathomo Bona "Baari ya Kgatelopele ka Dipopaye, E theilwe godimo ga e tee progress + Pure css Implementation" [Seisemane](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Setšhaena](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Godimo Go Ngwala Ka Nako E Tee
 
-Projeke e [idb](https://www.npmjs.com/package/idb) e thehiloeng encapsulation asynchronous ya IndexedDB
+Projeke e [idb](//www.npmjs.com/package/idb) e thehiloeng encapsulation asynchronous ya IndexedDB
 
 IndexedDB e bala le go ngwala ke asynchronous. Ge o hlama tšhupamabaka, ditokomane di tla laetšwa ka nako e tee go hlama tšhupamabaka.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Gore go bontšhwe dipoelo tša nyakišišo ge modiriši a thaepa, mohlala, ge `wor` e tsentšwe, mantšu ao a hlomilwego pele ka `wor` go swana le `words` le `work` a a bontšhwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel ya nyakišišo e tla šomiša tafola ya `prefix` ya lentšu la mafelelo ka morago ga karoganyo ya mantšu go hwetša mantšu ka moka ao a hlomilwego pele ka yona, gomme o nyake ka tatelano.
 
@@ -170,7 +170,7 @@ Akanya gore go na le mantšu `N` ka morago ga karoganyo ya mantšu Ge o bušetš
 
 Dipoelo tša nyakišišo tšeo di bontšhitšwego pele di netefatša go nepagala ga potšišo, gomme dipoelo tšeo di laeditšwego ka morago (klika konope ya go laetša tše ntši) di netefatša seelo sa go gopola.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Morwalo Ka Nyakego
 
@@ -182,7 +182,7 @@ Hlokomela gore nako le nako ge o nyaka gape ka morago ga `yield` , o swanetše g
 
 Gore go bontšhwe dipoelo tša nyakišišo ge modiriši a thaepa, mohlala, ge `wor` e tsentšwe, mantšu ao a hlomilwego pele ka `wor` go swana le `words` le `work` a a bontšhwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel ya nyakišišo e tla šomiša tafola ya `prefix` ya lentšu la mafelelo ka morago ga karoganyo ya mantšu go hwetša mantšu ka moka ao a hlomilwego pele ka yona, gomme o nyake ka tatelano.
 
@@ -212,7 +212,7 @@ Ka nako e swanago, ka lebaka la gore `service worker` e boloka dihlogo ka moka, 
 
 Ge o bontšha dipoelo tša nyakišišo, leina la kgaolo le tla bontšhwa gomme kgaolo e tla sepetšwa ge e klika.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Akaretša
 

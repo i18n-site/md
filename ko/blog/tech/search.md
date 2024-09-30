@@ -24,7 +24,7 @@
 
 둘째, 순수 프런트엔드 전체 텍스트 검색입니다.
 
-일반적으로 사용되는 순수 프런트엔드 전체 텍스트 검색에는 [lunrjs](/0) 및 [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) 포함됩니다.
+현재 일반적인 순수 프론트엔드 전체 텍스트 검색에는 [lunrjs](//lunrjs.com)와 [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) ( `lunrjs`를 기반으로 재개발된 것)이 있습니다.
 
 `lunrjs`는 두 가지 방법으로 인덱스를 구축할 수 있지만, 모두 고유한 문제를 가지고 있습니다.
 
@@ -42,11 +42,11 @@
 
 `lunrjs` 외에도 다른 전체 텍스트 검색 솔루션이 있습니다 :
 
-[fusejs](https://www.fusejs.io)는 문자열 간의 유사성을 계산하여 검색합니다.
+[fusejs](//www.fusejs.io)는 문자열 간의 유사도를 계산하여 검색을 수행합니다.
 
-이 솔루션의 성능은 매우 낮으며 전체 텍스트 검색에 적합하지 않습니다( [Fuse.js 긴 쿼리에 10 초 이상이 소요됩니다. 최적화 방법은 무엇입니까?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+이 방법은 성능이 매우 낮아 전체 텍스트 검색에 사용하기에 적합하지 않습니다. ( 참조: [Fuse.js의 긴 쿼리가 10초 이상 걸립니다. 어떻게 최적화할 수 있을까요?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) )
 
-[TinySearch](https://github.com/tinysearch/tinysearch)는 블룸 필터를 사용하여 검색하지만 접두사 검색(예: `goo` 입력, `good` , `google` 검색)에 사용할 수 없으며 유사한 자동 완성 효과를 얻을 수 없습니다.
+[TinySearch](//github.com/tinysearch/tinysearch)는 블룸 필터를 사용하여 검색하지만, 접두어 검색(예를 들어, `goo`를 입력하고 `good`나 `google`을 검색)이나 자동 완성 기능을 구현할 수 없습니다.
 
 기존 솔루션의 여러 가지 단점을 보완하기 위해 `i18n.site`는 새로운 순수 프런트엔드 전체 텍스트 검색 솔루션을 자체 개발했습니다. 그 특징은 다음과 같습니다:
 
@@ -62,7 +62,7 @@
 
 단어 분할은 브라우저의 기본 단어 분할 `Intl.Segmenter` 을 사용하며 모든 주류 브라우저는 이 인터페이스를 지원합니다.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 단어 분할 `coffeescript` 코드는 다음과 같습니다
 
@@ -103,11 +103,11 @@ export segqy = (q) =>
 
 이런 방식으로 증분 인덱싱이 가능하고 계산량이 줄어듭니다.
 
-프런트 엔드 상호 작용에서는 처음 로드할 때 지연을 방지하기 위해 인덱스의 로딩 진행률 표시줄을 표시할 수 있습니다. "단일 progress + 순수 css 구현을 기반으로 하는 애니메이션 진행률 표시줄"을 참조하세요. [영어](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [중국어](https://juejin.cn/post/7413586285954154522).
+프론트엔드 상호작용에서는, 첫 번째 로드 시 지연을 방지하기 위해 인덱스 로딩 진행 상황을 보여주는 프로그레스 바를 표시할 수 있습니다. '단일 progress + 순수 CSS로 구현된 애니메이션 진행 상황 표시줄'을 참조하세요. [영어](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [중국어](//juejin.cn/post/7413586285954154522).
 
 ### IndexedDB 고성능 동시 쓰기
 
-이 프로젝트는 IndexedDB의 비동기 캡슐화를 기반으로 [idb](https://www.npmjs.com/package/idb)을 개발했습니다.
+이 프로젝트는 IndexedDB의 비동기적 래핑을 기반으로 [idb](//www.npmjs.com/package/idb)를 사용하여 개발되었습니다.
 
 IndexedDB 읽기 및 쓰기는 비동기식입니다. 인덱스를 생성할 때 문서가 동시에 로드되어 인덱스가 생성됩니다.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 사용자가 입력하는 동안 검색 결과를 표시하기 위해, 예를 들어 `wor` 입력하면 `words` , `work` 와 같이 앞에 `wor` 붙는 단어가 표시됩니다.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 검색 커널은 단어 분할 후 마지막 단어에 대해 `prefix` 테이블을 사용하여 접두사가 붙은 모든 단어를 찾고 순서대로 검색합니다.
 
@@ -170,7 +170,7 @@ export default (wait, func) => {
 
 먼저 표시되는 검색 결과는 쿼리의 정확성을 보장하고 이후에 로드되는 결과(더 보기 버튼 클릭)는 재현율을 보장합니다.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## 요청 시 로드
 
@@ -182,7 +182,7 @@ export default (wait, func) => {
 
 사용자가 입력하는 동안 검색 결과를 표시하기 위해, 예를 들어 `wor` 입력하면 `words` , `work` 와 같이 앞에 `wor` 붙는 단어가 표시됩니다.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 검색 커널은 단어 분할 후 마지막 단어에 대해 `prefix` 테이블을 사용하여 접두사가 붙은 모든 단어를 찾고 순서대로 검색합니다.
 
@@ -212,7 +212,7 @@ export default (wait, func) => {
 
 검색 결과를 표시할 때 장 이름이 표시되며, 클릭하면 해당 장을 탐색합니다.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## 요약
 

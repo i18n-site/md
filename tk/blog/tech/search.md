@@ -24,7 +24,7 @@ Oflayn ulanyp bolmaýar, intranetde ulanyp bolmaýar we uly çäklendirmeleri ba
 
 Ikinjisi, doly tekstli gözleg.
 
-Köplenç ulanylýan arassa öňdäki doly tekst gözlegleri we [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) [lunrjs](https://lunrjs.com)
+Häzirki wagtda umumy arassa tekstli gözlegler we [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) ( `lunrjs` ikinji derejeli ösüşe esaslanýar) öz içine alýar [lunrjs](//lunrjs.com)
 
 `lunrjs` Indeksleri gurmagyň iki ýoly bar we ikisiniňem öz problemalary bar.
 
@@ -42,11 +42,11 @@ Köplenç ulanylýan arassa öňdäki doly tekst gözlegleri we [ ElasticLunr.js
 
 `lunrjs` dan başga-da, başga-da doly tekst gözleg çözgütleri bar :
 
-gözlemek üçin setirleriň arasyndaky meňzeşligi hasaplaň [fusejs](https://www.fusejs.io)
+gözlemek üçin setirleriň arasyndaky meňzeşligi hasaplaň [fusejs](//www.fusejs.io)
 
-Bu çözgüdiň öndürijiligi gaty pes we doly tekst gözlemek üçin ulanyp bolmaýar (serediň [Fuse.js Uzyn talap 10 sekuntdan köp wagt alýar, nädip optimizirlemeli?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Bu çözgüdiň öndürijiligi gaty pes we doly tekst gözlemek üçin ulanyp bolmaýar (serediň [Fuse.js Uzyn talap 10 sekuntdan köp wagt alýar, nädip optimizirlemeli?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-gözlemek üçin “Bloom” süzgüçini ulanyň [TinySearch](https://github.com/tinysearch/tinysearch) prefiks gözlemek üçin ulanyp bolmaýar (mysal üçin `goo` giriziň, `good` , `google` gözläň) we şuňa meňzeş awtomatiki gutarnykly effekt gazanyp bilmersiňiz.
+gözlemek üçin “Bloom” süzgüçini ulanyň [TinySearch](//github.com/tinysearch/tinysearch) prefiks gözlemek üçin ulanyp bolmaýar (mysal üçin `goo` giriziň, `good` , `google` gözläň) we şuňa meňzeş awtomatiki gutarnykly effekt gazanyp bilmersiňiz.
 
 Bar bolan çözgütleriň kemçilikleri sebäpli, `i18n.site` aşakdaky aýratynlyklara eýe bolan täze arassa doly tekstli gözleg çözgüdini döretdi :
 
@@ -62,7 +62,7 @@ Aşakda `i18n.site` tehniki durmuşa geçiriş jikme-jigi jikme-jik hödürlener
 
 Söz segmentasiýasy brauzeriň ýerli söz segmentasiýasy `Intl.Segmenter` ulanýar we ähli esasy brauzerler bu interfeýsi goldaýarlar.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Segmentasiýa `coffeescript` kody aşakdaky ýaly
 
@@ -103,11 +103,11 @@ içinde:
 
 Şeýlelik bilen, artdyrylan indekslere ýetip bolýar we hasaplamanyň mukdary azalýar.
 
-Öňdäki özara täsirde, indeksiň ýükleniş öňegidişligi ilkinji gezek ýüklenende yza galmazlyk üçin görkezilip bilner. "Aneke progress + täk esasly Pure css Durmuşa" [Iňlis](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [hytaý diline](https://juejin.cn/post/7413586285954154522) serediň.
+Öňdäki özara täsirde, indeksiň ýükleniş öňegidişligi ilkinji gezek ýüklenende yza galmazlyk üçin görkezilip bilner. "Aneke progress + täk esasly Pure css Durmuşa" [Iňlis](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [hytaý diline](//juejin.cn/post/7413586285954154522) serediň.
 
 ### IndexedDB Ýokary Yzygiderli Ýazuw
 
-Taslama asynkron encapsulýasiýa esasynda [idb](https://www.npmjs.com/package/idb) IndexedDB
+Taslama asynkron encapsulýasiýa esasynda [idb](//www.npmjs.com/package/idb) IndexedDB
 
 IndexedDB okaýar we ýazýar asynkron. Indeks döredilende, indeks döretmek üçin resminamalar bir wagtyň özünde ýüklener.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ulanyjy ýazýarka gözleg netijelerini görkezmek üçin, mysal üçin `wor` girizilende, `words` we `work` ýaly `wor` bilen prefiks edilen sözler görkezilýär.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Gözleg ýadrosy, söz düzüminden soň iň soňky söz üçin `prefix` tablisany ulanar we öňünden goşulan sözleri tapar we yzygiderli gözlär.
 
@@ -170,7 +170,7 @@ Segmentasiýa sözünden soň `N` söz bar diýip çaklaň, netijeler gaýdyp ge
 
 Ilki bilen görkezilen gözleg netijeleri, soragyň takyklygyny üpjün edýär we soň ýüklenen netijeler (has köp ýük düwmesine basyň) yzyna gaýtarmagyň tizligini üpjün edýär.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Talap Boýunça Ýük
 
@@ -182,7 +182,7 @@ Her gezek `yield` dan soň täzeden gözläniňizde, `IndexedDB` den talap amaly
 
 Ulanyjy ýazýarka gözleg netijelerini görkezmek üçin, mysal üçin `wor` girizilende, `words` we `work` ýaly `wor` bilen prefiks edilen sözler görkezilýär.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Gözleg ýadrosy, söz düzüminden soň iň soňky söz üçin `prefix` tablisany ulanar we öňünden goşulan sözleri tapar we yzygiderli gözlär.
 
@@ -212,7 +212,7 @@ Gözleg netijelerini görkezmek, asyl teksti täzeden ýüklemegi talap edýär 
 
 Gözleg netijeleri görkezilende, bölümiň ady görkeziler we basylanda bap ugrukdyrylar.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Gysgaça Jemläň
 

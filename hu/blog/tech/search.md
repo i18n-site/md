@@ -24,7 +24,7 @@ Nem használható offline, nem használható belső hálózaton, és jelentős k
 
 A második csoport a tiszta front-end teljes szöveges keresés.
 
-Az általánosan használt tiszta front-end teljes szöveges keresések közé tartozik [lunrjs](/0) és a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Jelenleg a gyakran használt tiszta front-end teljes szöveges keresőeszközök közé tartozik a [lunrjs](//lunrjs.com) és az [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (a `lunrjs` továbbfejlesztett verziója).
 
 A `lunrjs` két indexelési módszert kínál, mindkettőnek megvannak a maga problémái.
 
@@ -42,11 +42,11 @@ A `lunrjs` két indexelési módszert kínál, mindkettőnek megvannak a maga pr
 
 `lunrjs` mellett több más teljes szöveges keresési megoldás is létezik, például:
 
-[fusejs](https://www.fusejs.io), amely a karakterláncok közötti hasonlóságot számítja ki.
+A [fusejs](//www.fusejs.io) a karakterláncok közötti hasonlóság számításával végez keresést.
 
-Ez a megoldás teljesítménye rendkívül gyenge, és nem használható teljes szöveges keresésre (lásd [Fuse.js Hosszú lekérdezések 10 másodpercnél tovább tartanak, hogyan lehet optimalizálni?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+Ez a megoldás teljesítménye 매우 gyenge, és nem alkalmas teljes szöveges keresésre (lásd: [Fuse.js hosszú lekérdezés esetén a keresés 10 másodpercnél tovább tart, hogyan lehet optimalizálni?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch), amely a Bloom szűrőt használja a kereséshez, nem használható előtag keresésre (például `goo` beírása esetén `good` vagy `google` keresése), és nem érhető el hasonló automatikus befejezési hatás.
+A [TinySearch](//github.com/tinysearch/tinysearch) Bloom-szűrőt használ a kereséshez, és nem alkalmas előtagkeresésre (például ha beírjuk `goo`, nem találja a `good` vagy `google` kifejezéseket), továbbá nem képes automatikus kiegészítés effektusának létrehozására.
 
 Mivel a meglévő megoldások különböző hátrányai miatt az `i18n.site` egy új tiszta front-end teljes szöveges keresési megoldást fejlesztett, amely a következő jellemzőkkel rendelkezik:
 
@@ -62,7 +62,7 @@ Az alábbiakban részletesen bemutatjuk az `i18n.site` technikai megvalósítás
 
 A szótagolás `coffeescript` kódja a következő:
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 A szótagolás `coffeescript` kódja a következő:
 
@@ -103,11 +103,11 @@ Adja meg a dokumentumok `url` és `ver` verziószám tömbjét, és keresse meg,
 
 Ily módon elérhető a növekményes indexelés, és csökkenthető a számítások mennyisége.
 
-A front-end interakció során jelenítse meg az index betöltési folyamatjelzőt, hogy elkerülje a késést az első betöltéskor. Lásd: „Előrehaladás sáv animációval, egyetlen megvalósításon alapuló progress + Pure css Implementation” [angol](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [kínai](https://juejin.cn/post/7413586285954154522).
+A front-end interakció során érdemes megjeleníteni az index betöltési folyamatjelzőt, hogy elkerüljük a lassúságot az első betöltéskor. Lásd: „Animált előrehaladás sáv egyetlen progress és tiszta CSS alapján” [angol](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [kínai](//juejin.cn/post/7413586285954154522).
 
 ### IndexedDB magas párhuzamos írás
 
-A projekt az [idb](https://www.npmjs.com/package/idb) IndexedDB alapján fejlesztve.
+A projekt az IndexedDB 异步封装 [idb](//www.npmjs.com/package/idb) alapján készült.
 
 Az IndexedDB olvasása és írása aszinkron. Az index létrehozásakor a dokumentumok egyidejűleg betöltődnek az index létrehozásához.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Annak érdekében, hogy a keresési eredményeket a felhasználó gépelése közben jelenítse meg, például amikor `wor`-t ír be, jelenítsen meg `wor` előtagú szavakat, például `words` és `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 A front-end interakciókban a `debounce` rázkódásgátló funkciót használjuk, hogy csökkentsük a keresést kiváltó felhasználói bevitel gyakoriságát és csökkentsük a számítások mennyiségét.
 
@@ -170,7 +170,7 @@ Tételezzük fel, hogy a szószegmentálás után `N` szó van. Az eredmények v
 
 Az elsőként megjelenített keresési eredmények biztosítják a lekérdezés pontosságát, az utólag betöltött eredmények (kattintson a további betöltése gombra) pedig a teljesítményt.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Igény szerinti terhelés
 
@@ -182,7 +182,7 @@ Vegye figyelembe, hogy minden alkalommal, amikor újra keres `yield` után, újr
 
 Annak érdekében, hogy a keresési eredményeket a felhasználó gépelése közben jelenítse meg, például amikor `wor`-t ír be, jelenítsen meg `wor` előtagú szavakat, például `words` és `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 A front-end interakciókban a `debounce` rázkódásgátló funkciót használjuk, hogy csökkentsük a keresést kiváltó felhasználói bevitel gyakoriságát és csökkentsük a számítások mennyiségét.
 
@@ -212,7 +212,7 @@ A `i18n.site` tiszta front-end keresési megoldása a `Markdown` dokumentumokra 
 
 A keresési eredmények megjelenítésekor jelenítse meg a fejezet neveket, és navigáljon a kattintással a fejezetekhez.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Összefoglalva
 

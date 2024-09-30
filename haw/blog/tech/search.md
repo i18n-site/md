@@ -24,7 +24,7 @@ Pono ia mau lawelawe i ka uku ma muli o ka nui o ka huli ʻana, a ʻaʻole i loa
 
 ʻO ka lua, ʻo ia ka ʻimi kikokikona piha mua.
 
-[lunrjs](https://lunrjs.com) nā ʻimi kikokikona piha maʻemaʻe i hoʻohana mau ʻia me ka [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+I kēia manawa, `lunrjs` nā ʻimi kikokikona piha maʻemaʻe [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) [lunrjs](//lunrjs.com)
 
 `lunrjs` ʻElua ala e kūkulu ai i nā kuhikuhi, a loaʻa iā lāua nā pilikia ponoʻī.
 
@@ -42,11 +42,11 @@ Pono ia mau lawelawe i ka uku ma muli o ka nui o ka huli ʻana, a ʻaʻole i loa
 
 Ma waho aʻe o `lunrjs` , aia kekahi mau ʻōlelo hoʻoponopono ʻimi kikokikona piha, e like me :
 
-[fusejs](https://www.fusejs.io) , e helu i ka like ana o na kaula e huli ai.
+[fusejs](//www.fusejs.io) , e helu i ka like ana o na kaula e huli ai.
 
-ʻAʻole hiki ke hoʻohana ʻia no ka huli kikokikona piha (e ʻike [Fuse.js ʻOi aku ka lōʻihi o ka huli ʻana ma mua o 10 kekona, pehea e hoʻonui ai?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+ʻAʻole hiki ke hoʻohana ʻia no ka huli kikokikona piha (e ʻike [Fuse.js ʻOi aku ka lōʻihi o ka huli ʻana ma mua o 10 kekona, pehea e hoʻonui ai?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , hoʻohana i ka kānana Bloom no ka huli ʻana, ʻaʻole hiki ke hoʻohana ʻia no ka ʻimi prefix (no ka laʻana, hoʻokomo i `goo` , huli `good` , `google` ), a ʻaʻole hiki ke loaʻa i ka hopena hoʻopau ʻakomi like.
+[TinySearch](//github.com/tinysearch/tinysearch) , hoʻohana i ka kānana Bloom no ka huli ʻana, ʻaʻole hiki ke hoʻohana ʻia no ka ʻimi prefix (no ka laʻana, hoʻokomo i `goo` , huli `good` , `google` ), a ʻaʻole hiki ke loaʻa i ka hopena hoʻopau ʻakomi like.
 
 Ma muli o nā hemahema o nā hāʻina i loaʻa, ua hoʻomohala ʻo `i18n.site` i kahi hoʻoponopono hulina kikokikona piha mua maʻemaʻe, nona nā ʻano aʻe :
 
@@ -62,7 +62,7 @@ Ma lalo iho nei, e hōʻike ʻia nā kikoʻī hoʻokō ʻenehana `i18n.site` .
 
 Hoʻohana ka ʻāpana huaʻōlelo i ka māhele huaʻōlelo ʻōiwi o ka polokalamu kele pūnaewele `Intl.Segmenter` , a kākoʻo nā mākaʻikaʻi koʻikoʻi āpau i kēia interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Penei ke code segmentation `coffeescript`
 
@@ -103,11 +103,11 @@ E hoʻokomo i ka pūʻulu o ka palapala `url` a me ka helu helu `ver` , a e ʻim
 
 Ma kēia ala, hiki ke hoʻokō ʻia ka helu helu hoʻonui a hoʻemi ʻia ka nui o ka helu ʻana.
 
-Ma ka pilina mua, hiki ke hōʻike ʻia ka papa kuhikuhi hoʻouka holomua e pale aku i ka lag i ka wā e hoʻouka ai no ka manawa mua e ʻike i ka "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Ma ka pilina mua, hiki ke hōʻike ʻia ka papa kuhikuhi hoʻouka holomua e pale aku i ka lag i ka wā e hoʻouka ai no ka manawa mua e ʻike i ka "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Kākau Hoʻokahi Kiʻekiʻe
 
-[idb](https://www.npmjs.com/package/idb) ka papahana ma muli o ka encapsulation asynchronous o IndexedDB
+[idb](//www.npmjs.com/package/idb) ka papahana ma muli o ka encapsulation asynchronous o IndexedDB
 
 He asynchronous ka heluhelu a kākau ʻana o IndexedDB. I ka hana ʻana i kahi papa kuhikuhi, e hoʻouka ʻia nā palapala i ka manawa like e hana i ka index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 I mea e hōʻike ai i nā hualoaʻa i ka wā e paʻi ana ka mea hoʻohana, no ka laʻana, ke hoʻokomo ʻia `wor` , hōʻike ʻia nā huaʻōlelo i kau mua ʻia me `wor` e like me `words` a me `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 E hoʻohana ka kernel huli i ka papa `prefix` no ka huaʻōlelo hope ma hope o ka ʻāpana huaʻōlelo e ʻimi i nā huaʻōlelo a pau i kau mua ʻia me ia, a huli ma ke kaʻina.
 
@@ -170,7 +170,7 @@ Manaʻo ʻia he `N` mau huaʻōlelo ma hope o ka ʻāpana huaʻōlelo Ke hoʻiho
 
 ʻO nā hualoaʻa i hōʻike mua ʻia e hōʻoia i ka pololei o ka nīnau, a ua hoʻouka ʻia nā hopena ma hope (e kaomi i ke pihi hoʻouka hou aku) e hōʻoia i ka helu hoʻomanaʻo.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Hoʻouka Ma Ke Koi
 
@@ -182,7 +182,7 @@ E hoʻomanaʻo i kēlā me kēia manawa āu e ʻimi hou ai ma hope o `yield` , p
 
 I mea e hōʻike ai i nā hualoaʻa i ka wā e paʻi ana ka mea hoʻohana, no ka laʻana, ke hoʻokomo ʻia `wor` , hōʻike ʻia nā huaʻōlelo i kau mua ʻia me `wor` e like me `words` a me `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 E hoʻohana ka kernel huli i ka papa `prefix` no ka huaʻōlelo hope ma hope o ka ʻāpana huaʻōlelo e ʻimi i nā huaʻōlelo a pau i kau mua ʻia me ia, a huli ma ke kaʻina.
 
@@ -212,7 +212,7 @@ I ka manawa like, no ka mea e hūnā ʻo `service worker` i nā ʻatikala a pau,
 
 Ke hōʻike ʻia nā hopena hulina, e hōʻike ʻia ka inoa mokuna a e hoʻokele ʻia ka mokuna ke kaomi ʻia.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Hōʻuluʻulu
 

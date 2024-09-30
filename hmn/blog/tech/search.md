@@ -24,7 +24,7 @@ Nws tsis tuaj yeem siv offline, tsis tuaj yeem siv hauv intranet, thiab muaj kev
 
 Qhov thib ob yog qhov ntshiab pem hauv ntej-kawg nrhiav cov ntawv nyeem.
 
-Feem ntau siv cov ntawv sau ua ntej-kawg tshawb nrhiav suav nrog [lunrjs](https://lunrjs.com) thiab [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Tam sim no, kev tshawb nrhiav cov ntawv nyeem puv nkaus suav nrog [lunrjs](//lunrjs.com) thiab [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (raws li `lunrjs` kev txhim kho theem nrab).
 
 `lunrjs` Muaj ob txoj hauv kev los tsim cov indexes, thiab ob leeg muaj lawv tus kheej cov teeb meem.
 
@@ -42,11 +42,11 @@ Feem ntau siv cov ntawv sau ua ntej-kawg tshawb nrhiav suav nrog [lunrjs](https:
 
 Ntxiv rau `lunrjs` , muaj qee qhov kev tshawb nrhiav cov ntawv nyeem tag nrho, xws li :
 
-[fusejs](https://www.fusejs.io) , xam qhov zoo sib xws ntawm cov hlua mus nrhiav.
+[fusejs](//www.fusejs.io) , xam qhov zoo sib xws ntawm cov hlua mus nrhiav.
 
-Qhov kev ua tau zoo ntawm qhov kev daws teeb meem no yog qhov tsis zoo thiab tsis tuaj yeem siv rau kev tshawb nrhiav puv npo (saib [Fuse.js Cov lus nug ntev yuav siv sijhawm ntau dua 10 vib nas this, yuav ua li cas kho nws?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Qhov kev ua tau zoo ntawm qhov kev daws teeb meem no yog qhov tsis zoo thiab tsis tuaj yeem siv rau kev tshawb nrhiav tag nrho (saib [Fuse.js Cov lus nug ntev yuav siv sijhawm ntau dua 10 vib nas this, yuav ua li cas kom zoo dua?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , siv Bloom lim los tshawb nrhiav, tsis tuaj yeem siv rau kev tshawb nrhiav ua ntej (piv txwv li, nkag mus `goo` , tshawb nrhiav `good` , `google` ), thiab tsis tuaj yeem ua tiav cov txiaj ntsig zoo li qub.
+[TinySearch](//github.com/tinysearch/tinysearch) , siv Bloom lim los tshawb nrhiav, tsis tuaj yeem siv rau kev tshawb nrhiav ua ntej (piv txwv li, nkag mus `goo` , tshawb nrhiav `good` , `google` ), thiab tsis tuaj yeem ua tiav cov txiaj ntsig zoo li qub.
 
 Vim yog qhov tsis txaus ntawm cov kev daws teeb meem uas twb muaj lawm, `i18n.site` tau tsim qhov tshiab ntshiab pem hauv ntej-kawg tag nrho cov ntawv tshawb nrhiav, uas muaj cov yam ntxwv hauv qab no :
 
@@ -62,7 +62,7 @@ Hauv qab no, `i18n.site` cov ntsiab lus ntawm kev siv cov txheej txheem yuav rau
 
 Lo lus segmentation siv lub browser haiv neeg lo lus segmentation `Intl.Segmenter` , thiab tag nrho cov mainstream browsers txhawb no interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Lo lus segmentation `coffeescript` code yog raws li nram no
 
@@ -103,11 +103,11 @@ Hla nyob rau hauv cov array ntawm cov ntaub ntawv `url` thiab version number `ve
 
 Nyob rau hauv txoj kev no, incremental indexing tuaj yeem ua tiav thiab cov nqi ntawm kev suav raug txo.
 
-Nyob rau hauv pem hauv ntej-kawg kev sib cuam tshuam, lub loading nce bar ntawm qhov Performance index tuaj yeem tso tawm kom tsis txhob muaj kev lag luam thaum thauj khoom thawj zaug Saib "Progress Bar nrog Animation, Raws li Ib Leeg progress + Pure css Implementation" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Suav](https://juejin.cn/post/7413586285954154522) .
+Nyob rau hauv pem hauv ntej-kawg kev sib cuam tshuam, lub loading nce bar ntawm qhov Performance index tuaj yeem tso tawm kom tsis txhob muaj kev lag luam thaum thauj khoom thawj zaug Saib "Progress Bar nrog Animation, Raws li Ib Leeg progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Suav](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Siab Concurrent Sau
 
-Qhov project yog [idb](https://www.npmjs.com/package/idb) los ntawm asynchronous encapsulation ntawm IndexedDB
+Qhov project yog [idb](//www.npmjs.com/package/idb) los ntawm asynchronous encapsulation ntawm IndexedDB
 
 IndexedDB nyeem thiab sau ntawv yog asynchronous. Thaum tsim ib qho index, cov ntaub ntawv yuav raug thauj khoom ib txhij los tsim qhov ntsuas.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Txhawm rau tso saib cov txiaj ntsig tshawb fawb thaum tus neeg siv ntaus ntawv, piv txwv li, thaum `wor` nkag mus, cov lus ua ntej nrog `wor` xws li `words` thiab `work` raug tso tawm.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Cov lus tshawb nrhiav yuav siv `prefix` lub rooj rau lo lus kawg tom qab lo lus segmentation kom pom tag nrho cov lus ua ntej nrog nws, thiab tshawb hauv ib ntus.
 
@@ -170,7 +170,7 @@ Xav tias muaj `N` lo lus tom qab lo lus segmentation thaum rov qab cov txiaj nts
 
 Cov txiaj ntsig kev tshawb fawb tau tshwm sim thawj zaug kom paub meej qhov tseeb ntawm cov lus nug, thiab cov txiaj ntsig tau thauj khoom tom qab (nias lub pob ntxiv ntxiv) kom ntseeg tau tus nqi rov qab.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Load Raws Li Xav Tau
 
@@ -182,7 +182,7 @@ Nco ntsoov tias txhua zaus koj tshawb nrhiav dua tom qab `yield` , koj yuav tsum
 
 Txhawm rau tso saib cov txiaj ntsig tshawb fawb thaum tus neeg siv ntaus ntawv, piv txwv li, thaum `wor` nkag mus, cov lus ua ntej nrog `wor` xws li `words` thiab `work` raug tso tawm.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Cov lus tshawb nrhiav yuav siv `prefix` lub rooj rau lo lus kawg tom qab lo lus segmentation kom pom tag nrho cov lus ua ntej nrog nws, thiab tshawb hauv ib ntus.
 
@@ -212,7 +212,7 @@ Tib lub sijhawm, vim tias `service worker` caches tag nrho cov ntawv, thaum tus 
 
 Thaum pom cov txiaj ntsig tshawb fawb, tshooj npe yuav tshwm sim thiab tshooj yuav raug xa mus thaum nias.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Cov Ntsiab Lus
 

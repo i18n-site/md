@@ -24,7 +24,7 @@ Et kann net offline benotzt ginn, kann net am Intranet benotzt ginn, an huet gro
 
 Déi zweet ass reng Front-End Volltext Sich.
 
-Allgemeng benotzt pure Front-End Volltext Sichen [lunrjs](https://lunrjs.com) an [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Am Moment sinn [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) pure Front `lunrjs` End Volltext Recherchen [lunrjs](//lunrjs.com)
 
 `lunrjs` Et ginn zwou Méiglechkeeten fir Indexen ze bauen, a béid hunn hir eege Problemer.
 
@@ -42,11 +42,11 @@ Allgemeng benotzt pure Front-End Volltext Sichen [lunrjs](https://lunrjs.com) an
 
 Zousätzlech zu `lunrjs` ginn et e puer aner Volltext Sichléisungen, wéi :
 
-[fusejs](https://www.fusejs.io) berechent d'Ähnlechkeet tëscht Strings fir ze sichen.
+[fusejs](//www.fusejs.io) berechent d'Ähnlechkeet tëscht Strings fir ze sichen.
 
-D'Leeschtung vun dëser Léisung ass extrem schlecht a kann net fir Volltext Sich benotzt ginn (kuckt [Fuse.js Laang Ufro dauert méi wéi 10 Sekonnen, wéi optimiséieren ech et?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+D'Leeschtung vun dëser Léisung ass extrem schlecht a kann net fir Volltext Sich benotzt ginn (kuckt [Fuse.js Laang Ufro dauert méi wéi 10 Sekonnen, wéi optimiséieren ech et?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) benotzt Bloom Filter fir ze sichen, kann net fir Präfix Sich benotzt ginn (zum Beispill, gitt `goo` , Sich `good` , `google` ), a kann net ähnlechen automateschen Ofschlosseffekt erreechen.
+[TinySearch](//github.com/tinysearch/tinysearch) benotzt Bloom Filter fir ze sichen, kann net fir Präfix Sich benotzt ginn (zum Beispill, gitt `goo` , Sich `good` , `google` ), a kann net ähnlechen automateschen Ofschlosseffekt erreechen.
 
 Wéinst de Mängel vun den existente Léisungen huet `i18n.site` eng nei pure Front-End Volltext Sichléisung entwéckelt, déi folgend Charakteristiken huet :
 
@@ -62,7 +62,7 @@ Drënner ginn `i18n.site` technesch Ëmsetzungsdetailer am Detail agefouert.
 
 Wuert Segmentatioun benotzt de Browser seng gebierteg Wuert Segmentatioun `Intl.Segmenter` , an all Mainstream Browser ënnerstëtzen dës Interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 D'Wuert Segmentatioun `coffeescript` Code ass wéi follegt
 
@@ -103,11 +103,11 @@ Gitt an d'Array vum Dokument `url` a Versioun Nummer `ver` , a sichen ob d'Dokum
 
 Op dës Manéier kann inkrementell Indexéierung erreecht ginn an de Betrag vun der Berechnung reduzéiert ginn.
 
-A Front-End Interaktioun kann d'Laascht Fortschrëtter Bar vum Index ugewisen ginn / [fir](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) d'Laag beim progress + fir d'éischte css ze vermeiden [.](https://juejin.cn/post/7413586285954154522)
+A Front-End Interaktioun kann d'Laascht Fortschrëtter Bar vum Index ugewisen ginn / [fir](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) d'Laag beim progress + fir d'éischte css ze vermeiden [.](//juejin.cn/post/7413586285954154522)
 
 ### IndexedDB Héich Concurrent Schreiwen
 
-De Projet ass [idb](https://www.npmjs.com/package/idb) baséiert op der asynchroner Encapsulation vun IndexedDB
+De Projet ass [idb](//www.npmjs.com/package/idb) baséiert op der asynchroner Encapsulation vun IndexedDB
 
 IndexedDB Liest a Schreift sinn asynchron. Wann Dir en Index erstellt, ginn Dokumenter gläichzäiteg gelueden fir den Index ze kreéieren.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Fir d'Sichresultater ze weisen, während de Benotzer tippt, zum Beispill, wann `wor` aginn ass, gi Wierder mat `wor` wéi `words` an `work` ugewisen.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 De Sichkär benotzt den `prefix` Tabelle fir dat lescht Wuert no der Wuertsegmentatioun fir all Wierder ze fannen, déi mat der Präfix sinn, a sichen an der Sequenz.
 
@@ -170,7 +170,7 @@ Gitt un datt et `N` Wierder no der Wuertsegmentatioun gëtt Wann Dir Resultater 
 
 D'Sichresultater, déi als éischt ugewise ginn, garantéieren d'Genauegkeet vun der Ufro, an d'Resultater, déi duerno gelueden ginn (klickt op de Knäppchen Luet méi) garantéieren den Réckruffquote.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Lued Op Nofro
 
@@ -182,7 +182,7 @@ Notéiert datt all Kéier wann Dir nach eng Kéier no `yield` sicht, musst Dir e
 
 Fir d'Sichresultater ze weisen, während de Benotzer tippt, zum Beispill, wann `wor` aginn ass, gi Wierder mat `wor` wéi `words` an `work` ugewisen.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 De Sichkär benotzt den `prefix` Tabelle fir dat lescht Wuert no der Wuertsegmentatioun fir all Wierder ze fannen, déi mat der Präfix sinn, a sichen an der Sequenz.
 
@@ -212,7 +212,7 @@ Zur selwechter Zäit, well `service worker` all Artikelen cachéiert, wann de Be
 
 Wann Dir Sichresultater weist, gëtt de Kapitelnumm ugewisen an d'Kapitel gëtt navigéiert wann Dir klickt.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Zesummefaassen
 

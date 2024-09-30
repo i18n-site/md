@@ -24,7 +24,7 @@ Ngeke isetshenziswe ungaxhunyiwe ku-inthanethi, ayikwazi ukusetshenziswa ku-intr
 
 Okwesibili usesho lombhalo ogcwele osekupheleni.
 
-Ukusesha kombhalo ophelele okuvame [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js kuhlanganisa [lunrjs](https://lunrjs.com)
+Okwamanje, [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) olujwayelekile lombhalo ogcwele ophelele ongaphambili `lunrjs` [lunrjs](//lunrjs.com)
 
 `lunrjs` Kunezindlela ezimbili zokwakha izinkomba, futhi zombili zinezinkinga zazo.
 
@@ -42,11 +42,11 @@ Ukusesha kombhalo ophelele okuvame [https://github.com/weixsong/elasticlunr.js](
 
 Ngokungeziwe kokuthi `lunrjs` , kunezinye izixazululo zokusesha zombhalo ogcwele, njengokuthi :
 
-[fusejs](https://www.fusejs.io) , bala ukufana phakathi kwezintambo zokusesha.
+[fusejs](//www.fusejs.io) , bala ukufana phakathi kwezintambo zokusesha.
 
-Ukusebenza kwalesi sixazululo kumbi kakhulu futhi akukwazi ukusetshenziselwa ukusesha umbhalo ogcwele (bheka [Fuse.js Umbuzo omude uthatha ngaphezu kwamasekhondi angu- 10 , ungawulungiselela kanjani?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ukusebenza kwalesi sixazululo kumbi kakhulu futhi akukwazi ukusetshenziselwa ukusesha umbhalo ogcwele (bheka [Fuse.js Umbuzo omude uthatha ngaphezu kwamasekhondi angu- 10 , ungawulungiselela kanjani?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) sebenzisa isihlungi se-Bloom ukusesha, asikwazi ukusetshenziselwa ukusesha isiqalo (isibonelo, faka `goo` , sesha `good` , `google` ), futhi awukwazi ukuzuza umphumela ofanayo wokuqedela ozenzakalelayo.
+[TinySearch](//github.com/tinysearch/tinysearch) sebenzisa isihlungi se-Bloom ukusesha, asikwazi ukusetshenziselwa ukusesha isiqalo (isibonelo, faka `goo` , sesha `good` , `google` ), futhi awukwazi ukuzuza umphumela ofanayo wokuqedela ozenzakalelayo.
 
 Ngenxa yokushiyeka kwezixazululo ezikhona, `i18n.site` usungule isisombululo esisha sombhalo ophelele esihlanzekile esingaphambili, esinezici ezilandelayo :
 
@@ -62,7 +62,7 @@ Ngezansi, imininingwane engu `i18n.site` yokuqalisa ukusebenza izokwethulwa ngok
 
 Ukuhlukaniswa kwegama kusebenzisa ingxenye yegama lesiphequluli elingu `Intl.Segmenter` , futhi zonke iziphequluli ezivamile zisekela lesi sixhumanisi.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Igama elithi segmentation `coffeescript` code limi kanje
 
@@ -103,11 +103,11 @@ Dlula ohlwini lwedokhumenti `url` kanye nenombolo yenguqulo `ver` , bese ucinga 
 
 Ngale ndlela, ukukhomba okukhuphukayo kungafinyelelwa futhi nenani lokubala liyancishiswa.
 
-Ekuhlanganyeleni okungaphambili, ibha yenqubekelaphambili yokulayisha yenkomba ingaboniswa ukuze kugwenywe ukunensa lapho kulayishwa okokuqala ngqa Bona "Ibha Yenqubekelaphambili Enopopayi, Isekelwe Kokukodwa progress + Pure css Implementation" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Ekuhlanganyeleni okungaphambili, ibha yenqubekelaphambili yokulayisha yenkomba ingaboniswa ukuze kugwenywe ukunensa lapho kulayishwa okokuqala ngqa Bona "Ibha Yenqubekelaphambili Enopopayi, Isekelwe Kokukodwa progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### I-IndexedDB Yokubhala Okuphezulu Ngesikhathi Esisodwa
 
-Iphrojekthi [idb](https://www.npmjs.com/package/idb) ngokusekelwe ekuhlanganisweni kwe-asynchronous IndexedDB
+Iphrojekthi [idb](//www.npmjs.com/package/idb) ngokusekelwe ekuhlanganisweni kwe-asynchronous IndexedDB
 
 I-IndexedDB ifunda futhi ibhale asynchronous. Lapho udala inkomba, amadokhumenti azolayishwa kanyekanye ukuze kwakhiwe inkomba.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ukuze ubonise imiphumela yosesho ngenkathi umsebenzisi ebhala, isibonelo, uma kufakwa `wor` , amagama aqanjwe ngo `wor` njengo `words` no `work` ayavezwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 I-kernel yosesho izosebenzisa ithebula `prefix` legama lokugcina ngemva kokuhlukaniswa kwegama ukuze kutholwe wonke amagama aqanjwe ngalo, bese lisesha ngokulandelana.
 
@@ -170,7 +170,7 @@ Cabanga ukuthi kunamagama angu `N` ngemva kwesegimenti yamagama Uma ubuyisela im
 
 Imiphumela yosesho eboniswa kuqala iqinisekisa ukunemba kombuzo, futhi imiphumela elayishwa kamuva (chofoza inkinobho yokulayisha ngaphezulu) iqinisekisa izinga lokukhumbula.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Layisha Ngokufunwa
 
@@ -182,7 +182,7 @@ Qaphela ukuthi isikhathi ngasinye uma usesha futhi ngemva kuka `yield` , udinga 
 
 Ukuze ubonise imiphumela yosesho ngenkathi umsebenzisi ebhala, isibonelo, uma kufakwa `wor` , amagama aqanjwe ngo `wor` njengo `words` no `work` ayavezwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 I-kernel yosesho izosebenzisa ithebula `prefix` legama lokugcina ngemva kokuhlukaniswa kwegama ukuze kutholwe wonke amagama aqanjwe ngalo, bese lisesha ngokulandelana.
 
@@ -212,7 +212,7 @@ Ngesikhathi esifanayo, ngenxa yokuthi `service worker` ugcina zonke iziqephu zen
 
 Uma ubonisa imiphumela yosesho, igama lesahluko lizovezwa futhi isahluko sizozulazulwa lapho ichofozwa.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Fingqa
 

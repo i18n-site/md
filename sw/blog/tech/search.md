@@ -24,7 +24,7 @@ Haiwezi kutumika nje ya mtandao, haiwezi kutumika kwenye intraneti, na ina mapun
 
 Ya pili ni utafutaji safi wa maandishi kamili ya mbele.
 
-Utafutaji wa maandishi kamili ElasticLunr.js kwa [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ni pamoja na [lunrjs](https://lunrjs.com)
+Kwa sasa, utafutaji wa [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) wa `lunrjs` kamili ya mbele ni pamoja na [lunrjs](//lunrjs.com)
 
 `lunrjs` Kuna njia mbili za kuunda faharisi, na zote zina shida zao.
 
@@ -42,11 +42,11 @@ Utafutaji wa maandishi kamili ElasticLunr.js kwa [https://github.com/weixsong/el
 
 Kwa kuongezea `lunrjs` , kuna suluhisho zingine za utaftaji wa maandishi kamili, kama vile :
 
-[fusejs](https://www.fusejs.io) , hesabu kufanana kati ya mifuatano ya kutafuta.
+[fusejs](//www.fusejs.io) , hesabu kufanana kati ya mifuatano ya kutafuta.
 
-Utendaji wa suluhisho hili ni duni sana na hauwezi kutumika kwa utafutaji wa maandishi kamili (tazama [Fuse.js Hoji ndefu huchukua zaidi ya sekunde 10 , jinsi ya kuiboresha?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Utendaji wa suluhisho hili ni duni sana na hauwezi kutumika kwa utafutaji wa maandishi kamili (tazama [Fuse.js Hoji ndefu huchukua zaidi ya sekunde 10 , jinsi ya kuiboresha?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , tumia kichujio cha Bloom kutafuta, haiwezi kutumika kwa utafutaji wa kiambishi awali (kwa mfano, ingiza `goo` , tafuta `good` , `google` ), na haiwezi kufikia athari sawa ya kukamilisha otomatiki.
+[TinySearch](//github.com/tinysearch/tinysearch) , tumia kichujio cha Bloom kutafuta, haiwezi kutumika kwa utafutaji wa kiambishi awali (kwa mfano, ingiza `goo` , tafuta `good` , `google` ), na haiwezi kufikia athari sawa ya kukamilisha otomatiki.
 
 Kwa sababu ya mapungufu ya ufumbuzi uliopo, `i18n.site` imetengeneza ufumbuzi mpya wa utafutaji wa maandishi kamili wa mbele, ambao una sifa zifuatazo :
 
@@ -62,7 +62,7 @@ Hapo chini, maelezo `i18n.site` ya utekelezaji wa kiufundi yatawasilishwa kwa un
 
 Ugawaji wa maneno hutumia sehemu ya neno asilia ya kivinjari `Intl.Segmenter` , na vivinjari vyote vya kawaida vinaauni kiolesura hiki.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Neno segmentation `coffeescript` msimbo ni kama ifuatavyo
 
@@ -103,11 +103,11 @@ Pitia safu ya hati `url` na nambari ya toleo la `ver` , na utafute ikiwa hati ik
 
 Kwa njia hii, indexing ya ongezeko inaweza kupatikana na kiasi cha hesabu kinapunguzwa.
 
-Katika mwingiliano wa mbele, upau wa maendeleo ya upakiaji unaweza kuonyeshwa ili kuzuia kubakia wakati wa kupakia kwa mara ya kwanza Angalia "Upau wa Maendeleo wenye Uhuishaji, Kulingana na Utekelezaji Mmoja progress + Pure css Utekelezaji" [Kiingereza](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Katika mwingiliano wa mbele, upau wa maendeleo ya upakiaji unaweza kuonyeshwa ili kuzuia kubakia wakati wa kupakia kwa mara ya kwanza Angalia "Upau wa Maendeleo wenye Uhuishaji, Kulingana na Utekelezaji Mmoja progress + Pure css Utekelezaji" [Kiingereza](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Uandishi Wa Juu Kwa Wakati Mmoja
 
-Mradi [idb](https://www.npmjs.com/package/idb) kwa msingi wa uwekaji wa asynchronous wa IndexedDB
+Mradi [idb](//www.npmjs.com/package/idb) kwa msingi wa uwekaji wa asynchronous wa IndexedDB
 
 IndexedDB inasoma na kuandika ni ya asynchronous. Wakati wa kuunda faharisi, hati zitapakiwa kwa wakati mmoja ili kuunda faharasa.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ili kuonyesha matokeo ya utafutaji mtumiaji anapoandika, kwa mfano, `wor` inapoingizwa, maneno yaliyowekwa awali na `wor` kama vile `words` na `work` yanaonyeshwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kiini cha utafutaji kitatumia jedwali `prefix` kwa neno la mwisho baada ya mgawanyo wa maneno ili kupata maneno yote yaliyowekwa awali nalo, na kutafuta kwa mfuatano.
 
@@ -170,7 +170,7 @@ Chukulia kuwa kuna maneno `N` baada ya sehemu ya neno Wakati wa kurejesha matoke
 
 Matokeo ya utafutaji yanayoonyeshwa kwanza yanahakikisha usahihi wa hoja, na matokeo yanayopakiwa baadaye (bofya kitufe cha kupakia zaidi) yanahakikisha kasi ya kurejesha.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Pakia Kwa Mahitaji
 
@@ -182,7 +182,7 @@ Kumbuka kwamba kila unapotafuta tena baada ya `yield` , unahitaji kufungua upya 
 
 Ili kuonyesha matokeo ya utafutaji mtumiaji anapoandika, kwa mfano, `wor` inapoingizwa, maneno yaliyowekwa awali na `wor` kama vile `words` na `work` yanaonyeshwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kiini cha utafutaji kitatumia jedwali `prefix` kwa neno la mwisho baada ya mgawanyo wa maneno ili kupata maneno yote yaliyowekwa awali nalo, na kutafuta kwa mfuatano.
 
@@ -212,7 +212,7 @@ Suluhisho safi la utafutaji la mwisho la `i18n.site` limeboreshwa kwa hati `Mark
 
 Wakati wa kuonyesha matokeo ya utafutaji, jina la sura litaonyeshwa na sura itasogezwa wakati kubofya.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Fanya Muhtasari
 

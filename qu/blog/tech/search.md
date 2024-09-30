@@ -24,7 +24,7 @@ Mana internetpi llamk'achiy atikunmanchu, mana intranet kaqpi llamk'achiy atikun
 
 Iskay kaqtaq ch'uya ñawpaq-tukuy hunt'asqa qillqa maskaymi.
 
-Sapa kuti llamk'achisqa ch'uya ñawpaq-tukuy hunt'a qillqa maskanakuna [lunrjs](https://lunrjs.com) , [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Kunan pacha, común ch'uya ñawpaq-tukuy hunt'a qillqa maskanakuna [lunrjs](//lunrjs.com) chaymanta [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) ( `lunrjs` iskay ñiqin wiñachiypi sayasqa).
 
 `lunrjs` Iskay ñanmi kan indicekuna ruwanapaq, iskayninkutaqmi sasachakuyninku kan.
 
@@ -42,11 +42,11 @@ Sapa kuti llamk'achisqa ch'uya ñawpaq-tukuy hunt'a qillqa maskanakuna [lunrjs](
 
 `lunrjs` -manta aswanta, wakin huk hunt'asqa qillqa maskana allichaykunapas kanmi, ahinataq :
 
-[fusejs](https://www.fusejs.io) , maskanapaq watiqakunap rikch'ayninta yupay.
+[fusejs](//www.fusejs.io) , maskanapaq watiqakunap rikch'ayninta yupay.
 
-Kay allichaypa ruwayninqa ancha mana allinmi, manataqmi hunt'asqa qillqa maskanapaq llamk'achiy atikunmanchu (qhaway [Fuse.js Unay tapuyqa aswan 10 segundos nisqamanta, ¿imaynatataq allinchayta?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Kay allichaypa ruwayninqa ancha mana allinmi, manataqmi hunt'asqa qillqa maskanapaq llamk'achiy atikunmanchu (qhaway [Fuse.js Unay tapuyqa aswan 10 segundos nisqamanta, ¿imaynatataq allinchayta?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Kunan kaq allichaykunap pisiyayninrayku, `i18n.site` musuq ch'uya ñawpaq-tukuy hunt'asqa qillqa maskana allichayta ruwarqan, kaytaq kay ruwanakunayuq :
 
@@ -62,7 +62,7 @@ Uraypi, `i18n.site` técnica implementacionmanta detalles detalles riqsichisqa k
 
 Simikuna rakiyqa maskaqpa nativo simi rakiynin `Intl.Segmenter` llamk'achin, llapa hatun maskaqkuna kay interfazta yanapan.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Simi rakiy `coffeescript` codigoqa kayhinam
 
@@ -103,11 +103,11 @@ in:
 
 Chaynapim indexación incremental nisqa ruwakunman, chaymantapas yupaypa achkanmi pisiyachisqa kanman.
 
-Ñawpaq-tukuy tinkiyninpi, indispa karga ñawpaqman puriynin barra rikuchikunman mana qhipakuy kananpaq ñawpaq kuti kargachkaspa Qaway "Ñawpaq puriy Barra Animación kaqwan, Huklla progress + Ch'uya css Implementación kaqpi sayasqa" [Inglés](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chino](https://juejin.cn/post/7413586285954154522) .
+Ñawpaq-tukuy tinkiyninpi, indispa karga ñawpaqman puriynin barra rikuchikunman mana qhipakuy kananpaq ñawpaq kuti kargachkaspa Qaway "Ñawpaq puriy Barra Animación kaqwan, Huklla progress + Ch'uya css Implementación kaqpi sayasqa" [Inglés](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chino](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Hatun Kuska Qillqay
 
-Chay proyectoqa [idb](https://www.npmjs.com/package/idb) kachkan encapsulación asíncrona nisqapi IndexedDB
+Chay proyectoqa [idb](//www.npmjs.com/package/idb) kachkan encapsulación asíncrona nisqapi IndexedDB
 
 IndexedDB ñawiriy chaymanta qillqay mana sincróno kaq. Indice nisqa paqarichispaqa, qillqakunam kuskalla kargasqa kanqa, indis nisqa ruranapaq.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ruwaq qillqachkaptin maskana ruwaykunata qawachinapaq, ahinataq `wor` yaykuptinqa, `wor` ñawpaqchasqa simikuna `words` , `work` hina rikuchikun.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Maskana k'itiqa `prefix` tablata llamk'achinqa qhipa simipaq simi t'aqaymanta qhipaman llapa simikunata chaywan ñawpaqchasqa tarinapaq, chaymanta qatiqpi maskanapaq.
 
@@ -170,7 +170,7 @@ Simikuna rakinakuymanta qhipaman `N` simikuna kasqanmanta yuyaykuy, ruwasqakunat
 
 Maskana ruwaykuna rikuchisqa ñawpaqta tapuypa chiqan kayninta qhawan, chaymanta qhipaman kargasqa ruwasqakuna (aswan karga ñit'iy) yuyarina tarifata qhawan.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Carga en Demanda Nisqa
 
@@ -182,7 +182,7 @@ Reparay sapa kuti `yield` qhipaman wakmanta maskaspaykiqa, `IndexedDB` tapuy ruw
 
 Ruwaq qillqachkaptin maskana ruwaykunata qawachinapaq, ahinataq `wor` yaykuptinqa, `wor` ñawpaqchasqa simikuna `words` , `work` hina rikuchikun.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Maskana k'itiqa `prefix` tablata llamk'achinqa qhipa simipaq simi t'aqaymanta qhipaman llapa simikunata chaywan ñawpaqchasqa tarinapaq, chaymanta qatiqpi maskanapaq.
 
@@ -212,7 +212,7 @@ Chaypachallapi, imaraykuchus `service worker` llapa qillqakunata waqaychan, huk 
 
 Maskanapaq ruwasqakunata qawachiptinchikqa, capitulopa sutinmi qawachikunqa, ñitiykuptinñataqmi capitulota purinqa.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Resumenpi Rimay
 

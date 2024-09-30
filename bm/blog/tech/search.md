@@ -24,7 +24,7 @@ A tɛ se ka baara kɛ ni a ye ɛntɛrinɛti kɔkan, a tɛ se ka kɛ ɛntɛrinɛt
 
 Filanan ye ɲɛfɛla-sɛbɛn dafalen ɲinini saniyalen ye.
 
-Ɲɛjirali saniyalen ElasticLunr.js bɛ kɛ ka caya, [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ye [lunrjs](https://lunrjs.com)
+Sisan, ɲɛfɛla saniyalen ɲinini minnu bɛ kɛ tuma caman na, olu ye [lunrjs](//lunrjs.com) ani [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (min sinsinnen bɛ `lunrjs` filanan yiriwali kan).
 
 `lunrjs` Indexw jɔcogo fila bɛ yen, wa u fila bɛɛ n’u ka gɛlɛyaw don.
 
@@ -42,11 +42,11 @@ Filanan ye ɲɛfɛla-sɛbɛn dafalen ɲinini saniyalen ye.
 
 Ka fara `lunrjs` kan, sɛbɛnni dafalen ɲinini fɛɛrɛ wɛrɛw bɛ yen, i n’a fɔ :
 
-[fusejs](https://www.fusejs.io)
+[fusejs](//www.fusejs.io)
 
-Nin fura in baarakɛcogo man ɲi kosɛbɛ wa a tɛ se ka kɛ sɛbɛnni dafalen ɲinini na (aw ye sɛbɛn ɲɛ [Fuse.js Ɲininkali jan bɛ tɛmɛ segin 10 kan, a bɛ se ka ɲɛ cogo di?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Nin fura in baarakɛcogo ka dɔgɔ kosɛbɛ wa a tɛ se ka kɛ sɛbɛnni dafalen ɲinini na (aw ye sɛbɛn ɲɛ [Fuse.js Ɲininkali jan bɛ tɛmɛ segin 10 kan, a bɛ se ka ɲɛ cogo di?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 K’a sababu kɛ fura minnu bɛ yen, olu dɛsɛw kosɔn, `i18n.site` ye ɲɛfɛla saniyalen ɲinini fɛɛrɛ kura dɔ labɛn, min bɛ ni nin jogo ninnu ye :
 
@@ -62,7 +62,7 @@ Dugujukɔrɔ, fɛɛrɛko waleyali kunnafoni `i18n.site` bɛna jira ka ɲɛ.
 
 Daɲɛw tilatilali bɛ baara Kɛ ni navigatɔrɔn ka daɲɛ tilacogo yɛrɛ ye `Intl.Segmenter` , wa navigatɔrɔnba bɛɛ bɛ o dakun in Dɛmɛ.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Daɲɛ tila-tilacogo `coffeescript` kode bɛ nin cogo in na
 
@@ -103,11 +103,11 @@ Tɛmɛ sɛbɛn `url` ni version numéro `ver` ka sɛrɛkili kɔnɔ, ka ɲinini k
 
 O cogo la, index incremental bɛ se ka sɔrɔ ani jatebɔ hakɛ bɛ dɔgɔya.
 
-Front-end jɛɲɔgɔnya la, index ka doni ɲɛtaa taamasiyɛn bɛ se ka jira walasa ka i yɛrɛ tanga kɔfɛta ma ni doni bɛ kɛ siɲɛ fɔlɔ la Aw ye "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" lajɛ [Angilɛkan](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Sinuwa](https://juejin.cn/post/7413586285954154522)
+Front-end jɛɲɔgɔnya la, index doni ɲɛtaa taamasiyɛn bɛ se ka jira walasa ka i yɛrɛ tanga lag ma ni doni bɛ kɛ siɲɛ fɔlɔ la "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" lajɛ [Angilɛkan](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Sinuwa](//juejin.cn/post/7413586285954154522)
 
 ### IndexedDB Sanfɛ Sɛbɛnni Kɛcogo Kelen Na
 
-Porozɛ [idb](https://www.npmjs.com/package/idb) ka da asynchrone encapsulation kan IndexedDB
+Porozɛ [idb](//www.npmjs.com/package/idb) ka da asynchrone encapsulation kan IndexedDB
 
 IndexedDB kalanni ni sɛbɛnniw ye asynchrone ye. Ni index dɔ dabɔra, sɛbɛnw bɛna doni ɲɔgɔn fɛ walasa ka index da.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Walasa ka ɲinini jaabiw jira k’a sɔrɔ baarakɛla bɛ sɛbɛnni kɛ, misali la, ni `wor` donna, daɲɛ minnu bɛ daminɛ ni `wor` ye i n’a fɔ `words` ani `work` , olu bɛ jira.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ɲini-yɔrɔ bɛna baara Kɛ ni `prefix` tabali ye daɲɛ laban na daɲɛ tilacogo kɔfɛ walasa ka daɲɛw bɛɛ Sɔrɔ minnu bɛ Da a ɲɛfɛ, ka ɲinini Kɛ ka tugu ɲɔgɔn na.
 
@@ -170,7 +170,7 @@ A ka c’a la, daɲɛ `N` bɛ daɲɛ tila-tila kɔfɛ Ni jaabiw seginna, daɲɛ 
 
 Ɲini jaabi minnu bɛ jira fɔlɔ, olu bɛ ɲininkali kɛcogo ɲuman sabati, wa jaabi minnu doni kɔfɛ (butɔn doni caman digi) olu bɛ hakilijigin hakɛ sabati.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Doni Doni Ka Kɛɲɛ Ni Ɲinini Ye
 
@@ -182,7 +182,7 @@ a kɔlɔsi ko tuma o tuma n' i ye ɲinini kɛ tugun `yield` kɔfɛ , i ka kan ka
 
 Walasa ka ɲinini jaabiw jira k’a sɔrɔ baarakɛla bɛ sɛbɛnni kɛ, misali la, ni `wor` donna, daɲɛ minnu bɛ daminɛ ni `wor` ye i n’a fɔ `words` ani `work` , olu bɛ jira.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ɲini-yɔrɔ bɛna baara Kɛ ni `prefix` tabali ye daɲɛ laban na daɲɛ tilacogo kɔfɛ walasa ka daɲɛw bɛɛ Sɔrɔ minnu bɛ Da a ɲɛfɛ, ka ɲinini Kɛ ka tugu ɲɔgɔn na.
 
@@ -212,7 +212,7 @@ O waati kelen na, bari `service worker` bɛ barokun bɛɛ mara, ni baarakɛla ye
 
 Ni ɲinini jaabiw jiralen don, sapitiri tɔgɔ bɛna jira ani sapitiri bɛna taa ɲɛ ni a digilen don.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Kuma Surun Kɛ
 

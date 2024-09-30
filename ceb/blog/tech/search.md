@@ -24,7 +24,7 @@ Dili kini magamit sa offline, dili magamit sa intranet, ug adunay daghang mga li
 
 Ang ikaduha kay puro front-end full-text search.
 
-ElasticLunr.js kasagarang gigamit nga puro front-end full-text nga [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) naglakip sa [lunrjs](https://lunrjs.com)
+Sa pagkakaron, ang kasagarang puro front-end full-text nga pagpangita naglakip sa [lunrjs](//lunrjs.com) ug [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (base sa `lunrjs` secondary development).
 
 `lunrjs` Adunay duha ka paagi sa paghimo og mga indeks, ug ang duha adunay kaugalingon nga mga problema.
 
@@ -42,11 +42,11 @@ ElasticLunr.js kasagarang gigamit nga puro front-end full-text nga [https://gith
 
 Dugang sa `lunrjs` , adunay uban pang mga full-text nga mga solusyon sa pagpangita, sama sa :
 
-[fusejs](https://www.fusejs.io) , kuwentaha ang pagkaparehas sa mga kuwerdas nga pangitaon.
+[fusejs](//www.fusejs.io) , kuwentaha ang pagkaparehas sa mga kuwerdas nga pangitaon.
 
-Ang pasundayag niini nga solusyon hilabihan ka kabus ug dili magamit alang sa tibuok nga teksto nga pagpangita (tan-awa [Fuse.js Ang taas nga pangutana nagkinahanglan ug labaw sa 10 segundos, unsaon kini pag-optimize?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ang pasundayag niini nga solusyon hilabihan ka kabus ug dili magamit alang sa tibuok nga teksto nga pagpangita (tan-awa [Fuse.js Ang taas nga pangutana nagkinahanglan ug labaw sa 10 segundos, unsaon kini pag-optimize?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , gamita ang Bloom filter sa pagpangita, dili magamit para sa prefix search (pananglitan, enter `goo` , search `good` , `google` ), ug dili makab-ot ang susama nga awtomatikong pagkompleto nga epekto.
+[TinySearch](//github.com/tinysearch/tinysearch) , gamita ang Bloom filter sa pagpangita, dili magamit para sa prefix search (pananglitan, enter `goo` , search `good` , `google` ), ug dili makab-ot ang susama nga awtomatikong pagkompleto nga epekto.
 
 Tungod sa mga kakulangan sa kasamtangan nga mga solusyon, `i18n.site` nakamugna og bag-ong puro front-end full-text nga solusyon sa pagpangita, nga adunay mosunod nga mga kinaiya :
 
@@ -62,7 +62,7 @@ Sa ubos, `i18n.site` nga mga detalye sa teknikal nga pagpatuman ang ipaila sa de
 
 Ang pagbahin sa pulong naggamit sa lumad nga pulong nga segmentation sa browser `Intl.Segmenter` , ug ang tanang mainstream nga mga browser nagsuporta niini nga interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ang pulong segmentation `coffeescript` code mao ang mosunod
 
@@ -103,11 +103,11 @@ Ipasa ang han-ay sa dokumento `url` ug bersyon numero `ver` , ug pangitaa kon an
 
 Niining paagiha, ang incremental indexing mahimong makab-ot ug ang gidaghanon sa kalkulasyon makunhuran.
 
-Sa front-end nga interaksyon, ang loading progress bar sa index mahimong ipakita aron malikayan ang lag sa pagkarga sa unang higayon Tan-awa ang "Progress Bar with Animation, Base sa usa ka Single progress + Pure css Implementation" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Sa front-end nga interaksyon, ang loading progress bar sa index mahimong ipakita aron malikayan ang lag sa pagkarga sa unang higayon Tan-awa ang "Progress Bar with Animation, Base sa usa ka Single progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### Ang IndexedDB Taas Nga Dungan Nga Pagsulat
 
-Ang proyekto [idb](https://www.npmjs.com/package/idb) base sa asynchronous encapsulation sa IndexedDB
+Ang proyekto [idb](//www.npmjs.com/package/idb) base sa asynchronous encapsulation sa IndexedDB
 
 Asynchronous ang pagbasa ug pagsulat sa IndexedDB. Kung maghimo usa ka indeks, ang mga dokumento dungan nga ikarga aron mahimo ang indeks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Aron mapakita ang mga resulta sa pagpangita samtang ang user nag-type, pananglitan, kung `wor` ang gisulod, ang mga pulong nga prefix sa `wor` sama sa `words` ug `work` gipakita.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ang search kernel mogamit sa `prefix` nga lamesa alang sa katapusan nga pulong pagkahuman sa pagbahin sa pulong aron makit-an ang tanan nga mga pulong nga prefix niini, ug pagpangita sa pagkasunod-sunod.
 
@@ -170,7 +170,7 @@ Hunahunaa nga adunay `N` nga mga pulong pagkahuman sa pulong nga pagbahin Kung n
 
 Ang mga resulta sa pagpangita nga gipakita una nagsiguro sa katukma sa pangutana, ug ang mga resulta gikarga sunod (i-klik ang load more button) pagsiguro sa recall rate.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Load on Demand
 
@@ -182,7 +182,7 @@ Timan-i nga sa matag higayon nga mangita ka pag-usab pagkahuman sa `yield` , kin
 
 Aron mapakita ang mga resulta sa pagpangita samtang ang user nag-type, pananglitan, kung `wor` ang gisulod, ang mga pulong nga prefix sa `wor` sama sa `words` ug `work` gipakita.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ang search kernel mogamit sa `prefix` nga lamesa alang sa katapusan nga pulong pagkahuman sa pagbahin sa pulong aron makit-an ang tanan nga mga pulong nga prefix niini, ug pagpangita sa pagkasunod-sunod.
 
@@ -212,7 +212,7 @@ Ang lunsay nga solusyon sa pagpangita sa `i18n.site` sa unahan gi-optimize alang
 
 Kung ipakita ang mga resulta sa pagpangita, ang ngalan sa kapitulo ipakita ug ang kapitulo ma-navigate kung gi-klik.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## I-Summarize
 

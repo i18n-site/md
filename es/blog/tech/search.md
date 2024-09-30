@@ -24,7 +24,7 @@ No se puede usar sin conexión, ni en la intranet, y tiene muchas limitaciones. 
 
 La segunda es la búsqueda de texto completo puramente frontal.
 
-Las búsquedas de texto completo de front-end puras más utilizadas incluyen [lunrjs](/0) y [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Los búsquedas de texto completo de front-end puras más comunes incluyen [lunrjs](//lunrjs.com) y [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (desarrollado a partir de `lunrjs`).
 
 `lunrjs` tiene dos métodos para construir índices, y ambos presentan problemas específicos.
 
@@ -42,11 +42,11 @@ Las búsquedas de texto completo de front-end puras más utilizadas incluyen [lu
 
 Además de `lunrjs`, hay otras soluciones de búsqueda de texto completo, como:
 
-[fusejs](https://www.fusejs.io), que calcula la similitud entre cadenas para realizar la búsqueda.
+[fusejs](//www.fusejs.io) calcula la similitud entre cadenas para efectuar la búsqueda.
 
-Esta solución tiene un rendimiento muy pobre y no es apta para búsquedas de texto completo (ver [Fuse.js: consultas largas superan los 10 segundos, ¿cómo optimizar?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+Esta solución presenta un rendimiento muy deficiente y no es apta para búsquedas de texto completo (véase [Fuse.js: consultas largas superan los 10 segundos, ¿cómo optimizar?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch), que utiliza un filtro Bloom para buscar, no admite búsquedas de prefijos (por ejemplo, buscar `good` o `google` al escribir `goo`) y no puede proporcionar un efecto de autocompletado similar.
+[TinySearch](//github.com/tinysearch/tinysearch) utiliza un filtro Bloom para la búsqueda, pero no permite la búsqueda de prefijos (por ejemplo, al ingresar `goo`, no puede buscar `good` o `google`) ni tampoco ofrece un efecto de autocompletado similar.
 
 Debido a las limitaciones de las soluciones actuales, `i18n.site` ha desarrollado una nueva solución de búsqueda de texto completo puramente frontal con las siguientes características:
 
@@ -62,7 +62,7 @@ A continuación, se detallarán las implementaciones técnicas de `i18n.site`.
 
 La segmentación de palabras utiliza la segmentación nativa del navegador `Intl.Segmenter`, compatible con la mayoría de los navegadores principales.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 El código de segmentación de palabras en `coffeescript` es el siguiente:
 
@@ -103,11 +103,11 @@ Se pasa un array con la `url` del documento y el número de versión `ver`, y se
 
 De esta manera, se logra una indexación incremental, reduciendo la cantidad de cálculos.
 
-En la interfaz de usuario, se puede mostrar una barra de progreso de carga del índice para evitar la的感觉 de tardanza durante la primera carga. Ver "Barra de progreso con animación, basada en una sola implementación de progress + pura css" [en inglés](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [en chino](https://juejin.cn/post/7413586285954154522).
+En el interfaz de usuario, se puede mostrar una barra de progreso para la carga del índice, lo que ayuda a evitar la sensación de tardanza durante la primera carga. Véase "Barra de progreso con animación, basada en una sola implementación de progress + CSS puro" [en inglés](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [en chino](//juejin.cn/post/7413586285954154522).
 
 ### Escritura de alta concurrencia en IndexedDB
 
-El proyecto se desarrolla basado en la encapsulación asincrónica de IndexedDB [idb](https://www.npmjs.com/package/idb).
+El proyecto se desarrolla basado en la encapsulación asincrónica de IndexedDB, [idb](//www.npmjs.com/package/idb).
 
 Las lecturas y escrituras en IndexedDB son asincrónicas. Al crear un índice, se carga simultáneamente el documento para crear el índice.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Para mostrar los resultados de búsqueda mientras el usuario escribe, por ejemplo, al escribir `wor`, se muestran palabras que comienzan con `wor` como `words` y `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 El núcleo de búsqueda utiliza la tabla `prefix` para encontrar todas las palabras que comienzan con la última palabra segmentada y busca secuencialmente.
 
@@ -170,7 +170,7 @@ Suponiendo que hay `N` palabras después de la segmentación, se devuelven prime
 
 Los primeros resultados de búsqueda garantizan la precisión de la consulta, mientras que los resultados posteriores (al hacer clic en el botón "Cargar más") garantizan la cobertura.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Carga bajo demanda
 
@@ -182,7 +182,7 @@ Tenga en cuenta que después de `yield`, cada nueva búsqueda debe abrir una nue
 
 Para mostrar los resultados de búsqueda mientras el usuario escribe, por ejemplo, al escribir `wor`, se muestran palabras que comienzan con `wor` como `words` y `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 El núcleo de búsqueda utiliza la tabla `prefix` para encontrar todas las palabras que comienzan con la última palabra segmentada y busca secuencialmente.
 
@@ -212,7 +212,7 @@ La solución de búsqueda frontal pura de `i18n.site` está optimizada específi
 
 Al mostrar los resultados de la búsqueda, se muestra el nombre del capítulo y, al hacer clic, se导航 al capítulo correspondiente.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Resumen
 

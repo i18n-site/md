@@ -24,7 +24,7 @@ Ni ga mogoče uporabljati brez povezave, ni ga mogoče uporabljati na intranetu 
 
 Drugi je čisto čelno iskanje po celotnem besedilu.
 
-Pogosto uporabljena čista iskanja po [lunrjs](https://lunrjs.com) besedilu vključujejo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Trenutno običajna [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) po celotnem besedilu vključujejo [lunrjs](//lunrjs.com) (na podlagi `lunrjs` sekundarnega razvoja).
 
 `lunrjs` Obstajata dva načina za izdelavo indeksov in oba imata svoje težave.
 
@@ -42,11 +42,11 @@ Pogosto uporabljena čista iskanja po [lunrjs](https://lunrjs.com) besedilu vklj
 
 Poleg `lunrjs` obstaja še nekaj drugih rešitev za iskanje po celotnem besedilu, kot je :
 
-[fusejs](https://www.fusejs.io) , izračunajte podobnost med nizi za iskanje.
+[fusejs](//www.fusejs.io) , izračunajte podobnost med nizi za iskanje.
 
-Zmogljivost te rešitve je izjemno slaba in je ni mogoče uporabiti za iskanje po celotnem besedilu (glejte [Fuse.js Dolga poizvedba traja več kot 10 sekund, kako jo optimizirati?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Zmogljivost te rešitve je izjemno slaba in je ni mogoče uporabiti za iskanje po celotnem besedilu (glejte [Fuse.js Dolga poizvedba traja več kot 10 sekund, kako jo optimizirati?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , za iskanje uporabite filter Bloom, ni ga mogoče uporabiti za iskanje po predponi (na primer vnesite `goo` , poiščite `good` , `google` ) in ne morete doseči podobnega učinka samodejnega dokončanja.
+[TinySearch](//github.com/tinysearch/tinysearch) , za iskanje uporabite filter Bloom, ni ga mogoče uporabiti za iskanje po predponi (na primer vnesite `goo` , poiščite `good` , `google` ) in ne morete doseči podobnega učinka samodejnega dokončanja.
 
 Zaradi pomanjkljivosti obstoječih rešitev je `i18n.site` razvil novo čisto front-end rešitev za iskanje po celotnem besedilu, ki ima naslednje značilnosti :
 
@@ -62,7 +62,7 @@ Zaradi pomanjkljivosti obstoječih rešitev je `i18n.site` razvil novo čisto fr
 
 Segmentacija besed uporablja izvorno segmentacijo besed brskalnika `Intl.Segmenter` in vsi običajni brskalniki podpirajo ta vmesnik.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Besedna koda segmentacije `coffeescript` je naslednja
 
@@ -103,11 +103,11 @@ Vnesite matriko dokumenta `url` in številko različice `ver` ter poiščite, al
 
 Na ta način je mogoče doseči postopno indeksiranje in zmanjšati količino izračuna.
 
-Pri interakciji na sprednji strani je mogoče prikazati vrstico [napredka](https://juejin.cn/post/7413586285954154522) indeksa [,](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / se izognete zakasnitvi css prvem progress + .
+Pri interakciji na sprednji strani je mogoče prikazati vrstico [napredka](//juejin.cn/post/7413586285954154522) indeksa [,](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / se izognete zakasnitvi css prvem progress + .
 
 ### IndexedDB Visoko Sočasno Pisanje
 
-Projekt je [idb](https://www.npmjs.com/package/idb) na podlagi asinhrone enkapsulacije IndexedDB
+Projekt je [idb](//www.npmjs.com/package/idb) na podlagi asinhrone enkapsulacije IndexedDB
 
 Branje in pisanje IndexedDB sta asinhrona. Pri ustvarjanju indeksa se dokumenti naložijo hkrati, da se ustvari indeks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Za prikaz rezultatov iskanja, medtem ko uporabnik tipka, se na primer, ko vnesete `wor` , prikažejo besede s predpono `wor` , kot sta `words` in `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Iskalno jedro bo uporabilo tabelo `prefix` za zadnjo besedo po segmentaciji besed, da bi našlo vse besede s predpono in iskalo v zaporedju.
 
@@ -170,7 +170,7 @@ Predpostavimo, da je za segmentacijo besed `N` besed. Pri vračanju rezultatov b
 
 Prvi prikazani rezultati iskanja zagotavljajo točnost poizvedbe, naknadno naloženi rezultati (kliknite gumb za nalaganje več) pa zagotavljajo stopnjo priklica.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Obremenitev Po Želji
 
@@ -182,7 +182,7 @@ Upoštevajte, da morate vsakič, ko znova iščete po `yield` , znova odpreti tr
 
 Za prikaz rezultatov iskanja, medtem ko uporabnik tipka, se na primer, ko vnesete `wor` , prikažejo besede s predpono `wor` , kot sta `words` in `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Iskalno jedro bo uporabilo tabelo `prefix` za zadnjo besedo po segmentaciji besed, da bi našlo vse besede s predpono in iskalo v zaporedju.
 
@@ -212,7 +212,7 @@ Hkrati, ker `service worker` predpomni vse članke, ko uporabnik izvede iskanje,
 
 Pri prikazu rezultatov iskanja bo prikazano ime poglavja in ob kliku bo prikazano poglavje.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Povzemite
 

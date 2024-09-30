@@ -24,7 +24,7 @@
 
 其二，就是純前端的全文搜索。
 
-当下常見純前端的全文搜索的有 [lunrjs](https://lunrjs.com) 和 [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次開发)。
+当下常見純前端的全文搜索的有 [lunrjs](//lunrjs.com) 和 [ElasticLunr.js](//github.com/weixsong/elasticlunr.js)(基于`lunrjs`二次開发)。
 
 `lunrjs` 有兩種索引構建方式，又都有各自的問題。
 
@@ -42,11 +42,11 @@
 
 除了 `lunrjs` 之外，還有一些其他的全文搜索方案，比如:
 
-[fusejs](https://www.fusejs.io)，計算字符串之間的相似度來搜索。
+[fusejs](//www.fusejs.io)，計算字符串之間的相似度來搜索。
 
-此方案性能極差，無法用于全文搜索(參見 [Fuse.js 長查詢耗時超過10秒，如何優化？](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries))。
+此方案性能極差，無法用于全文搜索(參見 [Fuse.js 長查詢耗時超過10秒，如何優化？](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries))。
 
-[TinySearch](https://github.com/tinysearch/tinysearch)，使用布隆過濾器來搜索，無法用于前綴搜索(比如輸入`goo`，搜索`good`、`google`)，無法實現類似自動補全效果。
+[TinySearch](//github.com/tinysearch/tinysearch)，使用布隆過濾器來搜索，無法用于前綴搜索(比如輸入`goo`，搜索`good`、`google`)，無法實現類似自動補全效果。
 
 因為現有方案各自的弊端， `i18n.site` 自研了全新純前端全文搜索方案，具有以下特色:
 
@@ -62,7 +62,7 @@
 
 分詞采用瀏覽器原生的分詞 `Intl.Segmenter`，主流瀏覽器都支持此接口。
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 分詞`coffeescript`代碼如下
 
@@ -104,11 +104,11 @@ export segqy = (q) =>
 
 如此就可以實現增量索引，降低了計算量。
 
-前端交互上，可以顯示索引的加載進度條避免首次加載時的卡頓感，參見《帶動畫的進度條，基于單個 progress + 純css實現》[英文](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](https://juejin.cn/post/7413586285954154522)。
+前端交互上，可以顯示索引的加載進度條避免首次加載時的卡頓感，參見《帶動畫的進度條，基于單個 progress + 純css實現》[英文](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](//juejin.cn/post/7413586285954154522)。
 
 ### IndexedDB 高并发寫入
 
-項目基于 IndexedDB 的異步封裝 [idb](https://www.npmjs.com/package/idb) 開发。
+項目基于 IndexedDB 的異步封裝 [idb](//www.npmjs.com/package/idb) 開发。
 
 IndexedDB 讀取和寫入都是異步的。而創建索引的時候會并发地加載文檔創建索引。
 
@@ -147,7 +147,7 @@ prefixPush = pusher()
 
 為了實現用戶輸入的同時展示搜索結果，比如輸入 `wor` 的時候，展示 `words` 和 `work` 等以 `wor` 為前綴的單詞。
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 搜索內核會對分詞后的最后一個詞借助`prefix`表，找到所有以它為前綴的詞，依次搜索。
 
@@ -171,7 +171,7 @@ export default (wait, func) => {
 
 優先展示的搜索結果保证了查詢的准確率，后續加載的結果(點擊加載更多按鈕)保证了查全率。
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## 按需加載
 
@@ -183,7 +183,7 @@ export default (wait, func) => {
 
 為了實現用戶輸入的同時展示搜索結果，比如輸入 `wor` 的時候，展示 `words` 和 `work` 等以 `wor` 為前綴的單詞。
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 搜索內核會對分詞后的最后一個詞借助`prefix`表，找到所有以它為前綴的詞，依次搜索。
 
@@ -213,7 +213,7 @@ export default (wait, func) => {
 
 展示顯示搜索結果時，會顯示章節名稱，并在點擊時定位到該章節。
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## 總結
 

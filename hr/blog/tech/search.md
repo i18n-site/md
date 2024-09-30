@@ -24,7 +24,7 @@ Ne može se koristiti izvan mreže, ne može se koristiti na intranetu i ima vel
 
 Drugi je čisto front-end pretraživanje cijelog teksta.
 
-Često korištena čista pretraživanja cijelog teksta uključuju [lunrjs](https://lunrjs.com) i [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Trenutačno uobičajena pretraživanja cijelog teksta uključuju [lunrjs](//lunrjs.com) [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) na temelju `lunrjs` sekundarnog razvoja).
 
 `lunrjs` Postoje dva načina za izradu indeksa i oba imaju svoje probleme.
 
@@ -42,11 +42,11 @@ Drugi je čisto front-end pretraživanje cijelog teksta.
 
 Osim `lunrjs` , postoje i neka druga rješenja za pretraživanje cijelog teksta, kao što je :
 
-[fusejs](https://www.fusejs.io) , izračunajte sličnost nizova za pretraživanje.
+[fusejs](//www.fusejs.io) , izračunajte sličnost nizova za pretraživanje.
 
-Izvedba ovog rješenja izuzetno je loša i ne može se koristiti za pretraživanje cijelog teksta (pogledajte [Fuse.js Dugi upit traje više od 10 sekundi, kako ga optimizirati?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Izvedba ovog rješenja izuzetno je loša i ne može se koristiti za pretraživanje cijelog teksta (pogledajte [Fuse.js Dugi upit traje više od 10 sekundi, kako ga optimizirati?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , koristiti Bloom filtar za pretraživanje, ne može se koristiti za pretraživanje prefiksa (na primjer, unesite `goo` , traži `good` , `google` ) i ne može postići sličan učinak automatskog dovršavanja.
+[TinySearch](//github.com/tinysearch/tinysearch) , koristiti Bloom filtar za pretraživanje, ne može se koristiti za pretraživanje prefiksa (na primjer, unesite `goo` , traži `good` , `google` ) i ne može postići sličan učinak automatskog dovršavanja.
 
 Zbog nedostataka postojećih rješenja, `i18n.site` je razvio novo čisto front-end rješenje za pretraživanje cijelog teksta, koje ima sljedeće karakteristike :
 
@@ -62,7 +62,7 @@ U nastavku će se detaljno predstaviti detalji `i18n.site` izvedbe.
 
 Segmentacija riječi koristi izvornu segmentaciju riječi preglednika `Intl.Segmenter` , a svi glavni preglednici podržavaju ovo sučelje.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Kod segmentacije riječi `coffeescript` je sljedeći
 
@@ -103,11 +103,11 @@ Proslijedite niz dokumenta `url` i broj verzije `ver` i potražite postoji li do
 
 Na taj način se može postići inkrementalno indeksiranje i smanjiti količina izračuna.
 
-U prednjoj interakciji, traka napretka učitavanja indeksa može se prikazati kako bi se izbjeglo kašnjenje pri prvom učitavanju. Pogledajte "Traka napretka s animacijom, temeljena na jednoj progress + Čistoj css implementaciji" [engleski](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [kineski](https://juejin.cn/post/7413586285954154522) .
+U prednjoj interakciji, traka napretka učitavanja indeksa može se prikazati kako bi se izbjeglo kašnjenje pri prvom učitavanju. Pogledajte "Traka napretka s animacijom, temeljena na jednoj progress + Čistoj css implementaciji" [engleski](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [kineski](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Visoko Istovremeno Pisanje
 
-Projekt je [idb](https://www.npmjs.com/package/idb) na temelju asinkrone enkapsulacije IndexedDB
+Projekt je [idb](//www.npmjs.com/package/idb) na temelju asinkrone enkapsulacije IndexedDB
 
 IndexedDB čitanja i pisanja su asinkroni. Prilikom izrade indeksa, dokumenti će se istodobno učitavati kako bi se stvorio indeks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Kako bi se prikazali rezultati pretraživanja dok korisnik tipka, na primjer, kada se unese `wor` , prikazuju se riječi s prefiksom `wor` , kao što su `words` i `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Jezgra pretraživanja koristit će tablicu `prefix` za posljednju riječ nakon segmentacije riječi kako bi pronašla sve riječi s prefiksom i pretraživala u nizu.
 
@@ -170,7 +170,7 @@ Pretpostavimo da postoji `N` riječi nakon segmentacije riječi. Prilikom vraća
 
 Prvi prikazani rezultati pretraživanja osiguravaju točnost upita, a naknadno učitani rezultati (kliknite gumb Učitaj više) osiguravaju stopu prisjećanja.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Opterećenje Na Zahtjev
 
@@ -182,7 +182,7 @@ Imajte na umu da svaki put kada ponovno tražite nakon `yield` , trebate ponovno
 
 Kako bi se prikazali rezultati pretraživanja dok korisnik tipka, na primjer, kada se unese `wor` , prikazuju se riječi s prefiksom `wor` , kao što su `words` i `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Jezgra pretraživanja koristit će tablicu `prefix` za posljednju riječ nakon segmentacije riječi kako bi pronašla sve riječi s prefiksom i pretraživala u nizu.
 
@@ -212,7 +212,7 @@ U isto vrijeme, budući da `service worker` sprema sve članke, nakon što koris
 
 Kada se prikazuju rezultati pretraživanja, prikazat će se naziv poglavlja i pomicat će se po poglavlju kada se klikne.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Rezimirati
 

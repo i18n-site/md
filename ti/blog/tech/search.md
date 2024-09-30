@@ -24,7 +24,7 @@
 
 እቲ ካልኣይ ድማ ጽሩይ ናይ ቅድሚት ምሉእ ጽሑፍ ምድላይ እዩ።
 
-ልሙድ ዝኾነ ጽሩይ ናይ ቅድሚት ምሉእ ጽሑፍ ምድላይ [lunrjs](https://lunrjs.com) ን [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ን የጠቓልል።
+ኣብዚ እዋን እዚ፡ ልሙድ ጽሩይ ቅድመ-መወዳእታ ምሉእ-ጽሑፍ ምድላይ [lunrjs](//lunrjs.com) ን [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) ን (ኣብ `lunrjs` ካልኣዊ ምዕባለ ዝተመርኮሰ) የጠቓልል።
 
 `lunrjs` ኢንዴክስ ንምህናጽ ክልተ መንገድታት ኣለዉ፡ ክልቲኦም ድማ ናይ ገዛእ ርእሶም ጸገማት ኣለዎም።
 
@@ -42,11 +42,11 @@
 
 ብዘይካ `lunrjs` ፡ ገለ ካልኦት ምሉእ ጽሑፍ ዘለዎም ናይ ምድላይ መፍትሒታት ኣለዉ፡ ከም :
 
-[fusejs](https://www.fusejs.io)
+[fusejs](//www.fusejs.io)
 
-ኣፈጻጽማ ናይዚ መፍትሒ ኣዝዩ ድኹም ስለዝኾነ ንሙሉእ ጽሑፍ ምድላይ ክውዕል ኣይክእልን እዩ (ርአ [Fuse.js ነዊሕ ሕቶ ልዕሊ 10 ካልኢት ይወስድ፣ ከመይ ጌርካ ትመሓየሽ?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) )።
+ኣፈጻጽማ ናይዚ መፍትሒ ኣዝዩ ድኹም ስለዝኾነ ንሙሉእ ጽሑፍ ምድላይ ክውዕል ኣይክእልን እዩ (ርአ [Fuse.js ነዊሕ ሕቶ ልዕሊ 10 ካልኢት ይወስድ፣ ከመይ ጌርካ ትመሓየሽ?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) )።
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 ብሰንኪ ጉድለታት ናይቶም ዘለዉ መፍትሒታት `i18n.site` ሓድሽ ጽሩይ ቅድመ-መወዳእታ ምሉእ-ጽሑፍ ምድላይ መፍትሒ ኣዳልዩ ኣሎ፡ እዚ ድማ እዞም ዝስዕቡ ባህርያት ኣለዎ :
 
@@ -62,7 +62,7 @@
 
 ምክፍፋል ቃላት ናይቲ መርበብ ሓበሬታ መበቆላዊ ምክፍፋል ቃላት `Intl.Segmenter` ይጥቀም፣ ኩሎም ቀንዲ መርበብ ሓበሬታታት ድማ ነዚ መተሓላለፊ ይድግፉ።
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 እቲ ናይ ቃል ምክፍፋል `coffeescript` ኮድ ከምዚ ዝስዕብ እዩ።
 
@@ -103,11 +103,11 @@ export segqy = (q) =>
 
 በዚ መንገዲ ድማ ወሰኽ ኢንዴክስ ክረጋገፅን መጠን ስሌት ይንኪን።
 
-ኣብ ቅድሚት-መወዳእታ ምትእስሳር፡ ንመጀመርታ ግዜ ኣብ እትጽዕነሉ እዋን ምድንጓይ ንምክልኻል፡ እቲ ናይ ምጽዓን ምዕባለ ባር ክረአ ይኽእል እዩ፡ "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [ትግርኛ](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [ቻይንኛ](https://juejin.cn/post/7413586285954154522) ርአ።
+ኣብ ቅድሚት-መወዳእታ ምትእስሳር፡ ንመጀመርታ ግዜ ኣብ እትጽዕነሉ እዋን ምድንጓይ ንምክልኻል፡ እቲ ናይ ምጽዓን ምዕባለ ባር ክረአ ይኽእል እዩ፡ "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [ትግርኛ](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [ቻይንኛ](//juejin.cn/post/7413586285954154522) ርአ።
 
 ### IndexedDB ልዑል ተደጋጋሚ ጽሑፍ
 
-እቲ ፕሮጀክት [idb](https://www.npmjs.com/package/idb) asynchronous encapsulation ናይ IndexedDB
+እቲ ፕሮጀክት [idb](//www.npmjs.com/package/idb) asynchronous encapsulation ናይ IndexedDB
 
 IndexedDB ምንባብን ምጽሓፍን ዘይተመዓራረየ እዩ። ኢንዴክስ ኣብ ዝፍጠረሉ እዋን፡ ሰነዳት ብሓንሳብ ክጽዓኑ እዮም፡ ነቲ ኢንዴክስ ንምፍጣር።
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 ተጠቃሚ ኣብ ዝጽሕፈሉ እዋን ውጽኢት ምድላይ ንምርኣይ ንኣብነት `wor` ምስ ኣተወ፡ ከም `words` ን `work` ዝኣመሰሉ ብ `wor` ዝተሰርሑ ቃላት ይረኣዩ።
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 እቲ ናይ ምድላይ ከርነል ነቲ ናይ መወዳእታ ቃል ድሕሪ ምክፍፋል ቃላት `prefix` ሰደቓ ተጠቒሙ ንኹሎም ብእኡ ቅድመ-ጥብቆ ዘለዎም ቃላት ክረክብ እዩ፣ ብተኸታታሊ ድማ ክደሊ እዩ።
 
@@ -170,7 +170,7 @@ export default (wait, func) => {
 
 እቲ ዝረአ ውጽኢት ምድላይ መጀመርታ ልክዕነት ናይቲ ሕቶ የረጋግጽ፣ ድሕሪኡ ዝጽዓን ውጽኢት ድማ (እቲ load more ዝብል ቁልፊ ጠውቕ) ነቲ ናይ ምዝካር ደረጃ የረጋግጽ።
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## ኣብ ጠለብ ጽዕነት
 
@@ -182,7 +182,7 @@ export default (wait, func) => {
 
 ተጠቃሚ ኣብ ዝጽሕፈሉ እዋን ውጽኢት ምድላይ ንምርኣይ ንኣብነት `wor` ምስ ኣተወ፡ ከም `words` ን `work` ዝኣመሰሉ ብ `wor` ዝተሰርሑ ቃላት ይረኣዩ።
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 እቲ ናይ ምድላይ ከርነል ነቲ ናይ መወዳእታ ቃል ድሕሪ ምክፍፋል ቃላት `prefix` ሰደቓ ተጠቒሙ ንኹሎም ብእኡ ቅድመ-ጥብቆ ዘለዎም ቃላት ክረክብ እዩ፣ ብተኸታታሊ ድማ ክደሊ እዩ።
 
@@ -212,7 +212,7 @@ export default (wait, func) => {
 
 ውጽኢት ምድላይ ኣብ እተርእየሉ እዋን፡ ስም እቲ ምዕራፍ ይርአ፡ ምስ ጠወቕካ ድማ እቲ ምዕራፍ ኪንቀሳቐስ እዩ።
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## ኣጠቓልል
 

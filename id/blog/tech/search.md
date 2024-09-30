@@ -24,7 +24,7 @@ Ini tidak dapat digunakan secara offline, tidak dapat digunakan di intranet, dan
 
 Yang kedua adalah pencarian teks lengkap front-end murni.
 
-Pencarian teks lengkap front-end murni yang umum digunakan meliputi [lunrjs](https://lunrjs.com) dan [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Saat ini, pencarian teks lengkap front-end murni yang umum mencakup [lunrjs](//lunrjs.com) dan [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (berdasarkan `lunrjs` pengembangan sekunder).
 
 `lunrjs` Ada dua cara untuk membangun indeks, dan keduanya memiliki permasalahannya masing-masing.
 
@@ -42,11 +42,11 @@ Pencarian teks lengkap front-end murni yang umum digunakan meliputi [lunrjs](htt
 
 Selain `lunrjs` , ada beberapa solusi pencarian teks lengkap lainnya, seperti :
 
-[fusejs](https://www.fusejs.io) , hitung kesamaan antar string yang akan dicari.
+[fusejs](//www.fusejs.io) , hitung kesamaan antar string yang akan dicari.
 
-Kinerja solusi ini sangat buruk dan tidak dapat digunakan untuk pencarian teks lengkap (lihat [Fuse.js Kueri yang panjang memerlukan waktu lebih dari 10 detik, bagaimana cara mengoptimalkannya?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Kinerja solusi ini sangat buruk dan tidak dapat digunakan untuk pencarian teks lengkap (lihat [Fuse.js Kueri yang panjang memerlukan waktu lebih dari 10 detik, bagaimana cara mengoptimalkannya?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , gunakan filter Bloom untuk mencari, tidak dapat digunakan untuk pencarian awalan (misalnya, masukkan `goo` , cari `good` , `google` ), dan tidak dapat mencapai efek penyelesaian otomatis serupa.
+[TinySearch](//github.com/tinysearch/tinysearch) , gunakan filter Bloom untuk mencari, tidak dapat digunakan untuk pencarian awalan (misalnya, masukkan `goo` , cari `good` , `google` ), dan tidak dapat mencapai efek penyelesaian otomatis serupa.
 
 Karena kekurangan dari solusi yang ada, `i18n.site` mengembangkan solusi pencarian teks lengkap front-end murni baru, yang memiliki karakteristik sebagai berikut :
 
@@ -62,7 +62,7 @@ Di bawah ini, `i18n.site` rincian implementasi teknis akan diperkenalkan secara 
 
 Segmentasi kata menggunakan segmentasi kata asli browser `Intl.Segmenter` , dan semua browser utama mendukung antarmuka ini.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Kode segmentasi kata `coffeescript` adalah sebagai berikut
 
@@ -103,11 +103,11 @@ Masukkan array dokumen `url` dan nomor versi `ver` , dan cari apakah dokumen ter
 
 Dengan cara ini, pengindeksan tambahan dapat dicapai dan jumlah penghitungan dikurangi.
 
-Dalam interaksi front-end, bilah kemajuan pemuatan indeks dapat ditampilkan untuk menghindari kelambatan saat memuat untuk pertama kalinya. Lihat "Bilah Kemajuan dengan Animasi, Berdasarkan Satu progress + Murni css Implementasi" [Bahasa Inggris](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Cina](https://juejin.cn/post/7413586285954154522) .
+Dalam interaksi front-end, bilah kemajuan pemuatan indeks dapat ditampilkan untuk menghindari kelambatan saat memuat untuk pertama kalinya. Lihat "Bilah Kemajuan dengan Animasi, Berdasarkan Single progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### Penulisan Bersamaan Yang Tinggi IndexedDB
 
-Proyek ini [idb](https://www.npmjs.com/package/idb) berdasarkan enkapsulasi asinkron IndexedDB
+Proyek ini [idb](//www.npmjs.com/package/idb) berdasarkan enkapsulasi asinkron IndexedDB
 
 Pembacaan dan penulisan IndexedDB tidak sinkron. Saat membuat indeks, dokumen akan dimuat secara bersamaan untuk membuat indeks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Untuk menampilkan hasil pencarian saat pengguna sedang mengetik, misalnya ketika `wor` dimasukkan, kata-kata yang diawali dengan `wor` seperti `words` dan `work` akan ditampilkan.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel pencarian akan menggunakan tabel `prefix` untuk segmentasi kata terakhir demi kata untuk menemukan semua kata yang diawali dengannya, dan mencari secara berurutan.
 
@@ -170,7 +170,7 @@ Asumsikan ada `N` kata setelah segmentasi kata. Saat mengembalikan hasil, hasil 
 
 Hasil pencarian yang ditampilkan pertama kali memastikan keakuratan kueri, dan hasil yang dimuat selanjutnya (klik tombol muat lebih banyak) memastikan tingkat penarikan kembali.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Muat Sesuai Permintaan
 
@@ -182,7 +182,7 @@ Perhatikan bahwa setiap kali Anda mencari lagi setelah `yield` , Anda perlu memb
 
 Untuk menampilkan hasil pencarian saat pengguna sedang mengetik, misalnya ketika `wor` dimasukkan, kata-kata yang diawali dengan `wor` seperti `words` dan `work` akan ditampilkan.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel pencarian akan menggunakan tabel `prefix` untuk segmentasi kata terakhir demi kata untuk menemukan semua kata yang diawali dengannya, dan mencari secara berurutan.
 
@@ -212,7 +212,7 @@ Solusi pencarian front-end murni `i18n.site` dioptimalkan untuk `MarkDown` dokum
 
 Saat menampilkan hasil pencarian, nama bab akan ditampilkan dan bab tersebut akan dinavigasi saat diklik.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Meringkaskan
 

@@ -24,7 +24,7 @@ Acest tip de serviciu necesită plată în funcție de volumul de căutare și e
 
 Cea de-a doua categorie este căutarea full-text pur front-end.
 
-Căutările de text integral utilizate în mod obișnuit includ [lunrjs](/0) și [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+În prezent, căutările cu text integral纯 front-end includ [lunrjs](//lunrjs.com) și [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (dezvoltat pe baza `lunrjs`).
 
 `lunrjs` are două metode de construire a indecsilor, ambele având propriile probleme.
 
@@ -42,11 +42,11 @@ Căutările de text integral utilizate în mod obișnuit includ [lunrjs](/0) și
 
 20	除了 `lunrjs` 之外，还有一些其他的全文搜索方案，比如:
 
-21	[fusejs](https://www.fusejs.io)，计算字符串之间的相似度来搜索。
+[fusejs](//www.fusejs.io) calculează similaritatea dintre șiruri de caractere pentru a efectua căutări.
 
-22	此方案性能极差，无法用于全文搜索(参见 [Fuse.js 长查询耗时超过10秒，如何优化？](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries))。
+Această soluție are o performanță foarte slabă și nu este potrivită pentru căutări cu text integral (vezi [Fuse.js: interogări lungi necesită mai mult de 10 secunde, cum să le optimizăm?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-23	[TinySearch](https://github.com/tinysearch/tinysearch)，使用布隆过滤器来搜索，无法用于前缀搜索(比如输入`goo`，搜索`good`、`google`)，无法实现类似自动补全效果。
+[TinySearch](//github.com/tinysearch/tinysearch) utilizează un filtru Bloom pentru căutări, dar nu permite căutări cu prefix (de exemplu, tastând `goo`, nu va căuta `good` sau `google`), și nu poate realiza un efect de completare automată similar.
 
 Din cauza dezavantajelor soluțiilor existente, `i18n.site` a dezvoltat o nouă soluție de căutare full-text pur front-end, care are următoarele caracteristici:
 
@@ -62,7 +62,7 @@ Din cauza dezavantajelor soluțiilor existente, `i18n.site` a dezvoltat o nouă 
 
 32	分词采用浏览器原生的分词 `Intl.Segmenter`，主流浏览器都支持此接口。
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 33	分词`coffeescript`代码如下
 
@@ -103,11 +103,11 @@ Introduceți matricea documentului `url` și numărul versiunii `ver`, căutați
 
 În acest mod, se poate realiza indexarea incrementală, reducând astfel cantitatea de calcul necesar.
 
-În interacțiunea front-end, bara de progres pentru încărcarea indexului poate fi afișată pentru a evita întreruperile la prima încărcare, vă rugăm să consultați [Bara de progres cu animație, bazată pe o singură progress + CSS](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](https://juejin.cn/post/7413586285954154522).
+În interacțiunea front-end, poate fi afișată bara de progres pentru încărcarea indexului, pentru a evita întreruperea la prima încărcare. Vedeți de exemplu: „Bara de progres cu animație, bazată pe progress + CSS pur” [engleză](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [chineză](//juejin.cn/post/7413586285954154522).
 
 ### Scriere concurentă în IndexedDB
 
-Proiectul este dezvoltat pe baza încapsulării asincrone a IndexedDB, [idb](https://www.npmjs.com/package/idb).
+Proiectul este dezvoltat pe baza unei încapsulări asincrone a IndexedDB, [idb](//www.npmjs.com/package/idb).
 
 Citirile și scrierile în IndexedDB sunt asincrone. La crearea unui index, documentele sunt încărcate simultan pentru a crea indexul.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Pentru a afișa rezultatele căutării în timp ce utilizatorul tastează, de exemplu, atunci când este introdus `wor`, sunt afișate cuvintele care încep cu `wor`, cum ar fi `words` și `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Nucleul de căutare utilizează tabelul `prefix` pentru ultimul cuvânt după segmentare pentru a găsi toate cuvintele care încep cu acesta și a căuta în secvență.
 
@@ -170,7 +170,7 @@ Să presupunem că există `N` cuvinte după segmentare. Când se returnează re
 
 Rezultatele căutării afișate mai întâi asigură acuratețea interogării, iar rezultatele încărcate ulterior (printr-un clic pe butonul de încărcare mai mult) asigură acoperirea completă.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Încărcare la cerere
 
@@ -182,7 +182,7 @@ Pentru a îmbunătăți viteza de răspuns, căutarea folosește generatorul `yi
 
 Pentru a afișa rezultatele căutării în timp ce utilizatorul tastează, de exemplu, atunci când este introdus `wor`, sunt afișate cuvintele care încep cu `wor`, cum ar fi `words` și `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Nucleul de căutare utilizează tabelul `prefix` pentru ultimul cuvânt după segmentare pentru a găsi toate cuvintele care încep cu acesta și a căuta în secvență.
 
@@ -212,7 +212,7 @@ Soluția de căutare frontală pură a lui `i18n.site` este optimizată pentru `
 
 Când se afișează rezultatele căutării, numele capitolului va fi afișat și capitolul va fi navigat atunci când se face clic pe el.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Rezumat
 

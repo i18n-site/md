@@ -24,7 +24,7 @@ A yi nge tirhisiwi handle ka inthanete, a yi nge tirhisiwi eka intranet naswona 
 
 Xa vumbirhi i ku lavisisa matsalwa hinkwawo ya le mahlweni lama tengeke.
 
-Ku lavisisa ka matsalwa hinkwawo ya le mahlweni lama tengeke lama tirhisiwaka hi ntolovelo ku katsa [lunrjs](https://lunrjs.com) na [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Sweswi, ku lavisisa loku tolovelekeke ka matsalwa ya le mahlweni yo basa ku katsa [lunrjs](//lunrjs.com) na [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (leswi sekeriweke eka `lunrjs` nhluvukiso wa vumbirhi).
 
 `lunrjs` Kuna tindlela timbirhi to aka ti index, naswona havumbirhi bya tona ti na swiphiqo swa tona.
 
@@ -42,11 +42,11 @@ Ku lavisisa ka matsalwa hinkwawo ya le mahlweni lama tengeke lama tirhisiwaka hi
 
 Ku engetela eka `lunrjs` , ku na swintshuxo swin’wana swo lavisisa matsalwa lama heleleke, swo tanihi :
 
-[fusejs](https://www.fusejs.io) , hlayela ku fana exikarhi ka tintambhu to lavisisa.
+[fusejs](//www.fusejs.io) , hlayela ku fana exikarhi ka tintambhu to lavisisa.
 
-Matirhelo ya xitshunxo lexi ya bihile swinene naswona a ya nge tirhisiwi ku lavisisa matsalwa hinkwawo (vona [Fuse.js Xivutiso xo leha xi teka ku tlula 10 tisekoni, xana u nga xi antswisa njhani?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Matirhelo ya xitshunxo lexi ya bihile swinene naswona a ya nge tirhisiwi ku lavisisa matsalwa hinkwawo (vona [Fuse.js Xivutiso xo leha xi teka ku tlula 10 tisekoni, xana u nga xi antswisa njhani?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Hikwalaho ka ku pfumaleka ka swintshuxo leswi nga kona, `i18n.site` yi tumbuluxile xitshunxo lexintshwa xa pure front-end full-text search, lexi nga na swihlawulekisi leswi landzelaka :
 
@@ -62,7 +62,7 @@ Laha hansi, vuxokoxoko `i18n.site` bya ku tirhisiwa ka xithekiniki byi ta ngheni
 
 Ku avanyisa marito ku tirhisa ku avanyisa marito ya ntumbuluko ya xihlamusela-marito `Intl.Segmenter` , naswona swihlamusela-marito hinkwaswo swa ntolovelo swi seketela xihlanganisi lexi.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Khodi ya ku avanyisa rito `coffeescript` yi le ka xiyimo lexi landzelaka
 
@@ -103,11 +103,11 @@ Pfuxeta eka array ya document `url` na version number `ver` , kutani u lavisisa 
 
 Hi ndlela leyi, incremental indexing yinga fikeleriwa naswona nhlayo ya xibalo ya hunguteka.
 
-Eka vuhlanganisi bya le mahlweni, barhi ya nhluvuko wa ku layicha ya index yi nga kombisiwa ku papalata ku hlwela loko u layicha ro sungula Vona "Barhi ya Nhluvuko na Animation, Based on a Single progress + Pure css Implementation" [Xitsonga](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Xichayina](https://juejin.cn/post/7413586285954154522) .
+Eka vuhlanganisi bya le mahlweni, barhi ya nhluvuko wa ku layicha ya index yi nga kombisiwa ku papalata ku hlwela loko u layicha ro sungula Vona "Barhi ya Nhluvuko na Animation, Based on a Single progress + Pure css Implementation" [Xitsonga](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Xichayina](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Ku Tsala Ka Le Henhla Ka Nkarhi Wun’we
 
-Phurojeke leyi yi [idb](https://www.npmjs.com/package/idb) hi ku ya hi asynchronous encapsulation ya IndexedDB
+Phurojeke leyi yi [idb](//www.npmjs.com/package/idb) hi ku ya hi asynchronous encapsulation ya IndexedDB
 
 IndexedDB ku hlaya na ku tsala i asynchronous. Loko ku endliwa index, matsalwa ya ta layicha hi nkarhi wun’we ku tumbuluxa index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Leswaku ku kombisiwa mimbuyelo ya ku lavisisa loko mutirhisi a ri karhi a thayipa, xikombiso, loko ku nghenisiwa `wor` , ku kombisiwa marito lama nga si sungula hi `wor` yo fana na `words` na `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel yo lavisisa yi ta tirhisa tafula ra `prefix` ra rito ro hetelela endzhaku ka ku avanyisa rito ku kuma marito hinkwawo lama nga si sungula hi yona, na ku lavisisa hi ku landzelelana.
 
@@ -170,7 +170,7 @@ Titekeli enhlokweni leswaku ku na marito ya `N` endzhaku ka ku avanyisa marito L
 
 Mimbuyelo ya ku lavisisa leyi kombisiweke ku sungula yi tiyisisa ku pakanisa ka xivutiso, naswona mimbuyelo leyi layichiweke endzhaku (yi tikhoma buti ya layicha swo tala) yi tiyisisa mpimo wa ku tsundzuka.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Layicha Hi Ku Landza Xilaveko
 
@@ -182,7 +182,7 @@ Xiya leswaku nkarhi wun'wana na wun'wana loko u lavisisa nakambe endzhaku ka `yi
 
 Leswaku ku kombisiwa mimbuyelo ya ku lavisisa loko mutirhisi a ri karhi a thayipa, xikombiso, loko ku nghenisiwa `wor` , ku kombisiwa marito lama nga si sungula hi `wor` yo fana na `words` na `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel yo lavisisa yi ta tirhisa tafula ra `prefix` ra rito ro hetelela endzhaku ka ku avanyisa rito ku kuma marito hinkwawo lama nga si sungula hi yona, na ku lavisisa hi ku landzelelana.
 
@@ -212,7 +212,7 @@ Hi nkarhi lowu fanaka, hikuva `service worker` yi hlayisa tiatikili hinkwato, lo
 
 Loko ku kombisiwa mimbuyelo ya ku lavisisa, vito ra ndzima ri ta kombisiwa naswona ndzima yi ta famba-famba loko yi tsindziyela.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Pfuxeta
 

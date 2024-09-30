@@ -24,7 +24,7 @@ Tsy azo ampiasaina ivelan'ny aterineto, tsy azo ampiasaina amin'ny intranet, ary
 
 Ny faharoa dia ny fitadiavana lahatsoratra feno amin'ny endriny voalohany.
 
-Ny fikarohana lahatsoratra feno amin'ny endriny madio fampiasa matetika dia ahitana [lunrjs](https://lunrjs.com) sy [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Amin'izao fotoana izao, ny fikarohana an-tsoratra feno amin'ny endriny madio dia ahitana [lunrjs](//lunrjs.com) sy [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (mifototra amin'ny fivoarana faharoa `lunrjs` ).
 
 `lunrjs` Misy fomba roa hanamboarana index, ary samy manana ny olany.
 
@@ -42,11 +42,11 @@ Ny fikarohana lahatsoratra feno amin'ny endriny madio fampiasa matetika dia ahit
 
 Ho fanampin'ny `lunrjs` , dia misy vahaolana hafa amin'ny fikarohana lahatsoratra feno, toy ny :
 
-[fusejs](https://www.fusejs.io) , kajy ny fitoviana eo amin'ny tady hikaroka.
+[fusejs](//www.fusejs.io) , kajy ny fitoviana misy eo amin'ny tady hikaroka.
 
-Tena ratsy ny fahombiazan'ity vahaolana ity ary tsy azo ampiasaina amin'ny fikarohana lahatsoratra feno (jereo [Fuse.js Maharitra 10 segondra mahery ny fangatahana lava, ahoana ny fomba hanatsarana azy?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Tena ratsy ny fahombiazan'ity vahaolana ity ary tsy azo ampiasaina amin'ny fikarohana lahatsoratra feno (jereo [Fuse.js Maharitra 10 segondra mahery ny fangatahana lava, ahoana ny fomba hanatsarana azy?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , ampiasao ny sivana Bloom raha hikaroka, tsy azo ampiasaina amin'ny fikarohana prefix (ohatra, ampidiro `goo` , karohy `good` , `google` ), ary tsy afaka mahazo vokatra vita ho azy.
+[TinySearch](//github.com/tinysearch/tinysearch) , ampiasao ny sivana Bloom raha hikaroka, tsy azo ampiasaina amin'ny fikarohana prefix (ohatra, ampidiro `goo` , karohy `good` , `google` ), ary tsy afaka mahazo vokatra vita ho azy.
 
 Noho ny lesoka amin'ny vahaolana efa misy, `i18n.site` dia namolavola vahaolana fikarohana feno amin'ny endriny madio madio, izay manana ireto toetra manaraka ireto :
 
@@ -62,7 +62,7 @@ Ity ambany ity dia haseho amin'ny antsipiriany ny antsipiriany momba ny fampihar
 
 Ny fizarazarana ny teny dia mampiasa ny fizarazarana ny teny teratany amin'ny navigateur `Intl.Segmenter` , ary ny navigateur mahazatra rehetra dia manohana ity interface ity.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ny teny hoe segmentation `coffeescript` code dia toy izao manaraka izao
 
@@ -103,11 +103,11 @@ Ampidiro ao amin'ny laharan'ny antontan-taratasy `url` sy laharana laharana `ver
 
 Amin'izany fomba izany dia azo tratrarina ny fanondroana incremental ary ahena ny habetsahan'ny kajy.
 
-Eo amin'ny fifaneraserana eo anoloana dia azo aseho css tsipika [fandrosoan'ny](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) fametahana ny [tondro](https://juejin.cn/post/7413586285954154522) / hialana amin'ny fahatarana amin'ny fandefasana progress + .
+Eo amin'ny fifaneraserana eo anoloana dia azo aseho css tsipika [fandrosoan'ny](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) fametahana ny [tondro](//juejin.cn/post/7413586285954154522) / hialana amin'ny fahatarana amin'ny fandefasana progress + .
 
 ### IndexedDB Fanoratana Miaraka Avo Lenta
 
-Ny tetikasa dia [idb](https://www.npmjs.com/package/idb) mifototra amin'ny encapsulation asynchronous an'ny IndexedDB
+Ny tetikasa dia [idb](//www.npmjs.com/package/idb) mifototra amin'ny encapsulation asynchronous an'ny IndexedDB
 
 IndexedDB mamaky sy manoratra dia asynchronous. Rehefa mamorona fanondroana dia hapetraka miaraka ny antontan-taratasy mba hamoronana ny tondro.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Mba hampisehoana ny valin'ny fikarohana eo am-panoratana ny mpampiasa, ohatra, rehefa ampidirina `wor` , dia aseho ny teny misy tovana `wor` toy ny `words` sy `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ny kernel fikarohana dia hampiasa ny tabilao `prefix` ho an'ny teny farany aorian'ny fizarana teny mba hahitana ny teny rehetra miaraka aminy, ary hikaroka araka ny filaharany.
 
@@ -170,7 +170,7 @@ Eritrereto fa misy teny `N` aorian'ny teny hoe segmentation Rehefa mamerina vali
 
 Ny valim-pikarohana naseho voalohany dia miantoka ny fahamarinan'ny fangatahana, ary ny valiny voarakitra avy eo (tsindrio ny bokotra Load more) dia miantoka ny taham-pahatsiarovana.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Load Amin'ny Fangatahana
 
@@ -182,7 +182,7 @@ Mariho fa isaky ny mikaroka indray ianao aorian'ny `yield` , dia mila manokatra 
 
 Mba hampisehoana ny valin'ny fikarohana eo am-panoratana ny mpampiasa, ohatra, rehefa ampidirina `wor` , dia aseho ny teny misy tovana `wor` toy ny `words` sy `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ny kernel fikarohana dia hampiasa ny tabilao `prefix` ho an'ny teny farany aorian'ny fizarana teny mba hahitana ny teny rehetra miaraka aminy, ary hikaroka araka ny filaharany.
 
@@ -212,7 +212,7 @@ Amin'izay fotoana izay ihany koa, satria `service worker` no mitahiry ny lahatso
 
 Rehefa mampiseho valim-pikarohana dia haseho ny anaran'ny toko ary hivezivezy ny toko rehefa kitihina.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Mamintina
 

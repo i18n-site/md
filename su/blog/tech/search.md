@@ -24,7 +24,7 @@ Teu bisa dipaké offline, teu bisa dipaké dina intranet, sarta ngabogaan watesa
 
 Anu kadua nyaéta milarian téks lengkep hareup-tungtung murni.
 
-Paluruh téks lengkep hareup-tungtung [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js dianggo kalebet [lunrjs](https://lunrjs.com)
+Ayeuna, pamilarian téks lengkep hareup `lunrjs` tungtung anu [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) kalebet [lunrjs](//lunrjs.com)
 
 `lunrjs` Aya dua cara pikeun ngawangun indéks, sareng duanana gaduh masalah sorangan.
 
@@ -42,11 +42,11 @@ Paluruh téks lengkep hareup-tungtung [https://github.com/weixsong/elasticlunr.j
 
 Salian `lunrjs` , aya sababaraha solusi pilarian téks lengkep lianna, kayaning :
 
-[fusejs](https://www.fusejs.io) , itung kasaruaan antara senar pikeun milarian.
+[fusejs](//www.fusejs.io) , itung kasaruaan antara string pikeun milarian.
 
-Kinerja leyuran ieu pisan goréng jeung teu bisa dipaké pikeun milarian full-téks (tingali [Fuse.js query lila nyokot leuwih ti 10 detik, kumaha carana ngaoptimalkeun eta?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Kinerja leyuran ieu pisan goréng jeung teu bisa dipaké pikeun milarian full-téks (tingali [Fuse.js query lila nyokot leuwih ti 10 detik, kumaha carana ngaoptimalkeun eta?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , paké Bloom filter pikeun milarian, teu tiasa dianggo pikeun milarian awalan (contona, lebetkeun `goo` , milarian `good` , `google` ), sareng henteu tiasa ngahontal éfék lengkep otomatis anu sami.
+[TinySearch](//github.com/tinysearch/tinysearch) , paké Bloom filter pikeun milarian, teu tiasa dianggo pikeun milarian awalan (contona, lebetkeun `goo` , milarian `good` , `google` ), sareng henteu tiasa ngahontal éfék lengkep otomatis anu sami.
 
 Kusabab kakurangan tina solusi anu aya, `i18n.site` ngembangkeun solusi milarian téks lengkep hareup-tungtung murni anu anyar, anu ngagaduhan ciri-ciri ieu :
 
@@ -62,7 +62,7 @@ Di handap, `i18n.site` rinci palaksanaan teknis bakal diwanohkeun dina jéntré.
 
 Segmentasi kecap ngagunakeun segmentasi kecap asli browser `Intl.Segmenter` , sareng sadaya browser mainstream ngadukung antarmuka ieu.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Kecap segmentasi `coffeescript` kode ieu di handap
 
@@ -103,11 +103,11 @@ Lulus dina Asép Sunandar Sunarya ti dokumén `url` jeung nomer versi `ver` , sa
 
 Ku cara kieu, indéks incremental tiasa dihontal sareng jumlah itungan diréduksi.
 
-Dina interaksi hareup-tungtung, bar kamajuan loading tina indéks bisa dipintonkeun pikeun ngahindarkeun lag nalika loading pikeun kahiji kalina Tempo "Progress Bar kalawan Animasi, Dumasar kana Tunggal progress + Murni css Palaksanaan" [Inggris](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Cina](https://juejin.cn/post/7413586285954154522) .
+Dina interaksi hareup-tungtung, indéks loading kamajuan bar bisa dipintonkeun pikeun ngahindarkeun lag nalika loading pikeun kahiji kalina Tempo "Kamajuan Bar jeung Animasi, Dumasar Tunggal progress + Murni css Palaksanaan" [Inggris](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Cina](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Tulisan Sakaligus Tinggi
 
-Proyék ieu [idb](https://www.npmjs.com/package/idb) dumasar kana éncapsulation asynchronous tina IndexedDB
+Proyék ieu [idb](//www.npmjs.com/package/idb) dumasar kana éncapsulation asynchronous tina IndexedDB
 
 IndexedDB maca sareng nyerat henteu sinkron. Nalika nyieun indéks, dokumén bakal dimuat sakaligus pikeun nyieun indéks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Pikeun ningalikeun hasil pamilarian nalika pangguna ngetik, contona, nalika `wor` diasupkeun, kecap anu diawalan ku `wor` sapertos `words` sareng `work` dipintonkeun.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel pilarian bakal ngagunakeun tabel `prefix` pikeun kecap panungtungan sanggeus segmentation kecap pikeun manggihan sakabeh kecap diawalan jeung eta, sarta pilarian dina runtuyan.
 
@@ -170,7 +170,7 @@ Anggap aya `N` kecap sanggeus kecap segmentation Lamun mulangkeun hasil, hasilna
 
 Hasil pamilarian anu dipidangkeun heula mastikeun katepatan pamundut, sareng hasilna dimuat saterasna (klik tombol beban langkung seueur) mastikeun laju ngelingan.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Beban Dina Paménta
 
@@ -182,7 +182,7 @@ Catet yén unggal waktos anjeun milarian deui saatos `yield` , anjeun kedah muka
 
 Pikeun ningalikeun hasil pamilarian nalika pangguna ngetik, contona, nalika `wor` diasupkeun, kecap anu diawalan ku `wor` sapertos `words` sareng `work` dipintonkeun.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel pilarian bakal ngagunakeun tabel `prefix` pikeun kecap panungtungan sanggeus segmentation kecap pikeun manggihan sakabeh kecap diawalan jeung eta, sarta pilarian dina runtuyan.
 
@@ -212,7 +212,7 @@ Dina waktos anu sami, kusabab `service worker` nyéépkeun sadaya tulisan, saato
 
 Lamun mintonkeun hasil teangan, ngaran bab bakal dipintonkeun jeung bab bakal navigated lamun diklik.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Nyimpulkeun
 

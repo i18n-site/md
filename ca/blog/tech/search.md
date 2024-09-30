@@ -24,7 +24,7 @@ No es pot utilitzar fora de línia, no es pot utilitzar a la intranet i té gran
 
 La segona és la cerca de text complet de front-end pura.
 
-Les cerques de text complet de front-end que s'utilitzen habitualment inclouen [lunrjs](https://lunrjs.com) i [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Actualment, les cerques de text complet de front-end purs habituals inclouen [lunrjs](//lunrjs.com) i [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (basades en `lunrjs` desenvolupament secundari).
 
 `lunrjs` Hi ha dues maneres de crear índexs, i ambdues tenen els seus propis problemes.
 
@@ -42,11 +42,11 @@ Les cerques de text complet de front-end que s'utilitzen habitualment inclouen [
 
 A més de `lunrjs` , hi ha altres solucions de cerca de text complet, com ara :
 
-[fusejs](https://www.fusejs.io) , calcula la similitud entre les cadenes per cercar.
+[fusejs](//www.fusejs.io) , calcula la similitud entre les cadenes per cercar.
 
-El rendiment d'aquesta solució és extremadament baix i no es pot utilitzar per a la cerca de text complet (vegeu [Fuse.js La consulta llarga triga més de 10 segons, com optimitzar-la?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+El rendiment d'aquesta solució és extremadament baix i no es pot utilitzar per a la cerca de text complet (vegeu [Fuse.js La consulta llarga triga més de 10 segons, com optimitzar-la?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) utilitzeu el filtre Bloom per cercar, no es pot utilitzar per a la cerca de prefix (per exemple, introduïu `goo` , cerca `good` , `google` ) i no pot aconseguir un efecte de finalització automàtica similar.
+[TinySearch](//github.com/tinysearch/tinysearch) utilitzeu el filtre Bloom per cercar, no es pot utilitzar per a la cerca de prefix (per exemple, introduïu `goo` , cerca `good` , `google` ) i no pot aconseguir un efecte de finalització automàtica similar.
 
 A causa de les deficiències de les solucions existents, `i18n.site` ha desenvolupat una nova solució de cerca de text complet de front-end pura, que té les característiques següents :
 
@@ -62,7 +62,7 @@ A continuació, s'introduiran detalladament `i18n.site` detalls tècnics d'imple
 
 La segmentació de paraules utilitza la segmentació de paraules nativa del navegador `Intl.Segmenter` , i tots els navegadors principals admeten aquesta interfície.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 El codi de segmentació de paraules `coffeescript` és el següent
 
@@ -103,11 +103,11 @@ Passeu la matriu del document `url` i el número de versió `ver` i cerqueu si e
 
 D'aquesta manera, es pot aconseguir una indexació incremental i es redueix la quantitat de càlcul.
 
-En la interacció frontal, es pot mostrar la barra de progrés de la càrrega de l'índex per evitar el retard quan es carrega per primera vegada. Vegeu "Barra de progrés amb animació, basada en una implementació única progress + Pure css " [Anglès](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Xinès](https://juejin.cn/post/7413586285954154522) .
+En la interacció frontal, es pot mostrar la barra de progrés de la càrrega de l'índex per evitar el retard quan es carrega per primera vegada. Vegeu "Barra de progrés amb animació, basada en una implementació única progress + Pure css " [Anglès](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Xinès](//juejin.cn/post/7413586285954154522) .
 
 ### Escriptura Concurrent Alta d'IndexedDB
 
-El projecte es [idb](https://www.npmjs.com/package/idb) a partir de l'encapsulament asíncron de IndexedDB
+El projecte es [idb](//www.npmjs.com/package/idb) a partir de l'encapsulament asíncron de IndexedDB
 
 Les lectures i escriptures d'IndexedDB són asíncrones. Quan es crea un índex, els documents es carregaran simultàniament per crear l'índex.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Per mostrar els resultats de la cerca mentre l'usuari està escrivint, per exemple, quan s'introdueix `wor` , es mostren paraules amb el prefix `wor` com ara `words` i `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 El nucli de cerca utilitzarà la taula `prefix` per a l'última paraula després de la segmentació de paraules per trobar totes les paraules amb el prefix i cercar en seqüència.
 
@@ -170,7 +170,7 @@ Suposem que hi ha `N` paraules després de la segmentació de paraules En retorn
 
 Els resultats de la cerca que es mostren primer asseguren la precisió de la consulta i els resultats carregats posteriorment (feu clic al botó Carrega més) garanteixen la taxa de recuperació.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Càrrega Sota Demanda
 
@@ -182,7 +182,7 @@ Tingueu en compte que cada vegada que torneu a cercar després de `yield` , haur
 
 Per mostrar els resultats de la cerca mentre l'usuari està escrivint, per exemple, quan s'introdueix `wor` , es mostren paraules amb el prefix `wor` com ara `words` i `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 El nucli de cerca utilitzarà la taula `prefix` per a l'última paraula després de la segmentació de paraules per trobar totes les paraules amb el prefix i cercar en seqüència.
 
@@ -212,7 +212,7 @@ La solució de cerca frontal pura de `i18n.site` està optimitzada per a `MarkDo
 
 Quan es mostrin els resultats de la cerca, es mostrarà el nom del capítol i es navegarà pel capítol quan es faci clic.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Resumir
 

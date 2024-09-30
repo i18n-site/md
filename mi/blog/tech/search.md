@@ -24,7 +24,7 @@ Kaore e taea te whakamahi tuimotu, kaore e taea te whakamahi ki te ipurangiroto,
 
 Ko te tuarua ko te rapu kuputuhi-katoa o mua-mutunga.
 
-Ko nga rapunga kupu-katoa o mua o [lunrjs](https://lunrjs.com) ko te [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+I tenei wa, ko nga rapunga kupu-katoa o mua o mua ko te [lunrjs](//lunrjs.com) me [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (i runga i `lunrjs` whanaketanga tuarua).
 
 `lunrjs` E rua nga huarahi ki te hanga taurangi, a kei a raua ano o raua raru.
 
@@ -42,11 +42,11 @@ Ko nga rapunga kupu-katoa o mua o [lunrjs](https://lunrjs.com) ko te [ ElasticLu
 
 I tua atu i `lunrjs` , tera ano etahi atu otinga rapu kupu-katoa, penei i te :
 
-[fusejs](https://www.fusejs.io) , tātaihia te ōritenga o ngā aho ki te rapu.
+[fusejs](//www.fusejs.io) , tātaihia te ōritenga o ngā aho ki te rapu.
 
-He tino rawe te mahinga o tenei otinga, kaore e taea te whakamahi mo te rapu kupu-katoa (tirohia [Fuse.js Neke atu i 10 hēkona te roa o te uiui, me pehea te arotau?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+He tino rawe te mahinga o tenei otinga, kaore e taea te whakamahi mo te rapu kupu-katoa (tirohia [Fuse.js Neke atu i 10 hēkona te roa o te uiui, me pehea te arotau?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , whakamahia te tātari Bloom ki te rapu, kaore e taea te whakamahi mo te rapu prefix (hei tauira, tomo `goo` , rapu `good` , `google` ), a kaore e taea te whakatutuki i te paanga whakaoti aunoa.
+[TinySearch](//github.com/tinysearch/tinysearch) , whakamahia te tātari Bloom ki te rapu, kaore e taea te whakamahi mo te rapu prefix (hei tauira, tomo `goo` , rapu `good` , `google` ), a kaore e taea te whakatutuki i te paanga whakaoti aunoa.
 
 Na nga ngoikoretanga o nga otinga o naianei, kua whakawhanakehia `i18n.site` tetahi otinga rapu kupu-katoa o mua parakore, e whai ake nei nga ahuatanga :
 
@@ -62,7 +62,7 @@ Kei raro iho nei, `i18n.site` nga korero mo te whakatinanatanga hangarau ka whak
 
 Ka whakamahia e te wehenga kupu te wehewehenga kupu taketake o te kaitirotiro `Intl.Segmenter` , ka tautokohia e nga kaitirotiro auraki katoa tenei atanga.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ko te kupu wehewehe `coffeescript` waehere e whai ake nei
 
@@ -103,11 +103,11 @@ Whakauruhia te huinga o te tuhinga `url` me te putanga nama `ver` , ka rapu mena
 
 Ma tenei ara, ka taea te taurangi taapiri ka whakahekehia te nui o te tatauranga.
 
-I roto i te tauwhitinga o mua, ka taea te whakaatu i te pae ahunga whakamua o te taupū ki te karo i te takamuri i te wa e uta ana mo te wa tuatahi Tirohia "Pae Whakatairanga me te Animation, I runga i te Kotahi progress + Pure css Whakatinana" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Hainamana](https://juejin.cn/post/7413586285954154522) .
+I roto i te tauwhitinga o mua, ka taea te whakaatu i te pae ahunga whakamua o te taurangi ki te karo i te takamuri i te wa e utaina ana mo te wa tuatahi Tirohia te "Pae Whakatairanga me te Animation, I runga i te Kotahi progress + Pure css Whakatinana" [Ingarihi](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Hainamana](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Te Tuhi Warite Teitei
 
-I [idb](https://www.npmjs.com/package/idb) te kaupapa i runga i te whakahiatotanga tukutahi o IndexedDB
+I [idb](//www.npmjs.com/package/idb) te kaupapa i runga i te whakahiatotanga tukutahi o IndexedDB
 
 Ko nga panui me te tuhi a IndexedDB he tukutahi. I te wa e hanga ana i te taurangi, ka utaina nga tuhinga i te wa kotahi hei hanga i te taurangi.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Hei whakaatu i nga hua rapu i te wa e patopato ana te kaiwhakamahi, hei tauira, ka kuhuhia `wor` , ka whakaatuhia nga kupu kua tohua ki te `wor` penei i te `words` me `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ka whakamahia e te kakano rapu te ripanga `prefix` mo te kupu whakamutunga i muri i te wehewehenga kupu hei kimi i nga kupu katoa kua piri ki mua, me te rapu i te raupapa.
 
@@ -170,7 +170,7 @@ Whakaarohia he `N` nga kupu i muri i te wahanga o te kupu I te whakahokinga mai 
 
 Ko nga hua rapu ka whakaatuhia i te tuatahi ka whakarite i te tika o te patai, a ko nga hua ka utaina i muri mai (paohia te paatene uta atu) ka whakarite i te reeti maumahara.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Utaina I Runga I Te Tono
 
@@ -182,7 +182,7 @@ Kia mahara ko ia wa ka rapu ano koe i muri i `yield` , me whakatuwhera ano koe i
 
 Hei whakaatu i nga hua rapu i te wa e patopato ana te kaiwhakamahi, hei tauira, ka kuhuhia `wor` , ka whakaatuhia nga kupu kua tohua ki te `wor` penei i te `words` me `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ka whakamahia e te kakano rapu te ripanga `prefix` mo te kupu whakamutunga i muri i te wehewehenga kupu hei kimi i nga kupu katoa kua piri ki mua, me te rapu i te raupapa.
 
@@ -212,7 +212,7 @@ Ko te otinga rapu-mutunga parakore a `i18n.site` kua arotauhia mo nga tuhinga `M
 
 I te wa e whakaatu ana i nga hua rapu, ka whakaatuhia te ingoa pene ka whakaterehia te upoko ina pawhiria.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Whakarāpopoto
 

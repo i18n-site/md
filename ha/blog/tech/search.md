@@ -24,7 +24,7 @@ Ba za a iya amfani da shi ta layi ba, ba za a iya amfani da shi akan intanet ba,
 
 Na biyu shine bincike mai cikakken rubutu na gaba-karshen.
 
-Binciken cikakken rubutu na gaba da aka ElasticLunr.js amfani [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) shi ya haɗa da [lunrjs](https://lunrjs.com)
+A halin yanzu, gama-gari na gama-gari cikakken bincike na rubutu sun haɗa da [lunrjs](//lunrjs.com) da [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (dangane da ci gaban sakandare na `lunrjs` ).
 
 `lunrjs` Akwai hanyoyi guda biyu don gina fihirisa, kuma dukansu suna da nasu matsalolin.
 
@@ -42,11 +42,11 @@ Binciken cikakken rubutu na gaba da aka ElasticLunr.js amfani [https://github.co
 
 Baya ga `lunrjs` , akwai wasu cikakkun hanyoyin bincike na rubutu, kamar :
 
-[fusejs](https://www.fusejs.io) lissafta kamance tsakanin kirtani don bincika.
+[fusejs](//www.fusejs.io) lissafta kamance tsakanin kirtani don bincika.
 
-Ayyukan wannan maganin ba su da kyau sosai kuma ba za a iya amfani da su don neman cikakken rubutu ba (duba [Fuse.js Dogon tambaya yana ɗaukar fiye da daƙiƙa 10 , yadda za a inganta shi?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ayyukan wannan maganin ba su da kyau sosai kuma ba za a iya amfani da su don neman cikakken rubutu ba (duba [Fuse.js Dogon tambaya yana ɗaukar fiye da daƙiƙa 10 , yadda za a inganta shi?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) Yi amfani da tace Bloom don bincika, ba za a iya amfani da shi don binciken prefix ba (misali, shigar da `goo` , bincika `good` , `google` ), kuma ba za a iya cimma irin wannan sakamako ta atomatik ba.
+[TinySearch](//github.com/tinysearch/tinysearch) Yi amfani da tace Bloom don bincika, ba za a iya amfani da shi don binciken prefix ba (misali, shigar da `goo` , bincika `good` , `google` ), kuma ba za a iya cimma irin wannan sakamako ta atomatik ba.
 
 Saboda gazawar hanyoyin da ake da su, `i18n.site` ya haɓaka sabon ingantaccen bayani na gaba-gaba mai cikakken rubutu, wanda ke da halaye masu zuwa :
 
@@ -62,7 +62,7 @@ A ƙasa, `i18n.site` za a gabatar da cikakkun bayanan aiwatar da fasaha daki-dak
 
 Bangaren Kalma yana amfani da kalmar asali na mai lilo `Intl.Segmenter` , kuma duk manyan masu bincike suna goyan bayan wannan mahallin.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Kalmar Segmentation `coffeescript` code ita ce kamar haka
 
@@ -103,11 +103,11 @@ Shiga cikin tsararrun daftarin aiki `url` da lambar sigar `ver` , kuma bincika k
 
 Ta wannan hanyar, ana iya samun ƙididdige yawan ƙididdiga kuma an rage adadin ƙididdiga.
 
-A cikin hulɗar gaba-gaba, / a iya nuna ma'aunin ci gaba [na](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) loading index css guje wa lagwar lokacin yin lodi a karon progress + [.](https://juejin.cn/post/7413586285954154522)
+A cikin hulɗar gaba-gaba, / a iya nuna ma'aunin ci gaba [na](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) loading index css guje wa lagwar lokacin yin lodi a karon progress + [.](//juejin.cn/post/7413586285954154522)
 
 ### IndexedDB Babban Rubutun Lokaci Guda
 
-An [idb](https://www.npmjs.com/package/idb) aikin bisa ga asynchronous encapsulation na IndexedDB
+An [idb](//www.npmjs.com/package/idb) aikin bisa ga asynchronous encapsulation na IndexedDB
 
 IndexedDB yana karantawa kuma ya rubuta ba a daidaita su ba. Lokacin ƙirƙirar fihirisar, za a loda takardu a lokaci guda don ƙirƙirar fihirisar.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Domin nuna sakamakon bincike yayin da mai amfani ke bugawa, misali, lokacin da aka shigar da `wor` , ana nuna kalmomin da aka riga aka yi da `wor` kamar `words` da `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kwayar bincike za ta yi amfani da tebur na `prefix` don kalma ta ƙarshe bayan rarrabuwar kalma don nemo duk kalmomin da aka riga aka kayyade tare da shi, da bincika a jere.
 
@@ -170,7 +170,7 @@ A ɗauka cewa akwai kalmomi `N` bayan ɓangaren kalmar Lokacin dawo da sakamako,
 
 Sakamakon binciken da aka nuna da farko yana tabbatar da daidaiton tambayar, kuma sakamakon da aka ɗora daga baya (danna ƙarin maɓalli) yana tabbatar da ƙimar tunawa.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Load Akan Buƙata
 
@@ -182,7 +182,7 @@ Lura cewa duk lokacin da kuka sake bincika bayan `yield` , kuna buƙatar sake bu
 
 Domin nuna sakamakon bincike yayin da mai amfani ke bugawa, misali, lokacin da aka shigar da `wor` , ana nuna kalmomin da aka riga aka yi da `wor` kamar `words` da `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kwayar bincike za ta yi amfani da tebur na `prefix` don kalma ta ƙarshe bayan rarrabuwar kalma don nemo duk kalmomin da aka riga aka kayyade tare da shi, da bincika a jere.
 
@@ -212,7 +212,7 @@ A lokaci guda, saboda `service worker` yana adana duk labarin, da zarar mai amfa
 
 Lokacin nuna sakamakon bincike, za a nuna sunan babin kuma za a kewaya babin idan an danna.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Takaita
 

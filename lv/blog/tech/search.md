@@ -24,7 +24,7 @@ To nevar izmantot bezsaistē, nevar izmantot iekštīklā, un tam ir lieli ierob
 
 Otrais ir tīra priekšgala pilna teksta meklēšana.
 
-Parasti izmantotie priekšgala pilna teksta meklējumi ietver [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Pašlaik plašie priekšgala pilna teksta meklējumi ietver [lunrjs](//lunrjs.com) un [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (pamatojoties uz `lunrjs` sekundāro izstrādi).
 
 `lunrjs` Ir divi veidi, kā veidot indeksus, un abiem ir savas problēmas.
 
@@ -42,11 +42,11 @@ Parasti izmantotie priekšgala pilna teksta meklējumi ietver [lunrjs](https://l
 
 Papildus `lunrjs` ir daži citi pilna teksta meklēšanas risinājumi, piemēram :
 
-[fusejs](https://www.fusejs.io) aprēķiniet meklējamo virkņu līdzību.
+[fusejs](//www.fusejs.io) aprēķiniet meklējamo virkņu līdzību.
 
-Šī risinājuma veiktspēja ir ārkārtīgi vāja, un to nevar izmantot pilna teksta meklēšanai (skatiet [Fuse.js Ilgs vaicājums aizņem vairāk nekā 10 sekundes, kā to optimizēt?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Šī risinājuma veiktspēja ir ārkārtīgi vāja, un to nevar izmantot pilna teksta meklēšanai (skatiet [Fuse.js Ilgs vaicājums aizņem vairāk nekā 10 sekundes, kā to optimizēt?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) izmantojiet Blūma filtru, lai meklētu, to nevar izmantot prefiksu meklēšanai (piemēram, ievadiet `goo` , meklējiet `good` , `google` ), un nevar sasniegt līdzīgu automātiskās pabeigšanas efektu.
+[TinySearch](//github.com/tinysearch/tinysearch) izmantojiet Blūma filtru, lai meklētu, to nevar izmantot prefiksu meklēšanai (piemēram, ievadiet `goo` , meklējiet `good` , `google` ), un nevar sasniegt līdzīgu automātiskās pabeigšanas efektu.
 
 Esošo risinājumu nepilnību dēļ `i18n.site` ir izstrādājis jaunu tīru priekšgala pilna teksta meklēšanas risinājumu, kam ir šādas īpašības :
 
@@ -62,7 +62,7 @@ Zemāk tiks detalizēti aprakstītas `i18n.site` tehniskās ieviešanas detaļas
 
 Vārdu segmentācija izmanto pārlūkprogrammas vietējo vārdu segmentāciju `Intl.Segmenter` , un visas galvenās pārlūkprogrammas atbalsta šo saskarni.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Vārda segmentācijas `coffeescript` kods ir šāds
 
@@ -103,11 +103,11 @@ Nododiet dokumenta masīvu `url` un versijas numuru `ver` un meklējiet, vai dok
 
 Tādā veidā var panākt pakāpenisku indeksāciju un samazināt aprēķinu apjomu.
 
-Priekšgala mijiedarbībā var parādīt indeksa ielādes norises joslu, lai izvairītos no kavēšanās, pirmo reizi ielādējot. Skatiet sadaļu "Progresa josla ar animāciju, pamatojoties uz vienu progress + Tīra css ieviešana" [angļu](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [ķīniešu](https://juejin.cn/post/7413586285954154522) .
+Priekšgala mijiedarbībā var tikt parādīta indeksa ielādes norises josla, lai izvairītos no aizkaves, pirmo reizi ielādējot. Skatiet sadaļu "Progresa josla ar animāciju, pamatojoties uz vienu progress + Tīra css ieviešana" [angļu](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [ķīniešu](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Augsta Vienlaicīga Rakstīšana
 
-Projekts ir [idb](https://www.npmjs.com/package/idb) pamatojoties uz asinhrono iekapsulēšanu IndexedDB
+Projekts ir [idb](//www.npmjs.com/package/idb) pamatojoties uz asinhrono iekapsulēšanu IndexedDB
 
 IndexedDB lasīšana un rakstīšana ir asinhrona. Veidojot indeksu, dokumenti tiks ielādēti vienlaikus, lai izveidotu indeksu.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Lai parādītu meklēšanas rezultātus, kamēr lietotājs raksta, piemēram, ievadot `wor` , tiek parādīti vārdi ar prefiksu `wor` piemēram, `words` un `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Meklēšanas kodols izmantos tabulu `prefix` pēdējam vārdam pēc vārda segmentācijas, lai atrastu visus vārdus ar prefiksu ar to un meklētu pēc kārtas.
 
@@ -170,7 +170,7 @@ Pieņemsim, ka aiz vārda segmentācijas ir `N` vārdu. Atgriežot rezultātus, 
 
 Vispirms parādītie meklēšanas rezultāti nodrošina vaicājuma precizitāti, un pēc tam ielādētie rezultāti (noklikšķiniet uz pogas Ielādēt vairāk) nodrošina atsaukšanas ātrumu.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Slodze Pēc Pieprasījuma
 
@@ -182,7 +182,7 @@ Lai uzlabotu atbildes ātrumu, meklēšana izmanto `yield` ģeneratoru, lai ievi
 
 Lai parādītu meklēšanas rezultātus, kamēr lietotājs raksta, piemēram, ievadot `wor` , tiek parādīti vārdi ar prefiksu `wor` piemēram, `words` un `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Meklēšanas kodols izmantos tabulu `prefix` pēdējam vārdam pēc vārda segmentācijas, lai atrastu visus vārdus ar prefiksu ar to un meklētu pēc kārtas.
 
@@ -212,7 +212,7 @@ Tajā pašā laikā, tā kā `service worker` kešatmiņā saglabā visus rakstu
 
 Rādot meklēšanas rezultātus, tiks parādīts nodaļas nosaukums un, noklikšķinot uz nodaļas, tiks pārvietota.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Apkopojiet
 

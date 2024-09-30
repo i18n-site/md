@@ -24,7 +24,7 @@ Haikwanise kushandiswa kunze kwenyika, haigone kushandiswa paintraneti, uye ine 
 
 Yechipiri ndeyekumberi-kuguma kwakazara-mavara kutsvaga.
 
-Zvinowanzo shandiswa zvakachena zvemberi-zvizere [lunrjs](https://lunrjs.com) zvinosanganisa uye [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Parizvino, zvakajairwa kumberi-yekupedzisira-yakazara-manyoro [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) [lunrjs](//lunrjs.com) zvichienderana `lunrjs` sekondari kuvandudzwa).
 
 `lunrjs` Pane nzira mbiri dzekugadzira indexes, uye ese ane matambudziko azvo.
 
@@ -42,11 +42,11 @@ Zvinowanzo shandiswa zvakachena zvemberi-zvizere [lunrjs](https://lunrjs.com) zv
 
 Pamusoro `lunrjs` , kune mamwe akazara-zvinyorwa zvekutsvaga mhinduro, senge :
 
-[fusejs](https://www.fusejs.io) verenga kufanana pakati petambo kutsvaga.
+[fusejs](//www.fusejs.io) verenga kufanana pakati petambo kutsvaga.
 
-Kuita kwemhinduro iyi kwakashata zvakanyanya uye hakugone kushandiswa pakutsvaga-zvinyorwa zvizere (ona [Fuse.js Mubvunzo wakareba unotora kupfuura masekonzi 10 , kuti ungaite sei?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Kuita kwemhinduro iyi kwakashata zvakanyanya uye hakugone kushandiswa pakutsvaga-zvinyorwa zvizere (ona [Fuse.js Mubvunzo wakareba unotora kupfuura masekonzi 10 , kuti ungaite sei?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) shandisa Bloom sefa kutsvaga, haigone kushandiswa kutsvaga prefix (semuenzaniso, isa `goo` , tsvaga `good` , `google` ), uye haugone kuwana zvakafanana nekupedzisa kuita.
+[TinySearch](//github.com/tinysearch/tinysearch) shandisa Bloom sefa kutsvaga, haigone kushandiswa kutsvaga prefix (semuenzaniso, isa `goo` , tsvaga `good` , `google` ), uye haugone kuwana zvakafanana nekupedzisa kuita.
 
 Nekuda kwekukanganisa kwezvigadziriso zviripo, `i18n.site` yakagadzira mutsva wakachena wemberi-yekupedzisira yakazara-zvinyorwa yekutsvaga mhinduro, ine zvinotevera maitiro :
 
@@ -62,7 +62,7 @@ Pazasi, `i18n.site` tekinoroji yekushandisa ruzivo ichaunzwa zvakadzama.
 
 Shoko segmentation rinoshandisa bhurawuza rekuzvarwa izwi segmentation `Intl.Segmenter` , uye ese makuru mabhurawuza anotsigira iyi interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Izwi rekuti segmentation `coffeescript` kodhi rakadai
 
@@ -103,11 +103,11 @@ Pfuura muchikwata chegwaro `url` uye nhamba yevhezheni `ver` , uye tsvaga kana g
 
 Nenzira iyi, incremental indexing inogona kuwanikwa uye huwandu hwekuverenga hunoderedzwa.
 
-Kumberi-kumagumo, iyo indexing yekufambira mberi inogona kuratidzwa kudzivirira kusakara panguva yekurodha kekutanga Wona "Budiriro yeBara neAnimation, Yakavakirwa pane Imwe progress + Pure css Implementation" [Shona](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Kumberi-kumagumo, iyo indexing yekufambira mberi inogona kuratidzwa kudzivirira kusakara panguva yekurodha kekutanga Wona "Budiriro yeBara neAnimation, Yakavakirwa pane Imwe progress + Pure css Implementation" [Shona](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Yakakwirira Panguva Imwe Chete Kunyora
 
-Iyo purojekiti [idb](https://www.npmjs.com/package/idb) zvichibva pane asynchronous encapsulation ye IndexedDB
+Iyo purojekiti [idb](//www.npmjs.com/package/idb) zvichibva pane asynchronous encapsulation ye IndexedDB
 
 IndexedDB inoverenga uye inonyora ndeye asynchronous. Paunenge uchigadzira index, zvinyorwa zvichaiswa panguva imwe chete kugadzira index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Kuti uratidze mhinduro dzekutsvaga mushandisi paanenge achinyora, semuenzaniso, kana `wor` yaiswa, mazwi ane prefixed `wor` senge `words` uye `work` anoratidzwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Iyo yekutsvaga kernel ichashandisa iyo `prefix` tafura yezwi rekupedzisira mushure mechikamu chezwi kuti uwane ese mazwi akatangwa nawo, uye kutsvaga mukutevedzana.
 
@@ -170,7 +170,7 @@ Fungidzira kuti pane mazwi `N` mushure mechikamu chemazwi Pakudzosera mhinduro, 
 
 Mhedzisiro yekutsvaga inoratidzwa kutanga inovimbisa huchokwadi hwemubvunzo, uye mibairo inotakurwa zvino (tinya bhatani remutoro) simbisa mwero wekuyeuka.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Rodha Paunoda
 
@@ -182,7 +182,7 @@ Ziva kuti pese paunotsvaga zvakare mushure me `yield` , unoda kuvhurazve query t
 
 Kuti uratidze mhinduro dzekutsvaga mushandisi paanenge achinyora, semuenzaniso, kana `wor` yaiswa, mazwi ane prefixed `wor` senge `words` uye `work` anoratidzwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Iyo yekutsvaga kernel ichashandisa iyo `prefix` tafura yezwi rekupedzisira mushure mechikamu chezwi kuti uwane ese mazwi akatangwa nawo, uye kutsvaga mukutevedzana.
 
@@ -212,7 +212,7 @@ Panguva imwecheteyo, nekuti `service worker` inochengetera zvinyorwa zvese, kana
 
 Paunenge uchitaridza zvawanikwa, zita rechitsauko richaratidzwa uye chitsauko chichafambiswa kana chadzvanywa.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Pfupisa
 

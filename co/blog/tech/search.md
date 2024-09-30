@@ -24,7 +24,7 @@ Tali servizii necessitanu pagamentu basatu nantu à u voluminu di ricerca, è s�
 
 U sicondu hè pura ricerca full-text front-end.
 
-Ricerche di testu integrale di front-end puri ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) include [lunrjs](https://lunrjs.com)
+Attualmente, e ricerche di testu cumpletu puri cumuni includenu [lunrjs](//lunrjs.com) è [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (basatu nantu à u sviluppu secundariu `lunrjs` ).
 
 `lunrjs` Ci hè duie manere di custruisce indici, è tutti dui anu i so prublemi.
 
@@ -42,11 +42,11 @@ Ricerche di testu integrale di front-end puri ElasticLunr.js [https://github.com
 
 In più di `lunrjs` , ci sò altre soluzioni di ricerca di testu pienu, cum'è :
 
-[fusejs](https://www.fusejs.io) , calculate a similarità trà e stringhe per circà.
+[fusejs](//www.fusejs.io) , calculate a similarità trà e stringhe per circà.
 
-A prestazione di sta suluzione hè estremamente povera è ùn pò micca esse usata per a ricerca full-text (vede [Fuse.js A longa dumanda dura più di 10 seconde, cumu ottimisimu ?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+A prestazione di sta suluzione hè estremamente povera è ùn pò micca esse usata per a ricerca full-text (vede [Fuse.js A longa dumanda dura più di 10 seconde, cumu ottimisimu ?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) Aduprate u filtru Bloom per circà, ùn pò micca esse usatu per a ricerca di prefissu (per esempiu, entre `goo` , ricerca `good` , `google` ), è ùn pò micca ottene un effettu di cumpletu automaticu simili.
+[TinySearch](//github.com/tinysearch/tinysearch) Aduprate u filtru Bloom per circà, ùn pò micca esse usatu per a ricerca di prefissu (per esempiu, entre `goo` , ricerca `good` , `google` ), è ùn pò micca ottene un effettu di cumpletu automaticu simili.
 
 A causa di i difetti di e suluzioni esistenti, `i18n.site` hà sviluppatu una nova suluzione di ricerca di testu integrale pura, chì hà e seguenti caratteristiche :
 
@@ -62,7 +62,7 @@ Sottu, `i18n.site` dettagli di implementazione tecnica seranu presentati in dett
 
 A segmentazione di e parolle usa a segmentazione di parola nativa di u navigatore `Intl.Segmenter` , è tutti i navigatori mainstream supportanu sta interfaccia.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 U codice di segmentazione di a parolla `coffeescript` hè a siguenti
 
@@ -103,11 +103,11 @@ Passa in l'array di u documentu `url` è u numeru di versione `ver` , è cercate
 
 In questu modu, l'indexazione incrementale pò esse ottenuta è a quantità di calculu hè ridutta.
 
-In l'interazzione front-end, a barra di prugressu di carica di l'indici pò esse visualizata per evità u ritardu quandu si carica per a prima volta Vede "Barra di prugressu cù Animazione, Basatu nantu à un Singulu progress + Pure css Implementazione" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+In l'interazzione front-end, a barra di prugressu di carica di l'indici pò esse affissata per evità u ritardu quandu si carica per a prima volta Vede "Barra di prugressu cù Animazione, Basata nantu à una progress + implementazione css Pura" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Alta Scrittura Simultanea
 
-U prugettu hè [idb](https://www.npmjs.com/package/idb) basatu annantu à l'incapsulazione asincrona di IndexedDB
+U prugettu hè [idb](//www.npmjs.com/package/idb) basatu annantu à l'incapsulazione asincrona di IndexedDB
 
 IndexedDB leghje è scrive sò asincroni. Quandu creanu un indice, i ducumenti seranu caricati simultaneamente per creà l'indici.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Per vede i risultati di ricerca mentre l'utilizatore scrive, per esempiu, quandu `wor` hè inseritu, e parolle prefissate cù `wor` cum'è `words` è `work` sò visualizate.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 U kernel di ricerca utilizerà a tavola `prefix` per l'ultima parola dopu a segmentazione di e parolle per truvà tutte e parolle prefissate cù questu, è cercate in sequenza.
 
@@ -170,7 +170,7 @@ Assumimu chì ci sò `N` parolle dopu à a segmentazione di a parolla Quandu i r
 
 I risultati di ricerca affissati prima assicuranu l'accuratezza di a dumanda, è i risultati caricati dopu (cliccate u buttone di carica più) assicuranu a freccia di ricurdà.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Carica Nantu À Dumanda
 
@@ -182,7 +182,7 @@ Nota chì ogni volta chì cercate di novu dopu à `yield` , avete bisognu di ria
 
 Per vede i risultati di ricerca mentre l'utilizatore scrive, per esempiu, quandu `wor` hè inseritu, e parolle prefissate cù `wor` cum'è `words` è `work` sò visualizate.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 U kernel di ricerca utilizerà a tavola `prefix` per l'ultima parola dopu a segmentazione di e parolle per truvà tutte e parolle prefissate cù questu, è cercate in sequenza.
 
@@ -212,7 +212,7 @@ A suluzione pura di ricerca front-end di `i18n.site` hè ottimizzata per `MarkDo
 
 Quandu si vede i risultati di ricerca, u nome di u capitulu serà affissatu è u capitulu serà navigatu quandu cliccate.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Riassume
 

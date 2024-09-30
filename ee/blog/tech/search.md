@@ -24,7 +24,7 @@ Womate ŋu azãe le Internet dzi o, womate ŋu azãe le Internet dzi o, eye seɖ
 
 Evelia nye ŋgɔgbekpa dzi didi dzadzɛ.
 
-Nuŋɔŋlɔ blibo siwo le ŋgɔgbe dzadzɛ siwo wozãna zi geɖe dometɔ aɖewoe nye [lunrjs](https://lunrjs.com) kple [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Fifia la, ŋgɔdonya dzadzɛwo didi siwo bɔ la dometɔ aɖewoe nye [lunrjs](//lunrjs.com) kple [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (si wotu ɖe `lunrjs` evelia ƒe ŋgɔyiyi dzi).
 
 `lunrjs` Mɔ eve li siwo dzi woato atu indexwo, eye wo ame evea siaa ƒe kuxiwo le wo si.
 
@@ -42,11 +42,11 @@ Nuŋɔŋlɔ blibo siwo le ŋgɔgbe dzadzɛ siwo wozãna zi geɖe dometɔ aɖewoe
 
 Tsɔ kpe ɖe `lunrjs` ŋu la, nuŋɔŋlɔ bliboa didi ƒe kuxiwo gbɔkpɔnu bubu aɖewo hã li, abe :
 
-[fusejs](https://www.fusejs.io) , bu akɔnta le ka siwo nàdi dome ƒe sɔsɔ ŋu.
+[fusejs](//www.fusejs.io) , bu akɔnta le ka siwo nàdi dome ƒe sɔsɔ ŋu.
 
-Egbɔkpɔnu sia ƒe dɔwɔwɔ menyo kura o eye womate ŋu azãe na nuŋɔŋlɔ bliboa didi o (kpɔ [Fuse.js Nyabiase didi xɔa nusi wu 10 sɛkɛnd, aleke woawɔe wòanyo wu?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Egbɔkpɔnu sia ƒe dɔwɔwɔ menyo kura o eye womate ŋu azãe na nuŋɔŋlɔ bliboa didi o (kpɔ [Fuse.js Nyabiase didi xɔa nusi wu 10 sɛkɛnd, aleke woawɔe wòanyo wu?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Le egbɔkpɔnu siwo li ƒe gbɔdzɔgbɔdzɔwo ta la, `i18n.site` to ŋgɔgbe-nuŋɔŋlɔ blibo didi ƒe egbɔkpɔnu yeye dzadzɛ aɖe vɛ, si ƒe nɔnɔmewo gbɔna :
 
@@ -62,7 +62,7 @@ Le ete la, woaɖe mɔ̃ɖaŋununya ƒe dɔwɔwɔ ŋuti nyatakaka `i18n.site` afi
 
 Nyawo mama zãa nyatakakadzraɖoƒea ƒe nyawo mama `Intl.Segmenter` , eye nyatakakadzraɖoƒe veviwo katã doa alɔ ŋgɔdonya sia.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Nya ƒe mama `coffeescript` kɔda la le ale
 
@@ -103,11 +103,11 @@ To nuŋlɔɖi `url` kple eƒe tɔtrɔ xexlẽdzesi `ver` ƒe ƒuƒoƒoa me, eye 
 
 To mɔ sia dzi la, woate ŋu awɔ dzidziɖedzi ƒe indexing eye woaɖe akɔntabubu ƒe agbɔsɔsɔ dzi akpɔtɔ.
 
-Le ŋgɔgbe-nuwuwu ƒe kadodo me la, woateŋu aɖe agbatsɔtsɔ ƒe ŋgɔyiyi ƒe dzesi si le index la afia be woaƒo asa na megbedede ne wole agba tsɔm zi gbãtɔ Kpɔ "Ŋgɔyiyi ƒe Dzesi si me Animatsi le, si wotu ɖe Ðeka dzi progress + Pure css Implementation" [Eŋlisigbe](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [China](https://juejin.cn/post/7413586285954154522) .
+Le ŋgɔgbe-nuwuwu ƒe kadodo me la, woateŋu aɖe agbatsɔtsɔ ƒe ŋgɔyiyi ƒe dzesi si le index la afia be woaƒo asa na megbedede ne wole agba tsɔm zi gbãtɔ Kpɔ "Ŋgɔyiyi ƒe Dzesi si me Animatsi le, si wotu ɖe Ðeka dzi progress + Pure css Implementation" [Eŋlisigbe](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [China](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Kɔkɔ Le Ɣeyiɣi Ɖeka Me Nuŋɔŋlɔ
 
-[idb](https://www.npmjs.com/package/idb) dɔa ɖe asynchronous encapsulation si nye IndexedDB
+[idb](//www.npmjs.com/package/idb) dɔa ɖe asynchronous encapsulation si nye IndexedDB
 
 IndexedDB ƒe nuxexlẽ kple nuŋɔŋlɔ nye asynchronous. Ne wole index wɔm la, woatsɔ nuŋlɔɖiwo ade eme le ɣeyiɣi ɖeka me be woawɔ index la.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Be woate ŋu aɖe numekuku me tsonu afia esime zãla le nu ŋlɔm, le kpɔɖeŋu me, ne woŋlɔ `wor` la, woaɖe nya siwo wotsɔ `wor` do ŋgɔ abe `words` kple `work` ene afia.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Didi ƒe ƒuƒoƒoa azã `prefix` kplɔ̃a na nya mamlɛtɔ le nyawo mama megbe atsɔ adi nya siwo katã wotsɔ do ŋgɔ nɛ, eye wòadi ɖe wo nɔewo yome.
 
@@ -170,7 +170,7 @@ Tsɔe be nya `N` le nyawo ƒe mama megbe Ne èle emetsonuwo trɔm la, woatrɔ em
 
 Didi ƒe nyatakaka siwo woɖe fia gbã la kpɔa egbɔ be nyabiasea de pɛpɛpɛ, eye emetsonu siwo woda ɖe eme emegbe (zi load more ƒe dzesi dzi) kpɔa egbɔ be wogbugbɔ ŋku lé ɖe eŋu.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Agba Le Didi Nu
 
@@ -182,7 +182,7 @@ De dzesii be ɣesiaɣi si nàgadi le `yield` megbe la, ele be nàgbugbɔ aʋu bi
 
 Be woate ŋu aɖe numekuku me tsonu afia esime zãla le nu ŋlɔm, le kpɔɖeŋu me, ne woŋlɔ `wor` la, woaɖe nya siwo wotsɔ `wor` do ŋgɔ abe `words` kple `work` ene afia.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Didi ƒe ƒuƒoƒoa azã `prefix` kplɔ̃a na nya mamlɛtɔ le nyawo mama megbe atsɔ adi nya siwo katã wotsɔ do ŋgɔ nɛ, eye wòadi ɖe wo nɔewo yome.
 
@@ -212,7 +212,7 @@ Le ɣeyiɣi ma ke me la, esi wònye be `service worker` dzraa nyatiwo katã ɖo 
 
 Ne èle nyatakaka siwo nèdi la ɖem fia la, ta la ƒe ŋkɔ adze eye nàʋu ta la me ne èzi edzi.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Gblɔe Kpuie
 

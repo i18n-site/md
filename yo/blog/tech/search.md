@@ -24,7 +24,7 @@ Ko ṣee lo ni aisinipo, ko ṣee lo lori intranet, o si ni awọn idiwọn nla.
 
 Awọn keji jẹ funfun iwaju-opin wiwa ọrọ ni kikun.
 
-Awọn wiwa ọrọ ni kikun iwaju-opin mimọ ti [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) lo ElasticLunr.js pẹlu [lunrjs](https://lunrjs.com)
+Ni lọwọlọwọ, awọn wiwa ọrọ ni kikun iwaju-opin mimọ pẹlu [lunrjs](//lunrjs.com) ati [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (ti o da lori idagbasoke `lunrjs` ).
 
 `lunrjs` Awọn ọna meji lo wa lati kọ awọn atọka, ati pe awọn mejeeji ni awọn iṣoro tiwọn.
 
@@ -42,11 +42,11 @@ Awọn wiwa ọrọ ni kikun iwaju-opin mimọ ti [https://github.com/weixsong/e
 
 Ni afikun si `lunrjs` , awọn ojutu wiwa ọrọ-kikun miiran wa, bii :
 
-[fusejs](https://www.fusejs.io) , ṣe iṣiro ibajọra laarin awọn okun lati wa.
+[fusejs](//www.fusejs.io) , ṣe iṣiro ibajọra laarin awọn okun lati wa.
 
-Iṣe ti ojutu yii ko dara pupọ ati pe a ko le lo fun wiwa ọrọ-kikun (wo [Fuse.js Ibeere gigun gba diẹ sii ju 10 iṣẹju-aaya, bawo ni o ṣe le mu dara si?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Iṣe ti ojutu yii ko dara pupọ ati pe a ko le lo fun wiwa ọrọ-kikun (wo [Fuse.js Ibeere gigun gba diẹ sii ju 10 iṣẹju-aaya, bawo ni o ṣe le mu dara si?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) lo Bloom àlẹmọ lati wa, ko le ṣee lo fun ìpele àwárí (fun apẹẹrẹ, tẹ `goo` , àwárí `good` , `google` ), ati ki o ko ba le se aseyori iru laifọwọyi Ipari ipa.
+[TinySearch](//github.com/tinysearch/tinysearch) lo Bloom àlẹmọ lati wa, ko le ṣee lo fun ìpele àwárí (fun apẹẹrẹ, tẹ `goo` , àwárí `good` , `google` ), ati ki o ko ba le se aseyori iru laifọwọyi Ipari ipa.
 
 Nitori awọn ailagbara ti awọn solusan ti o wa tẹlẹ, `i18n.site` ṣe agbekalẹ ojuutu wiwa ọrọ-ipari iwaju mimọ tuntun, eyiti o ni awọn abuda wọnyi :
 
@@ -62,7 +62,7 @@ Ni isalẹ, awọn alaye imuse imọ-ẹrọ `i18n.site` yoo ṣafihan ni awọn
 
 Pipin ọrọ nlo ọrọ abinibi ti aṣawakiri naa ipin `Intl.Segmenter` , ati gbogbo awọn aṣawakiri akọkọ ṣe atilẹyin ni wiwo yii.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ọrọ ipin koodu `coffeescript` jẹ bi atẹle
 
@@ -103,11 +103,11 @@ Kọja ni titobi iwe-ipamọ `url` ati nọmba ẹya `ver` , ki o wa boya iwe-ip
 
 Ni ọna yii, titọka afikun le ṣee ṣe ati pe iye iṣiro ti dinku.
 
-Ni ibaraenisepo iwaju-ipari, igi [ilọsiwaju](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) ikojọpọ css atọka le ṣe afihan lati yago fun aisun nigba ikojọpọ fun / progress + [.](https://juejin.cn/post/7413586285954154522)
+Ni ibaraenisepo iwaju-opin, igi [ilọsiwaju](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) ikojọpọ atọka le ṣe afihan lati yago fun aisun nigbati o ba css ṣajọpọ fun / progress + [.](//juejin.cn/post/7413586285954154522)
 
 ### IndexedDB Kikọ Nigbakanna Giga
 
-Ise agbese na [idb](https://www.npmjs.com/package/idb) da lori asynchronous encapsulation ti IndexedDB
+Ise agbese na [idb](//www.npmjs.com/package/idb) da lori asynchronous encapsulation ti IndexedDB
 
 IndexedDB kika ati kikọ jẹ asynchronous. Nigbati o ba ṣẹda atọka, awọn iwe aṣẹ yoo kojọpọ nigbakanna lati ṣẹda atọka naa.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Lati le ṣe afihan awọn abajade wiwa lakoko ti olumulo n tẹ, fun apẹẹrẹ, nigbati `wor` ba ti wa ni titẹ sii, awọn ọrọ ti a ṣaju pẹlu `wor` gẹgẹbi `words` ati `work` yoo han.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ekuro wiwa yoo lo tabili `prefix` fun ọrọ ti o kẹhin lẹhin ipin ọrọ lati wa gbogbo awọn ọrọ ti a ṣaju pẹlu rẹ, ati ṣewadii ni ọkọọkan.
 
@@ -170,7 +170,7 @@ Ro pe awọn ọrọ `N` wa lẹhin ipin ọrọ Nigbati o ba da awọn abajade 
 
 Awọn abajade wiwa ti o han ni akọkọ rii daju pe deede ti ibeere naa, ati awọn abajade ti kojọpọ lẹhinna (tẹ bọtini fifuye diẹ sii) rii daju oṣuwọn iranti.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Fifuye Lori Eletan
 
@@ -182,7 +182,7 @@ Lati le ni ilọsiwaju iyara esi, wiwa naa nlo monomono `yield` lati ṣe imuse 
 
 Lati le ṣe afihan awọn abajade wiwa lakoko ti olumulo n tẹ, fun apẹẹrẹ, nigbati `wor` ba ti wa ni titẹ sii, awọn ọrọ ti a ṣaju pẹlu `wor` gẹgẹbi `words` ati `work` yoo han.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ekuro wiwa yoo lo tabili `prefix` fun ọrọ ti o kẹhin lẹhin ipin ọrọ lati wa gbogbo awọn ọrọ ti a ṣaju pẹlu rẹ, ati ṣewadii ni ọkọọkan.
 
@@ -212,7 +212,7 @@ Ojutu wiwa iwaju-opin mimọ `i18n.site` jẹ iṣapeye fun awọn iwe aṣẹ `
 
 Nigbati o ba n ṣafihan awọn abajade wiwa, orukọ ipin naa yoo han ati ipin naa yoo wa ni lilọ kiri nigbati o ba tẹ.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Ṣe Akopọ
 

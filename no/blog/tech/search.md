@@ -24,7 +24,7 @@ Den kan ikke brukes offline, kan ikke brukes på intranettet, og har store begre
 
 For det andre, ren front-end fulltekstsøk.
 
-Vanlig brukte rene front-end fulltekstsøk [lunrjs](/0) og [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+For øyeblikket er vanlige rene front-end fulltekstsøk [lunrjs](//lunrjs.com) og [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (basert på `lunrjs` for videreutvikling).
 
 `lunrjs` har to metoder for å bygge indekser, begge med sine egne utfordringer.
 
@@ -42,11 +42,11 @@ Vanlig brukte rene front-end fulltekstsøk [lunrjs](/0) og [ ElasticLunr.js ] [h
 
 I tillegg til `lunrjs` finnes det noen andre fulltekstsøkeløsninger, som:
 
-[fusejs](https://www.fusejs.io), som beregner likheten mellom strenger for å søke.
+[fusejs](//www.fusejs.io) beregner likheten mellom strenger for å utføre søk.
 
-Denne løsningen har svært dårlig ytelse og kan ikke brukes til fulltekstsøk (se [Fuse.js Langt søk tar mer enn 10 sekunder, hvordan optimaliseres det?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+Denne løsningen har svært dårlig ytelse og egner seg ikke for fulltekstsøk (se [Fuse.js: Lange søk tar mer enn 10 sekunder, hvordan optimaliseres det?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch), som bruker Bloom-filter for å søke, kan ikke brukes til prefikssøk (for eksempel, når du skriver `goo`, kan du ikke søke etter `good` eller `google`), og kan ikke oppnå lignende automatisk fullføringseffekt.
+[TinySearch](//github.com/tinysearch/tinysearch) bruker Bloom-filter for å søke, men kan ikke brukes til prefikssøk (for eksempel å skrive `goo` og søke etter `good` eller `google`), og kan ikke oppnå en effekt lik automatisk fullføring.
 
 På grunn av ulempene med eksisterende løsninger har `i18n.site` utviklet en ny ren front-end fulltekstsøk-løsning med følgende egenskaper:
 
@@ -62,7 +62,7 @@ Nedenfor vil vi detaljert beskrive `i18n.site` tekniske implementeringsdetaljer.
 
 Segmentering av ord brukes nettleserens opprinnelige segmentering `Intl.Segmenter`, som støttes av alle moderne nettlesere.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Segmenterings `coffeescript` koden er som følger:
 
@@ -103,11 +103,11 @@ Send inn en array med dokumentets `url` og versjonsnummer `ver`, og sjekk om dok
 
 På denne måten kan inkrementell indeksering oppnås, noe som reduserer beregningsmengden.
 
-I front-end-interaksjonen kan en fremdriftslinje for indekslasting vises for å unngå etterslep ved første lasting. Se "Fremdriftslinje med animasjon, basert på en enkelt progress + Ren css Implementering" [Engelsk](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Kinesisk](https://juejin.cn/post/7413586285954154522) .
+I front-end-interaksjonen kan lastefremdriftslinjen for indeksen vises for å unngå treg lastning ved første innlasting. Se "Animert fremdriftslinje, basert på enkelt progress + ren CSS-implementering" [Engelsk](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Kinesisk](//juejin.cn/post/7413586285954154522).
 
 ### IndexedDB høy samtidig skriving
 
-Prosjektet er utviklet basert på asynkron innkapsling av IndexedDB ved hjelp av [idb](https://www.npmjs.com/package/idb).
+Prosjektet er basert på asynkron innkapsling av IndexedDB med [idb](//www.npmjs.com/package/idb).
 
 IndexedDB-lesing og -skriving er asynkrone. Når en indeks opprettes, lastes dokumentene samtidig for å lage indeksen.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 For å vise søkeresultater mens brukeren skriver, for eksempel når `wor` skrives inn, vises ord med prefikset `wor` som `words` og `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Søkekjernen bruker `prefix`-tabellen for det siste ordet etter ordsegmentering for å finne alle ord med prefikset og søke i rekkefølge.
 
@@ -170,7 +170,7 @@ Anta at det er `N` ord etter ordsegmenteringen. Når resultater returneres, vil 
 
 Søkeresultatene som vises først sikrer nøyaktigheten av søket, mens resultater som lastes inn senere (ved å klikke på "Last mer"-knappen) sikrer full dekning.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Last på forespørsel
 
@@ -182,7 +182,7 @@ For å forbedre responshastigheten bruker søket `yield` generatoren for å impl
 
 For å vise søkeresultater mens brukeren skriver, for eksempel når `wor` skrives inn, vises ord med prefikset `wor` som `words` og `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Søkekjernen bruker `prefix`-tabellen for det siste ordet etter ordsegmentering for å finne alle ord med prefikset og søke i rekkefølge.
 
@@ -212,7 +212,7 @@ Søkeresultatene må lastes inn på nytt for å bli uthevet, og ved å bruke `se
 
 Når søkeresultater vises, vises kapittelnavnet, og kapittelet navigeres til når det klikkes på.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Summary
 

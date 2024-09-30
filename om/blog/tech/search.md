@@ -24,7 +24,7 @@ Toora ala fayyadamuu hin danda'u, intranet irratti fayyadamuu hin danda'u, daang
 
 Inni lammaffaan barbaacha barreeffama guutuu fuulduraa qulqulluudha.
 
-Barbaachawwan barruu guutuu fuulduraa qulqulluu yeroo baay'ee itti fayyadaman [lunrjs](https://lunrjs.com) fi [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) of keessatti qabata.
+Yeroo ammaa kana, barbaacha barreeffama guutuu fuula duraa qulqulluu beekamaan [lunrjs](//lunrjs.com) fi [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) ( `lunrjs` guddina sadarkaa lammaffaa irratti hundaa'uun) of keessatti qabata.
 
 `lunrjs` Indeeksii ijaaruuf karaan lama jira, lamaan isaanii iyyuu rakkoo mataa isaanii qabu.
 
@@ -42,11 +42,11 @@ Barbaachawwan barruu guutuu fuulduraa qulqulluu yeroo baay'ee itti fayyadaman [l
 
 `lunrjs` malees, furmaata barbaacha barreeffama guutuu biroo tokko tokko jiru, kan akka :
 
-[fusejs](https://www.fusejs.io) , walfakkeenya dhangiiwwan gidduu jiru shallagi.
+[fusejs](//www.fusejs.io) , walfakkeenya dhangiiwwan gidduu jiru shallagi.
 
-Gahumsi furmaata kanaa garmalee gadhee waan ta'eef barbaacha barreeffama guutuuf fayyadamuu hin danda'u (ilaali [Fuse.js Gaaffiin dheeraan 10 sekondii ol fudhata, akkamitti fooyyessa?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Gahumsi furmaata kanaa garmalee gadhee waan ta'eef barbaacha barreeffama guutuuf fayyadamuu hin danda'u (ilaali [Fuse.js Gaaffiin dheeraan 10 sekondii ol fudhata, akkamitti fooyyessa?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Sababa hanqina furmaata jiruun, `i18n.site` furmaata barbaacha barreeffama guutuu fuulduraa qulqulluu haaraa, kan amala armaan gadii qabu hojjeteera :
 
@@ -62,7 +62,7 @@ Armaan gaditti ibsi raawwii teeknikaa `i18n.site` bal’inaan ni dhiyaata.
 
 Qoodinsi jechootaa qoqqoodinsa jechootaa dhalootaa biraawzari fayyadama `Intl.Segmenter` , fi biraawzaroonni ijoo hundi walqunnamtii kana ni deeggaru.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Koodiin jecha qoqqoodinsa `coffeescript` akka armaan gadiitti argama
 
@@ -103,11 +103,11 @@ Tarree galmee `url` fi lakkoofsa gosa `ver` keessa darbi, fi galmeen gabatee `do
 
 Haala kanaan indeeksii dabalataa galma gahuun hammi shallaggii hir’achuu danda’a.
 
-Walqunnamtii fuulduraa keessatti, barruu adeemsa fe'iinsaa indeeksii yeroo jalqabaaf fe'amu duubatti hafummaa hambisuuf agarsiifamuu danda'a "Barruu Adeemsa Sochii wajjin, Tokko progress + Hojiirra css qulqulluu irratti hundaa'e" [Ingiliffa](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chaayinaa](https://juejin.cn/post/7413586285954154522) ilaali.
+Walqunnamtii fuulduraa keessatti, barruu adeemsa fe'iinsa indeksii yeroo jalqabaaf fe'amu duubatti hafummaa hambisuuf agarsiifamuu danda'a "Barruu Adeemsa Sochii wajjin, Tokko progress + Hojiirra css qulqulluu irratti hundaa'e" [Afaan Ingilizii](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chaayinaa](//juejin.cn/post/7413586285954154522) ilaali.
 
 ### IndexedDB Barreeffama Walfakkaatu Ol'aanaa
 
-Pirojektichi kan [idb](https://www.npmjs.com/package/idb) asynchronous encapsulation of IndexedDB
+Pirojektichi kan [idb](//www.npmjs.com/package/idb) asynchronous encapsulation of IndexedDB
 
 IndexedDB dubbisuu fi barreessuun walsimsiisaa dha. Yeroo indeksii uumtu, galmeewwan indeeksii uumuuf yeroo tokkotti fe'amu.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Bu'aa barbaacha yeroo fayyadamaan barreessu agarsiisuuf, fakkeenyaaf, yeroo `wor` galfamu, jechoonni `wor` dursanii kan akka `words` fi `work` ni mul'atu.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Keerliin barbaacha jechoota isa duraan durfaman hunda argachuuf jecha isa dhumaatiif gabatee `prefix` fayyadama.
 
@@ -170,7 +170,7 @@ Jechoonni qoqqoodinsa jechootaa booda jechootni `N` akka jiran haa fudhannu Yero
 
 Bu'aan barbaacha jalqaba agarsiifame sirrii ta'uu gaaffii mirkaneessa, fi bu'aan booda fe'ame (qaree dabalataa fe'i cuqaasi) saffisa yaadannoo mirkaneessa.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Fe’iinsa Gaaffii Irratti
 
@@ -182,7 +182,7 @@ Hubadhu yeroo hunda `yield` booda irra deebitee barbaaddu , daldala gaaffii `Ind
 
 Bu'aa barbaacha yeroo fayyadamaan barreessu agarsiisuuf, fakkeenyaaf, yeroo `wor` galfamu, jechoonni `wor` dursanii kan akka `words` fi `work` ni mul'atu.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Keerliin barbaacha jechoota isa duraan durfaman hunda argachuuf jecha isa dhumaatiif gabatee `prefix` fayyadama.
 
@@ -212,7 +212,7 @@ Furmaanni barbaacha fuulduraa qulqulluu `i18n.site` 's galmeewwan `MarkDown` kan
 
 Yeroo bu'aa barbaacha agarsiisu, maqaan boqonnaa ni mul'ata, boqonnaan immoo yeroo cuqaafamu ni qajeela.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Cuunfaa
 

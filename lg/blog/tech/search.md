@@ -24,7 +24,7 @@ Tesobola kukozesebwa offline, tesobola kukozesebwa ku intranet, era erina obuzib
 
 Ekyokubiri kwe kunoonya ebiwandiiko byonna mu maaso okulongoofu.
 
-Okunoonya ebiwandiiko ebijjuvu eby'omu maaso ebirongoofu ebikozesebwa ennyo mulimu [lunrjs](https://lunrjs.com) ne [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Mu kiseera kino, okunoonya okwa bulijjo okwa pure front-end full-text mulimu [lunrjs](//lunrjs.com) ne [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (okusinziira ku `lunrjs` secondary development).
 
 `lunrjs` Waliwo engeri bbiri ez’okuzimba indexes, era zombi zirina ebizibu byazo.
 
@@ -42,11 +42,11 @@ Okunoonya ebiwandiiko ebijjuvu eby'omu maaso ebirongoofu ebikozesebwa ennyo muli
 
 Ng’oggyeeko `lunrjs` , waliwo ebirala eby’okunoonya ebiwandiiko ebijjuvu, gamba nga :
 
-[fusejs](https://www.fusejs.io) , bala okufaanagana wakati w'ennyiriri okunoonya.
+[fusejs](//www.fusejs.io) , bala okufaanagana wakati w'ennyiriri okunoonya.
 
-Enkola y’okugonjoola kino mbi nnyo era tesobola kukozesebwa kunoonya biwandiiko byonna (laba [Fuse.js Okubuuza okuwanvu kutwala sekondi ezisukka mu 10 , oyinza otya okukilongoosa?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Enkola y’okugonjoola kino mbi nnyo era tesobola kukozesebwa kunoonya biwandiiko byonna (laba [Fuse.js Okubuuza okuwanvu kutwala sekondi ezisukka mu 10 , oyinza otya okukilongoosa?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Olw’obusobozi obutono bw’ebigonjoola ebiriwo, `i18n.site` ekoze eky’okunoonya ekipya ekirongoofu eky’okunoonya ebiwandiiko ebijjuvu mu maaso, ekirina engeri zino wammanga :
 
@@ -62,7 +62,7 @@ Wansi, ebikwata ku nkola y’ebyekikugu `i18n.site` bijja kwanjulwa mu bujjuvu.
 
 Okugabanya ebigambo kukozesa okugabanya ebigambo enzaaliranwa ya browser `Intl.Segmenter` , era browser zonna enkulu ziwagira interface eno.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Koodi y’okugabanya ebigambo `coffeescript` eri bweti
 
@@ -103,11 +103,11 @@ Yita mu nsengeka y’ekiwandiiko `url` n’enkyusa nnamba `ver` , era onoonye ob
 
 Mu ngeri eno, okuwandiika omuwendo (incremental indexing) kuyinza okutuukibwako era omuwendo gw’okubalirira gukendeezebwa.
 
-Mu nkolagana y'omu maaso, ebbaala y'enkulaakulana y'okutikka ey'omuko esobola okulagibwa okwewala okuddirira nga otikka omulundi ogusooka Laba "Ebbaala y'Enkulaakulana n'Ebifaananyi Ebiramu, Okusinziira ku Single progress + Pure css Implementation" [Luganda](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Mu nkolagana y'omu maaso, ebbaala y'enkulaakulana y'okutikka ey'omuko esobola okulagibwa okwewala okuddirira nga otikka omulundi ogusooka Laba "Ebbaala y'Enkulaakulana n'Ebifaananyi Ebiramu, Okusinziira ku Single progress + Pure css Implementation" [Luganda](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Waggulu Okuwandiika Mu Kiseera Kye Kimu
 
-Pulojekiti eno [idb](https://www.npmjs.com/package/idb) okusinziira ku asynchronous encapsulation ya IndexedDB
+Pulojekiti eno [idb](//www.npmjs.com/package/idb) okusinziira ku asynchronous encapsulation ya IndexedDB
 
 IndexedDB esoma n'okuwandiika tezikwatagana. Nga okola index, ebiwandiiko bijja kutikkibwa mu kiseera kye kimu okukola index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Okusobola okulaga ebivudde mu kunoonyereza ng’omukozesa awandiika, okugeza, `wor` bw’ayingizibwa, ebigambo ebisookerwako `wor` nga `words` ne `work` biragibwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel y’okunoonya ejja kukozesa emmeeza `prefix` ku kigambo ekisembayo oluvannyuma lw’okugabanya ebigambo okuzuula ebigambo byonna ebisookerwako nayo, n’okunoonya mu mutendera.
 
@@ -170,7 +170,7 @@ Kitwale nti waliwo ebigambo `N` oluvannyuma lw’okugabanya ebigambo Nga ozzaayo
 
 Ebivudde mu kunoonyereza ebiragiddwa bisooka kukakasa butuufu bw’okubuuza, era ebivuddemu ebitikkiddwa oluvannyuma (nyiga ku bbaatuuni ya load more) bikakasa omuwendo gw’okujjukira.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Omutikka Ku Bwetaavu
 
@@ -182,7 +182,7 @@ Weetegereze nti buli lw'oddamu okunoonya oluvannyuma lwa `yield` , olina okuddam
 
 Okusobola okulaga ebivudde mu kunoonyereza ng’omukozesa awandiika, okugeza, `wor` bw’ayingizibwa, ebigambo ebisookerwako `wor` nga `words` ne `work` biragibwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel y’okunoonya ejja kukozesa emmeeza `prefix` ku kigambo ekisembayo oluvannyuma lw’okugabanya ebigambo okuzuula ebigambo byonna ebisookerwako nayo, n’okunoonya mu mutendera.
 
@@ -212,7 +212,7 @@ Mu kiseera kye kimu, olw’okuba `service worker` etereka ebiwandiiko byonna, om
 
 Bw’oba olaga ebivudde mu kunoonyereza, erinnya ly’essuula lijja kulagibwa era essuula ejja kutambulirako ng’onyigiddwa.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Mu Bufunze
 

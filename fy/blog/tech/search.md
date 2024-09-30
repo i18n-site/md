@@ -24,7 +24,7 @@ It kin net offline brûkt wurde, kin net brûkt wurde op it yntranet, en hat gru
 
 De twadde is suver front-end full-text sykopdracht.
 
-Faak brûkte pure front-end folsleine-tekst sykopdrachten [lunrjs](https://lunrjs.com) en [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Op it `lunrjs` omfetsje [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) pure sykopdrachten foar folsleine tekst [lunrjs](//lunrjs.com)
 
 `lunrjs` D'r binne twa manieren om yndeksen te bouwen, en beide hawwe har eigen problemen.
 
@@ -42,11 +42,11 @@ Faak brûkte pure front-end folsleine-tekst sykopdrachten [lunrjs](https://lunrj
 
 Neist `lunrjs` binne d'r wat oare oplossingen foar folsleine tekstsykjen, lykas :
 
-[fusejs](https://www.fusejs.io) , berekkenje de oerienkomst tusken strings om te sykjen.
+[fusejs](//www.fusejs.io) , berekkenje de oerienkomst tusken strings om te sykjen.
 
-De prestaasjes fan dizze oplossing binne ekstreem min en kinne net brûkt wurde foar folsleine-tekstsykjen (sjoch [Fuse.js Lange query duorret mear as 10 sekonden, hoe optimalisearjen?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+De prestaasjes fan dizze oplossing binne ekstreem min en kinne net brûkt wurde foar folsleine-tekstsykjen (sjoch [Fuse.js Lange query duorret mear as 10 sekonden, hoe optimalisearjen?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) brûke Bloom-filter om te sykjen, kin net brûkt wurde foar prefix-sykjen (fiere bygelyks `goo` , sykje `good` , `google` ), en kin gjin ferlykber automatysk foltôgingseffekt berikke.
+[TinySearch](//github.com/tinysearch/tinysearch) brûke Bloom-filter om te sykjen, kin net brûkt wurde foar prefix-sykjen (fiere bygelyks `goo` , sykje `good` , `google` ), en kin gjin ferlykber automatysk foltôgingseffekt berikke.
 
 Fanwegen de tekortkomingen fan 'e besteande oplossingen hat `i18n.site` in nije suvere front-end folsleine-tekst sykoplossing ûntwikkele, dy't de folgjende skaaimerken hat :
 
@@ -62,7 +62,7 @@ Hjirûnder sille `i18n.site` technyske ymplemintaasjedetails yn detail wurde ynt
 
 Wurdsegmentaasje brûkt de native wurdsegmentaasje `Intl.Segmenter` fan 'e browser, en alle mainstreambrowsers stypje dizze ynterface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 De wurdsegmentaasje `coffeescript` koade is as folget
 
@@ -103,11 +103,11 @@ Trochjaan yn de rige fan dokumint `url` en ferzje nûmer `ver` , en sykje oft it
 
 Op dizze manier kin inkrementele yndeksearring wurde berikt en it bedrach fan berekkening wurdt fermindere.
 
-Yn front-end ynteraksje kin de laden foarútgongsbalke fan 'e yndeks werjûn wurde om de efterstân te foarkommen by it laden foar de earste kear Sjoch "Foargongsbalke mei animaasje, basearre op in single progress + Pure css Implementation" [Ingelsk](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Sineesk](https://juejin.cn/post/7413586285954154522) .
+Yn front-end ynteraksje kin de laden foarútgongsbalke fan 'e yndeks werjûn wurde om de efterstân te foarkommen by it laden foar de earste kear Sjoch "Foargongsbalke mei animaasje, basearre op in single progress + Pure css Implementation" [Ingelsk](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Sineesk](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Hege Tagelyk Skriuwen
 
-It projekt is [idb](https://www.npmjs.com/package/idb) op basis fan de asynchrone ynkapseling fan IndexedDB
+It projekt is [idb](//www.npmjs.com/package/idb) op basis fan de asynchrone ynkapseling fan IndexedDB
 
 IndexedDB lêzen en skriuwt is asynchrone. By it meitsjen fan in yndeks sille dokuminten tagelyk laden wurde om de yndeks te meitsjen.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Om sykresultaten wer te jaan wylst de brûker typt, bygelyks as `wor` ynfierd wurdt, wurde wurden werjûn mei `wor` foarôf, lykas `words` en `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 De sykkernel sil de `prefix` tabel brûke foar it lêste wurd nei wurdsegmentaasje om alle wurden te finen dy't dêrmei foarôfgeand binne, en sykje yn folchoarder.
 
@@ -170,7 +170,7 @@ Stel dat der `N` `1` binne nei de `N-1` `N-2`
 
 De werjûne sykresultaten soargje earst foar de krektens fan 'e query, en de resultaten dy't dêrnei laden wurde (klikje op de knop mear laden) soargje foar it weromroppersintaazje.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Laden Op Oanfraach
 
@@ -182,7 +182,7 @@ Tink derom dat elke kear as jo opnij sykje nei `yield` , jo in querytransaksje f
 
 Om sykresultaten wer te jaan wylst de brûker typt, bygelyks as `wor` ynfierd wurdt, wurde wurden werjûn mei `wor` foarôf, lykas `words` en `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 De sykkernel sil de `prefix` tabel brûke foar it lêste wurd nei wurdsegmentaasje om alle wurden te finen dy't dêrmei foarôfgeand binne, en sykje yn folchoarder.
 
@@ -212,7 +212,7 @@ Tagelyk, om't `service worker` alle artikels yn 't cache hâldt, as de brûker i
 
 By it werjaan fan sykresultaten sil de haadstiknamme wurde werjûn en it haadstik sil navigearre wurde as jo klikke.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Gearfetsje
 

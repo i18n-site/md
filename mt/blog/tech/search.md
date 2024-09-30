@@ -24,7 +24,7 @@ Ma jistax jintuża offline, ma jistax jintuża fuq l-intranet, u għandu limitaz
 
 It-tieni hija purament tfittxija full-test front-end.
 
-Tfittxijiet ta' test sħiħ ta' front-end użati b'mod komuni jinkludu [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Fil-preżent, it-tfittxijiet ta' test sħiħ ta' front-end puri jinkludu [lunrjs](//lunrjs.com) u [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (ibbażat fuq żvilupp sekondarju `lunrjs` ).
 
 `lunrjs` Hemm żewġ modi kif tibni indiċi, u t-tnejn għandhom il-problemi tagħhom.
 
@@ -42,11 +42,11 @@ Tfittxijiet ta' test sħiħ ta' front-end użati b'mod komuni jinkludu [lunrjs](
 
 Minbarra `lunrjs` , hemm xi soluzzjonijiet oħra ta' tfittxija b'test sħiħ, bħal :
 
-[fusejs](https://www.fusejs.io) , ikkalkula x-xebh bejn is-sekwenzi biex tfittex.
+[fusejs](//www.fusejs.io) , ikkalkula x-xebh bejn is-sekwenzi biex tfittex.
 
-Il-prestazzjoni ta 'din is-soluzzjoni hija estremament fqira u ma tistax tintuża għal tfittxija bit-test sħiħ (ara [Fuse.js Mistoqsija twila tieħu aktar minn 10 sekondi, kif tottimizzaha?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Il-prestazzjoni ta 'din is-soluzzjoni hija estremament fqira u ma tistax tintuża għal tfittxija bit-test sħiħ (ara [Fuse.js Mistoqsija twila tieħu aktar minn 10 sekondi, kif tottimizzaha?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , uża l-filtru Bloom biex tfittex, ma tistax tintuża għat-tfittxija tal-prefiss (per eżempju, daħħal `goo` , fittex `good` , `google` ), u ma tistax tikseb effett ta' tlestija awtomatika simili.
+[TinySearch](//github.com/tinysearch/tinysearch) , uża l-filtru Bloom biex tfittex, ma tistax tintuża għat-tfittxija tal-prefiss (per eżempju, daħħal `goo` , fittex `good` , `google` ), u ma tistax tikseb effett ta' tlestija awtomatika simili.
 
 Minħabba n-nuqqasijiet tas-soluzzjonijiet eżistenti, `i18n.site` żviluppat soluzzjoni pura ġdida ta 'tfittxija ta' test sħiħ ta 'quddiem, li għandha l-karatteristiċi li ġejjin :
 
@@ -62,7 +62,7 @@ Hawn taħt, `i18n.site` dettalji ta' implimentazzjoni teknika se jiġu introdott
 
 Is-segmentazzjoni tal-kliem tuża s-segmentazzjoni tal-kelma nattiva tal-browser `Intl.Segmenter` , u l-brawżers mainstream kollha jappoġġjaw din l-interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Il-kodiċi tas-segmentazzjoni tal-kelma `coffeescript` huwa kif ġej
 
@@ -103,11 +103,11 @@ Għaddi l-firxa tad-dokument `url` u n-numru tal-verżjoni `ver` , u fittex jekk
 
 B'dan il-mod, jista 'jinkiseb indiċjar inkrementali u l-ammont ta' kalkolu jitnaqqas.
 
-Fl-interazzjoni ta 'quddiem, il-bar tal-progress tat-tagħbija tal-indiċi tista' tintwera [biex](https://juejin.cn/post/7413586285954154522) tevita d-dewmien meta t-tagħbija għall-ewwel darba Ara "Bar tal-Progress b'Animazzjoni, Ibbażat fuq Implimentazzjoni css Pura" [Ingliż](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / progress + .
+Fl-interazzjoni ta 'quddiem, il-bar tal-progress tat-tagħbija tal-indiċi tista' tintwera [biex](//juejin.cn/post/7413586285954154522) tevita d-dewmien meta t-tagħbija għall-ewwel darba Ara "Bar tal-Progress b'Animazzjoni, Ibbażat fuq Implimentazzjoni css Pura" [Ingliż](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / progress + .
 
 ### IndexedDB Kitba Konkorrenti Għolja
 
-Il-proġett huwa [idb](https://www.npmjs.com/package/idb) ibbażat fuq l-inkapsulament mhux sinkroniku ta ' IndexedDB
+Il-proġett huwa [idb](//www.npmjs.com/package/idb) ibbażat fuq l-inkapsulament mhux sinkroniku ta ' IndexedDB
 
 IndexedDB jaqra u jikteb huma asinkroniċi. Meta jinħoloq indiċi, id-dokumenti se jitgħabbew fl-istess ħin biex jinħoloq l-indiċi.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Sabiex jintwerew ir-riżultati tat-tfittxija waqt li l-utent ikun qed ittajpja, pereżempju, meta tiddaħħal `wor` , jintwerew kliem prefissi bi `wor` bħal `words` u `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Il-qalba tat-tfittxija se tuża t-tabella `prefix` għall-aħħar kelma wara s-segmentazzjoni tal-kelma biex issib il-kliem kollu prefiss magħha, u tfittex f'sekwenza.
 
@@ -170,7 +170,7 @@ Assumi li hemm `N` kliem wara s-segmentazzjoni tal-kelma Meta tirritorna r-riżu
 
 Ir-riżultati tat-tfittxija murija l-ewwel jiżguraw l-eżattezza tal-mistoqsija, u r-riżultati mgħobbija sussegwentement (ikklikkja l-buttuna tat-tagħbija aktar) jiżguraw ir-rata ta 'recall.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Tagħbija Fuq Talba
 
@@ -182,7 +182,7 @@ Innota li kull darba li terġa' tfittex wara `yield` , trid terġa' tiftaħ tran
 
 Sabiex jintwerew ir-riżultati tat-tfittxija waqt li l-utent ikun qed ittajpja, pereżempju, meta tiddaħħal `wor` , jintwerew kliem prefissi bi `wor` bħal `words` u `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Il-qalba tat-tfittxija se tuża t-tabella `prefix` għall-aħħar kelma wara s-segmentazzjoni tal-kelma biex issib il-kliem kollu prefiss magħha, u tfittex f'sekwenza.
 
@@ -212,7 +212,7 @@ Is-soluzzjoni pura ta' tfittxija front-end ta' `i18n.site` hija ottimizzata għa
 
 Meta turi r-riżultati tat-tfittxija, jintwera l-isem tal-kapitolu u l-kapitolu jiġi navigat meta jiġi kklikkjat.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Agħti Fil-Qosor
 

@@ -24,7 +24,7 @@ Sichingagwiritsidwe ntchito pa intaneti, sichingagwiritsidwe ntchito pa intaneti
 
 Chachiwiri ndikufufuza mawu athunthu.
 
-Kusaka kwa [lunrjs](https://lunrjs.com) akutsogolo kumaphatikizapo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Pakadali pano, kusaka kodziwika [lunrjs](//lunrjs.com) komaliza kumaphatikizapo [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (kutengera chitukuko `lunrjs` ).
 
 `lunrjs` Pali njira ziwiri zopangira ma index, ndipo onse ali ndi zovuta zawo.
 
@@ -42,11 +42,11 @@ Kusaka kwa [lunrjs](https://lunrjs.com) akutsogolo kumaphatikizapo [ ElasticLunr
 
 Kuphatikiza pa `lunrjs` , palinso mayankho ena athunthu, monga :
 
-[fusejs](https://www.fusejs.io) , werengerani kufanana pakati pa zingwe kuti mufufuze.
+[fusejs](//www.fusejs.io) , werengerani kufanana pakati pa zingwe kuti mufufuze.
 
-Magwiridwe a yankholi ndiwoyipa kwambiri ndipo sangathe kugwiritsidwa ntchito posaka mawu athunthu (onani [Fuse.js Kufunsa kwautali kumatenga kupitilira masekondi 10 , mungakulitsitse bwanji?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Magwiridwe a yankholi ndiwoyipa kwambiri ndipo sangathe kugwiritsidwa ntchito posaka mawu athunthu (onani [Fuse.js Kufunsa kwautali kumatenga kupitilira masekondi 10 , mungakulitsitse bwanji?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , gwiritsani ntchito fyuluta ya Bloom kuti mufufuze, siingagwiritsidwe ntchito pakusaka kwachiyambi (mwachitsanzo, lowetsani `goo` , fufuzani `good` , `google` ), ndipo simungathe kukwaniritsa zotsatira zofananazo.
+[TinySearch](//github.com/tinysearch/tinysearch) , gwiritsani ntchito fyuluta ya Bloom kuti mufufuze, siingagwiritsidwe ntchito pakusaka kwachiyambi (mwachitsanzo, lowetsani `goo` , fufuzani `good` , `google` ), ndipo simungathe kukwaniritsa zotsatira zofananazo.
 
 Chifukwa cha zolakwika za mayankho omwe alipo, `i18n.site` yapanga njira yatsopano yosakira mawu, yomwe ili ndi zotsatirazi :
 
@@ -62,7 +62,7 @@ Pansipa, `i18n.site` tsatanetsatane waukadaulo waukadaulo adzafotokozedwa mwatsa
 
 Kugawanika kwa mawu kumagwiritsa ntchito gawo la mawu a msakatuli `Intl.Segmenter` , ndipo asakatuli onse akuluakulu amathandizira mawonekedwe awa.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Mawu akuti segmentation `coffeescript` code ali motere
 
@@ -103,11 +103,11 @@ Pitani pamndandanda wa chikalata `url` ndi mtundu `ver` , ndipo fufuzani ngati c
 
 Mwanjira iyi, kuwonjezereka kwa indexing kumatha kukwaniritsidwa ndipo kuchuluka kwa kuwerengera kumachepetsedwa.
 
-Kumapeto kwakumapeto, cholozera cholozera [chikhoza](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) kuwonetsedwa kuti musachedwe progress + css kwa / yoyamba [.](https://juejin.cn/post/7413586285954154522)
+Kumapeto kwakumapeto, cholozera cholozera patsogolo chikhoza kuwonetsedwa kuti musachedwe pamene mukutsegula kwa nthawi yoyamba Onani "Bara la Kupititsa patsogolo ndi Makanema, Kutengera Imodzi progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Yolemba Kwambiri Nthawi Imodzi
 
-Pulojekitiyi [idb](https://www.npmjs.com/package/idb) kutengera kusungidwa kwa asynchronous kwa IndexedDB
+Pulojekitiyi [idb](//www.npmjs.com/package/idb) kutengera kusungidwa kwa asynchronous kwa IndexedDB
 
 IndexedDB amawerenga ndikulemba ndi asynchronous. Mukapanga index, zolemba zimayikidwa nthawi imodzi kuti mupange index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Kuti muwonetse zotsatira zakusaka pamene wogwiritsa ntchito akulemba, mwachitsanzo, `wor` akalowa, mawu omwe ali ndi `wor` monga `words` ndi `work` amawonetsedwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel yofufuzira idzagwiritsa ntchito tebulo `prefix` pa liwu lomaliza pambuyo pa gawo la mawu kuti mupeze mawu onse omwe ali nawo, ndikufufuza motsatizana.
 
@@ -170,7 +170,7 @@ Tangoganizani kuti pali mawu `N` pambuyo pa gawo la mawu pobweretsa zotsatira, z
 
 Zotsatira zakusaka zomwe zikuwonetsedwa poyamba zimatsimikizira kulondola kwa funsolo, ndipo zotsatira zomwe zimayikidwa pambuyo pake (dinani batani lowonjezera) zitsimikizire kuchuluka kwa kukumbukira.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Katundu Pakufunika
 
@@ -182,7 +182,7 @@ Dziwani kuti nthawi iliyonse mukasakanso pambuyo pa `yield` , muyenera kutsegula
 
 Kuti muwonetse zotsatira zakusaka pamene wogwiritsa ntchito akulemba, mwachitsanzo, `wor` akalowa, mawu omwe ali ndi `wor` monga `words` ndi `work` amawonetsedwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel yofufuzira idzagwiritsa ntchito tebulo `prefix` pa liwu lomaliza pambuyo pa gawo la mawu kuti mupeze mawu onse omwe ali nawo, ndikufufuza motsatizana.
 
@@ -212,7 +212,7 @@ Nthawi yomweyo, chifukwa `service worker` imasunga zolemba zonse, wogwiritsa ntc
 
 Mukawonetsa zotsatira zakusaka, dzina lamutu lidzawonetsedwa ndipo mutuwo udzawunikidwa mukadina.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Fotokozerani Mwachidule
 

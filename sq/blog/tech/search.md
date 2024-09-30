@@ -24,7 +24,7 @@ Nuk mund të përdoret jashtë linje, nuk mund të përdoret në intranet dhe ka
 
 E dyta është kërkimi i pastër me tekst të plotë.
 
-Kërkimet e thjeshta me tekst të plotë të përdorura zakonisht përfshijnë [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Aktualisht, [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) e zakonshme të pastra me tekst të plotë `lunrjs` [lunrjs](//lunrjs.com)
 
 `lunrjs` Ka dy mënyra për të krijuar indekse dhe të dyja kanë problemet e tyre.
 
@@ -42,11 +42,11 @@ Kërkimet e thjeshta me tekst të plotë të përdorura zakonisht përfshijnë [
 
 Përveç `lunrjs` , ka disa zgjidhje të tjera të kërkimit me tekst të plotë, si p.sh. :
 
-[fusejs](https://www.fusejs.io) llogaritni ngjashmërinë midis vargjeve për të kërkuar.
+[fusejs](//www.fusejs.io) llogaritni ngjashmërinë midis vargjeve për të kërkuar.
 
-Performanca e kësaj zgjidhjeje është jashtëzakonisht e dobët dhe nuk mund të përdoret për kërkim me tekst të plotë (shih [Fuse.js Kërkesa e gjatë zgjat më shumë se 10 sekonda, si ta optimizoni atë?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Performanca e kësaj zgjidhjeje është jashtëzakonisht e dobët dhe nuk mund të përdoret për kërkim me tekst të plotë (shih [Fuse.js Kërkesa e gjatë zgjat më shumë se 10 sekonda, si ta optimizoni atë?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-, përdorni filtrin Bloom për të kërkuar, nuk mund [TinySearch](https://github.com/tinysearch/tinysearch) përdoret për kërkimin e prefiksit (për shembull, shkruani `goo` , kërkoni `good` , `google` ) dhe nuk mund të arrini efekt të ngjashëm të përfundimit.
+, përdorni filtrin Bloom për të kërkuar, nuk mund [TinySearch](//github.com/tinysearch/tinysearch) përdoret për kërkimin e prefiksit (për shembull, shkruani `goo` , kërkoni `good` , `google` ) dhe nuk mund të arrini efekt të ngjashëm të përfundimit.
 
 Për shkak të mangësive të zgjidhjeve ekzistuese, `i18n.site` zhvilloi një zgjidhje të re të pastër të kërkimit me tekst të plotë, e cila ka karakteristikat e mëposhtme :
 
@@ -62,7 +62,7 @@ Më poshtë, `i18n.site` detaje teknike të zbatimit do të prezantohen në deta
 
 Segmentimi i fjalëve përdor segmentimin e fjalëve origjinale të shfletuesit `Intl.Segmenter` , dhe të gjithë shfletuesit e zakonshëm e mbështesin këtë ndërfaqe.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Kodi i segmentimit të fjalëve `coffeescript` është si më poshtë
 
@@ -103,11 +103,11 @@ Kaloni në grupin e dokumentit `url` dhe versionit numër `ver` dhe kërkoni në
 
 Në këtë mënyrë, mund të arrihet indeksimi në rritje dhe sasia e llogaritjes zvogëlohet.
 
-Në ndërveprimin në pjesën e përparme, shiriti [i](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) [progresit](https://juejin.cn/post/7413586285954154522) të ngarkimit të indeksit mund të shfaqet për të shmangur vonesën / ngarkohet për herë css progress + .
+Në ndërveprimin në pjesën e përparme, shiriti [i](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) [progresit](//juejin.cn/post/7413586285954154522) të ngarkimit të indeksit mund të shfaqet për të shmangur vonesën / ngarkohet për herë css progress + .
 
 ### IndexedDB Shkrim I Lartë I Njëkohshëm
 
-Projekti është [idb](https://www.npmjs.com/package/idb) bazuar në kapsulimin asinkron të IndexedDB
+Projekti është [idb](//www.npmjs.com/package/idb) bazuar në kapsulimin asinkron të IndexedDB
 
 Leximet dhe shkrimet e IndexedDB janë asinkrone. Kur krijoni një indeks, dokumentet do të ngarkohen njëkohësisht për të krijuar indeksin.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Për të shfaqur rezultatet e kërkimit ndërsa përdoruesi është duke shtypur, për shembull, kur futet `wor` , shfaqen fjalët e parashtesuara me `wor` si `words` dhe `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kerneli i kërkimit do të përdorë tabelën `prefix` për fjalën e fundit pas segmentimit të fjalës për të gjetur të gjitha fjalët e parashtesuara me të dhe për të kërkuar në rend.
 
@@ -170,7 +170,7 @@ Supozoni se ka `N` fjalë pas segmentimit të fjalëve Kur kthehen rezultatet, s
 
 Rezultatet e kërkimit të shfaqura së pari sigurojnë saktësinë e pyetjes dhe rezultatet e ngarkuara më pas (kliko butonin "Ngarko më shumë") sigurojnë shkallën e tërheqjes.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Ngarkoni Sipas Kërkesës
 
@@ -182,7 +182,7 @@ Vini re se sa herë që kërkoni përsëri pas `yield` , duhet të rihapni një 
 
 Për të shfaqur rezultatet e kërkimit ndërsa përdoruesi është duke shtypur, për shembull, kur futet `wor` , shfaqen fjalët e parashtesuara me `wor` si `words` dhe `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kerneli i kërkimit do të përdorë tabelën `prefix` për fjalën e fundit pas segmentimit të fjalës për të gjetur të gjitha fjalët e parashtesuara me të dhe për të kërkuar në rend.
 
@@ -212,7 +212,7 @@ Zgjidhja e pastër e kërkimit në front-end të `i18n.site` është optimizuar 
 
 Kur shfaqen rezultatet e kërkimit, do të shfaqet emri i kapitullit dhe kapitulli do të navigohet kur të klikohet.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Përmblidhni
 

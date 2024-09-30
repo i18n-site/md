@@ -24,7 +24,7 @@
 
 二つ目は、純粋なフロントエンドでの全文検索です。
 
-一般的に使用される純粋なフロントエンド全文検索には、 [lunrjs](/0)および [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91)が含まれます。
+現在、一般的な純粋なフロントエンドの全文検索には、[lunrjs](//lunrjs.com)と[ElasticLunr.js](//github.com/weixsong/elasticlunr.js)(`lunrjs`を基盤とした二次開発)が主流です。
 
 `lunrjs`は二つのインデックス構築方法を持っており、それぞれに問題があります。
 
@@ -42,11 +42,11 @@
 
 `lunrjs`以外にも、他の全文検索ソリューションもあります
 
-[fusejs](https://www.fusejs.io)は、文字列間の相似度を計算して検索を行います。
+[fusejs](//www.fusejs.io)は、文字列間の類似度を計算して検索を行います。
 
-このアプローチのパフォーマンスは非常に悪く、全文検索には適さないです(「[Fuse.jsの長クエリは10秒以上かかります。どう最適化するか？](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)」を参照してください)。
+このソリューションは性能が非常に低く、全文検索には適していません([Fuse.jsの長いクエリが10秒を超えてしまう、どのように最適化するか？](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)を参照してください)。
 
-[TinySearch](https://github.com/tinysearch/tinysearch)は、ブルームフィルターを使用して検索を行いますが、接頭辞検索(例えば、`goo`を入力して`good`や`google`を検索する場合)には対応せず、自動補完のような機能も提供していません。
+[TinySearch](//github.com/tinysearch/tinysearch)はブルームフィルターを使用した検索を行いますが、接頭辞検索(例えば、`goo`を入力して`good`や`google`を検索する)には対応しておらず、自動補完のような効果を実現できません。
 
 現存するソリューションの欠点を解消するために、`i18n.site`は以下の特徴を持つ新しい純粋なフロントエンド全文検索ソリューションを自社開発しました
 
@@ -62,7 +62,7 @@
 
 以下は分詞の`coffeescript`コードの例です。
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 以下は、分詞に用いる`coffeescript`のコードです
 
@@ -103,11 +103,11 @@ export segqy = (q) =>
 
 この方法により、インクリメンタルなインデックス作成が可能になり、計算量が削減されます。
 
-フロントエンド対話では、初回ロード時の遅延を避けるために、インデックスのロード進行状況バーを表示できます。「単一のprogress + Pure css実装に基づくアニメーション付きの進行状況バー」 [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese を](https://juejin.cn/post/7413586285954154522)参照してください。
+フロントエンドのインタラクションでは、インデックスの読み込み進行状況を表示するプログレスバーを用いることで、初回のロード時の遅延感を軽減できます。詳しくは「アニメーション付きの進行状況バー、単一のprogress + 純CSSで実装」[英文](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](//juejin.cn/post/7413586285954154522)を参照してください。
 
 ### IndexedDBの高并发書き込み
 
-このプロジェクトは、IndexedDBの非同期カプセル化に基づいて[idb](https://www.npmjs.com/package/idb)を開発しました。
+このプロジェクトは、IndexedDBの非同期封装である[idb](//www.npmjs.com/package/idb)を基盤として開発されています。
 
 IndexedDBの読み取りと書き込みは非同期で、インデックスを作成する際には、ドキュメントが同時にロードされてインデックスが作成されます。
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 ユーザーが入力中に検索結果をリアルタイムで表示するため、例えば`wor`を入力すると、`words`や`work`など`wor`で始まる単語が表示されます。
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 フロントエンドインタラクションでは、ユーザー入力の頻度を減らし、計算負荷を削減するために、`debounce`関数を使用します。
 
@@ -170,7 +170,7 @@ export default (wait, func) => {
 
 最初に表示される検索結果によってクエリの正確さが保証され、その後読み込まれる結果 ([さらに読み込む] ボタンをクリック) によって再現率が保証されます。
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## オンデマンドでの読み込み
 
@@ -182,7 +182,7 @@ export default (wait, func) => {
 
 ユーザーが入力中に検索結果をリアルタイムで表示するため、例えば`wor`を入力すると、`words`や`work`など`wor`で始まる単語が表示されます。
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 フロントエンドインタラクションでは、ユーザー入力の頻度を減らし、計算負荷を削減するために、`debounce`関数を使用します。
 
@@ -212,7 +212,7 @@ export default (wait, func) => {
 
 要約
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## まとめ
 

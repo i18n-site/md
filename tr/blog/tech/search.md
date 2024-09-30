@@ -24,7 +24,7 @@ Bu tür hizmetler, arama hacmine göre ücretlendirilir ve web sitesi uyumluluk 
 
 Ikincisi, saf ön uç tam metin aramasıdır.
 
-Yaygın olarak kullanılan saf ön uç tam metin aramaları arasında [lunrjs](https://lunrjs.com) ve [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发) bulunur.
+Şu anda yaygın olarak kullanılan ön uç tam metin aramaları arasında [lunrjs](//lunrjs.com) ve [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) ( `lunrjs` ikincil geliştirmeye dayalı) bulunmaktadır.
 
 `lunrjs`, iki farklı dizin oluşturma yöntemine sahiptir ve her ikisinin de kendi sorunları vardır.
 
@@ -42,11 +42,11 @@ Yaygın olarak kullanılan saf ön uç tam metin aramaları arasında [lunrjs](h
 
 20	除了 `lunrjs` 之外，还有一些其他的全文搜索方案，比如:
 
-21	[fusejs](https://www.fusejs.io)，计算字符串之间的相似度来搜索。
+[fusejs](//www.fusejs.io) ile, metinler arasındaki benzerlik hesaplanarak arama yapılır.
 
-22	此方案性能极差，无法用于全文搜索(参见 [Fuse.js 长查询耗时超过10秒，如何优化？](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries))。
+Bu çözümün performansı oldukça düşük olduğundan, tam metin araması için uygun değildir (bakınız: [Fuse.js Uzun Sorguların Süresi 10 Saniyeyi Aşiyor, Nasıl Optimizasyon Yapılır?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-23	[TinySearch](https://github.com/tinysearch/tinysearch)，使用布隆过滤器来搜索，无法用于前缀搜索(比如输入`goo`，搜索`good`、`google`)，无法实现类似自动补全效果。
+[TinySearch](//github.com/tinysearch/tinysearch) , arama yapmak için Bloom filtresini kullanır, önek araması için kullanılamaz (örneğin, `goo` girin, `good` , `google` arayın) ve benzer otomatik tamamlama efekti elde edilemez.
 
 Mevcut çözümlerin dezavantajları nedeniyle `i18n.site`, aşağıdaki özelliklere sahip yeni bir saf ön uç tam metin arama çözümü geliştirmiştir:
 
@@ -62,7 +62,7 @@ Mevcut çözümlerin dezavantajları nedeniyle `i18n.site`, aşağıdaki özelli
 
 32	分词采用浏览器原生的分词 `Intl.Segmenter`，主流浏览器都支持此接口。
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 33	分词`coffeescript`代码如下
 
@@ -103,11 +103,11 @@ export segqy = (q) =>
 
 45	如此就可以实现增量索引，降低了计算量。
 
-46	前端交互上，可以显示索引的加载进度条避免首次加载时的卡顿感，参见《带动画的进度条，基于单个 progress + 纯css实现》[英文](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](https://juejin.cn/post/7413586285954154522)。
+Ön uç etkileşiminde, ilk yükleme sırasında donma hissini önlemek için dizinin yükleme ilerleme çubuğu gösterilebilir. Ayrıca bakınız: "Tek Bir Progress + Saf CSS İle Animasyonlu İlerleme Çubuğu" [İngilizce](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Çince](//juejin.cn/post/7413586285954154522).
 
 ### 47	IndexedDB 高并发写入
 
-48	项目基于 IndexedDB 的异步封装 [idb](https://www.npmjs.com/package/idb) 开发。
+Proje, IndexedDB'nin asenkron kapsüllemesine dayalı olarak [idb](//www.npmjs.com/package/idb) ile geliştirilmiştir.
 
 49	IndexedDB 读取和写入都是异步的。而创建索引的时候会并发地加载文档创建索引。
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 63	为了实现用户输入的同时展示搜索结果，比如输入 `wor` 的时候，展示 `words` 和 `work` 等以 `wor` 为前缀的单词。
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 64	搜索内核会对分词后的最后一个词借助`prefix`表，找到所有以它为前缀的词，依次搜索。
 
@@ -170,7 +170,7 @@ export default (wait, func) => {
 
 58	优先展示的搜索结果保证了查询的准确率，后续加载的结果(点击加载更多按钮)保证了查全率。
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## 59	按需加载
 
@@ -182,7 +182,7 @@ export default (wait, func) => {
 
 63	为了实现用户输入的同时展示搜索结果，比如输入 `wor` 的时候，展示 `words` 和 `work` 等以 `wor` 为前缀的单词。
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 64	搜索内核会对分词后的最后一个词借助`prefix`表，找到所有以它为前缀的词，依次搜索。
 
@@ -212,7 +212,7 @@ export default (wait, func) => {
 
 72	展示显示搜索结果时，会显示章节名称，并在点击时定位到该章节。
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## 73	总结
 

@@ -24,7 +24,7 @@ Tiaj servoj postulas pagon bazitan sur serĉvolumo, kaj ofte estas neatingeblaj 
 
 La dua estas pura antaŭfina plenteksta serĉo.
 
-Ofte uzataj puraj plentekstaj serĉoj inkluzivas [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Nuntempe, oftaj puraj antaŭfinaj plentekstaj serĉoj inkluzivas [lunrjs](//lunrjs.com) kaj [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (bazitaj sur `lunrjs` sekundara evoluo).
 
 `lunrjs` Estas du manieroj konstrui indeksojn, kaj ambaŭ havas siajn proprajn problemojn.
 
@@ -42,11 +42,11 @@ Ofte uzataj puraj plentekstaj serĉoj inkluzivas [lunrjs](https://lunrjs.com) [ 
 
 Krom `lunrjs` , ekzistas iuj aliaj plentekste serĉsolvoj, kiel ekzemple :
 
-[fusejs](https://www.fusejs.io) , kalkulu la similecon inter ĉenoj por serĉi.
+[fusejs](//www.fusejs.io) , kalkulu la similecon inter ĉenoj por serĉi.
 
-La rendimento de ĉi tiu solvo estas ekstreme malbona kaj ne povas esti uzata por plenteksta serĉo (vidu [Fuse.js Longa demando daŭras pli ol 10 sekundoj, kiel optimumigi ĝin?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+La rendimento de ĉi tiu solvo estas ekstreme malbona kaj ne povas esti uzata por plenteksta serĉo (vidu [Fuse.js Longa demando daŭras pli ol 10 sekundoj, kiel optimumigi ĝin?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) uzu Bloom-filtrilon por serĉi, ne povas esti uzata por prefiksa serĉo (ekzemple, enigu `goo` , serĉu `good` , `google` ), kaj ne povas atingi similan aŭtomatan kompletigan efikon.
+[TinySearch](//github.com/tinysearch/tinysearch) uzu Bloom-filtrilon por serĉi, ne povas esti uzata por prefiksa serĉo (ekzemple, enigu `goo` , serĉu `good` , `google` ), kaj ne povas atingi similan aŭtomatan kompletigan efikon.
 
 Pro la mankoj de la ekzistantaj solvoj, `i18n.site` evoluigis novan puran antaŭfinan plentekstan serĉsolvon, kiu havas la jenajn karakterizaĵojn :
 
@@ -62,7 +62,7 @@ Malsupre, `i18n.site` teknikaj efektivigdetaloj estos enkondukitaj detale.
 
 Vortsegmentado uzas la indiĝenan vortsegmentadon de la retumilo `Intl.Segmenter` , kaj ĉiuj ĉefaj retumiloj subtenas ĉi tiun interfacon.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 La vortsegmenta `coffeescript` kodo estas jena
 
@@ -103,11 +103,11 @@ Enmetu la tabelon de dokumento `url` kaj versio numero `ver` , kaj serĉu ĉu la
 
 Tiamaniere, pliiga indeksado povas esti atingita kaj la kvanto de kalkulo estas reduktita.
 
-En antaŭa interagado, la ŝarĝa progresbreto de la indekso povas esti montrita por eviti la malfruon dum la ŝarĝo unuafoje Vidu "Progresbaro kun Animacio, Bazita sur Unuopa progress + Pura css Efektivigo" [Angla](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Ĉina](https://juejin.cn/post/7413586285954154522) .
+En antaŭa interagado, la ŝarĝa progresbreto de la indekso povas esti montrita por eviti la malfruon dum la ŝarĝo unuafoje Vidu "Progresbaro kun Animacio, Bazita sur Unuopa progress + Pura css Efektivigo" [Angla](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Ĉina](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Alta Samtempa Skribo
 
-La projekto estas [idb](https://www.npmjs.com/package/idb) surbaze de la nesinkrona enkapsuligo de IndexedDB
+La projekto estas [idb](//www.npmjs.com/package/idb) surbaze de la nesinkrona enkapsuligo de IndexedDB
 
 IndexedDB legado kaj skribado estas nesinkronaj. Kiam oni kreas indekson, dokumentoj estos ŝarĝitaj samtempe por krei la indekson.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Por montri serĉrezultojn dum la uzanto tajpas, ekzemple, kiam `wor` estas enigita, vortoj prefiksitaj per `wor` kiel ekzemple `words` kaj `work` estas montrataj.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 La serĉkerno uzos la `prefix` tabelon por la lasta vorto post vortsegmentado por trovi ĉiujn vortojn prefiksitajn kun ĝi, kaj serĉos en sinsekvo.
 
@@ -170,7 +170,7 @@ Supozu ke estas `N` vortoj post la vortsegmentado Revenante rezultojn, rezultoj 
 
 La serĉrezultoj montritaj unue certigas la precizecon de la konsulto, kaj la rezultoj ŝarĝitaj poste (alklaku la butonon Ŝargi pli) certigas la revokan indicon.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Ŝarĝu Laŭpeto
 
@@ -182,7 +182,7 @@ Rimarku ke ĉiufoje kiam vi serĉas denove post `yield` , vi devas remalfermi de
 
 Por montri serĉrezultojn dum la uzanto tajpas, ekzemple, kiam `wor` estas enigita, vortoj prefiksitaj per `wor` kiel ekzemple `words` kaj `work` estas montrataj.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 La serĉkerno uzos la `prefix` tabelon por la lasta vorto post vortsegmentado por trovi ĉiujn vortojn prefiksitajn kun ĝi, kaj serĉos en sinsekvo.
 
@@ -212,7 +212,7 @@ La pura antaŭfina serĉsolvo de `i18n.site` estas optimumigita por `MarkDown` d
 
 Kiam vi montras serĉrezultojn, la nomo de la ĉapitro estos montrata kaj la ĉapitro navigos kiam oni klakas.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Resumu
 

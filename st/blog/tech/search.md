@@ -24,7 +24,7 @@ E ke ke ea sebelisoa ntle le marang-rang, e ke ke ea sebelisoa ho intranet, 'me 
 
 Ea bobeli ke patlo e felletseng ea mongolo.
 
-Lipatlisiso tsa mongolo o felletseng tse [lunrjs](https://lunrjs.com) hangata li kenyelletsa [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Hajoale, lipatlisiso tse tloaelehileng tsa mongolo o felletseng li kenyelletsa [lunrjs](//lunrjs.com) le [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (e ipapisitse le ntlafatso ea `lunrjs` ).
 
 `lunrjs` Ho na le mekhoa e 'meli ea ho theha li-index,' me ka bobeli li na le mathata a tsona.
 
@@ -42,11 +42,11 @@ Lipatlisiso tsa mongolo o felletseng tse [lunrjs](https://lunrjs.com) hangata li
 
 Ntle le `lunrjs` , ho na le litharollo tse ling tsa ho batla mongolo ka botlalo, joalo ka :
 
-[fusejs](https://www.fusejs.io) , bala ho tšoana pakeng tsa likhoele ho batla.
+[fusejs](//www.fusejs.io) , bala ho tšoana pakeng tsa likhoele ho batla.
 
-Ts'ebetso ea tharollo ena e mpe haholo 'me e ke ke ea sebelisoa ho batla mongolo o felletseng (bona [Fuse.js Potso e telele e nka metsotsoana e fetang 10 , hore na u ka e ntlafatsa joang?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ts'ebetso ea tharollo ena e mpe haholo 'me e ke ke ea sebelisoa ho batla mongolo o felletseng (bona [Fuse.js Potso e telele e nka metsotsoana e fetang 10 , hore na u ka e ntlafatsa joang?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) sebelisa Bloom filter ho batla, e ke ke ea sebelisoa bakeng sa ho batla sehlohlolong (mohlala, kenya `goo` , batla `good` , `google` ), 'me e ke ke ea finyella phello e tšoanang ea ho qetela.
+[TinySearch](//github.com/tinysearch/tinysearch) sebelisa Bloom filter ho batla, e ke ke ea sebelisoa bakeng sa ho batla sehlohlolong (mohlala, kenya `goo` , batla `good` , `google` ), 'me e ke ke ea finyella phello e tšoanang ea ho qetela.
 
 Ka lebaka la mefokolo ea litharollo tse teng, `i18n.site` ile a hlahisa tharollo e ncha e hloekileng ea ho batla mongolo o felletseng, e nang le litšobotsi tse latelang :
 
@@ -62,7 +62,7 @@ Ka tlase, lintlha `i18n.site` tsa ts'ebetsong ea tekheniki li tla hlahisoa ka bo
 
 Karohano ea mantsoe e sebelisa karohano ea mantsoe ea sebatli `Intl.Segmenter` , 'me libatli tsohle tse kholo li tšehetsa sebopeho sena.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Lentsoe karohano `coffeescript` khoutu ka tsela e latelang
 
@@ -103,11 +103,11 @@ Feta lethathamong la tokomane `url` le ea mofuta oa `ver` , 'me u batle hore na 
 
 Ka tsela ena, indexing e ntseng e eketseha e ka finyelloa mme palo ea lipalo e fokotsehile.
 
-Tšebelisanong e ka pele, sebaka sa tsoelo-pele sa index se ka bonts'oa ho qoba ho lieha ha ho laeloa ka lekhetlo la pele Sheba "Bara ea Tsoelo-pele e nang le Lipopae, E Thehiloe ho E Leng progress + Pure css Kemplementation" [Sesotho](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Tšebelisanong e ka pele, sebaka sa tsoelo-pele sa indexing se ka bontšoa ho qoba ho lieha ha ho laeloa lekhetlo la pele Sheba "Bara ea Tsoelo-pele e nang le Lipopae, E Thehiloe ho E 'ngoe progress + Pure css Kemplementation" [Sesotho](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB E Phahameng Ea Ho Ngola Ka Nako E Le 'ngoe
 
-Morero o [idb](https://www.npmjs.com/package/idb) ho ipapisitsoe le asynchronous encapsulation ea IndexedDB
+Morero o [idb](//www.npmjs.com/package/idb) ho ipapisitsoe le asynchronous encapsulation ea IndexedDB
 
 IndexedDB e bala le ho ngola ha e lumellane. Ha ho etsoa index, litokomane li tla laeloa ka nako e le 'ngoe ho theha index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Bakeng sa ho hlahisa sephetho sa lipatlisiso ha mosebelisi a ntse a ngola, mohlala, ha `wor` e kentsoe, ho hlahisoa mantsoe a hlophiloeng ka `wor` joalo ka `words` le `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel ea ho batla e tla sebelisa tafole ea `prefix` bakeng sa lentsoe la ho qetela ka mor'a karohano ea mantsoe ho fumana mantsoe ohle a kentsoeng pele ka eona, le ho batla ka tatellano.
 
@@ -170,7 +170,7 @@ Nka hore ho na le mantsoe a `N` ka mor'a karohano ea mantsoe Ha u khutlisa liphe
 
 Liphetho tsa lipatlisiso tse bonts'itsoeng pele li netefatsa bonnete ba potso, 'me liphetho tse tlatsitsoeng kamora moo (tobetsa konopo e eketsehileng) li netefatsa sekhahla sa ho hopola.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Jarisa Ka Tlhokahalo
 
@@ -182,7 +182,7 @@ Hlokomela hore nako le nako ha u batla hape ka mor'a `yield` , u hloka ho bula h
 
 Bakeng sa ho hlahisa sephetho sa lipatlisiso ha mosebelisi a ntse a ngola, mohlala, ha `wor` e kentsoe, ho hlahisoa mantsoe a hlophiloeng ka `wor` joalo ka `words` le `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel ea ho batla e tla sebelisa tafole ea `prefix` bakeng sa lentsoe la ho qetela ka mor'a karohano ea mantsoe ho fumana mantsoe ohle a kentsoeng pele ka eona, le ho batla ka tatellano.
 
@@ -212,7 +212,7 @@ Ka nako e ts'oanang, hobane `service worker` e boloka lingoliloeng tsohle, hang 
 
 Ha o hlahisa liphetho tsa lipatlisiso, lebitso la khaolo le tla hlahisoa 'me khaolo e tla tsamaisoa ha e tobetse.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Akaretsa
 

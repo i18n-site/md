@@ -24,7 +24,7 @@ Ezin da lineaz kanpo erabili, ezin da intranetean erabili eta muga handiak ditu.
 
 Bigarrena front-end testu osoko bilaketa hutsa da.
 
-Gehien erabiltzen [lunrjs](https://lunrjs.com) frontend-eko testu osoko bilaketak eta [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Gaur egun, frontend-eko testu osoko bilaketa arruntak [lunrjs](//lunrjs.com) eta [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) dira ( `lunrjs` bigarren mailako garapenean oinarrituta).
 
 `lunrjs` Indizeak eraikitzeko bi modu daude, eta biek arazoak dituzte.
 
@@ -42,11 +42,11 @@ Gehien erabiltzen [lunrjs](https://lunrjs.com) frontend-eko testu osoko bilaketa
 
 `lunrjs` gain, testu osoko bilaketa-soluzio batzuk daude, adibidez :
 
-[fusejs](https://www.fusejs.io) , kalkulatu kateen arteko antzekotasuna bilatzeko.
+[fusejs](//www.fusejs.io) , kalkulatu kateen arteko antzekotasuna bilatzeko.
 
-Soluzio honen errendimendua oso eskasa da eta ezin da erabili testu osoko bilaketarako (ikus [Fuse.js Kontsulta luzeak 10 segundo baino gehiago behar ditu, nola optimizatu?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Soluzio honen errendimendua oso eskasa da eta ezin da erabili testu osoko bilaketarako (ikus [Fuse.js Kontsulta luzeak 10 segundo baino gehiago behar ditu, nola optimizatu?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , erabili Bloom iragazkia bilatzeko, ezin da aurrizkiaren bilaketarako erabili (adibidez, idatzi `goo` , bilatu `good` , `google` ) eta ezin da antzeko osaketa automatikoko efekturik lortu.
+[TinySearch](//github.com/tinysearch/tinysearch) , erabili Bloom iragazkia bilatzeko, ezin da aurrizkiaren bilaketarako erabili (adibidez, idatzi `goo` , bilatu `good` , `google` ) eta ezin da antzeko osaketa automatikoko efekturik lortu.
 
 Dauden soluzioen gabeziak direla eta, `i18n.site` frontend-eko testu osoko bilaketa-soluzio berri bat garatu du, ezaugarri hauek dituena :
 
@@ -62,7 +62,7 @@ Jarraian, `i18n.site` ezarpen teknikoko xehetasunak xehetasunez aurkeztuko dira.
 
 Hitz-segmentazioak arakatzailearen jatorrizko hitz-segmentazioa `Intl.Segmenter` erabiltzen du, eta nabigatzaile nagusi guztiek interfaze hau onartzen dute.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Segmentazio hitzaren `coffeescript` kodea honako hau da
 
@@ -103,11 +103,11 @@ Pasatu `url` dokumentuaren eta `ver` bertsioaren matrizea, eta bilatu dokumentua
 
 Horrela, indexazio gehigarria lor daiteke eta kalkulu kopurua murrizten da.
 
-Front-end elkarrekintzan, indizearen kargaren aurrerapen-barra bistaratu daiteke lehen aldiz kargatzean atzerapena saihesteko. Ikus "Animazioarekin aurrerapen-barra, css inplementazio progress + oinarrituta" [ingelesa](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [txinera](https://juejin.cn/post/7413586285954154522) .
+Front-end elkarrekintzan, indizea kargatzeko aurrerapen-barra bistaratu daiteke lehen aldiz kargatzean atzerapena saihesteko. Ikus "Aurrerapen-barra animazioarekin, css progress + batean oinarrituta" [ingelesa](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [txinera](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Aldibereko Idazkera Handia
 
-Proiektua IndexedDB -ren kapsulatze asinkronoan oinarrituta [idb](https://www.npmjs.com/package/idb) da.
+Proiektua IndexedDB -ren kapsulatze asinkronoan oinarrituta [idb](//www.npmjs.com/package/idb) da.
 
 IndexedDB irakurketak eta idazketak asinkronoak dira. Indize bat sortzean, dokumentuak aldi berean kargatuko dira indizea sortzeko.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Erabiltzailea idazten ari den bitartean bilaketa-emaitzak bistaratzeko, adibidez, `wor` idazten denean, `wor` aurrizkiarekin duten hitzak bistaratzen dira, hala nola `words` eta `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Bilaketa-nukleoak `prefix` taula erabiliko du hitzen segmentuaren ondoren azken hitzaren aurrizkia duten hitz guztiak aurkitzeko, eta sekuentzian bilatzeko.
 
@@ -170,7 +170,7 @@ Demagun hitz-segmentazioaren ondoren `N` hitz daudela Emaitzak itzultzean, gako-
 
 Bistaratzen diren bilaketa-emaitzek kontsultaren zehaztasuna bermatzen dute, eta ondoren kargatutako emaitzek (egin klik Gehiago kargatu botoian) bermatzen duten tasa bermatzen dute.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Eskaera Kargatu
 
@@ -182,7 +182,7 @@ Kontuan izan `yield` ondoren berriro bilatzen duzun bakoitzean `IndexedDB` konts
 
 Erabiltzailea idazten ari den bitartean bilaketa-emaitzak bistaratzeko, adibidez, `wor` idazten denean, `wor` aurrizkiarekin duten hitzak bistaratzen dira, hala nola `words` eta `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Bilaketa-nukleoak `prefix` taula erabiliko du hitzen segmentuaren ondoren azken hitzaren aurrizkia duten hitz guztiak aurkitzeko, eta sekuentzian bilatzeko.
 
@@ -212,7 +212,7 @@ Aldi berean, `service worker` artikulu guztiak gordetzen dituenez, erabiltzailea
 
 Bilaketa-emaitzak bistaratzen direnean, kapituluaren izena bistaratuko da eta kapituluan nabigatuko da klik egitean.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Laburtu
 

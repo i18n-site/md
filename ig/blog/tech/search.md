@@ -24,7 +24,7 @@ Enweghị ike iji ya na-anọghị n'ịntanetị, enweghị ike iji ya na intra
 
 Nke abụọ bụ nchọcha ederede zuru oke n'ihu.
 
-Nchọta ederede zuru ElasticLunr.js nke a na [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ejikarị eme ihe gụnyere [lunrjs](https://lunrjs.com)
+Ugbu a, nchọcha ederede zuru oke n'ihu na-agụnye [lunrjs](//lunrjs.com) na [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (dabere na mmepe nke `lunrjs` ).
 
 `lunrjs` Enwere ụzọ abụọ iji wuo ndeksi, ma ha abụọ nwere nsogbu nke ha.
 
@@ -42,11 +42,11 @@ Nchọta ederede zuru ElasticLunr.js nke a na [https://github.com/weixsong/elast
 
 Na mgbakwunye na `lunrjs` , enwere ụfọdụ ngwọta ọchụchọ ederede zuru ezu, dị ka :
 
-[fusejs](https://www.fusejs.io) , gbakọọ myirịta n'etiti eriri iji chọọ.
+[fusejs](//www.fusejs.io) , gbakọọ myirịta n'etiti eriri iji chọọ.
 
-Arụmọrụ nke ngwọta a dị oke njọ na enweghị ike iji ya maka nyocha ederede zuru oke (lee [Fuse.js Ajụjụ ogologo na-ewe ihe karịrị 10 sekọnd, otu esi ebuli ya elu?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Arụmọrụ nke ngwọta a dị oke njọ na enweghị ike iji ya maka nyocha ederede zuru oke (lee [Fuse.js Ajụjụ ogologo na-ewe ihe karịrị 10 sekọnd, otu esi ebuli ya elu?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , jiri Bloom filter iji chọọ, enweghị ike iji ya mee ihe maka prefix (dịka ọmụmaatụ, tinye `goo` , ọchụchọ `good` , `google` ), na enweghị ike nweta nsonaazụ mmecha akpaka yiri ya.
+[TinySearch](//github.com/tinysearch/tinysearch) , jiri Bloom filter iji chọọ, enweghị ike iji ya mee ihe maka prefix (dịka ọmụmaatụ, tinye `goo` , ọchụchọ `good` , `google` ), na enweghị ike nweta nsonaazụ mmecha akpaka yiri ya.
 
 N'ihi adịghị ike nke ihe ngwọta ndị dị ugbu a, `i18n.site` emepụtala ihe ọhụrụ dị ọcha n'ihu-ngwụcha ihe nchọta ederede zuru oke, nke nwere àgwà ndị a :
 
@@ -62,7 +62,7 @@ N'okpuru ebe a, a ga-ewebata nkọwa mmejuputa teknụzụ `i18n.site` n'ụzọ
 
 Nkewa okwu na-eji nkebi okwu `Intl.Segmenter` nke ihe nchọgharị ihe nchọgharị, yana ihe nchọgharị niile bụ isi na-akwado interface a.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Koodu nkebi `coffeescript` bụ nke a
 
@@ -103,11 +103,11 @@ Nyefee n'ụdị akwụkwọ `url` na nọmba ụdị `ver` , wee chọọ ma ak
 
 N'ụzọ dị otú a, enwere ike nweta nrịbawanye indexing na ọnụ ọgụgụ nke ngụkọta oge belata.
 
-Na n'ihu-njedebe mmekọrịta, [index](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / mmanya [nwere](https://juejin.cn/post/7413586285954154522) ike na-egosipụta iji zere lag css loading maka oge progress + .
+Na n'ihu-njedebe mmekọrịta, [index](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / mmanya [nwere](//juejin.cn/post/7413586285954154522) ike na-egosipụta iji zere lag css loading maka oge progress + .
 
 ### IndexedDB Ederede Dị Elu N'otu Oge
 
-[idb](https://www.npmjs.com/package/idb) oru ngo a dabere na nkpuchi asynchronous nke IndexedDB
+[idb](//www.npmjs.com/package/idb) oru ngo a dabere na nkpuchi asynchronous nke IndexedDB
 
 IndexedDB na-agụ ma na-ede enweghị ihe jikọrọ ya. Mgbe ị na-emepụta ndeksi, a ga-ebuba akwụkwọ n'otu oge iji mepụta ndeksi.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Iji gosi nsonaazụ ọchụchọ ka onye ọrụ na-apịpị, dịka ọmụmaatụ, mgbe abanyere `wor` , a na-egosipụta okwu ndị etinyegoro na `wor` dị ka `words` na `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Nchọgharị kernel ga-eji tebụl `prefix` maka okwu ikpeazụ ka nkewa okwu gachara chọta okwu niile etinyere na ya, wee chọọ n'usoro.
 
@@ -170,7 +170,7 @@ Were ya na enwere okwu `N` mgbe nkewa okwu gachara, a ga-ebu ụzọ weghachi ns
 
 Nsonaazụ ọchụchọ egosipụtara na-ebu ụzọ hụ na ajụjụ ahụ ziri ezi, yana rịzọlt ebugoro emesịa (pịa bọtịnụ ibu karịa) hụ na ọnụego ncheta.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Ibu Na-Achọ
 
@@ -182,7 +182,7 @@ Rịba ama na oge ọ bụla ị na-achọgharị ọzọ ka `yield` gasịrị,
 
 Iji gosi nsonaazụ ọchụchọ ka onye ọrụ na-apịpị, dịka ọmụmaatụ, mgbe abanyere `wor` , a na-egosipụta okwu ndị etinyegoro na `wor` dị ka `words` na `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Nchọgharị kernel ga-eji tebụl `prefix` maka okwu ikpeazụ ka nkewa okwu gachara chọta okwu niile etinyere na ya, wee chọọ n'usoro.
 
@@ -212,7 +212,7 @@ N'otu oge ahụ, n'ihi na `service worker` na-echekwa akụkọ niile, ozugbo on
 
 Mgbe ị na-egosipụta nsonaazụ ọchụchọ, a ga-egosipụta aha isiakwụkwọ ahụ ma gagharịa isiakwụkwọ ahụ mgbe ịpịrị ya.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Nchịkọta
 

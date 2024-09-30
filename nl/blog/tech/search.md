@@ -24,7 +24,7 @@ Ze kunnen niet offline of op een intranet worden gebruikt, wat beperkingen met z
 
 Ten tweede, is er de pure front-end full-text zoekoplossing.
 
-Veelgebruikte pure front-end zoekopdrachten in de volledige tekst zijn onder [lunrjs](/0) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Op dit moment zijn er veelvoorkomende pure front-end full-text search-oplossingen zoals [lunrjs](//lunrjs.com) en [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (gebaseerd op `lunrjs` voor verdere ontwikkeling).
 
 `lunrjs` heeft twee methoden voor het bouwen van indexen, en beide hebben hun eigen problemen.
 
@@ -42,11 +42,11 @@ Veelgebruikte pure front-end zoekopdrachten in de volledige tekst zijn onder [lu
 
 Naast `lunrjs` zijn er andere volledige tekstzoekoplossingen, zoals:
 
-[fusejs](https://www.fusejs.io), die de gelijkenis tussen te zoeken strings berekent.
+[fusejs](//www.fusejs.io) berekent de string-overeenkomst om te zoeken.
 
-Deze oplossing heeft een slechte prestatie en kan niet worden gebruikt voor volledige tekstzoekopdrachten (zie [Fuse.js Lange zoekopdrachten duren meer dan 10 seconden, hoe optimaliseer je deze?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+Deze oplossing heeft zeer slechte prestaties en is niet geschikt voor full-text search (zie [Fuse.js lange zoekopdracht duurt langer dan 10 seconden, hoe te optimaliseren?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch), die een Bloom-filter gebruikt voor zoekopdrachten, kan niet worden gebruikt voor voorvoegselzoekopdrachten (bijvoorbeeld het invoeren van `goo` om `good` en `google` te zoeken) en kan geen automatisch aanvulfunctionaliteit bieden.
+[TinySearch](//github.com/tinysearch/tinysearch) maakt gebruik van een Bloom-filter om te zoeken, maar kan geen prefix-zoekopdrachten uitvoeren (bijvoorbeeld het invoeren van `goo` om `good` of `google` te zoeken) en biedt geen automatische aanvulfunctionaliteit.
 
 Vanwege de nadelen van de huidige oplossingen heeft `i18n.site` een nieuwe pure front-end full-text zoekoplossing ontwikkeld, met de volgende kenmerken:
 
@@ -62,7 +62,7 @@ Hieronder worden de technische implementatiedetails van `i18n.site` uitgebreid b
 
 Woordsegmentatie maakt gebruik van de oorspronkelijke woordsegmentatie van de browser `Intl.Segmenter`, die door de meeste browsers wordt ondersteund.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 De `coffeescript` code voor woordsegmentatie is als volgt:
 
@@ -103,11 +103,11 @@ Geef de array van document `url` en versienummer `ver` door, zoek in de `doc` ta
 
 Op deze manier kan incrementele indexering worden bereikt, wat de hoeveelheid berekeningen vermindert.
 
-Bij front-end interactie kan een voortgangsbalk voor het laden van de index worden weergegeven om vertraging bij het eerste laden te voorkomen. Zie "Voortgangsbalk met animatie, gebaseerd op een enkele progress + Pure css Implementatie" [Engels](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinees](https://juejin.cn/post/7413586285954154522).
+Bij front-end-interactie kan een voortgangsbalk worden weergegeven voor het laden van de index, om de trage laadtijd bij het eerste laden te verminderen. Zie ook: 'Animatiebegeleide voortgangsbalk, gebaseerd op progress + puur CSS' [Engels](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinees](//juejin.cn/post/7413586285954154522).
 
 ### GeïndexeerdDB hoog gelijktijdig schrijven
 
-Dit project is ontwikkeld op basis van de asynchrone wrapper voor IndexedDB, [idb](https://www.npmjs.com/package/idb).
+Het project is ontwikkeld op basis van de asynchrone encapsulatie van IndexedDB, [idb](//www.npmjs.com/package/idb).
 
 Lezen en schrijven met IndexedDB zijn asynchroon. Bij het maken van een index worden documenten tegelijkertijd geladen om de index te creëren.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Om zoekresultaten weer te geven terwijl de gebruiker typt, bijvoorbeeld `wor` invoeren en woorden weergeven die beginnen met `wor` zoals `words` en `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 De zoekkernel gebruikt de `prefix` tabel om het laatste woord na woordsegmentatie te vinden en zoekt alle woorden die daarmee beginnen.
 
@@ -170,7 +170,7 @@ Stel dat er `N` woorden zijn na segmentatie. Bij het retourneren van resultaten 
 
 De eerst weergegeven zoekresultaten waarborgen de nauwkeurigheid van de zoekopdracht, en de later geladen resultaten (klik op de knop 'Meer laden') waarborgen de volledigheid.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Op aanvraag laden
 
@@ -182,7 +182,7 @@ Let op dat elke keer dat u na `yield` opnieuw zoekt, u een nieuwe zoektransactie
 
 Om zoekresultaten weer te geven terwijl de gebruiker typt, bijvoorbeeld `wor` invoeren en woorden weergeven die beginnen met `wor` zoals `words` en `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 De zoekkernel gebruikt de `prefix` tabel om het laatste woord na woordsegmentatie te vinden en zoekt alle woorden die daarmee beginnen.
 
@@ -212,7 +212,7 @@ De pure front-end zoekoplossing van `i18n.site` is geoptimaliseerd voor `Markdow
 
 Wanneer zoekresultaten worden weergegeven, wordt de hoofdstuknaam weergegeven en wordt er door het hoofdstuk genavigeerd wanneer erop wordt geklikt.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Samenvatting
 

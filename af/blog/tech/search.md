@@ -24,7 +24,7 @@ Dit kan nie vanlyn gebruik word nie, kan nie op die intranet gebruik word nie, e
 
 Die tweede is suiwer front-end volteks soektog.
 
-Algemeen gebruikte suiwer voorkant-voltekssoektogte sluit [lunrjs](https://lunrjs.com) en [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Tans sluit algemene suiwer voorkant-voltekssoektogte in [lunrjs](//lunrjs.com) en [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (gebaseer op `lunrjs` sekondêre ontwikkeling).
 
 `lunrjs` Daar is twee maniere om indekse te bou, en albei het hul eie probleme.
 
@@ -42,11 +42,11 @@ Algemeen gebruikte suiwer voorkant-voltekssoektogte sluit [lunrjs](https://lunrj
 
 Benewens `lunrjs` , is daar 'n paar ander volteks soekoplossings, soos :
 
-[fusejs](https://www.fusejs.io) bereken die ooreenkoms tussen stringe om te soek.
+[fusejs](//www.fusejs.io) bereken die ooreenkoms tussen stringe om te soek.
 
-Die werkverrigting van hierdie oplossing is uiters swak en kan nie vir voltekssoektog gebruik word nie (sien [Fuse.js Lang navraag neem meer as 10 sekondes, hoe om dit te optimaliseer?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Die werkverrigting van hierdie oplossing is uiters swak en kan nie vir voltekssoektog gebruik word nie (sien [Fuse.js Lang navraag neem meer as 10 sekondes, hoe om dit te optimaliseer?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , gebruik Bloom-filter om te soek, kan nie vir voorvoegselsoektog gebruik word nie (tik byvoorbeeld `goo` , soek `good` , `google` ), en kan nie soortgelyke outomatiese voltooiingseffek bereik nie.
+[TinySearch](//github.com/tinysearch/tinysearch) , gebruik Bloom-filter om te soek, kan nie vir voorvoegselsoektog gebruik word nie (tik byvoorbeeld `goo` , soek `good` , `google` ), en kan nie soortgelyke outomatiese voltooiingseffek bereik nie.
 
 As gevolg van die tekortkominge van die bestaande oplossings, het `i18n.site` 'n nuwe suiwer front-end volteks soekoplossing ontwikkel, wat die volgende kenmerke het :
 
@@ -62,7 +62,7 @@ Hieronder sal `i18n.site` tegniese implementeringbesonderhede in detail bekendge
 
 Woordsegmentering gebruik die blaaier se inheemse woordsegmentering `Intl.Segmenter` , en alle hoofstroomblaaiers ondersteun hierdie koppelvlak.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Die woordsegmentasie `coffeescript` kode is soos volg
 
@@ -103,11 +103,11 @@ Slaag die skikking van dokument `url` en weergawe nommer `ver` in, en soek of di
 
 Op hierdie manier kan inkrementele indeksering bereik word en die hoeveelheid berekening word verminder.
 
-In die voorkant-interaksie kan die [laai](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) -vorderingsbalk css die indeks vertoon word / die progress + te vermy wanneer [dit](https://juejin.cn/post/7413586285954154522) vir die eerste keer gelaai word.
+In die voorkant-interaksie kan die [laai](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) -vorderingsbalk css die indeks vertoon word / die progress + te vermy wanneer [dit](//juejin.cn/post/7413586285954154522) vir die eerste keer gelaai word.
 
 ### Geindekseerde DB Hoë Gelyktydige Skryf
 
-Die projek is [idb](https://www.npmjs.com/package/idb) gebaseer op die asinchroniese inkapseling van IndexedDB
+Die projek is [idb](//www.npmjs.com/package/idb) gebaseer op die asinchroniese inkapseling van IndexedDB
 
 IndexedDB lees en skryf is asynchronies. Wanneer 'n indeks geskep word, sal dokumente gelyktydig gelaai word om die indeks te skep.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Om soekresultate te vertoon terwyl die gebruiker tik, byvoorbeeld, wanneer `wor` ingevoer word, word woorde wat met `wor` voorvoeg, soos `words` en `work` vertoon.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Die soekkern sal die `prefix` tabel vir die laaste woord na woordsegmentering gebruik om alle woorde wat daarmee voorafgaan te vind, en in volgorde te soek.
 
@@ -170,7 +170,7 @@ Aanvaar dat daar `N` woorde na die woordsegmentering is Wanneer resultate terugg
 
 Die soekresultate wat eers vertoon word, verseker die akkuraatheid van die navraag, en die resultate wat daarna gelaai word (klik op die laai meer-knoppie) verseker die herroeptempo.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Laai Op Aanvraag
 
@@ -182,7 +182,7 @@ Let daarop dat elke keer as jy weer na `yield` soek, jy 'n navraagtransaksie van
 
 Om soekresultate te vertoon terwyl die gebruiker tik, byvoorbeeld, wanneer `wor` ingevoer word, word woorde wat met `wor` voorvoeg, soos `words` en `work` vertoon.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Die soekkern sal die `prefix` tabel vir die laaste woord na woordsegmentering gebruik om alle woorde wat daarmee voorafgaan te vind, en in volgorde te soek.
 
@@ -212,7 +212,7 @@ Terselfdertyd, omdat `service worker` alle artikels kas, sodra die gebruiker 'n 
 
 Wanneer soekresultate vertoon word, sal die hoofstuknaam vertoon word en die hoofstuk sal navigeer word wanneer daarop geklik word.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Som Op
 

@@ -24,7 +24,7 @@ Ntishobora gukoreshwa kumurongo, ntishobora gukoreshwa kuri intranet, kandi ifit
 
 Iya kabiri ni isuku imbere-iherezo ryuzuye-ishakisha.
 
-Mubisanzwe bikoreshwa imbere-impera yuzuye-ishakisha harimo na [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) [lunrjs](https://lunrjs.com)
+Kugeza ubu, gushakisha imbere-kurangiza kwuzuye-gushakisha harimo na [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (bishingiye ku iterambere [lunrjs](//lunrjs.com) `lunrjs` ).
 
 `lunrjs` Hariho inzira ebyiri zo kubaka indangagaciro, kandi zombi zifite ibibazo byazo.
 
@@ -42,11 +42,11 @@ Mubisanzwe bikoreshwa imbere-impera yuzuye-ishakisha harimo na [ ElasticLunr.js 
 
 Usibye `lunrjs` , hari ibindi bisobanuro byuzuye-byashakishijwe ibisubizo, nka :
 
-[fusejs](https://www.fusejs.io) kubara, guhuza imirongo yo gushakisha!
+[fusejs](//www.fusejs.io) kubara, guhuza imirongo yo gushakisha!
 
-Imikorere yiki gisubizo irakennye cyane kandi ntishobora gukoreshwa mubushakashatsi bwuzuye (reba [Fuse.js Ikibazo kirekire gifata amasegonda arenga 10 amasegonda, nigute wabikora neza?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Imikorere yiki gisubizo irakennye cyane kandi ntishobora gukoreshwa mubushakashatsi bwuzuye (reba [Fuse.js Ikibazo kirekire gifata amasegonda arenga 10 amasegonda, nigute wabikora neza?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Kubera ibitagenda neza kubisubizo bihari, `i18n.site` yashyizeho uburyo bushya bwuzuye imbere-impera yuzuye-ishakisha igisubizo, gifite ibimenyetso bikurikira :
 
@@ -62,7 +62,7 @@ Hasi, `i18n.site` tekiniki yo gushyira mubikorwa tekinike izatangizwa muburyo bu
 
 Igice cyijambo gikoresha mushakisha ijambo kavukire `Intl.Segmenter` , kandi mushakisha zose zingenzi zishyigikira iyi interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ijambo segmentation `coffeescript` code nkiyi ikurikira
 
@@ -103,11 +103,11 @@ Genda mumurongo winyandiko `url` na verisiyo numero `ver` , hanyuma ushakishe ni
 
 Muri ubu buryo, indangagaciro ziyongera zishobora kugerwaho kandi umubare wo kubara uragabanuka.
 
-Imbere-imikoranire, indangagaciro yerekana iterambere irashobora kwerekanwa kugirango wirinde gutinda mugihe cyo gupakira bwa mbere. Reba "Iterambere ryimbere hamwe na Animation, rishingiye kumurongo umwe progress + Pure css Gushyira mubikorwa" [Icyongereza](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Igishinwa](https://juejin.cn/post/7413586285954154522) .
+Mubikorwa byimbere-impera, imizigo yiterambere yerekana indangagaciro irashobora kwerekanwa kugirango wirinde gutinda mugihe cyo gupakira bwa mbere. Reba "Iterambere ryimbere hamwe na Animation, rishingiye kumurongo umwe progress + Pure css Gushyira mubikorwa" [Icyongereza](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Igishinwa](//juejin.cn/post/7413586285954154522) .
 
 ### IrondereroDB Ryanditse Hamwe
 
-Umushinga [idb](https://www.npmjs.com/package/idb) ushingiye kuri encapsulation ya asinchronous ya IndexedDB
+Umushinga [idb](//www.npmjs.com/package/idb) ushingiye kuri encapsulation ya asinchronous ya IndexedDB
 
 IndexedDB isoma kandi yandika ntisanzwe. Mugihe cyo gukora indangagaciro, inyandiko zizapakirwa icyarimwe kugirango zikore urutonde.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Kugirango ugaragaze ibisubizo by'ishakisha mugihe uyikoresha yandika, kurugero, iyo `wor` yinjiye, amagambo abanziriza `wor` nka `words` na `work` arerekanwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Gushakisha intangiriro izakoresha imbonerahamwe `prefix` kumagambo yanyuma nyuma yijambo ryamagambo kugirango ubone amagambo yose yabanjirijwe nayo, hanyuma ushakishe muburyo bukurikiranye.
 
@@ -170,7 +170,7 @@ Dufate ko hari amagambo `N` nyuma yijambo segmentation Mugihe usubije ibisubizo,
 
 Ibisubizo by'ishakisha byerekanwe mbere byemeza neza ikibazo, kandi ibisubizo byapimwe nyuma (kanda umutwaro urenze buto) byemeza igipimo cyo kwibuka.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Umutwaro Kubisabwa
 
@@ -182,7 +182,7 @@ Menya ko burigihe burigihe ushakisha nyuma ya `yield` , ugomba gufungura ikibazo
 
 Kugirango ugaragaze ibisubizo by'ishakisha mugihe uyikoresha yandika, kurugero, iyo `wor` yinjiye, amagambo abanziriza `wor` nka `words` na `work` arerekanwa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Gushakisha intangiriro izakoresha imbonerahamwe `prefix` kumagambo yanyuma nyuma yijambo ryamagambo kugirango ubone amagambo yose yabanjirijwe nayo, hanyuma ushakishe muburyo bukurikiranye.
 
@@ -212,7 +212,7 @@ Igihe kimwe, kubera ko `service worker` ihishe ingingo zose, iyo umukoresha amaz
 
 Mugihe werekana ibisubizo byubushakashatsi, izina ryigice rizerekanwa kandi igice kizayoborwa iyo ukanze.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Vuga Muri Make
 

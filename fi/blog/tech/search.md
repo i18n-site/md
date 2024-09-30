@@ -24,7 +24,7 @@ Ne eivät ole saatavilla offline-tilassa, eivätkä ne ole saatavilla intranetis
 
 Toinen on puhtaan front-endin täystekstihaku.
 
-Yleisesti käytettyjä puhtaita käyttöliittymän kokotekstihakuja ovat [lunrjs](/0) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Tällä hetkellä yleisiä puhtaita käyttöliittymän kokotekstihakuja ovat [lunrjs](//lunrjs.com) ja [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (perustuu `lunrjs`-kirjastoon toissijaisella kehityksellä).
 
 `lunrjs` tarjoaa kaksi tapaa luoda indeksejä, joilla on molemmilla omat ongelmansa.
 
@@ -42,11 +42,11 @@ Yleisesti käytettyjä puhtaita käyttöliittymän kokotekstihakuja ovat [lunrjs
 
 `lunrjs`-lisäksi on olemassa joitain muita kokotekstihakuratkaisuja, kuten:
 
-[fusejs](https://www.fusejs.io), joka laskee haettavien merkkijonojen välinen samankaltaisuus.
+[fusejs](//www.fusejs.io) laskee merkkijonojen välisen samankaltaisuuden ja sitä käytetään hakutoiminnoissa.
 
-Tämän ratkaisun suorituskyky on erittäin heikko, eikä sitä voida käyttää kokotekstihakuun (katso [Fuse.js Pitkä kysely kestää yli 10 sekuntia, kuinka se optimoidaan?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+Tämän ratkaisun suorituskyky on erittäin heikko, eikä sitä voida käyttää kokotekstihakuun (katso [Fuse.js: Pitkä haku kestää yli 10 sekuntia, kuinka se optimoidaan?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch), joka käyttää etsimiseen Bloom-suodatinta, sitä ei voi käyttää etuliitehakuun (esimerkiksi kirjoita `goo`, haku `good`, `google`), eikä vastaavaa automaattista täydennystehoa voi saada.
+[TinySearch](//github.com/tinysearch/tinysearch) käyttää Bloom-suodatinta etsimiseen, mutta sitä ei voida käyttää etuliitehakuun (esim. kun haetaan `goo`, ei löydy `good` tai `google`), eikä se pysty tuottamaan automaattisen täydennyksen kaltaista toiminnallisuutta.
 
 Koska nykyiset ratkaisut ovat puutteellisia, `i18n.site` on kehittänyt uuden puhtaan front-endin täystekstihaun ratkaisun, joka sisältää seuraavat ominaisuudet:
 
@@ -62,7 +62,7 @@ Tässä esitellään yksityiskohtaisesti `i18n.site` teknistä toteutusta.
 
 Sanan segmentointi käyttää selaimen alkuperäistä sanasegmentointia `Intl.Segmenter`, ja kaikki yleiset selaimet tukevat tätä käyttöliittymää.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Sanan segmentointi `coffeescript`-koodi on seuraava:
 
@@ -103,11 +103,11 @@ Anna dokumentin `url` ja versio `ver` -joukko, etsi `doc`-taulukosta, onko dokum
 
 Tällä tavalla voidaan toteuttaa inkrementaalinen indeksointi, mikä vähentää laskentaväsymystä.
 
-Käyttöliittymässä voidaan näyttää indeksin latausprosentti, jotta voidaan vähentää viiveitä ensimmäisen latauksen yhteydessä. Katso "Animaatiolla varustettu edistyspalkki, joka perustuu progress + puhtaan CSS:n toteutukseen" [englanniksi](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [kiinalaisessa](https://juejin.cn/post/7413586285954154522).
+Käyttöliittymän vuorovaikutuksessa voidaan näyttää indeksin latauksen etenemispalkki, jotta ensimmäisen latauksen aikainen viive voidaan vähentää. Katso "Animaatiolla varustettu edistyspalkki, joka perustuu progress-elementtiin ja puhtaan CSS:n toteutukseen" [Englanniksi](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Kiinaksi](//juejin.cn/post/7413586285954154522).
 
 ### IndexedDB:n korkea samanaikainen kirjoitus
 
-Projekti on kehitetty [idb](https://www.npmjs.com/package/idb) -asynkronisen IndexedDB:n pohjalta.
+Projekti on kehitetty IndexedDB:n asynkronisen paketin [idb](//www.npmjs.com/package/idb) pohjalta.
 
 IndexedDB:n luku ja kirjoitus ovat asynkronisia. Indeksiä luotaessa dokumentit ladataan samanaikaisesti indeksin luomiseksi.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Hakutulosten näyttämiseksi käyttäjän kirjoittaessa, esimerkiksi `wor`-syötteen yhteydessä, näytetään sanat, joiden etuliite on `wor`, kuten `words` ja `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Hakuydin käyttää `prefix`-taulukkoa viimeisen sanan kohdalla sanan segmentoinnin jälkeen löytääkseen kaikki etuliitteellä varustetut sanat ja etsiäkseen ne järjestyksessä.
 
@@ -170,7 +170,7 @@ Oletetaan, että sanan segmentoinnin jälkeen on `N` sanaa. Palautettaessa palau
 
 Ensisijaisesti näytettävät hakutulokset varmistavat kyselyn tarkkuuden, ja myöhemmin ladatut tulokset (napsauta "Lataa lisää"-painiketta) varmistavat hakunopeuden.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Lataus pyynnöstä
 
@@ -182,7 +182,7 @@ Huomaa, että joka kerta kun haet uudelleen `yield`-jälkeen, sinun on avattava 
 
 Hakutulosten näyttämiseksi käyttäjän kirjoittaessa, esimerkiksi `wor`-syötteen yhteydessä, näytetään sanat, joiden etuliite on `wor`, kuten `words` ja `work`.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Hakuydin käyttää `prefix`-taulukkoa viimeisen sanan kohdalla sanan segmentoinnin jälkeen löytääkseen kaikki etuliitteellä varustetut sanat ja etsiäkseen ne järjestyksessä.
 
@@ -212,7 +212,7 @@ Samaan aikaan, koska `service worker` tallentaa kaikki artikkelit välimuistiin,
 
 Yhteenveto
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Tee yhteenveto
 

@@ -24,7 +24,7 @@ Ni ellir ei ddefnyddio all-lein, ni ellir ei ddefnyddio ar y fewnrwyd, ac mae ga
 
 Yr ail yw chwiliad testun llawn pen blaen pur.
 
-Mae chwiliadau testun llawn pen blaen pur a ddefnyddir yn gyffredin yn cynnwys [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Ar hyn o bryd, mae chwiliadau testun llawn pen blaen pur cyffredin yn cynnwys [lunrjs](//lunrjs.com) a [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (yn seiliedig ar `lunrjs` datblygiad eilaidd).
 
 `lunrjs` Mae dwy ffordd i adeiladu mynegeion, ac mae gan y ddau eu problemau eu hunain.
 
@@ -42,11 +42,11 @@ Mae chwiliadau testun llawn pen blaen pur a ddefnyddir yn gyffredin yn cynnwys [
 
 Yn ogystal â `lunrjs` , mae rhai datrysiadau chwilio testun llawn eraill, megis :
 
-[fusejs](https://www.fusejs.io) , cyfrifwch y tebygrwydd rhwng llinynnau i chwilio.
+[fusejs](//www.fusejs.io) , cyfrifwch y tebygrwydd rhwng llinynnau i chwilio.
 
-Mae perfformiad y datrysiad hwn yn eithriadol o wael ac ni ellir ei ddefnyddio ar gyfer chwiliad testun llawn (gweler [Fuse.js Mae ymholiad hir yn cymryd mwy na 10 eiliad, sut i'w optimeiddio?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Mae perfformiad y datrysiad hwn yn eithriadol o wael ac ni ellir ei ddefnyddio ar gyfer chwiliad testun llawn (gweler [Fuse.js Mae ymholiad hir yn cymryd mwy na 10 eiliad, sut i'w optimeiddio?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , defnyddiwch hidlydd Bloom i chwilio, ni ellir ei ddefnyddio ar gyfer chwiliad rhagddodiad (er enghraifft, rhowch `goo` , chwiliwch `good` , `google` ), ac ni all gyflawni effaith cwblhau awtomatig tebyg.
+[TinySearch](//github.com/tinysearch/tinysearch) , defnyddiwch hidlydd Bloom i chwilio, ni ellir ei ddefnyddio ar gyfer chwiliad rhagddodiad (er enghraifft, rhowch `goo` , chwiliwch `good` , `google` ), ac ni all gyflawni effaith cwblhau awtomatig tebyg.
 
 Oherwydd diffygion yr atebion presennol, mae `i18n.site` wedi datblygu datrysiad chwilio testun llawn pen blaen pur newydd, sydd â'r nodweddion canlynol :
 
@@ -62,7 +62,7 @@ Isod, cyflwynir manylion gweithredu technegol `i18n.site` yn fanwl.
 
 Mae segmentu geiriau yn defnyddio segmentiad geiriau brodorol y porwr `Intl.Segmenter` , ac mae pob porwr prif ffrwd yn cefnogi'r rhyngwyneb hwn.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Mae'r gair segmentu cod `coffeescript` fel a ganlyn
 
@@ -103,11 +103,11 @@ Pasiwch yr arae o ddogfen `url` a rhif fersiwn `ver` , a chwiliwch a yw'r ddogfe
 
 Yn y modd hwn, gellir cyflawni mynegeio cynyddrannol a lleihau swm y cyfrifiad.
 
-Mewn rhyngweithiad pen blaen, gellir arddangos bar cynnydd llwytho'r mynegai er mwyn osgoi'r oedi wrth lwytho am y tro cyntaf. Gweler "Bar Cynnydd gydag Animeiddiad, Yn Seiliedig ar Sengl progress + Pur css Gweithredu" [Saesneg](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Mewn rhyngweithiad pen blaen, gellir arddangos bar cynnydd llwytho'r mynegai er mwyn osgoi'r oedi wrth lwytho am y tro cyntaf. Gweler "Bar Cynnydd gydag Animeiddiad, Yn Seiliedig ar Sengl progress + Pur css Gweithredu" [Saesneg](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Ysgrifennu Cydamserol Uchel
 
-Mae'r prosiect yn [idb](https://www.npmjs.com/package/idb) yn seiliedig ar amgáu asyncronaidd o IndexedDB
+Mae'r prosiect yn [idb](//www.npmjs.com/package/idb) yn seiliedig ar amgáu asyncronaidd o IndexedDB
 
 Mae IndexedDB yn darllen ac yn ysgrifennu yn asyncronig. Wrth greu mynegai, bydd dogfennau'n cael eu llwytho ar yr un pryd i greu'r mynegai.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Er mwyn dangos canlyniadau chwilio tra bod y defnyddiwr yn teipio, er enghraifft, pan fydd `wor` yn cael ei fewnbynnu, mae geiriau sydd wedi'u rhagddodi â `wor` megis `words` a `work` yn cael eu harddangos.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Bydd y cnewyllyn chwilio yn defnyddio'r tabl `prefix` ar gyfer y gair olaf ar ôl segmentu geiriau i ddod o hyd i'r holl eiriau sydd wedi'u rhagddodi ag ef, a chwilio yn eu trefn.
 
@@ -170,7 +170,7 @@ Tybiwch fod `N` gair ar ôl y segmentiad geiriau Wrth ddychwelyd canlyniadau, by
 
 Mae'r canlyniadau chwilio a ddangosir yn gyntaf yn sicrhau cywirdeb yr ymholiad, ac mae'r canlyniadau a lwythir wedyn (cliciwch ar y botwm llwyth mwy) yn sicrhau'r gyfradd adalw.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Llwyth Ar Alw
 
@@ -182,7 +182,7 @@ Sylwch bob tro y byddwch yn chwilio eto ar ôl `yield` , mae angen ichi ailagor 
 
 Er mwyn dangos canlyniadau chwilio tra bod y defnyddiwr yn teipio, er enghraifft, pan fydd `wor` yn cael ei fewnbynnu, mae geiriau sydd wedi'u rhagddodi â `wor` megis `words` a `work` yn cael eu harddangos.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Bydd y cnewyllyn chwilio yn defnyddio'r tabl `prefix` ar gyfer y gair olaf ar ôl segmentu geiriau i ddod o hyd i'r holl eiriau sydd wedi'u rhagddodi ag ef, a chwilio yn eu trefn.
 
@@ -212,7 +212,7 @@ Mae datrysiad chwilio pen blaen pur `i18n.site` wedi'i optimeiddio ar gyfer `Mar
 
 Wrth ddangos canlyniadau chwilio, bydd enw'r bennod yn cael ei arddangos a bydd y bennod yn cael ei llywio pan glicir arni.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Crynhoi
 

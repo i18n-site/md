@@ -24,7 +24,7 @@ Looma isticmaali karo offline, laguma isticmaali karo intranetka, waxayna leedah
 
 Midka labaad waa raadinta qoraal buuxa oo saafi ah.
 
-Baadhitaano qoraal buuxa ah oo saafi ah oo hore-dhamaadka ah waxaa ka mid ah [lunrjs](https://lunrjs.com) iyo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Waqtigan xaadirka ah, raadinta qoraalka-dhamaadka saafiga ah ee caadiga ah waxaa ka mid ah [lunrjs](//lunrjs.com) iyo [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (oo ku saleysan `lunrjs` horumarinta labaad).
 
 `lunrjs` Waxaa jira laba siyaabood oo loo dhiso tusmooyinka, labaduba waxay leeyihiin dhibaatooyin iyaga u gaar ah.
 
@@ -42,11 +42,11 @@ Baadhitaano qoraal buuxa ah oo saafi ah oo hore-dhamaadka ah waxaa ka mid ah [lu
 
 Marka lagu daro `lunrjs` , waxaa jira xalal raadin qoraal-buuxa oo kale ah, sida :
 
-[fusejs](https://www.fusejs.io) xisaabi isku ekaanshaha xargaha si loo baadho.
+[fusejs](//www.fusejs.io) xisaabi isku ekaanshaha xargaha si loo baadho.
 
-Waxqabadka xalkan aad buu u liitaa loomana isticmaali karo raadinta qoraal buuxa (eeg [Fuse.js Weydiinta dheer waxay qaadataa in ka badan 10 ilbiriqsi, sida loo hagaajiyo?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Waxqabadka xalkan aad buu u liitaa loomana isticmaali karo raadinta qoraal buuxa (eeg [Fuse.js Weydiinta dheer waxay qaadataa in ka badan 10 ilbiriqsi, sida loo hagaajiyo?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) isticmaal filtarrada Bloom si aad u baadho, looma isticmaali karo raadinta horgalayaasha (tusaale, geli `goo` , raadinta `good` , `google` ), mana gaadhi karto saamayn dhammaystiran oo toos ah oo la mid ah.
+[TinySearch](//github.com/tinysearch/tinysearch) isticmaal filtarrada Bloom si aad u baadho, looma isticmaali karo raadinta horgalayaasha (tusaale, geli `goo` , raadinta `good` , `google` ), mana gaadhi karto saamayn dhammaystiran oo toos ah oo la mid ah.
 
 Sababtoo ah cilladaha xalalka jira, `i18n.site` waxay soo saartay xal cusub oo saafi ah oo hore-dhamaadka qoraalka buuxa ah, kaas oo leh sifooyinka soo socda :
 
@@ -62,7 +62,7 @@ Hoosta, `i18n.site` faahfaahinta hirgelinta farsamada ayaa loo soo bandhigi doon
 
 Qaybinta kelmada waxay isticmaashaa browserka qaybtiisa asalka ah ee `Intl.Segmenter` , iyo dhammaan daalacashada caadiga ah waxay taageeraan is-dhexgalkan.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Erayga Segmentation `coffeescript` code waa sida soo socota
 
@@ -103,11 +103,11 @@ Gudb soo diyaargarowga dukumeentiga `url` iyo nooca nambarka `ver` , oo raadi in
 
 Sidan, tusmaynta korodhka ayaa lagu gaari karaa waxaana la dhimi karaa qaddarka xisaabinta.
 
-Is dhexgalka dhamaadka-dhamaadka, tusaha horumarka loading / la soo bandhigi karaa [si](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) [looga](https://juejin.cn/post/7413586285954154522) fogaado dib u dhaca marka ugu horeysa ee progress + css shubayo.
+Is dhexgalka dhamaadka-dhamaadka, bar horumarka loading ee index [waa](//juejin.cn/post/7413586285954154522) la / bandhigi karaa [si](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) looga fogaado dib u dhaca marka la soo css markii ugu progress + .
 
 ### IndexedDB Qoraal Isla Socda
 
-Mashruucu waxa [idb](https://www.npmjs.com/package/idb) iyadoo lagu salaynayo isku xidhka asynchronous ee IndexedDB
+Mashruucu waxa [idb](//www.npmjs.com/package/idb) iyadoo lagu salaynayo isku xidhka asynchronous ee IndexedDB
 
 IndexedDB wax akhriya oo qoraa waa isku mid. Marka la samaynayo index, dukumentiyada waa la rari doonaa si isku mid ah si loo sameeyo index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Si loo soo bandhigo natiijooyinka raadinta marka isticmaaluhu wax ku qorayo, tusaale ahaan, marka `wor` la geliyo, waxaa la soo bandhigayaa ereyada horgalayaasha leh `wor` sida `words` iyo `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel-ka raadinta wuxuu u isticmaali doonaa miiska `prefix` kelmada u danbeysa ka dib kala qaybinta kelmad si uu u helo dhammaan kelmadaha horgalayaasha ah, oo u raadi siday isku xig xigaan.
 
@@ -170,7 +170,7 @@ Ka soo qaad in ay jiraan `N` kelmadood ka dib marka la soo celiyo natiijooyinka,
 
 Natiijooyinka raadinta ee la soo bandhigay ayaa marka hore xaqiijiya saxsanaanta weydiinta, natiijadiina markii dambe la raray (riix batoonka dheeriga ah) hubi heerka soo celinta.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Ku Rar Baahida
 
@@ -182,7 +182,7 @@ Ogsoonow mar kasta oo aad raadiso `yield` ka dib, waxaad u baahan tahay inaad di
 
 Si loo soo bandhigo natiijooyinka raadinta marka isticmaaluhu wax ku qorayo, tusaale ahaan, marka `wor` la geliyo, waxaa la soo bandhigayaa ereyada horgalayaasha leh `wor` sida `words` iyo `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel-ka raadinta wuxuu u isticmaali doonaa miiska `prefix` kelmada u danbeysa ka dib kala qaybinta kelmad si uu u helo dhammaan kelmadaha horgalayaasha ah, oo u raadi siday isku xig xigaan.
 
@@ -212,7 +212,7 @@ Isla mar ahaantaana, sababtoo ah `service worker` wuxuu kaydiyaa dhammaan maqaal
 
 Marka la soo bandhigo natiijooyinka raadinta, magaca cutubka ayaa la soo bandhigi doonaa oo cutubka waa la dhex mari doonaa marka la gujiyo.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Soo Koob
 

@@ -24,7 +24,7 @@ Il ne peut pas être utilisé hors ligne, ni sur l’intranet et présente de gr
 
 La seconde catégorie concerne la recherche en texte intégral purement front-end.
 
-Les recherches en texte intégral purement frontales couramment utilisées incluent [lunrjs](/0) et [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+À l'heure actuelle, les solutions courantes pour la recherche en texte intégral纯前端的全文搜索 purely front-end incluent [lunrjs](//lunrjs.com) et [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (développé à partir de `lunrjs`).
 
 `lunrjs` propose deux méthodes de construction d'index, chacune avec ses propres problèmes.
 
@@ -42,11 +42,11 @@ Les recherches en texte intégral purement frontales couramment utilisées inclu
 
 En plus de `lunrjs` , il existe d'autres solutions de recherche en texte intégral, telles que :
 
-[fusejs](https://www.fusejs.io) , calcule la similarité entre les chaînes à rechercher.
+[fusejs](//www.fusejs.io) utilise l'analyse de similarité entre les chaînes pour effectuer des recherches.
 
-Les performances de cette solution sont extrêmement médiocres et ne peuvent pas être utilisées pour la recherche en texte intégral (voir [Fuse.js Une requête longue prend plus de 10 secondes, comment l'optimiser ?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ce type de solution présente une performance très faible et n'est pas adapté pour une recherche en texte intégral (voir [Fuse.js : requêtes longues dépassant 10 secondes, comment optimiser ?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , utilisez le filtre Bloom pour rechercher, ne peut pas être utilisé pour la recherche de préfixe (par exemple, entrez `goo` , recherchez `good` , `google` ) et ne peut pas obtenir un effet de complétion automatique similaire.
+[TinySearch](//github.com/tinysearch/tinysearch) utilise des filtres Bloom pour la recherche, mais ne permet pas la recherche par préfixe (par exemple, saisir `goo` pour chercher `good` ou `google`), ni l'effet de complétion automatique similaire.
 
 Compte tenu des inconvénients des solutions actuelles, `i18n.site` a développé une nouvelle solution de recherche en texte intégral purement front-end, caractérisée par les éléments suivants :
 
@@ -62,7 +62,7 @@ Ci-dessous, `i18n.site` détails de mise en œuvre technique seront présentés 
 
 La segmentation des mots utilise la segmentation des mots native du navigateur `Intl.Segmenter` , et tous les navigateurs grand public prennent en charge cette interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Le code de segmentation de mots `coffeescript` est le suivant
 
@@ -103,11 +103,11 @@ Transmettez le tableau du document `url` et du numéro de version `ver` et reche
 
 De cette manière, une indexation incrémentielle peut être obtenue et la quantité de calcul est réduite.
 
-Dans l'interaction frontale, la barre de progression du chargement de l'index peut être affichée pour éviter le décalage lors du premier chargement. Voir "Barre de progression avec animation, basée sur une seule progress + Pure css Implémentation"[英文](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](https://juejin.cn/post/7413586285954154522) .
+En termes d'interaction utilisateur, il est possible d'afficher une barre de progression du chargement de l'index pour éviter un plantage lors du premier chargement. Voir "Barre de progression animée, réalisée avec une simple progress + CSS pur" [en anglais](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [en chinois](//juejin.cn/post/7413586285954154522).
 
 ### Écriture Simultanée Élevée IndexedDB
 
-Le projet est [idb](https://www.npmjs.com/package/idb) sur la base de l'encapsulation asynchrone de IndexedDB
+Le projet est développé sur la base de l'encapsulation asynchrone d'IndexedDB via [idb](//www.npmjs.com/package/idb).
 
 Les lectures et écritures IndexedDB sont asynchrones. Lors de la création d'un index, les documents seront chargés simultanément pour créer l'index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Afin d'afficher les résultats de la recherche pendant que l'utilisateur tape, par exemple lorsque `wor` est saisi, les mots préfixés par `wor` tels que `words` et `work` sont affichés.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Le cœur de recherche utilise la table `prefix` pour le dernier mot après le fractionnement, afin de trouver tous les mots qui commencent par ce préfixe et de les chercher successivement.
 
@@ -170,7 +170,7 @@ Supposons qu'il y ait `N` mot après la segmentation des mots, retournera d'abor
 
 Les résultats de recherche affichés en premier garantissent l'exactitude de la requête, et les résultats chargés ultérieurement (cliquez sur le bouton Charger plus) assurent le taux de rappel.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Chargement À La Demande
 
@@ -182,7 +182,7 @@ Notez que chaque fois que vous effectuez une nouvelle recherche après `yield` ,
 
 Afin d'afficher les résultats de la recherche pendant que l'utilisateur tape, par exemple lorsque `wor` est saisi, les mots préfixés par `wor` tels que `words` et `work` sont affichés.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Le cœur de recherche utilise la table `prefix` pour le dernier mot après le fractionnement, afin de trouver tous les mots qui commencent par ce préfixe et de les chercher successivement.
 
@@ -212,7 +212,7 @@ La solution de recherche intégralement frontale de `i18n.site` a été optimis�
 
 Lors de l'affichage des résultats de recherche, le nom du chapitre est affiché et, lors d'un clic, il est possible de se positionner directement sur ce chapitre.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Synthèse
 

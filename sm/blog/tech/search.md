@@ -24,7 +24,7 @@ E le mafai ona fa'aoga tuimotu, e le mafai ona fa'aoga i luga ole initaneti, ma 
 
 O le lona lua ole su'esu'ega atoa i luma pito i luma.
 
-E [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ona fa'aogaina su'esu'ega ElasticLunr.js i luma pito i luma e aofia ai [lunrjs](https://lunrjs.com)
+I le taimi nei, [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) su'esu'ega `lunrjs` pito i luma e aofia ai [lunrjs](//lunrjs.com)
 
 `lunrjs` E lua auala e fausia ai fa'asino igoa, ma e tofu uma ma a latou fa'afitauli.
 
@@ -42,11 +42,11 @@ E [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4
 
 I le faaopoopo atu i `lunrjs` , o loʻo i ai nisi faʻamatalaga suʻesuʻega atoa, pei ole :
 
-[fusejs](https://www.fusejs.io) , fuafua le tutusa i le va o manoa e su'e.
+[fusejs](//www.fusejs.io) , fuafua le tutusa i le va o manoa e su'e.
 
-O le fa'atinoga o lenei fofo e matua leaga lava ma e le mafai ona fa'aogaina mo su'esu'ega atoa (va'ai [Fuse.js Ole fesili umi e sili atu nai lo 10 sekone, fa'afefea ona fa'amalieina?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+O le fa'atinoga o lenei fofo e matua leaga lava ma e le mafai ona fa'aogaina mo su'esu'ega atoa (va'ai [Fuse.js Ole fesili umi e sili atu nai lo 10 sekone, fa'afefea ona fa'amalieina?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , fa'aoga Bloom filter e su'e ai, e le mafai ona fa'aoga mo su'esu'ega muamua (mo se fa'ata'ita'iga, ulufale i `goo` , su'esu'e `good` , `google` ), ma e le mafai ona maua fa'apena fa'amae'a fa'amae'a.
+[TinySearch](//github.com/tinysearch/tinysearch) , fa'aoga Bloom filter e su'e ai, e le mafai ona fa'aoga mo su'esu'ega muamua (mo se fa'ata'ita'iga, ulufale i `goo` , su'esu'e `good` , `google` ), ma e le mafai ona maua fa'apena fa'amae'a fa'amae'a.
 
 Ona o le faaletonu o fofo o loʻo i ai nei, ua fausia ai e `i18n.site` se fofo fou suʻesuʻe pito i luma, o loʻo i ai uiga nei :
 
@@ -62,7 +62,7 @@ I lalo, `i18n.site` faʻamatalaga faʻatinoga faʻapitoa o le a faʻaalia i auil
 
 E fa'aogaina e le fa'avasegaga o upu le upu fa'aleaganu'u a le su'esu'ega `Intl.Segmenter` , ma o lo'o lagolagoina uma e tagata su'esu'e masani lenei fa'aoga.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 O le upu segmentation `coffeescript` code e fa'apea
 
@@ -103,11 +103,11 @@ Pasi i le fa'asologa o pepa `url` ma le numera numera `ver` , ma su'e pe o iai l
 
 I lenei auala, e mafai ona ausia le fa'asologa fa'aopoopo ma fa'aitiitia le aofa'i o fa'atatau.
 
-I fegalegaleaiga pito i luma, e mafai [ona](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) faʻaalia le faʻapipiʻiina o le faʻasologa o le faʻailoga / aloese ai mai le tuai pe a faʻauluina css [le](https://juejin.cn/post/7413586285954154522) taimi progress + .
+I le fegalegaleai pito i luma, e mafai / faʻaalia le faʻasologa css le faʻapipiʻiina o le [alualu](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) i luma e aloese ai mai le tuai pe a faʻapipiʻi mo [le](//juejin.cn/post/7413586285954154522) taimi progress + .
 
 ### IndexedDB Tusitusi Fa'atasi Maualuga
 
-O le poloketi ua [idb](https://www.npmjs.com/package/idb) e faʻavae i luga o le asynchronous encapsulation o IndexedDB
+O le poloketi ua [idb](//www.npmjs.com/package/idb) e faʻavae i luga o le asynchronous encapsulation o IndexedDB
 
 IndexedDB faitau ma tusitusi e asynchronous. Pe a fatuina se faasino igoa, o le a utaina faʻatasi faʻamaumauga e fatu ai le faasino igoa.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ina ia mafai ona faʻaalia iʻuga suʻesuʻe aʻo lomi le tagata faʻaoga, mo se faʻataʻitaʻiga, pe a tuʻuina `wor` , o loʻo faʻaalia upu faʻapipiʻi i `wor` pei o `words` ma `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 O le fatu su'esu'e o le a fa'aogaina le laulau `prefix` mo le upu mulimuli pe a uma le vaeluaga o upu e su'e ai upu uma o lo'o fa'atasi ma ia, ma su'e i le fa'asologa.
 
@@ -170,7 +170,7 @@ Fa'apea o lo'o i ai `N` upu pe a mae'a le upu vaega Pe a toe fa'afo'i fa'ai'uga,
 
 O fa'ai'uga o su'esu'ega e fa'aalia muamua e fa'amautinoa ai le sa'o o le fesili, ma fa'ai'uga e uta mulimuli ane (kiliki le fa'amau fa'aopoopo) fa'amautinoa le fua faatatau o le toe manatua.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Uta I Luga Ole Manaoga
 
@@ -182,7 +182,7 @@ Manatua o taimi uma e te toe suʻesuʻe ai pe a uma `yield` , e manaʻomia lou t
 
 Ina ia mafai ona faʻaalia iʻuga suʻesuʻe aʻo lomi le tagata faʻaoga, mo se faʻataʻitaʻiga, pe a tuʻuina `wor` , o loʻo faʻaalia upu faʻapipiʻi i `wor` pei o `words` ma `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 O le fatu su'esu'e o le a fa'aogaina le laulau `prefix` mo le upu mulimuli pe a uma le vaeluaga o upu e su'e ai upu uma o lo'o fa'atasi ma ia, ma su'e i le fa'asologa.
 
@@ -212,7 +212,7 @@ I le taimi lava e tasi, ona o `service worker` e faʻapipiʻi uma tala, pe a fai
 
 A fa'aalia i'uga su'esu'e, o le a fa'aalia le igoa o le mataupu ma fa'atautaia le mataupu pe a kiliki.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Aotele
 

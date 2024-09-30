@@ -24,7 +24,7 @@ Ora bisa digunakake offline, ora bisa digunakake ing intranet, lan duwe watesan 
 
 Kapindho yaiku telusuran teks lengkap ngarep-mburi.
 
-Panelusuran teks lengkap ngarep sing [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js kalebu [lunrjs](https://lunrjs.com)
+Saiki, telusuran teks lengkap ngarep murni umum kalebu [lunrjs](//lunrjs.com) lan [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (adhedhasar `lunrjs` pangembangan sekunder).
 
 `lunrjs` Ana rong cara kanggo mbangun indeks, lan loro-lorone duwe masalah dhewe.
 
@@ -42,11 +42,11 @@ Panelusuran teks lengkap ngarep sing [https://github.com/weixsong/elasticlunr.js
 
 Saliyane `lunrjs` , ana sawetara solusi telusuran teks lengkap liyane, kayata :
 
-[fusejs](https://www.fusejs.io) , ngitung podho antarane strings kanggo nggoleki.
+[fusejs](//www.fusejs.io) , ngitung podho antarane strings kanggo nggoleki.
 
-Kinerja solusi iki arang banget lan ora bisa digunakake kanggo nggoleki teks lengkap (ndeleng [Fuse.js Pitakonan dawa njupuk luwih saka 10 detik, carane ngoptimalake?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Kinerja solusi iki arang banget lan ora bisa digunakake kanggo nggoleki teks lengkap (ndeleng [Fuse.js Pitakonan dawa njupuk luwih saka 10 detik, carane ngoptimalake?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , gunakake Filter Bloom kanggo nggoleki, ora bisa digunakake kanggo telusuran awalan (contone, ketik `goo` , telusuran `good` , `google` ), lan ora bisa entuk efek rampung otomatis sing padha.
+[TinySearch](//github.com/tinysearch/tinysearch) , gunakake Filter Bloom kanggo nggoleki, ora bisa digunakake kanggo telusuran awalan (contone, ketik `goo` , telusuran `good` , `google` ), lan ora bisa entuk efek rampung otomatis sing padha.
 
 Amarga kekurangan saka solusi sing wis ana, `i18n.site` ngembangake solusi telusuran teks lengkap ngarep murni anyar, sing nduweni ciri ing ngisor iki :
 
@@ -62,7 +62,7 @@ Ing ngisor iki, `i18n.site` rincian implementasi teknis bakal dikenalake kanthi 
 
 Segmentasi tembung nggunakake segmentasi tembung asli browser `Intl.Segmenter` , lan kabeh browser utama ndhukung antarmuka iki.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Tembung segmentasi `coffeescript` kode kaya ing ngisor iki
 
@@ -103,11 +103,11 @@ Pass ing Uploaded document `url` lan versi nomer `ver` , lan telusuri apa docume
 
 Kanthi cara iki, indeksasi tambahan bisa digayuh lan jumlah pitungan dikurangi.
 
-css interaksi ngarep-mburi, [bar](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) kemajuan [loading](https://juejin.cn/post/7413586285954154522) saka indeks bisa ditampilake kanggo ngindhari lag / loading progress + .
+css interaksi ngarep-mburi, [bar](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) kemajuan [loading](//juejin.cn/post/7413586285954154522) saka indeks bisa ditampilake kanggo ngindhari lag / loading progress + .
 
 ### IndexedDB Nulis Bebarengan Dhuwur
 
-Proyek kasebut [idb](https://www.npmjs.com/package/idb) adhedhasar enkapsulasi asinkron saka IndexedDB
+Proyek kasebut [idb](//www.npmjs.com/package/idb) adhedhasar enkapsulasi asinkron saka IndexedDB
 
 IndexedDB maca lan nulis ora sinkron. Nalika nggawe indeks, dokumen bakal dimuat bebarengan kanggo nggawe indeks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Kanggo nampilake asil panelusuran nalika pangguna ngetik, contone, nalika `wor` dilebokake, tembung sing diawali karo `wor` kayata `words` lan `work` ditampilake.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel telusuran bakal nggunakake tabel `prefix` kanggo tembung pungkasan sawise segmentasi tembung kanggo nemokake kabeh tembung sing diawali, lan telusuran kanthi urutan.
 
@@ -170,7 +170,7 @@ Asumsi yen ana `N` tembung sawise tembung segmentasi Nalika ngasilake asil, asil
 
 Asil panelusuran sing ditampilake luwih dhisik njamin akurasi pitakon, lan asil dimuat sabanjure (klik tombol muat liyane) njamin tingkat kelingan.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Muat Ing Dikarepake
 
@@ -182,7 +182,7 @@ Elinga yen saben sampeyan nggoleki maneh sawise `yield` , sampeyan kudu mbukak m
 
 Kanggo nampilake asil panelusuran nalika pangguna ngetik, contone, nalika `wor` dilebokake, tembung sing diawali karo `wor` kayata `words` lan `work` ditampilake.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel telusuran bakal nggunakake tabel `prefix` kanggo tembung pungkasan sawise segmentasi tembung kanggo nemokake kabeh tembung sing diawali, lan telusuran kanthi urutan.
 
@@ -212,7 +212,7 @@ Solusi telusuran ngarep murni murni `i18n.site` dioptimalake kanggo `MarkDown` d
 
 Nalika nampilake asil panelusuran, jeneng bab bakal ditampilake lan bab bakal navigasi nalika diklik.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Ngringkes
 

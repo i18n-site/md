@@ -24,7 +24,7 @@ Hindi ito magagamit offline, hindi magagamit sa intranet, at may malaking limita
 
 Ang pangalawa ay puro front-end na full-text na paghahanap.
 
-Kasama [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) mga karaniwang ginagamit na puro front-end na full-text na paghahanap ElasticLunr.js [lunrjs](https://lunrjs.com)
+Sa kasalukuyan, ang mga karaniwang puro front-end na full-text na paghahanap ay kasama ang [lunrjs](//lunrjs.com) at [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (batay sa `lunrjs` pangalawang pag-unlad).
 
 `lunrjs` Mayroong dalawang paraan upang bumuo ng mga index, at pareho silang may sariling mga problema.
 
@@ -42,11 +42,11 @@ Kasama [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%
 
 Bilang karagdagan sa `lunrjs` , may ilang iba pang full-text na solusyon sa paghahanap, tulad ng :
 
-[fusejs](https://www.fusejs.io) , kalkulahin ang pagkakatulad sa pagitan ng mga string upang maghanap.
+[fusejs](//www.fusejs.io) , kalkulahin ang pagkakatulad sa pagitan ng mga string upang maghanap.
 
-Ang pagganap ng solusyon na ito ay napakahina at hindi magagamit para sa buong tekstong paghahanap (tingnan [Fuse.js Ang mahabang query ay tumatagal ng higit sa 10 segundo, paano ito i-optimize?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ang pagganap ng solusyon na ito ay napakahina at hindi magagamit para sa buong tekstong paghahanap (tingnan [Fuse.js Ang mahabang query ay tumatagal ng higit sa 10 segundo, paano ito i-optimize?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , gumamit ng Bloom filter upang maghanap, hindi magagamit para sa paghahanap ng prefix (halimbawa, ilagay ang `goo` , paghahanap `good` , `google` ), at hindi makakamit ang katulad na epekto ng awtomatikong pagkumpleto.
+[TinySearch](//github.com/tinysearch/tinysearch) , gumamit ng Bloom filter upang maghanap, hindi magagamit para sa paghahanap ng prefix (halimbawa, ilagay ang `goo` , paghahanap `good` , `google` ), at hindi makakamit ang katulad na epekto ng awtomatikong pagkumpleto.
 
 Dahil sa mga pagkukulang ng mga kasalukuyang solusyon, `i18n.site` ay nakabuo ng isang bagong purong front-end na full-text na solusyon sa paghahanap, na may mga sumusunod na katangian :
 
@@ -62,7 +62,7 @@ Sa ibaba, `i18n.site` detalye ng teknikal na pagpapatupad ang ipapakilala nang d
 
 Ginagamit ng word segmentation ang native word segmentation `Intl.Segmenter` ng browser, at sinusuportahan ng lahat ng pangunahing browser ang interface na ito.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ang salitang segmentation `coffeescript` code ay ang mga sumusunod
 
@@ -103,11 +103,11 @@ Ipasa ang hanay ng dokumento `url` at numero ng bersyon `ver` , at hanapin kung 
 
 Sa ganitong paraan, maaaring makamit ang incremental indexing at mababawasan ang halaga ng pagkalkula.
 
-Sa front-end na pakikipag- css , [ang](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) pag-load [ng](https://juejin.cn/post/7413586285954154522) progress bar ng index / maaaring ipakita upang maiwasan ang lag kapag naglo-load sa unang progress + .
+Sa front-end na pakikipag-ugnayan, [ang](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) pag-load [ng](//juejin.cn/post/7413586285954154522) progress bar ng index / maaaring ipakita upang maiwasan ang lag kapag naglo css load sa unang progress + .
 
 ### IndexedDB Mataas Na Sabay-Sabay Na Pagsulat
 
-Ang proyekto ay [idb](https://www.npmjs.com/package/idb) batay sa asynchronous encapsulation ng IndexedDB
+Ang proyekto ay [idb](//www.npmjs.com/package/idb) batay sa asynchronous encapsulation ng IndexedDB
 
 Ang mga pagbabasa at pagsusulat ng IndexedDB ay asynchronous. Kapag lumilikha ng isang index, ang mga dokumento ay ilo-load nang sabay-sabay upang lumikha ng index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Upang maipakita ang mga resulta ng paghahanap habang nagta-type ang user, halimbawa, kapag `wor` ang ipinasok, ang mga salitang may prefix na `wor` gaya ng `words` at `work` ay ipinapakita.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Gagamitin ng search kernel ang `prefix` table para sa huling salita pagkatapos ng pagse-segment ng salita upang mahanap ang lahat ng mga salita na may prefix na kasama nito, at maghanap sa pagkakasunud-sunod.
 
@@ -170,7 +170,7 @@ Ipagpalagay na mayroong `N` salita pagkatapos ng pagse-segment ng salita Kapag n
 
 Ang mga resulta ng paghahanap na ipinakita ay unang tinitiyak ang katumpakan ng query, at ang mga resulta na na-load kasunod (i-click ang pindutan ng pag-load ng higit pa) ay tinitiyak ang rate ng pagpapabalik.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Mag-Load on Demand
 
@@ -182,7 +182,7 @@ Tandaan na sa tuwing maghahanap ka muli pagkatapos ng `yield` , kailangan mong m
 
 Upang maipakita ang mga resulta ng paghahanap habang nagta-type ang user, halimbawa, kapag `wor` ang ipinasok, ang mga salitang may prefix na `wor` gaya ng `words` at `work` ay ipinapakita.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Gagamitin ng search kernel ang `prefix` table para sa huling salita pagkatapos ng pagse-segment ng salita upang mahanap ang lahat ng mga salita na may prefix na kasama nito, at maghanap sa pagkakasunud-sunod.
 
@@ -212,7 +212,7 @@ Ang purong front-end na solusyon sa paghahanap ng `i18n.site` ay na-optimize par
 
 Kapag nagpapakita ng mga resulta ng paghahanap, ang pangalan ng kabanata ay ipapakita at ang kabanata ay ma-navigate kapag na-click.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Ibuod
 

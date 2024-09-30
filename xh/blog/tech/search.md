@@ -24,7 +24,7 @@ Ayinakusetyenziswa ngaphandle kweintanethi, ayinakusetyenziswa kwi-intranethi, k
 
 Okwesibini luphendlo olusulungekileyo lwangaphambili olupheleleyo.
 
-Uphendlo oluqhelekileyo olusetyenziswayo olusulungekileyo lwangaphambili olupheleleyo lubandakanya [lunrjs](https://lunrjs.com) [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Okwangoku, uphendlo olupheleleyo lwesiphelo esipheleleyo [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) `lunrjs` [lunrjs](//lunrjs.com)
 
 `lunrjs` Kukho iindlela ezimbini zokwakha izalathisi, kwaye zombini zineengxaki zazo.
 
@@ -42,11 +42,11 @@ Uphendlo oluqhelekileyo olusetyenziswayo olusulungekileyo lwangaphambili oluphel
 
 Ukongeza ku `lunrjs` , kukho ezinye izisombululo zokukhangela okubhaliweyo okugcweleyo, njenge :
 
-[fusejs](https://www.fusejs.io) , bala ukufana phakathi kwemitya ukukhangela.
+[fusejs](//www.fusejs.io) , bala ukufana phakathi kwemitya ukukhangela.
 
-Ukusebenza kwesi sisombululo kumbi kakhulu kwaye akunakusetyenziselwa ukukhangela okubhaliweyo okugcweleyo (bona [Fuse.js Umbuzo omde uthatha ngaphezulu kwe 10 imizuzwana, ungenziwa njani?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ukusebenza kwesi sisombululo kumbi kakhulu kwaye akunakusetyenziselwa ukukhangela okubhaliweyo okugcweleyo (bona [Fuse.js Umbuzo omde uthatha ngaphezulu kwe 10 imizuzwana, ungenziwa njani?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) sebenzisa i-Bloom filter ukukhangela, ayinakusetyenziselwa uphendlo lwesimaphambili (umzekelo, ngenisa `goo` , khangela `good` , `google` ), kwaye awukwazi ukufikelela kwisiphumo esizenzekelayo esizenzekelayo.
+[TinySearch](//github.com/tinysearch/tinysearch) sebenzisa i-Bloom filter ukukhangela, ayinakusetyenziselwa uphendlo lwesimaphambili (umzekelo, ngenisa `goo` , khangela `good` , `google` ), kwaye awukwazi ukufikelela kwisiphumo esizenzekelayo esizenzekelayo.
 
 Ngenxa yokungaphumeleli kwezisombululo ezikhoyo, `i18n.site` yavelisa isisombululo esitsha esicocekileyo esipheleleyo sesicatshulwa esipheleleyo, esinezi mpawu zilandelayo :
 
@@ -62,7 +62,7 @@ Ngezantsi, `i18n.site` iinkcukacha zokuphunyezwa kobugcisa ziya kwaziswa ngokuba
 
 Ulwahlulo lwamagama lusebenzisa ulwahlulo lwegama lesikhangeli `Intl.Segmenter` , kwaye zonke iibhrawuza eziqhelekileyo ziyaluxhasa olujongano.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Igama elithi segmentation `coffeescript` ikhowudi imi ngolu hlobo lulandelayo
 
@@ -103,11 +103,11 @@ Dlulisa uluhlu loxwebhu `url` kunye nenombolo yoguqulelo `ver` , kwaye ukhangele
 
 Ngale ndlela, i-incremental indexing inokufezekiswa kwaye inani lokubala liyancitshiswa.
 
-Kwintsebenziswano yangaphambili, ibar yenkqubela phambili yokulayisha isalathisi ingabonakaliswa ukunqanda i-lag xa ilayishwa okokuqala ngqa Bona "Ibha yenkqubela phambili kunye ne-animation, isekelwe kwi-Single progress + Pure css Implementation" [IsiNgesi](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Kwintsebenziswano yangaphambili, ibar yenkqubela phambili yokulayisha isalathisi ingabonakaliswa ukunqanda i-lag xa ilayishwa okokuqala ngqa Bona "Ibha yenkqubela phambili kunye ne-animation, isekelwe kwi-Single progress + Pure css Implementation" [IsiNgesi](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### I-IndexedDB Ephezulu Yokubhala Ngaxeshanye
 
-Iprojekthi [idb](https://www.npmjs.com/package/idb) ngokusekelwe kwi-asynchronous encapsulation ye IndexedDB
+Iprojekthi [idb](//www.npmjs.com/package/idb) ngokusekelwe kwi-asynchronous encapsulation ye IndexedDB
 
 I-IndexedDB ifunda kwaye ibhala ayihambelaniyo. Xa usenza isalathisi, amaxwebhu aya kulayishwa ngaxeshanye ukwenza isalathisi.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ukuze ubonise iziphumo zophando ngelixa umsebenzisi echwetheza, umzekelo, xa `wor` efakiwe, amagama afakwe kwi `wor` njengo `words` kunye no `work` ayaboniswa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 I-kernel yokukhangela izakusebenzisa itheyibhile `prefix` yegama lokugqibela emva kokwahlulwa kwegama ukufumana onke amagama afakwe ngaphambili kuyo, kunye nokukhangela ngokulandelelana.
 
@@ -170,7 +170,7 @@ Cinga ukuba kukho amagama `N` emva kokwahlulwa kwamagama Xa ubuyisela iziphumo, 
 
 Iziphumo zokukhangela ezibonisiweyo kuqala ziqinisekisa ukuchaneka kombuzo, kwaye iziphumo zilayishwe emva koko (cofa iqhosha lomthwalo ongaphezulu) uqinisekise izinga lokukhumbula.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Layisha Ngokwemfuno
 
@@ -182,7 +182,7 @@ Qaphela ukuba ngalo lonke ixesha ukhangela kwakhona emva kwe `yield` , kufuneka 
 
 Ukuze ubonise iziphumo zophando ngelixa umsebenzisi echwetheza, umzekelo, xa `wor` efakiwe, amagama afakwe kwi `wor` njengo `words` kunye no `work` ayaboniswa.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 I-kernel yokukhangela izakusebenzisa itheyibhile `prefix` yegama lokugqibela emva kokwahlulwa kwegama ukufumana onke amagama afakwe ngaphambili kuyo, kunye nokukhangela ngokulandelelana.
 
@@ -212,7 +212,7 @@ Ngexesha elifanayo, kuba `service worker` igcina onke amanqaku, xa umsebenzisi e
 
 Xa ubonisa iziphumo zophendlo, igama lesahluko liya kuboniswa kwaye isahluko siya kukhangelwa xa ucofa.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Shwankathela
 

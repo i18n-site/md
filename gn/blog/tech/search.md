@@ -24,7 +24,7 @@ Ndaikatúi ojeporu offline, ndaikatúi ojeporu intranet-pe ha oguereko tuicha li
 
 Mokõiha ha’e jeporeka puro front-end texto completo rehegua.
 
-Umi jeporeka jehaipyre henyhẽva tenondegua puro ojepuruvéva apytépe oĩ [lunrjs](https://lunrjs.com) ha [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Koꞌág̃a rupi, umi jeheka jepivegua puro front-end jehaipyre pukukue apytépe oĩ [lunrjs](//lunrjs.com) ha [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (oñemopyendáva `lunrjs` desarrollo secundario rehe).
 
 `lunrjs` Oĩ mokõi tape ojejapo hag̃ua índice, ha mokõivéva oguereko iprovléma.
 
@@ -42,11 +42,11 @@ Umi jeporeka jehaipyre henyhẽva tenondegua puro ojepuruvéva apytépe oĩ [lun
 
 `lunrjs` ári, oĩ ambue solución jehekarã jehaipyre pukukue rehegua, haꞌeháicha :
 
-[fusejs](https://www.fusejs.io) , ekalkula mbaꞌeichaitépa ojoavy umi cadena ojeheka hag̃ua.
+[fusejs](//www.fusejs.io) , ekalkula mbaꞌeichaitépa ojoavy umi cadena ojeheka hag̃ua.
 
-Ko solución rembiapo ivaieterei ha ndaikatúi ojepuru ojeheka hag̃ua jehaipyre tuichakue (ehecha [Fuse.js Ñeporandu ipukúva ogueraha hetave 10 segundo-gui, mba’éichapa ikatu oñemyatyrõ?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ko solución rembiapo ivaieterei ha ndaikatúi ojepuru ojeheka hag̃ua jehaipyre tuichakue (ehecha [Fuse.js Ñeporandu ipukúva ogueraha hetave 10 segundo-gui, mba’éichapa ikatu oñemyatyrõ?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Umi solución oĩmava ofaltágui, `i18n.site` omoheñói peteĩ solución pyahu jeporeka texto completo front-end puro rehegua, oguerekóva ko’ã característica :
 
@@ -62,7 +62,7 @@ Iguýpe, `i18n.site` detalle implementación técnico rehegua oñembohasáta det
 
 Ñe’ẽ ñemboja’o oipuru kundahára ñe’ẽ ñemboja’o nativo `Intl.Segmenter` , ha opaite kundahára tenondegua oipytyvõ ko ñemohendaha.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ñe’ẽ segmentación `coffeescript` código ha’e ko’ãva
 
@@ -103,11 +103,11 @@ Ehasa matriz kuatia `url` ha versión número `ver` , ha eheka oĩpa kuatia cuad
 
 Péicha ikatu ojehupyty indexación incremental ha oñemboguejy pe cálculo hetakue.
 
-Pe interacción front-end-pe, ikatu ojehechauka barra progreso de carga índice rehegua ani hag̃ua pe retraso ojekarga jave peteĩha jey Ehecha "Barra de progreso con animación, basada en una sola progress + Puro css Implementación" [Inglés](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chino](https://juejin.cn/post/7413586285954154522) .
+Pe interacción front-end-pe, ikatu ojehechauka barra progreso de carga índice rehegua ani hag̃ua pe retraso ojekarga jave peteĩha jey Ehecha "Barra de progreso con animación, basada en una sola progress + Puro css Implementación" [Inglés](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chino](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Jehai Peteĩchagua Yvate
 
-Ko proyecto [idb](https://www.npmjs.com/package/idb) oñemopyendáva encapsulación asíncrona IndexedDB
+Ko proyecto [idb](//www.npmjs.com/package/idb) oñemopyendáva encapsulación asíncrona IndexedDB
 
 IndexedDB omoñeꞌe ha ohai haꞌehína asíncrono. Ojejapo jave peteĩ índice, ojekargáta kuatiakuéra oñondive ojejapo hag̃ua índice.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ojehechauka hag̃ua jeheka renda puruhára ohai aja, techapyrãramo, ojeike jave `wor` , ojehechauka ñeꞌepyrũ oñembohérava `wor` haꞌeháicha `words` ha `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Pe jeheka ryru oipurúta `prefix` vore ñe’ẽ paha ñe’ẽ ñemboja’o rire ojuhu hag̃ua opaite ñe’ẽ oñembojoapýva hese, ha oheka hag̃ua peteĩteĩ.
 
@@ -170,7 +170,7 @@ Pe jeheka omboja’óta raẽ umi ñe’ẽ clave oikéva puruhára.
 
 Umi jeheka renda ojehechaukáva raẽ oasegura pe consulta hekopeteha, ha umi resultado ojekargáva upe rire (emboguejy pe botón carga hetave) oasegura pe tasa de recall.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Carga Ojejeruréva Rehe
 
@@ -182,7 +182,7 @@ Ikatu hag̃uáicha oñemyatyrõ ñembohovái pyaꞌe, jeheka oipuru generador `y
 
 Ojehechauka hag̃ua jeheka renda puruhára ohai aja, techapyrãramo, ojeike jave `wor` , ojehechauka ñeꞌepyrũ oñembohérava `wor` haꞌeháicha `words` ha `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Pe jeheka ryru oipurúta `prefix` vore ñe’ẽ paha ñe’ẽ ñemboja’o rire ojuhu hag̃ua opaite ñe’ẽ oñembojoapýva hese, ha oheka hag̃ua peteĩteĩ.
 
@@ -212,7 +212,7 @@ Upe jave avei, `service worker` oñongatúgui opaite artíkulo, peteĩ jey puruh
 
 Ojehechaukávo umi mba’e ojehekáva, ojehechaukáta pe kapítulo réra ha ojeguata pe kapítulo ojekutu jave.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Embohysýi
 

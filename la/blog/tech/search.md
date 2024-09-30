@@ -24,7 +24,7 @@ Offline adhiberi non potest, in intraneo adhiberi non potest, ac magnas habet li
 
 Secundum est pura ante-finis quaestionis plena-textus.
 
-Communiter purae ante-finire [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) ElasticLunr.js includunt [lunrjs](https://lunrjs.com)
+Nunc, commune pura ante `lunrjs` finem includunt [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) plena text [lunrjs](//lunrjs.com)
 
 `lunrjs` Dupliciter indices construendi, et utraque problemata sua habent.
 
@@ -42,11 +42,11 @@ Communiter purae ante-finire [https://github.com/weixsong/elasticlunr.js](%E5%9F
 
 Praeter `lunrjs` , nonnullae aliae solutiones quaerendi plenae texti sunt, ut :
 
-[fusejs](https://www.fusejs.io) Calculare similitudinem chordarum ad quaerendum.
+[fusejs](//www.fusejs.io) Calculare similitudinem chordarum ad quaerendum.
 
-Effectus huius solutionis est maxime pauper et non potest adhiberi ad plenam inquisitionem textus (videatur [Fuse.js Longa quaestio plus quam 10 secundis accipit, quam ad optimize eam?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Effectus huius solutionis est maxime pauper et non potest adhiberi ad plenam inquisitionem textus (videatur [Fuse.js Longa quaestio plus quam 10 secundis accipit, quam ad optimize eam?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , utere Bloom colum ad quaerendum, adhiberi non potest pro praeposita inquisitione (exempli gratia, intra `goo` , quaerere `good` , `google` ), nec potest similem perfectionem automaticam consequi.
+[TinySearch](//github.com/tinysearch/tinysearch) , utere Bloom colum ad quaerendum, adhiberi non potest pro praeposita inquisitione (exempli gratia, intra `goo` , quaerere `good` , `google` ), nec potest similem perfectionem automaticam consequi.
 
 Propter defectus solutionum existentium, `i18n.site` novam evolvit puram solutionem quaestionis ante-finis plenae texti, quae habet sequentes notas :
 
@@ -62,7 +62,7 @@ Infra, `i18n.site` singula exsequenda technica singillatim introducentur.
 
 Verbum segmentationis utitur verbo patrii segmentationis `Intl.Segmenter` navigatoris, et omnes navigatores amet hoc interfaciem sustinent.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Verbum justo `coffeescript` codice talis est
 
@@ -103,11 +103,11 @@ In ordine documentorum transi `url` et numeri versionis `ver` et quaere num docu
 
 Hoc modo, indexing incrementalis praestari potest et quantitas calculi reducitur.
 
-Ante progress + finem commercium, [progressus](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) onerationis vectis index / potest ad css pigritiam cum primum loading [.](https://juejin.cn/post/7413586285954154522)
+Ante progress + finem commercium, [progressus](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) onerationis vectis index / potest ad css pigritiam cum primum loading [.](//juejin.cn/post/7413586285954154522)
 
 ### IndexedDB Scripturae Altae Concurrentes
 
-The project is [idb](https://www.npmjs.com/package/idb) based on the asynchronous encapsulation of IndexedDB
+The project is [idb](//www.npmjs.com/package/idb) based on the asynchronous encapsulation of IndexedDB
 
 IndexedDB legit et scribit asynchroni sunt. Cum indice creando, documenta simul onerentur indicem creare.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Ut proventus investigationis exhibeas dum usor capsas est, exempli gratia, cum `wor` intratur, verba praefixa sunt `wor` sicut `words` et `work` monstrantur.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Acinum inquisitio adhibebit `prefix` tabula ad verba novissimae verbi segmentorum ad inveniendum omnia verba cum ea praefixa, et ordine perquire.
 
@@ -170,7 +170,7 @@ Fac esse `N` verba post verba segmentationis. Cum proventus proventus, proventus
 
 Proventus inquisitionis monstraverunt primum subtilitatem interrogationis invigilare, et eventus postea oneratos (click onus magis button) receptui rate invigilare.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Onus in Demanda
 
@@ -182,7 +182,7 @@ Nota quod quotienscumque post `yield` quaeras, inquisitionem transactionis `Inde
 
 Ut proventus investigationis exhibeas dum usor capsas est, exempli gratia, cum `wor` intratur, verba praefixa sunt `wor` sicut `words` et `work` monstrantur.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Acinum inquisitio adhibebit `prefix` tabula ad verba novissimae verbi segmentorum ad inveniendum omnia verba cum ea praefixa, et ordine perquire.
 
@@ -212,7 +212,7 @@ Eodem tempore, quia `service worker` omnia vasa cella, semel uter indagat, totum
 
 Cum proventus investigationis exponendo, nomen capituli exponetur et capitulum navigabitur cum clicked.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Summatim
 

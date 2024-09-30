@@ -24,7 +24,7 @@ Ekoki kosalelama te na nzela ya Internet te, ekoki kosalelama te na intranet, mp
 
 Ya mibale ezali boluki ya makomi mobimba ya liboso ya pɛto.
 
-Boluki ya makomi mobimba ya liboso oyo esalelamaka mingi ezali [lunrjs](https://lunrjs.com) mpe [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Na tango oyo, ba recherches pure front-end ya texte mobimba oyo esalemaka mingi ezali [lunrjs](//lunrjs.com) na [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (basé na `lunrjs` développement secondaire).
 
 `lunrjs` Ezali na banzela mibale ya kotonga ba index, mpe nyonso mibale ezali na mikakatano na yango.
 
@@ -42,11 +42,11 @@ Boluki ya makomi mobimba ya liboso oyo esalelamaka mingi ezali [lunrjs](https://
 
 Longola `lunrjs` , ezali na mwa ba solutions mosusu ya boluki ya makomi mobimba, lokola :
 
-[fusejs](https://www.fusejs.io) , sala calcul ya bokokani kati na ba chaînes oyo esengeli koluka.
+[fusejs](//www.fusejs.io) , sala calcul ya bokokani kati na ba chaînes oyo esengeli koluka.
 
-Performance ya solution oyo ezali très mauvaise mpe ekoki kosalelama te pona recherche ya texte mobimba (tala [Fuse.js Requête ya molayi ezo zua plus de 10 secondes, ndenge nini ko optimiser yango?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Performance ya solution oyo ezali très mauvaise mpe ekoki kosalelama te pona recherche ya texte mobimba (tala [Fuse.js Requête ya molayi ezo zua plus de 10 secondes, ndenge nini ko optimiser yango?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Na tina ya ba manques ya ba solutions oyo ezali, `i18n.site` esali solution ya sika ya recherche ya texte complet ya front-end pure, oyo ezali na ba caractéristiques oyo elandi :
 
@@ -62,7 +62,7 @@ Na se, `i18n.site` ba détails techniques ya mise en œuvre eko kotisama na bozi
 
 Bokabwani ya maloba esalela bokaboli maloba ya mboka ya navigateur `Intl.Segmenter` , mpe ba navigateurs nionso ya monene esungaka interface oyo.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Code ya segmentation ya liloba `coffeescript` ezali boye
 
@@ -103,11 +103,11 @@ Lekisa na kati ya array ya mokanda `url` mpe version numéro `ver` , mpe luka so
 
 Na ndenge wana, indexation incrementale ekoki kosalema mpe motango ya calcul ekitisama.
 
-Na interaction ya liboso, barre ya progression ya chargement ya index ekoki kolakisa pona ko éviter retard tango ya chargement pona mbala ya liboso Tala "Barre ya progression na Animation, Basé na unique progress + Pure css Implementation" [Anglais](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinois](https://juejin.cn/post/7413586285954154522) .
+Na interaction ya liboso, barre ya progression ya chargement ya index ekoki kolakisa pona ko éviter retard tango ya chargement pona mbala ya liboso Tala "Barre ya progression na Animation, Basé na unique progress + Pure css Implementation" [Anglais](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinois](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Ya Likolo Ya Bokomi Ya Mbala Moko
 
-Projet oyo [idb](https://www.npmjs.com/package/idb) na nzela ya encapsulation asynchrone ya IndexedDB
+Projet oyo [idb](//www.npmjs.com/package/idb) na nzela ya encapsulation asynchrone ya IndexedDB
 
 IndexedDB kotanga pe kokoma ezali asynchrone. Ntango ozali kosala index, mikanda ekozwama na mbala moko mpo na kosala index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Mpo na kolakisa ba résultats ya boluki tango mosaleli azali kokoma, na ndakisa, tango bakomi `wor` , maloba oyo ezali na liboso ya `wor` lokola `words` mpe `work` elakisami.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Noyau ya boluki ekosalela tableau `prefix` pona liloba ya suka sima ya bopanzani ya maloba pona koluka maloba nionso oyo etiamaki liboso na yango, pe koluka na molongo.
 
@@ -170,7 +170,7 @@ Kanisa ete ezali na maloba `N` sima ya bopanzani ya maloba Tango ozali kozongisa
 
 Ba résultats ya recherche oyo elakisami liboso e assurer exactitude ya requête, mpe ba résultats oyo e charger sima (cliquer bouton charge plus) e assurer taux ya rappel.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Charge Na Demande
 
@@ -182,7 +182,7 @@ Simbá ete mbala nyonso oyo ozali koluka lisusu nsima ya `yield` , osengeli kofu
 
 Mpo na kolakisa ba résultats ya boluki tango mosaleli azali kokoma, na ndakisa, tango bakomi `wor` , maloba oyo ezali na liboso ya `wor` lokola `words` mpe `work` elakisami.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Noyau ya boluki ekosalela tableau `prefix` pona liloba ya suka sima ya bopanzani ya maloba pona koluka maloba nionso oyo etiamaki liboso na yango, pe koluka na molongo.
 
@@ -212,7 +212,7 @@ En même temps, lokola `service worker` e cacher ba articles nionso, mbala moko 
 
 Ntango ozali kolakisa ba résultats ya boluki, kombo ya mokapo ekobima mpe mokapo ekozala navigué tango o cliqué.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Lobelá Na Mokuse
 

@@ -24,7 +24,7 @@ U oflayn rejimda ishlatilmaydi, intranetda ishlatilmaydi va katta cheklovlarga e
 
 Ikkinchisi sof front-end to'liq matnli qidiruvdir.
 
-Keng tarqalgan sof front-end toʻliq matnli qidiruvlar [lunrjs](https://lunrjs.com) va [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) oʻz ichiga oladi.
+Hozirgi vaqtda keng tarqalgan to'liq matnli qidiruvlar [lunrjs](//lunrjs.com) va [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) ( `lunrjs` ikkinchi darajali ishlanma asosida) o'z ichiga oladi.
 
 `lunrjs` Indekslarni yaratishning ikki yo'li mavjud va ikkalasining ham o'z muammolari bor.
 
@@ -42,11 +42,11 @@ Keng tarqalgan sof front-end toʻliq matnli qidiruvlar [lunrjs](https://lunrjs.c
 
 `lunrjs` dan tashqari yana ba'zi to'liq matnli qidiruv echimlari mavjud, masalan :
 
-[fusejs](https://www.fusejs.io) qidirish uchun satrlar orasidagi o'xshashlikni hisoblang.
+[fusejs](//www.fusejs.io) qidirish uchun satrlar orasidagi o'xshashlikni hisoblang.
 
-Ushbu yechimning unumdorligi juda past va uni toʻliq matnli qidirish uchun ishlatib boʻlmaydi (qarang [Fuse.js Uzoq soʻrov 10 soniyadan koʻproq vaqt oladi, uni qanday optimallashtirish kerak?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ushbu yechimning unumdorligi juda past va uni toʻliq matnli qidirish uchun ishlatib boʻlmaydi (qarang [Fuse.js Uzoq soʻrov 10 soniyadan koʻproq vaqt oladi, uni qanday optimallashtirish kerak?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) qidirish uchun Bloom filtridan foydalaning, prefiksni qidirish uchun ishlatib bo'lmaydi (masalan, `goo` kiriting, `good` , `google` ni kiriting) va shunga o'xshash avtomatik yakunlash effektiga erishib bo'lmaydi.
+[TinySearch](//github.com/tinysearch/tinysearch) qidirish uchun Bloom filtridan foydalaning, prefiksni qidirish uchun ishlatib bo'lmaydi (masalan, `goo` kiriting, `good` , `google` ni kiriting) va shunga o'xshash avtomatik yakunlash effektiga erishib bo'lmaydi.
 
 Mavjud echimlarning kamchiliklari tufayli `i18n.site` quyidagi xususiyatlarga ega bo'lgan yangi sof front-end to'liq matnli qidiruv yechimini ishlab chiqdi :
 
@@ -62,7 +62,7 @@ Quyida `i18n.site` texnik amalga oshirish tafsilotlari batafsil tanishtiriladi.
 
 So'z segmentatsiyasi brauzerning mahalliy so'z segmentatsiyasidan `Intl.Segmenter` foydalanadi va barcha asosiy brauzerlar ushbu interfeysni qo'llab-quvvatlaydi.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 So'z segmentatsiyasi `coffeescript` kodi quyidagicha
 
@@ -103,11 +103,11 @@ Hujjat `url` massivini va `ver` versiya raqamini kiriting va hujjat `doc` jadval
 
 Shu tarzda, qo'shimcha indeksatsiyaga erishish mumkin va hisoblash miqdori kamayadi.
 
-Oldin-end o'zaro ta'sirida, birinchi marta yuklashda kechikishning oldini olish uchun indeksni yuklash jarayoni ko'rsatilishi mumkin " progress + css asoslangan taraqqiyot paneli" [Inglizcha](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Xitoy](https://juejin.cn/post/7413586285954154522) .
+Oldindan o'zaro aloqada, birinchi marta yuklashda kechikishning oldini olish uchun indeksning yuklanish jarayoni ko'rsatilishi mumkin "Yagona animatsiyaga asoslangan taraqqiyot paneli progress + Sof css amalga oshirish" [Inglizcha](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Xitoy](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Yuqori Bir Vaqtda Yozish
 
-Loyiha asinxron inkapsulyatsiya asosida [idb](https://www.npmjs.com/package/idb) IndexedDB
+Loyiha asinxron inkapsulyatsiya asosida [idb](//www.npmjs.com/package/idb) IndexedDB
 
 IndexedDB o'qish va yozish asinxrondir. Indeks yaratishda hujjatlar indeks yaratish uchun bir vaqtda yuklanadi.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Foydalanuvchi yozayotganda qidiruv natijalarini ko'rsatish uchun, masalan, `wor` kiritilganda, `words` va `work` kabi `wor` prefiksli so'zlar ko'rsatiladi.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Qidiruv yadrosi so'z segmentatsiyasidan keyingi so'nggi so'z uchun `prefix` jadvalidan foydalanib, u bilan prefikslangan barcha so'zlarni topadi va ketma-ketlikda qidiradi.
 
@@ -170,7 +170,7 @@ So'zni segmentlashdan keyin `N` so'z bor deb hisoblang, natijalarni qaytarishda 
 
 Ko'rsatilgan qidiruv natijalari birinchi navbatda so'rovning to'g'riligini ta'minlaydi va keyin yuklangan natijalar (ko'proq yuklash tugmasini bosing) eslab qolish tezligini ta'minlaydi.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Talab Bo'yicha Yuklash
 
@@ -182,7 +182,7 @@ Esda tutingki, har safar `yield` dan keyin yana qidirganingizda, `IndexedDB` so'
 
 Foydalanuvchi yozayotganda qidiruv natijalarini ko'rsatish uchun, masalan, `wor` kiritilganda, `words` va `work` kabi `wor` prefiksli so'zlar ko'rsatiladi.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Qidiruv yadrosi so'z segmentatsiyasidan keyingi so'nggi so'z uchun `prefix` jadvalidan foydalanib, u bilan prefikslangan barcha so'zlarni topadi va ketma-ketlikda qidiradi.
 
@@ -212,7 +212,7 @@ Shu bilan birga, `service worker` barcha maqolalarni keshlashi sababli, foydalan
 
 Qidiruv natijalarini ko'rsatishda bo'lim nomi ko'rsatiladi va bosilganda bo'lim navigatsiya qilinadi.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Xulosa Qiling
 

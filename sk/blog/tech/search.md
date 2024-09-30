@@ -24,7 +24,7 @@ Nedá sa použiť offline, nedá sa použiť na intranete a má veľké obmedzen
 
 Druhým je čisté front-endové fulltextové vyhľadávanie.
 
-Bežne používané čisto front-endové fulltextové vyhľadávania zahŕňajú [lunrjs](https://lunrjs.com) a [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+V súčasnosti bežné čisto front-endové fulltextové vyhľadávania zahŕňajú [lunrjs](//lunrjs.com) a [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (založené na `lunrjs` sekundárnom vývoji).
 
 `lunrjs` Existujú dva spôsoby vytvárania indexov a oba majú svoje vlastné problémy.
 
@@ -42,11 +42,11 @@ Bežne používané čisto front-endové fulltextové vyhľadávania zahŕňajú
 
 Okrem `lunrjs` existujú aj iné riešenia fulltextového vyhľadávania, ako napríklad :
 
-[fusejs](https://www.fusejs.io) vypočítajte podobnosť medzi reťazcami na vyhľadávanie.
+[fusejs](//www.fusejs.io) vypočítajte podobnosť medzi reťazcami na vyhľadávanie.
 
-Výkon tohto riešenia je extrémne slabý a nedá sa použiť na fulltextové vyhľadávanie (pozri [Fuse.js Dlhý dopyt trvá viac ako 10 sekúnd, ako ho optimalizovať?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Výkon tohto riešenia je extrémne slabý a nedá sa použiť na fulltextové vyhľadávanie (pozri [Fuse.js Dlhý dopyt trvá viac ako 10 sekúnd, ako ho optimalizovať?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) na vyhľadávanie použite filter Bloom, nedá sa použiť na vyhľadávanie prefixov (napríklad zadajte `goo` , hľadajte `good` , `google` ) a nemôžete dosiahnuť podobný efekt automatického dokončenia.
+[TinySearch](//github.com/tinysearch/tinysearch) na vyhľadávanie použite filter Bloom, nedá sa použiť na vyhľadávanie prefixov (napríklad zadajte `goo` , hľadajte `good` , `google` ) a nemôžete dosiahnuť podobný efekt automatického dokončenia.
 
 Z dôvodu nedostatkov existujúcich riešení vyvinul `i18n.site` nové čisté front-endové fulltextové riešenie, ktoré má nasledujúce vlastnosti :
 
@@ -62,7 +62,7 @@ Nižšie bude podrobne predstavených `i18n.site` podrobností o technickej impl
 
 Segmentácia slov využíva natívnu segmentáciu slov prehliadača `Intl.Segmenter` a všetky bežné prehliadače podporujú toto rozhranie.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Kód segmentácie `coffeescript` slova je nasledujúci
 
@@ -103,11 +103,11 @@ Zadajte pole dokumentu `url` a číslo verzie `ver` a vyhľadajte, či dokument 
 
 Týmto spôsobom je možné dosiahnuť prírastkové indexovanie a znížiť množstvo výpočtu.
 
-V interakcii s front-endom je možné / indikátor priebehu načítania indexu [,](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) [aby](https://juejin.cn/post/7413586285954154522) sa css oneskoreniu pri prvom progress + .
+V interakcii s front-endom je možné / indikátor [priebehu](//juejin.cn/post/7413586285954154522) načítania indexu [,](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) aby sa css oneskoreniu pri prvom progress + .
 
 ### IndexedDB S Vysokým Súbežným Zápisom
 
-Projekt je [idb](https://www.npmjs.com/package/idb) na základe asynchrónneho zapuzdrenia IndexedDB
+Projekt je [idb](//www.npmjs.com/package/idb) na základe asynchrónneho zapuzdrenia IndexedDB
 
 Čítanie a zápis indexovanej databázy je asynchrónny. Pri vytváraní indexu sa dokumenty načítajú súčasne, aby sa vytvoril index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Aby sa zobrazili výsledky vyhľadávania, keď používateľ píše, napríklad keď zadáte `wor` , zobrazia sa slová s predponou `wor` napríklad `words` a `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Vyhľadávacie jadro použije tabuľku `prefix` pre segmentáciu posledného slova za slovom na nájdenie všetkých slov s predponou a postupné vyhľadávanie.
 
@@ -170,7 +170,7 @@ Predpokladajme, že za slovom segmentácia je `N` slov. Pri vrátení výsledkov
 
 Zobrazené výsledky vyhľadávania najskôr zaistia presnosť dopytu a následne načítané výsledky (kliknite na tlačidlo načítať viac) zaistia rýchlosť vyvolania.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Zaťaženie Na Požiadanie
 
@@ -182,7 +182,7 @@ Všimnite si, že zakaždým, keď budete hľadať znova po `yield` , musíte zn
 
 Aby sa zobrazili výsledky vyhľadávania, keď používateľ píše, napríklad keď zadáte `wor` , zobrazia sa slová s predponou `wor` napríklad `words` a `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Vyhľadávacie jadro použije tabuľku `prefix` pre segmentáciu posledného slova za slovom na nájdenie všetkých slov s predponou a postupné vyhľadávanie.
 
@@ -212,7 +212,7 @@ Zároveň, pretože `service worker` ukladá všetky články do vyrovnávacej p
 
 Pri zobrazovaní výsledkov vyhľadávania sa zobrazí názov kapitoly a po kliknutí sa bude v kapitole pohybovať.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Zhrnúť
 

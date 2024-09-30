@@ -24,7 +24,7 @@ Li pa ka itilize offline, pa ka itilize sou intranet la, epi li gen gwo limit. A
 
 Dezyèm lan se pi bon kalite rechèch plen tèks.
 
-Rechèch tèks konplè yo itilize souvan gen ladan [lunrjs](https://lunrjs.com) ak [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Kounye a, rechèch pi komen nan tèks konplè gen ladan [lunrjs](//lunrjs.com) ak [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (ki baze sou `lunrjs` devlopman segondè).
 
 `lunrjs` Gen de fason pou konstwi endis, epi tou de gen pwoblèm pwòp yo.
 
@@ -42,11 +42,11 @@ Rechèch tèks konplè yo itilize souvan gen ladan [lunrjs](https://lunrjs.com) 
 
 Anplis `lunrjs` , gen kèk lòt solisyon rechèch plen tèks, tankou :
 
-[fusejs](https://www.fusejs.io) , kalkile resanblans ki genyen ant fisèl pou fè rechèch.
+[fusejs](//www.fusejs.io) , kalkile resanblans ki genyen ant fisèl pou fè rechèch.
 
-Pèfòmans solisyon sa a se ekstrèmman pòv epi yo pa ka itilize pou rechèch tèks konplè (gade [Fuse.js Rekèt long pran plis pase 10 segonn, ki jan yo optimize li?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Pèfòmans solisyon sa a se ekstrèmman pòv epi yo pa ka itilize pou rechèch tèks konplè (gade [Fuse.js Rekèt long pran plis pase 10 segonn, ki jan yo optimize li?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) sèvi ak Bloom filtre pou fè rechèch, pa ka itilize pou rechèch prefiks (pa egzanp, antre `goo` , rechèch `good` , `google` ), epi yo pa ka reyalize menm efè fini otomatik.
+[TinySearch](//github.com/tinysearch/tinysearch) sèvi ak Bloom filtre pou fè rechèch, pa ka itilize pou rechèch prefiks (pa egzanp, antre `goo` , rechèch `good` , `google` ), epi yo pa ka reyalize menm efè fini otomatik.
 
 Akòz enpèfeksyon yo nan solisyon yo ki deja egziste, `i18n.site` te devlope yon nouvo pi bon kalite solisyon rechèch plen-tèks devan, ki gen karakteristik sa yo :
 
@@ -62,7 +62,7 @@ Anba a, `i18n.site` detay aplikasyon teknik yo pral prezante an detay.
 
 Segmantasyon mo itilize segmantasyon mo natif natal navigatè a `Intl.Segmenter` , epi tout navigatè endikap yo sipòte koòdone sa a.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Segmantasyon mo `coffeescript` kòd la se jan sa a
 
@@ -103,11 +103,11 @@ Pase nan etalaj la nan dokiman `url` ak nimewo vèsyon `ver` , epi chèche si do
 
 Nan fason sa a, incrémentielle Indexing ka reyalize ak kantite lajan an nan kalkil redwi.
 
-Nan entèraksyon front-end, ba loading pwogrè nan endèks la ka parèt pou evite lag la lè chaje pou premye fwa Gade "Bawo Pwogrè ak Animasyon, ki baze sou yon sèl progress + Pi css Aplikasyon" [angle](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinwa](https://juejin.cn/post/7413586285954154522) .
+Nan entèraksyon front-end, ba loading pwogrè nan endèks la ka parèt pou evite lag la lè chaje pou premye fwa Gade "Bawo Pwogrè ak Animasyon, ki baze sou yon sèl progress + Pi css Aplikasyon" [angle](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinwa](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Segondè Ekri Konkouran
 
-Pwojè a [idb](https://www.npmjs.com/package/idb) baze sou enkapsulasyon asynchrone nan IndexedDB
+Pwojè a [idb](//www.npmjs.com/package/idb) baze sou enkapsulasyon asynchrone nan IndexedDB
 
 IndexedDB lekti ak ekri yo asynchrone. Lè w ap kreye yon endèks, dokiman yo pral chaje ansanm pou kreye endèks la.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Pou yo ka montre rezilta rechèch la pandan itilizatè a ap tape, pou egzanp, lè yo antre `wor` , mo yo prefiks ak `wor` tankou `words` ak `work` yo parèt.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Nwayo rechèch la pral sèvi ak tablo `prefix` a pou dènye mo a apre segmantasyon mo a pou jwenn tout mo ki gen prefiks ak li, epi chèche nan sekans.
 
@@ -170,7 +170,7 @@ Sipoze ke gen `N` mo apre segmantasyon mo a Lè w ap retounen rezilta yo, yo pra
 
 Rezilta rechèch yo parèt an premye asire presizyon rechèch la, epi rezilta yo chaje apre (klike sou bouton an chaj plis) asire pousantaj rapèl la.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Chaj Sou Demann
 
@@ -182,7 +182,7 @@ Remake byen ke chak fwa ou fè rechèch ankò apre `yield` , ou bezwen relouvri 
 
 Pou yo ka montre rezilta rechèch la pandan itilizatè a ap tape, pou egzanp, lè yo antre `wor` , mo yo prefiks ak `wor` tankou `words` ak `work` yo parèt.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Nwayo rechèch la pral sèvi ak tablo `prefix` a pou dènye mo a apre segmantasyon mo a pou jwenn tout mo ki gen prefiks ak li, epi chèche nan sekans.
 
@@ -212,7 +212,7 @@ Pi bon kalite solisyon rechèch front-end `i18n.site` a optimize pou `MarkDown` 
 
 Lè w ap montre rezilta rechèch la, yo pral montre non chapit la epi yo pral navige sou chapit la lè w klike sou.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Rezime
 

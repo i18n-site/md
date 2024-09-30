@@ -24,7 +24,7 @@ Wontumi mfa nni dwuma wɔ intanɛt so, wontumi mfa nni dwuma wɔ intranet so, na
 
 Nea ɛto so abien ne anim-awiei a ɛho tew a wɔde hwehwɛ nsɛm nyinaa mu.
 
-Nneɛma a wɔtaa de di dwuma a ɛyɛ kronkron a wɔde hwehwɛ nsɛm nyinaa mu no bi ne [lunrjs](https://lunrjs.com) ne [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Mprempren, pure front-end full-text hwehwɛ a wɔtaa yɛ no bi ne [lunrjs](//lunrjs.com) ne [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (egyina `lunrjs` nkɔso a ɛto so abien so).
 
 `lunrjs` Akwan mmienu na ɛwɔ hɔ a wɔfa so yɛ index, na abien no nyinaa wɔ wɔn ankasa haw.
 
@@ -42,11 +42,11 @@ Nneɛma a wɔtaa de di dwuma a ɛyɛ kronkron a wɔde hwehwɛ nsɛm nyinaa mu no
 
 Wɔ `lunrjs` akyi no, ano aduru afoforo bi wɔ hɔ a wɔde hwehwɛ nsɛm nyinaa mu, te sɛ :
 
-[fusejs](https://www.fusejs.io) , bu nsɛdi a ɛwɔ nhama a wobɛhwehwɛ mu no ho akontaa.
+[fusejs](//www.fusejs.io) , bu nsɛdi a ɛwɔ nhama a wobɛhwehwɛ mu no ho akontaa.
 
-Saa ano aduru yi adwumayɛ nyɛ papa koraa na wontumi mfa nni dwuma mma nsɛm a wɔakyerɛw nyinaa hwehwɛ (hwɛ [Fuse.js Abisade tenten gye bɛboro 10 sikani, ɔkwan bɛn so na wobɛma ayɛ yiye?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Saa ano aduru yi adwumayɛ nyɛ papa koraa na wontumi mfa nni dwuma mma nsɛm a wɔakyerɛw nyinaa hwehwɛ (hwɛ [Fuse.js Abisade tenten gye bɛboro 10 sikani, ɔkwan bɛn so na wobɛma ayɛ yiye?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Esiane sintɔ ahorow a ɛwɔ ano aduru a ɛwɔ hɔ dedaw no mu nti, `i18n.site` ayɛ ano aduru foforo a ɛho tew a ɛwɔ anim-akyi nsɛm a wɔakyerɛw nyinaa hwehwɛ ano aduru, a ɛwɔ su ahorow a edidi so yi :
 
@@ -62,7 +62,7 @@ Wɔ aseɛ ha yi, wɔde mfiridwuma ho dwumadie ho nsɛm `i18n.site` bɛba kɔ aky
 
 Asɛmfua nkyekyɛmu de brawsa no ankasa nsɛmfua nkyekyɛmu `Intl.Segmenter` di dwuma, na brawsa titiriw nyinaa boa saa nkitahodi yi.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Asɛmfua nkyekyɛmu `coffeescript` koodu no te sɛ nea edidi so yi
 
@@ -103,11 +103,11 @@ Fa krataa `url` ne version nɔma `ver` nhyehyɛe no mu, na hwehwɛ sɛ ebia krat
 
 Saa kwan yi so no, wobetumi anya indexing a ɛkɔ soro na wɔatew akontaabu dodow so.
 
-Wɔ anim-awieɛ nkitahodiɛ mu no, wɔbɛtumi akyerɛ loading progress bar a ɛwɔ index no mu de akwati lag bere a loading nea ɛdi kan Hwɛ "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [Twi](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Wɔ anim-awieɛ nkitahodiɛ mu no, wɔbɛtumi akyerɛ loading progress bar a ɛwɔ index no mu de akwati lag bere a loading nea ɛdi kan Hwɛ "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [Twi](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB a Ɛkorɔn Bere Koro Mu Nkyerɛwee
 
-[idb](https://www.npmjs.com/package/idb) adwuma no gyina asynchronous encapsulation a ɛwɔ IndexedDB
+[idb](//www.npmjs.com/package/idb) adwuma no gyina asynchronous encapsulation a ɛwɔ IndexedDB
 
 IndexedDB akenkan ne akyerɛw yɛ asynchronous. Sɛ woreyɛ index a, wɔde nkrataa bɛhyɛ bere koro mu de ayɛ index no.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Sɛnea ɛbɛyɛ a wobɛda nea wɔhwehwɛ no adi bere a nea ɔde di dwuma no rekyerɛw, sɛ nhwɛso no, sɛ wɔde `wor` hyɛ mu a, wɔda nsɛmfua a wɔde `wor` ahyɛ anim te sɛ `words` ne `work` adi.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Hwehwɛ kernel no de `prefix` pon no bedi dwuma ama asɛmfua a etwa to wɔ nsɛmfua nkyekyɛmu akyi de ahwehwɛ nsɛmfua a wɔde ahyɛ no anim nyinaa, na ahwehwɛ nnidiso nnidiso.
 
@@ -170,7 +170,7 @@ Fa no sɛ nsɛmfua `N` na ɛwɔ asɛmfua nkyekyɛmu no akyi Sɛ woresan aba a, w
 
 Nhwehwɛmu aba a wɔda no adi kan hwɛ hu sɛ asɛmmisa no yɛ pɛpɛɛpɛ, na nea efi mu ba a wɔde ahyɛ mu akyiri yi (klik load more button no so) hwɛ hu sɛ nkae dodow no.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Adesoa Bere a Wɔhwehwɛ
 
@@ -182,7 +182,7 @@ Hyɛ no nsow sɛ bere biara a wobɛsan ahwehwɛ bio wɔ `yield` akyi no , ɛsɛ 
 
 Sɛnea ɛbɛyɛ a wobɛda nea wɔhwehwɛ no adi bere a nea ɔde di dwuma no rekyerɛw, sɛ nhwɛso no, sɛ wɔde `wor` hyɛ mu a, wɔda nsɛmfua a wɔde `wor` ahyɛ anim te sɛ `words` ne `work` adi.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Hwehwɛ kernel no de `prefix` pon no bedi dwuma ama asɛmfua a etwa to wɔ nsɛmfua nkyekyɛmu akyi de ahwehwɛ nsɛmfua a wɔde ahyɛ no anim nyinaa, na ahwehwɛ nnidiso nnidiso.
 
@@ -212,7 +212,7 @@ Bere koro no ara mu no, esiane sɛ `service worker` de nsɛm nyinaa sie nti, sɛ
 
 Sɛ worekyerɛ nea wɔhwehwɛ no a, ti no din bɛda adi na bere a woakliki no akɔ ti no mu.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Bobɔ No Mua
 

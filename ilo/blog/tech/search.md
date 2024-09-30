@@ -24,7 +24,7 @@ Saan a mausar dayta iti offline, saan a mausar iti intranet, ken dakkel ti limit
 
 Ti maikadua ket puro a front-end full-text search.
 
-Dagiti kadawyan a maus-usar a puro a front-end a naan-anay a teksto a panagbiruk ket mairaman ti [lunrjs](https://lunrjs.com) ken [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Iti agdama, dagiti gagangay a puro a front-end a naan-anay a teksto a panagbiruk ket mairaman ti [lunrjs](//lunrjs.com) ken [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (naibasar iti `lunrjs` a sekondario a panagrang-ay).
 
 `lunrjs` Adda dua a wagas ti panagbangon kadagiti indeks, ken agpada nga addaan kadagiti bukodda a parikut.
 
@@ -42,11 +42,11 @@ Dagiti kadawyan a maus-usar a puro a front-end a naan-anay a teksto a panagbiruk
 
 Malaksid iti `lunrjs` , adda dagiti dadduma pay a solusion ti panagbiruk ti naan-anay a teksto, a kas ti :
 
-[fusejs](https://www.fusejs.io) , kalkularen ti panagpapada dagiti kuerdas a sapulen.
+[fusejs](//www.fusejs.io) , kalkularen ti panagpapada dagiti kuerdas a sapulen.
 
-Ti panagaramid daytoy a solusion ket nakurapay unay ken saan a mausar para iti panagbiruk ti naan-anay a teksto (kitaen ti [Fuse.js Ti atiddog a panagsaludsod ket mangala ti nasurok a 10 a segundo, kasano a ma-optimize daytoy?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Ti panagaramid daytoy a solusion ket nakurapay unay ken saan a mausar para iti panagbiruk ti naan-anay a teksto (kitaen ti [Fuse.js Ti atiddog a panagsaludsod ket mangala ti nasurok a 10 a segundo, kasano a ma-optimize daytoy?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+[TinySearch](//github.com/tinysearch/tinysearch) `goo` `good` `google`
 
 Gapu kadagiti pagkurangan dagiti agdama a solusion, `i18n.site` ket nangaramid ti baro a puro a front-end a full-text a solusion ti panagbiruk, nga addaan kadagiti sumaganad a pakabigbigan :
 
@@ -62,7 +62,7 @@ Iti baba, `i18n.site` a detalye ti teknikal a pannakaipatungpal ti maipakaammo a
 
 Ti panagbingbingay ti balikas ket agus-usar ti katutubo a panagbingbingay ti balikas ti browser `Intl.Segmenter` , ken amin dagiti kangrunaan a browser ket mangsuporta iti daytoy nga interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Ti kodigo ti word segmentation `coffeescript` ket kastoy
 
@@ -103,11 +103,11 @@ Ipasa ti array ti dokumento `url` ken bersion numero `ver` , ken sapulen no adda
 
 Iti daytoy a wagas, ti incremental indexing ket mabalin a maragpat ken ti kaadu ti panagkuenta ket makissayan.
 
-Iti panagtitinnulong ti sango a murdong, ti bara ti panagrang-ay ti panagkarga ti indeks ket mabalin a maiparang tapno maliklikan ti panagbayag no agkarga iti umuna a gundaway Kitaen ti "Bara ti Panagrang-ay nga addaan iti Animasion, Naibatay iti Maymaysa progress + Puro css Implementasion" [Ingles](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Insik](https://juejin.cn/post/7413586285954154522) .
+Iti panagtitinnulong ti sango a murdong, ti bara ti panagrang-ay ti panagkarga ti indeks ket mabalin a maiparang tapno maliklikan ti panagbayag no agkarga iti umuna a gundaway Kitaen ti "Bara ti Panagrang-ay nga addaan iti Animasion, Naibatay iti Maymaysa progress + Puro css Implementasion" [Ingles](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Insik](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Nangato Nga Aggigiddan a Panagsurat
 
-Ti proyekto ket [idb](https://www.npmjs.com/package/idb) a naibatay iti asynchronous encapsulation ti IndexedDB
+Ti proyekto ket [idb](//www.npmjs.com/package/idb) a naibatay iti asynchronous encapsulation ti IndexedDB
 
 Dagiti panagbasa ken panagsurat ti IndexedDB ket asynchronous. No mangpartuat ti indeks, dagiti dokumento ket aggigiddan a maikarga tapno mangpartuat ti indeks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Tapno maipakita dagiti resulta ti panagsapul bayat nga ag-type ti agar-aramat, kas pagarigan, no maiserrek `wor` , maiparang dagiti balikas a nasaksakbay iti `wor` a kas iti `words` ken `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ti kernel ti panagbiruk ket agusarto ti `prefix` a lamisaan para iti maudi a balikas kalpasan ti panagbingbingay ti balikas tapno makasarak kadagiti amin a balikas a nairugi iti daytoy, ken agsapul nga agsasaruno.
 
@@ -170,7 +170,7 @@ Ipagarup nga adda dagiti `N` a balikas kalpasan ti panagbingbingay ti balikas No
 
 Dagiti resulta ti panagbiruk a maiparang nga umuna ket mangsigurado ti kinaumiso ti panagsaludsod, ken dagiti resulta a naikarga kalpasanna (i-klik ti buton ti load more) ket mangsigurado ti rate ti panaglagip.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Karga Ti Panagkasapulan
 
@@ -182,7 +182,7 @@ Imutektekanyo a tunggal agsapulka manen kalpasan ti `yield` , kasapulam a luktan
 
 Tapno maipakita dagiti resulta ti panagsapul bayat nga ag-type ti agar-aramat, kas pagarigan, no maiserrek `wor` , maiparang dagiti balikas a nasaksakbay iti `wor` a kas iti `words` ken `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Ti kernel ti panagbiruk ket agusarto ti `prefix` a lamisaan para iti maudi a balikas kalpasan ti panagbingbingay ti balikas tapno makasarak kadagiti amin a balikas a nairugi iti daytoy, ken agsapul nga agsasaruno.
 
@@ -212,7 +212,7 @@ Ti puro a solusion ti panagbiruk ti front-end ti `i18n.site` ket nasayaat para i
 
 No maipakita dagiti resulta ti panagbirok, maiparang ti nagan ti kapitulo ken ma-navigate ti kapitulo no mai-click.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Gupgopen
 

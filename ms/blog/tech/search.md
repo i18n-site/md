@@ -24,7 +24,7 @@ Ia tidak boleh digunakan di luar talian, tidak boleh digunakan pada intranet, da
 
 Yang kedua ialah carian teks penuh bahagian hadapan tulen.
 
-Carian teks penuh hadapan tulen yang biasa digunakan termasuk [lunrjs](https://lunrjs.com) dan [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Pada masa ini, carian teks penuh bahagian hadapan tulen biasa termasuk [lunrjs](//lunrjs.com) dan [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (berdasarkan `lunrjs` pembangunan sekunder).
 
 `lunrjs` Terdapat dua cara untuk membina indeks, dan kedua-duanya mempunyai masalah mereka sendiri.
 
@@ -42,11 +42,11 @@ Carian teks penuh hadapan tulen yang biasa digunakan termasuk [lunrjs](https://l
 
 Selain `lunrjs` , terdapat beberapa penyelesaian carian teks penuh lain, seperti :
 
-[fusejs](https://www.fusejs.io) , hitung persamaan antara rentetan untuk mencari.
+[fusejs](//www.fusejs.io) , hitung persamaan antara rentetan untuk mencari.
 
-Prestasi penyelesaian ini sangat lemah dan tidak boleh digunakan untuk carian teks penuh (lihat [Fuse.js Pertanyaan panjang mengambil masa lebih daripada 10 saat, bagaimana untuk mengoptimumkannya?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Prestasi penyelesaian ini sangat lemah dan tidak boleh digunakan untuk carian teks penuh (lihat [Fuse.js Pertanyaan panjang mengambil masa lebih daripada 10 saat, bagaimana untuk mengoptimumkannya?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , gunakan penapis Bloom untuk mencari, tidak boleh digunakan untuk carian awalan (contohnya, masukkan `goo` , cari `good` , `google` ), dan tidak boleh mencapai kesan penyiapan automatik yang serupa.
+[TinySearch](//github.com/tinysearch/tinysearch) , gunakan penapis Bloom untuk mencari, tidak boleh digunakan untuk carian awalan (contohnya, masukkan `goo` , cari `good` , `google` ), dan tidak boleh mencapai kesan penyiapan automatik yang serupa.
 
 Disebabkan kelemahan penyelesaian sedia ada, `i18n.site` telah membangunkan penyelesaian carian teks penuh bahagian hadapan tulen baharu, yang mempunyai ciri-ciri berikut :
 
@@ -62,7 +62,7 @@ Di bawah, `i18n.site` butiran pelaksanaan teknikal akan diperkenalkan secara ter
 
 Pembahagian perkataan menggunakan pembahagian perkataan asli penyemak imbas `Intl.Segmenter` , dan semua penyemak imbas arus perdana menyokong antara muka ini.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Kod pembahagian perkataan `coffeescript` adalah seperti berikut
 
@@ -103,11 +103,11 @@ Lulus dalam tatasusunan dokumen `url` dan nombor versi `ver` , dan cari sama ada
 
 Dengan cara ini, pengindeksan tambahan boleh dicapai dan jumlah pengiraan dikurangkan.
 
-Dalam interaksi bahagian hadapan, bar kemajuan pemuatan indeks boleh dipaparkan untuk mengelakkan ketinggalan semasa memuatkan buat kali pertama Lihat "Bar Kemajuan dengan Animasi, Berdasarkan Single progress + Pure css Implementation" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+Dalam interaksi bahagian hadapan, bar kemajuan pemuatan indeks boleh dipaparkan untuk mengelakkan ketinggalan semasa memuatkan buat kali pertama. Lihat "Bar Kemajuan dengan Animasi, Berdasarkan Single progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522) .
 
 ### Penulisan Serentak Tinggi IndexedDB
 
-Projek ini [idb](https://www.npmjs.com/package/idb) berdasarkan enkapsulasi tak segerak bagi IndexedDB
+Projek ini [idb](//www.npmjs.com/package/idb) berdasarkan enkapsulasi tak segerak bagi IndexedDB
 
 Baca dan tulis IndexedDB adalah tidak segerak. Apabila membuat indeks, dokumen akan dimuatkan serentak untuk mencipta indeks.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Untuk memaparkan hasil carian semasa pengguna menaip, contohnya, apabila `wor` dimasukkan, perkataan yang diawali dengan `wor` seperti `words` dan `work` dipaparkan.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel carian akan menggunakan jadual `prefix` untuk perkataan terakhir selepas pembahagian perkataan untuk mencari semua perkataan yang diawali dengannya dan cari mengikut urutan.
 
@@ -170,7 +170,7 @@ Andaikan terdapat `N` perkataan selepas pembahagian perkataan Apabila mengembali
 
 Hasil carian yang dipaparkan terlebih dahulu memastikan ketepatan pertanyaan, dan hasil carian dimuatkan kemudiannya (klik butang muatkan lagi) memastikan kadar panggil balik.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Muatkan Atas Permintaan
 
@@ -182,7 +182,7 @@ Ambil perhatian bahawa setiap kali anda mencari semula selepas `yield` , anda pe
 
 Untuk memaparkan hasil carian semasa pengguna menaip, contohnya, apabila `wor` dimasukkan, perkataan yang diawali dengan `wor` seperti `words` dan `work` dipaparkan.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Kernel carian akan menggunakan jadual `prefix` untuk perkataan terakhir selepas pembahagian perkataan untuk mencari semua perkataan yang diawali dengannya dan cari mengikut urutan.
 
@@ -212,7 +212,7 @@ Penyelesaian carian bahagian hadapan tulen `i18n.site` dioptimumkan untuk `MarkD
 
 Apabila memaparkan hasil carian, nama bab akan dipaparkan dan bab akan dilayari apabila diklik.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Rumuskan
 

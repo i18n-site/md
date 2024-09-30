@@ -24,7 +24,7 @@ Seda ei saa kasutada võrguühenduseta, seda ei saa kasutada sisevõrgus ja sell
 
 Teine on puhas esiotsa täistekstiotsing.
 
-Tavaliselt kasutatavad puhtad esiotsa täistekstiotsingud [lunrjs](https://lunrjs.com) ja [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+Praegu [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) tavalised puhtad `lunrjs` täistekstiotsingud [lunrjs](//lunrjs.com)
 
 `lunrjs` Indeksite koostamiseks on kaks võimalust ja mõlemal on oma probleemid.
 
@@ -42,11 +42,11 @@ Tavaliselt kasutatavad puhtad esiotsa täistekstiotsingud [lunrjs](https://lunrj
 
 Lisaks `lunrjs` -le on veel mõned täistekstiotsingu lahendused, näiteks :
 
-[fusejs](https://www.fusejs.io) arvutage otsitavate stringide sarnasus.
+[fusejs](//www.fusejs.io) arvutage otsitavate stringide sarnasus.
 
-Selle lahenduse jõudlus on äärmiselt halb ja seda ei saa kasutada täistekstiotsinguks (vt [Fuse.js Pikk päring võtab rohkem kui 10 sekundit, kuidas seda optimeerida?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Selle lahenduse jõudlus on äärmiselt halb ja seda ei saa kasutada täistekstiotsinguks (vt [Fuse.js Pikk päring võtab rohkem kui 10 sekundit, kuidas seda optimeerida?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) kasutage otsimiseks Bloomi filtrit, seda ei saa kasutada eesliidete otsimiseks (näiteks sisestage `goo` , otsige `good` , `google` ) ega saa saavutada sarnast automaatse lõpetamise efekti.
+[TinySearch](//github.com/tinysearch/tinysearch) kasutage otsimiseks Bloomi filtrit, seda ei saa kasutada eesliidete otsimiseks (näiteks sisestage `goo` , otsige `good` , `google` ) ega saa saavutada sarnast automaatse lõpetamise efekti.
 
 Olemasolevate lahenduste puuduste tõttu töötas `i18n.site` välja uue puhta esiotsa täistekstiotsingu lahenduse, millel on järgmised omadused :
 
@@ -62,7 +62,7 @@ Allpool tutvustatakse üksikasjalikult `i18n.site` tehnilist teostuse üksikasju
 
 Sõnade segmenteerimine kasutab brauseri natiivset sõna segmenteerimist `Intl.Segmenter` ja kõik tavabrauserid toetavad seda liidest.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Sõna segmenteerimise `coffeescript` kood on järgmine
 
@@ -103,11 +103,11 @@ Sisestage dokumendi `url` massiiv ja versiooni number `ver` ning otsige, kas dok
 
 Sel viisil on võimalik saavutada järkjärguline indekseerimine ja arvutuste maht väheneb.
 
-Esiotsa interaktsioonis saab kuvada indeksi laadimise edenemisriba, et vältida viivitust esmakordsel laadimisel Vt "Edemisriba koos animatsiooniga, põhineb ühel progress + Puhas css rakendamine" [Inglise](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Hiina](https://juejin.cn/post/7413586285954154522) .
+Esiotsa interaktsioonis saab kuvada indeksi laadimise edenemisriba, et vältida viivitust esmakordsel laadimisel Vt "Edemisriba koos animatsiooniga, põhineb ühel progress + Puhas css rakendamine" [Inglise](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Hiina](//juejin.cn/post/7413586285954154522) .
 
 ### IndexedDB Kõrge Samaaegne Kirjutamine
 
-Projekt on [idb](https://www.npmjs.com/package/idb) IndexedDB
+Projekt on [idb](//www.npmjs.com/package/idb) IndexedDB
 
 IndexedDB lugemine ja kirjutamine on asünkroonsed. Indeksi loomisel laaditakse dokumendid indeksi loomiseks samaaegselt.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Otsingutulemuste kuvamiseks kasutaja tippimise ajal, näiteks kui sisestatakse `wor` , kuvatakse sõnad, mille eesliide on `wor` näiteks `words` ja `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Otsingutuum kasutab `prefix` tabelit viimase sõna jaoks pärast sõna segmenteerimist, et leida kõik selle eesliitega sõnad ja otsida järjest.
 
@@ -170,7 +170,7 @@ Oletame, et sõna segmenteerimise järel on `N` sõna. Tulemuste tagastamisel ta
 
 Esmalt kuvatavad otsingutulemused tagavad päringu täpsuse ja hiljem laaditud tulemused (klõpsake nuppu Laadi rohkem) tagavad tagasikutsumise määra.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Koormus Nõudmisel
 
@@ -182,7 +182,7 @@ Pange tähele, et iga kord, kui otsite uuesti pärast `yield` , peate uuesti ava
 
 Otsingutulemuste kuvamiseks kasutaja tippimise ajal, näiteks kui sisestatakse `wor` , kuvatakse sõnad, mille eesliide on `wor` näiteks `words` ja `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Otsingutuum kasutab `prefix` tabelit viimase sõna jaoks pärast sõna segmenteerimist, et leida kõik selle eesliitega sõnad ja otsida järjest.
 
@@ -212,7 +212,7 @@ Samal ajal, kuna `service worker` salvestab kõik artiklid vahemällu, on päras
 
 Otsingutulemuste kuvamisel kuvatakse peatüki nimi ja klõpsamisel navigeeritakse peatükis.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Tehke Kokkuvõte
 

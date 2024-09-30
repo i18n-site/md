@@ -24,7 +24,7 @@ Ní féidir é a úsáid as líne, ní féidir é a úsáid ar an inlíon, agus 
 
 Is é an dara ceann cuardach téacs iomlán tosaigh íon.
 
-I measc na gcuardach lántéacs tosaigh íon a úsáidtear go coitianta tá [lunrjs](https://lunrjs.com) agus [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+I láthair na huaire, áirítear ar chuardaigh choitianta lántéacs tosaigh íon [lunrjs](//lunrjs.com) agus [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (bunaithe ar `lunrjs` forbairt thánaisteach).
 
 `lunrjs` Tá dhá bhealach ann le hinnéacsanna a thógáil, agus tá a gcuid fadhbanna féin ag an mbeirt.
 
@@ -42,11 +42,11 @@ I measc na gcuardach lántéacs tosaigh íon a úsáidtear go coitianta tá [lun
 
 Chomh maith le `lunrjs` , tá roinnt réiteach cuardaigh téacs iomlán eile, mar :
 
-[fusejs](https://www.fusejs.io) , ríomh an chosúlacht idir teaghráin chun cuardach a dhéanamh.
+[fusejs](//www.fusejs.io) , ríomh an chosúlacht idir teaghráin chun cuardach a dhéanamh.
 
-Tá feidhmíocht an réitigh seo an-lag agus ní féidir é a úsáid le haghaidh cuardach téacs iomlán (féach [Fuse.js Tógann fiosrúchán fada níos mó ná 10 soicind, conas é a bharrfheabhsú?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+Tá feidhmíocht an réitigh seo an-lag agus ní féidir é a úsáid le haghaidh cuardach téacs iomlán (féach [Fuse.js Tógann fiosrúchán fada níos mó ná 10 soicind, conas é a bharrfheabhsú?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
 
-[TinySearch](https://github.com/tinysearch/tinysearch) , úsáid scagaire Bloom chun cuardach a dhéanamh, ní féidir é a úsáid le haghaidh cuardaigh réimír (mar shampla, cuir isteach `goo` , cuardaigh `good` , `google` ), agus ní féidir leis an éifeacht críochnaithe uathoibríoch chomhchosúil a bhaint amach.
+[TinySearch](//github.com/tinysearch/tinysearch) , úsáid scagaire Bloom chun cuardach a dhéanamh, ní féidir é a úsáid le haghaidh cuardaigh réimír (mar shampla, cuir isteach `goo` , cuardaigh `good` , `google` ), agus ní féidir éifeacht críochnaithe uathoibríoch chomhchosúil a bhaint amach.
 
 Mar gheall ar easnaimh na réitigh atá ann cheana féin, d'fhorbair `i18n.site` réiteach cuardaigh téacs iomlán nua tosaigh íon, a bhfuil na tréithe seo a leanas aige :
 
@@ -62,7 +62,7 @@ Anseo thíos, tabharfar isteach sonraí cur chun feidhme teicniúil `i18n.site` 
 
 Úsáideann deighilt focal deighilt focal dúchais an bhrabhsálaí `Intl.Segmenter` , agus tacaíonn gach brabhsálaí príomhshrutha leis an gcomhéadan seo.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 Is é seo a leanas an cód deighilte focal `coffeescript`
 
@@ -103,11 +103,11 @@ Cuir isteach an t-eagar de dhoiciméad `url` agus uimhir leagain `ver` , agus cu
 
 Ar an mbealach seo, is féidir innéacsú incriminteach a bhaint amach agus laghdaítear an méid ríomh.
 
-San [idirghníomhú](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) tosaigh, / féidir barra dul chun cinn luchtaithe an progress + a thaispeáint css moill a sheachaint nuair a bhíonn [tú](https://juejin.cn/post/7413586285954154522) ag luchtú den chéad uair.
+San [idirghníomhú](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) tosaigh, / féidir barra dul chun cinn luchtaithe an progress + a thaispeáint css moill a sheachaint nuair a bhíonn [tú](//juejin.cn/post/7413586285954154522) ag luchtú den chéad uair.
 
 ### Scríbhneoireacht Ard Comhthráthach IndexedDB
 
-Tá an tionscadal [idb](https://www.npmjs.com/package/idb) bunaithe ar an imchochlú asincrónach de IndexedDB
+Tá an tionscadal [idb](//www.npmjs.com/package/idb) bunaithe ar an imchochlú asincrónach de IndexedDB
 
 Tá léann agus scríobh IndexedDB asincrónach. Nuair a bheidh innéacs á chruthú, déanfar doiciméid a luchtú i gcomhthráth chun an t-innéacs a chruthú.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 Chun torthaí cuardaigh a thaispeáint agus an t-úsáideoir ag clóscríobh, mar shampla, nuair a chuirtear `wor` isteach, taispeántar focail a bhfuil réimír `wor` orthu mar `words` agus `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Úsáidfidh an t-eithne cuardaigh an tábla `prefix` don fhocal deiridh tar éis deighilt focal chun gach focal a bhfuil réimír leis a aimsiú, agus cuardach a dhéanamh in ord.
 
@@ -170,7 +170,7 @@ Glac leis go bhfuil `N` focal tar éis deighilt na bhfocal Nuair a bheidh tortha
 
 Cinntíonn na torthaí cuardaigh a thaispeántar ar dtús cruinneas an fhiosrúcháin, agus cinntíonn na torthaí a lódáiltear ina dhiaidh sin (cliceáil ar an gcnaipe ualach níos mó) an ráta athghairme.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Luchtaigh Ar Éileamh
 
@@ -182,7 +182,7 @@ Tabhair faoi deara go gcaithfidh tú idirbheart fiosrúcháin de `IndexedDB` a a
 
 Chun torthaí cuardaigh a thaispeáint agus an t-úsáideoir ag clóscríobh, mar shampla, nuair a chuirtear `wor` isteach, taispeántar focail a bhfuil réimír `wor` orthu mar `words` agus `work` .
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 Úsáidfidh an t-eithne cuardaigh an tábla `prefix` don fhocal deiridh tar éis deighilt focal chun gach focal a bhfuil réimír leis a aimsiú, agus cuardach a dhéanamh in ord.
 
@@ -212,7 +212,7 @@ Tá réiteach cuardaigh ceann tosaigh íon `i18n.site` optamaithe le haghaidh `M
 
 Nuair a thaispeánfar torthaí cuardaigh, taispeánfar ainm na caibidle agus déanfar an chaibidil a nascleanúint nuair a chliceáiltear uirthi.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Achoimre
 
