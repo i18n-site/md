@@ -24,7 +24,7 @@ It cannot be used offline or on the intranet, and has significant limitations. T
 
 The second one is pure front-end full-text search.
 
-Commonly used pure front-end full-text searches include [lunrjs](https://lunrjs.com) and [ElasticLunr.js] [https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发).
+At present, the common pure front-end full-text searches include [lunrjs](//lunrjs.com) and [ElasticLunr.js](//github.com/weixsong/elasticlunr.js) (based on the secondary development of `lunrjs`).
 
 `lunrjs` has two index-building methods, and both have their own problems.
 
@@ -42,11 +42,11 @@ Commonly used pure front-end full-text searches include [lunrjs](https://lunrjs.
 
 In addition to `lunrjs`, there are some other full-text search solutions, such as:
 
-[fusejs](https://www.fusejs.io), which calculates the similarity between strings for searching.
+[fusejs](//www.fusejs.io), which calculates the similarity between strings for searching.
 
-The performance of this solution is extremely poor and cannot be used for full-text search (see [Fuse.js Long query takes more than 10 seconds, how to optimize?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+The performance of this solution is extremely poor and cannot be used for full-text search (refer to [Fuse.js Long query takes more than 10 seconds, how to optimize?](//stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
 
-[TinySearch](https://github.com/tinysearch/tinysearch), which uses a Bloom filter for searching, cannot be used for prefix search (for example, entering `goo`, searching for `good`, `google`), and cannot achieve a similar automatic completion effect.
+[TinySearch](//github.com/tinysearch/tinysearch), which uses a Bloom filter to search and cannot be used for prefix search (for example, enter `goo`, and search for `good`, `google`), and cannot achieve a similar automatic completion effect.
 
 Due to the shortcomings of the existing solutions, `i18n.site` has independently developed a new pure front-end full-text search solution, which has the following characteristics:
 
@@ -62,7 +62,7 @@ Below, the technical implementation details of `i18n.site` will be introduced in
 
 Word segmentation uses the browser's native word segmentation `Intl.Segmenter`, and all mainstream browsers support this interface.
 
-![](https://p.3ti.site/1727667759.avif)
+![](//p.3ti.site/1727667759.avif)
 
 The word segmentation `coffeescript` code is as follows:
 
@@ -103,11 +103,11 @@ An array of document `url` and version number `ver` is passed in. The system sea
 
 By doing so, incremental indexing is achieved, which in turn reduces the computational load.
 
-In terms of front-end interaction, a progress bar indicating the loading of the index can be displayed to prevent lag during the initial load. Refer to "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [English](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522).
+In terms of front-end interaction, the loading progress bar of the index can be displayed to avoid the sense of lag when loading for the first time. See "Progress Bar with Animation, Based on a Single progress + Pure css Implementation" [English](//dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](//juejin.cn/post/7413586285954154522).
 
 ### High Concurrency Writing in IndexedDB
 
-The project is developed using the asynchronous encapsulation of IndexedDB, based on the [idb](https://www.npmjs.com/package/idb) library.
+The project is developed based on the asynchronous encapsulation [idb](//www.npmjs.com/package/idb) of IndexedDB.
 
 IndexedDB operations, both reads and writes, are asynchronous. During index creation, documents are loaded concurrently to build the index.
 
@@ -146,7 +146,7 @@ prefixPush = pusher()
 
 To realize the display of search results while the user is inputting, for example, when ` Wor` is entered, words such as `words` and `work` prefixed with ` Wor` are displayed.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 The search kernel will make use of the `prefix` table for the last word after word segmentation to find all words prefixed with it, and search in sequence.
 
@@ -170,7 +170,7 @@ Suppose there are `N` words after word segmentation. When returning results, the
 
 The initially displayed search results ensure the accuracy of the query, and the subsequent loaded results (by clicking the load more button) ensure the recall rate.
 
-![](https://p.3ti.site/1727684564.avif)
+![](//p.3ti.site/1727684564.avif)
 
 ## Load on Demand
 
@@ -182,7 +182,7 @@ Note that each time after `yield` and when searching again, a query transaction 
 
 To realize the display of search results while the user is inputting, for example, when ` Wor` is entered, words such as `words` and `work` prefixed with ` Wor` are displayed.
 
-![](https://p.3ti.site/1727684944.avif)
+![](//p.3ti.site/1727684944.avif)
 
 The search kernel will make use of the `prefix` table for the last word after word segmentation to find all words prefixed with it, and search in sequence.
 
@@ -212,7 +212,7 @@ The pure front-end search solution of `i18n.site` is optimized for `MarkDown` do
 
 When presenting the display of search results, the chapter name will be shown and it will be navigated to when clicked.
 
-![](https://p.3ti.site/1727686552.avif)
+![](//p.3ti.site/1727686552.avif)
 
 ## Summarize
 
