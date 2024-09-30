@@ -6,27 +6,27 @@
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
-本文将分享`i18n.site`纯前端全文搜索技术实现，访问[i18n.site](//i18n.site)可体验搜索效果。
+本文将分享`i18n.site`纯前端全文搜索的技术实现，访问[i18n.site](//i18n.site)可体验搜索效果。
 
-代码开源 [搜索内核](//github.com/i18n-site/ie/tree/main/qy) / [交互界面](//github.com/i18n-site/plugin/tree/main/qy)
+代码开源 : [搜索内核](//github.com/i18n-site/ie/tree/main/qy) / [交互界面](//github.com/i18n-site/plugin/tree/main/qy)
 
 ## 无服务全文搜索解决方案综述
 
-对应文档/个人博客等小型网站纯静态而言，自己搭建全文搜索后台无疑太重，无服务的全文搜索无疑是更好的权重。
+对应文档/个人博客等中小型纯静态网站而言，自建全文搜索后台太重，无服务全文搜索是更常见的选择。
 
-现有的无服务全文搜索解决方案分两大类。
+无服务全文搜索解决方案分两大类:
 
-其一，是类似 [algolia.com](//algolia.com) 的第三方搜索服务商，提供了前端全文搜索的组件。
+其一，类似 [algolia.com](//algolia.com) 第三方搜索服务商，提供了全文搜索的前端组件。
 
-此类服务需付费，且因为网站合规性的问题，中国大陆用户无法使用。
+此类服务需按搜索量付费，且常因网站合规性等问题，导致中国大陆用户无法使用。
 
 无法离线使用，无法在内网使用，局限性很大。 本文不多做讨论。
 
-其二，是纯前端的全文搜索。
+其二，就是纯前端的全文搜索。
 
-比较知名纯前端的全文搜索的有 [lunrjs](https://lunrjs.com) 和 [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发)。
+当下常见纯前端的全文搜索的有 [lunrjs](https://lunrjs.com) 和 [ElasticLunr.js][https://github.com/weixsong/elasticlunr.js](基于`lunrjs`二次开发)。
 
-`lunrjs` 有两种索引构建方式，但是又都有各自的问题。
+`lunrjs` 有两种索引构建方式，又都有各自的问题。
 
 1. 预构建索引文件
 
