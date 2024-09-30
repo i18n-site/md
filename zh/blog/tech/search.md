@@ -16,9 +16,11 @@
 
 现有的无服务全文搜索解决方案分两大类。
 
-其一，是类似 [algolia.com](https://algolia.com) 的第三方搜索服务商，提供了前端全文搜索的组件。
+其一，是类似 [algolia.com](//algolia.com) 的第三方搜索服务商，提供了前端全文搜索的组件。
 
-但是此类服务需付费，并且因为网络的问题，中国大陆用户无法使用，这里就不多做讨论。
+此类服务需付费，且因为网站合规性的问题，中国大陆用户无法使用。
+
+无法离线使用，无法在内网使用，局限性很大。 本文不多做讨论。
 
 其二，是纯前端的全文搜索。
 
@@ -48,8 +50,9 @@
 
 1. 支持多语言搜索，体积小，搜索内核打包`gzip`后体积为`6.9KB` (作为对比，`lunrjs` 体积为 `25KB`)
 1. 基于 `indexedb` 构建倒排索引，内存占用少，速度快
-1. 增量索引，当文档有新增/改动的时候，只对增改的文档重新索引，减少了计算量
+1. 当文档有新增/改动的时候，只对增改的文档重新索引，减少了计算量
 1. 支持前缀搜索，可以在用户输入的同时实时展示搜索结果
+1. 离线可用
 
 下面，将详细介绍 `i18n.site` 技术实现细节。
 
@@ -66,10 +69,11 @@ SEG = new Intl.Segmenter 0, granularity: "word"
 
 seg = (txt) =>
   r = []
-  for i from SEG.segment(txt)
-    i = i.segment.trim()
-    if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
-      r.push i
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
   r
 
 export default seg
@@ -78,40 +82,140 @@ export segqy = (q) =>
   seg q.toLocaleLowerCase()
 ```
 
-其中 `/\p{P}/` 是匹配标点符号的正则表达式，具体匹配的符号包括：`! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~ 。`。
+其中:
+
+* `/\p{P}/` 是匹配标点符号的正则表达式，具体匹配的符号包括：`! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~ 。`。
+* `split('.')` 是因为`Firefox`浏览器分词不切分`.`。
+
 
 ## 索引构建
 
+`IndexedDB` 中创建了5 个对象存储表 :
 
+* `word` : id - 词
+* `doc`: id - 文档url - 文档版本号
+* `docWord` : 文档id - 词id的数组
+* `prefix` : 前缀 - 词id的数组
+* `rindex` : 词id - 文档id : 行号的数组
 
+传入文档的`url`和版本号`ver`的数组，在`doc`表中查找文档是否存在，如果不存在，则创建倒排索引。同时，移除那些未传入文档的倒排索引。
 
-文件索引
+如此就可以实现增量索引，降低了计算量。
 
-重新加载
+前端交互上，可以显示索引的加载进度条避免首次加载时的卡顿感，参见《带动画的进度条，基于单个 progress + 纯css实现》[英文](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](https://juejin.cn/post/7413586285954154522)。
 
-实时索引
+### IndexedDB 高并发写入
 
-速度
+项目基于 IndexedDB 的异步封装 [idb](https://www.npmjs.com/package/idb) 开发。
 
+IndexedDB 读取和写入都是异步的。而创建索引的时候会并发地加载文档创建索引。
 
-indexedb
+为了避免竞争性写入导致部分数据丢失，可以参考下面的`coffeescript`代码，在读写之间加一个`ing`缓存拦截竞争性写入。
 
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
 
-## 代码库
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
 
-## 分词
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
 
-## 倒排索引
+rindexPush = pusher()
+prefixPush = pusher()
+```
 
-### process 进度条
+## 前缀实时搜索
 
-## 前缀搜索
+为了实现用户输入的同时展示搜索结果，比如输入 `wor` 的时候，展示 `words` 和 `work` 等以 `wor` 为前缀的单词。
 
-## 按需加载搜索结果
+![](https://p.3ti.site/1727684944.avif)
 
-### 全匹配
+搜索内核会对分词后的最后一个词借助`prefix`表，找到所有以它为前缀的词，依次搜索。
 
-### 部分匹配
+前端交互中还采用了防抖函数 `debounce`(实现如下)，降低用户输入触发搜索的频率减少计算量。
 
-## IndexedDB 高并发写入
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## 准确率和查全率
+
+搜索会先将用户输入的关键词进行分词。
+
+假设有分词之后有`N`个词，返回结果的时候，会先返回包含所有关键词的结果，然后再返回包含 `N-1`、`N-2`、… 、`1` 个关键词的结果。
+
+优先展示的搜索结果保证了查询的准确率，后续加载的结果(点击加载更多按钮)保证了查全率。
+
+![](https://p.3ti.site/1727684564.avif)
+
+## 按需加载
+
+为了提高响应速度，搜索借助`yield`生成器实现了按需加载的方式，每查询到`limit`个结果就返回一次。
+
+注意，每次 `yield` 之后再次搜索时，需要重新打开一个 `IndexedDB` 的查询事务。
+
+## 前缀实时搜索
+
+为了实现用户输入的同时展示搜索结果，比如输入 `wor` 的时候，展示 `words` 和 `work` 等以 `wor` 为前缀的单词。
+
+![](https://p.3ti.site/1727684944.avif)
+
+搜索内核会对分词后的最后一个词借助`prefix`表，找到所有以它为前缀的词，依次搜索。
+
+前端交互中还采用了防抖函数 `debounce`(实现如下)，降低用户输入触发搜索的频率减少计算量。
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## 离线可用
+
+索引表没有存储原文，只存储词，减少了存储量。
+
+搜索结果高亮需要重新加载原文，配合`service worker`即可避免重复的网络请求。
+
+同时，因为`service worker`会缓存所有文章，所以用户一旦进行过搜索，整个网站包含搜索在内都离线可用。
+
+## 对 MarkDown 文档的显示优化
+
+`i18n.site` 的纯前端搜索解决方案针对 `MarkDown` 文档做了优化。
+
+展示显示搜索结果时，会显示章节名称，并在点击时定位到该章节。
+
+![](https://p.3ti.site/1727686552.avif)
+
+## 总结
+
+纯前端实现的倒排全文搜索，响应速度快，无需服务器。
+
+非常适合文档、个人博客等中小型网站。
 
