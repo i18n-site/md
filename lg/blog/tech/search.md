@@ -1,7 +1,219 @@
-# Pure Front-End Okunoonya Okukyusiddwa
+# Pure Front-End Inverted Okunoonya Ebiwandiiko Ebijjuvu
 
 ## Olunyiriri
 
-Okunoonya okw’ennimi eziwera okulongoofu okukyusiddwa mu maaso mu ngeri ey’obwengula
+Oluvannyuma lwa wiiki eziwerako ez'okukulaakulanya, [i18n.site](//i18n.site) (ekintu ekitali kikyukakyuka markdown multilingualtranslation & okuzimba omukutu gwa yintaneeti) kati kiwagira okunoonya ebiwandiiko byonna eby'omu maaso ebirongoofu.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Ekiwandiiko kino kijja kugabana ku kussa mu nkola tekinologiya w’okunoonya `i18n.site` pure front-end full-text Visit [i18n.site](//i18n.site)
+
+Code open source [okunoonya](//github.com/i18n-site/plugin/tree/main/qy) [kernel](//github.com/i18n-site/ie/tree/main/qy) /
+
+## Okulambika Kw'ebigonjoola Eby'okunoonya Ebiwandiiko Ebijjuvu Ebitaliiko Seva
+
+Ku mikutu emitono nga ebiwandiiko/buloogu ez’obuntu ezibeera ezitakyukakyuka zokka, awatali kubuusabuusa kizitowa nnyo okuzimba backend y’okunoonya ebiwandiiko ebijjuvu wekka, era okunoonya ebiwandiiko ebijjuvu awatali mpeereza awatali kubuusabuusa buzito busingako.
+
+Ebigonjoola eby’okunoonya ebiwandiiko ebijjuvu ebiriwo nga tebirina seeva bigwa mu biti bibiri ebigazi.
+
+Ekimu kye kitongole eky’okusatu ekigaba empeereza y’okunoonya okufaananako [algolia.com](//algolia.com) egaba ebitundu by’okunoonya eby’ebiwandiiko ebijjuvu eby’omu maaso.
+
+Empeereza ng’ezo zeetaaga okusasula era tezifunibwa bakozesa ku lukalu lwa China olw’ensonga z’okugoberera amateeka g’omukutu gwa yintaneeti.
+
+Tesobola kukozesebwa offline, tesobola kukozesebwa ku intranet, era erina obuzibu bungi. Ekitundu kino tekiyogera ku bingi.
+
+Ekyokubiri kwe kunoonya ebiwandiiko byonna mu maaso okulongoofu.
+
+Okunoonya okumanyiddwa ennyo okw'ebiwandiiko ebijjuvu eby'omu maaso omulongoofu mulimu [lunrjs](https://lunrjs.com) ne [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+
+`lunrjs` Waliwo engeri bbiri ez’okuzimba indexes, naye zombi zirina ebizibu byazo.
+
+1. Fayiro za index ezizimbibwa nga tezinnabaawo
+
+   Olw’okuba index erimu ebigambo okuva mu biwandiiko byonna, munene mu bunene.
+   Buli ekiwandiiko lwe kyongerwako oba okukyusibwa, fayiro empya ey'omuko erina okutikkibwa.
+   Kijja kwongera ku budde bw’omukozesa okulinda n’okutwala bandwidth nnyingi.
+
+2. Tikka ebiwandiiko era ozimbe index ku nnyonyi
+
+   Okuzimba index mulimu gwa kubala nnyo Okuddamu okuzimba index buli lw’ogiyingira kijja kuleeta okuddirira okweyoleka n’obumanyirivu obubi obw’omukozesa.
+
+Ng’oggyeeko `lunrjs` , waliwo ebirala eby’okunoonya ebiwandiiko ebijjuvu, gamba nga :
+
+[fusejs](https://www.fusejs.io) , bala okufaanagana wakati w'ennyiriri okunoonya.
+
+Enkola y’okugonjoola kino mbi nnyo era tesobola kukozesebwa kunoonya biwandiiko byonna (laba [Fuse.js Okubuuza okuwanvu kutwala sekondi ezisukka mu 10 , oyinza otya okukilongoosa?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+
+[TinySearch](https://github.com/tinysearch/tinysearch) `goo` `good` `google`
+
+Olw’obutali bumativu n’ebbula ly’ebigonjoola ebiriwo, `i18n.site` yakola eky’okunoonya ekipya ekirongoofu eky’okunoonya ebiwandiiko ebijjuvu mu maaso, ekirimu ebintu bino wammanga :
+
+1. Ewagira okunoonya mu nnimi nnyingi era ntono mu sayizi Enkula ya kernel y'okunoonya oluvannyuma lw'okupakinga `gzip` eri `6.9KB` (okugeraageranya, obunene bwa `lunrjs` buli `25KB` )
+1. Zimba index ekyusiddwa nga osinziira ku `indexedb` , etwala memory entono ate nga ya mangu.
+1. Ebiwandiiko bwe byongerwako/ebikyusiddwa, ebiwandiiko byokka ebyongerwako oba ebikyusiddwa bye biddamu okuteekebwako omuko, ekikendeeza ku bungi bw’okubalirira.
+1. Awagira okunoonya entandikwa, okuyinza okulaga ebivudde mu kunoonya mu kiseera ekituufu ng’omukozesa awandiika.
+1. Esangibwa ku mukutu gwa yintaneeti
+
+Wansi, ebikwata ku nkola y’ebyekikugu `i18n.site` bijja kwanjulwa mu bujjuvu.
+
+## Okugabanya Ebigambo Mu Nnimi Nnyingi
+
+Okugabanya ebigambo kukozesa okugabanya ebigambo enzaaliranwa ya browser `Intl.Segmenter` , era browser zonna enkulu ziwagira interface eno.
+
+![](https://p.3ti.site/1727667759.avif)
+
+Koodi y’okugabanya ebigambo `coffeescript` eri bweti
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+mu:
+
+* `/\p{P}/` kigambo kya bulijjo ekikwatagana n’obubonero bw’obubonero obw’enjawulo obukwatagana mulimu: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~. `.</p><ul><li> `split('.')` kiri bwe kityo kubanga `Firefox` okugabanya ebigambo bya browser tekutula `.` .</li>
+
+
+## Okuzimba Index
+
+Emmeeza 5 ez'okutereka ebintu zatondebwa mu `IndexedDB` :
+
+* `word` ebigambo : id -
+* `doc` : id - Ekiwandiiko url - Ennamba y'enkyusa y'ekiwandiiko
+* `docWord` : Ensengekera y'ekiwandiiko id - ekigambo id
+* `prefix` : Ensengekera y'entandikwa - ekigambo id
+* `rindex` : Ekigambo id - Ekiwandiiko id : Ensengeka y'ennamba z'ennyiriri
+
+Yita mu nsengeka y’ekiwandiiko `url` n’enkyusa nnamba `ver` , era onoonye oba ekiwandiiko kiri mu kipande `doc` Bwe kiba nga tekiriiwo, tonda omuwendo ogukyusiddwa. Mu kiseera kye kimu, ggyawo omuwendo ogukyusiddwa ogw’ebiwandiiko ebyo ebitaayisibwamu.
+
+Mu ngeri eno, okuwandiika omuwendo (incremental indexing) kuyinza okutuukibwako era omuwendo gw’okubalirira gukendeezebwa.
+
+Mu nkolagana y'omu maaso, ebbaala y'enkulaakulana y'okutikka ey'omuko esobola okulagibwa okwewala okuddirira nga otikka omulundi ogusooka Laba "Ebbaala y'Enkulaakulana n'Ebifaananyi Ebiramu, Okusinziira ku Single progress + Pure css Implementation" [Luganda](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinese](https://juejin.cn/post/7413586285954154522) .
+
+### IndexedDB Waggulu Okuwandiika Mu Kiseera Kye Kimu
+
+Pulojekiti eno [idb](https://www.npmjs.com/package/idb) okusinziira ku asynchronous encapsulation ya IndexedDB
+
+IndexedDB esoma n'okuwandiika tezikwatagana. Nga okola index, ebiwandiiko bijja kutikkibwa mu kiseera kye kimu okukola index.
+
+Okusobola okwewala okufiirwa data ekitundu ekiva ku kuwandiika okuvuganya, osobola okutunuulira koodi `coffeescript` wansi n’oyongerako `ing` cache wakati w’okusoma n’okuwandiika okukwata okuwandiika okuvuganya.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Prefix Okunoonya Mu Kiseera Ekituufu
+
+Okusobola okulaga ebivudde mu kunoonyereza ng’omukozesa awandiika, okugeza, `wor` bw’ayingizibwa, ebigambo ebisookerwako `wor` nga `words` ne `work` biragibwa.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Kernel y’okunoonya ejja kukozesa emmeeza `prefix` ku kigambo ekisembayo oluvannyuma lw’okugabanya ebigambo okuzuula ebigambo byonna ebigisoose, n’okunoonya mu mutendera.
+
+Omulimu oguziyiza okukankana `debounce` era gukozesebwa mu nkolagana y’omu maaso (eteekebwa mu nkola nga bwe guti) okukendeeza ku mirundi gy’okuyingiza kw’abakozesa okutandika okunoonya n’okukendeeza ku bungi bw’okubalirira.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Obutuufu n’Okujjukira
+
+Okunoonya kujja kusooka kugabanyaamu bigambo ebikulu ebiyingiziddwa omukozesa.
+
+Kitwale nti waliwo ebigambo `N` oluvannyuma lw’okugabanya ebigambo Nga ozzaayo ebivuddemu, ebivuddemu ebirimu ebigambo ebikulu byonna bijja kusooka kuddizibwa, olwo ebivuddemu ebirimu ebigambo `1` `N-1` , `N-2` ,..., bijja kuddizibwa.
+
+Ebivudde mu kunoonyereza ebiragiddwa bisooka kukakasa butuufu bw’okubuuza, era ebivuddemu ebitikkiddwa oluvannyuma (nyiga ku bbaatuuni ya load more) bikakasa omuwendo gw’okujjukira.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Omutikka Ku Bwetaavu
+
+Okusobola okulongoosa sipiidi y’okuddamu, okunoonya kukozesa jenereta `yield` okussa mu nkola okutikka ku bwetaavu, era kudda `limit` lwe kibuuzibwa ekivaamu.
+
+Weetegereze nti buli lw'oddamu okunoonya oluvannyuma lwa `yield` , olina okuddamu okuggulawo enkolagana y'okubuuza eya `IndexedDB` .
+
+## Prefix Okunoonya Mu Kiseera Ekituufu
+
+Okusobola okulaga ebivudde mu kunoonyereza ng’omukozesa awandiika, okugeza, `wor` bw’ayingizibwa, ebigambo ebisookerwako `wor` nga `words` ne `work` biragibwa.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Kernel y’okunoonya ejja kukozesa emmeeza `prefix` ku kigambo ekisembayo oluvannyuma lw’okugabanya ebigambo okuzuula ebigambo byonna ebisookerwako nayo, n’okunoonya mu mutendera.
+
+Omulimu oguziyiza okukankana `debounce` era gukozesebwa mu nkolagana y’omu maaso (eteekebwa mu nkola nga bwe guti) okukendeeza ku mirundi gy’okuyingiza kw’abakozesa okutandika okunoonya n’okukendeeza ku bungi bw’okubalirira.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Esangibwa Ku Mukutu Gwa Yintaneeti
+
+Emmeeza ya index tetereka biwandiiko bya kusooka, ebigambo byokka, ekikendeeza ku bungi bw’okutereka.
+
+Okulaga ebivudde mu kunoonya kyetaagisa okuddamu okutikka ebiwandiiko eby'olubereberye, era okukwataganya `service worker` kuyinza okwewala okusaba kw'omukutu okuddiŋŋana.
+
+Mu kiseera kye kimu, olw’okuba `service worker` etereka ebiwandiiko byonna, omukozesa bw’amala okukola okunoonya, omukutu gwonna, omuli n’okunoonya, gubeera nga tegulii ku mukutu.
+
+## Laga Okulongoosa Ebiwandiiko Bya MarkDown
+
+`i18n.site` 's pure front-end search solution erongooseddwa ku biwandiiko `MarkDown` .
+
+Bw’oba olaga ebivudde mu kunoonyereza, erinnya ly’essuula lijja kulagibwa era essuula ejja kutambulirako ng’onyigiddwa.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Mu Bufunze
+
+Okunoonya ebiwandiiko ebijjuvu okukyusiddwa kuteekebwa mu nkola ku nkomerero y’omu maaso yokka, nga kuddamu mangu era nga tekyetaagisa seva.
+
+Esaanira nnyo emikutu emitono n’egya wakati nga ebiwandiiko ne blogs ez’obuntu.

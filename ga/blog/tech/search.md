@@ -1,7 +1,219 @@
-# Cuardach Inbhéartaithe Íon Tosaigh
+# Cuardach Téacs Iomlán Inbhéartaithe Íon Tosaigh
 
 ## Seicheamh
 
-Cuardach inbhéartaithe tosaigh íon ilteangacha uathoibríoch
+Tar éis roinnt seachtainí forbartha, tacaíonn [i18n.site](//i18n.site) (uirlis statach amháin tógála markdown multilingualtranslation & ) le cuardach téacs iomlán íon tosaigh.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Roinnfidh an t-alt seo cur i bhfeidhm `i18n.site` teicneolaíocht chuardaigh téacs iomlán tosaigh íon Tabhair cuairt ar [i18n.site](//i18n.site)
+
+Cód [eithne](//github.com/i18n-site/plugin/tree/main/qy) [cuardaigh](//github.com/i18n-site/ie/tree/main/qy) foinse oscailte /
+
+## Forbhreathnú Ar Réitigh Chuardaigh Téacs Iomlán Gan Fhreastalaí
+
+I gcás suíomhanna gréasáin beaga mar dhoiciméid/blaganna pearsanta nach bhfuil ach statach, níl aon dabht ach go bhfuil sé róthrom inneall cuardaigh lán-théacs a thógáil leat féin, agus gan dabht is meáchan níos fearr é cuardach lántéacs gan seirbhísí.
+
+Titeann réitigh chuardaigh lántéacs gan fhreastalaí atá ann faoi láthair in dhá chatagóir leathana.
+
+Is soláthraí seirbhíse cuardaigh tríú páirtí é amháin cosúil le [algolia.com](//algolia.com) a sholáthraíonn comhpháirteanna cuardaigh téacs iomlán tosaigh.
+
+Éilíonn seirbhísí den sórt sin íocaíocht agus níl siad ar fáil d'úsáideoirí ar mhórthír na Síne mar gheall ar cheisteanna comhlíonta an láithreáin ghréasáin.
+
+Ní féidir é a úsáid as líne, ní féidir é a úsáid ar an inlíon, agus tá teorainneacha móra aige. Ní phléann an t-alt seo mórán.
+
+Is é an dara ceann cuardach téacs iomlán tosaigh íon.
+
+I measc na gcuardach lántéacs tosaigh íon is cáiliúla tá [lunrjs](https://lunrjs.com) agus [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+
+`lunrjs` Tá dhá bhealach ann le hinnéacsanna a thógáil, ach tá a gcuid fadhbanna féin ag an mbeirt.
+
+1. Comhaid innéacs réamhthógtha
+
+   Toisc go bhfuil focail ó gach doiciméad san innéacs, tá sé mór i méid.
+   Nuair a chuirtear doiciméad leis nó nuair a athraítear é, ní mór comhad innéacs nua a luchtú.
+   Méadóidh sé am feithimh an úsáideora agus ídíonn sé go leor bandaleithead.
+
+2. Luchtaigh doiciméid agus tóg innéacsanna ar an eitilt
+
+   Is dianchúram ríomhaireachta é innéacs a thógáil.
+
+Chomh maith le `lunrjs` , tá roinnt réiteach cuardaigh téacs iomlán eile, mar :
+
+[fusejs](https://www.fusejs.io) , ríomh an chosúlacht idir teaghráin chun cuardach a dhéanamh.
+
+Tá feidhmíocht an réitigh seo an-lag agus ní féidir é a úsáid le haghaidh cuardach téacs iomlán (féach [Fuse.js Tógann fiosrúchán fada níos mó ná 10 soicind, conas é a bharrfheabhsú?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+
+[TinySearch](https://github.com/tinysearch/tinysearch) , úsáid scagaire Bloom chun cuardach a dhéanamh, ní féidir é a úsáid le haghaidh cuardaigh réimír (mar shampla, cuir isteach `goo` , cuardaigh `good` , `google` ), agus ní féidir leis an éifeacht críochnaithe uathoibríoch chomhchosúil a bhaint amach.
+
+As míshástacht le heasnaimh na réitigh atá ann cheana féin, d'fhorbair `i18n.site` réiteach cuardaigh téacs iomlán nua tosaigh íon, a bhfuil na gnéithe seo a leanas aige :
+
+1. Tacaíonn sé le cuardach iltheanga `25KB` tá sé `6.9KB` `gzip` méid `lunrjs`
+1. Tóg innéacs inbhéartaithe bunaithe ar `indexedb` , a thógann suas níos lú cuimhne agus atá tapa.
+1. Nuair a dhéantar doiciméid a shuimiú nó a mhodhnú, ní dhéantar ach na doiciméid bhreise nó leasaithe a ath-innéacsú, rud a laghdóidh méid na ríomhanna.
+1. Tacaíonn sé le cuardach réimír, ar féidir leis torthaí cuardaigh a thaispeáint i bhfíor-am agus an t-úsáideoir ag clóscríobh.
+1. Ar fáil as líne
+
+Anseo thíos, tabharfar isteach sonraí cur chun feidhme teicniúil `i18n.site` go mion.
+
+## Deighilt Focal Ilteangach
+
+Úsáideann deighilt focal deighilt focal dúchais an bhrabhsálaí `Intl.Segmenter` , agus tacaíonn gach brabhsálaí príomhshrutha leis an gcomhéadan seo.
+
+![](https://p.3ti.site/1727667759.avif)
+
+Is é seo a leanas an cód deighilte focal `coffeescript`
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+i:
+
+* Is slonn rialta é `/\p{P}/` a mheaitseálann marcálacha poncaíochta Áirítear le siombailí meaitseála ar leith: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~. `.</p><ul><li> Is éard atá i gceist le `split('.')` ná nach mír `.` é deighilt focal brabhsálaí `Firefox` .</li>
+
+
+## Foirgneamh Innéacs
+
+Cruthaíodh 5 táblaí stórála réad i `IndexedDB` :
+
+* `word` : id -
+* `doc` : id - Doiciméad url - Uimhir leagain an doiciméid
+* `docWord` : Eagar doiciméad id - focal id
+* `prefix` : Réimír - focal id
+* `rindex` : Focal id - Doiciméad id : Eagar de línte uimhreacha
+
+Cuir isteach an t-eagar de dhoiciméad `url` agus uimhir leagain `ver` , agus cuardaigh an bhfuil an doiciméad i dtábla `doc` Mura bhfuil sé ann, cruthaigh innéacs inbhéartaithe. Ag an am céanna, bain an t-innéacs inbhéartaithe do na doiciméid sin nár tugadh isteach.
+
+Ar an mbealach seo, is féidir innéacsú incriminteach a bhaint amach agus laghdaítear an méid ríomh.
+
+San [idirghníomhú](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) tosaigh, / féidir barra dul chun cinn luchtaithe an progress + a thaispeáint css moill a sheachaint nuair a bhíonn [tú](https://juejin.cn/post/7413586285954154522) ag luchtú den chéad uair.
+
+### Scríbhneoireacht Ard Comhthráthach IndexedDB
+
+Tá an tionscadal [idb](https://www.npmjs.com/package/idb) bunaithe ar an imchochlú asincrónach de IndexedDB
+
+Tá léann agus scríobh IndexedDB asincrónach. Nuair a bheidh innéacs á chruthú, déanfar doiciméid a luchtú i gcomhthráth chun an t-innéacs a chruthú.
+
+D'fhonn caillteanas páirteach sonraí de bharr scríbhneoireacht iomaíoch a sheachaint, is féidir leat tagairt a dhéanamh don chód `coffeescript` thíos agus taisce `ing` a chur leis idir léamh agus scríobh chun scríbhinní iomaíocha a thascradh.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Réimír Cuardach Fíor-Ama
+
+Chun torthaí cuardaigh a thaispeáint agus an t-úsáideoir ag clóscríobh, mar shampla, nuair a chuirtear `wor` isteach, taispeántar focail a bhfuil réimír `wor` orthu mar `words` agus `work` .
+
+![](https://p.3ti.site/1727684944.avif)
+
+Úsáidfidh an t-eithne cuardaigh an tábla `prefix` don fhocal deiridh tar éis deighilt focal chun gach focal a bhfuil réimír leis a aimsiú, agus cuardach a dhéanamh in ord.
+
+Úsáidtear feidhm frith-shake `debounce` freisin in idirghníomhaíocht deireadh tosaigh (arna chur i bhfeidhm mar seo a leanas) chun minicíocht ionchuir úsáideora a spreagann cuardaigh a laghdú agus an méid ríomh a laghdú.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Beachtas Agus Athghairm
+
+Déanfaidh an cuardach deighilt ar dtús ar na heochairfhocail a chuir an t-úsáideoir isteach.
+
+Glac leis go bhfuil `N` focal tar éis deighilt na bhfocal Nuair a bheidh torthaí á dtabhairt ar ais, seolfar torthaí ina bhfuil na heochairfhocail go léir ar ais ar dtús, agus ansin cuirfear torthaí ina bhfuil `N-1` , `N-2` ,..., `1` eochairfhocal ar ais.
+
+Cinntíonn na torthaí cuardaigh a thaispeántar ar dtús cruinneas an fhiosrúcháin, agus cinntíonn na torthaí a lódáiltear ina dhiaidh sin (cliceáil ar an gcnaipe ualach níos mó) an ráta athghairme.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Luchtaigh Ar Éileamh
+
+D'fhonn an luas freagartha a fheabhsú, úsáideann an cuardach an gineadóir `yield` chun luchtú ar éileamh a chur i bhfeidhm, agus filleann sé `limit` uair a cheistítear toradh.
+
+Tabhair faoi deara go gcaithfidh tú idirbheart fiosrúcháin de `IndexedDB` a athoscailt gach uair a dhéanann tú cuardach arís tar éis `yield` .
+
+## Réimír Cuardach Fíor-Ama
+
+Chun torthaí cuardaigh a thaispeáint agus an t-úsáideoir ag clóscríobh, mar shampla, nuair a chuirtear `wor` isteach, taispeántar focail a bhfuil réimír `wor` orthu mar `words` agus `work` .
+
+![](https://p.3ti.site/1727684944.avif)
+
+Úsáidfidh an t-eithne cuardaigh an tábla `prefix` don fhocal deiridh tar éis deighilt focal chun gach focal a bhfuil réimír leis a aimsiú, agus cuardach a dhéanamh in ord.
+
+Úsáidtear feidhm frith-shake `debounce` freisin in idirghníomhaíocht deireadh tosaigh (arna chur i bhfeidhm mar seo a leanas) chun minicíocht ionchuir úsáideora a spreagann cuardaigh a laghdú agus an méid ríomh a laghdú.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Ar Fáil as Líne
+
+Ní stórálann an tábla innéacs an téacs bunaidh, ach na focail, rud a laghdaíonn an méid stórála.
+
+Chun torthaí cuardaigh a aibhsiú is gá an buntéacs a athlódáil, agus is féidir le meaitseáil `service worker` iarratais líonra arís agus arís eile a sheachaint.
+
+Ag an am céanna, toisc go ndéanann `service worker` caches ar gach alt, a luaithe a dhéanann an t-úsáideoir cuardach, tá an láithreán gréasáin iomlán, lena n-áirítear an cuardach, ar fáil as líne.
+
+## Taispeáin Optamú Doiciméad MarkDown
+
+Tá réiteach cuardaigh ceann tosaigh íon `i18n.site` optamaithe le haghaidh `MarkDown` doiciméad.
+
+Nuair a thaispeánfar torthaí cuardaigh, taispeánfar ainm na caibidle agus déanfar an chaibidil a nascleanúint nuair a chliceáiltear uirthi.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Achoimre
+
+Cuardach téacs iomlán inbhéartaithe curtha i bhfeidhm ar an taobh tosaigh amháin, le freagairt thapa agus gan aon ghá le freastalaí.
+
+Tá sé an-oiriúnach do shuíomhanna gréasáin beaga agus meánmhéide cosúil le doiciméid agus blaganna pearsanta.

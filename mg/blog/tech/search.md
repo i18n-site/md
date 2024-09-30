@@ -1,7 +1,219 @@
-# Fikarohana Mivadika Eo Anoloana Madio
+# Fikarohana Lahatsoratra Feno Mivadika Amin'ny Endriny Madio
 
 ## Filaharana
 
-Fikarohana mivadibadika amin'ny fiteny maro samihafa
+Taorian'ny herinandro maromaro nisian'ny fampandrosoana, [i18n.site](//i18n.site) (fitaovana fananganana tranokala & amin'ny fandikan-teny markdown samihafa) dia manohana ny fikarohana lahatsoratra feno amin'ny endriny voalohany.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Ity lahatsoratra ity dia hizara ny fampiharana ny teknolojia fikarohana an-tsoratra feno `i18n.site` [i18n.site](//i18n.site) afaka miaina ny vokatry ny fikarohana ianao.
+
+Kaody open source [fikarohana](//github.com/i18n-site/plugin/tree/main/qy) [kernel](//github.com/i18n-site/ie/tree/main/qy) /
+
+## Famintinana Ny Vahaolana Fikarohana Lahatsoratra Feno Tsy Misy Mpizara
+
+Ho an'ny tranonkala madinika toy ny antontan-taratasy/bilaogy manokana izay tsy mitongilana fotsiny, tsy isalasalana fa mavesatra loatra ny manangana fikarohana lahatsoratra feno amin'ny tenanao manokana, ary ny fikarohana lahatsoratra feno tsy misy serivisy dia tsy isalasalana fa lanja tsara kokoa.
+
+Ny vahaolana fikarohana lahatsoratra feno tsy misy mpizara efa misy dia tafiditra ao anatin'ny sokajy roa lehibe.
+
+Ny iray dia mpanome tolotra fikarohana avy amin'ny antoko fahatelo mitovy amin'ny [algolia.com](//algolia.com) izay manome singa fikarohana lahatsoratra feno eo anoloana.
+
+Mitaky fandoavana ny serivisy toy izany ary tsy azon'ny mpampiasa any amin'ny tanibe Shina noho ny olana amin'ny fanarahan-dalàna ny tranokala.
+
+Tsy azo ampiasaina ivelan'ny aterineto, tsy azo ampiasaina amin'ny intranet, ary misy fetrany lehibe. Tsy miresaka firy ity lahatsoratra ity.
+
+Ny faharoa dia ny fitadiavana lahatsoratra feno amin'ny endriny voalohany.
+
+Ny fikarohana an [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) tsoratra feno amin'ny endriny madio ElasticLunr.js kokoa dia ahitana [lunrjs](https://lunrjs.com)
+
+`lunrjs` Misy fomba roa hanamboarana index, saingy samy manana ny olany.
+
+1. Ny rakitra fanondro efa namboarina
+
+   Satria misy teny avy amin'ny antontan-taratasy rehetra ny fanondroana, dia lehibe izy io.
+   Isaky ny ampiana na ovaina ny antontan-taratasy iray dia tsy maintsy ampidirina ny rakitra fanondro vaovao.
+   Hampitombo ny fotoana fiandrasana ny mpampiasa izany ary handany bandwidth be.
+
+2. Alefaso ny antontan-taratasy ary manangana tondro amin'ny fiaramanidina
+
+   Ny fananganana tondro dia asa mavesa-danja amin'ny fikajiana ny fananganana indray ny tondro isaky ny miditra amin'izany dia miteraka fahatarana miharihary sy traikefan'ny mpampiasa.
+
+Ho fanampin'ny `lunrjs` , dia misy vahaolana hafa amin'ny fikarohana lahatsoratra feno, toy ny :
+
+[fusejs](https://www.fusejs.io) , kajy ny fitoviana eo amin'ny tady hikaroka.
+
+Tena ratsy ny fahombiazan'ity vahaolana ity ary tsy azo ampiasaina amin'ny fikarohana lahatsoratra feno (jereo [Fuse.js Maharitra 10 segondra mahery ny fangatahana lava, ahoana ny fomba hanatsarana azy?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+
+[TinySearch](https://github.com/tinysearch/tinysearch) , ampiasao ny sivana Bloom raha hikaroka, tsy azo ampiasaina amin'ny fikarohana prefix (ohatra, ampidiro `goo` , karohy `good` , `google` ), ary tsy afaka mahazo vokatra vita ho azy.
+
+Noho ny tsy fahafaham-po amin'ny lesoka amin'ny vahaolana efa misy, `i18n.site` dia namolavola vahaolana fitadiavana lahatsoratra feno amin'ny endriny madio, izay manana ireto endri-javatra manaraka ireto :
+
+1. Manohana fikarohana amin'ny fiteny maro ary kely ny haben'ny kernel fikarohana aorian'ny fonosana `gzip` dia `6.9KB` (ho fampitahana, ny haben'ny `lunrjs` dia `25KB` ).
+1. Manangana tondro mivadika mifototra amin'ny `indexedb` , izay maka fitadidiana kely ary haingana.
+1. Rehefa ampiana / ovaina ny antontan-taratasy dia ny antontan-taratasy fanampiny na ovaina ihany no averina averina, mampihena ny isan'ny kajy.
+1. Manohana fikarohana prefix, izay afaka mampiseho ny valin'ny fikarohana amin'ny fotoana tena izy rehefa manoratra ny mpampiasa.
+1. Misy ivelan'ny aterineto
+
+Ity ambany ity dia haseho amin'ny antsipiriany ny antsipiriany momba ny fampiharana teknika `i18n.site` .
+
+## Fizarana Teny Amin'ny Fiteny Maro
+
+Ny fizarazarana ny teny dia mampiasa ny fizarazarana ny teny teratany amin'ny navigateur `Intl.Segmenter` , ary ny navigateur mahazatra rehetra dia manohana ity interface ity.
+
+![](https://p.3ti.site/1727667759.avif)
+
+Ny teny hoe segmentation `coffeescript` code dia toy izao manaraka izao
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+amin'ny:
+
+* `/\p{P}/` dia fomba fiteny mahazatra izay mifanandrify amin'ny mari-piatoana manokana ahitana ny: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~. `.</p><ul><li> `split('.')` dia satria tsy mizara `.` ny fizarana teny navigateur `Firefox` .</li>
+
+
+## Fanorenana Fanondroana
+
+Ny latabatra fitehirizana zavatra 5 dia noforonina tamin'ny `IndexedDB` :
+
+* `word` : id - teny
+* `doc` : id - url -
+* `docWord` : id - id
+* `prefix` : - id
+* `rindex` : Word id - Document id : Array ny laharana andalana
+
+Ampidiro ao amin'ny laharan'ny antontan-taratasy `url` sy laharana laharana `ver` , ary tadiavo raha misy ilay antontan-taratasy ao amin'ny tabilao `doc` Raha tsy misy izany dia mamorona tondro mivadika. Amin'izay fotoana izay ihany koa, esory ny fanondroana mivadika ho an'ireo antontan-taratasy tsy nampidirina.
+
+Amin'izany fomba izany dia azo tratrarina ny fanondroana incremental ary ahena ny habetsahan'ny kajy.
+
+Eo amin'ny fifaneraserana eo anoloana dia azo aseho css tsipika [fandrosoan'ny](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) fametahana ny [tondro](https://juejin.cn/post/7413586285954154522) / hialana amin'ny fahatarana amin'ny fandefasana progress + .
+
+### IndexedDB Fanoratana Miaraka Avo Lenta
+
+Ny tetikasa dia [idb](https://www.npmjs.com/package/idb) mifototra amin'ny encapsulation asynchronous an'ny IndexedDB
+
+IndexedDB mamaky sy manoratra dia asynchronous. Rehefa mamorona fanondroana dia hapetraka miaraka ny antontan-taratasy mba hamoronana ny tondro.
+
+Mba hialana amin'ny fahaverezan'ny angona ampahany ateraky ny fanoratana mifaninana, azonao atao ny manondro ny kaody `coffeescript` etsy ambany ary manampy cache `ing` eo anelanelan'ny famakiana sy ny fanoratana mba hanakanana ny fanoratana mifaninana.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Fikarohana Amin'ny Fotoana Tena Izy
+
+Mba hampisehoana ny valin'ny fikarohana eo am-panoratana ny mpampiasa, ohatra, rehefa ampidirina `wor` , dia aseho ny teny misy tovana `wor` toy ny `words` sy `work` .
+
+![](https://p.3ti.site/1727684944.avif)
+
+Ny kernel fikarohana dia hampiasa ny tabilao `prefix` ho an'ny teny farany aorian'ny fizarana teny mba hahitana ny teny rehetra miaraka aminy, ary hikaroka araka ny filaharany.
+
+Ny fiasan'ny anti-shake `debounce` dia ampiasaina amin'ny fifaneraserana eo anoloana (apetraka toy izao) mba hampihenana ny fatran'ny fampidiran'ny mpampiasa mandrisika ny fikarohana sy hampihenana ny habetsaky ny kajy.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Precision Sy Recall
+
+Ny fikarohana dia hizara voalohany ny teny fanalahidy nampidirin'ny mpampiasa.
+
+Eritrereto fa misy teny `N` aorian'ny teny hoe segmentation Rehefa mamerina valiny dia haverina aloha ny valiny misy teny fanalahidy rehetra, ary avy eo dia haverina ny valiny misy teny fanalahidy `N-1` , `N-2` ,..., `1` .
+
+Ny valim-pikarohana naseho voalohany dia miantoka ny fahamarinan'ny fangatahana, ary ny valiny voarakitra avy eo (tsindrio ny bokotra Load more) dia miantoka ny taham-pahatsiarovana.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Load Amin'ny Fangatahana
+
+Mba hanatsarana ny hafainganan'ny valin-kafatra, ny fikarohana dia mampiasa ny `yield` generator mba hampiharana ny fangatahana entana, ary miverina `limit` ny misy valiny anontaniana.
+
+Mariho fa isaky ny mikaroka indray ianao aorian'ny `yield` , dia mila manokatra indray ny fifampiraharahana fanontaniana `IndexedDB` ianao.
+
+## Fikarohana Amin'ny Fotoana Tena Izy
+
+Mba hampisehoana ny valin'ny fikarohana eo am-panoratana ny mpampiasa, ohatra, rehefa ampidirina `wor` , dia aseho ny teny misy tovana `wor` toy ny `words` sy `work` .
+
+![](https://p.3ti.site/1727684944.avif)
+
+Ny kernel fikarohana dia hampiasa ny tabilao `prefix` ho an'ny teny farany aorian'ny fizarana teny mba hahitana ny teny rehetra miaraka aminy, ary hikaroka araka ny filaharany.
+
+Ny fiasan'ny anti-shake `debounce` dia ampiasaina amin'ny fifaneraserana eo anoloana (apetraka toy izao) mba hampihenana ny fatran'ny fampidiran'ny mpampiasa mandrisika ny fikarohana sy hampihenana ny habetsaky ny kajy.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Misy Ivelan'ny Aterineto
+
+Ny latabatra fanondro dia tsy mitahiry ny lahatsoratra tany am-boalohany, fa ny teny ihany, izay mampihena ny habetsaky ny fitahirizana.
+
+Ny fanasongadinana ny valin'ny fikarohana dia mitaky famerenana ny lahatsoratra tany am-boalohany, ary ny mifanandrify amin'ny `service worker` dia afaka misoroka ny fangatahana tambajotra miverimberina.
+
+Amin'izay fotoana izay ihany koa, satria `service worker` no mitahiry ny lahatsoratra rehetra, rehefa manao fikarohana ny mpampiasa, dia azo jerena ivelan'ny aterineto ny tranokala manontolo, anisan'izany ny fikarohana.
+
+## Asehoy Ny Fanatsarana Ny Antontan-Taratasy MarkDown
+
+`i18n.site` ny vahaolana amin'ny fikarohana eo anoloana madiodio dia natao ho an'ny antontan-taratasy `MarkDown` .
+
+Rehefa mampiseho valim-pikarohana dia haseho ny anaran'ny toko ary hivezivezy ny toko rehefa kitihina.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Mamintina
+
+Fikarohana lahatsoratra feno mivadika natao teo amin'ny farany aloha, miaraka amin'ny valiny haingana ary tsy mila mpizara.
+
+Tena mety amin'ny tranokala madinika sy salantsalany toy ny antontan-taratasy sy bilaogy manokana.

@@ -4,12 +4,13 @@
 
 - [x] RSS-abonnement
 - [x] søgemaskineoptimering
+- [x] Pure frontend fuldtekst­søgning
 
 ## Under udvikling
 
+- [ ] Indexside for blogstils-katalog med oversigt
+- [ ] Kommentarer til artiklens afsnit
 - [ ] Skift mellem flere versioner af dokumenter
-- [ ] Pure frontend fuldtekst­søgning
 - [ ] Synkroniseringspush af artikelopdateringer til store sociale medier
 - [ ] E-mail-tilgængelig for / `web push` - Abonner på produktopdateringer
-- [ ] Kommentarer til artiklens afsnit
 - [ ] Integreret overvågning af lokale dokumenter for at generere forhåndsvisninger uden manuel kompilering og uden brug af NGINX

@@ -1,7 +1,219 @@
-# Purong Front-End Na Baligtad Na Paghahanap
+# Purong Front-End Inverted Full-Text Na Paghahanap
 
 ## Pagkakasunod-Sunod
 
-Awtomatikong multi-language pure front-end inverted na paghahanap
+Pagkatapos ng ilang linggo ng pag-develop, [i18n.site](//i18n.site) (isang purong static na markdown multilingual translation & website building tool) ay sumusuporta na ngayon sa purong front-end na full-text na paghahanap.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+[i18n.site](//i18n.site) ng artikulong ito ang pagpapatupad ng `i18n.site` pure front-end na full-text na teknolohiya sa paghahanap.
+
+Code open [source](//github.com/i18n-site/plugin/tree/main/qy) [search kernel](//github.com/i18n-site/ie/tree/main/qy) /
+
+## Isang Pangkalahatang-Ideya Ng Walang Server Na Full-Text Na Mga Solusyon Sa Paghahanap
+
+Para sa maliliit na website tulad ng mga dokumento/personal na blog na puro static, walang alinlangan na masyadong mabigat na bumuo ng isang full-text na backend sa paghahanap nang mag-isa, at ang buong-text na paghahanap na walang mga serbisyo ay walang alinlangan na mas mahusay na timbang.
+
+Ang mga umiiral nang serverless full-text na solusyon sa paghahanap ay nahahati sa dalawang malawak na kategorya.
+
+Ang isa ay isang third-party na search service provider na katulad ng [algolia.com](//algolia.com) na nagbibigay ng front-end na full-text na mga bahagi ng paghahanap.
+
+Ang mga naturang serbisyo ay nangangailangan ng pagbabayad at hindi available sa mga user sa mainland China dahil sa mga isyu sa pagsunod sa website.
+
+Hindi ito magagamit offline, hindi magagamit sa intranet, at may malaking limitasyon. Hindi gaanong tinatalakay ang artikulong ito.
+
+Ang pangalawa ay puro front-end na full-text na paghahanap.
+
+Ang ElasticLunr.js kilalang puro front-end na full-text na paghahanap [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) kinabibilangan ng [lunrjs](https://lunrjs.com)
+
+`lunrjs` Mayroong dalawang mga paraan upang bumuo ng mga index, ngunit pareho ay may sariling mga problema.
+
+1. Pre-built index file
+
+   Dahil ang index ay naglalaman ng mga salita mula sa lahat ng mga dokumento, ito ay malaki ang sukat.
+   Sa tuwing ang isang dokumento ay idinagdag o binago, isang bagong index file ay dapat na mai-load.
+   Papataasin nito ang oras ng paghihintay ng user at kumonsumo ng maraming bandwidth.
+
+2. Mag-load ng mga dokumento at bumuo ng mga index sa mabilisang
+
+   Ang pagbuo ng index ay isang computationally intensive na gawain Ang muling pagbuo ng index sa tuwing maa-access mo ito ay magdudulot ng mga halatang pagkahuli at hindi magandang karanasan ng user.
+
+Bilang karagdagan sa `lunrjs` , may ilang iba pang full-text na solusyon sa paghahanap, tulad ng :
+
+[fusejs](https://www.fusejs.io) , kalkulahin ang pagkakatulad sa pagitan ng mga string upang maghanap.
+
+Ang pagganap ng solusyon na ito ay napakahina at hindi magagamit para sa buong tekstong paghahanap (tingnan [Fuse.js Ang mahabang query ay tumatagal ng higit sa 10 segundo, paano ito i-optimize?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+
+[TinySearch](https://github.com/tinysearch/tinysearch) , gumamit ng Bloom filter upang maghanap, hindi magagamit para sa paghahanap ng prefix (halimbawa, ilagay ang `goo` , paghahanap `good` , `google` ), at hindi makakamit ang katulad na epekto ng awtomatikong pagkumpleto.
+
+Dahil sa kawalang-kasiyahan sa mga pagkukulang ng mga umiiral na solusyon, nakabuo `i18n.site` ng isang bagong solusyon sa paghahanap ng full-text na purong front-end, na may mga sumusunod na tampok :
+
+1. Sinusuportahan ang paghahanap sa maraming wika at maliit ang laki Ang laki ng kernel ng paghahanap pagkatapos ng packaging `gzip` ay `6.9KB` (para sa paghahambing, ang laki ng `lunrjs` ay `25KB` ).
+1. Bumuo ng inverted index batay sa `indexedb` , na kumukuha ng mas kaunting memorya at mabilis.
+1. Kapag ang mga dokumento ay idinagdag/binago, tanging ang idinagdag o binagong mga dokumento lamang ang muling ini-index, na binabawasan ang dami ng mga kalkulasyon.
+1. Sinusuportahan ang paghahanap ng prefix, na maaaring magpakita ng mga resulta ng paghahanap sa real time habang nagta-type ang user.
+1. Available offline
+
+Sa ibaba, `i18n.site` detalye ng teknikal na pagpapatupad ang ipapakilala nang detalyado.
+
+## Multilinggwal Na Pag-Segment Ng Salita
+
+Ginagamit ng word segmentation ang native word segmentation `Intl.Segmenter` ng browser, at sinusuportahan ng lahat ng pangunahing browser ang interface na ito.
+
+![](https://p.3ti.site/1727667759.avif)
+
+Ang salitang segmentation `coffeescript` code ay ang mga sumusunod
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+sa:
+
+* `/\p{P}/` ay isang regular na expression na tumutugma sa mga punctuation mark Kasama sa mga partikular na katugmang simbolo ang: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~. `.</p><ul><li> `split('.')` ay dahil `Firefox` browser word segmentation ay hindi segment `.` .</li>
+
+
+## Pagbuo Ng Index
+
+5 object storage table ang ginawa sa `IndexedDB` :
+
+* `word` : id - salita
+* `doc` : id - Dokumento url - Numero ng bersyon ng dokumento
+* `docWord` : Array ng dokumento id - salita id
+* `prefix` : Array ng prefix - salita id
+* `rindex` : Word id - Document id : Array ng mga numero ng linya
+
+Ipasa ang hanay ng dokumento `url` at numero ng bersyon `ver` , at hanapin kung umiiral ang dokumento sa talahanayan `doc` Kung wala ito, lumikha ng baligtad na index. Kasabay nito, alisin ang baligtad na index para sa mga dokumentong hindi naipasa.
+
+Sa ganitong paraan, maaaring makamit ang incremental indexing at mababawasan ang halaga ng pagkalkula.
+
+Sa front-end na pakikipag- css , [ang](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) pag-load [ng](https://juejin.cn/post/7413586285954154522) progress bar ng index / maaaring ipakita upang maiwasan ang lag kapag naglo-load sa unang progress + .
+
+### IndexedDB Mataas Na Sabay-Sabay Na Pagsulat
+
+Ang proyekto ay [idb](https://www.npmjs.com/package/idb) batay sa asynchronous encapsulation ng IndexedDB
+
+Ang mga pagbabasa at pagsusulat ng IndexedDB ay asynchronous. Kapag lumilikha ng isang index, ang mga dokumento ay ilo-load nang sabay-sabay upang lumikha ng index.
+
+Upang maiwasan ang bahagyang pagkawala ng data na dulot ng mapagkumpitensyang pagsulat, maaari kang sumangguni sa `coffeescript` code sa ibaba at magdagdag ng `ing` cache sa pagitan ng pagbabasa at pagsusulat upang mahadlangan ang mga nakikipagkumpitensyang pagsusulat.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Prefix Real-Time Na Paghahanap
+
+Upang maipakita ang mga resulta ng paghahanap habang nagta-type ang user, halimbawa, kapag `wor` ang ipinasok, ang mga salitang may prefix na `wor` gaya ng `words` at `work` ay ipinapakita.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Gagamitin ng search kernel ang `prefix` table para sa huling salita pagkatapos ng pagse-segment ng salita upang mahanap ang lahat ng mga salita na may prefix na kasama nito, at maghanap sa pagkakasunud-sunod.
+
+Ginagamit din ang anti-shake function `debounce` sa front-end na pakikipag-ugnayan (ipinatupad bilang mga sumusunod) upang bawasan ang dalas ng input ng user na nagti-trigger ng mga paghahanap at bawasan ang dami ng pagkalkula.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Katumpakan at Recall
+
+Ise-segment muna ng paghahanap ang mga keyword na ipinasok ng user.
+
+Ipagpalagay na mayroong `N` salita pagkatapos ng pagse-segment ng salita Kapag nagbabalik ng mga resulta, ibabalik muna ang mga resultang naglalaman ng lahat ng keyword, at pagkatapos ay ibabalik ang mga resultang naglalaman ng `N-1` , `N-2` ,..., `1` keyword.
+
+Ang mga resulta ng paghahanap na ipinakita ay unang tinitiyak ang katumpakan ng query, at ang mga resulta na na-load kasunod (i-click ang pindutan ng pag-load ng higit pa) ay tinitiyak ang rate ng pagpapabalik.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Mag-Load on Demand
+
+Upang mapahusay ang bilis ng pagtugon, ginagamit ng paghahanap ang `yield` generator upang ipatupad ang on-demand na paglo-load, at bumabalik `limit` may itatanong na resulta.
+
+Tandaan na sa tuwing maghahanap ka muli pagkatapos ng `yield` , kailangan mong muling buksan ang isang transaksyon ng query na `IndexedDB` .
+
+## Prefix Real-Time Na Paghahanap
+
+Upang maipakita ang mga resulta ng paghahanap habang nagta-type ang user, halimbawa, kapag `wor` ang ipinasok, ang mga salitang may prefix na `wor` gaya ng `words` at `work` ay ipinapakita.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Gagamitin ng search kernel ang `prefix` table para sa huling salita pagkatapos ng pagse-segment ng salita upang mahanap ang lahat ng mga salita na may prefix na kasama nito, at maghanap sa pagkakasunud-sunod.
+
+Ginagamit din ang anti-shake function `debounce` sa front-end na pakikipag-ugnayan (ipinatupad bilang mga sumusunod) upang bawasan ang dalas ng input ng user na nagti-trigger ng mga paghahanap at bawasan ang dami ng pagkalkula.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Available Offline
+
+Ang talahanayan ng index ay hindi nag-iimbak ng orihinal na teksto, tanging ang mga salita, na binabawasan ang dami ng imbakan.
+
+Ang pag-highlight ng mga resulta ng paghahanap ay nangangailangan ng muling pagkarga ng orihinal na teksto, at ang pagtutugma `service worker` ay maaaring maiwasan ang mga paulit-ulit na kahilingan sa network.
+
+Kasabay nito, dahil ini-cache `service worker` ang lahat ng mga artikulo, kapag nagsagawa ng paghahanap ang user, ang buong website, kasama ang paghahanap, ay available offline.
+
+## Display Optimization Ng MarkDown Na Mga Dokumento
+
+Ang purong front-end na solusyon sa paghahanap ng `i18n.site` ay na-optimize para sa `MarkDown` dokumento.
+
+Kapag nagpapakita ng mga resulta ng paghahanap, ang pangalan ng kabanata ay ipapakita at ang kabanata ay ma-navigate kapag na-click.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Ibuod
+
+Ang inverted full-text na paghahanap ay ipinatupad lamang sa front end, na may mabilis na pagtugon at hindi na kailangan ng server.
+
+Napaka-angkop para sa maliliit at katamtamang laki ng mga website tulad ng mga dokumento at personal na blog.

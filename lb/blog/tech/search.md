@@ -1,7 +1,219 @@
-# Pure Front-End Inverted Sich
+# Pure Front-End Invertéiert Volltext Sich
 
 ## Sequenz
 
-Automatesch Multi-Sprooch pure Front-End Inverted Sich
+No e puer Woche vun der Entwécklung, [i18n.site](//i18n.site) (eng reng statesch markdown Multilingual Translatioun & Websäit Gebai Tool) ënnerstëtzt elo pure Front-End Volltext Sich.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Dësen Artikel deelt d'Ëmsetzung vun `i18n.site` pure Front-End Volltext Sichtechnologie [i18n.site](//i18n.site) Dir kënnt de Sicheffekt erliewen.
+
+Code Open Source [Sich](//github.com/i18n-site/ie/tree/main/qy) [Kernel](//github.com/i18n-site/plugin/tree/main/qy) /
+
+## En Iwwerbléck Iwwer Serverlos Volltext Sichléisungen
+
+Fir kleng Websäite wéi Dokumenter / perséinlech Blogs déi reng statesch sinn, ass et ouni Zweifel ze schwéier fir e Volltext Sich Backend selwer ze bauen, a Volltext Sich ouni Servicer ass ouni Zweifel e bessert Gewiicht.
+
+Bestehend serverlos Volltext Sichléisungen falen an zwou breet Kategorien.
+
+Een ass en Drëtt Partei Sichserviceprovider ähnlech wéi [algolia.com](//algolia.com) deen Front-End Volltext Sichkomponenten ubitt.
+
+Esou Servicer erfuerderen Bezuelung a sinn net verfügbar fir Benotzer am Festland China wéinst Websäit Konformitéitsprobleemer.
+
+Et kann net offline benotzt ginn, kann net am Intranet benotzt ginn, an huet grouss Aschränkungen. Dësen Artikel diskutéiert net vill.
+
+Déi zweet ass reng Front-End Volltext Sich.
+
+Déi méi bekannte pure Frontend Volltext Sichen [lunrjs](https://lunrjs.com) an [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+
+`lunrjs` Et ginn zwou Weeër fir Indexen ze bauen, awer béid hunn hir eege Problemer.
+
+1. Pre-gebaut Indexdateien
+
+   Well den Index Wierder aus allen Dokumenter enthält, ass et grouss an der Gréisst.
+   All Kéier wann en Dokument derbäigesat oder geännert gëtt, muss eng nei Indexdatei geluede ginn.
+   Et wäert d'Waardezäit vum Benotzer erhéijen a vill Bandbreedung verbrauchen.
+
+2. Lued Dokumenter a baut Indexen op der Flucht
+
+   En Index opzebauen ass eng berechnend intensiv Aufgab Den Index opzebauen all Kéier wann Dir et zougitt wäert evident Lags a schlecht Benotzererfarung verursaachen.
+
+Zousätzlech zu `lunrjs` ginn et e puer aner Volltext Sichléisungen, wéi :
+
+[fusejs](https://www.fusejs.io) berechent d'Ähnlechkeet tëscht Strings fir ze sichen.
+
+D'Leeschtung vun dëser Léisung ass extrem schlecht a kann net fir Volltext Sich benotzt ginn (kuckt [Fuse.js Laang Ufro dauert méi wéi 10 Sekonnen, wéi optimiséieren ech et?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+
+[TinySearch](https://github.com/tinysearch/tinysearch) benotzt Bloom Filter fir ze sichen, kann net fir Präfix Sich benotzt ginn (zum Beispill, gitt `goo` , Sich `good` , `google` ), a kann net ähnlechen automateschen Ofschlosseffekt erreechen.
+
+Aus Onzefriddenheet mat de Mängel vun existéierende Léisungen huet `i18n.site` eng nei reng Front-End Volltext Sichléisung entwéckelt, déi folgend Features huet :
+
+1. `lunrjs` Multi-Sprooch Sich an ass `6.9KB` `gzip` Gréisst `25KB`
+1. Baut en ëmgedréint Index baséiert op `indexedb` , dee manner Erënnerung ophëlt a séier ass.
+1. Wann Dokumenter bäigefüügt/geännert ginn, ginn nëmmen déi dobäi oder geännert Dokumenter nei indexéiert, wat d'Quantitéit u Berechnungen reduzéiert.
+1. Ënnerstëtzt Präfix Sich a kann Sichresultater an Echtzäit weisen wärend de Benotzer tippt.
+1. Offline verfügbar
+
+Drënner ginn `i18n.site` technesch Ëmsetzungsdetailer am Detail agefouert.
+
+## Méisproocheg Wuert Segmentatioun
+
+Wuert Segmentatioun benotzt de Browser seng gebierteg Wuert Segmentatioun `Intl.Segmenter` , an all Mainstream Browser ënnerstëtzen dës Interface.
+
+![](https://p.3ti.site/1727667759.avif)
+
+D'Wuert Segmentatioun `coffeescript` Code ass wéi follegt
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+an:
+
+* `/\p{P}/` ass e reegelméissegen Ausdrock, deen d'Punctuatiounszeechen entsprécht Spezifesch passende Symboler enthalen: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~. `.</p><ul><li> `split('.')` ass well `Firefox` Browser Wuert Segmentatioun net `.` segmentéiert.</li>
+
+
+## Index Gebai
+
+5 Objektspäicherdëscher goufen an `IndexedDB` erstallt :
+
+* `word` : id -
+* `doc` : id - Dokument url - Dokument Versiounsnummer
+* `docWord` : Array vum Dokument id - Wuert id
+* `prefix` : Array vum Präfix - Wuert id
+* `rindex` : Word id - Dokument id : Array vun Zeilnummeren
+
+Gitt an d'Array vum Dokument `url` a Versioun Nummer `ver` , a sichen ob d'Dokument an der Tabell existéiert `doc` Wann et net existéiert, erstellt en ëmgedréint Index. Zur selwechter Zäit läscht den ëmgedréint Index fir déi Dokumenter déi net erakomm sinn.
+
+Op dës Manéier kann inkrementell Indexéierung erreecht ginn an de Betrag vun der Berechnung reduzéiert ginn.
+
+A Front-End Interaktioun kann d'Laascht Fortschrëtter Bar vum Index ugewisen ginn / [fir](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) d'Laag beim progress + fir d'éischte css ze vermeiden [.](https://juejin.cn/post/7413586285954154522)
+
+### IndexedDB Héich Concurrent Schreiwen
+
+De Projet ass [idb](https://www.npmjs.com/package/idb) baséiert op der asynchroner Encapsulation vun IndexedDB
+
+IndexedDB Liest a Schreift sinn asynchron. Wann Dir en Index erstellt, ginn Dokumenter gläichzäiteg gelueden fir den Index ze kreéieren.
+
+Fir deelweis Dateverloscht verursaacht duerch kompetitiv Schreiwen ze vermeiden, kënnt Dir op den `coffeescript` Code hei drënner verweisen an en `ing` Cache tëscht Liesen a Schreiwen addéieren fir kompetitiv Schreiwen z'ënnerscheeden.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Präfix Echtzäit Sich
+
+Fir d'Sichresultater ze weisen, während de Benotzer tippt, zum Beispill, wann `wor` aginn ass, gi Wierder mat `wor` wéi `words` an `work` ugewisen.
+
+![](https://p.3ti.site/1727684944.avif)
+
+De Sichkär benotzt den `prefix` Tabelle fir dat lescht Wuert no der Wuertsegmentatioun fir all Wierder ze fannen, déi mat der Präfix sinn, a sichen an der Sequenz.
+
+Anti-Shake Funktioun `debounce` gëtt och a Front-End Interaktioun benotzt (wéi follegt ëmgesat) fir d'Frequenz vum Benotzerinput ze reduzéieren, deen d'Sich ausléist an d'Quantitéit vun der Berechnung reduzéieren.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Präzisioun a Réckruff
+
+D'Sich segmentéiert als éischt d'Schlësselwierder, déi vum Benotzer agefouert goufen.
+
+Gitt un datt et `N` Wierder no der Wuertsegmentatioun gëtt Wann Dir Resultater zréckkënnt, ginn d'Resultater mat all Schlësselwieder als éischt zréck, an dann Resultater mat `N-1` , `N-2` , ..., `1` Schlësselwieder ginn zréck.
+
+D'Sichresultater, déi als éischt ugewise ginn, garantéieren d'Genauegkeet vun der Ufro, an d'Resultater, déi duerno gelueden ginn (klickt op de Knäppchen Luet méi) garantéieren den Réckruffquote.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Lued Op Nofro
+
+Fir d'Äntwertgeschwindegkeet ze verbesseren, benotzt d'Sich den `yield` Generator fir On-Demande Luede ëmzesetzen, a gitt zréck `limit` Kéier wann e Resultat gefrot gëtt.
+
+Notéiert datt all Kéier wann Dir nach eng Kéier no `yield` sicht, musst Dir eng Ufrotransaktioun vun `IndexedDB` nei opmaachen.
+
+## Präfix Echtzäit Sich
+
+Fir d'Sichresultater ze weisen, während de Benotzer tippt, zum Beispill, wann `wor` aginn ass, gi Wierder mat `wor` wéi `words` an `work` ugewisen.
+
+![](https://p.3ti.site/1727684944.avif)
+
+De Sichkär benotzt den `prefix` Tabelle fir dat lescht Wuert no der Wuertsegmentatioun fir all Wierder ze fannen, déi mat der Präfix sinn, a sichen an der Sequenz.
+
+Anti-Shake Funktioun `debounce` gëtt och a Front-End Interaktioun benotzt (wéi follegt ëmgesat) fir d'Frequenz vum Benotzerinput ze reduzéieren, deen d'Sich ausléist an d'Quantitéit vun der Berechnung reduzéieren.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Offline Verfügbar
+
+Den Indextabelle späichert den Originaltext net, nëmmen d'Wierder, wat d'Quantitéit u Späichere reduzéiert.
+
+Highlighting Sichresultater erfuerdert d'Original Text nei ze lueden, a passend `service worker` kann widderholl Netzwierkfuerderunge vermeiden.
+
+Zur selwechter Zäit, well `service worker` all Artikelen cachéiert, wann de Benotzer eng Sich mécht, ass déi ganz Websäit, och d'Sich, offline verfügbar.
+
+## Display Optimiséierung Vu MarkDown Dokumenter
+
+`i18n.site` seng reng Front-End Sichléisung ass fir `MarkDown` Dokumenter optimiséiert.
+
+Wann Dir Sichresultater weist, gëtt de Kapitelnumm ugewisen an d'Kapitel gëtt navigéiert wann Dir klickt.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Zesummefaassen
+
+Invertéiert Volltext Sich reng um Frontend implementéiert, mat schneller Äntwert a kee Besoin fir e Server.
+
+Ganz gëeegent fir kleng a mëttelgrouss Websäite wéi Dokumenter a perséinlech Blogs.

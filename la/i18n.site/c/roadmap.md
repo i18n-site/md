@@ -4,12 +4,13 @@
 
 - [x] RSS feed
 - [x] quaero engine ipsum
+- [x] Pura ante finem plena-textu search
 
 ## Sub Progressionem
 
+- [ ] Blog style directory index paginae
+- [ ] Comment in articulos paragraphos
 - [ ] Commutatio inter plures versiones documentorum
-- [ ] Pura ante finem plena-textu search
 - [ ] Simul dis articulum updates to maioris socialis instrumentis
 - [ ] Email available to `web push` /
-- [ ] Comment in articulos paragraphos
 - [ ] Integrare documenta localia ad monitoria mutationes et praevia generare, necessitatem manualis compilation tollens singulis diebus et utens NGINX

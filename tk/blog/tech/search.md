@@ -1,7 +1,219 @@
-# Arassa Öňdäki Ters Gözleg
+# Arassa Öňdäki Tersi Doly Tekst Gözlegi
 
 ## Yzygiderliligi
 
-Awtomatiki köp dilli arassa öňdäki ters gözleg
+Birnäçe hepde ösüşden soň [i18n.site](//i18n.site) (diňe statik markdown köp dilli & web sahypasyny gurmak guraly) indi doly tekstli gözlegleri goldaýar.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Bu [i18n.site](//i18n.site) `i18n.site` sap tekst gözleg tehnologiýasyny durmuşa geçirer.
+
+Kod açyk çeşme [gözleg](//github.com/i18n-site/ie/tree/main/qy) [ýadrosy](//github.com/i18n-site/plugin/tree/main/qy) /
+
+## Serwersiz Doly Tekst Gözleg Çözgütlerine Syn
+
+Diňe statik bolan resminamalar / şahsy bloglar ýaly kiçijik web sahypalary üçin doly tekst gözleg arkasyny gurmak gaty şübhesiz, hyzmatlarsyz doly tekst gözlegi, şübhesiz has gowy agram.
+
+Bar bolan serwersiz doly tekst gözleg çözgütleri iki giň kategoriýa bölünýär.
+
+Biri, birinji tekstli gözleg böleklerini üpjün edýän meňzeş üçünji tarap gözleg hyzmatyny üpjün ediji [algolia.com](//algolia.com)
+
+Şeýle hyzmatlar töleg talap edýär we web sahypasynyň berjaý edilmegi sebäpli Hytaýyň materiginde ulanyjylar üçin elýeterli däl.
+
+Oflayn ulanyp bolmaýar, intranetde ulanyp bolmaýar we uly çäklendirmeleri bar. Bu makalada kän bir pikir ýok.
+
+Ikinjisi, doly tekstli gözleg.
+
+Has meşhur arassa tekstli gözlegler we [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) öz içine alýar [lunrjs](https://lunrjs.com)
+
+`lunrjs` Indeksleri gurmagyň iki ýoly bar, ýöne ikisiniňem öz problemalary bar.
+
+1. Öň gurlan indeks faýllary
+
+   Indeks ähli resminamalardan sözleri öz içine alýandygy sebäpli, ululygy uludyr.
+   Haçan-da bir resminama goşulsa ýa-da üýtgedilse, täze indeks faýly ýüklenmeli.
+   Ulanyjynyň garaşmak wagtyny artdyrar we köp zolakly sarp eder.
+
+2. Resminamalary ýükläň we uçuşda indeksleri guruň
+
+   Indeks gurmak hasaplaýyş taýdan köp mesele bolup durýar, her gezek gireniňizde indeksiň täzeden gurulmagy aç-açan yza galmagyna we ulanyjy tejribesiniň pes bolmagyna sebäp bolar.
+
+`lunrjs` dan başga-da, başga-da doly tekst gözleg çözgütleri bar :
+
+gözlemek üçin setirleriň arasyndaky meňzeşligi hasaplaň [fusejs](https://www.fusejs.io)
+
+Bu çözgüdiň öndürijiligi gaty pes we doly tekst gözlemek üçin ulanyp bolmaýar (serediň [Fuse.js Uzyn talap 10 sekuntdan köp wagt alýar, nädip optimizirlemeli?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+
+gözlemek üçin “Bloom” süzgüçini ulanyň [TinySearch](https://github.com/tinysearch/tinysearch) prefiks gözlemek üçin ulanyp bolmaýar (mysal üçin `goo` giriziň, `good` , `google` gözläň) we şuňa meňzeş awtomatiki gutarnykly effekt gazanyp bilmersiňiz.
+
+Bar bolan çözgütleriň kemçiliklerinden nägilelik bildirip, `i18n.site` aşakdaky aýratynlyklara eýe bolan täze arassa tekstli gözleg çözgüdini döretdi :
+
+1. Köp dilli gözlegi goldaýar we göwrümi `gzip` dan soň gözleg ýadrosynyň ululygy `6.9KB` (deňeşdirmek üçin `lunrjs` ululygy `25KB` )
+1. Az ýat tutýan we çalt bolan `indexedb` -a esaslanýan ters indeks guruň.
+1. Resminamalar goşulanda / üýtgedilende, hasaplamalaryň mukdaryny azaldyp, diňe goşulan ýa-da üýtgedilen resminamalar gaýtadan indekslenýär.
+1. Ulanyjy ýazýarka gözleg netijelerini hakyky wagtda görkezip bilýän prefiks gözlegini goldaýar.
+1. Oflayn elýeterli
+
+Aşakda `i18n.site` tehniki durmuşa geçiriş jikme-jigi jikme-jik hödürlener.
+
+## Köp Dilli Söz Segmentasiýasy
+
+Söz segmentasiýasy brauzeriň ýerli söz segmentasiýasy `Intl.Segmenter` ulanýar we ähli esasy brauzerler bu interfeýsi goldaýarlar.
+
+![](https://p.3ti.site/1727667759.avif)
+
+Segmentasiýa `coffeescript` kody aşakdaky ýaly
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+içinde:
+
+* `/\p{P}/` dyngy belgilerine gabat gelýän yzygiderli aňlatma, gabat gelýän nyşanlaryň arasynda aşakdakylar bar: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ! `.</p><ul><li> `split('.')` sebäbi `Firefox` brauzer söz segmentasiýasy `.` segment däl.</li>
+
+
+## Indeks Binasy
+
+5 obýekt saklaýyş tablisasy `IndexedDB` -da döredildi :
+
+* `word` söz : id -
+* `doc` Resminama url - Resminamanyň wersiýa belgisi : id -
+* `docWord` : Array resminamasy id - id
+* `prefix` : - id prefiksi
+* `rindex` Söz Söz id - Resminama id : Setir sanlarynyň hatary :
+
+`url` resminamanyň we `ver` nji wersiýanyň massiwinden geçiň we resminamanyň `doc` tablisada bardygyny ýa-da ýokdugyny gözläň. Eger ýok bolsa, ters indeks dörediň. Şol bir wagtyň özünde, resminamalar üçin ters görkezijini aýyryň.
+
+Şeýlelik bilen, artdyrylan indekslere ýetip bolýar we hasaplamanyň mukdary azalýar.
+
+Öňdäki özara täsirde, indeksiň ýükleniş öňegidişligi ilkinji gezek ýüklenende yza galmazlyk üçin görkezilip bilner. "Aneke progress + täk esasly Pure css Durmuşa" [Iňlis](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [hytaý diline](https://juejin.cn/post/7413586285954154522) serediň.
+
+### IndexedDB Ýokary Yzygiderli Ýazuw
+
+Taslama asynkron encapsulýasiýa esasynda [idb](https://www.npmjs.com/package/idb) IndexedDB
+
+IndexedDB okaýar we ýazýar asynkron. Indeks döredilende, indeks döretmek üçin resminamalar bir wagtyň özünde ýüklener.
+
+Bäsdeşlik ýazuwy sebäpli dörän maglumatlaryň ýitirilmeginiň öňüni almak üçin aşakdaky `coffeescript` koda ýüz tutup bilersiňiz we bäsleşýän ýazgylary saklamak üçin okamak bilen ýazmagyň arasynda `ing` keş goşup bilersiňiz.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Hakyky Gözlegiň Prefiksi
+
+Ulanyjy ýazýarka gözleg netijelerini görkezmek üçin, mysal üçin `wor` girizilende, `words` we `work` ýaly `wor` bilen prefiks edilen sözler görkezilýär.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Gözleg ýadrosy, söz düzüminden soň iň soňky söz üçin `prefix` tablisany ulanar we öňünden goşulan sözleri tapar we yzygiderli gözlär.
+
+Anti-silkme funksiýasy `debounce` ulanyjy giriş gözlegleriniň ýygylygyny azaltmak we hasaplamanyň mukdaryny azaltmak üçin öňdäki täsirde (aşakdaky ýaly ýerine ýetirilýär) ulanylýar.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Takyklyk We Ýatlamak
+
+Gözleg ilki bilen ulanyjynyň girizen açar sözlerini bölýär.
+
+Segmentasiýa sözünden soň `N` söz bar diýip çaklaň, netijeler gaýdyp gelende ilki bilen ähli açar sözleri öz içine alýan netijeler yzyna gaýtarylar we `N-1` , `N-2` , ..., `1` açar sözleri öz içine alýan netijeler yzyna gaýtarylar.
+
+Ilki bilen görkezilen gözleg netijeleri, soragyň takyklygyny üpjün edýär we soň ýüklenen netijeler (has köp ýük düwmesine basyň) yzyna gaýtarmagyň tizligini üpjün edýär.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Talap Boýunça Ýük
+
+Jogap tizligini gowulandyrmak üçin gözleg, talap boýunça ýüklemäni amala aşyrmak üçin `yield` generatory ulanýar we `limit` gezek netije soralanda gaýdyp gelýär.
+
+Her gezek `yield` dan soň täzeden gözläniňizde, `IndexedDB` den talap amalyny açmalydygyny unutmaň.
+
+## Hakyky Gözlegiň Prefiksi
+
+Ulanyjy ýazýarka gözleg netijelerini görkezmek üçin, mysal üçin `wor` girizilende, `words` we `work` ýaly `wor` bilen prefiks edilen sözler görkezilýär.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Gözleg ýadrosy, söz düzüminden soň iň soňky söz üçin `prefix` tablisany ulanar we öňünden goşulan sözleri tapar we yzygiderli gözlär.
+
+Anti-silkme funksiýasy `debounce` ulanyjy giriş gözlegleriniň ýygylygyny azaltmak we hasaplamanyň mukdaryny azaltmak üçin öňdäki täsirde (aşakdaky ýaly ýerine ýetirilýär) ulanylýar.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Oflayn Elýeterli
+
+Indeks tablisasy asyl teksti saklamaýar, diňe saklanyş mukdaryny azaldýan sözler.
+
+Gözleg netijelerini görkezmek, asyl teksti täzeden ýüklemegi talap edýär we `service worker` gabat gelmek, tor isleglerinden gaça durup biler.
+
+Şol bir wagtyň özünde, ähli makalalary `service worker` keşde saklaýandygy sebäpli, ulanyjy gözleg geçirenden soň, gözleg ýaly ähli web sahypasy awtonom görnüşde elýeterlidir.
+
+## MarkDown Resminamalarynyň Optimizasiýasyny Görkeziň
+
+`i18n.site` -yň arassa gözleg çözgüdi `MarkDown` resminama üçin optimallaşdyryldy.
+
+Gözleg netijeleri görkezilende, bölümiň ady görkeziler we basylanda bap ugrukdyrylar.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Gysgaça Jemläň
+
+Tersine doly tekst gözlegi, çalt seslenme we serwere zerurlyk ýok, diňe öň tarapynda amala aşyrylýar.
+
+Resminamalar we şahsy bloglar ýaly kiçi we orta web sahypalary üçin örän amatly.

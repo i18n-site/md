@@ -1,7 +1,219 @@
-# Raadinta Leexleexsan Xagga Hore Ee Saafiga Ah
+# Raadinta Qoraalka Buuxa Ee Dhamaadka-Hore Ee Saafiga Ah
 
 ## Isku Xigxiga
 
-Si toos ah luuqado badan oo saafi ah oo hore u leexday
+Kadib dhowr toddobaad oo horumarin ah [i18n.site](//i18n.site) (qalab dhisme oo kaliya markdown & luqado badan leh) waxay hadda taageertaa raadinta qoraal-buuxa oo saafi ah.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Maqaalkani wuxuu wadaagi doonaa hirgelinta `i18n.site` saafi ah oo qoraal ah oo qoraal ah Booqo [i18n.site](//i18n.site)
+
+Koodhka isha furan [ee](//github.com/i18n-site/plugin/tree/main/qy) [raadinta kernel](//github.com/i18n-site/ie/tree/main/qy) /
+
+## Dib U Eegis Lagu Sameeyay Xalal Raadinta Qoraal Buuxa Oo Bilaa Server Ah
+
+Mareegaha yar yar sida dukumeentiyada/bloogyada gaarka ah ee sida tooska ah u taagan, shaki la'aan aad bay u culus tahay in la dhiso qoraal buuxa oo raadinta adiga qudhaadu, iyo raadinta qoraal-buuxa oo aan adeegyo lahayn shaki la'aan waa miisaan ka wanaagsan.
+
+Xalka raadinta qoraal-buuxa ee server-la'aanta jira waxay u kala baxaan laba qaybood oo ballaadhan.
+
+Mid waa bixiyaha adeegga raadinta dhinac saddexaad oo la mid ah [algolia.com](//algolia.com) kaas oo bixisa dhamaadka-dhamaadka qaybaha raadinta qoraalka.
+
+Adeegyada noocan oo kale ah waxay u baahan yihiin lacag bixin mana heli karaan isticmaalayaasha ku sugan dhul weynaha Shiinaha sababo la xiriira u hoggaansanaanta bogga.
+
+Looma isticmaali karo offline, laguma isticmaali karo intranetka, waxayna leedahay xaddidaadyo waaweyn. Maqaalkani wax badan kama hadlayo.
+
+Midka labaad waa raadinta qoraal buuxa oo saafi ah.
+
+Baadhitaannada qoraal-buuxa ee saafiga hore-dhamaadka ee aad loo yaqaan waxaa ka mid ah [lunrjs](https://lunrjs.com) iyo [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+
+`lunrjs` Waxaa jira laba siyaabood oo loo dhiso tusmooyin, laakiin labaduba waxay leeyihiin dhibaatooyin iyaga u gaar ah.
+
+1. Faylasha tusmada ee horay loo dhisay
+
+   Sababtoo ah tusmadu waxay ka kooban yihiin erayo dhammaan dukumentiyada, waa weyn tahay cabbir ahaan.
+   Mar kasta oo dukumeenti lagu daro ama wax laga beddelo, fayl tusmo cusub waa in la raro.
+   Waxay kordhin doontaa wakhtiga sugitaanka isticmaaluhu waxayna cuni doontaa xaddi badan.
+
+2. Ku shub dukumentiyada oo ku dhis tusmooyinka duulista
+
+   Dhisidda tusmaynta waa hawl adag oo xisaabin ah mar kasta oo aad gasho waxay sababi doontaa habacsanaan muuqata iyo khibrad isticmaale oo liidata.
+
+Marka lagu daro `lunrjs` , waxaa jira xalal raadin qoraal-buuxa oo kale ah, sida :
+
+[fusejs](https://www.fusejs.io) xisaabi isku ekaanshaha xargaha si loo baadho.
+
+Waxqabadka xalkan aad buu u liitaa loomana isticmaali karo raadinta qoraal buuxa (eeg [Fuse.js Weydiinta dheer waxay qaadataa in ka badan 10 ilbiriqsi, sida loo hagaajiyo?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries) ).
+
+[TinySearch](https://github.com/tinysearch/tinysearch) isticmaal filtarrada Bloom si aad u baadho, looma isticmaali karo raadinta horgalayaasha (tusaale, geli `goo` , raadinta `good` , `google` ), mana gaadhi karto saamayn dhammaystiran oo toos ah oo la mid ah.
+
+Iyada oo aan ku qanacsanayn cilladaha xalalka jira, `i18n.site` waxay soo saartay xal cusub oo qoraal ah oo saafi ah, kaas oo leh sifooyinka soo socda :
+
+1. Waxay taageertaa raadinta luqadaha badan waana yar tahay cabbirka kernelka ka dib xirmada `gzip` waa `6.9KB` (marka la barbardhigo, cabbirka `lunrjs` waa `25KB` )
+1. Samee tilmaame rogan oo ku salaysan `indexedb` , kaas oo qaada xusuusta yar oo dhakhso badan.
+1. Marka dukumentiyada lagu daro/wax laga beddelo, kaliya dukumeentiyada lagu daray ama la beddelay ayaa dib-u-tusmayn lagu sameeyay, taasoo yaraynaysa tirada xisaabinta.
+1. Waxay taageertaa horgalayaasha raadinta waxayna soo bandhigi kartaa natiijooyinka raadinta wakhtiga dhabta ah inta isticmaaluhu wax qorayo.
+1. La heli karo offline
+
+Hoosta, `i18n.site` faahfaahinta hirgelinta farsamada ayaa loo soo bandhigi doonaa si faahfaahsan.
+
+## Kala Qaybinta Ereyada Luqadaha Badan
+
+Qaybinta kelmada waxay isticmaashaa browserka qaybtiisa asalka ah ee `Intl.Segmenter` , iyo dhammaan daalacashada caadiga ah waxay taageeraan is-dhexgalkan.
+
+![](https://p.3ti.site/1727667759.avif)
+
+Erayga Segmentation `coffeescript` code waa sida soo socota
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+gudaha:
+
+* `/\p{P}/` waa odhaah joogto ah oo u dhigma calaamadaha xarakaynta ee gaarka ah waxaa ka mid ah: `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } `</p><ul><li> `split('.')` waa sababta oo ah `Firefox` qaybin kelmad browser ma aha qaybta `.` .</li>
+
+
+## Dhismaha Index
+
+5 miisaska wax lagu kaydiyo ayaa lagu abuuray `IndexedDB` :
+
+* `word` : id -
+* `doc` : id - Document url - Numbarka nooca dukumeentiga
+* `docWord` dokumenti id - id :
+* `prefix` : Horgalayaasha - kelmad id
+* `rindex` : Erayga id - Dukumeenti id : Habayn nambarada khadka
+
+Gudb soo diyaargarowga dukumeentiga `url` iyo nooca nambarka `ver` , oo raadi in dukumeentigu ku jiro shaxda `doc` Haddii aanu jirin, samee tusmo rogan. Isla mar ahaantaana, ka saar tusaha rogan ee dukumeentiyada aan la gudbin.
+
+Sidan, tusmaynta korodhka ayaa lagu gaari karaa waxaana la dhimi karaa qaddarka xisaabinta.
+
+Is dhexgalka dhamaadka-dhamaadka, tusaha horumarka loading / la soo bandhigi karaa [si](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) [looga](https://juejin.cn/post/7413586285954154522) fogaado dib u dhaca marka ugu horeysa ee progress + css shubayo.
+
+### IndexedDB Qoraal Isla Socda
+
+Mashruucu waxa [idb](https://www.npmjs.com/package/idb) iyadoo lagu salaynayo isku xidhka asynchronous ee IndexedDB
+
+IndexedDB wax akhriya oo qoraa waa isku mid. Marka la samaynayo index, dukumentiyada waa la rari doonaa si isku mid ah si loo sameeyo index.
+
+Si looga fogaado qayb ka mid ah luminta xogta ee ay keento qorista tartanka, waxaad tixraaci kartaa `coffeescript` code ee hoose oo aad ku dari kartaa `ing` kayd ah inta u dhaxaysa akhrinta iyo qorista si aad uga hortagto qorista tartanka.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Horgale Raadinta Waqtiga-Dhabta Ah
+
+Si loo soo bandhigo natiijooyinka raadinta marka isticmaaluhu wax ku qorayo, tusaale ahaan, marka `wor` la geliyo, waxaa la soo bandhigayaa ereyada horgalayaasha leh `wor` sida `words` iyo `work` .
+
+![](https://p.3ti.site/1727684944.avif)
+
+Kernel-ka raadinta wuxuu u isticmaali doonaa miiska `prefix` kelmada u danbeysa ka dib kala qaybinta kelmad si uu u helo dhammaan kelmadaha horgalayaasha ah, oo u raadi siday isku xig xigaan.
+
+Shaqada ka-hortagga ruxitaanka `debounce` ayaa sidoo kale loo isticmaalaa isdhexgalka-dhamaadka hore (oo loo hirgeliyay sida soo socota) si loo yareeyo inta jeer ee soo-celinta isticmaale ee kicinta raadinta iyo in la yareeyo qaddarka xisaabinta.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Saxnaanta Iyo Xusuusta
+
+Raadinta ayaa marka hore u kala qaybin doonta ereyada muhiimka ah ee uu galo isticmaaluhu.
+
+Ka soo qaad in ay jiraan `N` kelmadood ka dib marka la soo celiyo natiijooyinka, natiijooyinka ay ku jiraan dhammaan ereyada muhiimka ah ayaa la soo celin doonaa marka hore, ka dibna natiijooyinka ka kooban `N-1` , `N-2` ,..., `1` keywords ayaa la soo celin doonaa.
+
+Natiijooyinka raadinta ee la soo bandhigay ayaa marka hore xaqiijiya saxsanaanta weydiinta, natiijadiina markii dambe la raray (riix batoonka dheeriga ah) hubi heerka soo celinta.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Ku Rar Baahida
+
+Si loo hagaajiyo xawaaraha jawaabta, goobiddu waxay isticmaashaa koronto-dhaliyaha `yield` si uu u hirgeliyo rarista baahida, oo soo noqda `limit` oo natiijada la waydiiyo.
+
+Ogsoonow mar kasta oo aad raadiso `yield` ka dib, waxaad u baahan tahay inaad dib u furto macaamil ganacsi oo `IndexedDB` ah.
+
+## Horgale Raadinta Waqtiga-Dhabta Ah
+
+Si loo soo bandhigo natiijooyinka raadinta marka isticmaaluhu wax ku qorayo, tusaale ahaan, marka `wor` la geliyo, waxaa la soo bandhigayaa ereyada horgalayaasha leh `wor` sida `words` iyo `work` .
+
+![](https://p.3ti.site/1727684944.avif)
+
+Kernel-ka raadinta wuxuu u isticmaali doonaa miiska `prefix` kelmada u danbeysa ka dib kala qaybinta kelmad si uu u helo dhammaan kelmadaha horgalayaasha ah, oo u raadi siday isku xig xigaan.
+
+Shaqada ka-hortagga ruxitaanka `debounce` ayaa sidoo kale loo isticmaalaa isdhexgalka-dhamaadka hore (oo loo hirgeliyay sida soo socota) si loo yareeyo inta jeer ee soo-celinta isticmaale ee kicinta raadinta iyo in la yareeyo qaddarka xisaabinta.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## La Heli Karo Offline
+
+Jaantusku ma kaydiyo qoraalka asalka ah, kaliya erayada, taas oo yaraynaysa qadarka kaydinta.
+
+Muujinta natiijooyinka raadinta waxay u baahan tahay dib u soo dejinta qoraalkii asalka ahaa, iyo ku dhigmida `service worker` waxay ka fogaan kartaa codsiyada shabakada ee soo noqnoqda.
+
+Isla mar ahaantaana, sababtoo ah `service worker` wuxuu kaydiyaa dhammaan maqaallada, marka isticmaaluhu sameeyo baaritaan, dhammaan mareegaha, oo ay ku jiraan raadinta, ayaa laga heli karaa offline.
+
+## Muuji Hagaajinta Dukumeentiyada MarkDown
+
+`i18n.site` 's saafi ah raadinta dhamaadka-dhamaadka hore ee raadinta ayaa loo hagaajiyay `MarkDown` dukumeenti.
+
+Marka la soo bandhigo natiijooyinka raadinta, magaca cutubka ayaa la soo bandhigi doonaa oo cutubka waa la dhex mari doonaa marka la gujiyo.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Soo Koob
+
+Raadinta qoraal-buuxa oo rogan ayaa lagu hirgeliyay si kali ah dhanka hore, iyadoo leh jawaab degdeg ah oo aan loo baahnayn server.
+
+Aad bay ugu habboon tahay shabakadaha yaryar iyo kuwa dhexdhexaadka ah sida dukumentiyada iyo blogyada gaarka ah.

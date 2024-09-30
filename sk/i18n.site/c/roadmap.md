@@ -4,12 +4,13 @@
 
 - [x] RSS kanál
 - [x] optimalizácia pre vyhľadávače
+- [x] Čisté front-endové fulltextové vyhľadávanie
 
 ## Vo Vývoji
 
+- [ ] Indexová stránka adresára v štýle blogu
+- [ ] Komentujte odseky článku
 - [ ] Prepínanie medzi viacerými verziami dokumentov
-- [ ] Čisté front-endové fulltextové vyhľadávanie
 - [ ] Súčasne posúvajte aktualizácie článkov na hlavné sociálne médiá
 - [ ] E-mail dostupný pre / `web push` Prihláste sa na odber aktualizácií produktu
-- [ ] Komentujte odseky článku
 - [ ] Integrujte lokálne dokumenty na monitorovanie zmien a generovanie náhľadov, čím sa eliminuje potreba zakaždým manuálne kompilovať a používať NGINX
