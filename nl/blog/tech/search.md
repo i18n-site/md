@@ -1,7 +1,219 @@
-# Puur front-end inverse zoekopdracht
+# Pure front-end omgekeerde volledige tekstzoekopdracht
 
 ## Sequentie
 
-Automatische meertalige pure front-end inversiezoekopdracht
+Na weken van ontwikkeling ondersteunt [i18n.site](//i18n.site) (een puur statische meertalige Markdown-vertaal- en websitebouwtool) nu pure front-end volledige tekstzoekopdrachten.
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+Dit artikel deelt de implementatie van de pure front-end volledige tekstzoektechnologie van `i18n.site`. Bezoek [i18n.site](//i18n.site) om de zoekresultaten te ervaren.
+
+Code is open source: [zoekkernel](//github.com/i18n-site/ie/tree/main/qy) / [interactieve interface](//github.com/i18n-site/plugin/tree/main/qy)
+
+## Overzicht van serverloze volledige tekstzoekoplossingen
+
+Voor kleine websites zoals documenten/persoonlijke blogs die puur statisch zijn, is het ongetwijfeld te zwaar om zelf een full-text zoekbackend te bouwen, en full-text zoeken zonder services is ongetwijfeld een betere keuze.
+
+Er zijn twee soorten bestaande serverloze volledige tekstzoekoplossingen.
+
+De eerste is een externe zoekserviceprovider zoals [algolia.com](//algolia.com), die front-end componenten voor volledige tekstzoekopdrachten biedt.
+
+Deze diensten zijn betaald en niet beschikbaar voor gebruikers in China vanwege compliantieproblemen.
+
+Ze kunnen niet offline of op een intranet worden gebruikt, wat beperkingen met zich meebrengt. Dit artikel zal hier niet verder op ingaan.
+
+De tweede is pure front-end volledige tekstzoekopdrachten.
+
+De ElasticLunr.js [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) pure front-end full-text zoekopdrachten omvatten [lunrjs](/0)
+
+`lunrjs` heeft twee manieren om indexen te bouwen, maar beide hebben hun eigen problemen.
+
+1. Vooraf gebouwde indexbestanden
+
+   Omdat indexen alle woorden uit alle documenten bevatten, zijn ze groot in omvang.
+   Telkens wanneer een document wordt toegevoegd of gewijzigd, moet een nieuwe index worden geladen.
+   Dit verhoogt de wachttijd van de gebruiker en verbruikt veel bandbreedte.
+
+2. Documenten laden en indexen in real-time bouwen
+
+   Het bouwen van een index is een rekenintensieve taak, en het opnieuw bouwen van de index bij elke toegang veroorzaakt vertragingen en een slechte gebruikerservaring.
+
+Naast `lunrjs` zijn er andere volledige tekstzoekoplossingen, zoals:
+
+[fusejs](https://www.fusejs.io), die de gelijkenis tussen te zoeken strings berekent.
+
+Deze oplossing heeft een slechte prestatie en kan niet worden gebruikt voor volledige tekstzoekopdrachten (zie [Fuse.js Lange zoekopdrachten duren meer dan 10 seconden, hoe optimaliseer je deze?](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries)).
+
+[TinySearch](https://github.com/tinysearch/tinysearch), die een Bloom-filter gebruikt voor zoekopdrachten, kan niet worden gebruikt voor voorvoegselzoekopdrachten (bijvoorbeeld het invoeren van `goo` om `good` en `google` te zoeken) en kan geen automatisch aanvulfunctionaliteit bieden.
+
+Uit ontevredenheid over de tekortkomingen van bestaande oplossingen heeft `i18n.site` een nieuwe pure front-end volledige tekstzoekoplossing ontwikkeld met de volgende kenmerken:
+
+1. Ondersteunt zoeken in meerdere talen en is klein van formaat. De grootte van de zoekkernel na verpakking `gzip` is `6.9KB` (ter vergelijking: de grootte van `lunrjs` is `25KB` )
+1. Gebaseerd op `IndexedDB` om een omgekeerde index te bouwen, weinig geheugengebruik, snelle prestaties
+1. Wanneer documenten worden toegevoegd/gewijzigd, worden alleen de toegevoegde of gewijzigde documenten opnieuw geïndexeerd, waardoor het aantal berekeningen wordt verminderd
+1. Ondersteuning voor voorvoegselzoekopdrachten, zoekresultaten in real-time weergeven terwijl de gebruiker typt
+1. Offline beschikbaar
+
+Hieronder worden de technische implementatiedetails van `i18n.site` uitgebreid besproken.
+
+## Meertalige woordsegmentatie
+
+Woordsegmentatie maakt gebruik van de oorspronkelijke woordsegmentatie van de browser `Intl.Segmenter`, die door de meeste browsers wordt ondersteund.
+
+![](https://p.3ti.site/1727667759.avif)
+
+De `coffeescript` code voor woordsegmentatie is als volgt:
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+Waarvan:
+
+* `/\p{P}/` is `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { expressie die overeenkomt met leestekens | } ~. `.</p><ul><li> `split('.')` is omdat `Firefox` browserwoordsegmentatie `.` niet segmenteert.</li>
+
+
+## Indexopbouw
+
+Er zijn vijf objectopslagtabellen gemaakt in `IndexedDB`:
+
+* `word`: id - woord
+* `doc`: id - documenturl - documentversienummer
+* `docWord`: documentid - array van woordid's
+* `prefix`: voorvoegsel - array van woordid's
+* `rindex`: woordid - array van documentid's: regelnummers
+
+Geef de array van document `url` en versienummer `ver` door, zoek in de `doc` tabel of het document bestaat, als het niet bestaat, maak dan een omgekeerde index. Verwijder tegelijkertijd de omgekeerde index van de niet-doorgegeven documenten.
+
+Op deze manier kan incrementele indexering worden bereikt, wat de hoeveelheid berekeningen vermindert.
+
+Bij front-end interactie kan een voortgangsbalk voor het laden van de index worden weergegeven om vertraging bij het eerste laden te voorkomen. Zie "Voortgangsbalk met animatie, gebaseerd op een enkele progress + Pure css Implementatie" [Engels](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [Chinees](https://juejin.cn/post/7413586285954154522).
+
+### GeïndexeerdDB hoog gelijktijdig schrijven
+
+Dit project is ontwikkeld op basis van de asynchrone wrapper voor IndexedDB, [idb](https://www.npmjs.com/package/idb).
+
+Lezen en schrijven met IndexedDB zijn asynchroon. Bij het maken van een index worden documenten tegelijkertijd geladen om de index te creëren.
+
+Om gedeeltelijk gegevensverlies veroorzaakt door concurrerend schrijven te voorkomen, kan de onderstaande `coffeescript` code worden geraadpleegd om een `ing` cache toe te voegen tussen lezen en schrijven om concurrerende schrijfbewerkingen te onderscheppen.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Voorvoegsel real-time zoekopdracht
+
+Om zoekresultaten weer te geven terwijl de gebruiker typt, bijvoorbeeld `wor` invoeren en woorden weergeven die beginnen met `wor` zoals `words` en `work`.
+
+![](https://p.3ti.site/1727684944.avif)
+
+De zoekkernel gebruikt de `prefix` tabel om het laatste woord na woordsegmentatie te vinden en zoekt alle woorden die daarmee beginnen.
+
+In front-end-interacties wordt ook de anti-shake-functie `debounce` gebruikt (zoals hieronder geïmplementeerd) om de frequentie van gebruikersinvoer die zoekopdrachten activeert te verminderen en de hoeveelheid berekeningen te verminderen.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Nauwkeurigheid en volledigheid
+
+De zoekopdracht segmenteert eerst de door de gebruiker ingevoerde trefwoorden.
+
+Stel dat er `N` woorden zijn na segmentatie. Bij het retourneren van resultaten worden eerst resultaten geretourneerd die alle trefwoorden bevatten, en daarna resultaten met `N-1`, `N-2`, ..., `1` trefwoorden.
+
+De eerst weergegeven zoekresultaten waarborgen de nauwkeurigheid van de zoekopdracht, en de later geladen resultaten (klik op de knop 'Meer laden') waarborgen de volledigheid.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Op aanvraag laden
+
+Om de responsiviteit te verbeteren, implementeert de zoekopdracht laden op aanvraag met behulp van de `yield` generator, waarbij elke keer dat `limit` resultaten worden gevonden, deze worden geretourneerd.
+
+Let op dat elke keer dat u na `yield` opnieuw zoekt, u een nieuwe zoektransactie van `IndexedDB` moet openen.
+
+## Voorvoegsel real-time zoekopdracht
+
+Om zoekresultaten weer te geven terwijl de gebruiker typt, bijvoorbeeld `wor` invoeren en woorden weergeven die beginnen met `wor` zoals `words` en `work`.
+
+![](https://p.3ti.site/1727684944.avif)
+
+De zoekkernel gebruikt de `prefix` tabel om het laatste woord na woordsegmentatie te vinden en zoekt alle woorden die daarmee beginnen.
+
+De anti-shake-functie `debounce` wordt ook gebruikt bij front-end-interactie (zoals hieronder geïmplementeerd) om de frequentie van gebruikersinvoer die zoekopdrachten activeert te verminderen en de hoeveelheid berekeningen te verminderen.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Offline beschikbaar
+
+De indextabel slaat geen originele tekst op, alleen woorden, wat de opslagruimte vermindert.
+
+Voor het markeren van zoekresultaten moet de originele tekst opnieuw worden geladen, en het gebruik van `service worker` kan herhaalde netwerkverzoeken voorkomen.
+
+Omdat `service worker` alle artikelen in het cachegeheugen opslaat, is de hele website, inclusief de zoekopdracht, offline beschikbaar zodra de gebruiker een zoekopdracht uitvoert.
+
+## Optimalisatie van de weergave van Markdown-documenten
+
+De pure front-end zoekoplossing van `i18n.site` is geoptimaliseerd voor `Markdown`-documenten.
+
+Wanneer zoekresultaten worden weergegeven, wordt de hoofdstuknaam weergegeven en wordt er door het hoofdstuk genavigeerd wanneer erop wordt geklikt.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Samenvatting
+
+Pure front-end implementatie van omgekeerde volledige tekstzoekopdrachten, snelle respons, geen server nodig.
+
+Zeer geschikt voor kleine en middelgrote websites zoals documenten en persoonlijke blogs.

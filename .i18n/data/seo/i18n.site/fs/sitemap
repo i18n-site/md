@@ -3,8 +3,8 @@
   - news:
     - begin.md#0N8n9V
     tech:
-    - search.md#!4y9J
-  - README.md#!4y9J
+    - search.md#mX3CD
+  - README.md#mX3CD
   i18:
   - LANG_CODE.md#0N8n9V
   - README.md#0N8n9V
@@ -14,7 +14,7 @@
   - use.md#0N8n9V
   i18n.site:
   - c:
-    - roadmap.md#0N8n9V
+    - roadmap.md#mX3CD
     - src.md#0N8n9V
     conf:
     - addon.md#VCByJ
@@ -28,7 +28,7 @@
     - fmt.md#0N8n9V
     - ide.md#0N8n9V
     - styl.md#0N8n9V
-  - README.md#VCByJ
+  - README.md#mX3CD
   - cli.md#0N8n9V
   - feature.md#0N8n9V
   - qa.md#0N8n9V

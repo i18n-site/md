@@ -3,7 +3,9 @@
   - tech:
     - search.md#zVyHR
   i18n.site:
-  - conf:
+  - c:
+    - roadmap.md#mX3CD
+    conf:
     - addon.md#VCByJ
     - foot.md#0N8n9V
     - seo.md#0N8n9V

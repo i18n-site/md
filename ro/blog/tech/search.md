@@ -1,7 +1,219 @@
-# Căutarea inversă exclusiv front-end
+# 1	纯前端的倒排全文搜索
 
 ## Secvență
 
-Căutare inversată automată multilingvă pur front-end
+2	经过几周的开发，[i18n.site](//i18n.site)(纯静态的markdown多语言翻译&建站工具)现在支持纯前端全文搜索。
 
-<p><img src="https://p.3ti.site/1727600475.avif" style="width:300px"><img src="https://p.3ti.site/1727602760.avif" style="width:300px"></p>
+<p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
+
+3	本文将分享`i18n.site`纯前端全文搜索技术实现，访问[i18n.site](//i18n.site)可体验搜索效果。
+
+4	代码开源 [搜索内核](//github.com/i18n-site/ie/tree/main/qy) / [交互界面](//github.com/i18n-site/plugin/tree/main/qy)
+
+## 5	无服务全文搜索解决方案综述
+
+6	对应文档/个人博客等小型网站纯静态而言，自己搭建全文搜索后台无疑太重，无服务的全文搜索无疑是更好的权重。
+
+7	现有的无服务全文搜索解决方案分两大类。
+
+8	其一，是类似 [algolia.com](//algolia.com) 的第三方搜索服务商，提供了前端全文搜索的组件。
+
+9	此类服务需付费，且因为网站合规性的问题，中国大陆用户无法使用。
+
+10	无法离线使用，无法在内网使用，局限性很大。 本文不多做讨论。
+
+11	其二，是纯前端的全文搜索。
+
+Cele mai cunoscute căutări de tip front-end cu text complet includ [lunrjs](/0) și [ ElasticLunr.js ] [https://github.com/weixsong/elasticlunr.js](%E5%9F%BA%E4%BA%8E%60lunrjs%60%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) .
+
+13	`lunrjs` 有两种索引构建方式，但是又都有各自的问题。
+
+1. 14	预构建索引文件
+
+   15	因为索引包含了所有文档的词，体积大。
+   16	每当文档有增改，都要加载新的索引文件。
+   17	会增加用户的等待时间，并消耗大量带宽。
+
+2. 18	加载文档并实时构建索引
+
+   19	构建索引是计算密集型任务，每次访问都重新构建索引会有明显的卡顿，用户体验差。
+
+20	除了 `lunrjs` 之外，还有一些其他的全文搜索方案，比如:
+
+21	[fusejs](https://www.fusejs.io)，计算字符串之间的相似度来搜索。
+
+22	此方案性能极差，无法用于全文搜索(参见 [Fuse.js 长查询耗时超过10秒，如何优化？](https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-long-queries))。
+
+23	[TinySearch](https://github.com/tinysearch/tinysearch)，使用布隆过滤器来搜索，无法用于前缀搜索(比如输入`goo`，搜索`good`、`google`)，无法实现类似自动补全效果。
+
+24	出于对现有方案弊端的不满， `i18n.site` 自研了全新纯前端全文搜索方案，具有以下特色:
+
+1. 25	支持多语言搜索，体积小，搜索内核打包`gzip`后体积为`6.9KB` (作为对比，`lunrjs` 体积为 `25KB`)
+1. 26	基于 `indexedb` 构建倒排索引，内存占用少，速度快
+1. 27	当文档有新增/改动的时候，只对增改的文档重新索引，减少了计算量
+1. 28	支持前缀搜索，可以在用户输入的同时实时展示搜索结果
+1. 29	离线可用
+
+30	下面，将详细介绍 `i18n.site` 技术实现细节。
+
+## 31	多语言分词
+
+32	分词采用浏览器原生的分词 `Intl.Segmenter`，主流浏览器都支持此接口。
+
+![](https://p.3ti.site/1727667759.avif)
+
+33	分词`coffeescript`代码如下
+
+```coffee
+SEG = new Intl.Segmenter 0, granularity: "word"
+
+seg = (txt) =>
+  r = []
+  for {segment} from SEG.segment(txt)
+    for i from segment.split('.')
+      i = i.trim()
+      if i and !'|`'.includes(i) and !/\p{P}/u.test(i)
+        r.push i
+  r
+
+export default seg
+
+export segqy = (q) =>
+  seg q.toLocaleLowerCase()
+```
+
+34	其中:
+
+* 35	`/\p{P}/` 是匹配标点符号的正则表达式，具体匹配的符号包括:`! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~. `.</p><ul><li> `split('.')` se datorează faptului că segmentarea `Firefox` cuvânt din browser nu segmentează `.` .</li>
+
+
+## Clădirea indexului
+
+În `IndexedDB` au fost create 5 tabele de stocare a obiectelor:
+
+* `word` : id - cuvânt
+* 40	`word` : id - 词
+* 41	`doc`: id - 文档url - 文档版本号
+* 42	`docWord` : 文档id - 词id的数组
+* 43	`prefix` : 前缀 - 词id的数组
+
+Introduceți matricea documentului `url` și numărul versiunii `ver`, căutați dacă documentul există în tabelul `doc`. Dacă nu există, creați un index inversat. În același timp, eliminați indexul inversat pentru acele documente care nu au fost transmise.
+
+În acest mod, se poate realiza indexarea incrementală, reducând astfel cantitatea de calcul necesar.
+
+În interacțiunea front-end, bara de progres pentru încărcarea indexului poate fi afișată pentru a evita întreruperile la prima încărcare, vă rugăm să consultați [Bara de progres cu animație, bazată pe o singură progress + CSS](https://dev.to/i18n-site/a-single-progress-uses-pure-css-to-achieve-animation-effects-2oo) / [中文](https://juejin.cn/post/7413586285954154522).
+
+### Scriere concurentă în IndexedDB
+
+Proiectul este dezvoltat pe baza încapsulării asincrone a IndexedDB, [idb](https://www.npmjs.com/package/idb).
+
+Citirile și scrierile în IndexedDB sunt asincrone. La crearea unui index, documentele sunt încărcate simultan pentru a crea indexul.
+
+Pentru a evita pierderea parțială a datelor din cauza scrierii concurente, vă rugăm să consultați codul `coffeescript` de mai jos și să adăugați un cache `ing` între citire și scriere pentru a intercepta scrierile concurente.
+
+```coffee
+pusher = =>
+  ing = new Map()
+  (table, id, val)=>
+    id_set = ing.get(id)
+    if id_set
+      id_set.add val
+      return
+
+    id_set = new Set([val])
+    ing.set id, id_set
+    pre = await table.get(id)
+    li = pre?.li or []
+
+    loop
+      to_add = [...id_set]
+      li.push(...to_add)
+      await table.put({id,li})
+      for i from to_add
+        id_set.delete i
+      if not id_set.size
+        ing.delete id
+        break
+    return
+
+rindexPush = pusher()
+prefixPush = pusher()
+```
+
+## Căutare cu prefix în timp real
+
+Pentru a afișa rezultatele căutării în timp ce utilizatorul tastează, de exemplu, atunci când este introdus `wor`, sunt afișate cuvintele care încep cu `wor`, cum ar fi `words` și `work`.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Nucleul de căutare utilizează tabelul `prefix` pentru ultimul cuvânt după segmentare pentru a găsi toate cuvintele care încep cu acesta și a căuta în secvență.
+
+Funcția anti-shake `debounce` este, de asemenea, utilizată în interacțiunea front-end (implementată după cum urmează) pentru a reduce frecvența declanșării căutării de la intrările utilizatorului și pentru a reduce cantitatea de calcul.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Precizie și acoperire
+
+56	准确率和查全率
+
+Să presupunem că există `N` cuvinte după segmentare. Când se returnează rezultatele, se vor întâmpina mai întâi rezultatele care conțin toate cuvintele cheie, urmate de rezultatele care conțin `N-1`, `N-2`, ..., `1` cuvinte cheie.
+
+Rezultatele căutării afișate mai întâi asigură acuratețea interogării, iar rezultatele încărcate ulterior (printr-un clic pe butonul de încărcare mai mult) asigură acoperirea completă.
+
+![](https://p.3ti.site/1727684564.avif)
+
+## Încărcare la cerere
+
+Pentru a îmbunătăți viteza de răspuns, căutarea folosește generatorul `yield` pentru a implementa încărcarea la cerere, revenind cu `limit` rezultate fiecare dată când este interogat un rezultat.
+
+61	为了提高响应速度，搜索借助`yield`生成器实现了按需加载的方式，每查询到`limit`个结果就返回一次。
+
+## Căutare cu prefix în timp real
+
+Pentru a afișa rezultatele căutării în timp ce utilizatorul tastează, de exemplu, atunci când este introdus `wor`, sunt afișate cuvintele care încep cu `wor`, cum ar fi `words` și `work`.
+
+![](https://p.3ti.site/1727684944.avif)
+
+Nucleul de căutare utilizează tabelul `prefix` pentru ultimul cuvânt după segmentare pentru a găsi toate cuvintele care încep cu acesta și a căuta în secvență.
+
+Funcția anti-shake `debounce` este, de asemenea, utilizată în interacțiunea front-end (implementată după cum urmează) pentru a reduce frecvența declanșării căutării de la intrările utilizatorului și pentru a reduce cantitatea de calcul.
+
+```js
+export default (wait, func) => {
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(func.bind(this, ...args), wait);
+  };
+}
+```
+
+## Disponibilitate offline
+
+67	离线可用
+
+Evidențierea rezultatelor căutării necesită reîncărcarea textului original, iar utilizarea `service worker` poate evita solicitările repetate de rețea.
+
+69	搜索结果高亮需要重新加载原文，配合`service worker`即可避免重复的网络请求。
+
+## Optimizare afișare documente Markdown
+
+Soluția de căutare frontală pură a lui `i18n.site` este optimizată pentru `MarkDown` documente.
+
+Când se afișează rezultatele căutării, numele capitolului va fi afișat și capitolul va fi navigat atunci când se face clic pe el.
+
+![](https://p.3ti.site/1727686552.avif)
+
+## Rezumat
+
+74	总结
+
+75	纯前端实现的倒排全文搜索，响应速度快，无需服务器。
