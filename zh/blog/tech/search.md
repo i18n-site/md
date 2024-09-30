@@ -2,8 +2,8 @@
 
 ## 序
 
+经过几周的开发，[i18n.site](//i18n.site)(多语言markdown建站工具)支持纯前端全文搜索。
 
-纯前端的倒排全文搜索，支持多语言。
 
 <p style="display:flex;flex-wrap:wrap;justify-content:center"><img src="//p.3ti.site/1727600475.avif" style="width:320px"><img src="//p.3ti.site/1727602760.avif" style="width:320px"></p>
 
@@ -31,7 +31,20 @@ https://stackoverflow.com/questions/70984437/fuse-js-takes-10-seconds-with-semi-
 https://github.com/weixsong/elasticlunr.js
 https://lunrjs.com/guides/index_prebuilding.html
 
-`2.1KB`
+索引构建
+
+文件索引
+
+重新加载
+
+实时索引
+
+速度
+
+
+indexedb
+
+`6.9KB`
 
 `25KB`
 
