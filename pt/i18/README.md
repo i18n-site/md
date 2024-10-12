@@ -1,0 +1,1 @@
+# i18 : Ferramenta de Linha de Comando para Tradução de Markdown & YAML

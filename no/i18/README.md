@@ -1,0 +1,1 @@
+# i18: Kommandolinje Markdown- & YAML-oversettelsesverktøy

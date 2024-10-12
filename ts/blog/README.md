@@ -1,0 +1,1 @@
+# i18n.site: Switshuxo Swa Matiko Ya Misava

@@ -1,0 +1,33 @@
+# Awoṣe Bulọọgi
+
+`i18n/conf.yml` ninu `use: Blog` tumọ si lilo awoṣe bulọọgi fun ṣiṣe.
+
+Faili `markdown` ti ifiweranṣẹ bulọọgi nilo lati tunto alaye meta.
+
+Alaye Meta gbọdọ wa ni ibẹrẹ faili naa, bẹrẹ pẹlu `---` ati ipari pẹlu `---` Ọna kika ti alaye iṣeto ni aarin jẹ `YAML` .
+
+Iṣeto ti faili demo jẹ bi atẹle:
+
+```yml
+---
+
+brief: |
+  this is a demo brief
+  you can write multiline
+
+---
+
+# title
+
+… …
+```
+
+`brief` tọkasi akopọ akoonu, eyiti yoo han lori oju-iwe atọka bulọọgi.
+
+Pẹlu iranlọwọ ti `YMAL` '|`Syntax, o le kọ awọn akopọ laini pupọ.
+
+Iṣeto ti igi liana ni apa ọtun ti bulọọgi naa tun jẹ awọn faili `TOC` (wo ipin `TOC` tẹlẹ).
+
+Awọn nkan ti ko ni alaye meta ninu kii yoo han loju oju-iwe bulọọgi, ṣugbọn o le han ninu igi liana ni apa ọtun.
+
+Ti o ba nilo lati pin nkan naa si oke, jọwọ ṣiṣẹ `i18n.site` ki o ṣatunkọ awọn faili `xxx.yml` ni isalẹ `.i18n/data/blog` , ki o yi akoko akoko pada si nọmba odi (awọn nọmba odi pupọ yoo jẹ lẹsẹsẹ lati kekere si nla ni iye pipe).

@@ -1,0 +1,339 @@
+# Ynstallearje &
+
+## Konfiguraasje Token
+
+`i18n.site` hat in ynboude `i18` oersetark [Klik hjir om te ferwizen nei it `i18` dokumint om it tagongstoken te konfigurearjen](/i18/use) .
+
+## Ynstallearje
+
+```sh
+bash <(curl -sS https://i.i18n.site) i18n.site
+```
+
+## Demo Projekt
+
+Litte wy begjinne mei in demo-projekt om te learen hoe't jo `i18n.site` brûke kinne.
+
+Wy klonje earst it demo-repository en fiere it kommando sa út:
+
+```
+git clone https://github.com/i18n-site/demo.i18n.site.git md
+git clone https://github.com/i18n-site/demo.i18n.site.docker.git docker
+```
+
+Brûkers op it fêstelân fan Sina kinne:
+
+```
+git clone https://atomgit.com/i18n/demo.i18n.site.git md
+git clone https://atomgit.com/i18n/demo.i18n.site.docker.git docker
+```
+
+De mapnamme fan 'e `demo.i18n.site` koadebasiskloon moat `md` wêze om lokale foarbyld mei `docker` te fasilitearjen.
+
+### Oersette
+
+Fier earst de map `md` yn en fier `i18n.site` út, dy't `en` nei `zh` oersette sil.
+
+<img src="https://p.3ti.site/1721114619.avif" style="width:350px">
+
+Nei it útfieren `git add . ` oersettings- en cache-bestannen oanmakke wurde `md`
+
+### Lokale Foarbyld
+
+Ynstallearje en begjinne `docker` ( `MAC` brûker advisearret it brûken fan [orbstack](https://orbstack.dev) as de runtime foar `docker` ).
+
+Fier dan de map `docker` yn en fier `./up.sh` út, en besykje dan [https://127.0.0.1](https://127.0.0.1)
+
+<img src="//p.3ti.site/1721104238.avif" style="width:360px">
+
+### Post Ynhâld
+
+`i18n.site` nimt in [applikaasje-arsjitektuer fan ien side](https://developer.mozilla.org/docs/Glossary/SPA) oan, en de webside yngongsside en webside-ynhâld wurde ûnôfhinklik ynset.
+
+Nei it útfieren fan de boppesteande oersetting, wurde mappen `htm` en `v` generearre ûnder de map `md/out/dev` .
+
+Hjir, `dev` betsjut dat it is boud basearre op de `.i18n/htm/dev.yml` konfiguraasje triem.
+
+`dev` folder :
+
+De map `htm` is de yngongside fan 'e webside.
+
+De map `v` befettet websideynhâld mei ferzjenûmers.
+
+Lokale foarbyld makket neat oer it ferzjenûmer en sil alle bestannen kopiearje nei de `out/dev/v/0.1.0` map.
+
+Foar offisjele frijlitting sille feroare bestannen kopiearre wurde nei it nije ferzjenûmermap.
+
+#### Brûk -c Om It Konfiguraasjetriem Op Te Jaan
+
+Ferskillende konfiguraasjetriemmen sille oerienkommende mappen meitsje yn 'e `out` -map.
+
+Bygelyks, `.i18n/htm/ol.yml` sil de map `out/ol` oanmeitsje.
+
+`dev.yml` en `ol.yml` binne de standert konfiguraasjes.
+
+`dev` is de ôfkoarting fan `development` , wat de ûntwikkelingsomjouwing oanjout, brûkt foar lokale foarbyld, en is ek it standert konfiguraasjetriem.
+`ol` is de ôfkoarting `npm` `online` , wat de online omjouwing `-n` , dy't brûkt wurdt foar offisjele frijlitting.
+
+Jo kinne ek oare konfiguraasjetriemmen oanmeitsje Brûk `--htm_conf` op 'e kommandorigel om de konfiguraasjetriemnamme oan te jaan dy't jo wolle brûke.
+
+bygelyks:
+```
+i18n.site --htm_conf yourConfig --save
+```
+
+Hjir stiet `--save` foar it ferzjenûmer fan de fernijing útjefte.
+
+#### <a rel=id href="#npm" id="npm"></a> Publisearje ynhâld op npmjs.com
+
+It publisearjen [fan](/i18n.site/feature#ha) ynhâld nei [npmjs.com](//npmjs.com)
+
+##### npm login &
+
+Ynstallearje `nodejs` , oanmelde mei `npm login` .
+
+Bewurkje `md/.i18n/htm/ol.yml` en feroarje `i18n.site` yn `v: //unpkg.com/i18n.site` yn jo eigen `npm` pakketnamme.
+
+Brûk gewoan de net-besette pakketnamme op [npmjs.com](//npmjs.com)
+
+As jo publisearje basearre op pakket `npm` , wês **wis dat jo `//unpkg.com/` brûke** foar it foarheaksel fan `v:` wearde `i18n.site` hat de cache-tiid fan `/.v` spesjaal optimalisearre ûnder dit foarheakselpaad om yn 'e tiid te besjen fan nije releases.
+
+Run `i18n.site --npm` of `i18n.site -n` yn 'e `md` map om te oersetten en te publisearjen.
+
+As jo gebrûk meitsje fan in trochgeande yntegraasje omjouwing te publisearjen, der is gjin needsaak om te ynstallearjen `nodejs` Krekt kopiearje de oanmelden en publisearjen tastimmingen `~/.npmrc` nei de omjouwing.
+
+As jo de pakketnamme fan `v:` yn `ol.yml` wizigje, **wês dan wis dat jo earst `.i18n/v/ol` wiskje** en it dan publisearje.
+
+##### Proxy-Tsjinner Publisearre Troch npm
+
+As brûkers op it fêstelân fan Sina netwurkproblemen tsjinkomme en `npm` pakketten net kinne publisearje, kinne se de omjouwingsfariabele `https_proxy` ynstelle om de proxyserver te konfigurearjen.
+
+Oannommen dat jo proxy-tsjinner poarte `7890` is, kinne jo skriuwe:
+
+```
+https_proxy=http://127.0.0.1:7890 i18n.site -n
+```
+
+#### Self-Hosted Ynhâld
+
+As jo de ynhâld sels hostje wolle, bewurkje earst `md/.i18n/htm/ol.yml` en feroarje `v: //unpkg.com/i18n.site` nei jo URL-foarheaksel, lykas `v: //i18n-v.xxx.com` .
+
+Fier de `md` map yn en rinne
+
+```
+i18n.site --htm_conf ol --save
+```
+
+of ôfkoarting
+
+```
+i18n.site -c ol -s
+```
+
+Konfigurearje dan de ynhâld yn 'e `md/out/ol/v` -map nei it URL-prefixpaad ynsteld yn `v:` .
+
+As lêste, **konfigurearje de cache-tiid fan it paad dat einiget op `/.v` nei `1s`** , oars kin de nij frijjûn ynhâld net direkt tagonklik wurde.
+
+De cachetiid foar oare paden kin ynsteld wurde op ien jier of mear om ûnnedige oanfragen te ferminderjen.
+
+##### Host Ynhâld Oan s3
+
+Om ynhâld sels te hostjen, neist it brûken fan jo eigen server, is `CDN` oare mienskiplike opsje om `S3` + te brûken.
+
+Jo kinne [rclone](https://rclone.org) om oan te melden by de `S3` tsjinner, ferwize dan nei en feroarje it folgjende skript, en kopiearje allinich de ynkrementele wizigingen nei `S3` foar elke release.
+
+```bash
+i18n.site -c ol -s
+s3=your-s3
+bucket=your-bucket
+ver=$(head -1 .i18n/v/ol/v.hash | cut -c 2-)
+rclone copy --overwrite-dir out/ol/htm/v/$ver $s3:/$bucket/$ver
+rclone copy out/ol/v/.v "$s3:/$bucket/"
+```
+
+Unthâld om `CDN` te konfigurearjen sadat de cache-tiid fan it paad dat op `/.v` einiget `1s` is, oars kin de nij útbrochte ynhâld net direkt tagonklik wurde.
+
+### Publisearje Webside
+
+De webside kin oeral ynset wurde [github page](https://pages.github.com) en [cloudflare page](https://pages.cloudflare.com) binne goede karren.
+
+Om't de webside in [applikaasje-arsjitektuer fan ien side](https://developer.mozilla.org/docs/Glossary/SPA) brûkt, tink dan om URL-paden te herskriuwen dy't gjin `. ` oant `index.html` befetsje.
+
+De yngongside fan 'e webside hoecht mar ien kear te wurde ynset, en d'r is gjin needsaak om de yngongside fan 'e webside opnij yn te setten foar folgjende ynhâldupdates.
+
+#### Ynsette Op github Side
+
+[Klikje hjir earst om in organisaasje te github](https://github.com/account/organizations/new?plan=free) De folgjende organisaasjenamme is `i18n-demo` as foarbyld.
+
+Meitsje dan pakhús `i18n-demo.github.io` ûnder dizze organisaasje (ferfange asjebleaft `i18n-demo` mei de organisaasjenamme dy't jo makke hawwe):
+
+![](https://p.3ti.site/1721098657.avif)
+
+By it publisearjen fan de ynhâld yn it foarige artikel is `out/ol/htm` oanmakke Fier dizze map yn en útfiere :
+
+```
+ln -s index.html 404.html
+```
+
+
+Om't `github page` it werskriuwen fan URL-paden net stipet, wurdt `404.html` ynstee brûkt.
+
+Fier dan it folgjende kommando út yn 'e map `htm` (ûnthâld om `i18n-demo/i18n-demo.github.io.git` te ferfangen mei jo eigen pakhúsadres) :
+
+```
+git init
+git branch -M main
+git remote add origin git@github.com:i18n-demo/i18n-demo.github.io.git
+git push -u origin main -f
+```
+
+Nei it triuwen fan 'e koade, wachtsje oant de ynset fan `github page` mei súkses rint (lykas hjirûnder werjûn) foardat jo tagong krije.
+
+<img src="//p.3ti.site/1721116586.avif" width="350px">
+
+Sjoch foar demo-side:
+
+[https://i18n-demo.github.io](https://i18n-demo.github.io)
+
+#### Ynsette Op Cloudflare-Side
+
+Yn [cloudflare page](//pages.cloudflare.com) mei `github page` , it jout paad herskriuwen en is mear freonlik foar it fêstelân fan Sina en is mear tagonklik It is oan te rieden om te brûken.
+
+De ynset fan `cloudflare page` is normaal basearre op de ynset fan `github page` hjirboppe.
+
+Meitsje in projekt en bine de `i18n-demo.github.io` pakhús hjirboppe.
+
+It proses wurdt werjûn yn 'e figuer hjirûnder:
+![](https://p.3ti.site/1721117897.avif)
+![](https://p.3ti.site/1721118239.avif)
+
+Klik asjebleaft `Add Account` om tagong te jaan oan organisaasje `i18n-demo` .
+
+As jo it pakhús fan in oare organisaasje bûn hawwe, moatte jo miskien twa kear op `Add Account` klikke om twa kear te autorisearjen foardat de nije organisaasje werjûn wurdt.
+
+![](https://p.3ti.site/1721118306.avif)
+
+Selektearje dan pakhús `i18n-demo.github.io` , klik dan op `Begin setup` , en brûk de standertwearden foar folgjende stappen.
+
+![](https://p.3ti.site/1721118490.avif)
+
+Nei it binen foar de earste kear, moatte jo in pear minuten wachtsje foardat jo tagong krije kinne.
+
+Nei ynset kinne jo in oanpaste domeinnamme bine.
+
+![](https://p.3ti.site/1721119459.avif)
+
+Nei it binen fan de oanpaste domeinnamme, gean asjebleaft nei de domeinnamme om it paadherskriuwen fan 'e applikaasje fan ien side te konfigurearjen, lykas hjirûnder werjûn:
+
+![](https://p.3ti.site/1721119320.avif)
+
+De regels yn de boppesteande foto binne as folget Ferfange asjebleaft `i18n.site` yn de earste rigel hjirûnder mei de domeinnamme dy't jo bûn.
+
+```
+(http.host in {"i18n.site"}) and not (
+substring(http.request.uri.path,-3) in {".js" ".gz"} or
+substring(http.request.uri.path,-4) in {".htm" ".rss" ".css" ".svg" ".ico" ".png" ".xml" ".txt"} or
+substring(http.request.uri.path,-5) in {".html" ".avif" ".json"} or
+ends_with(http.request.uri.path,".webmanifest")
+)
+```
+
+Stel dan ek de cache-regels yn, lykas hjirûnder werjûn, en set de cache-doer yn op ien moanne.
+
+![](https://p.3ti.site/1721125111.avif)
+
+Feroarje asjebleaft de domeinnamme dy't oerienkomt yn 'e twadde stap yn' e foto hjirboppe nei de domeinnamme dy't jo bûn hawwe.
+
+#### Optimalisearjen Fan Webside-Ynset Op It Fêstelân Fan Sina
+
+As jo bettere berikberensprestaasjes wolle krije yn 'e netwurkomjouwing fan it fêstelân fan Sina, [registrearje dan earst in domeinnamme](//beian.aliyun.com) .
+
+Brûk dan de objektopslach fan wolkferkeapers op it fêstelân fan Sina + Implementearje de folgjende ynhâld `CDN` `out/ol/htm`
+
+Jo kinne edge computing brûke om it paad te herskriuwen om oan te passen oan applikaasjes fan ien side Bygelyks, [Baidu Smart Cloud `CDN`](//cloud.baidu.com/product/cdn.html) kin sa konfigurearre wurde:
+
+```js
+var uri=r.uri,p=uri.lastIndexOf('.');
+if(
+  p<0 || !'|avif|css|html|ico|js|json|png|svg|txt|webmanifest|xml|'.includes('|'+uri.slice(p+1)+'|')
+){
+  r.uri='/index.html'
+}
+r.respHeader(()=>{
+var t = [];
+r.rawHeadersOut.forEach((i)=>{
+    var out = r.headersOut;
+    var key = i[0].toLowerCase();
+    if(key.startsWith('x-')||key.startsWith('ohc-')){
+        delete out[key]
+    }
+    out['Cache-Control']='max-age='+9e5;
+    ['Content-MD5','Age','Expires','Last-Modified'].forEach((i)=>delete out[i])
+})
+})
+```
+![](https://p.3ti.site/1721121273.avif)
+
+Om't record `MX` en record `CNAME` net tegearre bestean kinne, moatte jo as jo domeinnamme-e-mails tagelyk ûntfange wolle, gearwurkje mei [cname_flatten](https://github.com/i18n-site/lib/tree/main/cname_flatten) skript nei nivo `CNAME` yn record `A` .
+
+Derneist, om't de oerseeske ferkearskosten fan wolkferkeapers op it fêstelân fan Sina relatyf djoer binne, as jo de kosten wolle optimalisearje, kinne jo [de fergese geografyske resolúsje fan Huawei DNS](https://support.huaweicloud.com/usermanual-dns/dns_usermanual_0041.html) en de oanpaste domeinnamme fan [Cloudflare for SaaS](https://developers.cloudflare.com/cloudflare-for-platforms/cloudflare-for-saas) (lykas hjirûnder werjûn) brûke ferkear omlieding── Ferkear routing yn fêstelân Sina Baidu Cloud `CDN` , ynternasjonaal ferkear giet cloudflare .
+
+![](https://p.3ti.site/1721119788.avif)
+
+Dizze oplossings foar ynsetoptimalisaasje binne komplekser en sille yn 'e takomst yn aparte haadstikken wurde yntrodusearre.
+
+#### Generic Domeinnamme Omlieding
+
+As jo `i18n.site` brûke om in webside as jo haadwebside te generearjen, moatte jo meastentiids pan-domein-omlieding konfigurearje, dat is tagong ta `*.xxx.com` (ynklusyf `www.xxx.com` ) nei `xxx.com` .
+
+Dizze eask kin berikt wurde mei help fan Alibaba Cloud `CDN` `EdgeScript` ( [Ingelsk dokumint](https://www.alibabacloud.com/help/en/cdn/developer-reference/how-edgescript-works) / [Sineesk dokumint](https://help.aliyun.com/zh/cdn/developer-reference/edgescript) )
+
+Foegje de domeinnamme ta yn [Alibaba CDN](https://cdn.console.aliyun.com/domain/list) en wiis de domeinnamme `*.xxx.com` `CNAME` yn Alibaba Cloud `CDN` .
+
+![](https://p.3ti.site/1721122000.avif)
+
+Bygelyks, de pan-domeinnamme-omliedingskonfiguraasje fan `*.i18n.site` yn 'e ôfbylding hjirboppe is as folget:
+
+```
+rewrite(concat('https://i18n.site',$uri), 'redirect',301)
+```
+
+![](https://p.3ti.site/1721121934.avif)
+
+#### Ynsette Mei nginx
+
+Foegje asjebleaft in konfiguraasje ta lykas de `/root/i18n/md/out/ol/htm` yn 'e `server` paragraaf fan nginx `out/ol/htm`
+
+```
+location / {
+  root  /root/i18n/md/out/ol/htm;
+  add_header Cache-Control "max-age=9999999";
+  if ($uri !~* \.(avif|css|html|ico|js|json|png|svg|txt|webmanifest|xml)$) {
+     rewrite ^ /index.html last;
+  }
+}
+```
+
+### Directory Struktuer
+
+#### `public`
+
+Statyske bestannen fan 'e webside, lykas `favicon.ico` , `robots.txt` , ensfh.
+
+De ikoanbestannen hjir kinne wurde oanmakke mei [realfavicongenerator.net](https://realfavicongenerator.net)
+
+#### `.i18n`
+
+Under de `.i18n` triemtafel binne de konfiguraasje triemmen, oersetting cache, ensfh fan `i18n.site` Sjoch it folgjende haadstik ["Konfiguraasje"](/i18n.site/conf) foar details.
+
+#### `en`
+
+Boarnetaalmap, oerienkommende mei `en` fan `fromTo` yn `.i18n/conf.yml` konfiguraasjetriem
+
+```yaml
+i18n:
+  fromTo:
+    en: zh
+```
+
+Ferwize asjebleaft nei de konfiguraasje fan oersetting [i18](/i18/use)
