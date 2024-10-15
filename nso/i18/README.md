@@ -1,0 +1,1 @@
+# i18 : Mola Wa Taelo MarkDown & YAML Sedirišwa Sa Phetolelo

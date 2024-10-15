@@ -1,0 +1,1 @@
+# i18: Narzędzie do tłumaczenia wiersza poleceń Markdown & YAML

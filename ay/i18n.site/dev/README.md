@@ -1,0 +1,1 @@
+# Secundaria Ukan Nayrar Sartawipa

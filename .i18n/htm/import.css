@@ -1,0 +1,20 @@
+/*
+@import '//registry.npmmirror.com/fc3/latest/files/index.css';
+if want use local font , use like below
+
+@font-face {
+    font-family: 'h';
+    src: local('miui'),
+         local('BlinkMacSystemFont'),
+         local('Helvetica Neue'),
+         local('Helvetica'),
+         local('Segoe UI'),
+         local('Arial'),
+         local('Roboto'),
+         local('PingFang SC'),
+         local('Hiragino Sans GB'),
+         local('Microsoft Yahei');
+    font-style: normal;
+    font-weight: normal;
+}
+*/
