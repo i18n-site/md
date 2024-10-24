@@ -1,5 +1,21 @@
 # Lista Di Stili
 
+[Cliccate quì per cercà u schedariu fonte di sta pagina](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) per vede cumu scrive `MarkDown` in i seguenti stili.
+
+## & &
+
+__ hè u underscore __ ,~~ battutu~~ è testu di presentazione **in grassu** .
+
+Hè scrittu cusì:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+L'analizzatore `MarkDown` di l'uttellu di creazione di u situ web `i18n.site` hà ottimizatu a sintassi di sottolineatura, strisciata è grassa. Pò esse effettue senza spazii prima è dopu à a marca, facilitendu a scrittura di documenti in lingue cum'è Cina, Giappone è Corea. chì ùn utilizanu spazii cum'è separatori.
+
+Lettura : [Perchè a sintassi Markdown di Nuggets ( `**……**` ) a volte ùn hè micca efficace?](//juejin.cn/post/7064565848421171213)
+
 ## Citazione
 
 ### Citazione Una Sola Linea
@@ -14,6 +30,32 @@
 > E rumanzi di scenza cum'è "A Risposta Finale" d'Asimov descrizanu vividly i miliardi d'anni di storia di l'universu sanu, cumpresi l'omu, in pochi milla parolle.
 > Tali inclusività è audacia sò impussibili di ottene in a literatura tradiziunale.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Cunsigliu `> [!TIP]`
+
+> [!TIP]
+> Ricurdatevi di verificà a validità di u vostru passaportu è a visa.
+
+Hè scrittu cusì
+
+```
+> [!TIP]
+> your content
+```
+
+### Nota `> [!NOTE]`
+
+> [!NOTE]
+> Se mi mandate un missaghju è rispondu istantaneamente, chì significa?
+> Questu mostra chì mi piace veramente ghjucà cù i telefoni cellulari.
+
+
+### Avvertimentu `> [!WARN]`
+
+> [!WARN]
+> Quandu andà in una avventura salvatica, hè impurtante per stà sicuru.
+> A settimana passata, un gruppu di alpinisti hà scontru una tempesta à mità di a muntagna è anu da evacuà perchè ùn anu micca riesciutu à verificà a previsione di u clima.
+> Ricurdativi, ogni attività outdoor richiede una preparazione adatta è attente à u clima.
 
 ## Lista Da Fà
 

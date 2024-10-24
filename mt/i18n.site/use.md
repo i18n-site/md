@@ -1,14 +1,14 @@
 # Installa &
 
-## Token Tal-Konfigurazzjoni
-
-`i18n.site` għandu għodda ta' traduzzjoni `i18` integrata. Jekk jogħġbok [ikklikkja hawn biex tirreferi għad-dokument `i18` biex tikkonfigura t-token tal-aċċess](/i18/use) .
-
 ## Installa
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Tal-Konfigurazzjoni
+
+`i18n.site` għandu għodda ta' traduzzjoni `i18` integrata. Jekk jogħġbok [ikklikkja hawn biex tirreferi għad-dokument `i18` biex tikkonfigura t-token tal-aċċess](/i18/use) .
 
 ## Proġett Demo
 
@@ -64,7 +64,7 @@ Preview lokali ma jimpurtax min-numru tal-verżjoni u se tikkopja l-fajls kollha
 
 Għar-rilaxx uffiċjali, il-fajls mibdula jiġu kkupjati fid-direttorju tan-numru tal-verżjoni l-ġdid.
 
-#### Uża -c Biex Tispeċifika L-Fajl Tal-Konfigurazzjoni
+#### Speċifika L-Fajl Tal-Konfigurazzjoni `-c`
 
 Fajls ta' konfigurazzjoni differenti se joħolqu direttorji korrispondenti fid-direttorju `out` .
 
@@ -92,11 +92,9 @@ Il-pubblikazzjoni ta' kontenut għal [npmjs.com](//npmjs.com) hija s-soluzzjoni 
 
 Installa `nodejs` , idħol `npm login` .
 
-Editja `md/.i18n/htm/ol.yml` u ibdel `i18n.site` `v: //unpkg.com/i18n.site` għall-isem tal-pakkett `npm` tiegħek stess.
+Editja `md/.i18n/htm/ol.yml` u ibdel il-valur ta [npmjs.com](//npmjs.com) [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` bħala l-isem tal-pakkett `npm` tiegħek.
 
-Uża biss l-isem tal-pakkett mhux okkupat fuq [npmjs.com](//npmjs.com)
-
-Meta tippubblika bbażat fuq il-pakkett `npm` , kun **żgur li tuża `//unpkg.com/`** għall-prefiss ta 'valur `v:` `i18n.site` ottimizza b'mod speċjali l-ħin tal-cache ta' `/.v` taħt din il-mogħdija tal-prefiss biex tikseb wiri f'waqtu ta 'rilaxxi ġodda.
+Imbagħad immodifika `md/.i18n/htm/ol.package.json`
 
 Mexxi `i18n.site --npm` jew `i18n.site -n` fid-direttorju `md` biex tittraduċi u tippubblika.
 

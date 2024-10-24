@@ -1,14 +1,14 @@
 # Enstale &
 
-## Siy Konfigirasyon
-
-`i18n.site` gen yon zouti tradiksyon `i18` Tanpri [klike la a pou w al gade nan dokiman `i18` pou konfigirasyon siy aksè a](/i18/use) .
-
 ## Enstale
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Siy Konfigirasyon
+
+`i18n.site` gen yon zouti tradiksyon `i18` Tanpri [klike la a pou w al gade nan dokiman `i18` pou konfigirasyon siy aksè a](/i18/use) .
 
 ## Pwojè Demo
 
@@ -64,7 +64,7 @@ Aperçu lokal pa okipe nimewo vèsyon an epi li pral kopye tout fichye yo nan an
 
 Pou lage ofisyèl, yo pral kopye dosye ki chanje yo nan nouvo anyè nimewo vèsyon an.
 
-#### Sèvi Ak -c Pou Presize Fichye Konfigirasyon An
+#### Espesifye Fichye Konfigirasyon Ak `-c`
 
 Fichye konfigirasyon diferan pral kreye repèrtwar korespondan nan anyè `out` a.
 
@@ -92,11 +92,9 @@ Pibliye kontni nan [npmjs.com](//npmjs.com) se solisyon an default rekòmande (g
 
 Enstale `nodejs` , konekte ak `npm login` .
 
-Edit `md/.i18n/htm/ol.yml` epi chanje `i18n.site` nan `v: //unpkg.com/i18n.site` pou pwòp non pakè `npm` ou.
+Edit `md/.i18n/htm/ol.yml` epi chanje valè [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` kòm pwòp non pakè `npm` pa w [npmjs.com](//npmjs.com) ap fè.
 
-Jis itilize non pakè ki pa okipe sou [npmjs.com](//npmjs.com)
-
-Lè pibliye ki baze sou pake `npm` , **asire w ke ou sèvi ak `//unpkg.com/`** pou prefiks nan `v:` valè `i18n.site` te espesyalman optimize tan an `/.v` nan chemen prefiks sa a pou reyalize alè gade nan nouvo degaje.
+Lè sa a, modifye `md/.i18n/htm/ol.package.json`
 
 Kouri `i18n.site --npm` oswa `i18n.site -n` nan anyè `md` a pou tradui ak pibliye.
 

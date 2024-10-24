@@ -1,5 +1,21 @@
 # Daftar Gaya
 
+[Klik di sini untuk menelusuri file sumber halaman ini](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) guna melihat cara menulis `MarkDown` dengan gaya berikut.
+
+## Garis & &
+
+Ini adalah __ Garis bawah __ ,~~ dicoret~~ dan teks presentasi **tebal** .
+
+Tertulis sebagai berikut:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Parser `MarkDown` dari alat pembuatan situs web `i18n.site` telah mengoptimalkan sintaksis garis bawah, coretan, dan tebal. Ini dapat berlaku tanpa spasi sebelum dan sesudah tanda, sehingga memudahkan penulisan dokumen dalam bahasa seperti China, Jepang, dan Korea. yang tidak menggunakan spasi sebagai pemisah.
+
+Bacaan lebih lanjut : [Mengapa sintaks Markdown Nuggets ( `**……**` ) terkadang tidak berpengaruh?](//juejin.cn/post/7064565848421171213)
+
 ## Mengutip
 
 ### Kutipan Satu Baris
@@ -14,6 +30,32 @@
 > Dan novel fiksi ilmiah seperti "The Final Answer" karya Asimov dengan jelas menggambarkan miliaran tahun sejarah seluruh alam semesta, termasuk manusia, hanya dalam beberapa ribu kata.
 > Inklusivitas dan keberanian seperti itu tidak mungkin dicapai dalam sastra tradisional.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Kiat `> [!TIP]`
+
+> [!TIP]
+> Ingatlah untuk memeriksa keabsahan paspor dan visa Anda. Dokumen yang sudah habis masa berlakunya tidak dapat masuk atau keluar negara.
+
+Hal ini ditulis sebagai berikut
+
+```
+> [!TIP]
+> your content
+```
+
+### Catatan `> [!NOTE]`
+
+> [!NOTE]
+> Jika Anda mengirimi saya pesan dan saya langsung membalasnya, apa maksudnya?
+> Ini menunjukkan bahwa saya sangat suka bermain dengan ponsel.
+
+
+### Peringatan `> [!WARN]`
+
+> [!WARN]
+> Saat melakukan petualangan liar, penting untuk tetap aman.
+> Pekan lalu, sekelompok pendaki menghadapi badai di tengah perjalanan mendaki gunung dan harus mengungsi karena tidak bisa mengecek ramalan cuaca.
+> Ingat, aktivitas apa pun di luar ruangan memerlukan persiapan yang memadai dan perhatian terhadap cuaca.
 
 ## Daftar Tugas
 

@@ -20,14 +20,18 @@
 យកឯកសារកំណត់រចនាសម្ព័ន្ធ `.i18n/htm/ol.yml` នៅក្នុងគម្រោងសាកល្បងជាឧទាហរណ៍
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 ដំបូង សូមកែប្រែតម្លៃ `host:` ខាងលើទៅឈ្មោះដែនរបស់អ្នក ដូចជា `i18n.site` .

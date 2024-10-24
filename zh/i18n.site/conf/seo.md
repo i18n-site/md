@@ -20,14 +20,18 @@
 以演示项目中`.i18n/htm/ol.yml`配置文件为例
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 请首先修改上面`host:`的值为您的域名，比如`i18n.site`。

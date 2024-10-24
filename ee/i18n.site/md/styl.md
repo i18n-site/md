@@ -1,5 +1,21 @@
 # Atsyã Ƒe Xexlẽdzesiwo
 
+[Zi afisia dzi be nàdzro axa sia ƒe dzɔtsoƒe faɛl me](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) be nàkpɔ alesi woaŋlɔ `MarkDown` le atsyã siwo gbɔna me.
+
+## Te Fli Ɖe & &
+
+Esia __ __~~ strikethrough ƒe mɔnu~~ kple nuƒoƒo ƒe nuŋɔŋlɔ **si woŋlɔ kple nuŋɔŋlɔ dzẽ** .
+
+Woŋlɔe ale:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site` nyatakakadzraɖoƒe tutudɔwɔnu ƒe `MarkDown` parser la trɔ asi le nyagɔmeɖegbalẽ te, strikethrough, kple bold syntax ŋu wònyo wu Ate ŋu awɔ dɔ dometsotso aɖeke manɔmee do ŋgɔ na dzesia kple emegbe, si ana wòanɔ bɔbɔe be woaŋlɔ nuŋlɔɖiwo ɖe gbegbɔgblɔwo abe China, Japan, kple Korea ene me siwo mezãa teƒewo abe nusiwo ma wo dome ene o.
+
+: didi [Nukatae Nuggets ƒe Markdown nyagɔmeɖegbalẽ ( `**……**` ) mewɔa dɔ ɣeaɖewoɣi o?](//juejin.cn/post/7064565848421171213)
+
 ## To Nya
 
 ### Fli Ɖeka Ƒe Nyayɔyɔ
@@ -14,6 +30,32 @@
 > Eye dzɔdzɔmeŋutinunya me nyakpakpa gbalẽwo abe Asimov ƒe "Ŋuɖoɖo Mamlɛtɔ" ene ɖɔ xexeame katã ƒe ŋutinya si xɔ ƒe biliɔn geɖe, si me amegbetɔwo hã le, nyuie le nya akpe ʋɛ aɖewo ko me.
 > Womate ŋu akpɔ amewo katã ƒe gomekpɔkpɔ le eme kple dzideƒo alea le dekɔnu agbalẽwo me o.
 <p style="text-align:right">── Liu Cixin ƒe ŋkɔ</p>
+
+### Aɖaŋuɖoɖo `> [!TIP]`
+
+> [!TIP]
+> Ðo ŋku edzi nàlé ŋku ɖe wò mɔzɔgbalẽ kple visa ƒe nyonyome ŋu.
+
+Woŋlɔe ale
+
+```
+> [!TIP]
+> your content
+```
+
+### De Dzesii `> [!NOTE]`
+
+> [!NOTE]
+> Ne èɖo gbedasi ɖem eye meɖo eŋu enumake la, nukae ema fia?
+> Esia ɖee fia be melɔ̃a fefe kple asitelefonwo ŋutɔ.
+
+
+### Nuxlɔ̃ame `> [!WARN]`
+
+> [!WARN]
+> Ne èle gbemelãwo ƒe mɔzɔzɔ aɖe dzi yim la, ele vevie be nànɔ dedie.
+> Le kwasiɖa si va yi me la, tolialawo ƒe ƒuƒoƒo aɖe do go ahom aɖe le toa ƒe afã me eye wòva hiã be woaʋu le teƒea elabena womete ŋu lé ŋku ɖe yame ƒe nɔnɔme ŋu o.
+> Ðo ŋku edzi be gota gome nuwɔna ɖesiaɖe bia be nàdzra ɖo nyuie ahalé ŋku ɖe yame ƒe nɔnɔme ŋu.
 
 ## Nusiwo Wòle Be Nàwɔ Ƒe Xexlẽdzesi
 

@@ -1,14 +1,14 @@
 # Faka &
 
-## Uphawu Loqwalaselo
-
-`i18n.site` inesixhobo esakhelwe- `i18` sokuguqulela Nceda [cofa apha ukubhekisa kuxwebhu `i18` ukuqwalasela uphawu lofikelelo](/i18/use)
-
 ## Faka
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Uphawu Loqwalaselo
+
+`i18n.site` inesixhobo esakhelwe- `i18` sokuguqulela Nceda [cofa apha ukubhekisa kuxwebhu `i18` ukuqwalasela uphawu lofikelelo](/i18/use)
 
 ## Iprojekthi Yedemo
 
@@ -64,7 +64,7 @@ Imboniso yasekuhlaleni ayikhathali ngenani loguqulelo kwaye iya kukopa zonke iif
 
 Ukukhutshwa ngokusemthethweni, iifayile ezitshintshileyo ziya kukhutshelwa kuluhlu lwenombolo entsha.
 
-#### Sebenzisa -c Ukukhankanya Ifayile Yoqwalaselo
+#### Chaza Ifayile Yoqwalaselo Ngo `-c`
 
 Iifayile zoqwalaselo ezahlukeneyo ziyakudala abalawuli abahambelanayo kulawulo lwe `out` .
 
@@ -92,11 +92,9 @@ Ukupapasha umxholo [npmjs.com](//npmjs.com) esicetyiswayo (bona [i-Front-end Hig
 
 Faka i- `nodejs` , ngena nge `npm login` .
 
-Hlela `md/.i18n/htm/ol.yml` kwaye utshintshe `i18n.site` kwisi `v: //unpkg.com/i18n.site` uye kwigama lakho lephakheji `npm` .
+Hlela u `md/.i18n/htm/ol.yml` kwaye utshintshe ixabiso lesi [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` njengegama lakho lephakheji `npm` Naliphi na igama lepakethe [npmjs.com](//npmjs.com) liyakwenza.
 
-Sebenzisa nje igama lephakeji elingasetyenziswanga [npmjs.com](//npmjs.com)
-
-Xa upapasha ngokusekwe kwiphakheji `npm` , **qiniseka ukuba usebenzisa `//unpkg.com/`** kwi-prefix ye `v:` ixabiso le `i18n.site` liye lalungisa ngokukodwa ixesha le-cache ye `/.v` phantsi kwesi simaphambili sendlela yokufezekisa ukujonga kwangexesha kokukhutshwa okutsha.
+Emva koko lungisa `md/.i18n/htm/ol.package.json`
 
 Sebenzisa `i18n.site --npm` okanye `i18n.site -n` kuluhlu lwe `md` ukuguqulela kunye nokupapasha.
 

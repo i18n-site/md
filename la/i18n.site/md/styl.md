@@ -1,5 +1,21 @@
 # Style List
 
+[Hic strepita ut fontem fasciculi huius paginae percurras](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) ut videas quomodo `MarkDown` in sequentibus stylis scribam.
+
+## & &
+
+Hoc __ __~~ strikethrough~~ et **audax** propositio textui.
+
+Ita scriptum est:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Pars `MarkDown` instrumenti aedificationis `i18n.site` paginae optimizavit syntaxin underline, percellit et audax separatorum spatia non utuntur.
+
+[Markdown `**……**`](//juejin.cn/post/7064565848421171213) :
+
 ## Quote
 
 ### Una Linea Quote
@@ -14,6 +30,32 @@
 > Scientiae fictae fabulae sicut Asimov "The Final Answer" vivide describunt miliardiones annorum historiae totius mundi, inter homines, paucis mille verbis.
 > Tales inclusive audaciae et audaciae in traditis litteris assequi non possunt.
 <p style="text-align:right">Liu Cixin</p>
+
+### Indicium `> [!TIP]`
+
+> [!TIP]
+> Memento inspiciendi validitatem diplomatis tui et visae.
+
+Sic scriptum est
+
+```
+> [!TIP]
+> your content
+```
+
+### Animadverte `> [!NOTE]`
+
+> [!NOTE]
+> Si mihi nuntium mittis et statim respondeo, quid est hoc?
+> Hoc ostendit me vere amare ludentem cum telephoniis gestabilibus.
+
+
+### Monitum `> [!WARN]`
+
+> [!WARN]
+> Cum in casus ferox, tutum manere Gravis est.
+> Ultima septimana globus tellus in medio montis tempestatem incidit et decedere debuit quod tempestatem prospicere non potuit.
+> Memento, quaevis actio velit aptam praeparationem et attentionem ad tempestatem requirit.
 
 ## Ad-Facere Album
 

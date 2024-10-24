@@ -20,14 +20,18 @@ E mafai ona fa'atupu faila i totonu o le atunu'u, ae o se faiga masani o le tu'u
 Ave le faila faʻatulagaina `.i18n/htm/ol.yml` i le poloketi faʻataʻitaʻiga e fai ma faʻataʻitaʻiga
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Fa'amolemole suia muamua le tau o le `host:` i luga i lou igoa ole igoa, pei ole `i18n.site` .

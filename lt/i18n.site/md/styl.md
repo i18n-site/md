@@ -1,5 +1,21 @@
 # Stilių Sąrašas
 
+[Spustelėkite čia, norėdami naršyti šio puslapio šaltinio failą](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) ir pamatyti, kaip rašyti `MarkDown` šiais stiliais.
+
+## & &
+
+Tai __ pabraukimas __ ,~~ perbrauktas~~ ir **paryškintas** pristatymo tekstas.
+
+Tai parašyta taip:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site` svetainių kūrimo įrankio `MarkDown` analizatorius optimizavo pabraukimą, perbraukimą ir paryškintą sintaksę. Jis gali veikti be tarpų prieš ir po ženklą, todėl lengviau rašyti dokumentus tokiomis kalbomis kaip Kinija, Japonija ir Korėja. kuriose tarpai nenaudojami kaip skyrikliai.
+
+Išplėstinis : [Kodėl „Nuggets“ sintaksė Markdown ( `**……**` ) kartais neveikia?](//juejin.cn/post/7064565848421171213)
+
 ## Citata
 
 ### Vienos Eilutės Citata
@@ -14,6 +30,32 @@
 > O mokslinės fantastikos romanai, tokie kaip Asimovo „Galutinis atsakymas“, vos keliais tūkstančiais žodžių vaizdžiai aprašo milijardus metų trukusią visos visatos, įskaitant žmones, istoriją.
 > Tokio įtraukumo ir drąsos tradicinėje literatūroje pasiekti neįmanoma.
 <p style="text-align:right">── Liu Ciksinas</p>
+
+### Patarimas `> [!TIP]`
+
+> [!TIP]
+> Nepamirškite patikrinti savo paso galiojimo ir vizos, kurių galiojimo laikas pasibaigęs, negali įvažiuoti ar išvykti iš šalies.
+
+Tai parašyta taip
+
+```
+> [!TIP]
+> your content
+```
+
+### Pastaba `> [!NOTE]`
+
+> [!NOTE]
+> Jei atsiųsite man žinutę ir aš iškart atsakysiu, ką tai reiškia?
+> Tai rodo, kad man labai patinka žaisti su mobiliaisiais telefonais.
+
+
+### Įspėjimas `> [!WARN]`
+
+> [!WARN]
+> Leidžiantis į laukinius nuotykius, svarbu išlikti saugiems.
+> Praėjusią savaitę grupė alpinistų susidūrė su audra pusiaukelėje į kalną ir turėjo evakuotis, nes nepavyko patikrinti orų prognozės.
+> Atminkite, kad bet kokia veikla lauke reikalauja tinkamo pasiruošimo ir dėmesio oro sąlygoms.
 
 ## Užduočių Sąrašas
 

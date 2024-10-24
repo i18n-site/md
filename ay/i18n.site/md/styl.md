@@ -1,5 +1,21 @@
 # Estilo Ukan Listapa
 
+[Aka pankan phuqhat qillqat uñakipañatakix aka tuqir ch’iqt’am,](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) ukhamat kunjams `MarkDown` qillqt’añax aka estilos ukanakamp uñjañataki.
+
+## & Helga Ukax & Ukampiw Uñt'ayasi
+
+Akax __ __~~ huelga ukax mä juk’a pachanakanwa~~ ukat **chʼiyar chʼiyar** qellqat uñachtʼayañatak qellqata.
+
+Ukax akham qillqatawa:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site` sitio web lurañ herramienta ukan `MarkDown` parser ukax subrayado, strikethrough ukat sintaxis negrita ukanakaruw sum uñt’ayi, ukax jan espacios ukanakamp chimpuntata, ukat China, Japón ukat Corea uka arunakan qillqañax juk’amp jasakiw ukax janiw chiqanakarux jaljañjam apnaqapkiti.
+
+Jach’a uñakipaña : [¿Kunatsa Nuggets’ Markdown sintaxis ( `**……**` ) ukax awisax jan phuqhaskiti?](//juejin.cn/post/7064565848421171213)
+
 ## Chanichaña
 
 ### Mä Sapa Chimpumpiw Uñt’ayasi
@@ -14,6 +30,32 @@
 > Ukat Asimov chachan “Qhipa jaysäwi” ukham novelas de ciencia ficción ukanakax mä qawqha waranq arunakampikiw taqpach universo ukan waranqa waranqa maranakan sarnaqäwip uñt’ayi, jaqinakas ukhamaraki.
 > Ukham taqinir uñt’ayasiña ukat jan axsart’irïñax janiw nayra qillqatanakanx jikxataskaspati.
 <p style="text-align:right">── Liu Cixin ukat juk’ampinaka</p>
+
+### Iwxt’awi `> [!TIP]`
+
+> [!TIP]
+> Amtañani pasaporte ukatxa visa ukaxa chiqapa jani ukaxa documento expirado ukaxa janiwa markaru mantañapakiti jani ukaxa mistuñapataki.
+
+Ukax akham qillqt’atawa
+
+```
+> [!TIP]
+> your content
+```
+
+### Uñakipt’aña `> [!NOTE]`
+
+> [!NOTE]
+> Mä mensaje apayanipxita ukat nayax mä ratukiw jaysta, ¿kun sañs muni?
+> Ukaw celularanakampi anattʼañ wal munasitaj uñachtʼayi.
+
+
+### Uñt’ayawi `> [!WARN]`
+
+> [!WARN]
+> Kunawsatix mä sallqa aventura ukar sarktan ukhax wali askiw jan kuna usun qhiparañaxa.
+> Pasïr semananx mä tama qullu pataruw qullu patat chika thakinx mä thayampiw jikisipxäna, ukatx pachat sarxañaw wakisïna, kunatix janiw pachax kunjamas uk uñakipapkänti.
+> Amtañäni, kuna anqan lurañatakis suma wakichtʼasiñaw wakisi ukat pachar sum amuytʼañaw wakisi.
 
 ## Luräwinakat Lista
 

@@ -20,14 +20,18 @@ Statiske filer kan genereres lokalt, men det er mer vanlig å laste dem opp til 
 Tar `.i18n/htm/ol.yml` konfigurasjonsfilen i demonstrasjonsprosjektet som et eksempel
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Rediger først `host:`-verdien øverst til ditt domenenavn, for eksempel `i18n.site`.

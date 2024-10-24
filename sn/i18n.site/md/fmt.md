@@ -1,4 +1,4 @@
-# MarkDown Format Musangano
+# i18n.site MarkDown Kunyora Gungano
 
 ## Anchor Point
 
@@ -34,3 +34,10 @@ Unogona kureva kuitisa mu [github.com/i18n-site/md/en/README.md](https://raw.git
 ```
 
 Ziva kuti `<style>` inotsanangurwa zvakare `<pre>` pamusoro.
+
+
+## Mifananidzo/Mavhidhiyo/Zvinongedzo Mumitauro Yakawanda
+
+Mushure mekunge `MarkDown` yashandurwa kuita `HTML` , `$LANG` muhunhu `src` uye `href` ichatsiviwa nekodhi [yemutauro](/i18/LANG_CODE) iripo.
+
+Nekuchinja uku, unogona kuwana mitauro yakawanda yemifananidzo/mavhidhiyo/malink.

@@ -20,14 +20,18 @@
 데모 프로젝트의 `.i18n/htm/ol.yml` 구성 파일을 예로 들어 보겠습니다.
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 먼저 위의 `host:` 값을 도메인 이름으로 수정하세요(예: `i18n.site` .

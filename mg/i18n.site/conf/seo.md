@@ -20,14 +20,18 @@ Ny rakitra static dia azo amboarina eo an-toerana, fa ny fomba mahazatra kokoa d
 Raiso ho ohatra ny rakitra fanamafisana `.i18n/htm/ol.yml` ao amin'ny tetikasa demo
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ovao aloha ny sandan'ny `host:` etsy ambony amin'ny anaran'ny sehatrao, toy ny `i18n.site` .

@@ -20,14 +20,18 @@
 ಡೆಮೊ ಯೋಜನೆಯಲ್ಲಿ `.i18n/htm/ol.yml` ಕಾನ್ಫಿಗರೇಶನ್ ಫೈಲ್ ಅನ್ನು ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 ದಯವಿಟ್ಟು ಮೊದಲು ಮೇಲಿನ `host:` ಮೌಲ್ಯವನ್ನು ನಿಮ್ಮ ಡೊಮೇನ್ ಹೆಸರಿಗೆ ಮಾರ್ಪಡಿಸಿ, ಉದಾಹರಣೆಗೆ `i18n.site` .

@@ -1,14 +1,14 @@
 # Pasang &
 
-## Token Konfigurasi
-
-`i18n.site` mempunyai alat terjemahan `i18` terbina dalam Sila [klik di sini untuk merujuk kepada `i18` dokumen untuk mengkonfigurasi token akses](/i18/use) .
-
 ## Pasang
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Konfigurasi
+
+`i18n.site` mempunyai alat terjemahan `i18` terbina dalam Sila [klik di sini untuk merujuk kepada `i18` dokumen untuk mengkonfigurasi token akses](/i18/use) .
 
 ## Projek Demo
 
@@ -64,7 +64,7 @@ Pratonton tempatan tidak mengambil berat tentang nombor versi dan akan menyalin 
 
 Untuk keluaran rasmi, fail yang diubah akan disalin ke direktori nombor versi baharu.
 
-#### Gunakan -c Untuk Menentukan Fail Konfigurasi
+#### Tentukan Fail Konfigurasi Dengan `-c`
 
 Fail konfigurasi yang berbeza akan mencipta direktori yang sepadan dalam direktori `out` .
 
@@ -92,11 +92,9 @@ Menerbitkan kandungan kepada [npmjs.com](//npmjs.com) ialah penyelesaian lalai y
 
 Pasang `nodejs` , log masuk dengan `npm login` .
 
-Edit `md/.i18n/htm/ol.yml` dan tukar `i18n.site` dalam `v: //unpkg.com/i18n.site` kepada `npm` nama pakej anda sendiri.
+Edit `md/.i18n/htm/ol.yml` dan tukar nilai [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` sebagai nama pakej `npm` anda sendiri pada [npmjs.com](//npmjs.com)
 
-Hanya gunakan nama pakej kosong pada [npmjs.com](//npmjs.com) Menggunakan nama domain tapak web kerana nama pakej adalah pilihan yang baik.
-
-Apabila menerbitkan berdasarkan pakej `npm` , **pastikan anda menggunakan `//unpkg.com/`** untuk awalan `v:` nilai `i18n.site` telah mengoptimumkan masa cache `/.v` secara khusus di bawah laluan awalan ini untuk mencapai paparan keluaran baharu yang tepat pada masanya.
+Kemudian ubah suai `md/.i18n/htm/ol.package.json`
 
 Jalankan `i18n.site --npm` atau `i18n.site -n` dalam direktori `md` untuk menterjemah dan menerbitkan.
 

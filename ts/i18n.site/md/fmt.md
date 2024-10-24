@@ -1,4 +1,4 @@
-# Ntwanano Wa Xivumbeko Xa MarkDown
+# i18n.site Nhlengeletano Ya Ku Tsala Ya MarkDown
 
 ## Nhlokomhaka Ya Anchor
 
@@ -34,3 +34,10 @@ U nga kongomisa eka ku tirhisiwa eka [github.com/i18n-site/md/en/README.md](http
 ```
 
 Xiya leswaku `<style>` yi tlhela yi hlamuseriwa eka `<pre>` laha henhla.
+
+
+## Swifaniso/Tivhidiyo/Swihlanganisi Hi Tindzimi to Tala
+
+Endzhaku ka loko `MarkDown` yi hundzuriwile yi va `HTML` , `$LANG` eka swihlawulekisi swa `src` na `href` yi ta siviwa hi [khodi ya ririmi](/i18/LANG_CODE) ya sweswi .
+
+Hi ku cinca-cinca loku, u nga fikelela ku tirhisiwa ka tindzimi to tala ka swifaniso/tivhidiyo/swihlanganisi.

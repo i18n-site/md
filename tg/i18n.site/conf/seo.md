@@ -20,14 +20,18 @@
 Файли конфигуратсияи `.i18n/htm/ol.yml` ро дар лоиҳаи намоишӣ ҳамчун мисол гиред
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Лутфан аввал арзиши `host:` -ро дар боло ба номи домени худ тағир диҳед, масалан `i18n.site` .

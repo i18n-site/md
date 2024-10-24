@@ -20,14 +20,18 @@ Os ficheiros estáticos pódense xerar localmente, pero un enfoque máis común 
 Tome o ficheiro de configuración `.i18n/htm/ol.yml` no proxecto de demostración como exemplo
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Primeiro modifica o valor de `host:` anterior ao teu nome de dominio, como `i18n.site` .

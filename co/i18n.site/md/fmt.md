@@ -1,4 +1,4 @@
-# Cunvenzione Di Furmatu MarkDown
+# i18n.site MarkDown Cunvenzione Di Scrittura
 
 ## Puntu Di Ancora
 
@@ -34,3 +34,10 @@ Pudete riferite à l'implementazione in [github.com/i18n-site/md/en/README.md](h
 ```
 
 Nota chì `<style>` hè ancu definitu in `<pre>` sopra.
+
+
+## Foto / Video / Ligami in Parechje Lingue
+
+Dopu chì `MarkDown` hè cunvertitu in `HTML` , `$LANG` in l'attributi `src` è `href` serà rimpiazzatu cù u [codice di lingua](/i18/LANG_CODE) attuale.
+
+Cù sta variabile, pudete ottene a multilingualizazione di ritratti / video / ligami.

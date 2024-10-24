@@ -20,14 +20,18 @@ Statische bestanden kunnen lokaal gegenereerd worden, maar het is gebruikelijker
 Neem bijvoorbeeld het configuratiebestand `.i18n/htm/ol.yml` uit het demonstratieproject
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Wijzig eerst de waarde van `host:` bovenaan naar uw domeinnaam, zoals `i18n.site`.

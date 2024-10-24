@@ -1,14 +1,14 @@
 # Telepítse &
 
-## Konfigurációs Token
-
-`i18n.site` beépített `i18` fordítóeszközzel rendelkezik. [Kattintson ide a `i18` dokumentum megtekintéséhez a hozzáférési token konfigurálásához](/i18/use) .
-
 ## Telepítés
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurációs Token
+
+`i18n.site` beépített `i18` fordítóeszközzel rendelkezik. [Kattintson ide a `i18` dokumentum megtekintéséhez a hozzáférési token konfigurálásához](/i18/use) .
 
 ## Demo Projekt
 
@@ -64,7 +64,7 @@ A helyi előnézet nem törődik a verziószámmal, és az összes fájlt a `out
 
 A hivatalos kiadáshoz a módosított fájlok az új verziószámú könyvtárba lesznek másolva.
 
-#### A -c Használatával Adja Meg a Konfigurációs Fájlt
+#### Adja Meg a Konfigurációs Fájlt `-c` Val
 
 A különböző konfigurációs fájlok megfelelő könyvtárakat hoznak létre a `out` könyvtárban.
 
@@ -92,11 +92,9 @@ Az ajánlott alapértelmezett megoldás a tartalom közzététele [a](/i18n.site
 
 Telepítse `nodejs` , jelentkezzen be `npm login` .
 
-Szerkessze `md/.i18n/htm/ol.yml` és módosítsa `i18n.site` `v: //unpkg.com/i18n.site` -ben a saját `npm` csomagnevére.
+Szerkessze `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) változtassa meg az [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` -re a saját `npm` csomagnévként.
 
-Csak használja az üres csomagnevet a webhelyen [npmjs.com](//npmjs.com)
-
-`npm` `i18n.site` alapuló közzétételkor **ügyeljen arra, hogy `//unpkg.com/` használjon** az `v:` es `/.v` .
+Ezután módosítsa `md/.i18n/htm/ol.package.json`
 
 Futtassa `i18n.site --npm` vagy `i18n.site -n` a `md` könyvtárban a fordításhoz és közzétételhez.
 

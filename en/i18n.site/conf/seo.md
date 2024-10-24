@@ -20,14 +20,18 @@ Static files can be generated locally, but it is more common to upload them to o
 Consider the `.i18n/htm/ol.yml` configuration file from the demonstration project as an example
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Please first update the value of `host:` to your domain name, for instance, `i18n.site`.

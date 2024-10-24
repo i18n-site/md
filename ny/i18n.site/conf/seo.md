@@ -20,14 +20,18 @@ Mafayilo osasunthika amatha kupangidwa kwanuko, koma njira yodziwika bwino ndiku
 Tengani fayilo yosinthira `.i18n/htm/ol.yml` mu polojekiti yachiwonetsero monga chitsanzo
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Chonde sinthani kaye mtengo wa `host:` pamwamba pa dzina lanu, monga `i18n.site` .

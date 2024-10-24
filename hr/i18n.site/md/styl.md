@@ -1,5 +1,21 @@
 # Popis Stilova
 
+[Kliknite ovdje da pregledate izvornu datoteku ove stranice](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) i vidite kako napisati `MarkDown` u sljedećim stilovima.
+
+## Podcrtano & Precrtano &
+
+__ je podvlaka __ ,~~ precrtano~~ i **podebljani** prezentacijski tekst.
+
+Napisano je na sljedeći način:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`MarkDown` alat za izradu web `i18n.site` optimizirao je podcrtano, precrtano i podebljano sintaksu. Može stupiti na snagu bez razmaka prije i poslije oznake, što olakšava pisanje dokumenata na jezicima kao što su Kina, Japan i Koreja. koji ne koriste razmake kao separatore.
+
+Prošireno čitanje : [Zašto Nuggetsova Markdown sintaksa ( `**……**` ) ponekad ne djeluje?](//juejin.cn/post/7064565848421171213)
+
 ## Citat
 
 ### Jednoredni Citat
@@ -14,6 +30,32 @@
 > A znanstvenofantastični romani poput Asimovljevog "Konačnog odgovora" živopisno opisuju milijarde godina povijesti čitavog svemira, uključujući i ljudska bića, u samo nekoliko tisuća riječi.
 > Takvu uključivost i smjelost nemoguće je postići u tradicionalnoj književnosti.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Savjet `> [!TIP]`
+
+> [!TIP]
+> Ne zaboravite provjeriti valjanost vaše putovnice i vize s isteklim dokumentima ne možete ući ili izaći iz zemlje.
+
+Napisano je kako slijedi
+
+```
+> [!TIP]
+> your content
+```
+
+### Napomena `> [!NOTE]`
+
+> [!NOTE]
+> Ako mi pošaljete poruku i ja odmah odgovorim, što to znači?
+> Ovo pokazuje da se stvarno volim igrati s mobitelima.
+
+
+### Upozorenje `> [!WARN]`
+
+> [!WARN]
+> Kada idete u divlju avanturu, važno je ostati siguran.
+> Prošli tjedan grupa penjača naišla je na oluju na pola puta do planine i morali su se evakuirati jer nisu provjerili vremensku prognozu.
+> Zapamtite, svaka aktivnost na otvorenom zahtijeva odgovarajuću pripremu i pozornost na vremenske prilike.
 
 ## Popis Obaveza
 

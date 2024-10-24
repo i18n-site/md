@@ -1,4 +1,4 @@
-# MarkDown Formaat Konvensie
+# i18n.site MarkDown Skryfkonvensie
 
 ## Ankerpunt
 
@@ -34,3 +34,10 @@ Jy kan verwys na die implementering in [github.com/i18n-site/md/en/README.md](ht
 ```
 
 Let daarop dat `<style>` ook in `<pre>` hierbo gedefinieer word.
+
+
+## Prente/Video's/Skakels in Verskeie Tale
+
+Nadat `MarkDown` na `HTML` omgeskakel is, sal `$LANG` in kenmerke `src` en `href` vervang word met die huidige [taalkode](/i18/LANG_CODE) .
+
+Met hierdie veranderlike kan jy meertaligheid van foto's/video's/skakels bereik.

@@ -1,14 +1,14 @@
 # Installer &
 
-## Jeton De Configuration
-
-`i18n.site` dispose d'un outil de traduction `i18` intégré. Veuillez [cliquer ici pour vous référer au document `i18` pour configurer le jeton d'accès](/i18/use) .
-
 ## Installer
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Jeton De Configuration
+
+`i18n.site` dispose d'un outil de traduction `i18` intégré. Veuillez [cliquer ici pour vous référer au document `i18` pour configurer le jeton d'accès](/i18/use) .
 
 ## Projet De Démonstration
 
@@ -64,7 +64,7 @@ L'aperçu local ne se soucie pas du numéro de version et copiera tous les fichi
 
 Pour la sortie officielle, les fichiers modifiés seront copiés dans le nouveau répertoire du numéro de version.
 
-#### Utilisez -c Pour Spécifier Le Fichier De Configuration
+#### Spécifiez Le Fichier De Configuration Avec `-c`
 
 Différents fichiers de configuration créeront des répertoires correspondants dans le répertoire `out` .
 
@@ -92,11 +92,9 @@ La publication de contenu sur [npmjs.com](//npmjs.com) est la solution par défa
 
 Installez `nodejs` , connectez-vous avec `npm login` .
 
-Modifiez `md/.i18n/htm/ol.yml` et remplacez `i18n.site` en `v: //unpkg.com/i18n.site` par votre propre nom de package `npm` .
+Modifiez `md/.i18n/htm/ol.yml` et changez la valeur de [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` comme votre propre nom de `npm` . Tout nom de package inoccupé sur [npmjs.com](//npmjs.com)
 
-Utilisez simplement le nom du package inoccupé sur [npmjs.com](//npmjs.com) Utiliser le nom de domaine du site Web comme nom du package est un bon choix.
-
-Lors de la publication basée sur le package `npm` , **assurez-vous d'utiliser `//unpkg.com/`** pour le préfixe de `v:` `i18n.site` a spécialement optimisé le temps de cache de `/.v` sous ce chemin de préfixe pour permettre une visualisation rapide des nouvelles versions.
+Puis modifiez `md/.i18n/htm/ol.package.json`
 
 Exécutez `i18n.site --npm` ou `i18n.site -n` dans le répertoire `md` pour traduire et publier.
 

@@ -1,5 +1,21 @@
 # Style List (Cogo Lisi).
 
+[Aw ye nin yɔrɔ digi walasa ka nin ɲɛ in sɔrɔyɔrɔ filen lajɛ](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) walasa ka `MarkDown` sɛbɛncogo ye nin cogoya ninnu na.
+
+## Jatebɔ Kɛ Ni & Ye &
+
+Nin __ __~~ strikethrough (bɔgɔdaga).~~ ani ɲɛjirali sɛbɛn **jɛman** .
+
+A sɛbɛnnen bɛ nin cogo la:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site` site web jɔli baarakɛminɛn `MarkDown` parser ye underline, strikethrough ani bold syntax (daɲɛ kɔrɔfɔcogo) ɲɛnabɔ ka ɲɛ A bɛ se ka baara kɛ ni yɔrɔw tɛ yen ka kɔn taamasiyɛn ɲɛ ani a kɔfɛ, o b’a to sɛbɛnw sɛbɛnni ka nɔgɔn kanw na i n’a fɔ Sinuwa, Zapɔn ani Kore minnu tɛ baara kɛ ni yɔrɔw ye i n’a fɔ danfaralanw.
+
+Kalan janyalen : [na Nuggets ka Markdown syntax ( `**……**` ) tɛ baara kɛ tuma dɔw la?](//juejin.cn/post/7064565848421171213)
+
 ## Ka Sɔngɔ Jateminɛ
 
 ### Zana Kelen Fɔcogo
@@ -14,6 +30,32 @@
 > Wa dɔnniya gafe minnu bɛ i n’a fɔ Asimov ka « Jaabi laban », olu bɛ diɲɛ bɛɛ tariku san miliyari caman ɲɛfɔ ka jɛya, hadamadenw fana sen bɛ o la, daɲɛ ba damadɔ dɔrɔn kɔnɔ.
 > O bɛɛjɛfanga ni jagɛlɛya sugu tɛ se ka sɔrɔ laadala sɛbɛnw kɔnɔ.
 <p style="text-align:right">── Liu Sixin ye baara kɛ</p>
+
+### Ladilikan `> [!TIP]`
+
+> [!TIP]
+> Aw ye aw hakili to a la ka aw ka pasipɔri ni aw ka visa tiɲɛni lajɛ.
+
+A sɛbɛnnen bɛ nin cogo la
+
+```
+> [!TIP]
+> your content
+```
+
+### Kɔlɔsili `> [!NOTE]`
+
+> [!NOTE]
+> Ni i ye ci bila n ma, n y’a jaabi o yɔrɔnin bɛɛ la, o kɔrɔ ye mun ye?
+> O b’a jira ko tulon kɛli ni telefɔni selilɛriw ye kosɛbɛ.
+
+
+### Ladilikan `> [!WARN]`
+
+> [!WARN]
+> Ni aw bɛ taa kungo kɔnɔ, a nafa ka bon aw ka to aw yɛrɛ la.
+> Dɔgɔkun tɛmɛnen, jiginnikɛlaw kulu dɔ ye fɔɲɔba dɔ sɔrɔ kulu tilancɛ la, wa u tun ka kan ka bɔ yen bawo u ma se ka waati jateminɛ.
+> Aw k’aw hakili to a la ko kɛnɛma baara o baara bɛ kɛ ni labɛn ɲuman ye ani ka aw janto waati la.
 
 ## Baara Minnu Ka Kan Ka Kɛ, Olu Lisɛli
 

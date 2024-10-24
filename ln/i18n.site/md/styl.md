@@ -1,5 +1,21 @@
 # Liste Ya Ba Styles
 
+[Finá awa mpo na kotala fisyé source ya lokasa oyo](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) mpo na komona ndenge ya kokoma `MarkDown` na ba styles oyo elandi.
+
+## & Na Nzela Ya &
+
+Oyo ezali Souligner __ , __~~ strikethrough na nzela ya grève~~ mpe makomi ya kolakisa **na moindo makasi** .
+
+Ekomami boye :
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Parser `MarkDown` ya esaleli ya kotonga site internet `i18n.site` ebongisi syntaxe ya souligner, strikethrough, mpe ya gras Ekoki kozua effet sans espaces avant et après marque, kosala que ezala facile kokoma mikanda na minoko lokola Chine, Japon, na Corée oyo esalelaka bisika te lokola bakaboli.
+
+Botangi ya molai : [Mpo na nini syntaxe ya Nuggets’ Markdown ( `**……**` ) ezwamaka ntango mosusu te?](//juejin.cn/post/7064565848421171213)
+
 ## Kozongela
 
 ### Citatio Ya Molɔngɔ Moko
@@ -14,6 +30,32 @@
 > Mpe mikanda ya siansi lokola "Eyano ya nsuka" ya Asimov elobeli polele bamiliare ya bambula ya lisolo ya molɔ́ngɔ́ mobimba, ata mpe bato, na mwa bankóto ya maloba mpamba.
 > Bosangisi bato banso mpe mpiko ya boye ekoki kosalema te na mikanda ya bonkoko.
 <p style="text-align:right">── Liu Cixin, oyo azali na mbongo mingi</p>
+
+### Toli `> [!TIP]`
+
+> [!TIP]
+> Kobosana te kotala validité ya passeport mpe visa na yo Mikanda oyo esilaki ekoki kokota to kobima na mboka te.
+
+Ekomami boye
+
+```
+> [!TIP]
+> your content
+```
+
+### Liyebisi `> [!NOTE]`
+
+> [!NOTE]
+> Soki otindeli ngai message mpe na répondre mbala moko, yango elingi koloba nini?
+> Yango emonisi ete nalingaka mpenza kosakana na batelefone ya mabɔkɔ.
+
+
+### Kebisa `> [!WARN]`
+
+> [!WARN]
+> Tango ozali kokende na aventure ya zamba, ezali important ozala na sécurité.
+> Pɔsɔ eleki, etuluku moko ya bato oyo bazalaki komata ngomba bakutanaki na mopɛpɛ makasi na katikati ya ngomba mpe basengelaki kolongwa mpo balongaki te kotala ndenge ntango ezalaki.
+> Kobosana te ete mosala nyonso ya libanda esɛngaka komibongisa malamu mpe kotya likebi na ntango.
 
 ## Liste Ya Makambo Oyo Esengeli Kosala
 

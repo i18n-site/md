@@ -20,14 +20,18 @@ Static mafaera anogona kugadzirwa munharaunda, asi nzira yakajairika ndeyekuaisa
 Tora iyo `.i18n/htm/ol.yml` yekumisikidza faira mune demo purojekiti semuenzaniso
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ndokumbira utange wagadzirisa kukosha `host:` kumusoro kune zita rako rezita, senge `i18n.site` .

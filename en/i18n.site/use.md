@@ -1,14 +1,14 @@
 # Install & Deploy
 
-## Configuration Token
-
-`i18n.site` incorporates an embedded `i18` translation tool. Please [refer to the `i18` documentation for instructions on configuring the access token](/i18/use).
-
 ## Installation
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuration Token
+
+`i18n.site` incorporates an embedded `i18` translation tool. Please [refer to the `i18` documentation for instructions on configuring the access token](/i18/use).
 
 ## Demo Project
 
@@ -64,7 +64,7 @@ For local preview, the version number is irrelevant, as all files will be copied
 
 For a formal release, modified files will be copied to a new version number directory.
 
-#### Use -c to Specify the Configuration File
+#### Specify the configuration file using `-c`
 
 Different configuration files will generate corresponding directories within the `out` directory.
 
@@ -92,11 +92,9 @@ Publishing content to [npmjs.com](//npmjs.com) is the recommended default approa
 
 Install `nodejs` and log in using `npm login`.
 
-Edit `md/.i18n/htm/ol.yml` and modify `i18n.site` in `v: //unpkg.com/i18n.site` to your own `npm` package name.
+Please edit `md/.i18n/htm/ol.yml` and replace the value of [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` with the name of your own `npm` package. Any name that is not taken on [npmjs.com](//npmjs.com) is acceptable.
 
-Choose an unoccupied package name on [npmjs.com](//npmjs.com), and using your website domain as the package name is a good option.
-
-When publishing based on the `npm` package, **always** use `//unpkg.com/` as the prefix for the `v:` value. `i18n.site` has implemented special optimizations for the cache time of `/.v` under this prefix path, ensuring that new releases are visible in a timely manner.
+Afterward, make the necessary modifications to `md/.i18n/htm/ol.package.json`
 
 Run `i18n.site --npm` or `i18n.site -n` in the `md` directory to translate and publish.
 

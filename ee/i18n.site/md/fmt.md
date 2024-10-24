@@ -1,4 +1,4 @@
-# MarkDown Ƒe Nɔnɔme Ƒe Takpekpe
+# i18n.site MarkDown Nuŋɔŋlɔ Ƒe Takpekpe
 
 ## Seke Ƒe Teƒe
 
@@ -34,3 +34,10 @@ Ne ètsɔ nya eve siawo ƒo ƒui la, àte ŋu aŋlɔ `HTML` le `MarkDown` me bɔ
 ```
 
 De dzesii be woɖe `<style>` hã gɔme le `<pre>` me le etame.
+
+
+## Nɔnɔmetatawo/Videowo/Kadodowo Le Gbegbɔgblɔ Geɖe Me
+
+Ne wotrɔ `MarkDown` wòzu `HTML` vɔ la , woatsɔ [gbegbɔgblɔ ƒe kɔpi](/i18/LANG_CODE) si li fifia aɖɔli `$LANG` le nɔnɔme `src` kple `href` me .
+
+Ne èzã tɔtrɔ sia la, àte ŋu aɖo nɔnɔmetatawo/videowo/kadodowo ƒe gbegbɔgblɔ geɖe dodo gbɔ.

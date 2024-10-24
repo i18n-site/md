@@ -20,14 +20,18 @@ Filenw jɔlenw bɛ Se ka Dabɔ sigida la, nka fɛɛrɛ min ka teli ka Kɛ o ye k
 Aw ye `.i18n/htm/ol.yml` labɛncogo filen min bɛ demo poroze kɔnɔ, o ta ka kɛ misali ye
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Aw ye fɔlɔ ka `host:` nafa caman sɛmɛntiya sanfɛ ka kɛ aw ka domani tɔgɔ ye, i n’a fɔ `i18n.site` .

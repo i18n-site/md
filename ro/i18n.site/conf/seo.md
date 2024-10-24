@@ -20,14 +20,18 @@ Fișierele statice pot fi generate local, dar o abordare mai comună este să le
 Luați ca exemplu fișierul de configurare `.i18n/htm/ol.yml` din proiectul demo
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Mai întâi modificați valoarea `host:` de mai sus la numele dvs. de domeniu, cum ar fi `i18n.site` .

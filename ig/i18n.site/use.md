@@ -1,14 +1,14 @@
 # Wụnye &
 
-## Token Nhazi
-
-`i18n.site` nwere ngwa ntụgharị asụsụ `i18` arụnyere n'ime ya, biko [pịa ebe a iji rụtụ aka na akwụkwọ `i18` iji hazie akara nnabata](/i18/use) .
-
 ## Wụnye
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Nhazi
+
+`i18n.site` nwere ngwa ntụgharị asụsụ `i18` arụnyere n'ime ya, biko [pịa ebe a iji rụtụ aka na akwụkwọ `i18` iji hazie akara nnabata](/i18/use) .
 
 ## Ihe Ngosi Ngosi
 
@@ -64,7 +64,7 @@ Nhụchalụ mpaghara anaghị eche maka nọmba ụdị ahụ ma ọ ga-eṅomi
 
 Maka mwepụta gọọmentị, a ga-eṅomi faịlụ ndị gbanwere na ndekọ nọmba ụdị ọhụrụ.
 
-#### Jiri -c Kọwaa Faịlụ Nhazi
+#### Ezipụta Faịlụ Nhazi Na `-c`
 
 Faịlụ nhazi dị iche iche ga-emepụta akwụkwọ ndekọ aha kwekọrọ na ndekọ `out` .
 
@@ -92,11 +92,9 @@ Na [-](/i18n.site/feature#ha) ebipụta ọdịnaya na [npmjs.com](//npmjs.com)
 
 Wụnye `nodejs` , banye na `npm login` .
 
-Dezie `md/.i18n/htm/ol.yml` wee gbanwee `i18n.site` na `v: //unpkg.com/i18n.site` ka ọ bụrụ aha ngwugwu `npm` nke gị.
+Dezie `md/.i18n/htm/ol.yml` wee gbanwee uru nke [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` dị ka aha ngwugwu `npm` nke gị onwe gị [npmjs.com](//npmjs.com) -eme.
 
-Naanị jiri aha ngwugwu na-enweghị ọrụ na [npmjs.com](//npmjs.com)
-
-Mgbe ị na-ebipụta dabere na ngwugwu `npm` , **jide n'aka na ị ga-eji `//unpkg.com/`** maka prefix nke `v:` uru `i18n.site` emeberela oge nchekwa nke `/.v` n'okpuru ụzọ prefix a iji nweta nlele oge nke mwepụta ọhụrụ.
+Mgbe ahụ gbanwee `md/.i18n/htm/ol.package.json`
 
 Gbaa `i18n.site --npm` ma ọ bụ `i18n.site -n` n'ime ndekọ aha `md` iji tụgharịa asụsụ na bipụta.
 

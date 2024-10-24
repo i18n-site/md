@@ -20,14 +20,18 @@
 Мисал итеп демо проектындагы `.i18n/htm/ol.yml` конфигурация файлын алыгыз
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Зинһар, башта `host:` кебек кыйммәтне домен исемегезгә үзгәртегез, мәсәлән `i18n.site` .

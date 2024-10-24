@@ -20,14 +20,18 @@ Hiki ke hana ʻia nā faila static ma ka ʻāina, akā ʻo kahi ala maʻamau ka 
 E lawe i ka faila hoʻonohonoho `.i18n/htm/ol.yml` i ka papahana demo ma ke ʻano he laʻana
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 E ʻoluʻolu e hoʻololi mua i ka waiwai o `host:` ma luna i kou inoa kikowaena, e like me `i18n.site` .

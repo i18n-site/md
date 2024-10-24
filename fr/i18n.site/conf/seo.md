@@ -20,14 +20,18 @@ Les fichiers statiques peuvent être générés localement, mais une approche pl
 Prenons comme exemple le fichier de configuration `.i18n/htm/ol.yml` dans le projet de démonstration
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Veuillez d'abord modifier la valeur `host:` ci-dessus pour votre nom de domaine, par exemple `i18n.site` .

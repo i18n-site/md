@@ -1,14 +1,14 @@
 # ጫን &
 
-## የውቅር ማስመሰያ
-
-`i18n.site` አብሮ የተሰራ `i18` [`i18`](/i18/use) መሳሪያ አለው።
-
 ## ጫን
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## የውቅር ማስመሰያ
+
+`i18n.site` አብሮ የተሰራ `i18` [`i18`](/i18/use) መሳሪያ አለው።
 
 ## የማሳያ ፕሮጀክት
 
@@ -64,7 +64,7 @@ git clone https://atomgit.com/i18n/demo.i18n.site.docker.git docker
 
 በይፋ ለመልቀቅ፣ የተቀየሩ ፋይሎች ወደ አዲሱ የስሪት ቁጥር ማውጫ ይገለበጣሉ።
 
-#### የማዋቀሪያ ፋይሉን ለመለየት -c ይጠቀሙ
+#### የማዋቀሪያ ፋይልን በ `-c` ይግለጹ
 
 የተለያዩ የማዋቀር ፋይሎች በ `out` ማውጫ ውስጥ ተዛማጅ ማውጫዎችን ይፈጥራሉ።
 
@@ -92,11 +92,9 @@ i18n.site --htm_conf yourConfig --save
 
 `nodejs` ይጫኑ, በ `npm login` ይግቡ.
 
-`md/.i18n/htm/ol.yml` አርትዕ እና `i18n.site` በ `v: //unpkg.com/i18n.site` ወደ ራስህ `npm` የጥቅል ስም ቀይር።
+`md/.i18n/htm/ol.yml` ያርትዑ እና የ [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` እሴቱን ይቀይሩት [npmjs.com](//npmjs.com) የራስዎ `npm` ጥቅል ስም።
 
-ያልተያዘውን የጥቅል ስም በ ላይ ብቻ ይጠቀሙ [npmjs.com](//npmjs.com)
-
-በጥቅል `npm` ላይ ተመስርተው በሚታተሙበት ጊዜ 2 ለ `v:` እሴት ቅድመ-ቅጥያ **`//unpkg.com/` ያረጋግጡ** `i18n.site` በዚህ ቅድመ ቅጥያ መንገድ የ `/.v` መሸጎጫ ጊዜን አመቻችቷል አዲስ የተለቀቁትን ወቅታዊ እይታ።
+ከዚያ `md/.i18n/htm/ol.package.json` አሻሽል።
 
 ለመተርጎም እና ለማተም `md` ማውጫ ውስጥ `i18n.site --npm` ወይም `i18n.site -n` ያሂዱ።
 

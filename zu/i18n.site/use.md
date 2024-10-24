@@ -1,14 +1,14 @@
 # Faka &
 
-## Ithokheni Yokumisa
-
-`i18n.site` inethuluzi lokuhumusha elakhelwe ngaphakathi elingu `i18` Sicela [uchofoze lapha ukuze ubhekisele kudokhumenti `i18` ukuze ulungiselele ithokheni yokufinyelela](/i18/use) .
-
 ## Faka
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Ithokheni Yokumisa
+
+`i18n.site` inethuluzi lokuhumusha elakhelwe ngaphakathi elingu `i18` Sicela [uchofoze lapha ukuze ubhekisele kudokhumenti `i18` ukuze ulungiselele ithokheni yokufinyelela](/i18/use) .
 
 ## Iphrojekthi Yedemo
 
@@ -64,7 +64,7 @@ Ukubuka kuqala kwendawo akunandaba nenombolo yenguqulo futhi kuzokopisha wonke a
 
 Ukuze kukhishwe ngokusemthethweni, amafayela ashintshiwe azokopishelwa kunkomba yenombolo yenguqulo entsha.
 
-#### Sebenzisa -c Ukuze Ucacise Ifayela Lokumisa
+#### Cacisa Ifayela Lokumisa Ngo- `-c`
 
 Amafayela okumisa ahlukene azodala izinkomba ezihambisanayo kuhla lwemibhalo `out` .
 
@@ -92,11 +92,9 @@ Ukushicilela okuqukethwe ku- [npmjs.com](//npmjs.com) yisixazululo esimisiwe esi
 
 Faka `nodejs` , ngena nge `npm login` .
 
-Hlela okuthi `md/.i18n/htm/ol.yml` futhi ushintshe `i18n.site` koku `v: //unpkg.com/i18n.site` kube igama lakho lamaphakheji `npm` .
+Hlela `md/.i18n/htm/ol.yml` futhi ushintshe inani loku [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) lakho lephakheji `npm` elingasebenzi.
 
-Vele usebenzise igama lephakeji elingahlali [npmjs.com](//npmjs.com) .
-
-Uma ushicilela ngokusekelwe kuphakheji `npm` , **qiniseka ukuthi usebenzisa `//unpkg.com/`** kwisiqalo senani elingu `v:` uthuthukise `i18n.site` isikhathi senqolobane esingu `/.v` ngaphansi kwale ndlela yesiqalo ukuze uzuze ukubukwa ngesikhathi kokukhishwa okusha.
+Bese ulungisa u `md/.i18n/htm/ol.package.json`
 
 Qalisa `i18n.site --npm` noma `i18n.site -n` kuhla lwemibhalo `md` ukuze uhumushe futhi ushicilele.
 

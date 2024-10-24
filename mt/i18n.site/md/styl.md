@@ -1,5 +1,21 @@
 # Lista Tal-Istil
 
+[Ikklikkja hawn biex tfittex il-fajl sors ta 'din il-paġna](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) biex tara kif tikteb `MarkDown` fl-istili li ġejjin.
+
+## & &
+
+__ huwa __ ,~~ strikethrough~~ u test ta' preżentazzjoni **b'tipa grassa** .
+
+Huwa miktub kif ġej:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+L-parser `MarkDown` tal-għodda tal-bini tal-websajt `i18n.site` ottimizza s-sintassi tas-sottolinja, l-istrixxat, u l-tipa grassa Jista’ jidħol fis-seħħ mingħajr spazji qabel u wara l-marka, u jagħmilha aktar faċli biex tikteb dokumenti bħaċ-Ċina, il-Ġappun u l-Korea. li ma jużawx spazji bħala separaturi.
+
+Qari : [Għaliex is-sintassi Markdown ta’ Nuggets ( `**……**` ) kultant ma tidħolx fis-seħħ?](//juejin.cn/post/7064565848421171213)
+
 ## Kwotazzjoni
 
 ### Kwotazzjoni Linja Waħda
@@ -14,6 +30,32 @@
 > U rumanzi ta’ fantaxjenza bħal “The Final Answer” ta’ Asimov jiddeskrivu b’mod ċar il-biljuni ta’ snin ta’ storja tal-univers kollu, inklużi l-bnedmin, fi ftit eluf ta’ kliem biss.
 > Tali inklussività u kuraġġ huma impossibbli li jinkisbu fil-letteratura tradizzjonali.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tip `> [!TIP]`
+
+> [!TIP]
+> Ftakar li tiċċekkja l-validità tal-passaport u l-viża tiegħek Id-dokumenti skaduti ma jistgħux jidħlu jew joħorġu mill-pajjiż.
+
+Huwa miktub kif ġej
+
+```
+> [!TIP]
+> your content
+```
+
+### Rimarka `> [!NOTE]`
+
+> [!NOTE]
+> Jekk tibgħatli messaġġ u nwieġeb istantanjament, xi jfisser?
+> Dan juri li nħobb ħafna nilgħab bil-mowbajls.
+
+
+### Twissija `> [!WARN]`
+
+> [!WARN]
+> Meta tmur għal avventura selvaġġa, huwa importanti li tibqa' sigura.
+> Il-ġimgħa li għaddiet, grupp ta’ climbers iltaqgħu ma’ maltempata nofs il-muntanja u kellhom jevakwaw minħabba li naqsu milli jiċċekkjaw it-tbassir tat-temp.
+> Ftakar, kwalunkwe attività fil-beraħ teħtieġ preparazzjoni adegwata u attenzjoni għat-temp.
 
 ## Lista Ta' Affarijiet Li Tagħmel
 

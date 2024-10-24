@@ -1,5 +1,21 @@
 # Stilu Saraksts
 
+[Noklikšķiniet šeit, lai pārlūkotu šīs lapas avota failu,](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) lai redzētu, kā rakstīt `MarkDown` šādos stilos.
+
+## & &
+
+Tas ir pasvītrojums __ __~~ pārsvītrots~~ un **treknrakstā** prezentācijas tekstu.
+
+Tas ir rakstīts šādi:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Vietņu veidošanas rīka `i18n.site` `MarkDown` ir optimizējis pasvītrojumu, pārsvītrojumu un treknrakstu. Tas var darboties bez atstarpēm pirms un pēc atzīmes, tādējādi atvieglojot dokumentu rakstīšanu tādās valodās kā Ķīna, Japāna un Koreja. kas neizmanto atstarpes kā atdalītājus.
+
+Paplašināta : [Kāpēc Nuggets Markdown sintakse ( `**……**` ) dažkārt nedarbojas?](//juejin.cn/post/7064565848421171213)
+
 ## Citāts
 
 ### Vienas Rindas Citāts
@@ -14,6 +30,32 @@
 > Un tādi zinātniskās fantastikas romāni kā Asimova "Galīgā atbilde" tikai dažos tūkstošos vārdu spilgti apraksta visa Visuma, tostarp cilvēku, miljardu gadu vēsturi.
 > Tradicionālajā literatūrā tādu iekļautību un drosmi nav iespējams sasniegt.
 <p style="text-align:right">── Liu Čiksins</p>
+
+### Padoms `> [!TIP]`
+
+> [!TIP]
+> Neaizmirstiet pārbaudīt pases derīgumu, un dokumenti, kuriem beidzies derīguma termiņš, nevar ieceļot vai izbraukt no tās.
+
+Tas ir rakstīts šādi
+
+```
+> [!TIP]
+> your content
+```
+
+### Piezīme `> [!NOTE]`
+
+> [!NOTE]
+> Ja nosūtāt man ziņojumu un es uzreiz atbildu, ko tas nozīmē?
+> Tas parāda, ka man ļoti patīk spēlēties ar mobilajiem tālruņiem.
+
+
+### Brīdinājums `> [!WARN]`
+
+> [!WARN]
+> Dodoties mežonīgā piedzīvojumā, ir svarīgi saglabāt drošību.
+> Pagājušajā nedēļā alpīnistu grupa pusceļā kalnā saskārās ar vētru un nācās evakuēties, jo viņiem neizdevās pārbaudīt laika prognozi.
+> Atcerieties, ka jebkurai āra aktivitātei ir nepieciešama atbilstoša sagatavošanās un uzmanība laikapstākļiem.
 
 ## Darāmo Darbu Saraksts
 

@@ -20,14 +20,18 @@ Dagiti estatiko a papeles ket mabalin a mapataud iti lokal, ngem ti ad-adu a gag
 Alaen ti `.i18n/htm/ol.yml` a file ti panagisaad iti proyekto ti demo a kas pagarigan
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Pangngaasi nga umuna a baliwan ti pateg ti `host:` iti ngato iti nagan ti dominiom, a kas ti `i18n.site` .

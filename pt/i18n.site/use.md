@@ -1,14 +1,14 @@
 # Instalar &
 
-## Configuração do Token
-
-`i18n.site` inclui uma ferramenta de tradução integrada `i18`, [clique aqui para consultar o documento de configuração do `i18`](/i18/use).
-
 ## Instalação
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuração do Token
+
+`i18n.site` inclui uma ferramenta de tradução integrada `i18`, [clique aqui para consultar o documento de configuração do `i18`](/i18/use).
 
 ## Projeto Demonstrativo
 
@@ -64,7 +64,7 @@ Na visualização local, não se importa com o número da versão e todos os arq
 
 Para publicação oficial, os arquivos alterados serão copiados para o diretório com o novo número de versão.
 
-#### Use -c Para Especificar O Arquivo De Configuração
+#### Especifique o arquivo de configuração com `-c`
 
 Diferentes arquivos de configuração criarão diretórios correspondentes no diretório `out`.
 
@@ -92,11 +92,9 @@ Publicar conteúdo no [npmjs.com](//npmjs.com) é a solução recomendada por pa
 
 Instale o `nodejs` e faça login com `npm login`.
 
-Edite `md/.i18n/htm/ol.yml` e altere `i18n.site` em `v: //unpkg.com/i18n.site` para o seu próprio nome do pacote `npm`.
+Edite `md/.i18n/htm/ol.yml` e modifique o valor de [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` para o nome do seu próprio pacote `npm`, qualquer nome disponível em [npmjs.com](//npmjs.com).
 
-Basta usar o nome do pacote disponível em [npmjs.com](//npmjs.com). Usar o nome do domínio do site como nome do pacote é uma boa escolha.
-
-Quando publicar com base no pacote `npm`, **certifique-se de usar `//unpkg.com/`** como prefixo para o valor `v:` `i18n.site`, que otimizou especialmente o tempo de cache de `/.v` sob este caminho de prefixo para obter a visualização oportuna de novos lançamentos.
+Depois, faça as alterações em `md/.i18n/htm/ol.package.json`
 
 Execute `i18n.site --npm` ou `i18n.site -n` no diretório `md` para traduzir e publicar.
 

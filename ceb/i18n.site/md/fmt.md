@@ -1,4 +1,4 @@
-# MarkDown Format Nga Kombensiyon
+# i18n.site MarkDown Writing Convention
 
 ## Punto Sa Angkla
 
@@ -34,3 +34,10 @@ Mahimo nimong i-refer ang pagpatuman sa [github.com/i18n-site/md/en/README.md](h
 ```
 
 Timan-i nga `<style>` gihubit usab sa `<pre>` sa ibabaw.
+
+
+## Mga Hulagway/Video/Link Sa Daghang Pinulongan
+
+Human makabig `MarkDown` ngadto sa `HTML` , `$LANG` sa mga attribute `src` ug `href` pulihan sa kasamtangang [code sa pinulongan](/i18/LANG_CODE) .
+
+Uban niini nga variable, mahimo nimong makab-ot ang multilinggwalisasyon sa mga litrato/video/link.

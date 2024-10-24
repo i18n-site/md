@@ -1,4 +1,4 @@
-# Konveenshinii Bifa MarkDown
+# i18n.site Konveenshinii Barreeffama MarkDown
 
 ## Qabxii Anchor
 
@@ -34,3 +34,10 @@ Hojiirra oolmaa isaa [github.com/i18n-site/md/en/README.md](https://raw.githubus
 ```
 
 Hubadhaa `<style>` armaan olitti `<pre>` keessattis ibsameera.
+
+
+## Suuraa/Viidiyoo/Liinkii Afaanota Hedduudhaan
+
+Erga `MarkDown` gara `HTML` jijjiiramee booda , amaloota `src` fi `href` keessatti `$LANG` [koodii afaanii](/i18/LANG_CODE) ammaatiin bakka bu'a .
+
+Jijjiiramaa kanaan, afaanota hedduu suuraa/viidiyoo/liinkii galmaan gahuu dandeessa.

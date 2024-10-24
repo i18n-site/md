@@ -20,14 +20,18 @@ Fajls statiċi jistgħu jiġu ġġenerati lokalment, iżda approċċ aktar komun
 Ħu l-fajl tal-konfigurazzjoni `.i18n/htm/ol.yml` fil-proġett demo bħala eżempju
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Jekk jogħġbok l-ewwel immodifika l-valur ta' `host:` hawn fuq għall-isem tad-dominju tiegħek, bħal `i18n.site` .

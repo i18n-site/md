@@ -20,14 +20,18 @@ Statik fayllar mahalliy sifatida yaratilishi mumkin, ammo keng tarqalgan yondash
 Misol sifatida demo loyihasidagi `.i18n/htm/ol.yml` konfiguratsiya faylini oling
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Iltimos, avval yuqoridagi `host:` qiymatini domen nomingizga o'zgartiring, masalan, `i18n.site` .

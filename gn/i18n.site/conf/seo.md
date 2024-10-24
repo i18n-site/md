@@ -20,14 +20,18 @@ Umi archivo estático ikatu ojejapo localmente, ha katu peteĩ tape ojepuruvéva
 Jaipyhy techapyrãramo pe archivo configuración `.i18n/htm/ol.yml` oĩva proyecto demostración-pe
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Emoambue raẽ `host:` mba’ekuaarã yvategua nde dominio rérape, ha’eháicha `i18n.site` .

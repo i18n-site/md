@@ -1,5 +1,21 @@
 # Daptar Gaya
 
+[Pencét di dieu pikeun ngotéktak file sumber halaman ieu](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) pikeun ningali kumaha cara nyerat `MarkDown` dina gaya ieu.
+
+## Garis & &
+
+__ __~~ neunggeul~~ jeung téks presentasi **kandel** .
+
+Ieu ditulis kieu:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Parser `MarkDown` tina alat ngawangun situs wéb `i18n.site` parantos ngaoptimalkeun sintaksis ngagurat, strikethrough, sareng bold Éta tiasa dianggo tanpa spasi sateuacan sareng saatos tanda, ngajantenkeun langkung gampang nyerat dokumén dina basa sapertos Cina, Jepang, sareng Korea. nu teu make spasi salaku separators.
+
+Bacaan anu diperpanjang : [Naha sintaksis Markdown Nuggets ( `**……**` ) kadang henteu dianggo?](//juejin.cn/post/7064565848421171213)
+
 ## Cutatan
 
 ### Cutatan Garis Tunggal
@@ -14,6 +30,32 @@
 > Jeung novel fiksi ilmiah kawas Asimov "The Final Answer" vividly ngajelaskeun milyaran taun sajarah sakabeh jagat raya, kaasup manusa, dina ngan sababaraha sarébu kecap.
 > Inclusiveness sareng kawani sapertos kitu teu mungkin dihontal dina sastra tradisional.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tip `> [!TIP]`
+
+> [!TIP]
+> Inget pikeun pariksa validitas paspor jeung visa Anjeun dokumén kadaluwarsa teu bisa asup atawa kaluar nagara.
+
+Ditulis kieu
+
+```
+> [!TIP]
+> your content
+```
+
+### Catetan `> [!NOTE]`
+
+> [!NOTE]
+> Upami anjeun ngirim pesen sareng kuring langsung ngabales, naon hartosna?
+> Ieu nunjukkeun yén kuring resep pisan maén sareng telepon sélulér.
+
+
+### Awas `> [!WARN]`
+
+> [!WARN]
+> Nalika nuju petualangan liar, penting pikeun tetep aman.
+> Minggu kamari, sakelompok pendaki ngalaman badai di satengahing gunung sareng kedah ngévakuasi sabab gagal pariksa ramalan cuaca.
+> Inget, sagala kagiatan outdoor merlukeun persiapan nyukupan sarta perhatian kana cuaca.
 
 ## Daptar Tugas
 

@@ -20,14 +20,18 @@ Lifaele tse tsitsitseng li ka hlahisoa sebakeng sa heno, empa mokhoa o tloaelehi
 Nka faele ea `.i18n/htm/ol.yml` ea tlhophiso ho projeke ea demo joalo ka mohlala
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ka kopo, qala ka ho fetola boleng ba `host:` ka holimo ho lebitso la hau la domain, joalo ka `i18n.site` .

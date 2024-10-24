@@ -20,14 +20,18 @@ Skedarët statikë mund të gjenerohen në nivel lokal, por një qasje më e zak
 Merrni si shembull skedarin e konfigurimit `.i18n/htm/ol.yml` në projektin demo
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ju lutemi së pari modifikoni vlerën e `host:` më sipër në emrin e domenit tuaj, si p.sh. `i18n.site` .

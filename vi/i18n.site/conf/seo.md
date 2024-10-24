@@ -20,14 +20,18 @@ Các tệp tĩnh có thể được tạo cục bộ, nhưng cách tiếp cận 
 Lấy file cấu hình `.i18n/htm/ol.yml` trong dự án demo làm ví dụ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Trước tiên hãy sửa đổi giá trị `host:` ở trên thành tên miền của bạn, chẳng hạn như `i18n.site` .

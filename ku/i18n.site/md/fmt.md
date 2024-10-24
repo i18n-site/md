@@ -1,4 +1,4 @@
-# Peymana Formata MarkDown
+# i18n.site Peymana Nivîsandinê Ya MarkDown
 
 ## Xala Lengerê
 
@@ -34,3 +34,10 @@ Hûn dikarin li ser pêkanînê binihêrin [github.com/i18n-site/md/en/README.md
 ```
 
 Bala xwe bidinê ku `<style>` jî li jor di `<pre>` ê de tête diyar kirin.
+
+
+## Wêne / Vîdyo / Girêdan Bi Pir Zimanan
+
+Piştî ku `MarkDown` bibe `HTML` , `$LANG` di taybetmendiyên `src` û `href` de dê bi [koda zimanê](/i18/LANG_CODE) heyî were guheztin.
+
+Bi vê guhêrbar, hûn dikarin pirzimanîkirina wêneyan / vîdyoyan / girêdanan bi dest bixin.

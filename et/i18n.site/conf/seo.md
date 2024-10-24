@@ -20,14 +20,18 @@ Staatilisi faile saab genereerida kohapeal, kuid levinum lähenemisviis on nende
 Võtke näitena demoprojekti konfiguratsioonifail `.i18n/htm/ol.yml`
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Palun muutke esmalt ülaltoodud väärtust `host:` oma domeeninimeks, näiteks `i18n.site` .

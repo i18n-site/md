@@ -20,14 +20,18 @@ Ba fichiers statiques ekoki kosalama localement, kasi approche oyo esalemaka min
 Bozua fichier ya configuration `.i18n/htm/ol.yml` na projet ya démonstration lokola exemple
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Svp bobongola liboso motuya ya `host:` oyo ezali likolo na kombo ya domaine na yo, lokola `i18n.site` .

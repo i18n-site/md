@@ -1,14 +1,14 @@
 # Gosod &
 
-## Tocyn Cyfluniad
-
-Mae gan `i18n.site` offeryn cyfieithu `i18` adeiledig. [Cliciwch yma i gyfeirio at y ddogfen `i18` i ffurfweddu'r tocyn mynediad](/i18/use) .
-
 ## Gosod
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Tocyn Cyfluniad
+
+Mae gan `i18n.site` offeryn cyfieithu `i18` adeiledig. [Cliciwch yma i gyfeirio at y ddogfen `i18` i ffurfweddu'r tocyn mynediad](/i18/use) .
 
 ## Prosiect Demo
 
@@ -64,7 +64,7 @@ Nid yw rhagolwg lleol yn poeni am rif y fersiwn a bydd yn copïo pob ffeil i'r c
 
 I'w rhyddhau'n swyddogol, bydd ffeiliau sydd wedi'u newid yn cael eu copïo i'r cyfeiriadur rhif fersiwn newydd.
 
-#### Defnyddiwch -c I Nodi'r Ffeil Ffurfweddu
+#### Nodwch Y Ffeil Ffurfweddu Gyda `-c`
 
 Bydd gwahanol ffeiliau cyfluniad yn creu cyfeiriaduron cyfatebol yn y cyfeiriadur `out` .
 
@@ -92,11 +92,9 @@ Cyhoeddi [cynnwys](/i18n.site/feature#ha) i [npmjs.com](//npmjs.com)
 
 Gosod `nodejs` , mewngofnodi gyda `npm login` .
 
-Golygu `md/.i18n/htm/ol.yml` a newid `i18n.site` mewn `v: //unpkg.com/i18n.site` i'ch enw pecyn `npm` eich hun.
+Golygu `md/.i18n/htm/ol.yml` a newid gwerth [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` fel eich enw pecyn `npm` eich hun Bydd unrhyw enw pecyn gwag ar [npmjs.com](//npmjs.com)
 
-Defnyddiwch enw'r pecyn heb ei feddiannu ar [npmjs.com](//npmjs.com)
-
-Wrth gyhoeddi yn seiliedig ar becyn `npm` , gofalwch `i18n.site` **bod yn defnyddio `//unpkg.com/`** `/.v` gyfer y rhagddodiad o `v:` gwerth.
+Yna addasu `md/.i18n/htm/ol.package.json`
 
 Rhedeg `i18n.site --npm` neu `i18n.site -n` yn y cyfeiriadur `md` i gyfieithu a chyhoeddi.
 

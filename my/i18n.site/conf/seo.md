@@ -20,14 +20,18 @@ Static ဖိုင်များကို စက်တွင်းတွင်
 နမူနာအဖြစ် နမူနာပရောဂျက်ရှိ `.i18n/htm/ol.yml` ဖွဲ့စည်းမှုပုံစံဖိုင်ကို ယူပါ။
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 ကျေးဇူးပြု၍ ဦးစွာ အထက်ပါ `host:` တန်ဖိုးကို သင့်ဒိုမိန်းအမည်ဖြစ်သည့် `i18n.site` ကဲ့သို့ ပြောင်းလဲပါ။

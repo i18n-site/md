@@ -1,4 +1,4 @@
-# MarkDown Format Konventioun
+# i18n.site MarkDown Schreiwen Konventioun
 
 ## Ankerpunkt
 
@@ -34,3 +34,10 @@ Dir kënnt op d'Ëmsetzung an [github.com/i18n-site/md/en/README.md](https://raw
 ```
 
 Notéiert datt `<style>` och an `<pre>` uewen definéiert ass.
+
+
+## Biller / Videoen / Linken a Ville Sproochen
+
+Nodeems `MarkDown` op `HTML` ëmgewandelt ass, ginn `$LANG` an Attributer `src` an `href` duerch den aktuelle [Sproochcode](/i18/LANG_CODE) ersat.
+
+Mat dëser Variabel kënnt Dir Multilingualiséierung vu Biller / Videoen / Linken erreechen.

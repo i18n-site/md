@@ -1,14 +1,14 @@
 # Isa &
 
-## Configuration Token
-
-`i18n.site` ine chishandiso chekushandura chakavakirwa- `i18` Ndokumbira [kutinya apa kuti utarise kugwaro `i18` kuti ugadzirise tokeni yekuwana](/i18/use) .
-
 ## Install
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuration Token
+
+`i18n.site` ine chishandiso chekushandura chakavakirwa- `i18` Ndokumbira [kutinya apa kuti utarise kugwaro `i18` kuti ugadzirise tokeni yekuwana](/i18/use) .
 
 ## Demo Chirongwa
 
@@ -64,7 +64,7 @@ Ongororo yemunharaunda haina basa nezve nhamba yeshanduro uye inokopa ese mafaer
 
 Kuti ibudiswe zviri pamutemo, mafaera akachinjwa anokopwa kudhairekitori renhamba yeshanduro itsva.
 
-#### Shandisa -c Kutsanangura Faira Rekugadzirisa
+#### Taura Faira Rekugadzirisa `-c`
 
 Akasiyana ekugadzirisa mafaera achagadzira anowirirana madhairekitori mune `out` dhairekitori.
 
@@ -92,11 +92,9 @@ Kutsikisa zvirimo [ku](/i18n.site/feature#ha) [npmjs.com](//npmjs.com)
 
 Isa `nodejs` , pinda `npm login` .
 
-Rongedza `md/.i18n/htm/ol.yml` uye shandura `i18n.site` `v: //unpkg.com/i18n.site` kune yako `npm` pasuru zita.
+Rongedza `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) shandura kukosha [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` sezita rako repasuru `npm`
 
-Ingoshandisa iyo isina kubatika pasuru zita pa [npmjs.com](//npmjs.com)
-
-Pakushambadza zvichibva pasuru `npm` , iva **nechokwadi chekushandisa `//unpkg.com/`** kune chivakamberi che `v:` kukosha `i18n.site` yakanyatso optimize cache nguva `/.v` pasi peiyi prefix nzira kuti uwane kutarisisa panguva yezvitsva.
+Zvadaro shandura `md/.i18n/htm/ol.package.json`
 
 Mhanya `i18n.site --npm` kana `i18n.site -n` mudhairekitori `md` kuti ushandure nekushambadza.
 

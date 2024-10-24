@@ -1,4 +1,4 @@
-# Habka MarkDown
+# i18n.site MarkDown Heshiiska Qoraalka
 
 ## Barta Barroosinka
 
@@ -34,3 +34,10 @@ Waxaad tixraaci kartaa hirgelinta gudaha [github.com/i18n-site/md/en/README.md](
 ```
 
 Ogow in `<style>` sidoo kale lagu qeexay `<pre>` xagga sare.
+
+
+## Sawiro/Fidiyoo/Ku Xidhidhyo Ku Qoran Luuqado Badan
+
+Ka dib marka `MarkDown` loo rogo `HTML` , `$LANG` sifada `src` iyo `href` waxa lagu bedelayaa [koodka luqadda](/i18/LANG_CODE) ee hadda jira.
+
+Doorsoomiyahan, waxaad ku gaari kartaa luqado badan oo sawiro/fidiyoow ah/links.

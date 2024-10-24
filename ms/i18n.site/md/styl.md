@@ -1,5 +1,21 @@
 # Senarai Gaya
 
+[Klik di sini untuk menyemak imbas fail sumber halaman ini](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) untuk melihat cara menulis `MarkDown` dalam gaya berikut.
+
+## Gariskan & Strikethrough &
+
+Ini __ __~~ tembus~~ dan teks pembentangan **tebal** .
+
+Ia ditulis seperti berikut:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Penghurai `MarkDown` alat pembinaan tapak web `i18n.site` telah mengoptimumkan sintaks garis bawah, coretan dan tebal Ia boleh berkuat kuasa tanpa ruang sebelum dan selepas tanda, menjadikannya lebih mudah untuk menulis dokumen dalam bahasa seperti China, Jepun dan Korea. yang tidak menggunakan ruang sebagai pemisah.
+
+Bacaan lanjutan : [Mengapakah sintaks Markdown Nuggets ( `**……**` ) kadangkala tidak berkesan?](//juejin.cn/post/7064565848421171213)
+
 ## Sebut Harga
 
 ### Petikan Satu Baris
@@ -14,6 +30,32 @@
 > Dan novel fiksyen sains seperti "Jawapan Akhir" Asimov dengan jelas menggambarkan berbilion tahun sejarah seluruh alam semesta, termasuk manusia, hanya dalam beberapa ribu perkataan.
 > Keterangkuman dan keberanian sedemikian adalah mustahil untuk dicapai dalam kesusasteraan tradisional.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Petua `> [!TIP]`
+
+> [!TIP]
+> Ingat untuk menyemak kesahihan pasport dan visa anda. Dokumen tamat tempoh tidak boleh masuk atau keluar negara.
+
+Ia ditulis seperti berikut
+
+```
+> [!TIP]
+> your content
+```
+
+### Catatan `> [!NOTE]`
+
+> [!NOTE]
+> Jika anda menghantar mesej kepada saya dan saya membalas serta-merta, apakah maksudnya?
+> Ini menunjukkan bahawa saya sangat suka bermain dengan telefon bimbit.
+
+
+### Amaran `> [!WARN]`
+
+> [!WARN]
+> Apabila melakukan pengembaraan liar, penting untuk kekal selamat.
+> Minggu lalu, sekumpulan pendaki mengalami ribut di tengah-tengah gunung dan terpaksa berpindah kerana gagal menyemak ramalan cuaca.
+> Ingat, sebarang aktiviti luar memerlukan persediaan dan perhatian yang mencukupi terhadap cuaca.
 
 ## Senarai Tugasan
 

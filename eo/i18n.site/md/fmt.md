@@ -1,4 +1,4 @@
-# MarkDown-Forma Konvencio
+# i18n.site MarkDown Skriba Kongreso
 
 ## Ankropunkto
 
@@ -34,3 +34,10 @@ Vi povas rilati al la efektivigo en [github.com/i18n-site/md/en/README.md](https
 ```
 
 Notu ke `<style>` ankaŭ estas difinita en `<pre>` supre.
+
+
+## Bildoj/Videoj/Ligiloj en Pluraj Lingvoj
+
+Post kiam `MarkDown` estas konvertita al `HTML` , `$LANG` en atributoj `src` kaj `href` estos anstataŭigita per la nuna [lingvokodo](/i18/LANG_CODE) .
+
+Per ĉi tiu variablo, vi povas atingi multlingvigon de bildoj/videoj/ligiloj.

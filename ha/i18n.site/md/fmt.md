@@ -1,4 +1,4 @@
-# Tsarin Tsarin MarkDown
+# i18n.site MarkDown Taron Rubutu
 
 ## Makiyin Anga
 
@@ -34,3 +34,10 @@ Kuna iya komawa ga aiwatarwa a cikin [github.com/i18n-site/md/en/README.md](http
 ```
 
 Lura cewa `<style>` kuma an bayyana shi a cikin `<pre>` na sama.
+
+
+## Hotuna/Bidiyo/Hanyoyi a Cikin Yaruka Da Yawa
+
+Bayan an canza `MarkDown` zuwa `HTML` , `$LANG` a cikin halayen `src` da `href` za a maye gurbinsu da [lambar yare](/i18/LANG_CODE) na yanzu.
+
+Tare da wannan m, za ka iya cimma multilingualization na hotuna / bidiyo / links.

@@ -1,5 +1,21 @@
 # Stil Lëscht
 
+[Klickt hei fir d'Quelldatei vun dëser Säit ze duerchsichen](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) fir ze kucken wéi een `MarkDown` an de folgende Stiler schreift.
+
+## & &
+
+__ ass __~~ duerchstrecken~~ a **fett** Presentatioun Text.
+
+Et ass wéi follegt geschriwwen:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Den `MarkDown` Parser vum `i18n.site` Websäit Gebai Tool huet d'Ënnerstreckung, d'Streck a fett Syntax optimiséiert. déi keng Plazen als Separator benotzen.
+
+: Liesung [Firwat trëtt d'Nuggets ' Markdown Syntax ( `**……**` ) heiansdo net a Kraaft?](//juejin.cn/post/7064565848421171213)
+
 ## Zitat
 
 ### Eenzeg Zeil Zitat
@@ -14,6 +30,32 @@
 > A Science Fiction Romaner wéi dem Asimov seng "The Final Answer" beschreiwen lieweg d'Milliarde vu Joer Geschicht vum ganzen Universum, och de Mënsch, an nëmmen e puer dausend Wierder.
 > Esou Inklusivitéit a Fett sinn onméiglech an der traditioneller Literatur z'erreechen.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tipp `> [!TIP]`
+
+> [!TIP]
+> Denkt drun d'Gëltegkeet vun Ärem Pass a Visa ze kontrolléieren Vergaangen Dokumenter kënnen net an d'Land kommen.
+
+Et ass wéi follegt geschriwwen
+
+```
+> [!TIP]
+> your content
+```
+
+### Remarque `> [!NOTE]`
+
+> [!NOTE]
+> Wann Dir mir e Message schéckt an ech äntweren direkt, wat heescht dat?
+> Dëst weist datt ech wierklech gär mat Handyen spillen.
+
+
+### Warnung `> [!WARN]`
+
+> [!WARN]
+> Wann Dir op eng wilde Aventure gitt, ass et wichteg sécher ze bleiwen.
+> D'lescht Woch huet e Grupp vu Kloteren e Stuerm hallef um Bierg gestouss an hu missen evakuéieren, well se d'Wiederprevisioun net iwwerpréift hunn.
+> Denkt drun, all Outdooraktivitéit erfuerdert adäquate Virbereedung an Opmierksamkeet op d'Wieder.
 
 ## To-Do Lëscht
 

@@ -20,14 +20,18 @@
 فایلە ڕێکخستنی `.i18n/htm/ol.yml` لە پڕۆژەی دیمۆدا وەک نموونە وەربگرە
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 تکایە سەرەتا بەهای `host:` لە سەرەوە دەستکاری بکە بۆ ناوی دۆمەینەکەت، وەک `i18n.site` .

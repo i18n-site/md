@@ -1,4 +1,4 @@
-# MarkDown-muotokieliopin sopimukset
+# i18n.site MarkDownin kirjoitusperiaatteet
 
 ## Ankkuripisteet
 
@@ -34,3 +34,10 @@ Voit viitata toteutukseen osoitteessa [github.com/i18n-site/md/en/README.md](htt
 ```
 
 Huomaa, että `<pre>`-elementissä on myös määritelty `<style>`.
+
+
+## Kuvia/Videoita/Linkkejä Useilla Kielillä
+
+`MarkDown` muutettuna `HTML`:ksi jälkeen, `src`- ja `href`-ominaisuuksissa oleva `$LANG` korvataan nykyisellä [kielikoodilla](/i18/LANG_CODE).
+
+Tämän muuttujan avulla voit monikielistää kuvat/videot/linkit.

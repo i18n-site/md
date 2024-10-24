@@ -1,5 +1,21 @@
 # Style List a Wɔahyehyɛ
 
+[Klik ha na hwehwɛ krataafa yi source file no mu](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) na woahu sɛnea wobɛkyerɛw `MarkDown` wɔ styles a edidi so yi mu.
+
+## Twe Adwene Si & &
+
+Eyi ne Twe adwene si __ , so __~~ strikethrough a wɔde hyɛ mu~~ ne nsɛm a wɔde kyerɛkyerɛ mu a wɔakyerɛw no **tuntum** .
+
+Wɔakyerɛw no sɛnea edidi so yi:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`MarkDown` parser a ɛwɔ `i18n.site` wɛbsaet dan adwinnade no ayɛ optimized underline, strikethrough, ne bold syntax Ebetumi ayɛ adwuma a enni spaces ansa na agyiraehyɛde no ne akyi, na ama ayɛ mmerɛw sɛ wobɛkyerɛw nkrataa wɔ kasa horow te sɛ China, Japan, ne Korea sɛ mfa ahunmu nni dwuma sɛ nneɛma a ɛpaapae nneɛma mu.
+
+Akenkan a wɔatrɛw : [Dɛn nti na ɛtɔ mmere bi a Nuggets’ Markdown syntax ( `**……**` ) no ntumi nyɛ adwuma?](//juejin.cn/post/7064565848421171213)
+
 ## Asɛnka
 
 ### Nkyerɛwde Biako a Wɔafa Aka
@@ -14,6 +30,32 @@
 > Na nyansahu mu ayɛsɛm nhoma ahorow te sɛ Asimov "Mmuae a Etwa To" no de nsɛmfua mpempem kakraa bi pɛ ka amansan nyinaa abakɔsɛm mfe ɔpepepem pii ho asɛm pefee, a nnipa ka ho.
 > Ɛrentumi nyɛ yiye sɛ wobenya obiara a wɔka ne ho ne akokoduru a ɛte saa wɔ atetesɛm nhoma ahorow mu.
 <p style="text-align:right">── Liu Cixin na ɔkyerɛwee</p>
+
+### Afotu a Ɛto `> [!TIP]`
+
+> [!TIP]
+> Kae sɛ wobɛhwɛ sɛ wo passport ne visa no yɛ nokware anaa.
+
+Wɔakyerɛw no sɛnea edidi so yi
+
+```
+> [!TIP]
+> your content
+```
+
+### Nkyerɛkyerɛmu `> [!NOTE]`
+
+> [!NOTE]
+> Sɛ wode nkra mena me na mebua ntɛm ara a, ɛno kyerɛ dɛn?
+> Eyi kyerɛ sɛ m’ani gye ho ankasa sɛ mede telefon a wokura kyin bedi agoru.
+
+
+### Kɔkɔbɔ `> [!WARN]`
+
+> [!WARN]
+> Sɛ worekɔ wuram akwantu bi a, ɛho hia sɛ wotra hɔ dwoodwoo.
+> Dapɛn a etwaam no, aforosianfo kuw bi hyiaa ahum bi a ɛretu wɔ bepɔw no fã na na ɛsɛ sɛ wotu fi hɔ efisɛ wɔantumi anhwɛ wim tebea ho nkɔmhyɛ.
+> Kae sɛ abɔnten so dwumadi biara hwehwɛ sɛ wusiesie wo ho sɛnea ɛsɛ na wohwɛ wim tebea so yiye.
 
 ## Nneɛma a Ɛsɛ Sɛ Woyɛ
 

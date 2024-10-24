@@ -1,14 +1,14 @@
 # Kenya &
 
-## Letšoao La Tlhophiso
-
-`i18n.site` e na le sesebelisoa sa phetolelo se hahelletsoeng ka har'a `i18` Ka kopo [, tobetsa mona ho bua ka tokomane `i18` ho lokisa tokeno ea phihlello](/i18/use) .
-
 ## Kenya
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Letšoao La Tlhophiso
+
+`i18n.site` e na le sesebelisoa sa phetolelo se hahelletsoeng ka har'a `i18` Ka kopo [, tobetsa mona ho bua ka tokomane `i18` ho lokisa tokeno ea phihlello](/i18/use) .
 
 ## Morero Oa Demo
 
@@ -64,7 +64,7 @@ Ponahalo ea lehae ha e tsotelle nomoro ea mofuta mme e tla kopitsa lifaele tsohl
 
 Bakeng sa tokollo ea semmuso, lifaele tse fetotsoeng li tla kopitsoa bukeng ea nomoro ea mofuta o mocha.
 
-#### Sebelisa -c Ho Hlakisa Faele Ea Tlhophiso
+#### Hlalosa Faele Ea Tlhophiso Ka `-c`
 
 Lifaele tse fapaneng tsa tlhophiso li tla theha li-directory tse tsamaellanang bukeng ea `out` .
 
@@ -92,11 +92,9 @@ Mona `--save` e emela nomoro ea tokollo ea ntlafatso.
 
 Kenya `nodejs` , kena ka `npm login` .
 
-Fetola `md/.i18n/htm/ol.yml` me u fetole `i18n.site` ho `v: //unpkg.com/i18n.site` ho lebitso la hau la liphutheloana `npm` .
+Fetola `md/.i18n/htm/ol.yml` me u fetole boleng ba [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` joalo ka lebitso la sephutheloana sa hau se sa `npm` se [npmjs.com](//npmjs.com) etsoa.
 
-Sebelisa feela lebitso la sephutheloana se sa [npmjs.com](//npmjs.com) ho sebelisa lebitso la sebaka sa marang-rang kaha lebitso la sephutheloana ke khetho e ntle.
-
-Ha o hatisa ho ipapisitsoe le sephutheloana sa `npm` , etsa bonnete `/.v` **hore o sebelisa `//unpkg.com/`** bakeng sa sehlomathiso sa boleng ba `v:` ka ho khetheha e ntlafalitse nako ea polokelo ea `i18n.site` tlas'a tsela ena ea pele ho fihlela ho boha lintlafatso tse ncha ka nako.
+Ebe u fetola `md/.i18n/htm/ol.package.json`
 
 Matha `i18n.site --npm` kapa `i18n.site -n` bukeng ea `md` ho fetolela le ho phatlalatsa.
 

@@ -1,4 +1,4 @@
-# MarkDowni Vormingu Konventsioon
+# i18n.site MarkDowni Kirjutamise Tava
 
 ## Kinnituspunkt
 
@@ -34,3 +34,10 @@ Võite viidata rakendusele [github.com/i18n-site/md/en/README.md](https://raw.gi
 ```
 
 Pange tähele, et `<style>` on defineeritud ka ülaltoodud väärtuses `<pre>` .
+
+
+## Pildid/Videod/Lingid Mitmes Keeles
+
+Pärast `MarkDown` teisendamist `HTML` ks asendatakse `$LANG` atribuutides `src` ja `href` praeguse [keelekoodiga](/i18/LANG_CODE) .
+
+Selle muutujaga saate saavutada piltide/videote/linkide mitmekeelsuse.

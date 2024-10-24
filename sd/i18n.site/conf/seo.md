@@ -20,14 +20,18 @@
 مثال طور ڊيمو پروجيڪٽ ۾ `.i18n/htm/ol.yml` ترتيب واري فائل وٺو
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 مھرباني ڪري پھريون `host:` جي قدر کي پنھنجي ڊومين جي نالي ۾ تبديل ڪريو، جھڙوڪ `i18n.site` .

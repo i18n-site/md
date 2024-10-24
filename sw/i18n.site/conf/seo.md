@@ -20,14 +20,18 @@ Faili tuli zinaweza kuzalishwa ndani ya nchi, lakini mbinu ya kawaida zaidi ni k
 Chukua faili ya usanidi `.i18n/htm/ol.yml` katika mradi wa onyesho kama mfano
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Tafadhali kwanza rekebisha thamani ya `host:` hapo juu kwa jina la kikoa chako, kama vile `i18n.site` .

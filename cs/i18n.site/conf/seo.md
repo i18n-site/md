@@ -20,14 +20,18 @@ Statické soubory lze generovat lokálně, ale běžnějším přístupem je jej
 Vezměte konfigurační soubor `.i18n/htm/ol.yml` v demo projektu jako příklad
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Nejprve prosím upravte hodnotu `host:` výše na název vaší domény, například `i18n.site` .

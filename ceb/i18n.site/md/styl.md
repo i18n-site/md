@@ -1,5 +1,21 @@
 # Listahan Sa Estilo
 
+[Pag-klik dinhi aron ma-browse ang gigikanan nga file sa kini nga panid](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) aron makita kung giunsa pagsulat `MarkDown` sa mga musunod nga istilo.
+
+## Linyahi Ang & Strikethrough &
+
+__ mao ang Underscore __ ,~~ strikethrough~~ ug **maisog** nga teksto sa presentasyon.
+
+Kini gisulat ingon sa mosunod:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Ang `MarkDown` parser sa `i18n.site` nga himan sa pagtukod sa website nag-optimize sa underline, strikethrough, ug bold nga syntax Mahimo kini nga epektibo nga wala’y mga espasyo sa wala pa ug pagkahuman sa marka, nga nagpadali sa pagsulat sa mga dokumento sa mga pinulongan sama sa China, Japan, ug Korea. nga dili mogamit sa mga luna isip mga separator.
+
+Extended reading : [Ngano nga ang Nuggets’ Markdown syntax ( `**……**` ) usahay dili mu-epekto?](//juejin.cn/post/7064565848421171213)
+
 ## Kinutlo
 
 ### Usa Ka Linya Nga Kinutlo
@@ -14,6 +30,32 @@
 > Ug ang mga nobela sa science fiction sama sa "The Final Answer" ni Asimov klaro nga naghulagway sa binilyon ka tuig nga kasaysayan sa tibuok uniberso, lakip ang mga tawo, sa pipila lang ka libo nga mga pulong.
 > Ang ingon nga pagka-inklusibo ug kaisog imposible nga makab-ot sa tradisyonal nga literatura.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tip `> [!TIP]`
+
+> [!TIP]
+> Hinumdumi nga susihon ang kabalido sa imong pasaporte ug ang mga expired nga dokumento dili makasulod o makagawas sa nasud.
+
+Kini gisulat ingon sa mosunod
+
+```
+> [!TIP]
+> your content
+```
+
+### Pahinumdom `> [!NOTE]`
+
+> [!NOTE]
+> Kung padad-an ko nimo og mensahe ug mo-reply dayon ko, unsay pasabot ana?
+> Kini nagpakita nga ganahan kaayo ko magdula og mga cellphone.
+
+
+### Pahimangno `> [!WARN]`
+
+> [!WARN]
+> Kung moadto sa usa ka ihalas nga adventure, hinungdanon nga magpabilin nga luwas.
+> Sa miaging semana, usa ka grupo sa mga tigkatkat ang nakasugat og bagyo sa tungatunga sa bukid ug kinahanglan nga mobakwit tungod kay napakyas sila pagsusi sa forecast sa panahon.
+> Hinumdomi, ang bisan unsang kalihokan sa gawas nagkinahanglan og igong pagpangandam ug pagtagad sa panahon.
 
 ## Listahan Sa Buhaton
 

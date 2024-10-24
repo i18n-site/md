@@ -20,14 +20,18 @@ Cov ntaub ntawv zoo li qub tuaj yeem tsim tawm hauv zos, tab sis txoj hauv kev n
 Siv cov ntaub ntawv `.i18n/htm/ol.yml` configuration hauv qhov project demo ua piv txwv
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Thov ua ntej hloov tus nqi ntawm `host:` saum toj no rau koj lub npe sau npe, xws li `i18n.site` .

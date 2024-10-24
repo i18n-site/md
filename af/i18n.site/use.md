@@ -1,14 +1,14 @@
 # Installeer &
 
-## Konfigurasietoken
-
-`i18n.site` het 'n ingeboude `i18` vertaalinstrument. [Klik asseblief hier om na die `i18` dokument te verwys om die toegangsteken te konfigureer](/i18/use) .
-
 ## Installeer
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurasietoken
+
+`i18n.site` het 'n ingeboude `i18` vertaalinstrument. [Klik asseblief hier om na die `i18` dokument te verwys om die toegangsteken te konfigureer](/i18/use) .
 
 ## Demo Projek
 
@@ -64,7 +64,7 @@ Plaaslike voorskou gee nie om oor die weergawenommer nie en sal alle lêers na d
 
 Vir amptelike vrystelling sal veranderde lêers na die nuwe weergawenommergids gekopieer word.
 
-#### Gebruik -c Om Die Konfigurasielêer Te Spesifiseer
+#### Spesifiseer Konfigurasielêer Met `-c`
 
 Verskillende konfigurasielêers sal ooreenstemmende gidse in die `out` gids skep.
 
@@ -92,11 +92,9 @@ Die publisering van inhoud [na](/i18n.site/feature#ha) [npmjs.com](//npmjs.com)
 
 Installeer `nodejs` , meld aan met `npm login` .
 
-Wysig `md/.i18n/htm/ol.yml` en verander `i18n.site` in `v: //unpkg.com/i18n.site` na jou eie `npm` pakketnaam.
+Wysig `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) verander die waarde van [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` as jou eie `npm` pakketnaam.
 
-Gebruik net die onbesette pakketnaam op [npmjs.com](//npmjs.com)
-
-Wanneer u publiseer gebaseer op pakket `npm` , maak **seker dat u `//unpkg.com/` gebruik** vir die voorvoegsel van `v:` waarde `i18n.site` het spesiaal die kastyd van `/.v` onder hierdie voorvoegselpad geoptimaliseer om tydige besigtiging van nuwe vrystellings te verkry.
+Verander dan `md/.i18n/htm/ol.package.json`
 
 Begin `i18n.site --npm` of `i18n.site -n` in die `md` gids om te vertaal en te publiseer.
 

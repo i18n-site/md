@@ -20,14 +20,18 @@ Statinius failus galima sugeneruoti vietoje, tačiau labiau paplitęs būdas yra
 Kaip pavyzdį paimkite `.i18n/htm/ol.yml` konfigūracijos failą demonstraciniame projekte
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Pirmiausia pakeiskite aukščiau esančią `host:` reikšmę į savo domeno pavadinimą, pvz., `i18n.site` .

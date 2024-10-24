@@ -1,4 +1,4 @@
-# Liyangani Ya Format MarkDown
+# i18n.site Liyangani Ya Kokoma MarkDown
 
 ## Esika Ya Kokangama
 
@@ -34,3 +34,10 @@ Okoki ko référer na mise en œuvre na [github.com/i18n-site/md/en/README.md](h
 ```
 
 Simbá ete `<style>` elimbolami mpe na `<pre>` oyo ezali likoló.
+
+
+## Bilili/Bavideo/Ba Liens Na Minoko Ebele
+
+Sima ya kobongwana `MarkDown` na `HTML` , `$LANG` na ba attributs `src` na `href` eko remplacer na [code ya langue](/i18/LANG_CODE) ya lelo .
+
+Na variable oyo, okoki kozua multilingualisation ya ba photos/vidéos/liens.

@@ -1,14 +1,14 @@
 # Instalatu &
 
-## Konfigurazio-Tokena
-
-`i18n.site` k `i18` itzulpen-tresna bat dauka. Mesedez [, egin klik hemen `i18` dokumentura atzitzeko tokena konfiguratzeko](/i18/use) .
-
 ## Instalatu
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurazio-Tokena
+
+`i18n.site` k `i18` itzulpen-tresna bat dauka. Mesedez [, egin klik hemen `i18` dokumentura atzitzeko tokena konfiguratzeko](/i18/use) .
 
 ## Demo Proiektua
 
@@ -64,7 +64,7 @@ Tokiko aurrebistak ez dio axola bertsio-zenbakiari eta fitxategi guztiak `out/de
 
 Argitaratze ofizialerako, aldatutako fitxategiak bertsio-zenbaki berriaren direktoriora kopiatuko dira.
 
-#### Erabili -c Konfigurazio Fitxategia Zehazteko
+#### Zehaztu Konfigurazio-Fitxategia `-c` Rekin
 
 Konfigurazio fitxategi ezberdinek dagozkien direktorioak sortuko dituzte `out` direktorioan.
 
@@ -92,11 +92,9 @@ Edukia argitaratzea da gomendatutako irtenbide lehenetsia ( [npmjs.com](//npmjs.
 
 Instalatu `nodejs` , hasi saioa `npm login` rekin.
 
-Editatu `md/.i18n/htm/ol.yml` eta aldatu `i18n.site` in `v: //unpkg.com/i18n.site` zure `npm` paketearen izenarekin.
+Editatu `md/.i18n/htm/ol.yml` eta aldatu [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` zure `npm` paketearen izen [npmjs.com](//npmjs.com) .
 
-[npmjs.com](//npmjs.com) okupatu gabeko paketearen izena aukera ona da webgunearen domeinuaren izena.
-
-`npm` paketean oinarrituta argitaratzen duzunean, **ziurtatu `//unpkg.com/` erabiltzen duzula** `v:` balioaren aurrizkiarentzat `i18n.site` bereziki optimizatu du `/.v` -ren cache-denbora aurrizkiaren bide honen azpian, bertsio berriak garaiz ikusteko.
+Ondoren, aldatu `md/.i18n/htm/ol.package.json`
 
 Exekutatu `i18n.site --npm` edo `i18n.site -n` `md` direktorioan itzultzeko eta argitaratzeko.
 

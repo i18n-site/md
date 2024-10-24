@@ -20,14 +20,18 @@ Statik faýllar ýerli görnüşde döredilip bilner, ýöne has giňden ýaýra
 Mysal hökmünde demo taslamasyndaky `.i18n/htm/ol.yml` konfigurasiýa faýly alyň
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ilki bilen ýokardaky `host:` bahasyny `i18n.site` ýaly domen adyňyza üýtgediň.

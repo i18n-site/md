@@ -1,14 +1,14 @@
 # Fi Sori Ẹrọ &
 
-## Àmi Iṣeto Ni
-
-`i18n.site` ni irinṣẹ itumọ `i18` ti a ṣe sinu rẹ Jọwọ [tẹ ibi lati tọka si iwe-ipamọ `i18` lati tunto ami wiwọle](/i18/use) .
-
 ## Fi Sori Ẹrọ
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Àmi Iṣeto Ni
+
+`i18n.site` ni irinṣẹ itumọ `i18` ti a ṣe sinu rẹ Jọwọ [tẹ ibi lati tọka si iwe-ipamọ `i18` lati tunto ami wiwọle](/i18/use) .
 
 ## Ririnkiri Ise Agbese
 
@@ -64,7 +64,7 @@ Awotẹlẹ agbegbe ko bikita nipa nọmba ẹya ati pe yoo daakọ gbogbo awọ
 
 Fun itusilẹ osise, awọn faili ti o yipada yoo jẹ daakọ si itọsọna nọmba ẹya tuntun.
 
-#### Lo -c Lati Pato Faili Iṣeto Ni
+#### Pato Faili Iṣeto Ni Pẹlu `-c`
 
 Awọn faili iṣeto ni oriṣiriṣi yoo ṣẹda awọn ilana ti o baamu ni ilana `out` .
 
@@ -92,11 +92,9 @@ Titẹjade akoonu si [npmjs.com](//npmjs.com) ni ojutu aiyipada ti a ṣeduro (w
 
 Fi `nodejs` sori ẹrọ, wọle pẹlu `npm login` .
 
-Ṣatunkọ `md/.i18n/htm/ol.yml` ki o yipada `i18n.site` ni `v: //unpkg.com/i18n.site` si orukọ package `npm` tirẹ.
+Ṣatunkọ `md/.i18n/htm/ol.yml` ki o yipada iye ti [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` gẹgẹbi orukọ package `npm` ti ara rẹ yoo [npmjs.com](//npmjs.com) .
 
-O kan lo orukọ idii ti a ko tẹ lori [npmjs.com](//npmjs.com)
-
-Nigbati o ba ṣe atẹjade ti o da lori package `npm` , rii **daju pe o lo `//unpkg.com/`** fun ìpele `v:` iye `i18n.site` ti ṣe iṣapeye ni pataki akoko kaṣe ti `/.v` labẹ ọna ìpele yii lati ṣaṣeyọri wiwo akoko ti awọn idasilẹ tuntun.
+Lẹhinna yipada `md/.i18n/htm/ol.package.json`
 
 Ṣiṣe `i18n.site --npm` tabi `i18n.site -n` ninu ilana `md` lati tumọ ati ṣe atẹjade.
 

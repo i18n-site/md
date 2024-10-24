@@ -1,14 +1,14 @@
 # E Hoʻouka &
 
-## Hōʻailona Hoʻonohonoho
-
-Loaʻa iā `i18n.site` kahi mea unuhi `i18` i kūkulu ʻia e ʻoluʻolu [e kaomi ma aneʻi e nānā i ka palapala `i18` e hoʻonohonoho i ka hōʻailona komo](/i18/use) .
-
 ## Hoʻokomo
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Hōʻailona Hoʻonohonoho
+
+Loaʻa iā `i18n.site` kahi mea unuhi `i18` i kūkulu ʻia e ʻoluʻolu [e kaomi ma aneʻi e nānā i ka palapala `i18` e hoʻonohonoho i ka hōʻailona komo](/i18/use) .
 
 ## Papahana Demo
 
@@ -64,7 +64,7 @@ Aia ma ka papa kuhikuhi `v` ka ʻike pūnaewele me nā helu mana.
 
 No ka hoʻokuʻu kūhelu, e kope ʻia nā faila i hoʻololi ʻia i ka papa kuhikuhi helu mana hou.
 
-#### E Hoʻohana I -c E Kuhikuhi I Ka Faila Hoʻonohonoho
+#### E Wehewehe I Ka Faila Hoʻonohonoho Me `-c`
 
 E hana nā faila hoʻonohonoho ʻokoʻa i nā papa kuhikuhi pili i ka papa kuhikuhi `out` .
 
@@ -92,11 +92,9 @@ Ma ʻaneʻi, hōʻike ʻo `--save` i ka helu mana hoʻokuʻu hou.
 
 E hoʻouka i `nodejs` , e komo me `npm login` .
 
-Hoʻoponopono i `md/.i18n/htm/ol.yml` a hoʻololi i `i18n.site` i `v: //unpkg.com/i18n.site` i kāu inoa pūʻolo `npm` ponoʻī.
+Hoʻoponopono i `md/.i18n/htm/ol.yml` a hoʻololi i ka waiwai o [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` e like [npmjs.com](//npmjs.com) kāu inoa pūʻolo `npm` ponoʻī.
 
-E hoʻohana wale i ka inoa pūʻolo i hoʻohana ʻole ʻia ma [npmjs.com](//npmjs.com)
-
-I ka paʻi ʻana ma muli o ka pūʻolo `npm` , e **hoʻohana pono i `//unpkg.com/`** `/.v` ka prefix o `v:` waiwai i hoʻopaʻa pono ʻia ka manawa huna o `i18n.site` ma lalo o kēia ala prefix e hiki ai ke nānā pono i nā mea hou.
+A laila hoʻololi i `md/.i18n/htm/ol.package.json`
 
 Holo i `i18n.site --npm` a i ʻole `i18n.site -n` ma ka papa kuhikuhi `md` e unuhi a hoʻolaha.
 

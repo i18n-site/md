@@ -20,14 +20,18 @@ Els fitxers estàtics es poden generar localment, però un enfocament més comú
 Preneu com a exemple el fitxer de configuració `.i18n/htm/ol.yml` del projecte de demostració
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Primer modifiqueu el valor de `host:` anterior al vostre nom de domini, com ara `i18n.site` .

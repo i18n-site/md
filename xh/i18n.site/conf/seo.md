@@ -20,14 +20,18 @@ Iifayile ezimileyo zinokuveliswa kwindawo, kodwa indlela eqhelekileyo kukuzilayi
 Thatha i `.i18n/htm/ol.yml` ifayile yoqwalaselo kwiprojekthi yedemo njengomzekelo
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Nceda ulungise kuqala ixabiso le `host:` ngasentla kwigama lakho lesizinda, njenge `i18n.site` .

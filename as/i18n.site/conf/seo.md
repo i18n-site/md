@@ -20,14 +20,18 @@
 ডেমো প্ৰকল্পত `.i18n/htm/ol.yml` বিন্যাস নথিপত্ৰক উদাহৰণ হিচাপে লওক
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 অনুগ্ৰহ কৰি প্ৰথমে ওপৰৰ `host:` ৰ মান আপোনাৰ ডমেইন নামলৈ পৰিবৰ্তন কৰক, যেনে `i18n.site` ।

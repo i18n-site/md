@@ -1,14 +1,14 @@
 # 설치 &
 
-## 구성 토큰
-
-`i18n.site` 에는 `i18` 번역 도구가 내장되어 있습니다. [액세스 토큰을 구성하려면 여기를 클릭하여 `i18` 문서를 참조하세요](/i18/use) .
-
 ## 설치하다
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## 구성 토큰
+
+`i18n.site` 에는 `i18` 번역 도구가 내장되어 있습니다. [액세스 토큰을 구성하려면 여기를 클릭하여 `i18` 문서를 참조하세요](/i18/use) .
 
 ## 데모 프로젝트
 
@@ -64,7 +64,7 @@ git clone https://atomgit.com/i18n/demo.i18n.site.docker.git docker
 
 공식 릴리스의 경우 변경된 파일이 새 버전 번호 디렉터리에 복사됩니다.
 
-#### -c를 사용하여 구성 파일을 지정합니다.
+#### 구성 파일을 `-c` 으로 지정
 
 다른 구성 파일은 `out` 디렉터리에 해당 디렉터리를 생성합니다.
 
@@ -92,11 +92,9 @@ i18n.site --htm_conf yourConfig --save
 
 `nodejs` 설치하고 `npm login` 로 로그인하세요.
 
-`md/.i18n/htm/ol.yml` 편집하고 `i18n.site` in `v: //unpkg.com/i18n.site` 을 자신만의 `npm` 패키지 이름으로 변경하세요.
+`md/.i18n/htm/ol.yml` 편집하고 [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) 의 값을 `YOUR_NPM_PACKAGE` 변경합니다. `npm` 의 비어 있는 패키지 이름이 [npmjs.com](//npmjs.com) .
 
-[npmjs.com](//npmjs.com) 에서는 비어 있는 패키지 이름을 사용하세요. 웹사이트 도메인 이름을 패키지 이름으로 사용하는 것이 좋습니다.
-
-패키지 `npm` 기반으로 게시하는 경우 `v:` 값의 접두사에 **`//unpkg.com/` 사용해야 합니다** . `i18n.site` 새 릴리스를 적시에 볼 수 있도록 이 접두사 경로 아래의 캐시 시간 `/.v` 특별히 최적화했습니다.
+그런 다음 `md/.i18n/htm/ol.package.json` 수정하십시오.
 
 번역하고 출판하려면 `md` 디렉터리에서 `i18n.site --npm` 또는 `i18n.site -n` 실행하세요.
 

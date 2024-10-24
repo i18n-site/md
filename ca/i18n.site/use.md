@@ -1,14 +1,14 @@
 # Instal·Leu &
 
-## Fitxa De Configuració
-
-`i18n.site` té una eina de traducció integrada `i18` Feu [clic aquí per consultar el document `i18` per configurar el testimoni d'accés](/i18/use) .
-
 ## Instal·Lar
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Fitxa De Configuració
+
+`i18n.site` té una eina de traducció integrada `i18` Feu [clic aquí per consultar el document `i18` per configurar el testimoni d'accés](/i18/use) .
 
 ## Projecte De Demostració
 
@@ -64,7 +64,7 @@ La previsualització local no li importa el número de versió i copiarà tots e
 
 Per al llançament oficial, els fitxers modificats es copiaran al directori de números de versió nou.
 
-#### Utilitzeu -c Per Especificar El Fitxer De Configuració
+#### Especifiqueu El Fitxer De Configuració Amb `-c`
 
 Diferents fitxers de configuració crearan els directoris corresponents al directori `out` .
 
@@ -92,11 +92,9 @@ Publicar contingut a [npmjs.com](//npmjs.com) és la solució predeterminada rec
 
 Instal·leu `nodejs` , inicieu sessió amb `npm login` .
 
-Editeu `md/.i18n/htm/ol.yml` i canvieu `i18n.site` en `v: //unpkg.com/i18n.site` pel vostre propi nom de paquet `npm` .
+Editeu `md/.i18n/htm/ol.yml` i canvieu el valor d' [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` com el vostre propi nom de paquet `npm` [npmjs.com](//npmjs.com)
 
-Només cal que utilitzeu el nom del paquet desocupat [npmjs.com](//npmjs.com) .
-
-Quan publiqueu en funció del paquet `npm` , **assegureu-vos d'utilitzar `//unpkg.com/`** per al prefix d' `v:` , el valor `i18n.site` ha optimitzat especialment el temps de memòria cau de `/.v` en aquest camí del prefix per aconseguir una visualització oportuna de les noves versions.
+A continuació, modifiqueu `md/.i18n/htm/ol.package.json`
 
 Executeu `i18n.site --npm` o `i18n.site -n` al directori `md` per traduir i publicar.
 

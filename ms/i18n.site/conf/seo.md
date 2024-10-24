@@ -20,14 +20,18 @@ Fail statik boleh dijana secara tempatan, tetapi pendekatan yang lebih biasa ial
 Ambil fail konfigurasi `.i18n/htm/ol.yml` dalam projek demo sebagai contoh
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Sila ubah suai nilai `host:` di atas dahulu kepada nama domain anda, seperti `i18n.site` .

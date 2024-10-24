@@ -1,14 +1,14 @@
 # Tsenya Deploy &
 
-## Letshwao La Peakanyo
-
-`i18n.site` e na le sedirišwa sa phetolelo `i18` seo se agetšwego ka gare [Hle klika mo go lebelela tokumente ya `i18` go beakanya leswao la phihlelelo](/i18/use) .
-
 ## Hloma
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Letshwao La Peakanyo
+
+`i18n.site` e na le sedirišwa sa phetolelo `i18` seo se agetšwego ka gare [Hle klika mo go lebelela tokumente ya `i18` go beakanya leswao la phihlelelo](/i18/use) .
 
 ## Projeke Ya Demo
 
@@ -64,7 +64,7 @@ Tebelelopele ya selegae ga e na taba le nomoro ya phetolelo gomme e tla kopiša 
 
 Bakeng sa tokollo ya semmušo, difaele tše di fetotšwego di tla kopišwa go tšhupetšo ya nomoro ya phetolelo ye mpsha.
 
-#### Šomiša -c Go Laetša Faele Ya Peakanyo
+#### Laetša Faele Ya Peakanyo Ka `-c`
 
 Difaele tša peakanyo tše di fapanego di tla hlola dipuku tša go tshwanela ka gare ga tšhupetšo `out` .
 
@@ -92,11 +92,9 @@ Go phatlalatša diteng go [npmjs.com](//npmjs.com) ke tharollo ya go se fetoge y
 
 Tsenya `nodejs` , tsena ka `npm login` .
 
-Edita `md/.i18n/htm/ol.yml` gomme o fetoše `i18n.site` go `v: //unpkg.com/i18n.site` go leina la gago la sephuthelwana `npm` .
+Edita `md/.i18n/htm/ol.yml` gomme o fetoše boleng bja [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` bjalo [npmjs.com](//npmjs.com) leina la gago la sephuthelwana `npm` .
 
-E no šomiša leina la sephuthelwana seo se sa dulwago go [npmjs.com](//npmjs.com)
-
-Ge o phatlalatša go ya ka sephuthelwana `npm` , **kgonthiša gore o šomiša `//unpkg.com/`** bakeng sa hlogo ya boleng bja `v:` `i18n.site` e lokišitše ka mo go kgethegilego nako ya cache ya `/.v` ka fase ga tsela ye ya hlogo go fihlelela go lebelela ka nako ga ditokollo tše mpsha.
+Ebe fetola `md/.i18n/htm/ol.package.json`
 
 Matha `i18n.site --npm` goba `i18n.site -n` ka go `md` tšhupetšo go fetolela le go phatlalatša.
 

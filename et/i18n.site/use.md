@@ -1,14 +1,14 @@
 # Installige &
 
-## Seadistusmärk
-
-`i18n.site` on sisseehitatud `i18` tõlketööriist. [`i18` konfigureerimiseks klõpsake siin](/i18/use) .
-
 ## Installige
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Seadistusmärk
+
+`i18n.site` on sisseehitatud `i18` tõlketööriist. [`i18` konfigureerimiseks klõpsake siin](/i18/use) .
 
 ## Demoprojekt
 
@@ -64,7 +64,7 @@ Kohalik eelvaade ei hooli versiooninumbrist ja kopeerib kõik failid `out/dev/v/
 
 Ametlikuks avaldamiseks kopeeritakse muudetud failid uude versiooninumbrite kataloogi.
 
-#### Konfiguratsioonifaili Määramiseks Kasutage -c
+#### Määrake Konfiguratsioonifail `-c`
 
 Erinevad konfiguratsioonifailid loovad vastavad kataloogid `out` kataloogis.
 
@@ -92,11 +92,9 @@ Soovitatav vaikelahendus on sisu avaldamine saidil [npmjs.com](//npmjs.com) (vt 
 
 Installige `nodejs` , logige sisse numbriga `npm login` .
 
-Muutke `md/.i18n/htm/ol.yml` ja muutke `i18n.site` in `v: //unpkg.com/i18n.site` oma `npm` paketi nimeks.
+Redigeerige `md/.i18n/htm/ol.yml` ja `YOUR_NPM_PACKAGE` [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `npm` paketi nimeks [npmjs.com](//npmjs.com)
 
-Kasutage lihtsalt vaba paketi nime [npmjs.com](//npmjs.com) Veebisaidi domeeninime kasutamine paketi nimena on hea valik.
-
-Kui avaldate paketi `npm` alusel, **`//unpkg.com/`** `v:` väärtuse eesliite jaoks kindlasti 2. `i18n.site` on spetsiaalselt selle eesliite tee all optimeerinud vahemälu aega `/.v` , et saavutada uute väljaannete õigeaegne vaatamine.
+Seejärel muutke `md/.i18n/htm/ol.package.json`
 
 Tõlkimiseks ja avaldamiseks käivitage kataloogis `md` `i18n.site --npm` või `i18n.site -n` .
 

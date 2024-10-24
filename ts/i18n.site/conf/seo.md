@@ -20,14 +20,18 @@ Tifayili leti nga cinciki ti nga endliwa laha tikweni, kambe ndlela leyi tolovel
 Teka fayili ya vukorhokeri bya `.i18n/htm/ol.yml` eka phurojeke ya demo tanihi xikombiso
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Hi kombela u rhanga hi ku cinca ntikelo wa `host:` laha henhla eka vito ra wena ra domain, ku fana na `i18n.site` .

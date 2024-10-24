@@ -1,14 +1,14 @@
 # Deploy &
 
-## Ðoɖowɔɖi Ƒe Dzesi
-
-`i18n.site` ƒe gbegɔmeɖeɖedɔwɔnu `i18` si wotu ɖe eme [Taflatse zi afisia dzi be nàkpɔ nuŋlɔɖi `i18` la atsɔ aɖo mɔɖeɖe ƒe dzesi](/i18/use) .
-
 ## Ɖoe Anyi
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Ðoɖowɔɖi Ƒe Dzesi
+
+`i18n.site` ƒe gbegɔmeɖeɖedɔwɔnu `i18` si wotu ɖe eme [Taflatse zi afisia dzi be nàkpɔ nuŋlɔɖi `i18` la atsɔ aɖo mɔɖeɖe ƒe dzesi](/i18/use) .
 
 ## Demo Dɔa Wɔwɔ
 
@@ -64,7 +64,7 @@ Local preview metsɔ ɖeke le version xexlẽdzesi me o eye awɔ kɔpi na faɛlw
 
 Be woaɖee ɖe go le se nu la, woawɔ kɔpi na faɛl siwo wotrɔ la ɖe version number directory yeyea me.
 
-#### Zã -c Nàtsɔ Agblɔ Ɖoɖowɔɖi Ƒe Faɛl
+#### Tsɔ Ɖoɖowɔɖi Ƒe Faɛl Kple `-c`
 
 Ðoɖowɔɖi ƒe faɛl vovovowo awɔ nyatakakadzraɖoƒe siwo sɔ ɖe enu le `out` ƒe agbalẽdzraɖoƒea.
 
@@ -92,11 +92,9 @@ Nyatakakawo [tata](/i18n.site/feature#ha) ɖe [npmjs.com](//npmjs.com)
 
 De `nodejs` , ge ɖe eme kple `npm login` .
 
-Trɔ asi le `md/.i18n/htm/ol.yml` ŋu eye nàtrɔ `i18n.site` le `v: //unpkg.com/i18n.site` me wòazu wò ŋutɔ wò `npm` package ŋkɔ.
+Trɔ asi le `md/.i18n/htm/ol.yml` ŋu [npmjs.com](//npmjs.com) nàtrɔ asixɔxɔ si le [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) ŋu `YOUR_NPM_PACKAGE` abe wò ŋutɔ wò `npm` ƒe agbalẽvi ƒe ŋkɔ ene.
 
-Zã agbalẽvi si me ame aɖeke mele o ko le [npmjs.com](//npmjs.com)
-
-Ne èle tam si wotu ɖe package `npm` dzi la, kpɔ **egbɔ be yezã `//unpkg.com/`** na ŋgɔdonya si nye `v:` ƒe asixɔxɔ `i18n.site` trɔ asi le cache time si nye `/.v` ŋu etɔxɛe le ŋgɔdonya mɔ sia te be nàkpɔ esiwo woɖe ɖe go le ɣeyiɣi nyuitɔ dzi.
+Emegbe nàtrɔ asi le `md/.i18n/htm/ol.package.json` ŋu
 
 Ƒu du `i18n.site --npm` alo `i18n.site -n` le `md` ƒe nyatakakadzraɖoƒe be nàɖe egɔme ahatae.
 

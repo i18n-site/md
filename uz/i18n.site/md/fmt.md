@@ -1,4 +1,4 @@
-# MarkDown Formati Konventsiyasi
+# i18n.site MarkDown Yozuv Konventsiyasi
 
 ## Langar Nuqtasi
 
@@ -34,3 +34,10 @@ Siz ilovaga murojaat qilishingiz mumkin [github.com/i18n-site/md/en/README.md](h
 ```
 
 E'tibor bering, `<style>` yuqorida `<pre>` da aniqlangan.
+
+
+## Bir Nechta Tillardagi Rasmlar/Videolar/Havolalar
+
+`MarkDown` `HTML` ga aylantirilgandan so'ng `src` va `href` atributlardagi `$LANG` joriy [til kodi](/i18/LANG_CODE) bilan almashtiriladi.
+
+Ushbu o'zgaruvchi yordamida siz rasmlar/videolar/havolalarni ko'p tillilashtirishga erishishingiz mumkin.

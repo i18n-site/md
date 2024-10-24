@@ -1,4 +1,4 @@
-# Konvencija O Formatu MarkDown
+# Konvencija Pisanja MarkDown i18n.site
 
 ## Sidrišna Tačka
 
@@ -34,3 +34,10 @@ Možete se obratiti na implementaciju u [github.com/i18n-site/md/en/README.md](h
 ```
 
 Imajte na umu da je `<style>` također definiran u `<pre>` gore.
+
+
+## Slike/Video Zapisi/Linkovi Na Više Jezika
+
+Nakon što se `MarkDown` konvertuje u `HTML` , `$LANG` u atributima `src` i `href` će biti zamijenjeno trenutnim [kodom jezika](/i18/LANG_CODE) .
+
+Pomoću ove varijable možete postići višejezičnost slika/videozapisa/linkova.

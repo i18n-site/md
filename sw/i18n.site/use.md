@@ -1,14 +1,14 @@
 # Sakinisha &
 
-## Tokeni Ya Usanidi
-
-`i18n.site` ina zana `i18` ya kutafsiri iliyojengewa ndani Tafadhali [bofya hapa ili kurejelea hati `i18` ili kusanidi tokeni ya ufikiaji](/i18/use) .
-
 ## Sakinisha
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Tokeni Ya Usanidi
+
+`i18n.site` ina zana `i18` ya kutafsiri iliyojengewa ndani Tafadhali [bofya hapa ili kurejelea hati `i18` ili kusanidi tokeni ya ufikiaji](/i18/use) .
 
 ## Mradi Wa Onyesho
 
@@ -64,7 +64,7 @@ Onyesho la kukagua la ndani halijali nambari ya toleo na litanakili faili zote k
 
 Kwa toleo rasmi, faili zilizobadilishwa zitanakiliwa kwenye saraka ya nambari ya toleo jipya.
 
-#### Tumia -c Kutaja Faili Ya Usanidi
+#### Bainisha Faili Ya Usanidi Na `-c`
 
 Faili tofauti za usanidi zitaunda saraka zinazolingana katika saraka `out` .
 
@@ -92,11 +92,9 @@ Hapa `--save` inawakilisha nambari ya toleo la toleo la sasisho.
 
 Sakinisha `nodejs` , ingia na `npm login` .
 
-Hariri `md/.i18n/htm/ol.yml` na ubadilishe `i18n.site` kati ya `v: //unpkg.com/i18n.site` hadi jina lako la kifurushi `npm` .
+Hariri `md/.i18n/htm/ol.yml` na ubadilishe thamani ya [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` kama jina lako la kifurushi `npm` ambalo halijashughulikiwa [npmjs.com](//npmjs.com) .
 
-Tumia tu jina la kifurushi kisicho na mtu kwenye [npmjs.com](//npmjs.com)
-
-Unapochapisha kulingana na kifurushi `npm` , **hakikisha kuwa unatumia `//unpkg.com/`** kwa kiambishi awali cha `v:` thamani `i18n.site` imeboresha maalum wakati wa akiba ya `/.v` chini ya njia hii ya kiambishi awali ili kufikia utazamaji wa matoleo mapya kwa wakati.
+Kisha rekebisha `md/.i18n/htm/ol.package.json`
 
 Endesha `i18n.site --npm` au `i18n.site -n` katika saraka `md` ili kutafsiri na kuchapisha.
 

@@ -1,14 +1,14 @@
 # Instalējiet &
 
-## Konfigurācijas Marķieris
-
-`i18n.site` ir iebūvēts `i18` tulkošanas rīks, lūdzu [, noklikšķiniet šeit, lai skatītu `i18` dokumentu, lai konfigurētu piekļuves pilnvaru](/i18/use) .
-
 ## Instalējiet
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurācijas Marķieris
+
+`i18n.site` ir iebūvēts `i18` tulkošanas rīks, lūdzu [, noklikšķiniet šeit, lai skatītu `i18` dokumentu, lai konfigurētu piekļuves pilnvaru](/i18/use) .
 
 ## Demo Projekts
 
@@ -64,7 +64,7 @@ Vietējam priekšskatījumam nerūp versijas numurs, un visi faili tiks kopēti 
 
 Oficiālai izlaišanai mainītie faili tiks kopēti jaunā versijas numuru direktorijā.
 
-#### Izmantojiet -C, Lai Norādītu Konfigurācijas Failu
+#### Norādiet Konfigurācijas Failu Ar `-c`
 
 Dažādi konfigurācijas faili izveidos atbilstošus direktorijus `out` direktorijā.
 
@@ -92,11 +92,9 @@ Ieteicamais noklusējuma risinājums ir satura publicēšana [vietnē](/i18n.sit
 
 Instalējiet `nodejs` , piesakieties ar `npm login` .
 
-Rediģējiet `md/.i18n/htm/ol.yml` un mainiet `i18n.site` in `v: //unpkg.com/i18n.site` uz savu `npm` pakotnes nosaukumu.
+Rediģējiet `md/.i18n/htm/ol.yml` un mainiet vērtību [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) savu `npm` pakotnes nosaukumu.
 
-Vienkārši [npmjs.com](//npmjs.com) neaizņemto pakotnes nosaukumu Vietnes domēna nosaukuma izmantošana kā pakotnes nosaukums ir laba izvēle.
-
-Publicējot, pamatojoties uz pakotni `npm` , **noteikti izmantojiet `//unpkg.com/`** prefiksa `v:` vērtībai `i18n.site` ir īpaši optimizējis kešatmiņas laiku `/.v` zem šī prefiksa ceļa, lai nodrošinātu savlaicīgu jauno laidienu apskati.
+Pēc tam mainiet `md/.i18n/htm/ol.package.json`
 
 Palaidiet `i18n.site --npm` vai `i18n.site -n` direktorijā `md` , lai tulkotu un publicētu.
 

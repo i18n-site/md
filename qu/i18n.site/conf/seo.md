@@ -20,14 +20,18 @@ Mana kuyukuq willañiqikunataqa llaqtapi paqarichiyta atikunmi, ichataq aswan ri
 Demo proyectopi `.i18n/htm/ol.yml` ruwana willañiqita huk rikch'anachiy hina hap'iy
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ama hina kaspa, ñawpaqta `host:` patamanta chanitaqa kamachiy sutiykiman tikray, ahinataq `i18n.site` .

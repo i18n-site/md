@@ -1,14 +1,14 @@
 # Pasang &
 
-## Token Konfigurasi
-
-`i18n.site` gaduh alat tarjamah `i18` anu diwangun Mangga [klik di dieu pikeun ngarujuk kana dokumén `i18` pikeun ngonpigurasikeun token aksés](/i18/use) .
-
 ## Pasang
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Konfigurasi
+
+`i18n.site` gaduh alat tarjamah `i18` anu diwangun Mangga [klik di dieu pikeun ngarujuk kana dokumén `i18` pikeun ngonpigurasikeun token aksés](/i18/use) .
 
 ## Proyék Demo
 
@@ -64,7 +64,7 @@ Sawangan lokal henteu paduli ngeunaan nomer versi sareng bakal nyalin sadaya fil
 
 Pikeun pelepasan resmi, file anu dirobih bakal disalin kana diréktori nomer vérsi énggal.
 
-#### Paké -c Pikeun Nangtukeun File Konfigurasi
+#### Sebutkeun File Konfigurasi Sareng `-c`
 
 File konfigurasi anu béda-béda bakal nyiptakeun diréktori anu cocog dina diréktori `out` .
 
@@ -92,11 +92,9 @@ Nyebarkeun eusi ka [npmjs.com](//npmjs.com) nyaéta solusi standar anu disaranke
 
 Pasang `nodejs` , log in sareng `npm login` .
 
-Édit `md/.i18n/htm/ol.yml` sareng robih `i18n.site` dina `v: //unpkg.com/i18n.site` janten `npm` nami pakét anjeun.
+Edit `md/.i18n/htm/ol.yml` sarta ngarobah nilai [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` salaku `npm` ngaran pakét anjeun sorangan bakal [npmjs.com](//npmjs.com) .
 
-Ngan nganggo nami pakét anu henteu ditempatkeun dina [npmjs.com](//npmjs.com) .
-
-Nalika nyebarkeun dumasar kana pakét `npm` , **pastikeun ngagunakeun `//unpkg.com/`** pikeun awalan `v:` nilai `i18n.site` parantos ngaoptimalkeun waktos cache `/.v` dina jalur awalan ieu pikeun ningali kaluaran énggal.
+Lajeng ngarobah `md/.i18n/htm/ol.package.json`
 
 Jalankeun `i18n.site --npm` atanapi `i18n.site -n` dina diréktori `md` pikeun narjamahkeun sareng nyebarkeun.
 

@@ -1,14 +1,14 @@
 # Namesti &
 
-## Konfiguracijski Žeton
-
-`i18n.site` ima vgrajeno `i18` orodje za prevajanje [Kliknite tukaj, da se obrnete na `i18` dokument za konfiguracijo žetona za dostop](/i18/use) .
-
 ## Namestite
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfiguracijski Žeton
+
+`i18n.site` ima vgrajeno `i18` orodje za prevajanje [Kliknite tukaj, da se obrnete na `i18` dokument za konfiguracijo žetona za dostop](/i18/use) .
 
 ## Demo Projekt
 
@@ -64,7 +64,7 @@ Lokalni predogled ne upošteva številke različice in bo kopiral vse datoteke v
 
 Za uradno izdajo bodo spremenjene datoteke kopirane v imenik številk nove različice.
 
-#### Uporabite -C, Da Določite Konfiguracijsko Datoteko
+#### Določite Konfiguracijsko Datoteko Z `-c`
 
 Različne konfiguracijske datoteke bodo ustvarile ustrezne imenike v imeniku `out` .
 
@@ -92,11 +92,9 @@ Objavljanje vsebine v priporočeni privzeti [npmjs.com](//npmjs.com) (glejte [Fr
 
 Namestite `nodejs` , prijavite se z `npm login` .
 
-Uredite `md/.i18n/htm/ol.yml` in spremenite `i18n.site` v `v: //unpkg.com/i18n.site` v svoje ime paketa `npm` .
+Uredite `md/.i18n/htm/ol.yml` in spremenite vrednost [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` kot lastno ime paketa `npm` [npmjs.com](//npmjs.com) vsako prazno ime paketa.
 
-Samo ime [npmjs.com](//npmjs.com) paketa je dobra izbira.
-
-Ko objavljate na podlagi paketa `npm` , se **prepričajte, da uporabite `//unpkg.com/`** za predpono `v:` `i18n.site` je posebej optimizirala čas predpomnilnika `/.v` pod to potjo predpone, da dosežete pravočasen ogled novih izdaj.
+Nato spremenite `md/.i18n/htm/ol.package.json`
 
 Zaženite `i18n.site --npm` ali `i18n.site -n` v imeniku `md` za prevod in objavo.
 

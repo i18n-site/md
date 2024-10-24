@@ -1,14 +1,14 @@
 # Installieren &
 
-## Konfigurationstoken
-
-`i18n.site` verfügt über ein integriertes `i18` Übersetzungstool. [Klicken Sie hier, um auf das `i18` Dokument zum Konfigurieren des Zugriffstokens zu verweisen](/i18/use) .
-
 ## Installieren
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurationstoken
+
+`i18n.site` verfügt über ein integriertes `i18` Übersetzungstool. [Klicken Sie hier, um auf das `i18` Dokument zum Konfigurieren des Zugriffstokens zu verweisen](/i18/use) .
 
 ## Demoprojekt
 
@@ -64,7 +64,7 @@ Die lokale Vorschau kümmert sich nicht um die Versionsnummer und kopiert alle D
 
 Für die offizielle Veröffentlichung werden geänderte Dateien in das neue Versionsnummernverzeichnis kopiert.
 
-#### Verwenden Sie -C, Um Die Konfigurationsdatei Anzugeben
+#### Geben Sie Die Konfigurationsdatei Mit `-c` An
 
 Verschiedene Konfigurationsdateien erstellen entsprechende Verzeichnisse im Verzeichnis `out` .
 
@@ -92,11 +92,9 @@ Die Veröffentlichung von Inhalten in [npmjs.com](//npmjs.com) ist die empfohlen
 
 Installieren Sie `nodejs` , melden Sie sich mit `npm login` an.
 
-Bearbeiten Sie `md/.i18n/htm/ol.yml` und ändern Sie `i18n.site` in `v: //unpkg.com/i18n.site` in Ihren eigenen `npm` Paketnamen.
+Bearbeiten Sie `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) ändern Sie den Wert von [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` als Ihren eigenen `npm` Paketnamen.
 
-Verwenden Sie einfach den nicht belegten Paketnamen [npmjs.com](//npmjs.com) Die Verwendung des Website-Domainnamens als Paketname ist eine gute Wahl.
-
-Stellen Sie beim Veröffentlichen auf Basis von Paket `npm` sicher, dass Sie 2 für das Präfix von `v:` **`//unpkg.com/`** . `i18n.site` hat die Cache-Zeit von `/.v` unter diesem Präfixpfad speziell optimiert, um eine zeitnahe Anzeige neuer Versionen zu erreichen.
+Dann ändern Sie `md/.i18n/htm/ol.package.json`
 
 Führen Sie `i18n.site --npm` oder `i18n.site -n` im Verzeichnis `md` aus, um zu übersetzen und zu veröffentlichen.
 

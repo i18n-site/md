@@ -1,4 +1,4 @@
-# Konvensyen Format MarkDown
+# i18n.site MarkDown Menulis Konvensyen
 
 ## Titik Sauh
 
@@ -34,3 +34,10 @@ Anda boleh merujuk kepada pelaksanaan dalam [github.com/i18n-site/md/en/README.m
 ```
 
 Ambil perhatian bahawa `<style>` juga ditakrifkan dalam `<pre>` di atas.
+
+
+## Gambar/Video/Pautan Dalam Pelbagai Bahasa
+
+Selepas `MarkDown` ditukar kepada `HTML` , `$LANG` dalam atribut `src` dan `href` akan digantikan dengan [kod bahasa](/i18/LANG_CODE) semasa.
+
+Dengan pembolehubah ini, anda boleh mencapai multibahasa bagi gambar/video/pautan.

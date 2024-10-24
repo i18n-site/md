@@ -1,4 +1,4 @@
-# Mgbakọ Usoro MarkDown
+# i18n.site MarkDown Mgbakọ Ederede
 
 ## Ebe Arịlịka
 
@@ -34,3 +34,10 @@ Ijikọta isi ihe abụọ a, ị nwere ike dee `HTML` n'ime `MarkDown` ngwa ngw
 ```
 
 Rịba ama na `<style>` kọwakwara na `<pre>` dị n'elu.
+
+
+## Foto/Vidiyo/Njikọ N'ọtụtụ Asụsụ
+
+Mgbe `MarkDown` gbanwere ka ọ bụrụ `HTML` , `$LANG` na njirimara `src` na `href` ga-eji [koodu asụsụ](/i18/LANG_CODE) dị ugbu a dochie anya .
+
+Site na mgbanwe a, ị nwere ike nweta ọtụtụ asụsụ nke foto / vidiyo / njikọ.

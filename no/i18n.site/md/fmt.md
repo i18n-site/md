@@ -1,4 +1,4 @@
-# MarkDown-formateringskonvensjoner
+# i18n.site MarkDown-skrivekonvensjon
 
 ## Ankerpunkt
 
@@ -34,3 +34,10 @@ Man kan se implementeringen i [github.com/i18n-site/md/en/README.md](https://raw
 ```
 
 Merk at det også er definert `<style>` i `<pre>` over.
+
+
+## Bilder/Videoer/Lenker På Flere Språk
+
+Étter at `MarkDown` er konvertert til `HTML`, vil `src`- og `href`-attributtene med `$LANG` bli erstattet med gjeldende [språkkode](/i18/LANG_CODE).
+
+Med denne variabelen kan du oppnå flerspråklighet av bilder/videoer/lenker.

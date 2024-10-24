@@ -29,9 +29,20 @@ Ka kopo iketsetse fonte ea hau ea setšoantšo kamoo ho hlokahalang 'me u nkele 
 ```
 @font-face {
   font-family: "F";
-  src: url("//at.alicdn.com/t/c/font_4281991_urfar2m2zce.woff2?t=1716188208767") format("woff2");
+  src: url(//p.3ti.site/ico1.woff2) format("woff2");
+}
+
+#Ft>b>a.site {
+  background: url("//p.3ti.site/i18n.svg") 0 0 / cover;
+  display: block;
+  height: 24px;
+  opacity: 0.8;
+  width: 115px;
+  flex-shrink: 0;
 }
 ```
+
+Ka kopo u se ke ua bua ka ho toba faele ea fonte ea iconfont.cn hobane e ke ke ea kenngoa ho sebatli sa safari.
 
 ## Likarolo Tsa Webo
 

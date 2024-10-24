@@ -1,14 +1,14 @@
 # Installéieren &
 
-## Configuratioun Token
-
-`i18n.site` huet en agebaute `i18` Iwwersetzungsinstrument [Klickt hei fir op d' `i18` Dokument ze referenzéieren fir den Zougangstoken ze konfiguréieren](/i18/use) .
-
 ## Installéieren
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuratioun Token
+
+`i18n.site` huet en agebaute `i18` Iwwersetzungsinstrument [Klickt hei fir op d' `i18` Dokument ze referenzéieren fir den Zougangstoken ze konfiguréieren](/i18/use) .
 
 ## Demo Projet
 
@@ -64,7 +64,7 @@ Lokal Virschau këmmert sech net ëm d'Versiounsnummer a kopéiert all Dateien a
 
 Fir offiziell Verëffentlechung, geännert Dateien ginn an déi nei Versiounsnummerverzeechnes kopéiert.
 
-#### Benotzt -c Fir d'Konfiguratiounsdatei Ze Spezifizéieren
+#### Spezifizéiert d'Konfiguratiounsdatei Mat `-c`
 
 Verschidde Konfiguratiounsdateien erstellen entspriechend Verzeichnisser am `out` Verzeichnis.
 
@@ -92,11 +92,9 @@ Verëffentlechung vum Inhalt [op](/i18n.site/feature#ha) [npmjs.com](//npmjs.com
 
 Installéieren `nodejs` , aloggen mat `npm login` .
 
-Ännert `md/.i18n/htm/ol.yml` a ännert `i18n.site` an `v: //unpkg.com/i18n.site` op Ären eegene `npm` Package Numm.
+Edit `md/.i18n/htm/ol.yml` an ännert de Wäert vun [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` als Ären eegene `npm` Package Numm [npmjs.com](//npmjs.com)
 
-Benotzt just den onbesetzten Package Numm op [npmjs.com](//npmjs.com)
-
-Beim Verëffentlechung baséiert op Package `npm` , gitt sécher datt Dir 2 fir de Präfix vum `v:` Wäert **`//unpkg.com/`** `i18n.site` huet speziell d'Cachezäit vun `/.v` ënner dësem Präfixwee optimiséiert fir eng fristgerecht Vue vun neie Verëffentlechungen ze erreechen.
+Dann änneren `md/.i18n/htm/ol.package.json`
 
 Run `i18n.site --npm` oder `i18n.site -n` am `md` Verzeichnis fir ze iwwersetzen an ze publizéieren.
 

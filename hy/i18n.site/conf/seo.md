@@ -20,14 +20,18 @@
 Որպես օրինակ վերցրեք `.i18n/htm/ol.yml` կազմաձևման ֆայլը ցուցադրական նախագծում
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Խնդրում ենք նախ փոփոխեք վերը նշված `host:` -ի արժեքը ձեր տիրույթի անվան համար, օրինակ՝ `i18n.site` :

@@ -1,4 +1,4 @@
-# Coinbhinsiún Formáid MarkDown
+# Coinbhinsiún Scríbhneoireachta MarkDown i18n.site
 
 ## Pointe Ancaire
 
@@ -34,3 +34,10 @@ Is féidir leat tagairt a dhéanamh don chur i bhfeidhm i [github.com/i18n-site/
 ```
 
 Tabhair faoi deara go bhfuil `<style>` sainmhínithe freisin i `<pre>` thuas.
+
+
+## Pictiúir/Físeáin/Naisc I Dteangacha Éagsúla
+
+Tar éis `MarkDown` a thiontú go `HTML` , cuirfear an [cód reatha teanga](/i18/LANG_CODE) in ionad `$LANG` i tréithe `src` agus `href` .
+
+Leis an athróg seo, is féidir leat ilteangachas pictiúr/físeán/naisc a bhaint amach.

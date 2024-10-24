@@ -1,14 +1,14 @@
 # Install (Dɔgɔtɔrɔso &
 
-## Labɛnni Taamasiyɛn
-
-`i18n.site` bɛ ni `i18` bamanankan baarakɛminɛn ye min bɛ a kɔnɔ Aw [ye nin yɔrɔ digi walasa ka sɛbɛn `i18` lajɛ walasa ka doncogo taamasiyɛn labɛn](/i18/use) .
-
 ## Ka Sigi
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Labɛnni Taamasiyɛn
+
+`i18n.site` bɛ ni `i18` bamanankan baarakɛminɛn ye min bɛ a kɔnɔ Aw [ye nin yɔrɔ digi walasa ka sɛbɛn `i18` lajɛ walasa ka doncogo taamasiyɛn labɛn](/i18/use) .
 
 ## Porozɛ Demokarasi
 
@@ -64,7 +64,7 @@ Sigida ɲɛjirali tɛ hami version nimɔrɔ la wa a bɛna filenw bɛɛ kopi kɛ 
 
 Walasa ka bɔ foroba la, dosiye caman caman cili bɛna kopi kɛ version nimɔrɔ kura kɔnɔ.
 
-#### Baara Kɛ Ni -c Ye Walasa Ka Labɛncogo Filen Jira
+#### Labɛnni Filen Jira Ni `-c` Ye
 
 Labɛnni-dosiyɛri danfaralenw bɛna ɲɛbilasɛbɛnw Dabɔ minnu bɛ Bɛn o ma `out` ɲɛbilasɛbɛn kɔnɔ.
 
@@ -92,11 +92,9 @@ Kɔnɔkow bɔli [ka](/i18n.site/feature#ha) [npmjs.com](//npmjs.com)
 
 `nodejs` sigi , don ni `npm login` .
 
-`md/.i18n/htm/ol.yml` Labɛn ka `i18n.site` Yɛlɛma `v: //unpkg.com/i18n.site` la ka Kɛ i yɛrɛ ka `npm` pake tɔgɔ ye.
+`md/.i18n/htm/ol.yml` ladilan ka [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) nafa `YOUR_NPM_PACKAGE` i n'a fɔ i yɛrɛ ka `npm` pake tɔgɔ o pake tɔgɔ min ma sigi [npmjs.com](//npmjs.com) o bɛna kɛ.
 
-Baara kɛ ni pake tɔgɔ ye min tɛ mɔgɔ [npmjs.com](//npmjs.com) la dɔrɔn .
-
-Ni i bɛ bɔli kɛ ka da pake `npm` kan, i **jija ka baara kɛ ni `//unpkg.com/` ye** ka ɲɛsin `v:` daminɛ ma `i18n.site` ye kɛrɛnkɛrɛnnenya la ka cache waati `/.v` ɲɛnabɔ nin dakun fɔlɔ sira in kɔrɔ walasa ka bɔko kura lajɛ waati bɛnnen na.
+O kɔ, aw bɛ `md/.i18n/htm/ol.package.json` sɛmɛntiya
 
 Aw bɛ `i18n.site --npm` walima `i18n.site -n` boli `md` ɲɛbilasɛbɛn kɔnɔ walasa ka bamanankan baara ani ka bɔ kɛnɛ kan.
 

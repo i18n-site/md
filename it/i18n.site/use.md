@@ -1,14 +1,14 @@
 # Installa & Distribuisci
 
-## Configurazione Token
-
-`i18n.site` integra lo strumento di traduzione `i18`, prima fare [clic qui per consultare la documentazione di configurazione del token di accesso `i18`](/i18/use).
-
 ## Installazione
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configurazione Token
+
+`i18n.site` integra lo strumento di traduzione `i18`, prima fare [clic qui per consultare la documentazione di configurazione del token di accesso `i18`](/i18/use).
 
 ## Progetto dimostrativo
 
@@ -64,7 +64,7 @@ Per l'anteprima locale, non è necessario preoccuparsi del numero di versione e 
 
 Per il rilascio ufficiale, i file modificati verranno copiati nella directory del nuovo numero di versione.
 
-#### Utilizzare -c Per Specificare Il File Di Configurazione
+#### Specificare il file di configurazione con `-c`
 
 Diversi file di configurazione creeranno directory corrispondenti nella directory `out`.
 
@@ -92,11 +92,9 @@ La pubblicazione dei contenuti su [npmjs.com](//npmjs.com) è la soluzione prede
 
 Installa `nodejs`, accedi con `npm login`.
 
-Modifica `md/.i18n/htm/ol.yml` e cambia `i18n.site` in `v: //unpkg.com/i18n.site` con il nome del tuo pacchetto `npm`.
+Modifica `md/.i18n/htm/ol.yml` e cambia il valore da [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` come nome del tuo pacchetto `npm` Qualsiasi nome di pacchetto non occupato su [npmjs.com](//npmjs.com) andrà bene.
 
-Utilizza semplicemente il nome del pacchetto non utilizzato su [npmjs.com](//npmjs.com). Utilizzare il nome del dominio del sito web come nome del pacchetto è una buona scelta.
-
-Quando si pubblica in base al pacchetto `npm`, **assicurati di utilizzare `//unpkg.com/`** come prefisso del valore `v:`. `i18n.site` ha ottimizzato appositamente il tempo di cache di `/.v` sotto questo prefisso per ottenere una visualizzazione tempestiva delle nuove versioni.
+Infine, modifica `md/.i18n/htm/ol.package.json`
 
 Esegui `i18n.site --npm` o `i18n.site -n` nella directory `md` per tradurre e pubblicare.
 

@@ -20,14 +20,18 @@ Fitxategi estatikoak lokalean sor daitezke, baina ohikoagoa den ikuspegia objekt
 Hartu adibide gisa demo proiektuko `.i18n/htm/ol.yml` konfigurazio fitxategia
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Mesedez, aldatu goiko `host:` balioa zure domeinu-izenera, adibidez, `i18n.site` .

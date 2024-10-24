@@ -20,14 +20,18 @@ A statikus fájlok helyileg is előállíthatók, de elterjedtebb az, hogy objek
 Vegyük példaként a `.i18n/htm/ol.yml` konfigurációs fájlt a demóprojektben
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Kérjük, először módosítsa a fenti `host:` értékét a domain nevére, például `i18n.site` .

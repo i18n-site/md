@@ -1,14 +1,14 @@
 # Installa &
 
-## Token Di Cunfigurazione
-
-`i18n.site` hà un strumentu di traduzzione integratu `i18` Per piacè [cliccate quì per riferite à u documentu `i18` per cunfigurà u token d'accessu](/i18/use) .
-
 ## Installa
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Di Cunfigurazione
+
+`i18n.site` hà un strumentu di traduzzione integratu `i18` Per piacè [cliccate quì per riferite à u documentu `i18` per cunfigurà u token d'accessu](/i18/use) .
 
 ## Prughjettu Demo
 
@@ -64,7 +64,7 @@ L'anteprima locale ùn importa micca u numeru di versione è copià tutti i sche
 
 Per a liberazione ufficiale, i schedarii cambiati seranu copiati in u novu repertoriu di numeri di versione.
 
-#### Aduprate -c Per Specificà U Schedariu Di Cunfigurazione
+#### Specificate U Schedariu Di Cunfigurazione Cù `-c`
 
 Diversi schedarii di cunfigurazione creanu cartulari currispondenti in u cartulare `out` .
 
@@ -92,11 +92,9 @@ A pubblicazione di cuntenutu à [npmjs.com](//npmjs.com) hè a suluzione predete
 
 Installa `nodejs` , accede cù `npm login` .
 
-Edite `md/.i18n/htm/ol.yml` è cambia `i18n.site` in `v: //unpkg.com/i18n.site` à u vostru nome di pacchettu `npm` .
+Edite `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) cambia u valore di [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` cum'è u vostru nome di pacchettu `npm` .
 
-Aduprà solu u nome di u pacchettu di u pacchettu in [npmjs.com](//npmjs.com) .
-
-Quandu publicate basatu annantu à u pacchettu `npm` , **assicuratevi di utilizà `//unpkg.com/`** per u prefissu di u valore `v:` `i18n.site` hà ottimizatu in particulare u tempu di cache di `/.v` sottu à sta strada di prefissu per ottene una visualizazione puntuale di novi versioni.
+Allora mudificà `md/.i18n/htm/ol.package.json`
 
 Eseguite `i18n.site --npm` o `i18n.site -n` in u cartulare `md` per traduce è publicà.
 

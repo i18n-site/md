@@ -1,14 +1,14 @@
 # Instalați &
 
-## Jeton De Configurare
-
-`i18n.site` are un instrument de traducere `i18` încorporat. Vă rugăm să [faceți clic aici pentru a consulta documentul `i18` pentru a configura simbolul de acces](/i18/use) .
-
 ## Instala
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Jeton De Configurare
+
+`i18n.site` are un instrument de traducere `i18` încorporat. Vă rugăm să [faceți clic aici pentru a consulta documentul `i18` pentru a configura simbolul de acces](/i18/use) .
 
 ## Proiect Demonstrativ
 
@@ -64,7 +64,7 @@ Previzualizarea locală nu-i pasă de numărul versiunii și va copia toate fiș
 
 Pentru lansarea oficială, fișierele modificate vor fi copiate în noul director cu numărul de versiune.
 
-#### Utilizați -c Pentru a Specifica Fișierul De Configurare
+#### Specificați Fișierul De Configurare Cu `-c`
 
 Diferite fișiere de configurare vor crea directoare corespunzătoare în directorul `out` .
 
@@ -92,11 +92,9 @@ Publicarea conținutului în [npmjs.com](//npmjs.com) este soluția implicită r
 
 Instalează `nodejs` , autentifică - te cu `npm login` .
 
-Editează `md/.i18n/htm/ol.yml` și schimbă `i18n.site` în `v: //unpkg.com/i18n.site` cu propriul tău nume de pachet `npm` .
+Editați `md/.i18n/htm/ol.yml` și schimbați valoarea de la [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` ca propriul nume de pachet `npm` [npmjs.com](//npmjs.com)
 
-Utilizați doar numele pachetului neocupat pe [npmjs.com](//npmjs.com)
-
-Când publicați pe baza pachetului `npm` , **asigurați-vă că utilizați `//unpkg.com/`** pentru prefixul `v:` , `i18n.site` a optimizat în mod special timpul de cache de `/.v` sub această cale de prefix pentru a obține vizualizarea în timp util a noilor versiuni.
+Apoi modificați `md/.i18n/htm/ol.package.json`
 
 Rulați `i18n.site --npm` sau `i18n.site -n` în directorul `md` pentru a traduce și a publica.
 

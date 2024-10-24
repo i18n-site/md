@@ -20,14 +20,18 @@ Faylasha taagan waxaa lagu soo saari karaa gudaha, laakiin habka caadiga ah waa 
 Qaado faylka qaabeynta `.i18n/htm/ol.yml` ee mashruuca demo tusaale ahaan
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Fadlan marka hore wax ka beddel qiimaha `host:` ee kor ku yaal magacaaga domain, sida `i18n.site` .

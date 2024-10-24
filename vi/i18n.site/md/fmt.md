@@ -1,4 +1,4 @@
-# Quy Ước Định Dạng MarkDown
+# Quy Ước Viết i18n.site MarkDown
 
 ## Điểm Neo
 
@@ -34,3 +34,10 @@ Bạn có thể tham khảo cách thực hiện trong [github.com/i18n-site/md/e
 ```
 
 Lưu ý rằng `<style>` cũng được xác định ở `<pre>` ở trên.
+
+
+## Hình Ảnh/Video/Liên Kết Bằng Nhiều Ngôn Ngữ
+
+Sau khi `MarkDown` được chuyển thành `HTML` , `$LANG` ở thuộc tính `src` và `href` sẽ được thay thế bằng [mã ngôn ngữ](/i18/LANG_CODE) hiện tại.
+
+Với biến này, bạn có thể đa ngôn ngữ hóa hình ảnh/video/liên kết.

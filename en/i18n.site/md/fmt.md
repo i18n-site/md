@@ -1,4 +1,4 @@
-# Markdown Format Convention
+# i18n.site Markdown Writing Conventions
 
 ## Anchor Point
 
@@ -34,3 +34,10 @@ You can refer to the implementation in [github.com/i18n-site/md/en/README.md](ht
 ```
 
 Note that `<style>` is also defined within `<pre>` above.
+
+
+## Images/Videos/Links in Multiple Languages
+
+After `MarkDown` is converted to `HTML` , `$LANG` in attributes `src` and `href` will be replaced with the current [language code](/i18/LANG_CODE) .
+
+Utilizing this variable, it is possible to multilingualize images/videos/links.

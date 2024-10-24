@@ -20,14 +20,18 @@ Statesch Dateie kënnen lokal generéiert ginn, awer eng méi allgemeng Approche
 Huelt d' `.i18n/htm/ol.yml` Konfiguratiounsdatei am Demo-Projet als Beispill
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ännert w.e.g. als éischt de Wäert vun `host:` uewen op Ärem Domain Numm, wéi `i18n.site` .

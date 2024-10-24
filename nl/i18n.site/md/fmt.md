@@ -1,4 +1,4 @@
-# MarkDown-formaatconventie
+# i18n.site Markdown-schrijfconventie
 
 ## Ankerpunten
 
@@ -34,3 +34,10 @@ Als voorbeeld kunt u de implementatie bekijken op [github.com/i18n-site/md/en/RE
 ```
 
 Let op dat er in het bovenstaande `<pre>` ook een `<style>` is gedefinieerd.
+
+
+## Afbeeldingen/video's/links in meerdere talen
+
+In `Markdown` omgezet naar `HTML`, worden de `$LANG`-waarden in de `src`- en `href`-attributen vervangen door de huidige [taalcode](/i18/LANG_CODE).
+
+Met behulp van deze variabele kan de meertaligheid van afbeeldingen/video's/links worden gerealiseerd.

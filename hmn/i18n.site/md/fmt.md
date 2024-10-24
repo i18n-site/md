@@ -1,4 +1,4 @@
-# MarkDown Format Convention
+# i18n.site MarkDown Sau Ntawv Sib Tham
 
 ## Thauj Tog Rau Nkoj Point
 
@@ -34,3 +34,10 @@ Koj tuaj yeem xa mus rau qhov kev siv hauv [github.com/i18n-site/md/en/README.md
 ```
 
 Nco ntsoov tias `<style>` kuj txhais hauv `<pre>` saum toj no.
+
+
+## Duab/Videos/Links Hauv Ntau Hom Lus
+
+Tom qab `MarkDown` hloov mus rau `HTML` , `$LANG` hauv cov cwj pwm `src` thiab `href` yuav raug hloov nrog [cov lus](/i18/LANG_CODE) tam sim no.
+
+Nrog rau qhov sib txawv no, koj tuaj yeem ua tiav ntau hom lus ntawm cov duab / yeeb yaj kiab / txuas.

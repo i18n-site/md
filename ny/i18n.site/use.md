@@ -1,14 +1,14 @@
 # Ikani &
 
-## Chizindikiro Chosinthira
-
-`i18n.site` ili ndi chida chomasulira cha `i18` Chonde [dinani apa kuti muwone zolemba `i18` kuti mukonze chizindikiro chofikira](/i18/use) .
-
 ## Ikani
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Chizindikiro Chosinthira
+
+`i18n.site` ili ndi chida chomasulira cha `i18` Chonde [dinani apa kuti muwone zolemba `i18` kuti mukonze chizindikiro chofikira](/i18/use) .
 
 ## Ntchito Yowonetsera
 
@@ -64,7 +64,7 @@ Kuwoneratu kwanuko sikusamala za nambala yamtunduwu ndipo kumatengera mafayilo o
 
 Kuti atulutsidwe mwalamulo, mafayilo osinthidwa adzakopera ku chikwatu cha nambala yatsopano.
 
-#### Gwiritsani Ntchito -c Kuti Mufotokozere Fayilo Yosintha
+#### Tchulani Fayilo Yosinthika Ndi `-c`
 
 Mafayilo osinthika osiyanasiyana apanga maulalo ofananira mu chikwatu cha `out` .
 
@@ -92,11 +92,9 @@ Kusindikiza zomwe zili [ku](/i18n.site/feature#ha) [npmjs.com](//npmjs.com)
 
 Ikani `nodejs` , lowani ndi `npm login` .
 
-Sinthani `md/.i18n/htm/ol.yml` ndikusintha `i18n.site` mu `v: //unpkg.com/i18n.site` kukhala dzina lanu la phukusi `npm` .
+Sinthani `md/.i18n/htm/ol.yml` ndikusintha mtengo wa [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) dzina lanu la phukusi `npm` .
 
-Ingogwiritsani ntchito dzina la phukusi losagwiritsidwa ntchito pa [npmjs.com](//npmjs.com)
-
-Mukasindikiza potengera phukusi `npm` , **onetsetsani kuti mwagwiritsa ntchito `//unpkg.com/`** pachiyambi cha `v:` mtengo `i18n.site` mwakonza mwapadera nthawi yosungiramo `/.v` pansi panjira iyi kuti mukwaniritse zotulutsa zatsopano.
+Kenako sinthani `md/.i18n/htm/ol.package.json`
 
 Thamangani `i18n.site --npm` kapena `i18n.site -n` mu chikwatu `md` kuti mumasulire ndi kufalitsa.
 

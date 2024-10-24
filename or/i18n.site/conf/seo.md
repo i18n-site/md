@@ -20,14 +20,18 @@
 ଏକ ଉଦାହରଣ ଭାବରେ ଡେମୋ ପ୍ରୋଜେକ୍ଟରେ `.i18n/htm/ol.yml` ବିନ୍ୟାସ ଫାଇଲ୍ ନିଅ |
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 ଦୟାକରି ପ୍ରଥମେ `host:` ର ମୂଲ୍ୟକୁ ଆପଣଙ୍କର ଡୋମେନ୍ ନାମରେ ପରିବର୍ତ୍ତନ କରନ୍ତୁ, ଯେପରିକି `i18n.site` |

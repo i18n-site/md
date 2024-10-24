@@ -1,14 +1,14 @@
 # Installera &
 
-## Konfigurationstoken
-
-`i18n.site` har ett inbyggt `i18` översättningsverktyg [Klicka här för att hänvisa till `i18` dokumentet för att konfigurera åtkomsttoken](/i18/use) .
-
 ## Installera
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurationstoken
+
+`i18n.site` har ett inbyggt `i18` översättningsverktyg [Klicka här för att hänvisa till `i18` dokumentet för att konfigurera åtkomsttoken](/i18/use) .
 
 ## Demoprojekt
 
@@ -64,7 +64,7 @@ Lokal förhandsgranskning bryr sig inte om versionsnumret och kommer att kopiera
 
 För officiell release kommer ändrade filer att kopieras till den nya versionsnummerkatalogen.
 
-#### Använd -c För Att Specificera Konfigurationsfilen
+#### Ange Konfigurationsfil Med `-c`
 
 Olika konfigurationsfiler skapar motsvarande kataloger i `out` katalogen.
 
@@ -92,11 +92,9 @@ Att publicera innehåll till [npmjs.com](//npmjs.com) är den rekommenderade sta
 
 Installera `nodejs` , logga in med `npm login` .
 
-Redigera `md/.i18n/htm/ol.yml` och ändra `i18n.site` i `v: //unpkg.com/i18n.site` till ditt eget `npm` paketnamn.
+Redigera `md/.i18n/htm/ol.yml` och ändra värdet på [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) ditt eget `npm` paketnamn.
 
-Använd bara det lediga paketnamnet på [npmjs.com](//npmjs.com)
-
-När du publicerar baserat på paket `npm` , **se till att använda `//unpkg.com/`** för prefixet `v:` värdet `i18n.site` har speciellt optimerat cachetiden för `/.v` under denna prefixsökväg för att få aktuell visning av nya utgåvor.
+Ändra sedan `md/.i18n/htm/ol.package.json`
 
 Kör `i18n.site --npm` eller `i18n.site -n` i `md` -katalogen för att översätta och publicera.
 

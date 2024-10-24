@@ -1,4 +1,4 @@
-# MarkDown Endrika Fivoriambe
+# i18n.site MarkDown Fifanarahana Fanoratana
 
 ## Teboka Vatofantsika
 
@@ -34,3 +34,10 @@ Azonao atao ny manondro ny fampiharana amin'ny [github.com/i18n-site/md/en/READM
 ```
 
 Mariho fa `<style>` dia voafaritra ao amin'ny `<pre>` etsy ambony.
+
+
+## Sary/Video/Rohy Amin'ny Fiteny Maro
+
+Rehefa voaova ho `HTML` `MarkDown` dia hosoloina ny [fehezan-teny](/i18/LANG_CODE) amin'izao fotoana izao `$LANG` amin'ny toetra `src` sy `href` .
+
+Amin'ny alalan'ity fari-pahalalana ity dia azonao atao ny manatratra ny sary / horonan-tsary / rohy amin'ny fiteny maro.

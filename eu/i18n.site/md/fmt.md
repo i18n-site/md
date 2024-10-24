@@ -1,4 +1,4 @@
-# MarkDown Formatuaren Konbentzioa
+# i18n.site MarkDown Idazketa-Konbentzioa
 
 ## Aingura Puntua
 
@@ -34,3 +34,10 @@ Inplementazioa erreferentzia egin dezakezu [github.com/i18n-site/md/en/README.md
 ```
 
 Kontuan izan `<style>` goiko `<pre>` -n ere definitzen dela.
+
+
+## Irudiak/Bideoak/Estekak Hainbat Hizkuntzatan
+
+`MarkDown` `HTML` bihurtu ondoren, `src` eta `href` atributuetan `$LANG` uneko [hizkuntza-kodearekin](/i18/LANG_CODE) ordezkatuko da.
+
+Aldagai honekin, irudi/bideo/esteken eleaniztasuna lor dezakezu.

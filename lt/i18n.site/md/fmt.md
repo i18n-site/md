@@ -1,4 +1,4 @@
-# „MarkDown“ Formato Konvencija
+# i18n.site MarkDown Rašymo Konvencija
 
 ## Tvirtinimo Taškas
 
@@ -34,3 +34,10 @@ Galite remtis įgyvendinimu [github.com/i18n-site/md/en/README.md](https://raw.g
 ```
 
 Atminkite, kad `<style>` taip pat yra apibrėžtas `<pre>` aukščiau.
+
+
+## Nuotraukos / Vaizdo Įrašai / Nuorodos Keliomis Kalbomis
+
+Pakeitus `MarkDown` į `HTML` , `$LANG` atributuose `src` ir `href` bus pakeisti esamu [kalbos kodu](/i18/LANG_CODE) .
+
+Naudodami šį kintamąjį galite pasiekti, kad nuotraukos / vaizdo įrašai / nuorodos būtų daugiakalbės.

@@ -20,14 +20,18 @@ Wobetumi ayɛ static fael ahorow wɔ mpɔtam hɔ, nanso ɔkwan a wɔtaa fa so ne
 Fa `.i18n/htm/ol.yml` nhyehyeɛ fael a ɛwɔ demo adwuma no mu no sɛ nhwɛsoɔ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Yɛsrɛ wo di kan sesa `host:` a ɛwɔ atifi hɔ no boɔ no ma ɛnyɛ wo domain din, te sɛ `i18n.site` .

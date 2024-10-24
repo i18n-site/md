@@ -1,4 +1,4 @@
-# MarkDown Format Convention
+# i18n.site MarkDown Writing Convention
 
 ## Anchor Point
 
@@ -34,3 +34,10 @@ Maaari kang sumangguni sa pagpapatupad sa [github.com/i18n-site/md/en/README.md]
 ```
 
 Tandaan na ang `<style>` ay tinukoy din sa `<pre>` sa itaas.
+
+
+## Mga Larawan/Video/Link Sa Maraming Wika
+
+Pagkatapos ma-convert `MarkDown` sa `HTML` , `$LANG` sa attribute `src` at `href` ay papalitan ng kasalukuyang [code ng wika](/i18/LANG_CODE) .
+
+Sa variable na ito, makakamit mo ang multilingualization ng mga larawan/video/link.

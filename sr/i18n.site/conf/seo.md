@@ -20,14 +20,18 @@
 Узмите конфигурациону датотеку `.i18n/htm/ol.yml` у демо пројекту као пример
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Прво измените вредност `host:` изнад у име вашег домена, као што је `i18n.site` .

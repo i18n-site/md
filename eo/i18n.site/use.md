@@ -1,14 +1,14 @@
 # Instalu &
 
-## Agorda Ĵetono
-
-`i18n.site` havas enkonstruitan `i18` tradukilon Bonvolu [klaki ĉi tie por raporti al la `i18` dokumento por agordi la alirĵetonon](/i18/use) .
-
 ## Instali
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Agorda Ĵetono
+
+`i18n.site` havas enkonstruitan `i18` tradukilon Bonvolu [klaki ĉi tie por raporti al la `i18` dokumento por agordi la alirĵetonon](/i18/use) .
 
 ## Demoprojekto
 
@@ -64,7 +64,7 @@ Loka antaŭvido ne zorgas pri la numero de versio kaj kopios ĉiujn dosierojn al
 
 Por oficiala liberigo, ŝanĝitaj dosieroj estos kopiitaj al la nova versio-numera dosierujo.
 
-#### Uzu -c Por Specifi La Agordan Dosieron
+#### Indiku Agordan Dosieron Kun `-c`
 
 Malsamaj agordaj dosieroj kreos respondajn dosierujojn en la dosierujo `out` .
 
@@ -92,11 +92,9 @@ Publiki enhavon al [npmjs.com](//npmjs.com) estas la rekomendita defaŭlta solvo
 
 Instalu `nodejs` , ensalutu per `npm login` .
 
-Redaktu `md/.i18n/htm/ol.yml` kaj ŝanĝu `i18n.site` en `v: //unpkg.com/i18n.site` al via propra `npm` paknomo.
+Redaktu `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) ŝanĝu la valoron de [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` kiel via propra `npm` paknomo.
 
-Nur uzu la neokupitan pakaĵnomon sur [npmjs.com](//npmjs.com)
-
-Dum publikigado surbaze de pako `npm` , **nepre uzu `//unpkg.com/`** por la prefikso de `v:` valoro `i18n.site` speciale optimumigis la kaŝmemortempon de `/.v` sub ĉi tiu prefiksa vojo por atingi ĝustatempan spektadon de novaj eldonoj.
+Poste modifi `md/.i18n/htm/ol.package.json`
 
 Rulu `i18n.site --npm` aŭ `i18n.site -n` en la `md` dosierujo por traduki kaj publikigi.
 

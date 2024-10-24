@@ -1,5 +1,21 @@
 # Stiloversikt
 
+[Klikk her for å bla gjennom originalfilen til denne siden](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) for å se den opprinnelige `MarkDown`-formateringen.
+
+## & Gjennom &
+
+Dette er __ understreking __, ~~ sletting ~~ og ** fet skrift ** i demonstrasjonstekst.
+
+Skrive måten er som følger:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site`'s `Markdown`-parser har optimalisert støtte for understreking, gjennomstreking og fet skrift, slik at det ikke er nødvendig med mellomrom rundt merkene. Dette gjør det enklere å skrive dokumenter på språk som kinesisk, japansk og koreansk, som ikke bruker mellomrom som skilletegn.
+
+Utvidet lesning: [Hvorfor fungerer ikke掘金的 Markdown-fett skrift syntaks (`**……**`) noen ganger?](//juejin.cn/post/7064565848421171213)
+
 ## Citat
 
 ### Enkeltlinjeforklaring
@@ -14,6 +30,32 @@
 > Men science fiction-romaner som Asimovs "Det endelige svaret" beskriver levende hele universets historie, inkludert menneskehetens, gjennom flere milliarder år, på bare noen få tusen ord.
 > Slik en kapasitet og mot er noe tradisjonell litteratur ikke kan oppnå.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tips `> [!TIP]`
+
+> [!TIP]
+> Husk å sjekke gyldigheten på passet og visumet; utløpte dokumenter kan ikke brukes til inn- eller utreise.
+
+Skrive på følgende måte
+
+```
+> [!TIP]
+> your content
+```
+
+### Merking `> [!NOTE]`
+
+> [!NOTE]
+> Hvis du sender meg en melding og jeg svarer øyeblikkelig, hva betyr det?
+> Dette betyr at jeg virkelig elsker å bruke mobilen.
+
+
+### Advarsel `> [!WARN]`
+
+> [!WARN]
+> Når du er på et villmarks eventyr, må du være oppmerksom på sikkerheten.
+> Forrige uke ble en gruppe klatrere tatt av en storm på halvvegs opp i fjellet fordi de ikke sjekket værmeldingen.
+> Husk at all utendørsaktivitet krever god forberedelse og oppmerksomhet til været.
 
 ## Å gjøre-liste
 

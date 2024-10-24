@@ -19,7 +19,6 @@ nav:
     use: Doc
 
   - i18n: blog
-    # use: Doc
     use: Blog
 
 addon:

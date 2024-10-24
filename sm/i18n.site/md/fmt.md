@@ -1,4 +1,4 @@
-# MarkDown Fa'asologa Fa'asologa
+# i18n.site MarkDown Tusitusiga Fono
 
 ## Taula Taula
 
@@ -34,3 +34,10 @@ E mafai ona e vaʻai i le faʻatinoga i totonu [github.com/i18n-site/md/en/READM
 ```
 
 Manatua o `<style>` o loʻo faʻamatalaina foi i `<pre>` i luga.
+
+
+## Ata/Vitio/Sootaga I Le Tele O Gagana
+
+A uma ona liua `MarkDown` i `HTML` , `$LANG` i uiga `src` ma `href` o le a suia i le [gagana](/i18/LANG_CODE) o loo iai nei.
+
+Faatasi ai ma lenei fesuiaiga, e mafai ona e ausia le tele o gagana o ata / vitio / sootaga.

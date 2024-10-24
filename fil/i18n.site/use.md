@@ -1,14 +1,14 @@
 # I-Install &
 
-## Token Ng Configuration
-
-`i18n.site` ay may built-in na `i18` translation tool Mangyaring [mag-click dito upang sumangguni sa `i18` dokumento upang i-configure ang access token](/i18/use) .
-
 ## I-Install
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Ng Configuration
+
+`i18n.site` ay may built-in na `i18` translation tool Mangyaring [mag-click dito upang sumangguni sa `i18` dokumento upang i-configure ang access token](/i18/use) .
 
 ## Demo Na Proyekto
 
@@ -64,7 +64,7 @@ Walang pakialam ang lokal na preview sa numero ng bersyon at kokopyahin ang laha
 
 Para sa opisyal na paglabas, ang mga binagong file ay makokopya sa bagong direktoryo ng numero ng bersyon.
 
-#### Gamitin Ang -c Upang Tukuyin Ang Configuration File
+#### Tukuyin Ang Configuration File Na May `-c`
 
 Ang iba't ibang mga configuration file ay lilikha ng kaukulang mga direktoryo sa `out` na direktoryo.
 
@@ -92,11 +92,9 @@ Ang pag-publish ng nilalaman sa [npmjs.com](//npmjs.com) ay ang inirerekomendang
 
 I-install `nodejs` , mag-log in gamit ang `npm login` .
 
-I-edit `md/.i18n/htm/ol.yml` at baguhin `i18n.site` sa `v: //unpkg.com/i18n.site` sa sarili mong `npm` pangalan ng package.
+I-edit ang `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) baguhin ang halaga ng [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` bilang iyong sariling `npm` pangalan ng package.
 
-Gamitin lang ang pangalan ng package na walang tao sa [npmjs.com](//npmjs.com)
-
-Kapag nagpa-publish batay sa package `npm` , **tiyaking gumamit `//unpkg.com/`** para sa prefix na `v:` value na espesyal na na-optimize ng `i18n.site` ang oras ng cache na `/.v` sa ilalim ng prefix na path na ito upang makamit ang napapanahong pagtingin sa mga bagong release.
+Pagkatapos ay baguhin ang `md/.i18n/htm/ol.package.json`
 
 Magpatakbo ng `i18n.site --npm` o `i18n.site -n` sa `md` na direktoryo upang isalin at i-publish.
 

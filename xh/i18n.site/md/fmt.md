@@ -1,4 +1,4 @@
-# Indibano Yefomathi yeMarkDown
+# i18n.site MarkDown Yokubhala Indibano
 
 ## Indawo Yeankile
 
@@ -34,3 +34,10 @@ Ungabhekisa kuphunyezo kwi [github.com/i18n-site/md/en/README.md](https://raw.gi
 ```
 
 Qaphela ukuba `<style>` ukwachazwa ku `<pre>` ngasentla.
+
+
+## Imifanekiso/Iividiyo/Amakhonkco Ngeelwimi Ezininzi
+
+Emva kokuba `MarkDown` uguqulelwe ku `HTML` , `$LANG` kwiimpawu `src` kunye no `href` ziya kutshintshwa [ngekhowudi yolwimi](/i18/LANG_CODE) yangoku .
+
+Ngolu tshintsho, unokufezekisa ukusetyenziswa kweelwimi ezininzi zemifanekiso/iividiyo/amakhonkco.

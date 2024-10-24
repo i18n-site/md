@@ -1,14 +1,14 @@
 # Ku Nghenisa &
 
-## Xikombiso Xa Vuhlanganisi
-
-`i18n.site` yi na xitirhisiwa xa vuhundzuluxi xa `i18` lexi akiweke endzeni Hi kombela [u tikhoma laha ku languta eka tsalwa ra `i18` ku lulamisa xikombiso xa mfikelelo](/i18/use) .
-
 ## Nghenisa
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Xikombiso Xa Vuhlanganisi
+
+`i18n.site` yi na xitirhisiwa xa vuhundzuluxi xa `i18` lexi akiweke endzeni Hi kombela [u tikhoma laha ku languta eka tsalwa ra `i18` ku lulamisa xikombiso xa mfikelelo](/i18/use) .
 
 ## Phurojeke Ya Demo
 
@@ -64,7 +64,7 @@ Local preview a yi na mhaka na nomboro ya version naswona yi ta kopa tifayela hi
 
 Ku humesiwa ximfumo, tifayela leti cinciweke ti ta kopiwa eka xikombo xa tinomboro ta vuhundzuluxeri lebyintshwa.
 
-#### Tirhisa -c Ku Kombisa Fayili Ya Vuhlanganisi
+#### Boxa Fayili Ya Vuhlanganisi Hi `-c`
 
 Tifayili to hambana ta vuhlanganisi ti ta tumbuluxa tidayirekitara leti fambelanaka eka `out` directory.
 
@@ -92,11 +92,9 @@ Ku kandziyisa swilo eka [npmjs.com](//npmjs.com) i xitshunxo xa xiviri lexi ring
 
 Nghenisa `nodejs` , nghena hi `npm login` .
 
-Hlela `md/.i18n/htm/ol.yml` u cinca `i18n.site` eka `v: //unpkg.com/i18n.site` eka vito ra wena `npm` ra phasela.
+Hlela `md/.i18n/htm/ol.yml` ivi u cinca nkoka wa [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` tanihi vito ra wena ra phasela `npm` leri nga riki na munhu eka [npmjs.com](//npmjs.com)
 
-Tirhisa ntsena vito ra phasela leri nga tshamiki eka [npmjs.com](//npmjs.com)
-
-Loko u kandziyisa hi ku ya hi phasela `npm` , **tiyisisa leswaku u tirhisa `//unpkg.com/`** eka xirhangi xa `v:` value `i18n.site` yi antswisile hi ku hlawuleka nkarhi wa cache wa `/.v` ehansi ka ndlela leyi ya xirhangi ku fikelela ku langutiwa hi nkarhi ka ku humesiwa lokuntshwa.
+Kutani cinca `md/.i18n/htm/ol.package.json`
 
 Tirhisa `i18n.site --npm` kumbe `i18n.site -n` eka `md` directory ku hundzuluxela na ku kandziyisa.
 

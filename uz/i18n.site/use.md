@@ -1,14 +1,14 @@
 # O'rnatish &
 
-## Konfiguratsiya Belgisi
-
-`i18n.site` da o'rnatilgan `i18` tarjima vositasi mavjud. [Kirish tokenini sozlash uchun `i18` hujjatga murojaat qiling](/i18/use) .
-
 ## O'rnatish
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfiguratsiya Belgisi
+
+`i18n.site` da o'rnatilgan `i18` tarjima vositasi mavjud. [Kirish tokenini sozlash uchun `i18` hujjatga murojaat qiling](/i18/use) .
 
 ## Demo Loyihasi
 
@@ -64,7 +64,7 @@ Mahalliy oldindan ko'rish versiya raqamiga ahamiyat bermaydi va barcha fayllarni
 
 Rasmiy chiqarish uchun o'zgartirilgan fayllar yangi versiya raqamlari katalogiga ko'chiriladi.
 
-#### Konfiguratsiya Faylini Belgilash Uchun -c Dan Foydalaning
+#### Konfiguratsiya Faylini `-c` Bilan Belgilang
 
 Turli xil konfiguratsiya fayllari `out` katalogida mos keladigan kataloglarni yaratadi.
 
@@ -92,11 +92,9 @@ Kontentni nashr [npmjs.com](//npmjs.com) tavsiya etilgan standart yechimdir (qar
 
 `nodejs` o'rnating, `npm login` bilan tizimga kiring.
 
-`md/.i18n/htm/ol.yml` tahrirlang va `i18n.site` `v: //unpkg.com/i18n.site` o'zingizning `npm` paket nomiga o'zgartiring.
+`md/.i18n/htm/ol.yml` tahrirlang va [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` bo'lgan qiymatni o'zingizning `npm` paket nomi [npmjs.com](//npmjs.com) o'zgartiring.
 
-ga ega bo'lmagan paket nomidan foydalaning [npmjs.com](//npmjs.com) Paket nomi sifatida veb-sayt domenidan foydalanish yaxshi tanlovdir.
-
-`npm` to'plami asosida nashr qilishda, yangi nashrlarni o'z vaqtida ko'rish uchun ushbu prefiks yo'li ostidagi `/.v` kesh vaqtini maxsus optimallashtirgan `v:` qiymati uchun `i18n.site` **`//unpkg.com/` foydalaning** .
+Keyin `md/.i18n/htm/ol.package.json` o'zgartiring
 
 Tarjima va nashr qilish uchun `md` katalogida `i18n.site --npm` yoki `i18n.site -n` ishga tushiring.
 

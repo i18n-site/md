@@ -20,14 +20,18 @@
 একটি উদাহরণ হিসাবে ডেমো প্রকল্পে `.i18n/htm/ol.yml` কনফিগারেশন ফাইল নিন
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 অনুগ্রহ করে প্রথমে আপনার ডোমেন নামের উপরে `host:` এর মান পরিবর্তন করুন, যেমন `i18n.site` ।

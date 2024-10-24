@@ -1,4 +1,4 @@
-# Kopano Ya Sebopego Sa MarkDown
+# i18n.site MarkDown Kopano Ya Go Ngwala
 
 ## Ntlha Ya Ankora
 
@@ -34,3 +34,10 @@ O ka šupa phethagatšo ka [github.com/i18n-site/md/en/README.md](https://raw.gi
 ```
 
 Hlokomela gore `<style>` e hlalošitšwe gape go `<pre>` ka godimo.
+
+
+## Diswantšho/Dibidio/Dikgokagano Ka Maleme a Mantši
+
+Ka morago ga ge `MarkDown` e fetotšwe go `HTML` , `$LANG` ka go dika tša `src` le `href` e tla tšeelwa legato ke [khoutu ya polelo](/i18/LANG_CODE) ya bjale .
+
+Ka phetogo ye, o ka fihlelela go dira gore diswantšho/dibidio/dikgokagano tša maleme a mantši.

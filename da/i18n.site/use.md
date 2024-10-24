@@ -1,14 +1,14 @@
 # Installer &
 
-## Konfigurationstoken
-
-`i18n.site` har et indbygget `i18` oversættelsesværktøj [Klik her for at henvise til `i18` dokumentet for at konfigurere adgangstokenet](/i18/use) .
-
 ## Installere
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurationstoken
+
+`i18n.site` har et indbygget `i18` oversættelsesværktøj [Klik her for at henvise til `i18` dokumentet for at konfigurere adgangstokenet](/i18/use) .
 
 ## Demo Projekt
 
@@ -64,7 +64,7 @@ Lokal preview er ligeglad med versionsnummeret og kopierer alle filer til `out/d
 
 For officiel udgivelse vil ændrede filer blive kopieret til det nye versionsnummerbibliotek.
 
-#### Brug -c Til at Angive Konfigurationsfilen
+#### Angiv Konfigurationsfil Med `-c`
 
 Forskellige konfigurationsfiler vil oprette tilsvarende mapper i `out` mappen.
 
@@ -92,11 +92,9 @@ Udgivelse af indhold til [npmjs.com](//npmjs.com) er den anbefalede standardløs
 
 Installer `nodejs` , log ind med `npm login` .
 
-Rediger `md/.i18n/htm/ol.yml` og skift `i18n.site` i `v: //unpkg.com/i18n.site` til dit eget `npm` pakkenavn.
+Rediger `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) skift værdien af [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` som dit eget `npm` pakkenavn.
 
-Brug blot det ledige pakkenavn på [npmjs.com](//npmjs.com)
-
-Når du udgiver baseret på pakke `npm` , skal du **sørge for at bruge `//unpkg.com/`** for præfikset `v:` værdi `i18n.site` har specielt optimeret cachetiden på `/.v` under denne præfikssti for at opnå rettidig visning af nye udgivelser.
+Rediger derefter `md/.i18n/htm/ol.package.json`
 
 Kør `i18n.site --npm` eller `i18n.site -n` i `md` -biblioteket for at oversætte og udgive.
 

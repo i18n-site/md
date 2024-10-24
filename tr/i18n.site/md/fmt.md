@@ -1,4 +1,4 @@
-# MarkDown Format Kuralı
+# i18n.site MarkDown Yazma Kuralı
 
 ## Bağlantı Noktası
 
@@ -34,3 +34,10 @@ Bu iki noktayı birleştirerek çeşitli görüntü efektleri elde etmek için `
 ```
 
 `<style>` yukarıda `<pre>` da tanımlandığını unutmayın.
+
+
+## Birden Çok Dilde Resimler/Videolar/Bağlantılar
+
+`MarkDown` , `HTML` dönüştürüldükten sonra, `src` ve `href` numaralı niteliklerdeki `$LANG` geçerli [dil koduyla](/i18/LANG_CODE) değiştirilecektir.
+
+Bu değişkenle resimlerin/videoların/bağlantıların çok dilli olmasını sağlayabilirsiniz.

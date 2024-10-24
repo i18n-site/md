@@ -1,5 +1,21 @@
 # Tarree Akkaataa
 
+Akkaataa `MarkDown` akkaataa armaan gadiitiin barreessinu ilaaluuf [faayilii madda fuula kanaa daawwachuuf as tuqi](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) .
+
+## Jala & &
+
+Kunis Jalqabeessi __ , __~~ strikethrough jedhamuun beekama~~ fi barreeffama dhiheessi **jajjaboo** .
+
+Akka armaan gadiitti barreeffameera:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Meeshaan ijaarsa marsariitii `i18n.site` kan `MarkDown` parser sarara jalaa, strikethrough, fi bold syntax fooyyessee jira Mallattoo duraa fi booda iddoo malee hojiirra ooluu danda'a, kunis sanadoota afaanota akka Chaayinaa, Jaappaan, fi Kooriyaatiin barreessuu salphisa kanneen iddoowwan akka addaan baastootaatti hin fayyadamne.
+
+Dubbisa dheeraa : [Maaliif Nuggets’ Markdown syntax ( `**……**` ) yeroo tokko tokko hojiirra hin oolu?](//juejin.cn/post/7064565848421171213)
+
 ## Jechama
 
 ### Caqasa Sarara Tokkoo
@@ -14,6 +30,32 @@
 > Akkasumas asoosamni asoosama saayinsii kan akka Asimov "The Final Answer" seenaa waggoota biliyoonaan lakkaa'aman guutummaa uumama cufaa, dhala namaa dabalatee, jechoota kuma muraasa qofaan ifatti ibsu.
 > Hammatamummaa fi ija jabina akkasii ogbarruu aadaa keessatti galmaan gahuun hin danda’amu.
 <p style="text-align:right">── Liyuu Siiksin</p>
+
+### Gorsa `> [!TIP]`
+
+> [!TIP]
+> Paaspoortii fi viizaa keessan seera qabeessummaa isaa ilaaluu hin dagatinaa.
+
+Akka armaan gadiitti barreeffameera
+
+```
+> [!TIP]
+> your content
+```
+
+### Yaada `> [!NOTE]`
+
+> [!NOTE]
+> Yoo ergaa naaf ergitee battalumatti deebii naaf kenne maal jechuudha?
+> Kunis moobaayilaan taphachuu baay'ee akkan jaalladhu agarsiisa.
+
+
+### Akeekkachiisa `> [!WARN]`
+
+> [!WARN]
+> Yeroo adeemsa bosonaatti deemnu, nagaa ta’uun barbaachisaadha.
+> Torban darbe gareen namoota gaara ol ba'an tokko walakkaa gaara kanaa ol ba'uuf obomboleettii mudatee tilmaama haala qilleensaa ilaaluu waan dadhabaniif baqachuu qabu turan.
+> Sochiin alaa kamiyyuu qophii gahaa fi xiyyeeffannoo haala qilleensaa akka barbaadu yaadadhu.
 
 ## Tarree Hojiiwwan Hojjetamuu Qaban
 

@@ -20,14 +20,18 @@ Amafayela amile angenziwa endaweni, kodwa indlela evamile kakhulu ukuwalayisha e
 Thatha ifayela lokumisa elingu `.i18n/htm/ol.yml` kuphrojekthi yedemo njengesibonelo
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Sicela uqale ulungise inani elingu `host:` ngenhla egameni lakho lesizinda, njengokuthi `i18n.site` .

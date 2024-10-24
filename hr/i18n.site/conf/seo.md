@@ -20,14 +20,18 @@ Statičke datoteke mogu se generirati lokalno, ali uobičajeniji pristup je njih
 Uzmimo konfiguracijsku datoteku `.i18n/htm/ol.yml` u demo projektu kao primjer
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Prvo promijenite gornju vrijednost `host:` za naziv svoje domene, kao što je `i18n.site` .

@@ -1,5 +1,21 @@
 # Liosta Stíleanna
 
+[Cliceáil anseo chun comhad foinse an leathanaigh seo a bhrabhsáil](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) chun a fheiceáil conas `MarkDown` a scríobh sna stíleanna seo a leanas.
+
+## & Stailc Trína &
+
+__ é __~~ stailc tríd~~ agus téacs cur i láthair **trom** .
+
+Tá sé scríofa mar seo a leanas:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Tá barrfheabhsú déanta ag parsálaí `MarkDown` den uirlis tógála láithreán gréasáin `i18n.site` ar an bhfolíne, ar an stailc tríd, agus ar an gcomhréir throm. nach n-úsáideann spásanna mar dheighilteoirí.
+
+[Markdown `**……**`](//juejin.cn/post/7064565848421171213) :
+
 ## Athfhriotail
 
 ### Ceanglófar Líne Singil
@@ -14,6 +30,32 @@
 > Agus déanann úrscéalta ficsin eolaíochta cosúil le "The Final Answer" Asimov cur síos beoga ar na billiúin bliain de stair na cruinne ar fad, an cine daonna san áireamh, i gcúpla míle focal.
 > Ní féidir a leithéid de chuimsitheacht agus dána a bhaint amach sa litríocht thraidisiúnta.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Leid `> [!TIP]`
+
+> [!TIP]
+> Ná déan dearmad bailíocht do phas agus víosa a sheiceáil.
+
+Tá sé scríofa mar seo a leanas
+
+```
+> [!TIP]
+> your content
+```
+
+### Nóta `> [!NOTE]`
+
+> [!NOTE]
+> Má sheolann tú teachtaireacht chugam agus freagraim láithreach, cad is brí leis sin?
+> Léiríonn sé seo gur breá liom a bheith ag súgradh le fón póca.
+
+
+### Rabhadh `> [!WARN]`
+
+> [!WARN]
+> Agus tú ag dul ar eachtra fhiáin, tá sé tábhachtach fanacht sábháilte.
+> An tseachtain seo caite, tháinig grúpa dreapadóirí ar stoirm leath bealaigh suas an sliabh agus bhí orthu aslonnú toisc nár éirigh leo réamhaisnéis na haimsire a sheiceáil.
+> Cuimhnigh, éilíonn aon ghníomhaíocht lasmuigh ullmhúchán leordhóthanach agus aird ar an aimsir.
 
 ## Liosta Le Déanamh
 

@@ -1,4 +1,4 @@
-# Convenzione di formattazione Markdown
+# Convenzione di scrittura per Markdown su i18n.site
 
 ## Punto di ancoraggio
 
@@ -34,3 +34,10 @@ Puoi fare riferimento all'implementazione in [github.com/i18n-site/md/en/README.
 ```
 
 Nota che nel `<pre>` sopra è definito anche `<style>`.
+
+
+## Immagini/Video/Collegamenti multilingue
+
+Dopo la conversione di `Markdown` in `HTML`, il simbolo `$LANG` presente negli attributi `src` e `href` sarà sostituito con il [codice della lingua](/i18/LANG_CODE) attualmente in uso.
+
+Grazie a questa variabile, è possibile realizzare la multi lingualità per immagini/video/collegamenti.

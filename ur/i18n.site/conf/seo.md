@@ -20,14 +20,18 @@
 مثال کے طور پر ڈیمو پروجیکٹ میں `.i18n/htm/ol.yml` کنفیگریشن فائل لیں۔
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 براہ کرم پہلے اوپر والے `host:` کی قدر کو اپنے ڈومین نام میں تبدیل کریں، جیسے `i18n.site` ۔

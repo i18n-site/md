@@ -1,14 +1,14 @@
 # 安装 & 部署
 
-## 配置令牌
-
-`i18n.site`内嵌了`i18`翻译工具，请先[点此参考`i18`的文档配置访问令牌](/i18/use)。
-
 ## 安装
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## 配置令牌
+
+`i18n.site`内嵌了`i18`翻译工具，请先[点此参考`i18`的文档配置访问令牌](/i18/use)。
 
 ## 演示项目
 
@@ -64,7 +64,7 @@ git clone https://atomgit.com/i18n/demo.i18n.site.docker.git docker
 
 正式发布，会复制有改动的文件到新的版本号目录下。
 
-#### 用 -c 指定配置文件
+#### 用 `-c` 指定配置文件
 
 不同的配置文件，会创建对应的目录到`out`目录下。
 
@@ -92,11 +92,9 @@ i18n.site --htm_conf yourConfig --save
 
 安装`nodejs`，使用`npm login`登录。
 
-编辑`md/.i18n/htm/ol.yml`，修改`v: //unpkg.com/i18n.site`中的`i18n.site`为你自己的`npm`包名。
+编辑`md/.i18n/htm/ol.yml`，修改[`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7)的值`YOUR_NPM_PACKAGE`为你自己的`npm`包名，任何 [npmjs.com](//npmjs.com) 上未被占用的包名都可以。
 
-使用 [npmjs.com](//npmjs.com) 上未被占用的包名即可，用网站域名作为包名是个不错的选择。
-
-基于`npm`包来发布时，`v:`值的前缀请**务必使用`//unpkg.com/`**，`i18n.site`对此前缀路径下的`/.v`的缓存时间做了特别的优化，以实现及时看到新的发布。
+然后修改`md/.i18n/htm/ol.package.json`
 
 在`md`目录下运行`i18n.site --npm`或`i18n.site -n`即可翻译并发布。
 

@@ -1,14 +1,14 @@
 # ምትካል &
 
-## ናይ ውቅር ምልክት
-
-`i18n.site` ኣብ ውሽጡ ዝተሃንጸ `i18` ናይ ትርጉም መሳርሒ ኣለዎ በጃኹም [ኣብዚ ጠውቑ ነቲ `i18` ሰነድ ብምውካስ ነቲ ናይ መእተዊ ምልክት ንምውቃር](/i18/use) ።
-
 ## ምግጣም
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## ናይ ውቅር ምልክት
+
+`i18n.site` ኣብ ውሽጡ ዝተሃንጸ `i18` ናይ ትርጉም መሳርሒ ኣለዎ በጃኹም [ኣብዚ ጠውቑ ነቲ `i18` ሰነድ ብምውካስ ነቲ ናይ መእተዊ ምልክት ንምውቃር](/i18/use) ።
 
 ## ዲሞ ፕሮጀክት
 
@@ -64,7 +64,7 @@ git clone https://atomgit.com/i18n/demo.i18n.site.docker.git docker
 
 ንወግዓዊ ምዝርጋሕ፡ ዝተቐየሩ ፋይላት ናብቲ ሓድሽ ቁጽሪ ስሪት ማህደር ክቕደሑ እዮም።
 
-#### ነቲ ናይ ውቅር ፋይል ንምግላጽ -c ተጠቐም
+#### ናይ ውቅር ፋይል ብ `-c` ግለጽ
 
 ዝተፈላለዩ ናይ ውቅር ፋይላት ኣብቲ `out` ማህደር ተዛመድቲ ማህደር ክፈጥሩ እዮም።
 
@@ -92,11 +92,9 @@ i18n.site --htm_conf yourConfig --save
 
 `nodejs` ጽዓን ፣ ብ `npm login` ንእቶ ።
 
-`md/.i18n/htm/ol.yml` ኣርትዖት `i18n.site` ኣብ `v: //unpkg.com/i18n.site` ናብ ናይ ገዛእ ርእስኻ `npm` ፓኬጅ ስም ቀይሮ።
+`md/.i18n/htm/ol.yml` ኣርትዕ እሞ ዋጋ [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` ቀይሮ ከም ናይ ገዛእ ርእስኻ `npm` ፓኬጅ ስም ኣብ [npmjs.com](//npmjs.com)
 
-በቃ ነቲ ዘይተታሕዘ ፓኬጅ ስም ኣብ [npmjs.com](//npmjs.com)
-
-ኣብ ፓኬጅ `npm` ተመርኲስካ ክትዝርግሕ ከለኻ፡ ንቅድመ-ጥብቆ `v:` ዋጋ **`//unpkg.com/` ምጥቃምካ ኣረጋግጽ** `i18n.site` ኣብ ትሕቲ እዚ ቅድመ-ጥብቆ መንገዲ `/.v` ናይ መኽዘን ግዜ ብፍሉይ ኣመሓይሹዎ ኣሎ፡ ንሓደስቲ ምውጻእ ኣብ እዋኑ ምርኣይ።
+ድሕሪኡ `md/.i18n/htm/ol.package.json` ኣዐርዩ።
 
 ንምትርጓምን ንምሕታምን ኣብቲ `md` ማህደር `i18n.site --npm` ወይ `i18n.site -n` ኣካይድ።
 

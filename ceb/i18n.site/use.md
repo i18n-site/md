@@ -1,14 +1,14 @@
 # I-Install &
 
-## Token Sa Pag-Configure
-
-`i18n.site` adunay built-in nga `i18` nga himan sa paghubad Palihog [i-klik dinhi aron i-refer ang `i18` nga dokumento aron ma-configure ang access token](/i18/use) .
-
 ## Pag-Instalar
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Sa Pag-Configure
+
+`i18n.site` adunay built-in nga `i18` nga himan sa paghubad Palihog [i-klik dinhi aron i-refer ang `i18` nga dokumento aron ma-configure ang access token](/i18/use) .
 
 ## Demo Nga Proyekto
 
@@ -64,7 +64,7 @@ Ang lokal nga preview wala magtagad sa numero sa bersyon ug kopyahon ang tanan n
 
 Para sa opisyal nga pagpagawas, ang nausab nga mga file makopya ngadto sa bag-ong bersyon nga direktoryo sa numero.
 
-#### Gamita Ang -c Aron Itakda Ang Configuration File
+#### Tinoa Ang Configuration File Nga Adunay `-c`
 
 Ang lainlaing mga file sa pag-configure maghimo katugbang nga mga direktoryo sa `out` nga direktoryo.
 
@@ -92,11 +92,9 @@ Ang pagpatik sa sulod sa [npmjs.com](//npmjs.com) mao ang girekomenda nga defaul
 
 I-install `nodejs` , log in gamit ang `npm login` .
 
-I-edit `md/.i18n/htm/ol.yml` ug usba `i18n.site` sa `v: //unpkg.com/i18n.site` sa imong kaugalingon nga `npm` nga ngalan sa pakete.
+I-edit `md/.i18n/htm/ol.yml` ug usba ang bili sa [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` isip imong kaugalingon nga `npm` nga ngalan sa pakete ang [npmjs.com](//npmjs.com) .
 
-Gamita lang ang ngalan sa package nga walay tawo sa [npmjs.com](//npmjs.com)
-
-Kung ang pagmantala base sa package `npm` , **siguroha ang paggamit `//unpkg.com/`** para sa prefix nga `v:` nga kantidad ang `i18n.site` espesyal nga na-optimize ang oras sa cache nga `/.v` sa ilawom sa prefix nga agianan aron makab-ot ang tukma sa panahon nga pagtan-aw sa mga bag-ong gipagawas.
+Unya usba ang `md/.i18n/htm/ol.package.json`
 
 Pagdalag `i18n.site --npm` o `i18n.site -n` sa `md` nga direktoryo aron mahubad ug mamantala.
 

@@ -20,14 +20,18 @@
 นำไฟล์การกำหนดค่า `.i18n/htm/ol.yml` ในโครงการสาธิตเป็นตัวอย่าง
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 ก่อนอื่น โปรดแก้ไขค่า `host:` ด้านบนเป็นชื่อโดเมนของคุณ เช่น `i18n.site`

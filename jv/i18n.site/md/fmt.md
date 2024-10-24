@@ -1,4 +1,4 @@
-# Konvensi Format MarkDown
+# i18n.site MarkDown Nulis Konvènsi
 
 ## Titik Jangkar
 
@@ -34,3 +34,10 @@ Sampeyan bisa ngrujuk implementasine ing [github.com/i18n-site/md/en/README.md](
 ```
 
 Elinga yen `<style>` uga ditetepake ing `<pre>` ndhuwur.
+
+
+## Gambar/Video/Pranala Ing Pirang-Pirang Basa
+
+Sawise `MarkDown` diowahi dadi `HTML` , `$LANG` ing atribut `src` lan `href` bakal diganti karo [kode basa](/i18/LANG_CODE) saiki.
+
+Kanthi variabel iki, sampeyan bisa entuk multibahasa gambar / video / tautan.

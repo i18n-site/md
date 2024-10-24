@@ -1,14 +1,14 @@
 # Install &
 
-## Configuration Token
-
-`i18n.site` dia manana fitaovana fandikan-teny `i18` naorina, azafady [kitiho eto raha hijery ny antontan-taratasy `i18` hanamboarana ny token'ny fidirana](/i18/use) .
-
 ## Hametraka
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuration Token
+
+`i18n.site` dia manana fitaovana fandikan-teny `i18` naorina, azafady [kitiho eto raha hijery ny antontan-taratasy `i18` hanamboarana ny token'ny fidirana](/i18/use) .
 
 ## Tetikasa Demo
 
@@ -64,7 +64,7 @@ Ny fijerena eo an-toerana dia tsy miraharaha ny laharan'ny dikan-teny ary handik
 
 Ho an'ny famoahana ofisialy, ny rakitra niova dia hadika amin'ny lahatahiry nomerao vaovao.
 
-#### Ampiasao Ny -c Mba Hamaritana Ny Rakitra Fikirakirana
+#### Ampidiro Ny Rakitra Config Miaraka Amin'ny `-c`
 
 Hamorona lahatahiry mifanaraka amin'izany ao amin'ny lahatahiry `out` ny fisie fanamafisana samihafa.
 
@@ -92,11 +92,9 @@ Ny [famoahana](/i18n.site/feature#ha) votoaty ho an'ny [npmjs.com](//npmjs.com)
 
 Mametraka `nodejs` , midira miaraka amin'ny `npm login` .
 
-Amboary `md/.i18n/htm/ol.yml` ary ovay `i18n.site` amin'ny `v: //unpkg.com/i18n.site` amin'ny anaranao fonosana `npm` .
+Amboary `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) ovay ny sandan'ny [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` ho anaran'ny fonosana `npm` anao.
 
-Ampiasao fotsiny ny anaran'ny fonosana tsy misy olona ao amin'ny [npmjs.com](//npmjs.com)
-
-Rehefa mamoaka mifototra amin'ny fonosana `npm` , **aza hadino ny mampiasa `//unpkg.com/`** ho an'ny tovana amin'ny sanda `v:` `i18n.site` dia nanatsara manokana ny fotoana cache an'ny `/.v` eo ambanin'ity lalana tovana ity mba hahazoana fijerena ara-potoana ny famoahana vaovao.
+Avy eo ovao `md/.i18n/htm/ol.package.json`
 
 Manaova `i18n.site --npm` na `i18n.site -n` ao amin'ny lahatahiry `md` handikana sy hamoahana.
 

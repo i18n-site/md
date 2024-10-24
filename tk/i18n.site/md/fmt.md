@@ -1,4 +1,4 @@
-# MarkDown Format Konwensiýasy
+# i18n.site MarkDown Ýazuw Konwensiýasy
 
 ## Labyr Nokady
 
@@ -34,3 +34,10 @@ Implementationerine ýetirilmegine salgylanyp bilersiňiz [github.com/i18n-site/
 ```
 
 `<style>` ýokardaky `<pre>` -da kesgitlenendigine üns beriň.
+
+
+## Birnäçe Dilde Suratlar / Wideolar / Baglanyşyklar
+
+`MarkDown` `HTML` e öwrülenden soň, `src` we `href` `$LANG` atributlar häzirki [dil kody](/i18/LANG_CODE) bilen çalşyrylar.
+
+Bu üýtgeýji bilen suratlaryň / wideolaryň / baglanyşyklaryň köp dilli bolmagy mümkin.

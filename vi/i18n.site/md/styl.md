@@ -1,5 +1,21 @@
 # Danh Sách Phong Cách
 
+[Bấm vào đây để duyệt tệp nguồn của trang này](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) và xem cách viết số `MarkDown` theo các kiểu sau.
+
+## Gạch & &
+
+Đây là dấu gạch __ __ ,~~ gạch ngang~~ và **in đậm** văn bản trình bày.
+
+Nó được viết như sau:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Trình phân tích cú pháp `MarkDown` của công cụ xây dựng trang web `i18n.site` đã tối ưu hóa cú pháp gạch chân, gạch ngang và in đậm, có thể phát huy tác dụng mà không cần khoảng trắng trước và sau dấu, giúp việc viết tài liệu bằng các ngôn ngữ như Trung Quốc, Nhật Bản, Hàn Quốc trở nên dễ dàng hơn. không sử dụng dấu cách làm dấu phân cách.
+
+Đọc mở rộng : [Tại sao cú pháp Markdown của Nuggets ( `**……**` ) đôi khi không có hiệu lực?](//juejin.cn/post/7064565848421171213)
+
 ## Trích Dẫn
 
 ### Trích Dẫn Một Dòng
@@ -14,6 +30,32 @@
 > Và những cuốn tiểu thuyết khoa học viễn tưởng như “Câu trả lời cuối cùng” của Asimov mô tả một cách sinh động lịch sử hàng tỷ năm của toàn vũ trụ, bao gồm cả loài người, chỉ trong vài nghìn từ.
 > Tính bao dung và táo bạo như vậy là điều không thể đạt được trong văn học truyền thống.
 <p style="text-align:right">── Lưu Từ Tâm</p>
+
+### `> [!TIP]`
+
+> [!TIP]
+> Hãy nhớ kiểm tra tính hợp lệ của hộ chiếu và thị thực của bạn. Các tài liệu hết hạn không thể nhập cảnh hoặc xuất cảnh.
+
+Nó được viết như sau
+
+```
+> [!TIP]
+> your content
+```
+
+### Nhận Xét `> [!NOTE]`
+
+> [!NOTE]
+> Nếu bạn gửi tin nhắn cho tôi và tôi trả lời ngay lập tức, điều đó có nghĩa là gì?
+> Điều này chứng tỏ tôi rất thích chơi điện thoại di động.
+
+
+### Cảnh Báo `> [!WARN]`
+
+> [!WARN]
+> Khi tham gia một cuộc phiêu lưu hoang dã, điều quan trọng là phải giữ an toàn.
+> Tuần trước, một nhóm người leo núi gặp bão ở lưng chừng núi và phải sơ tán vì không xem dự báo thời tiết.
+> Hãy nhớ rằng, bất kỳ hoạt động ngoài trời nào cũng cần có sự chuẩn bị đầy đủ và chú ý đến thời tiết.
 
 ## Danh Sách Việc Cần Làm
 

@@ -1,4 +1,4 @@
-# MarkDown Opmaak Konvinsje
+# i18n.site MarkDown Skriuwen Konvinsje
 
 ## Ankerpunt
 
@@ -34,3 +34,10 @@ Jo kinne ferwize nei de ymplemintaasje yn [github.com/i18n-site/md/en/README.md]
 ```
 
 Tink derom dat `<style>` ek definiearre is yn `<pre>` hjirboppe.
+
+
+## Ofbyldings / Fideo's / Keppelings Yn Meardere Talen
+
+Neidat `MarkDown` is omboud ta `HTML` , wurdt `$LANG` yn attributen `src` en `href` ferfongen troch de hjoeddeiske [taalkoade](/i18/LANG_CODE) .
+
+Mei dizze fariabele kinne jo meartaligens fan foto's/fideo's/keppelings berikke.

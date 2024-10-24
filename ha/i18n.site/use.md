@@ -1,14 +1,14 @@
 # Shigar &
 
-## Alamar Daidaitawa
-
-`i18n.site` yana da kayan aikin fassarar da aka gina a ciki `i18` Da fatan [za a latsa nan don komawa ga takaddar `i18` don saita alamar shiga](/i18/use) .
-
 ## Shigar
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Alamar Daidaitawa
+
+`i18n.site` yana da kayan aikin fassarar da aka gina a ciki `i18` Da fatan [za a latsa nan don komawa ga takaddar `i18` don saita alamar shiga](/i18/use) .
 
 ## Demo Aikin
 
@@ -64,7 +64,7 @@ Samfotin gida bai damu da lambar sigar ba kuma zai kwafi duk fayiloli zuwa kundi
 
 Don sakin hukuma, za a kwafi fayilolin da aka canza zuwa sabon kundin kundin tsarin lamba.
 
-#### Yi Amfani Da -c Don Tantance Fayil Ɗin Sanyi
+#### Ƙayyade Fayil Ɗin Sanyi Tare Da `-c`
 
 Fayilolin daidaitawa daban-daban za su ƙirƙiri kundayen adireshi masu dacewa a cikin kundin adireshin `out` .
 
@@ -92,11 +92,9 @@ Buga abun ciki zuwa [npmjs.com](//npmjs.com) shine shawarar da aka ba da shawara
 
 Shigar `nodejs` , shiga tare da `npm login` .
 
-Shirya `md/.i18n/htm/ol.yml` kuma canza `i18n.site` a cikin `v: //unpkg.com/i18n.site` zuwa sunan fakitin ku `npm` .
+Shirya `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) canza ƙimar [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` azaman sunan fakitin ku na `npm` .
 
-Kawai yi amfani da sunan fakitin da ba a ciki akan [npmjs.com](//npmjs.com)
-
-Lokacin bugawa dangane da fakitin `npm` , **tabbatar da amfani da `//unpkg.com/`** don prefix na ƙimar `v:` na musamman `i18n.site` ya inganta lokacin cache na `/.v` a ƙarƙashin wannan hanyar prefix don cimma nasarar ganin sabbin abubuwan da aka saki.
+Sannan canza `md/.i18n/htm/ol.package.json`
 
 Gudu `i18n.site --npm` ko `i18n.site -n` a cikin kundin adireshin `md` don fassara da bugawa.
 

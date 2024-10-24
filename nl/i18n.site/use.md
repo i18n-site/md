@@ -1,14 +1,14 @@
 # Installeer & Deploy
 
-## Configuratie van het token
-
-`i18n.site` bevat een ingebouwde `i18` vertaalmiddel. [Klik hier om het `i18` document te raadplegen voor de configuratie van het toegangstoken](/i18/use) .
-
 ## Installatie
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuratie van het token
+
+`i18n.site` bevat een ingebouwde `i18` vertaalmiddel. [Klik hier om het `i18` document te raadplegen voor de configuratie van het toegangstoken](/i18/use) .
 
 ## Demonstratieproject
 
@@ -64,7 +64,7 @@ Voor lokale preview hoef je je geen zorgen te maken over het versienummer; alle 
 
 Tijdens een officiële release worden gewijzigde bestanden gekopieerd naar een nieuwe versienummerdirectory.
 
-#### Gebruik -c Om Het Configuratiebestand Op Te Geven
+#### Gebruik `-c` om een configuratiebestand op te geven
 
 Verschillende configuratiebestanden zullen overeenkomstige mappen aanmaken in de map `out`.
 
@@ -92,11 +92,9 @@ Het publiceren van content op [npmjs.com](//npmjs.com) is de aanbevolen standaar
 
 Installeer `nodejs` en log in met `npm login`.
 
-Bewerk `md/.i18n/htm/ol.yml` en wijzig `i18n.site` in `v: //unpkg.com/i18n.site` naar je eigen `npm` pakketnaam.
+Bewerk `md/.i18n/htm/ol.yml` en wijzig de waarde van [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` in de naam van uw eigen `npm`-pakket. Kies een naam die nog niet ingenomen is op [npmjs.com](//npmjs.com).
 
-Gebruik een onbezette pakketnaam op [npmjs.com](//npmjs.com). Het gebruik van de domeinnaam van je website als pakketnaam is een goede keuze.
-
-Wanneer je publiceert op basis van een `npm` pakket, **zorg ervoor dat je `//unpkg.com/` gebruikt** voor het voorvoegsel van de waarde `v:`. `i18n.site` heeft speciaal de cachetijd van `/.v` onder dit voorvoegselpad geoptimaliseerd om tijdige weergave van nieuwe releases te bereiken.
+Wijzig dan `md/.i18n/htm/ol.package.json`
 
 Voer `i18n.site --npm` of `i18n.site -n` uit in de map `md` om te vertalen en te publiceren.
 

@@ -1,4 +1,4 @@
-# Konvensi Format Penurunan Harga
+# Konvensi Penulisan MarkDown i18n.site
 
 ## Titik Jangkar
 
@@ -34,3 +34,10 @@ Implementasinya bisa anda simak di [github.com/i18n-site/md/en/README.md](https:
 ```
 
 Perhatikan bahwa `<style>` juga didefinisikan dalam `<pre>` di atas.
+
+
+## Gambar/Video/Tautan Dalam Berbagai Bahasa
+
+Setelah `MarkDown` diubah menjadi `HTML` , `$LANG` pada atribut `src` dan `href` akan diganti dengan [kode bahasa](/i18/LANG_CODE) saat ini.
+
+Dengan variabel ini, Anda dapat mencapai multibahasa gambar/video/tautan.

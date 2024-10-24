@@ -20,14 +20,18 @@ Statiskus failus var ģenerēt lokāli, taču izplatītāka pieeja ir to augšup
 Kā piemēru ņemiet `.i18n/htm/ol.yml` konfigurācijas failu demonstrācijas projektā
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Lūdzu, vispirms mainiet iepriekš norādīto vērtību `host:` savā domēna vārdā, piemēram, `i18n.site` .

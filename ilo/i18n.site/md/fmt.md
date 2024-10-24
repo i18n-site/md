@@ -1,4 +1,4 @@
-# Konbension Ti Pormat Ti MarkDown
+# i18n.site MarkDown Kombension Ti Panagsurat
 
 ## Punto Ti Angkla
 
@@ -34,3 +34,10 @@ Mabalinmo a kitaen ti implementasion iti [github.com/i18n-site/md/en/README.md](
 ```
 
 Panunoten a ti `<style>` ket naikeddeng met iti `<pre>` iti ngato.
+
+
+## Ladawan/Video/Link Iti Adu a Pagsasao
+
+Kalpasan a mabaliwan `MarkDown` iti `HTML` , `$LANG` kadagiti kababalin `src` ken `href` ket masukatan iti agdama a [kodigo ti pagsasao](/i18/LANG_CODE) .
+
+Babaen daytoy a variable, maragpatmo ti multilingualization dagiti ladawan/video/silpo.

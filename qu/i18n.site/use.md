@@ -1,14 +1,14 @@
 # Instalar &
 
-## Configuración Nisqa Token
-
-`i18n.site` huk ruwasqa `i18` tikray yanapakuyniyuqmi Ama hina kaspa [kaypi ñit'iy `i18` qillqaman yaykuna token wakichinaykipaq](/i18/use) .
-
 ## Churay
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuración Nisqa Token
+
+`i18n.site` huk ruwasqa `i18` tikray yanapakuyniyuqmi Ama hina kaspa [kaypi ñit'iy `i18` qillqaman yaykuna token wakichinaykipaq](/i18/use) .
 
 ## Proyecto Demostración Nisqa
 
@@ -64,7 +64,7 @@ Llaqta ñawpaq qhawayqa manam laya yupaymanta llakikunchu, llapa willañiqikunat
 
 Oficial kacharinapaq, tikrasqa willañiqikuna musuq laya yupay qillqana mayt'uman copiasqa kanqa.
 
-#### -c Nisqawan Llamk'achiy Wakichisqa Willañiqita Willanaykipaq
+#### `-c` Nisqawan Wakichiy Willañiqita Niy
 
 Hukhina wakichiy willañiqikunaqa `out` willañiqipi tupaq willañiqikunatam ruranqa.
 
@@ -92,11 +92,9 @@ Kaypi `--save` musuqyachiy lluqsichiy laya yupayta rikuchin.
 
 `nodejs` churay, `npm login` nisqawan yaykuy.
 
-`md/.i18n/htm/ol.yml` llamk'apuy chaymanta `i18n.site` `v: //unpkg.com/i18n.site` kaqpi kikin `npm` paquete sutiykiman tikray.
+`md/.i18n/htm/ol.yml` llamk'apuy chaymanta [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) kaqpa chaninninta `YOUR_NPM_PACKAGE` tikray kikiykipa `npm` paquete sutiyki hina Mayqin mana runayuq paquete sutipas [npmjs.com](//npmjs.com)
 
-Mana runayuq paquete sutita llamk'achiylla [npmjs.com](//npmjs.com) Web kitip kamachiy sutita llamk'achiyta paquete suti hina allin akllana.
-
-`npm` paquete kaqpi sayasqa qillqachkaptiyki, 2 `v:` chaninpa ñawpaqninpaq **`//unpkg.com/` qhaway** `i18n.site` kay ñawpaq simi ñanpi `/.v` kaqpa waqaychasqa pachanta aswan allinchasqa musuq kacharisqakuna pachanpi qhawayta aypanapaq.
+Chaymantataq `md/.i18n/htm/ol.package.json` tikray
 
 `md` directoriopi `i18n.site --npm` utaq `i18n.site -n` purichiy tikrayta chaymanta lluqsichinapaq.
 

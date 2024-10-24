@@ -20,14 +20,18 @@ Statyske bestannen kinne lokaal oanmakke wurde, mar in mear foarkommende oanpak 
 Nim it `.i18n/htm/ol.yml` konfiguraasjebestân yn it demoprojekt as foarbyld
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Wizigje asjebleaft earst de wearde fan `host:` hjirboppe oan jo domeinnamme, lykas `i18n.site` .

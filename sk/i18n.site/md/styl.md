@@ -1,5 +1,21 @@
 # Zoznam Štýlov
 
+[Kliknite sem, ak chcete prechádzať zdrojový súbor tejto stránky,](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) aby ste videli, ako napísať `MarkDown` v nasledujúcich štýloch.
+
+## Podčiarknite & &
+
+Toto je podčiarknutie __ __~~ prečiarknutie~~ a **tučný** text prezentácie.
+
+Píše sa takto:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Analyzátor `MarkDown` nástroja na vytváranie webových stránok `i18n.site` optimalizoval syntax podčiarknutia, prečiarknutia a tučného písma. Môže sa prejaviť bez medzier pred a za značkou, čo uľahčuje písanie dokumentov v jazykoch ako Čína, Japonsko a Kórea. ktoré nepoužívajú medzery ako oddeľovače.
+
+: čítanie [Prečo sa syntax Markdown ( `**……**` ) Nuggets niekedy neprejaví?](//juejin.cn/post/7064565848421171213)
+
 ## Citovať
 
 ### Jednoriadkový Citát
@@ -14,6 +30,32 @@
 > A sci-fi romány ako Asimovova „Konečná odpoveď“ živo opisujú miliardy rokov histórie celého vesmíru, vrátane ľudských bytostí, len niekoľkými tisíckami slov.
 > Takúto inkluzívnosť a smelosť nie je možné dosiahnuť v tradičnej literatúre.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tip `> [!TIP]`
+
+> [!TIP]
+> Nezabudnite skontrolovať platnosť vášho pasu a víza, ktorých platnosť uplynula, nemôžu vstúpiť do krajiny ani ju opustiť.
+
+Píše sa nasledovne
+
+```
+> [!TIP]
+> your content
+```
+
+### Poznámka `> [!NOTE]`
+
+> [!NOTE]
+> Ak mi pošlete správu a ja okamžite odpoviem, čo to znamená?
+> To ukazuje, že sa naozaj rád hrám s mobilnými telefónmi.
+
+
+### Upozornenie `> [!WARN]`
+
+> [!WARN]
+> Keď idete na divoké dobrodružstvo, je dôležité zostať v bezpečí.
+> Minulý týždeň sa skupina horolezcov stretla s búrkou v polovici hory a museli sa evakuovať, pretože nedokázali skontrolovať predpoveď počasia.
+> Pamätajte, že akákoľvek vonkajšia aktivita si vyžaduje primeranú prípravu a pozornosť voči počasiu.
 
 ## Zoznam Úloh
 

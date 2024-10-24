@@ -1,5 +1,21 @@
 # Stílalisti
 
+[Smelltu hér til að fletta í frumskrá þessarar síðu](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) til að sjá hvernig á að skrifa `MarkDown` í eftirfarandi stílum.
+
+## & &
+
+__ er __~~ yfirstrikað~~ og **feitletraður** kynningartexti.
+
+Það er skrifað sem hér segir:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`MarkDown` flokkari `i18n.site` vefsíðugerðarinnar hefur fínstillt undirstrikun, yfirstrikun og feitletraða setningafræði. sem nota ekki bil sem skil.
+
+Lengri lestur : [vegna tekur Markdown setningafræði Nuggets ( `**……**` ) stundum ekki gildi?](//juejin.cn/post/7064565848421171213)
+
 ## Tilvitnun
 
 ### Einni Línu Tilvitnun
@@ -14,6 +30,32 @@
 > Og vísindaskáldsögur eins og "Lokasvarið" eftir Asimov lýsa á skýran hátt milljarða ára sögu alls alheimsins, þar á meðal manneskjur, í örfáum þúsundum orðum.
 > Slík innifalin og áræðni er ómögulegt að ná í hefðbundnum bókmenntum.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Ábending `> [!TIP]`
+
+> [!TIP]
+> Mundu að athuga gildi vegabréfs þíns og vegabréfsáritunar. Útrunnin skjöl geta ekki farið inn eða út úr landinu.
+
+Það er skrifað sem hér segir
+
+```
+> [!TIP]
+> your content
+```
+
+### Athugasemd `> [!NOTE]`
+
+> [!NOTE]
+> Ef þú sendir mér skilaboð og ég svara samstundis, hvað þýðir það?
+> Þetta sýnir að ég elska virkilega að spila með farsíma.
+
+
+### Viðvörun `> [!WARN]`
+
+> [!WARN]
+> Þegar þú ferð í villt ævintýri er mikilvægt að vera öruggur.
+> Í síðustu viku lenti hópur fjallgöngumanna í óveðri á miðri leið upp á fjallið og þurfti að yfirgefa hann þar sem þeim tókst ekki að athuga veðurspána.
+> Mundu að öll útivist krefst fullnægjandi undirbúnings og athygli á veðri.
 
 ## Verkefnalisti
 

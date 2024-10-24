@@ -1,4 +1,4 @@
-# Konvence Formátu MarkDown
+# i18n.site Konvence Psaní MarkDown
 
 ## Kotevní Bod
 
@@ -34,3 +34,10 @@ Můžete odkazovat na implementaci v [github.com/i18n-site/md/en/README.md](http
 ```
 
 Všimněte si, že `<style>` je také definována v `<pre>` výše.
+
+
+## Obrázky/Videa/Odkazy Ve Více Jazycích
+
+Po převedení `MarkDown` na `HTML` budou `$LANG` v atributech `src` a `href` nahrazeny aktuálním [kódem jazyka](/i18/LANG_CODE) .
+
+Pomocí této proměnné můžete dosáhnout vícejazyčnosti obrázků/videí/odkazů.

@@ -1,14 +1,14 @@
 # Įdiegti &
 
-## Konfigūracijos Prieigos Raktas
-
-`i18n.site` turi integruotą `i18` vertimo įrankį. [Spustelėkite čia, kad peržiūrėtumėte `i18` dokumentą, kad sukonfigūruotumėte prieigos raktą](/i18/use) .
-
 ## Įdiegti
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigūracijos Prieigos Raktas
+
+`i18n.site` turi integruotą `i18` vertimo įrankį. [Spustelėkite čia, kad peržiūrėtumėte `i18` dokumentą, kad sukonfigūruotumėte prieigos raktą](/i18/use) .
 
 ## Demo Projektas
 
@@ -64,7 +64,7 @@ Vietinei peržiūrai nerūpi versijos numeris ir visi failai nukopijuos į `out/
 
 Oficialiai išleisti pakeisti failai bus nukopijuoti į naujos versijos numerių katalogą.
 
-#### Norėdami Nurodyti Konfigūracijos Failą, Naudokite -c
+#### Nurodykite Konfigūracijos Failą Su `-c`
 
 Skirtingi konfigūracijos failai sukurs atitinkamus katalogus `out` kataloge.
 
@@ -92,11 +92,9 @@ Rekomenduojamas numatytasis sprendimas [yra](/i18n.site/feature#ha) paskelbti tu
 
 Įdiekite `nodejs` , prisijunkite naudodami `npm login` .
 
-Redaguokite `md/.i18n/htm/ol.yml` ir pakeiskite `i18n.site` in `v: //unpkg.com/i18n.site` į savo `npm` paketo pavadinimą.
+Redaguokite `md/.i18n/htm/ol.yml` ir pakeiskite reikšmę [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) savo `npm` paketo pavadinimą.
 
-Tiesiog naudokite neužimtą paketo pavadinimą [npmjs.com](//npmjs.com) Geras pasirinkimas yra svetainės domeno pavadinimas.
-
-Skelbdami pagal paketą `npm` , **būtinai naudokite `//unpkg.com/`** kaip `v:` vertės priešdėlį, `i18n.site` specialiai optimizavo talpyklos laiką `/.v` pagal šį priešdėlio kelią, kad būtų galima laiku peržiūrėti naujus leidimus.
+Tada pakeiskite `md/.i18n/htm/ol.package.json`
 
 Paleiskite `i18n.site --npm` arba `i18n.site -n` `md` kataloge, kad išverstumėte ir paskelbtumėte.
 

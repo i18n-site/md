@@ -1,5 +1,21 @@
 # Style Lis
 
+[Nyem qhov no mus xauj cov ntaub ntawv ntawm nplooj ntawv no](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) kom pom yuav ua li cas sau `MarkDown` hauv cov qauv hauv qab no.
+
+## Hauv Qab & Strikethrough &
+
+Qhov no yog __ Underscore __ ,~~ kev tawm tsam~~ thiab cov ntawv nthuav qhia **bold** .
+
+Nws yog sau raws li nram no:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Lub `MarkDown` parser ntawm `i18n.site` lub vev xaib tsim cov cuab yeej tau ua kom zoo dua cov kab hauv qab, kev tawm tsam, thiab cov lus sib dhos tuaj yeem siv tau yam tsis muaj qhov chaw ua ntej thiab tom qab lub cim, ua kom yooj yim sau cov ntaub ntawv hauv hom lus xws li Tuam Tshoj, Nyiv, thiab Kaus Lim Kauslim. uas tsis siv qhov chaw ua cais.
+
+Kev nyeem ntawv txuas ntxiv : [Vim li cas Nuggets ' Markdown syntax ( `**……**` ) qee zaum tsis siv?](//juejin.cn/post/7064565848421171213)
+
 ## Nqe Lus
 
 ### Ib Kab Quote
@@ -14,6 +30,32 @@
 > Thiab science ntawv tseeb dab neeg zoo li Asimov's "Qhov Kawg Teb" vividly piav qhia txog ntau txhiab xyoo keeb kwm ntawm tag nrho lub ntiaj teb, suav nrog tib neeg, hauv ob peb txhiab lo lus.
 > Xws li inclusiveness thiab boldness yog tsis yooj yim sua kom ua tau nyob rau hauv ib txwm cov ntaub ntawv.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tswv Yim `> [!TIP]`
+
+> [!TIP]
+> Nco ntsoov xyuas qhov siv tau ntawm koj daim ntawv hla tebchaws thiab daim ntawv hla tebchaws tsis tuaj yeem nkag lossis tawm hauv lub tebchaws.
+
+Nws yog sau raws li nram no
+
+```
+> [!TIP]
+> your content
+```
+
+### Lus Cim `> [!NOTE]`
+
+> [!NOTE]
+> Yog tias koj xa lus rau kuv thiab kuv teb tam sim ntawd, qhov ntawd txhais li cas?
+> Qhov no qhia tau tias kuv nyiam ua si nrog cov xov tooj ntawm tes.
+
+
+### Ceeb Toom `> [!WARN]`
+
+> [!WARN]
+> Thaum mus rau kev taug txuj kev nyuaj qus, nws tseem ceeb heev kom nyob nyab xeeb.
+> Lub lim tiam dhau los, ib pab pawg neeg nce toj tau ntsib cua daj cua dub ib nrab ntawm lub roob thiab yuav tsum tau khiav tawm vim lawv tsis tuaj yeem tshawb xyuas huab cua huab cua.
+> Nco ntsoov, txhua yam kev ua si sab nraum zoov yuav tsum tau npaj txaus thiab saib xyuas huab cua.
 
 ## To-Do Lis
 

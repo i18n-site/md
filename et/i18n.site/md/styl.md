@@ -1,5 +1,21 @@
 # Stiilide Loend
 
+[Selle lehe lähtefaili sirvimiseks klõpsake siin,](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) et näha, kuidas kirjutada `MarkDown` järgmistes stiilides.
+
+## & &
+
+See __ __~~ läbikriipsutatud~~ ja **paks** esitlustekst.
+
+See on kirjutatud järgmiselt:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site` loomise tööriista `MarkDown` parser on optimeerinud allakriipsutamist, läbikriipsutamist ja paksus kirjas süntaksit. See võib toimida ilma tühikuteta märgi ees ja järel, muutes dokumentide kirjutamise lihtsamaks sellistes keeltes nagu Hiina, Jaapan ja Korea. mis ei kasuta eraldajatena tühikuid.
+
+Pikendatud : [Miks Nuggetsi Markdown süntaks ( `**……**` ) mõnikord ei kehti?](//juejin.cn/post/7064565848421171213)
+
 ## Tsiteeri
 
 ### Üherealine Tsitaat
@@ -14,6 +30,32 @@
 > Ja ulmeromaanid nagu Asimovi "Lõplik vastus" kirjeldavad ilmekalt kogu universumi, sealhulgas inimeste, miljardite aastate pikkust ajalugu vaid mõne tuhande sõnaga.
 > Sellist kaasatust ja julgust on traditsioonilises kirjanduses võimatu saavutada.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Vihje `> [!TIP]`
+
+> [!TIP]
+> Ärge unustage kontrollida oma passi ja viisa kehtivust. Aegunud dokumendid ei saa riiki siseneda ega riigist lahkuda.
+
+See on kirjutatud järgmiselt
+
+```
+> [!TIP]
+> your content
+```
+
+### Märkus `> [!NOTE]`
+
+> [!NOTE]
+> Kui saadate mulle sõnumi ja ma vastan kohe, mida see tähendab?
+> See näitab, et mulle väga meeldib mobiiltelefonidega mängida.
+
+
+### Hoiatus `> [!WARN]`
+
+> [!WARN]
+> Metsikule seiklusele minnes on oluline olla turvaline.
+> Eelmisel nädalal tabas grupp mägironijaid poolel teel tormi ja pidi evakueeruma, kuna ei suutnud ilmateadet kontrollida.
+> Pidage meeles, et igasugune välitegevus nõuab piisavat ettevalmistust ja ilmastikule tähelepanu pööramist.
 
 ## Ülesannete Nimekiri
 

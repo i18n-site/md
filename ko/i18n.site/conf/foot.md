@@ -29,9 +29,20 @@
 ```
 @font-face {
   font-family: "F";
-  src: url("//at.alicdn.com/t/c/font_4281991_urfar2m2zce.woff2?t=1716188208767") format("woff2");
+  src: url(//p.3ti.site/ico1.woff2) format("woff2");
+}
+
+#Ft>b>a.site {
+  background: url("//p.3ti.site/i18n.svg") 0 0 / cover;
+  display: block;
+  height: 24px;
+  opacity: 0.8;
+  width: 115px;
+  flex-shrink: 0;
 }
 ```
+
+iconfont.cn의 글꼴 파일은 사파리 브라우저에서 불러올 수 없으므로 직접 참조하지 마세요.
 
 ## 웹 구성요소
 

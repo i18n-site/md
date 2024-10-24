@@ -20,14 +20,18 @@ Gellir cynhyrchu ffeiliau statig yn lleol, ond dull mwy cyffredin yw eu huwchlwy
 Cymerwch y ffeil ffurfweddu `.i18n/htm/ol.yml` yn y prosiect demo fel enghraifft
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Yn gyntaf, addaswch werth `host:` uchod i'ch enw parth, fel `i18n.site` .

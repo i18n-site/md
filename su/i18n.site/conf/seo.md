@@ -20,14 +20,18 @@ File statik tiasa didamel sacara lokal, tapi pendekatan anu langkung umum nyaét
 Candak file konfigurasi `.i18n/htm/ol.yml` dina proyék demo sabagé conto
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Mangga robih heula nilai `host:` di luhur kana nami domain anjeun, sapertos `i18n.site` .

@@ -1,4 +1,4 @@
-# MarkDown Cogoya Lajɛba
+# i18n.site MarkDown Sɛbɛnni Lajɛba
 
 ## Ankɔri Yɔrɔ
 
@@ -34,3 +34,10 @@ Aw bɛ se ka waleyali lajɛ [github.com/i18n-site/md/en/README.md](https://raw.g
 ```
 
 A kɔlɔsi ko `<style>` fana ɲɛfɔlen don `<pre>` la san fɛ.
+
+
+## Jaw/Videyow/Lienw Kan Caman Na
+
+`MarkDown` jiginna ka kɛ `HTML` ye , `$LANG` min bɛ fɛn `src` ni `href` kɔnɔ , o bɛna bila [kanko kode](/i18/LANG_CODE) sisan nɔ na .
+
+Ni nin fɛn caman b’a la, i bɛ se ka ja/wideyow/jɛgɛnw ka kan caman fɔli sɔrɔ.

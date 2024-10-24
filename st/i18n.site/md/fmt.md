@@ -1,4 +1,4 @@
-# Kopano Ea Sebopeho Sa MarkDown
+# i18n.site MarkDown Ho Ngola Kopano
 
 ## Ntlha Ea Ankora
 
@@ -34,3 +34,10 @@ O ka bua ka ts'ebetsong ho [github.com/i18n-site/md/en/README.md](https://raw.gi
 ```
 
 Hlokomela hore `<style>` e boetse e hlalosoa ho `<pre>` ka holimo.
+
+
+## Litšoantšo / Livideo / Likhokahano Ka Lipuo Tse Ngata
+
+Ka mor'a hore `MarkDown` e fetoleloe ho `HTML` , `$LANG` ho litšoaneleho `src` le `href` e tla nkeloa sebaka ke [khoutu ea hona joale ea puo](/i18/LANG_CODE) .
+
+Ka ho feto-fetoha hona, o ka fihlela lipuo tse ngata tsa litšoantšo / livideo / likhokahano.

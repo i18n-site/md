@@ -1,5 +1,21 @@
 # Stil Siyahısı
 
+Aşağıdakı üslublarda `MarkDown` necə yazılacağını görmək üçün [bu səhifənin mənbə faylına baxmaq üçün bura klikləyin](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) .
+
+## Altını Xətt & Qalın &
+
+__ __~~ cızıq~~ və **qalın** təqdimat mətni.
+
+Aşağıdakı kimi yazılır:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site` veb-sayt qurma alətinin `MarkDown` təhlilçisi işarədən əvvəl və sonra boşluq olmadan qüvvəyə minir, Çin, Yaponiya və Koreya kimi dillərdə sənədlərin yazılmasını asanlaşdırır. boşluqları ayırıcı kimi istifadə etməyən.
+
+[Markdown `**……**`](//juejin.cn/post/7064565848421171213) :
+
 ## Sitat
 
 ### Tək Sətirli Sitat
@@ -14,6 +30,32 @@
 > Asimovun “Son cavab” kimi elmi fantastika romanları isə bütün kainatın, o cümlədən insanların milyardlarla illik tarixini cəmi bir neçə min sözlə aydın şəkildə təsvir edir.
 > Ənənəvi ədəbiyyatda belə əhatəliliyə və cəsarətə nail olmaq mümkün deyil.
 <p style="text-align:right">── Liu Cixin</p>
+
+### İpucu `> [!TIP]`
+
+> [!TIP]
+> Pasportunuzun və vizanın etibarlılığını yoxlamağı unutmayın, müddəti bitmiş sənədlər ölkəyə daxil ola və ya çıxa bilməz.
+
+Aşağıdakı kimi yazılır
+
+```
+> [!TIP]
+> your content
+```
+
+### Qeyd `> [!NOTE]`
+
+> [!NOTE]
+> Əgər mənə mesaj göndərsəniz və mən dərhal cavab versəniz, bu nə deməkdir?
+> Bu onu göstərir ki, mən mobil telefonlarla oynamağı çox sevirəm.
+
+
+### Xəbərdarlıq `> [!WARN]`
+
+> [!WARN]
+> Vəhşi bir macəraya gedərkən təhlükəsiz qalmaq vacibdir.
+> Ötən həftə bir qrup alpinist dağın yarısında fırtına ilə qarşılaşıb və hava proqnozunu yoxlaya bilmədiklərinə görə təxliyyə etməli olublar.
+> Unutmayın ki, hər hansı açıq fəaliyyət havaya adekvat hazırlıq və diqqət tələb edir.
 
 ## Görüləcək Işlər Siyahısı
 

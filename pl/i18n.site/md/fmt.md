@@ -1,4 +1,4 @@
-# Konwencje formatu Markdown
+# Konwencje pisania dla i18n.site w Markdown
 
 ## Kotwice
 
@@ -34,3 +34,10 @@ Można sięgnąć po implementację w [github.com/i18n-site/md/en/README.md](htt
 ```
 
 Zwróć uwagę, że w powyższym `<pre>` zdefiniowano również `<style>`.
+
+
+## Zdjęcia/Filmy/Linki w wielu językach
+
+W przypadku konwersji `Markdown` na `HTML`, `$LANG` w atrybutach `src` i `href` zostanie zastąpiony bieżącym [kodem języka](/i18/LANG_CODE).
+
+Dzięki tej zmiennej można osiągnąć wielojęzyczność dla obrazów/wideo/odnośników.

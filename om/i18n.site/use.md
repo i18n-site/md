@@ -1,14 +1,14 @@
 # Install Bobbaasuu &
 
-## Mallattoo Qindeessaa
-
-`i18n.site` meeshaa hiikkaa `i18` keessaa qaba [Maaloo mallattoo qaqqabummaa qindeessuuf galmee `i18` ilaaluuf as tuqi](/i18/use) .
-
 ## Itti Fe'uu
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Mallattoo Qindeessaa
+
+`i18n.site` meeshaa hiikkaa `i18` keessaa qaba [Maaloo mallattoo qaqqabummaa qindeessuuf galmee `i18` ilaaluuf as tuqi](/i18/use) .
 
 ## Pirojektii Agarsiisaa
 
@@ -64,7 +64,7 @@ Durargii naannoo lakkoofsa gosa hin dhimmamu fi faayilii hunda gara galmee `out/
 
 Akka ofiisaatti gadhiifamuuf, faayiloota jijjiiraman gara galmee lakkoofsa gosa haaraatti ni waraabamu.
 
-#### Faayilii Qindeessaa Ifteessuuf -c Fayyadami
+#### Faayilii Qindeessaa `-c` Waliin Ifteessi
 
 Faayiloonni qindeessaa adda addaa galmeewwan walgitan galmee `out` keessatti ni uumu.
 
@@ -92,11 +92,9 @@ Qabiyyee [gara](/i18n.site/feature#ha) [npmjs.com](//npmjs.com)
 
 `nodejs` fe'i , `npm login` waliin seeni .
 
-`md/.i18n/htm/ol.yml` gulaaliitii `v: //unpkg.com/i18n.site` keessaa `i18n.site` gara maqaa paakeejii `npm` mataa keetii jijjiiri.
+`md/.i18n/htm/ol.yml` gulaaliitii gatii [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` jijjiiri akka maqaa paakeejii `npm` mataa keetii [npmjs.com](//npmjs.com) hojjeta.
 
-Maqaa paakeejii hin [npmjs.com](//npmjs.com) qofa irratti fayyadamuu Maqaa domeenii marsariitii akka maqaa paakeejiitti fayyadamuun filannoo gaarii dha.
-
-Yeroo paakeejii `npm` irratti hundaa'uun maxxansitu, durtii gatii `v:` **`//unpkg.com/` fayyadamuu mirkaneessi** `i18n.site` yeroo kaachota `/.v` daandii durtii kana jalatti yeroodhaan ilaaluu gadhiifama haaraa galmaan ga'uuf addatti fooyyessee jira.
+Sana booda `md/.i18n/htm/ol.package.json` fooyyessaa
 
 Hiikkaa fi maxxansuuf galmee `md` keessatti `i18n.site --npm` ykn `i18n.site -n` fiigi.
 

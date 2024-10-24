@@ -1,14 +1,14 @@
 # I-Install &
 
-## Token Ti Konfigurasion
-
-`i18n.site` ket addaan iti naibangon `i18` nga alikamen ti panagipatarus Pangngaasi [nga i-klik ditoy tapno kitaen ti `i18` a dokumento tapno mangikonfigura ti token ti panagserrek](/i18/use) .
-
 ## Ikabil
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Ti Konfigurasion
+
+`i18n.site` ket addaan iti naibangon `i18` nga alikamen ti panagipatarus Pangngaasi [nga i-klik ditoy tapno kitaen ti `i18` a dokumento tapno mangikonfigura ti token ti panagserrek](/i18/use) .
 
 ## Proyekto Ti Demo
 
@@ -64,7 +64,7 @@ Ti lokal a preview ket saan a maseknan ti numero ti bersion ken kopiaenna amin a
 
 Para iti opisial a pannakairuar, dagiti nabaliwan a papeles ket makopia iti baro a direktorio ti numero ti bersion.
 
-#### Usaren Ti -c Tapno Mangibaga Ti File Ti Panagisaad
+#### Ibaga Ti File Ti Konfigurasion Nga Addaan Iti `-c`
 
 Dagiti nadumaduma a file ti panagisaad ket mangpartuat kadagiti maitunos a direktorio iti `out` a direktorio.
 
@@ -92,11 +92,9 @@ Ti panagipablaak ti linaon iti [npmjs.com](//npmjs.com) ket isu ti mairekomendar
 
 I-install `nodejs` , ag-log in babaen ti `npm login` .
 
-Urnosen `md/.i18n/htm/ol.yml` ken baliwam `i18n.site` iti `v: //unpkg.com/i18n.site` iti bukodmo a `npm` a nagan ti pakete.
+Urnosen `md/.i18n/htm/ol.yml` ken baliwan ti pateg ti [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` a kas ti bukodmo a `npm` a nagan ti pakete iti [npmjs.com](//npmjs.com)
 
-Usaren laeng ti saan nga okupado a nagan ti pakete iti [npmjs.com](//npmjs.com)
-
-No agipablaak a naibatay iti pakete `npm` , **siguraduen nga usaren `//unpkg.com/`** para iti pangrugian ti `v:` a pateg ti `i18n.site` ket naisangayan a nangpasayaat ti oras ti cache ti `/.v` iti baba daytoy a dalan ti pangrugian tapno magun-od ti naintiempuan a panagkita kadagiti baro a nairuar.
+Kalpasanna baliwan ti `md/.i18n/htm/ol.package.json`
 
 Ipataray `i18n.site --npm` wenno `i18n.site -n` iti `md` a direktorio tapno maipatarus ken maipablaak.
 

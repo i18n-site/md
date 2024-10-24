@@ -1,4 +1,4 @@
-# Umhlangano Wefomethi Ye-MarkDown
+# i18n.site MarkDown Ukubhala Umhlangano
 
 ## Iphoyinti Le-Anchor
 
@@ -34,3 +34,10 @@ Ungabhekisa ekusetshenzisweni ku- [github.com/i18n-site/md/en/README.md](https:/
 ```
 
 Qaphela ukuthi `<style>` ubuye achazwe ku `<pre>` ngenhla.
+
+
+## Izithombe/Amavidiyo/Izixhumanisi Ngezilimi Eziningi
+
+Ngemva kokuthi `MarkDown` eguqulelwe ku `HTML` , `$LANG` kuzibaluli `src` kanye no `href` kuzothathelwa indawo [ikhodi yolimi](/i18/LANG_CODE) yamanje .
+
+Ngalokhu kuguquguquka, ungakwazi ukufeza izilimi eziningi zezithombe/amavidiyo/izixhumanisi.

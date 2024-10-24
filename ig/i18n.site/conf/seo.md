@@ -20,14 +20,18 @@ Enwere ike ịmepụta faịlụ static na mpaghara, mana ụzọ a na-ahụkar�
 Were faịlụ nhazi `.i18n/htm/ol.yml` na ọrụ ngosi dị ka ọmụmaatụ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Biko buru ụzọ gbanwee uru nke `host:` dị n'elu na aha ngalaba gị, dị ka `i18n.site` .

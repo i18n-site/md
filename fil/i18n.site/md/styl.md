@@ -1,5 +1,21 @@
 # Listahan Ng Istilo
 
+[Mag-click dito upang i-browse ang source file ng pahinang ito](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) upang makita kung paano magsulat `MarkDown` sa mga sumusunod na istilo.
+
+## Salungguhitan & Strikethrough &
+
+__ ay __~~ strikethrough~~ at **naka-bold** na teksto ng presentasyon.
+
+Ito ay nakasulat tulad ng sumusunod:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Na-optimize ng `MarkDown` parser ng tool sa pagbuo ng `i18n.site` website ang underline, strikethrough, at bold na syntax. Maaari itong magkabisa nang walang mga puwang bago at pagkatapos ng marka, na ginagawang mas madali ang pagsulat ng mga dokumento sa mga wika tulad ng China, Japan, at Korea. na hindi gumagamit ng mga puwang bilang mga separator.
+
+Pinahabang pagbabasa : [Bakit minsan hindi nagkakabisa ang Markdown syntax ( `**……**` ) ng Nuggets?](//juejin.cn/post/7064565848421171213)
+
 ## Quote
 
 ### Isang Linyang Quote
@@ -14,6 +30,32 @@
 > At ang mga nobelang science fiction tulad ng "The Final Answer" ni Asimov ay malinaw na naglalarawan sa bilyun-bilyong taon ng kasaysayan ng buong sansinukob, kabilang ang mga tao, sa ilang libong salita lamang.
 > Ang ganitong pagiging inklusibo at katapangan ay imposibleng makamit sa tradisyonal na panitikan.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tip `> [!TIP]`
+
+> [!TIP]
+> Tandaan na suriin ang bisa ng iyong pasaporte at visa ay hindi maaaring pumasok o lumabas sa bansa.
+
+Ito ay nakasulat tulad ng sumusunod
+
+```
+> [!TIP]
+> your content
+```
+
+### Puna `> [!NOTE]`
+
+> [!NOTE]
+> Kung padadalhan mo ako ng mensahe at agad akong tumugon, ano ang ibig sabihin nito?
+> Ipinakikita nito na talagang mahilig akong maglaro ng mga mobile phone.
+
+
+### Babala `> [!WARN]`
+
+> [!WARN]
+> Kapag nagpapatuloy sa isang ligaw na pakikipagsapalaran, mahalagang manatiling ligtas.
+> Noong nakaraang linggo, isang grupo ng mga umaakyat ang nakatagpo ng bagyo sa kalagitnaan ng bundok at kinailangan na lumikas dahil nabigo silang suriin ang taya ng panahon.
+> Tandaan, ang anumang aktibidad sa labas ay nangangailangan ng sapat na paghahanda at atensyon sa lagay ng panahon.
 
 ## Listahan Ng Gagawin
 

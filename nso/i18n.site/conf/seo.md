@@ -20,14 +20,18 @@ Difaele tša go se fetoge di ka tšweletšwa ka mo nageng, eupša mokgwa wo o tl
 Nka faele ya peakanyo `.i18n/htm/ol.yml` ka porojekeng ya demo bjalo ka mohlala
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Hle thoma ka go fetoša boleng bja `host:` ka godimo go leina la gago la domain, go swana le `i18n.site` .

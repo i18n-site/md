@@ -1,14 +1,14 @@
 # Dağıtın &
 
-## Yapılandırma Jetonu
-
-`i18n.site` `i18` bir çeviri aracına sahiptir. [Erişim belirtecini yapılandırmak üzere `i18` belgesine başvurmak için lütfen buraya tıklayın](/i18/use) .
-
 ## Düzenlemek
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Yapılandırma Jetonu
+
+`i18n.site` `i18` bir çeviri aracına sahiptir. [Erişim belirtecini yapılandırmak üzere `i18` belgesine başvurmak için lütfen buraya tıklayın](/i18/use) .
 
 ## Demo Projesi
 
@@ -64,7 +64,7 @@ Yerel önizleme sürüm numarasını umursamaz ve tüm dosyaları `out/dev/v/0.1
 
 Resmi sürüm için değiştirilen dosyalar yeni sürüm numarası dizinine kopyalanacaktır.
 
-#### Yapılandırma Dosyasını Belirtmek Için -c Kullanın
+#### Yapılandırma Dosyasını `-c` Ile Belirtin
 
 Farklı yapılandırma dosyaları, `out` dizininde karşılık gelen dizinleri oluşturacaktır.
 
@@ -92,11 +92,9 @@ Burada `--save` , güncelleme sürüm sürüm numarasını temsil eder.
 
 `nodejs` yükleyin, `npm login` ile giriş yapın.
 
-`md/.i18n/htm/ol.yml` düzenleyin ve `i18n.site` `v: //unpkg.com/i18n.site` arada'yı kendi `npm` paket adınızla değiştirin.
+`md/.i18n/htm/ol.yml` düzenleyin ve [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) değerini kendi `npm` paket adınız olarak `YOUR_NPM_PACKAGE` . [npmjs.com](//npmjs.com) üzerinde boş olan herhangi bir paket adı işe yarayacaktır.
 
-[npmjs.com](//npmjs.com) de boş paket adını kullanın. Paket adı olarak web sitesi alan adını kullanmak iyi bir seçimdir.
-
-`npm` paketini temel alarak yayınlarken, `v:` değerinin öneki olarak **`//unpkg.com/` kullandığınızdan emin** olun. `i18n.site` yeni sürümlerin zamanında görüntülenmesini sağlamak için bu önek yolu altında `/.v` önbellek süresini özel olarak optimize etmiştir.
+Daha sonra `md/.i18n/htm/ol.package.json` değiştirin
 
 Çevirmek ve yayınlamak için `md` dizininde `i18n.site --npm` veya `i18n.site -n` çalıştırın.
 

@@ -20,14 +20,18 @@ Ang mga static na file ay maaaring mabuo nang lokal, ngunit ang isang mas karani
 Kunin ang `.i18n/htm/ol.yml` configuration file sa demo project bilang isang halimbawa
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Mangyaring baguhin muna ang halaga ng `host:` sa itaas sa iyong domain name, gaya ng `i18n.site` .

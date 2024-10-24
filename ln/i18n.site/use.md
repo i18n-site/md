@@ -1,14 +1,14 @@
 # Installer Déployer &
 
-## Jeton Ya Configuration
-
-`i18n.site` ezali na esaleli ya bobongoli `i18` oyo etongami na kati Svp [finá awa mpo na kotala mokanda `i18` mpo na kobongisa elembo ya bokɔti](/i18/use) .
-
 ## Ko Installer
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Jeton Ya Configuration
+
+`i18n.site` ezali na esaleli ya bobongoli `i18` oyo etongami na kati Svp [finá awa mpo na kotala mokanda `i18` mpo na kobongisa elembo ya bokɔti](/i18/use) .
 
 ## Projet Ya Démonstration
 
@@ -64,7 +64,7 @@ Aperçu local etali numéro ya version te mpe ekosala copie ya ba fichiers nions
 
 Mpo na kobimisama ya officiel, ba fichiers oyo ebongwani ekozala copie na répertoire ya numéro ya version ya sika.
 
-#### Salelá -c Mpo Na Kolakisa Fisyé Ya Bobongisi
+#### Lakisa Fisyé Ya Bobongisi Na `-c`
 
 Ba fichiers ya configuration ndenge na ndenge ekosala ba répertoires correspondants na répertoire `out` .
 
@@ -92,11 +92,9 @@ Kobimisa makambo na [npmjs.com](//npmjs.com) ezali solution ya liboso oyo esenga
 
 Installez `nodejs` , kota na `npm login` .
 
-Edit `md/.i18n/htm/ol.yml` pe changer `i18n.site` na `v: //unpkg.com/i18n.site` na kombo ya paquet na yo moko `npm` .
+Edit `md/.i18n/htm/ol.yml` pe changer valeur ya [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` lokola kombo ya paquet na yo moko `npm` non occupé na [npmjs.com](//npmjs.com)
 
-Salelá kaka kombo ya pakɛ oyo ezali na bato te na [npmjs.com](//npmjs.com)
-
-Ntango ozali kobimisa na kotalela paquet `npm` , sala **makasi osalela `//unpkg.com/`** mpo na préfixe ya `v:` valeur `i18n.site` a optimisé spécialement temps ya cache ya `/.v` na se ya nzela ya préfixe oyo mpo na kozua vue na tango ya ba sorties ya sika.
+Na nsima, bongisa `md/.i18n/htm/ol.package.json`
 
 Tambwisa `i18n.site --npm` to `i18n.site -n` na répertoire `md` mpo na kobongola mpe kobimisa.
 

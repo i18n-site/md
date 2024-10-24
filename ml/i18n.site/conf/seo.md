@@ -20,14 +20,18 @@
 ഡെമോ പ്രോജക്റ്റിലെ `.i18n/htm/ol.yml` കോൺഫിഗറേഷൻ ഫയൽ ഉദാഹരണമായി എടുക്കുക
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 ദയവായി ആദ്യം മുകളിലെ `host:` യുടെ മൂല്യം `i18n.site` പോലെ നിങ്ങളുടെ ഡൊമെയ്ൻ നാമത്തിലേക്ക് പരിഷ്ക്കരിക്കുക.

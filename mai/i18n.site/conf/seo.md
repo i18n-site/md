@@ -20,14 +20,18 @@
 डेमो प्रोजेक्ट मे `.i18n/htm/ol.yml` विन्यास फाइल कए उदाहरण क रूप मे लिअ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 कृपया पहिने उपरोक्त `host:` क मान कए अपन डोमेन नाम मे संशोधित करू, जेना `i18n.site` .

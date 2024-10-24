@@ -20,14 +20,18 @@
 Πάρτε ως παράδειγμα το αρχείο διαμόρφωσης `.i18n/htm/ol.yml` στο έργο επίδειξης
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Τροποποιήστε πρώτα την τιμή του `host:` παραπάνω στο όνομα τομέα σας, όπως `i18n.site` .

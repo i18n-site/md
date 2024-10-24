@@ -1,4 +1,4 @@
-# Hōʻuluʻulu Manaʻo MarkDown
+# i18n.site MarkDown Kākau ʻaha Kūkā
 
 ## Wahi Heleuma
 
@@ -34,3 +34,10 @@ Hiki iā ʻoe ke kuhikuhi i ka hoʻokō ʻana ma [github.com/i18n-site/md/en/REA
 ```
 
 E hoʻomaopopo i ka wehewehe ʻana `<style>` ma `<pre>` ma luna.
+
+
+## Nā Kiʻi/Wikiō/Loulou Ma Nā ʻōlelo He Nui
+
+Ma hope o ka hoʻololi ʻia ʻana o `MarkDown` i `HTML` , e hoʻololi ʻia `$LANG` ma nā ʻano `src` a me `href` me ke [code ʻōlelo](/i18/LANG_CODE) o kēia manawa.
+
+Me kēia hoʻololi, hiki iā ʻoe ke hoʻokō i ka multilingualization o nā kiʻi / wikiō / loulou.

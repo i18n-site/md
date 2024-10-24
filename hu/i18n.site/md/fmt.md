@@ -1,4 +1,4 @@
-# MarkDown Formátumegyezmény
+# i18n.site MarkDown Írási Konvenció
 
 ## Horgonypont
 
@@ -34,3 +34,10 @@ Az implementációra hivatkozhat a [github.com/i18n-site/md/en/README.md](https:
 ```
 
 Vegye figyelembe, hogy `<style>` a fenti `<pre>` -ban is definiált.
+
+
+## Képek/Videók/Linkek Több Nyelven
+
+Miután `MarkDown` `HTML` -re alakították, `src` és `href` attribútumok `$LANG` lecserélődik az aktuális [nyelvi kódra](/i18/LANG_CODE) .
+
+Ezzel a változóval többnyelvűsítheti a képeket/videókat/linkeket.

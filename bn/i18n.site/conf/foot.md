@@ -29,9 +29,20 @@ iconfont.cn ( [ইংরেজি সংস্করণ](https://www.iconfont.cn
 ```
 @font-face {
   font-family: "F";
-  src: url("//at.alicdn.com/t/c/font_4281991_urfar2m2zce.woff2?t=1716188208767") format("woff2");
+  src: url(//p.3ti.site/ico1.woff2) format("woff2");
+}
+
+#Ft>b>a.site {
+  background: url("//p.3ti.site/i18n.svg") 0 0 / cover;
+  display: block;
+  height: 24px;
+  opacity: 0.8;
+  width: 115px;
+  flex-shrink: 0;
 }
 ```
+
+অনুগ্রহ করে iconfont.cn এর ফন্ট ফাইলটি সরাসরি উল্লেখ করবেন না কারণ এটি সাফারি ব্রাউজারে লোড করা যাবে না।
 
 ## ওয়েব উপাদান
 

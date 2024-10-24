@@ -1,14 +1,14 @@
 # Nruab &
 
-## Configuration Token
-
-`i18n.site` muaj ib tug built-in `i18` txhais cov cuab yeej Thov [nyem qhov no mus rau `i18` daim ntawv los teeb tsa lub token nkag](/i18/use) .
-
 ## Nruab
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuration Token
+
+`i18n.site` muaj ib tug built-in `i18` txhais cov cuab yeej Thov [nyem qhov no mus rau `i18` daim ntawv los teeb tsa lub token nkag](/i18/use) .
 
 ## Demo Qhov Project
 
@@ -64,7 +64,7 @@ Kev saib ua ntej hauv zos tsis quav ntsej txog tus lej version thiab yuav luam t
 
 Rau kev tso tawm, cov ntaub ntawv hloov pauv yuav raug theej mus rau cov npe tshiab version naj npawb.
 
-#### Siv -c Los Qhia Cov Ntaub Ntawv Teeb Tsa
+#### Qhia Cov Ntaub Ntawv Configuration Nrog `-c`
 
 Cov ntaub ntawv configuration sib txawv yuav tsim cov npe sib xws hauv `out` directory.
 
@@ -92,11 +92,9 @@ Kev tshaj tawm [cov](/i18n.site/feature#ha) ntsiab lus rau [npmjs.com](//npmjs.c
 
 Nruab `nodejs` , nkag mus nrog `npm login` .
 
-Kho `md/.i18n/htm/ol.yml` thiab hloov `i18n.site` hauv `v: //unpkg.com/i18n.site` rau koj tus kheej `npm` pob npe.
+Kho kom raug `md/.i18n/htm/ol.yml` thiab hloov tus nqi ntawm [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` raws li koj tus kheej lub npe `npm` pob lub [npmjs.com](//npmjs.com) yuav ua.
 
-Tsuas yog siv lub npe pob tsis muaj nyob rau ntawm [npmjs.com](//npmjs.com)
-
-Thaum luam tawm raws li pob `npm` , **nco ntsoov siv `//unpkg.com/`** rau qhov ua ntej ntawm `v:` tus nqi `i18n.site` tau tshwj xeeb ua kom zoo dua lub sijhawm cache ntawm `/.v` nyob rau hauv txoj kev ua ntej no kom ua tiav raws sijhawm saib cov ntawv tawm tshiab.
+Tom qab ntawd hloov kho `md/.i18n/htm/ol.package.json`
 
 Khiav `i18n.site --npm` lossis `i18n.site -n` hauv `md` phau ntawv txhais lus thiab tshaj tawm.
 

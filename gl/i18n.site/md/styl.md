@@ -1,5 +1,21 @@
 # Lista De Estilos
 
+[Fai clic aquí para buscar o ficheiro fonte desta páxina](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) para ver como escribir `MarkDown` nos seguintes estilos.
+
+## Subliña & Tachado &
+
+Este é __ subliñado __ ,~~ tachado~~ e texto de presentación **en negrita** .
+
+Escríbese do seguinte xeito:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+O analizador `MarkDown` da ferramenta de creación de sitios web `i18n.site` optimizou o subliñado, o tachado e a sintaxe en negra. Pode ter efecto sen espazos antes e despois da marca, facilitando a escritura de documentos en idiomas como China, Xapón e Corea. que non utilizan espazos como separadores.
+
+Lectura : [Por que a sintaxe Markdown de Nuggets ( `**……**` ) ás veces non ten efecto?](//juejin.cn/post/7064565848421171213)
+
 ## Cita
 
 ### Cita Dunha Liña
@@ -14,6 +30,32 @@
 > E novelas de ciencia ficción como "A resposta final" de Asimov describen vívidamente os miles de millóns de anos de historia de todo o universo, incluídos os seres humanos, en só uns poucos miles de palabras.
 > Tal inclusión e ousadía son imposibles de conseguir na literatura tradicional.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Consello `> [!TIP]`
+
+> [!TIP]
+> Lembra comprobar a validez do teu pasaporte e visado. Os documentos caducados non poden entrar nin saír do país.
+
+Escríbese do seguinte xeito
+
+```
+> [!TIP]
+> your content
+```
+
+### Observación `> [!NOTE]`
+
+> [!NOTE]
+> Se me envías unha mensaxe e contesto ao instante, que significa iso?
+> Isto demostra que me encanta xogar cos teléfonos móbiles.
+
+
+### Aviso `> [!WARN]`
+
+> [!WARN]
+> Cando vai nunha aventura salvaxe, é importante estar seguro.
+> A semana pasada, un grupo de alpinistas atopouse cunha tormenta na metade da montaña e tivo que evacuar porque non comprobaron a previsión meteorolóxica.
+> Lembra que calquera actividade ao aire libre require unha preparación adecuada e atención ao tempo.
 
 ## Lista De Tarefas Pendentes
 

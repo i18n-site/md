@@ -1,14 +1,14 @@
 # Nainstalujte &
 
-## Konfigurační Token
-
-`i18n.site` má vestavěný nástroj pro překlad `i18` [Kliknutím sem zobrazíte dokument `i18` pro konfiguraci přístupového tokenu](/i18/use) .
-
 ## Instalovat
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurační Token
+
+`i18n.site` má vestavěný nástroj pro překlad `i18` [Kliknutím sem zobrazíte dokument `i18` pro konfiguraci přístupového tokenu](/i18/use) .
 
 ## Demo Projekt
 
@@ -64,7 +64,7 @@ Místní náhled se nestará o číslo verze a zkopíruje všechny soubory do ad
 
 Pro oficiální vydání budou změněné soubory zkopírovány do nového adresáře s číslem verze.
 
-#### Pomocí -c Zadejte Konfigurační Soubor
+#### Zadejte Konfigurační Soubor S `-c`
 
 Různé konfigurační soubory vytvoří odpovídající adresáře v adresáři `out` .
 
@@ -92,11 +92,9 @@ Publikování obsahu do [npmjs.com](//npmjs.com) je doporučeným výchozím ře
 
 Nainstalujte `nodejs` , přihlaste se pomocí `npm login` .
 
-Upravte `md/.i18n/htm/ol.yml` a změňte `i18n.site` v `v: //unpkg.com/i18n.site` na svůj vlastní název balíčku `npm` .
+Upravte `md/.i18n/htm/ol.yml` a změňte hodnotu [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) svůj vlastní název balíčku `npm` .
 
-Stačí použít název neobsazeného balíčku na [npmjs.com](//npmjs.com)
-
-Při publikování na základě balíčku `npm` **nezapomeňte použít `//unpkg.com/`** pro hodnotu předpony `v:` Hodnota `i18n.site` speciálně optimalizovala čas mezipaměti `/.v` pod touto cestou předpony, aby bylo dosaženo včasného zobrazení nových vydání.
+Poté upravte `md/.i18n/htm/ol.package.json`
 
 Spusťte `i18n.site --npm` nebo `i18n.site -n` v adresáři `md` pro překlad a publikování.
 

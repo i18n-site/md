@@ -1,14 +1,14 @@
 # Pasang &
 
-## Token Konfigurasi
-
-`i18n.site` duwe alat terjemahan `i18` sing dibangun Mangga [klik ing kene kanggo ngrujuk menyang dokumen `i18` kanggo ngatur token akses](/i18/use) .
-
 ## Instal
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Konfigurasi
+
+`i18n.site` duwe alat terjemahan `i18` sing dibangun Mangga [klik ing kene kanggo ngrujuk menyang dokumen `i18` kanggo ngatur token akses](/i18/use) .
 
 ## Proyek Demo
 
@@ -64,7 +64,7 @@ Pratinjau lokal ora peduli karo nomer versi lan bakal nyalin kabeh file menyang 
 
 Kanggo release resmi, file sing diganti bakal disalin menyang direktori nomer versi anyar.
 
-#### Gunakake -c Kanggo Nemtokake File Konfigurasi
+#### Nemtokake File Konfigurasi Kanthi `-c`
 
 File konfigurasi sing beda bakal nggawe direktori sing cocog ing direktori `out` .
 
@@ -92,11 +92,9 @@ Nerbitake konten menyang [npmjs.com](//npmjs.com) minangka solusi standar sing d
 
 Instal `nodejs` , mlebu nganggo `npm login` .
 
-Sunting `md/.i18n/htm/ol.yml` lan ganti `i18n.site` ing `v: //unpkg.com/i18n.site` dadi `npm` jeneng paket sampeyan dhewe.
+Sunting `md/.i18n/htm/ol.yml` lan ganti nilai [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` minangka jeneng paket `npm` sampeyan bakal [npmjs.com](//npmjs.com) .
 
-Cukup nggunakake jeneng paket sing ora dienggoni ing [npmjs.com](//npmjs.com)
-
-Nalika nerbitake adhedhasar paket `npm` , **priksa manawa nggunakake `//unpkg.com/`** kanggo awalan `v:` nilai `i18n.site` wis ngoptimalake wektu cache `/.v` ing jalur awalan iki kanggo ndeleng rilis anyar kanthi tepat.
+Banjur ngowahi `md/.i18n/htm/ol.package.json`
 
 Jalanake `i18n.site --npm` utawa `i18n.site -n` ing direktori `md` kanggo nerjemahake lan nerbitake.
 

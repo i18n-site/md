@@ -1,14 +1,14 @@
 # Ynstallearje &
 
-## Konfiguraasje Token
-
-`i18n.site` hat in ynboude `i18` oersetark [Klik hjir om te ferwizen nei it `i18` dokumint om it tagongstoken te konfigurearjen](/i18/use) .
-
 ## Ynstallearje
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfiguraasje Token
+
+`i18n.site` hat in ynboude `i18` oersetark [Klik hjir om te ferwizen nei it `i18` dokumint om it tagongstoken te konfigurearjen](/i18/use) .
 
 ## Demo Projekt
 
@@ -64,7 +64,7 @@ Lokale foarbyld makket neat oer it ferzjenûmer en sil alle bestannen kopiearje 
 
 Foar offisjele frijlitting sille feroare bestannen kopiearre wurde nei it nije ferzjenûmermap.
 
-#### Brûk -c Om It Konfiguraasjetriem Op Te Jaan
+#### Spesifisearje Konfiguraasjetriem Mei `-c`
 
 Ferskillende konfiguraasjetriemmen sille oerienkommende mappen meitsje yn 'e `out` -map.
 
@@ -92,11 +92,9 @@ It publisearjen [fan](/i18n.site/feature#ha) ynhâld nei [npmjs.com](//npmjs.com
 
 Ynstallearje `nodejs` , oanmelde mei `npm login` .
 
-Bewurkje `md/.i18n/htm/ol.yml` en feroarje `i18n.site` yn `v: //unpkg.com/i18n.site` yn jo eigen `npm` pakketnamme.
+Bewurkje `md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) feroarje de wearde fan [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` as jo eigen `npm` pakketnamme.
 
-Brûk gewoan de net-besette pakketnamme op [npmjs.com](//npmjs.com)
-
-As jo publisearje basearre op pakket `npm` , wês **wis dat jo `//unpkg.com/` brûke** foar it foarheaksel fan `v:` wearde `i18n.site` hat de cache-tiid fan `/.v` spesjaal optimalisearre ûnder dit foarheakselpaad om yn 'e tiid te besjen fan nije releases.
+Dan feroarje `md/.i18n/htm/ol.package.json`
 
 Run `i18n.site --npm` of `i18n.site -n` yn 'e `md` map om te oersetten en te publisearjen.
 

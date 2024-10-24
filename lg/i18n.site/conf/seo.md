@@ -20,14 +20,18 @@ Fayiro ezitakyukakyuka zisobola okukolebwa mu kitundu, naye enkola esinga okukoz
 Twala fayiro y'okusengeka `.i18n/htm/ol.yml` mu pulojekiti ya demo ng'ekyokulabirako
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Nsaba sooka okyuse omuwendo gwa `host:` waggulu ku linnya lyo erya domain, nga `i18n.site` .

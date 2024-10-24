@@ -1,14 +1,14 @@
 # Asenna &
 
-## Määritystunnus
-
-`i18n.site` sisältää sisäänrakennetun `i18`-käännösohjelman. [Napsauta tästä saadaksesi ohjeet `i18`-käännösohjelman käyttöoikeuden määrittämiseksi](/i18/use) .
-
 ## Asennus
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Määritystunnus
+
+`i18n.site` sisältää sisäänrakennetun `i18`-käännösohjelman. [Napsauta tästä saadaksesi ohjeet `i18`-käännösohjelman käyttöoikeuden määrittämiseksi](/i18/use) .
 
 ## Näyttöprojekti
 
@@ -64,7 +64,7 @@ Paikallinen esikatselu ei huomioi versionumeroa ja kopioi kaikki tiedostot `out/
 
 Virallisessa julkaisussa muutetut tiedostot kopioidaan uuteen versionumerohakemistoon.
 
-#### Määritä asetustiedosto painamalla -c
+#### Käytä `-c`-lippua asetustiedoston määrittämiseen
 
 Eri asetustiedostot luovat vastaavat hakemistot `out`-hakemistoon.
 
@@ -92,11 +92,9 @@ Sisällön julkaiseminen [npmjs.com](//npmjs.com) on suositeltu oletusratkaisu (
 
 Asenna `nodejs` ja kirjaudu sisään käyttäen `npm login`.
 
-Muokkaa `md/.i18n/htm/ol.yml` ja muuta `i18n.site`-arvo `v: //unpkg.com/i18n.site` omaksi `npm`-pakettinimesi.
+Muokkaa `md/.i18n/htm/ol.yml` ja muuta arvoksi [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) omaksi `npm` `YOUR_NPM_PACKAGE` nimeksi [npmjs.com](//npmjs.com)
 
-Käytä vain vapaana olevaa pakettinimeä [npmjs.com](//npmjs.com), ja verkkotunnuksen käyttäminen pakettinimeksi on hyvä valinta.
-
-Kun `/.v` paketin `npm` perusteella, **muista käyttää `//unpkg.com/`** `i18n.site` `v:` eteen.
+Muokkaa sitten tiedostoa `md/.i18n/htm/ol.package.json`
 
 Suorita `i18n.site --npm` tai `i18n.site -n` hakemistossa `md` kääntääksesi ja julkaisemaan.
 

@@ -1,14 +1,14 @@
 # Quraşdırın &
 
-## Konfiqurasiya Nişanı
-
-`i18n.site` [`i18`](/i18/use) daxili `i18` tərcümə aləti var.
-
 ## Quraşdırın
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfiqurasiya Nişanı
+
+`i18n.site` [`i18`](/i18/use) daxili `i18` tərcümə aləti var.
 
 ## Demo Layihə
 
@@ -64,7 +64,7 @@ Yerli baxış versiya nömrəsinə əhəmiyyət vermir və bütün faylları `ou
 
 Rəsmi buraxılış üçün dəyişdirilmiş fayllar yeni versiya nömrəsi kataloquna kopyalanacaq.
 
-#### Konfiqurasiya Faylını Təyin Etmək Üçün -c Istifadə Edin
+#### `-c` Ilə Konfiqurasiya Faylını Göstərin
 
 Müxtəlif konfiqurasiya faylları `out` qovluğunda müvafiq qovluqlar yaradacaq.
 
@@ -92,11 +92,9 @@ Məzmunu dərc [npmjs.com](//npmjs.com) tövsiyə olunan defolt həlldir (bax [:
 
 `nodejs` quraşdırın, `npm login` ilə daxil olun.
 
-`md/.i18n/htm/ol.yml` redaktə edin və `i18n.site` də `v: //unpkg.com/i18n.site` -i öz `npm` paket adınıza dəyişin.
+`md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) edin və [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` öz `npm` paket adınız kimi dəyişdirin.
 
-Sadəcə olaraq boş paket adını istifadə edin [npmjs.com](//npmjs.com)
-
-`npm` paketi əsasında dərc edərkən, yeni `/.v` vaxtında baxılmasına nail olmaq üçün `v:` dəyərinin prefiksi üçün `i18n.site` **`//unpkg.com/` istifadə etdiyinizə əmin** olun.
+Sonra `md/.i18n/htm/ol.package.json` dəyişdirin
 
 Tərcümə etmək və dərc etmək üçün `md` kataloqunda `i18n.site --npm` və ya `i18n.site -n` işə salın.
 

@@ -1,14 +1,14 @@
 # Tāuta &
 
-## Tohu Whirihoranga
-
-`i18n.site` he taputapu whakamaori `i18` kua whakauruhia, [paatohia ki konei kia tirohia te tuhinga `i18` hei whirihora i te tohu uru](/i18/use) .
-
 ## Tāuta
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Tohu Whirihoranga
+
+`i18n.site` he taputapu whakamaori `i18` kua whakauruhia, [paatohia ki konei kia tirohia te tuhinga `i18` hei whirihora i te tohu uru](/i18/use) .
 
 ## Kaupapa Demo
 
@@ -64,7 +64,7 @@ Karekau te arokitenga a-rohe e aro ki te nama putanga ka kape i nga konae katoa 
 
 Mo te tuku mana, ka kapehia nga konae kua whakarereke ki te raarangi nama putanga hou.
 
-#### Whakamahia Te -c Hei Tohu I Te Konae Whirihoranga
+#### Tauwhāitihia Te Konae Whirihoranga Me Te `-c`
 
 Ko nga konae whirihoranga rereke ka waihanga i nga raarangi rite ki te raarangi `out` .
 
@@ -92,11 +92,9 @@ Ko te whakaputa [i](/i18n.site/feature#ha) nga ihirangi ki te [npmjs.com](//npmj
 
 Tāutahia `nodejs` , takiuru me `npm login` .
 
-Whakatikahia `md/.i18n/htm/ol.yml` ka huri i `i18n.site` i roto i `v: //unpkg.com/i18n.site` ki to ake ingoa mokihi `npm` .
+Whakatikahia `md/.i18n/htm/ol.yml` ka huri i te uara o [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` hei ingoa moopaki `npm` ka [npmjs.com](//npmjs.com) .
 
-Me whakamahi noa i te ingoa o te kete kaore i nohoia i runga [npmjs.com](//npmjs.com)
-
-I te wa e whakaputa ana i runga i te kete `npm` , **me whakamahi `//unpkg.com/`** mo te `v:` uara kua tino arotauhia `i18n.site` te wa keteroki o `/.v` i raro i tenei ara prefix kia tika ai te tiro i nga putanga hou.
+Na ka whakarereke i `md/.i18n/htm/ol.package.json`
 
 Whakahaerehia `i18n.site --npm` , `i18n.site -n` ranei ki te raarangi `md` hei whakamaori me te whakaputa.
 

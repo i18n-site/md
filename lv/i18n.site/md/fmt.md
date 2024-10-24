@@ -1,4 +1,4 @@
-# MarkDown Formāta Konvencija
+# i18n.site MarkDown Rakstīšanas Konvencija
 
 ## Enkura Punkts
 
@@ -34,3 +34,10 @@ Varat atsaukties uz ieviešanu [github.com/i18n-site/md/en/README.md](https://ra
 ```
 
 Ņemiet vērā, ka `<style>` ir definēts arī `<pre>` iepriekš.
+
+
+## Attēli/Videoklipi/Saites Vairākās Valodās
+
+Pēc tam, kad `MarkDown` ir pārveidots par `HTML` , `$LANG` atribūtos `src` un `href` tiks aizstāts ar pašreizējo [valodas kodu](/i18/LANG_CODE) .
+
+Izmantojot šo mainīgo, varat panākt attēlu/video/saišu daudzvalodību.

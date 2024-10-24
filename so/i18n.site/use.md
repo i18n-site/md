@@ -1,14 +1,14 @@
 # Ku Rakib &
 
-## Calaamadaha Qaabaynta
-
-`i18n.site` waxa uu leeyahay `i18` qalab turjumaad oo ku [`i18`](/i18/use) jira
-
 ## Ku Rakib
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Calaamadaha Qaabaynta
+
+`i18n.site` waxa uu leeyahay `i18` qalab turjumaad oo ku [`i18`](/i18/use) jira
 
 ## Mashruuca Demo
 
@@ -64,7 +64,7 @@ Horudhac maxalli ah kama daneeyo nambarka nooca oo wuxuu koobiyeeynayaa dhammaan
 
 Siideynta rasmiga ah, faylasha la bedelay waxaa lagu koobiyeynayaa tusaha lambarka nooca cusub.
 
-#### Isticmaal -c Si Aad U Qeexdo Faylka Qaabeynta
+#### Ku Qeex Faylka Qaabeynta Ee Leh `-c`
 
 Faylasha qaabeynta ee kala duwan ayaa ku abuuri doona hagayaal u dhigma tusaha `out` .
 
@@ -92,11 +92,9 @@ Daabacaada [nuxurka](/i18n.site/feature#ha) [npmjs.com](//npmjs.com)
 
 Ku rakib `nodejs` , gal `npm login` .
 
-Tafatir `md/.i18n/htm/ol.yml` oo u beddel `i18n.site` ee `v: //unpkg.com/i18n.site` magacaaga baakidhka `npm` .
+Wax ka beddel `md/.i18n/htm/ol.yml` oo u beddel qiimaha [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` beddel magacaaga baakad kasta oo aan `npm` ku [npmjs.com](//npmjs.com) .
 
-Kaliya isticmaal magaca xirmada ee aan ku jirin [npmjs.com](//npmjs.com)
-
-Markaad daabacayso ku salaysan xirmo `npm` , **hubi inaad isticmaasho `//unpkg.com/`** horgalaha `v:` qiimaha `i18n.site` ayaa si gaar ah u hagaajiyay wakhtiga kaydinta ee `/.v` ee hoos yimaada dariiqa horgalaha si loo gaaro daawashada waqtigeeda ee sii deynta.
+Kadibna wax ka beddel `md/.i18n/htm/ol.package.json`
 
 Ku socodsii `i18n.site --npm` ama `i18n.site -n` tusaha `md` si aad u turjunto oo u daabacdo.
 

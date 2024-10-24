@@ -20,14 +20,18 @@ Arquivos estáticos podem ser gerados localmente, mas é mais comum carregá-los
 Como exemplo, vamos considerar o arquivo de configuração `.i18n/htm/ol.yml` do projeto de demonstração
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Modifique primeiramente o valor de `host:` para o seu domínio, por exemplo, `i18n.site`.

@@ -20,14 +20,18 @@ Pelên statîkî dikarin herêmî bêne çêkirin, lê nêzîkatiyek hevpar ev e
 Di projeya demo de pelê mîhengê `.i18n/htm/ol.yml` wekî mînakek bigirin
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Ji kerema xwe pêşî nirxa `host:` ya jorîn li ser navê domaina xwe biguherînin, wek `i18n.site` .

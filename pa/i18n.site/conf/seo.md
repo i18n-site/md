@@ -20,14 +20,18 @@
 ਇੱਕ ਉਦਾਹਰਣ ਦੇ ਤੌਰ 'ਤੇ ਡੈਮੋ ਪ੍ਰੋਜੈਕਟ ਵਿੱਚ `.i18n/htm/ol.yml` ਸੰਰਚਨਾ ਫਾਈਲ ਨੂੰ ਲਓ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਆਪਣੇ ਡੋਮੇਨ ਨਾਮ ਦੇ ਉੱਪਰ `host:` ਦੇ ਮੁੱਲ ਨੂੰ ਸੋਧੋ, ਜਿਵੇਂ ਕਿ `i18n.site` ।

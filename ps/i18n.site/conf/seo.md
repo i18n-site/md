@@ -20,14 +20,18 @@
 د مثال په توګه په ډیمو پروژه کې د `.i18n/htm/ol.yml` تشکیلاتو فایل واخلئ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 مهرباني وکړئ لومړی د خپل ډومین نوم ته د پورته `host:` ارزښت بدل کړئ، لکه `i18n.site` .

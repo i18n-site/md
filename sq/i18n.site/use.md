@@ -1,14 +1,14 @@
 # Instaloni &
 
-## Shenja E Konfigurimit
-
-`i18n.site` ka një mjet përkthimi të integruar `i18` Ju lutemi [, klikoni këtu për t'iu referuar dokumentit `i18` për të konfiguruar kodin e hyrjes](/i18/use) .
-
 ## Instaloni
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Shenja E Konfigurimit
+
+`i18n.site` ka një mjet përkthimi të integruar `i18` Ju lutemi [, klikoni këtu për t'iu referuar dokumentit `i18` për të konfiguruar kodin e hyrjes](/i18/use) .
 
 ## Projekt Demo
 
@@ -64,7 +64,7 @@ Vështrimi paraprak lokal nuk kujdeset për numrin e versionit dhe do të kopjoj
 
 Për lëshimin zyrtar, skedarët e ndryshuar do të kopjohen në drejtorinë e re të numrave të versionit.
 
-#### Përdorni -c Për Të Specifikuar Skedarin E Konfigurimit
+#### Specifikoni Skedarin E Konfigurimit Me `-c`
 
 Skedarët e ndryshëm të konfigurimit do të krijojnë drejtoritë përkatëse në drejtorinë `out` .
 
@@ -92,11 +92,9 @@ Publikimi i [përmbajtjes](/i18n.site/feature#ha) në [npmjs.com](//npmjs.com)
 
 Instaloni `nodejs` , hyni me `npm login` .
 
-Ndryshoni `md/.i18n/htm/ol.yml` dhe ndryshoni `i18n.site` në `v: //unpkg.com/i18n.site` në emrin tuaj të paketës `npm` .
+Ndryshoni `md/.i18n/htm/ol.yml` dhe ndryshoni vlerën e [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) emrin tuaj të paketës `npm` .
 
-Thjesht përdorni emrin e paketës së pabanuar në [npmjs.com](//npmjs.com)
-
-Kur publikoni bazuar në paketën `npm` , **sigurohuni që të përdorni `//unpkg.com/`** për prefiksin e `v:` vlerës `i18n.site` ka optimizuar posaçërisht kohën e cache-it të `/.v` nën këtë shteg prefiksi për të arritur shikimin në kohë të publikimeve të reja.
+Pastaj modifikoni `md/.i18n/htm/ol.package.json`
 
 Ekzekutoni `i18n.site --npm` ose `i18n.site -n` në drejtorinë `md` për ta përkthyer dhe publikuar.
 

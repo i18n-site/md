@@ -1,14 +1,14 @@
 # Suiteáil &
 
-## Comhartha Cumraíochta
-
-Tá uirlis aistriúcháin ionsuite `i18` ag `i18n.site` [Cliceáil anseo le do thoil chun tagairt a dhéanamh don doiciméad `i18` chun an comhartha rochtana a chumrú](/i18/use) .
-
 ## Suiteáil
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Comhartha Cumraíochta
+
+Tá uirlis aistriúcháin ionsuite `i18` ag `i18n.site` [Cliceáil anseo le do thoil chun tagairt a dhéanamh don doiciméad `i18` chun an comhartha rochtana a chumrú](/i18/use) .
 
 ## Tionscadal Taispeána
 
@@ -64,7 +64,7 @@ Is cuma le réamhamharc áitiúil faoin uimhir leagain agus déanfaidh sé gach 
 
 Le haghaidh eisiúint oifigiúil, déanfar comhaid athraithe a chóipeáil chuig an eolaire uimhreacha leagan nua.
 
-#### Úsáid -c Chun an Comhad Cumraíochta a Shonrú
+#### Sonraigh an Comhad Cumraíochta Le `-c`
 
 Cruthóidh comhaid chumraíochta éagsúla eolairí comhfhreagracha san eolaire `out` .
 
@@ -92,11 +92,9 @@ Is é an réiteach réamhshocraithe [npmjs.com](//npmjs.com) ábhar a fhoilsiú 
 
 Suiteáil `nodejs` , logáil isteach le `npm login` .
 
-Cuir `md/.i18n/htm/ol.yml` in eagar agus athraigh `i18n.site` in `v: //unpkg.com/i18n.site` chuig d’ainm `npm` phacáiste féin.
+Cuir `md/.i18n/htm/ol.yml` in eagar agus athraigh luach [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` [npmjs.com](//npmjs.com) ainm do `npm` phacáiste féin.
 
-Úsáid an t-ainm pacáiste neamháitithe ar [npmjs.com](//npmjs.com)
-
-Agus tú ag foilsiú bunaithe ar phacáiste `npm` , bí **cinnte go n-úsáidfidh tú `//unpkg.com/`** don `/.v` de `v:` luach `i18n.site`
+Ansin modhnaigh `md/.i18n/htm/ol.package.json`
 
 Rith `i18n.site --npm` nó `i18n.site -n` san eolaire `md` chun aistriú agus foilsiú.
 

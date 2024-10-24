@@ -1,5 +1,21 @@
 # Stíluslista
 
+[Kattintson ide az oldal forrásfájljának böngészéséhez,](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) hogy megtudja, hogyan írhat `MarkDown` a következő stílusokban.
+
+## & &
+
+__ az aláhúzás __ ,~~ áthúzott~~ és **félkövér** prezentációs szöveg.
+
+A következőképpen írják:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+A `i18n.site` webhelyépítő eszköz `MarkDown` elemzője optimalizálta az aláhúzást, az áthúzást és a félkövér betűtípust. A jelölés előtt és után szóközök nélkül is érvénybe léphet, így könnyebben írhat dokumentumokat olyan nyelveken, mint például Kína, Japán és Korea. amelyek nem használnak szóközt elválasztóként.
+
+: olvasás [Miért nem érvényesül néha a Nuggets Markdown szintaxisa ( `**……**` )?](//juejin.cn/post/7064565848421171213)
+
 ## Idézet
 
 ### Egysoros Idézet
@@ -14,6 +30,32 @@
 > Az olyan sci-fi regények pedig, mint Asimov „A végső válasz”, élénken írják le néhány ezer szóban az egész univerzum több milliárd éves történetét, beleértve az embereket is.
 > Ilyen befogadás és merészség a hagyományos irodalomban lehetetlen.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Tipp `> [!TIP]`
+
+> [!TIP]
+> Ne felejtse el ellenőrizni útlevele és vízuma érvényességét.
+
+A következőképpen van megírva
+
+```
+> [!TIP]
+> your content
+```
+
+### Megjegyzés `> [!NOTE]`
+
+> [!NOTE]
+> Ha küld egy üzenetet, és azonnal válaszolok, mit jelent az?
+> Ez azt mutatja, hogy nagyon szeretek mobiltelefonnal játszani.
+
+
+### Figyelmeztetés `> [!WARN]`
+
+> [!WARN]
+> Ha vad kalandra indul, fontos, hogy biztonságban legyünk.
+> Múlt héten hegymászók egy csoportja viharba ütközött a hegy felénél, és evakuálniuk kellett, mert nem ellenőrizték az időjárás-előrejelzést.
+> Ne feledje, minden szabadtéri tevékenység megfelelő felkészülést és az időjárásra való odafigyelést igényel.
 
 ## Teendők Listája
 

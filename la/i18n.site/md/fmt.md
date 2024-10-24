@@ -1,4 +1,4 @@
-# MarkDown Forma Conventione
+# i18n.site MarkDown Conventionem Scribo
 
 ## Ancora Punctum
 
@@ -34,3 +34,10 @@ Exsecutionem in [github.com/i18n-site/md/en/README.md](https://raw.githubusercon
 ```
 
 Nota quod `<style>` etiam in supra `<pre>` definitur.
+
+
+## Imagines/Videos/Nexiones in Multiplicibus Linguis
+
+Post `MarkDown` convertatur ad `HTML` , `$LANG` in attributis `src` et `href` in [codice linguae](/i18/LANG_CODE) currenti restituetur.
+
+Cum hoc variabili, multilingualizationem picturarum/videorum/nexuum consequi potes.

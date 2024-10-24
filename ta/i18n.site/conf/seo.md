@@ -20,14 +20,18 @@
 டெமோ திட்டத்தில் உள்ள `.i18n/htm/ol.yml` உள்ளமைவு கோப்பை உதாரணமாக எடுத்துக் கொள்ளுங்கள்
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 மேலே உள்ள `host:` இன் மதிப்பை முதலில் உங்கள் டொமைன் பெயருக்கு மாற்றவும், எடுத்துக்காட்டாக `i18n.site` .

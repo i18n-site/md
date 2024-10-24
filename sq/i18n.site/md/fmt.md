@@ -1,4 +1,4 @@
-# Konventa E Formatit MarkDown
+# Konventa E Shkrimit i18n.site MarkDown
 
 ## Pikë Ankorimi
 
@@ -34,3 +34,10 @@ Mund t'i referoheni zbatimit në [github.com/i18n-site/md/en/README.md](https://
 ```
 
 Vini re se `<style>` është përcaktuar edhe në `<pre>` më sipër.
+
+
+## Foto/Video/Lidhje Në Shumë Gjuhë
+
+Pasi `MarkDown` të konvertohet në `HTML` , `$LANG` në atributet `src` dhe `href` do të zëvendësohet me [kodin aktual të gjuhës](/i18/LANG_CODE) .
+
+Me këtë variabël, ju mund të arrini shumëgjuhësinë e fotografive/videove/lidhjeve.

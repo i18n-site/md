@@ -1,5 +1,21 @@
 # Tyylilista
 
+[Napsauta tätä selaaksesi tämän sivun lähdetiedostoa](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) nähdäksesi, miten `MarkDown`-muotoilu näyttää.
+
+## & &
+
+Tämä on __alleviivaus__, ~~poistettu teksti~~ ja **lihavoitu** esimerkkitexti.
+
+Kirjoitusasu on seuraava:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+`i18n.site`-sivuston rakennustyökalun `Markdown`-parseri on optimoinut alleviivauksen, yliviivauksen ja lihavoitun syntaksin. Nyt merkinnät toimivat ilman välilyöntejä niiden ympärillä, mikä tekee asiakirjojen kirjoittamisesta helpompaa kielille, kuten kiinalle, japanille ja korealle, jotka eivät käytä välilyöntejä erottimina.
+
+Laajennettu lukeminen: [Miksi MarkDownin lihavoidun tekstin syntaksi (`**…**`) ei aina toimi?](//juejin.cn/post/7064565848421171213)
+
 ## Lainaus
 
 ### Yksirivinen lainaus
@@ -14,6 +30,32 @@
 > Kuitenkin tieteiskirjallisuus, kuten Asimovin "The Last Answer", kuvailee elävästi koko universumin, mukaan ihmiskunnan, miljardien vuosien historiaa vain muutamilla tuhansilla sanoin.
 > Tällainen sisältö ja rohkeus on perinteiselle kirjallisuudelle mahdotonta saavuttaa.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Vinkki `> [!TIP]`
+
+> [!TIP]
+> Muista tarkistaa passin ja viisumin voimassaoloaika. Vanhentuneilla asiakirjoilla ei ole pääsyä maahan tai ulos maasta.
+
+Teksti on muotoiltu seuraavasti
+
+```
+> [!TIP]
+> your content
+```
+
+### Huomio `> [!NOTE]`
+
+> [!NOTE]
+> Jos vastaan viesteesi välittömästi, mitä se kertoo?
+> Tämä tarkoittaa, että todella rakastan puhelimen käyttöä.
+
+
+### Varoitus `> [!WARN]`
+
+> [!WARN]
+> Kun suunnate wildin seikkailuun, varmista aina oma turvallisuutesi.
+> Viime viikolla eräs kiipeilyryhmä kohtasi myrskyn vuorten rinteillä, koska he eivät tarkistaneet sääennustetta, ja heidän oli pakko evakuoitua kiireellisesti.
+> Muista, että kaikki ulkoilutoiminnot vaativat riittävää valmistelua ja sään tarkkaa seuraamista.
 
 ## Tehtäväluettelo
 

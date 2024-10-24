@@ -1,4 +1,4 @@
-# Convenția De Format MarkDown
+# Convenția De Scriere i18n.site MarkDown
 
 ## Punct De Ancorare
 
@@ -34,3 +34,10 @@ Vă puteți referi la implementarea în [github.com/i18n-site/md/en/README.md](h
 ```
 
 Rețineți că `<style>` este definit și în `<pre>` de mai sus.
+
+
+## Imagini/Videoclipuri/Linkuri În Mai Multe Limbi
+
+După ce `MarkDown` este convertit la `HTML` , `$LANG` din atributele `src` și `href` va fi înlocuit cu [codul de limbă](/i18/LANG_CODE) curent.
+
+Cu această variabilă, puteți realiza multilingvizarea imaginilor/videoclipurilor/linkurilor.

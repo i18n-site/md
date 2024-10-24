@@ -1,14 +1,14 @@
 # Saz Bikin &
 
-## Nîşana Veavakirinê
-
-`i18n.site` amûrek wergerandinê ya `i18` heye [`i18`](/i18/use)
-
 ## Lêkirin
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Nîşana Veavakirinê
+
+`i18n.site` amûrek wergerandinê ya `i18` heye [`i18`](/i18/use)
 
 ## Projeya Demo
 
@@ -64,7 +64,7 @@ Pêşniyara herêmî bala xwe nade jimareya guhertoyê û dê hemî pelan li pel
 
 Ji bo serbestberdana fermî, pelên guherî dê li pelrêça jimareya nû ya guhertoyê werin kopî kirin.
 
-#### -c Bikar Bînin Da Ku Pelê Veavakirinê Diyar Bikin
+#### Pelê Veavakirinê Bi `-c` Diyar Bike
 
 Pelên veavakirinê yên cihêreng dê di pelrêça `out` de pelrêçên têkildar biafirînin.
 
@@ -92,11 +92,9 @@ Weşandina naverokê [ji](/i18n.site/feature#ha) bo [npmjs.com](//npmjs.com)
 
 `nodejs` saz bikin, bi `npm login` re têkevinê.
 
-`md/.i18n/htm/ol.yml` biguherînin û `i18n.site` di `v: //unpkg.com/i18n.site` de bi navê pakêta xweya `npm` biguherînin.
+`md/.i18n/htm/ol.yml` biguherînin û nirxa [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` biguherînin [npmjs.com](//npmjs.com) navê pakêta xweya `npm` .
 
-Tenê navê pakêtê ya negirtî li ser bikar bînin [npmjs.com](//npmjs.com)
-
-Dema ku li ser bingeha pakêtê `npm` diweşînin, **bê guman `//unpkg.com/`** ji bo pêşgira `v:` -ê `i18n.site` bi taybetî dema cache-ya `/.v` di binê vê rêça pêşgiriyê de xweştir kiriye da ku bigihîje temaşekirina biwext a weşanên nû.
+Piştre `md/.i18n/htm/ol.package.json` biguherînin
 
 Di pelrêça `md` de `i18n.site --npm` an `i18n.site -n` bimeşînin ku wergerînin û çap bikin.
 

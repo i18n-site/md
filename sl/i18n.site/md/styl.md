@@ -1,5 +1,21 @@
 # Seznam Stilov
 
+[Kliknite tukaj, če želite prebrskati izvorno datoteko te strani](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) in videti, kako napisati `MarkDown` v naslednjih slogih.
+
+## Podčrtaj & Prečrtano &
+
+To je __ Podčrtaj __ ,~~ prečrtano~~ in **krepko** predstavitveno besedilo.
+
+Zapisano je takole:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Razčlenjevalnik `MarkDown` orodja za izdelavo spletnega `i18n.site` je optimiziral podčrtano, prečrtano in krepko sintakso. Lahko začne veljati brez presledkov pred in za oznako, kar olajša pisanje dokumentov v jezikih, kot so Kitajska, Japonska in Koreja. ki ne uporabljajo presledkov kot ločila.
+
+Razširjeno branje : [Zakaj Nuggetsova Markdown sintaksa ( `**……**` ) včasih ne deluje?](//juejin.cn/post/7064565848421171213)
+
 ## Citat
 
 ### Enovrstični Citat
@@ -14,6 +30,32 @@
 > In znanstvenofantastični romani, kot je Asimovljev »Končni odgovor«, živo opisujejo milijarde let zgodovine celotnega vesolja, vključno s človeškimi bitji, v samo nekaj tisoč besedah.
 > Takšne vključenosti in drznosti je v tradicionalni literaturi nemogoče doseči.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Nasvet `> [!TIP]`
+
+> [!TIP]
+> Ne pozabite preveriti veljavnosti svojega potnega lista in vizuma, ki vam je potekel, ne morete vstopiti ali izstopiti iz države.
+
+Zapisano je takole
+
+```
+> [!TIP]
+> your content
+```
+
+### Opomba `> [!NOTE]`
+
+> [!NOTE]
+> Če mi pošljete sporočilo in odgovorim takoj, kaj to pomeni?
+> To dokazuje, da se zelo rad igram z mobilnimi telefoni.
+
+
+### Opozorilo `> [!WARN]`
+
+> [!WARN]
+> Ko se odpravljate na divjo pustolovščino, je pomembno, da ostanete varni.
+> Prejšnji teden je skupina plezalcev naletela na neurje na polovici gore in se je morala evakuirati, ker niso preverili vremenske napovedi.
+> Ne pozabite, vsaka aktivnost na prostem zahteva ustrezno pripravo in pozornost na vreme.
 
 ## Seznam Opravil
 

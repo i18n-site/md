@@ -1,4 +1,4 @@
-# Kongamano La Umbizo La MarkDown
+# i18n.site MarkDown Kuandika Mkataba
 
 ## Uhakika Wa Nanga
 
@@ -34,3 +34,10 @@ Unaweza kurejelea utekelezaji katika [github.com/i18n-site/md/en/README.md](http
 ```
 
 Kumbuka kuwa `<style>` pia imefafanuliwa katika `<pre>` hapo juu.
+
+
+## Picha/Video/Viungo Katika Lugha Nyingi
+
+Baada ya `MarkDown` kubadilishwa hadi `HTML` , `$LANG` katika sifa `src` na `href` itabadilishwa na [msimbo wa sasa wa lugha](/i18/LANG_CODE) .
+
+Kwa utofauti huu, unaweza kufikia wingi wa lugha za picha/video/viungo.

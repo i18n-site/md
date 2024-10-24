@@ -1,4 +1,4 @@
-# Konvenzjoni Tal-Format MarkDown
+# i18n.site Konvenzjoni Tal-Kitba MarkDown
 
 ## Punt Tal-Ankra
 
@@ -34,3 +34,10 @@ Tista' tirreferi għall-implimentazzjoni f' [github.com/i18n-site/md/en/README.m
 ```
 
 Innota li `<style>` huwa definit ukoll `<pre>` hawn fuq.
+
+
+## Stampi/Vidjows/Links F'diversi Lingwi
+
+Wara li `MarkDown` jiġi kkonvertit għal `HTML` , `$LANG` fl-attributi `src` u `href` jiġu sostitwiti bil- [kodiċi tal-lingwa](/i18/LANG_CODE) attwali.
+
+B'din il-varjabbli, tista 'tikseb multilingwizzazzjoni ta' stampi/vidjows/links.

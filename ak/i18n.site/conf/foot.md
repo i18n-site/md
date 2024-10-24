@@ -29,9 +29,20 @@ Yɛsrɛ wo yɛ w'ankasa icon font sɛnea ɛho hia na fa nhyehyɛe a edidi so yi 
 ```
 @font-face {
   font-family: "F";
-  src: url("//at.alicdn.com/t/c/font_4281991_urfar2m2zce.woff2?t=1716188208767") format("woff2");
+  src: url(//p.3ti.site/ico1.woff2) format("woff2");
+}
+
+#Ft>b>a.site {
+  background: url("//p.3ti.site/i18n.svg") 0 0 / cover;
+  display: block;
+  height: 24px;
+  opacity: 0.8;
+  width: 115px;
+  flex-shrink: 0;
 }
 ```
+
+Yɛsrɛ wo, ntwe adwene si iconfont.cn font fael no so tẽẽ efisɛ wontumi mfa nkɔ safari browser no so.
 
 ## Wɛbsaet No Afã Horow
 

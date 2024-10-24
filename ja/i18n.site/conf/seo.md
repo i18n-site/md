@@ -20,14 +20,18 @@
 デモプロジェクトの`.i18n/htm/ol.yml`設定ファイルを例としてご紹介します
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 まず、上記の`host:`の値をあなたのドメイン名に変更してください。例えば、`i18n.site`などです。

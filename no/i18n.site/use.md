@@ -1,14 +1,14 @@
 # Installer & Distribusjon
 
-## Konfigurasjonstoken
-
-`i18n.site` inneholder et innebygd `i18` oversettelsesverktøy. Vennligst [klikk her for å referere til `i18`-dokumentet for å konfigurere tilgangstoken](/i18/use).
-
 ## Installasjon
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfigurasjonstoken
+
+`i18n.site` inneholder et innebygd `i18` oversettelsesverktøy. Vennligst [klikk her for å referere til `i18`-dokumentet for å konfigurere tilgangstoken](/i18/use).
 
 ## Demoprosjekt
 
@@ -64,7 +64,7 @@ Lokal forhåndsvisning bryr seg ikke om versjonsnummeret og vil kopiere alle fil
 
 For offisiell utgivelse vil endrede filer bli kopiert til den nye versjonsnummerkatalogen.
 
-#### Bruk -c for å spesifisere konfigurasjonsfilen
+#### Bruk `-c` for å spesifisere konfigurasjonsfilen
 
 Ulike konfigurasjonsfiler vil opprette tilsvarende kataloger i `out` katalogen.
 
@@ -92,11 +92,9 @@ Publisering av innhold til [npmjs.com](//npmjs.com) er den anbefalte standardlø
 
 Installer `nodejs`, logg på med `npm login`.
 
-Rediger `md/.i18n/htm/ol.yml` og endre `i18n.site` i `v: //unpkg.com/i18n.site` til ditt eget `npm` pakkenavn.
+Rediger `md/.i18n/htm/ol.yml`, og endre verdien av [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` til ditt eget `npm`-pakkenavn på [npmjs.com](//npmjs.com).
 
-Bruk bare det ledige pakkenavnet på [npmjs.com](//npmjs.com). Bruk av nettstedets domene som pakkenavn er et godt valg.
-
-Når du publiserer basert på pakke `npm`, **pass på å bruke `//unpkg.com/`** for prefikset `v:` fordi `i18n.site` har spesielt optimalisert hurtigbuffertiden for `/.v` under denne prefiksbanen for å oppnå rettidig visning av nye utgivelser.
+Deretter må du endre `md/.i18n/htm/ol.package.json`
 
 Kjør `i18n.site --npm` eller `i18n.site -n` i `md` katalogen for å oversette og publisere.
 

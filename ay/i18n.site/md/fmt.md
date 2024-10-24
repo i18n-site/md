@@ -1,4 +1,4 @@
-# MarkDown Formato Ukax Mä Jach’a Tantachäwiwa
+# i18n.site MarkDown Qillqañ Jach’a Tantachäwi
 
 ## Ancla Ukax Mä Punto Ukhamawa
 
@@ -34,3 +34,10 @@ Aka pä puntonak mayachthapisaxa, jasakiwa `HTML` `MarkDown` qillqt’aña kunay
 ```
 
 Qhanacht’añatakix `<style>` ukax `<pre>` patat uñt’ayatarakiwa.
+
+
+## Walja Arunakan Jamuqanak/Video/Enlaces Ukanaka
+
+`MarkDown` `HTML` ukar jaqukipatatxa, `$LANG` atributos `src` ukat `href` ukanx jichha [aru chimpumpiw](/i18/LANG_CODE) turkatarakini.
+
+Aka variable ukampixa, jamuqanak/videos/enlaces ukanakan walja arunak uñt’ayañax wakisispawa.

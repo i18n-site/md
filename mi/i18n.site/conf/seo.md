@@ -20,14 +20,18 @@ Ka taea te hanga i nga konae pateko ki te rohe, engari ko te huarahi noa ake ko 
 Tangohia te kōnae whirihoranga `.i18n/htm/ol.yml` i roto i te kaupapa demo hei tauira
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Tena koa whakarereke i te uara o te `host:` i runga ake nei ki to ingoa rohe, penei i te `i18n.site` .

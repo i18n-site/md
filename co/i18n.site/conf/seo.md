@@ -20,14 +20,18 @@ I fugliali statichi ponu esse generati in u locu, ma un approcciu più cumuni h�
 Pigliate u schedariu di cunfigurazione `.i18n/htm/ol.yml` in u prughjettu demo per esempiu
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Per piacè prima mudificà u valore di `host:` sopra à u vostru nome di duminiu, cum'è `i18n.site` .

@@ -20,14 +20,18 @@ Senmovaj dosieroj povas esti generitaj loke, sed pli ofta aliro estas alŝuti il
 Prenu la agordan dosieron `.i18n/htm/ol.yml` en la demo-projekto kiel ekzemplon
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Bonvolu unue modifi la valoron de `host:` supre al via domajna nomo, kiel `i18n.site` .

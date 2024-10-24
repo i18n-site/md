@@ -1,4 +1,4 @@
-# Olukungaana Lwa MarkDown Format
+# i18n.site Olukungaana Lw'okuwandiika MarkDown
 
 ## Ekifo We Basimba Ennanga
 
@@ -34,3 +34,10 @@ Osobola okujuliza okussa mu nkola mu [github.com/i18n-site/md/en/README.md](http
 ```
 
 Weetegereze nti `<style>` nayo etegeezeddwa mu `<pre>` waggulu.
+
+
+## Ebifaananyi/Vidiyo/Enkolagana Mu Nnimi Eziwera
+
+Oluvannyuma lwa `MarkDown` okukyusibwa okudda mu `HTML` , `$LANG` mu bifaananyi `src` ne `href` ejja kukyusibwamu [koodi y'olulimi](/i18/LANG_CODE) eriwo kati .
+
+Nga olina enkyukakyuka eno, osobola okutuuka ku nnimi nnyingi ez’ebifaananyi/vidiyo/enkolagana.

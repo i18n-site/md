@@ -1,4 +1,4 @@
-# Konvansyon Fòma MarkDown
+# i18n.site MarkDown Konvansyon Ekri
 
 ## Pwen Jete Lank
 
@@ -34,3 +34,10 @@ Ou ka refere a aplikasyon an nan [github.com/i18n-site/md/en/README.md](https://
 ```
 
 Remake byen ke `<style>` defini tou nan `<pre>` pi wo a.
+
+
+## Foto/Videyo/Lyen Nan Plizyè Lang
+
+Apre `MarkDown` konvèti an `HTML` , `$LANG` nan atribi `src` ak `href` yo pral ranplase ak [kòd lang](/i18/LANG_CODE) aktyèl la.
+
+Avèk varyab sa a, ou ka reyalize miltilingualizasyon foto / videyo / lyen.

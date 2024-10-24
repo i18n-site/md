@@ -20,14 +20,18 @@
 Демо төслийн `.i18n/htm/ol.yml` тохиргооны файлыг жишээ болгон авч үзье
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Эхлээд дээрх `host:` -ийн утгыг `i18n.site` гэх мэт домэйн нэрэндээ өөрчилнө үү.

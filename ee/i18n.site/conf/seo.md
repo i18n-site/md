@@ -20,14 +20,18 @@ Woateŋu awɔ faɛl siwo meʋãna o le teƒea, gake mɔnu si bɔ wue nye be woat
 Tsɔ `.i18n/htm/ol.yml` ƒe ɖoɖowɔɖi faɛl si le wɔwɔfia dɔa me abe kpɔɖeŋu ene
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Taflatse trɔ asi le `host:` ƒe asixɔxɔ si le etame ŋu gbã wòazu wò domenyiŋusẽfianu ŋkɔ, abe `i18n.site` ene.

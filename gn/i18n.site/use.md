@@ -1,14 +1,14 @@
 # Emoĩ &
 
-## Token Configuración Rehegua
-
-`i18n.site` oguereko peteĩ tembipuru’i ñembohasarã `i18` incorporado [Emboguejy ko’ápe ehecha hag̃ua kuatia `i18` emohenda hag̃ua token jeikerã](/i18/use) .
-
 ## Mboguejy Mohendahápe
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token Configuración Rehegua
+
+`i18n.site` oguereko peteĩ tembipuru’i ñembohasarã `i18` incorporado [Emboguejy ko’ápe ehecha hag̃ua kuatia `i18` emohenda hag̃ua token jeikerã](/i18/use) .
 
 ## Proyecto Demostración Rehegua
 
@@ -64,7 +64,7 @@ Pe jehechaukaha tendápegua ndojepy’apýi pe versión papapy rehe ha okopia op
 
 Ojekuaauka hag̃ua oficialmente, umi archivo oñemoambuéva ojekopíta versión número pyahúpe.
 
-#### Eipuru -c Emombe’u Hag̃ua Vore Ñembohekorã
+#### Emombe’u Vore Ñembohekorã `-c` Ndive
 
 Umi archivo configuración rehegua iñambuéva omoheñóita directorio ojoajúva `out` directorio-pe.
 
@@ -92,11 +92,9 @@ Oñemoherakuãvo contenido [npmjs.com](//npmjs.com) -pe haꞌehína solución po
 
 Emoĩ `nodejs` , eike `npm login` reheve .
 
-Emohenda `md/.i18n/htm/ol.yml` ha emoambue `i18n.site` `v: //unpkg.com/i18n.site` -pe nde `npm` paquete rérape.
+Emohenda `md/.i18n/htm/ol.yml` ha emoambue [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` nde `npm` paquete réraicha Oimeraẽva paquete réra ndojeguerekóiva [npmjs.com](//npmjs.com)
 
-Eipurunte pe paquete réra ndojepytasóiva en [npmjs.com](//npmjs.com)
-
-Oñemoherakuã jave oñemopyendáva paquete `npm` rehe, **eñangareko eipuru hag̃ua `//unpkg.com/`** ñepyrũrã `v:` valor rehegua `i18n.site` omohenda porãma especialmente tiempo caché `/.v` rehegua ko ñepyrũrã rape guýpe ojehupyty hag̃ua oportunamente umi ñeguenohẽ pyahu.
+Upéi ñamoambue `md/.i18n/htm/ol.package.json`
 
 Emongu’e `i18n.site --npm` térã `i18n.site -n` `md` ryru’ípe embohasa ha emoherakuã hag̃ua.
 

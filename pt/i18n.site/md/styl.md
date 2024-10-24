@@ -1,5 +1,21 @@
 # Lista de Estilos
 
+[Clique aqui para visualizar o arquivo-fonte desta página](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md), para ver o seguinte estilo de escrita em `MarkDown`.
+
+## & &
+
+Isso é uma demonstração de __sublinhado__, ~~tachado~~ e **negrito** no texto.
+
+Escrito da seguinte forma:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+O analisador de `Markdown` da ferramenta de criação de sites `i18n.site` foi otimizado para sublinhado, riscado e negrito, não exigindo espaços antes e depois das marcações, o que facilita a escrita de documentos em idiomas como o chinês, japonês e coreano, que não utilizam espaços como separadores.
+
+Leitura complementar: [Por que a sintaxe de negrito em Markdown (`**…**`) às vezes não funciona?](//juejin.cn/post/7064565848421171213)
+
 ## Citação
 
 ### Citação em linha única
@@ -14,6 +30,32 @@
 > Já uma obra de ficção científica como "A Última Resposta" de Asimov, em poucas milhares de palavras, descreve de forma vívida a história de bilhões de anos do universo, incluindo a humanidade.
 > Tal capacidade de abrangência e coragem é algo que a literatura tradicional não pode alcançar.
 <p style="text-align:right">─ Liu Cixin</p>
+
+### Dica `> [!DICA]`
+
+> [!TIP]
+> Lembre-se de verificar a validade do passaporte e do visto; documentos expirados não permitem a entrada ou saída do país.
+
+Escrita da seguinte forma
+
+```
+> [!TIP]
+> your content
+```
+
+### Nota `> [!NOTA]`
+
+> [!NOTE]
+> Se você me enviar uma mensagem e eu responder imediatamente, o que isso indica?
+> Isso mostra que eu realmente gosto de usar o meu celular.
+
+
+### Aviso `> [!AVISO]`
+
+> [!WARN]
+> Ao realizar expedições no campo, certifique-se de prestar atenção à segurança.
+> Na semana passada, um grupo de montanhistas foi surpreendido por uma tempestade na metade da montanha porque não consultaram a previsão do tempo.
+> Lembre-se de que qualquer atividade ao ar livre requer preparação adequada e atenção às condições climáticas.
 
 ## Tarefas a Fazer
 

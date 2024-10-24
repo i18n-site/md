@@ -1,14 +1,14 @@
 # Install Deploy &
 
-## Nsiesiei Token
-
-`i18n.site` wɔ nkyerɛaseɛ adwinnadeɛ `i18` a wɔde ahyɛ mu Yɛsrɛ wo [klik ha na hwɛ `i18` krataa no na hyehyɛ kwan a wɔfa so kɔ mu no](/i18/use) .
-
 ## Fa Sto So
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Nsiesiei Token
+
+`i18n.site` wɔ nkyerɛaseɛ adwinnadeɛ `i18` a wɔde ahyɛ mu Yɛsrɛ wo [klik ha na hwɛ `i18` krataa no na hyehyɛ kwan a wɔfa so kɔ mu no](/i18/use) .
 
 ## Demo Adwuma No
 
@@ -64,7 +64,7 @@ Local preview mfa version number no ho na ɛbɛ copy fael nyinaa akɔ `out/dev/v
 
 Sɛ wɔayi no adi wɔ aban kwan so a, wɔbɛkyerɛw fael a wɔasesa no akɔ version nɔma directory foforo no mu.
 
-#### Fa -c Di Dwuma De Kyerɛ Nhyehyeɛ Fael No
+#### Kyerɛ Nhyehyeɛ Fael a Ɛwɔ `-c`
 
 Nsiesiei fael ahorow bɛbɔ daerekta ahorow a ɛne no hyia wɔ `out` daerekta no mu.
 
@@ -92,11 +92,9 @@ Nsɛm [a](/i18n.site/feature#ha) wobɛtintim akɔ [npmjs.com](//npmjs.com)
 
 Install `nodejs` , fa `npm login` kɔ mu .
 
-Sesa `md/.i18n/htm/ol.yml` na sesa `i18n.site` wɔ `v: //unpkg.com/i18n.site` mu kɔ w’ankasa `npm` package din mu.
+Sesa `md/.i18n/htm/ol.yml` na sesa [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) boɔ `YOUR_NPM_PACKAGE` sɛ w'ankasa `npm` paket din biara a obiara nni mu wɔ [npmjs.com](//npmjs.com)
 
-Fa paket din a obiara nni mu no di dwuma kɛkɛ wɔ [npmjs.com](//npmjs.com)
-
-Sɛ woretintim a egyina package `npm` so a, hwɛ **hu sɛ wode `//unpkg.com/` bedi dwuma** ama prefix a ɛyɛ `v:` value `i18n.site` ayɛ cache bere a ɛyɛ `/.v` no yiye titiriw wɔ prefix kwan yi ase na ama woanya bere a ɛsɛ sɛ wohwɛ nneɛma foforo a wɔayi no adi.
+Afei sesa `md/.i18n/htm/ol.package.json`
 
 Tu mmirika `i18n.site --npm` anaa `i18n.site -n` wɔ `md` directory no mu na kyerɛ ase na tintim.
 

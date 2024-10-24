@@ -20,14 +20,18 @@ Awọn faili aimi le ṣe ipilẹṣẹ ni agbegbe, ṣugbọn ọna ti o wọp�
 Mu faili iṣeto ni `.i18n/htm/ol.yml` ninu iṣẹ akanṣe demo bi apẹẹrẹ
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Jọwọ kọkọ yipada iye ti `host:` loke si orukọ ìkápá rẹ, bii `i18n.site` .

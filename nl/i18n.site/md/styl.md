@@ -1,5 +1,21 @@
 # Stijl Overzicht
 
+[Klik hier om door het bronbestand van deze pagina te bladeren](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md), zodat u de `MarkDown`-syntaxis in zijn oorspronkelijke vorm kunt bekijken.
+
+## Onderstrepen & Doorhalen & Vetgedrukt
+
+Dit is __onderstrepen__, ~~doorschrappen~~ en **vetgedrukte** demonstratietekst.
+
+Schrijfwijze is als volgt:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+De `Markdown`-parser van het `i18n.site` websitebouwtool heeft de syntaxis voor onderstreping, doorstreping en vetgedrukte tekst geoptimaliseerd. Markeerwoorden hoeven niet te worden voorafgegaan of gevolgd door spaties om effectief te zijn, wat het schrijven van documenten in talen zoals Chinees, Japans en Koreaans, die geen spaties gebruiken als scheidingstekens, vergemakkelijkt.
+
+Uitgebreide lectuur: [Waarom werkt de Markdown-klemtoon syntaxis (`**…**`) soms niet?](//juejin.cn/post/7064565848421171213)
+
 ## Citaat
 
 ### Eenregelig Citaat
@@ -14,6 +30,32 @@
 > Maar sciencefictionromans zoals Asimovs 'Het Laatste Antwoord' beschrijven op boeiende wijze de geschiedenis van het hele universum, inclusief de mensheid, over miljarden jaren in slechts enkele duizend woorden.
 > Dergelijke omvang en moed zijn voor traditionele literatuur ontoegankelijk.
 <p style="text-align:right">── Liu Cixin</p>
+
+### `> [!TIP]`
+
+> [!TIP]
+> Vergeet niet de geldigheid van uw paspoort en visum te controleren; verlopen documenten komen de grens niet door.
+
+Het schrijfvoorbeeld is als volgt
+
+```
+> [!TIP]
+> your content
+```
+
+### Opmerking `> [!NOTE]`
+
+> [!NOTE]
+> Als je me een bericht stuurt en ik reageer direct, wat zegt dat dan?
+> Dat betekent dat ik echt verslaafd ben aan mijn telefoon.
+
+
+### Waarschuwing `> [!WARN]`
+
+> [!WARN]
+> Als u een wild avontuur in de natuur onderneemt, let dan goed op uw veiligheid.
+> Vorige week strandde een groep klimmers halverwege de berg in een storm omdat ze de weersvoorspelling niet hadden gecontroleerd en moesten spoorschriftelijk worden geëvacueerd.
+> Vergeet dat elke buitenactiviteit voldoende voorbereiding en aandacht voor het weer vereist.
 
 ## Te Doen Lijst
 

@@ -1,5 +1,21 @@
 # Elenco di stili
 
+[Clicca qui per visualizzare il file originale di questa pagina](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) per comprendere come redigere il `Markdown` seguendo questi stili.
+
+## Sottolineato & Barrato & Grassetto
+
+Questo è un testo di dimostrazione con __linea tratteggiata__, ~~linea tratteggiata~~ e **testo in grassetto**.
+
+La scrittura è la seguente:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Il parser `Markdown` dello strumento di creazione del sito `i18n.site` ha ottimizzato la gestione dei trattini, delle barrature e del grassetto, rendendo possibile l'uso di questi senza spazi prima e dopo i segni, facilitando così la scrittura di documenti in lingue come il cinese, il giapponese e il coreano, che non utilizzano spazi come separatori.
+
+Lettura complementare: [Perché a volte la sintassi di grassetto (`**…**`) in Markdown su Juejin non funziona?](//juejin.cn/post/7064565848421171213)
+
 ## Citazione
 
 ### Citazione su singola riga
@@ -14,6 +30,32 @@
 > Mentre romanzi di fantascienza come "L'Ultima Risposta" di Asimov, in poche migliaia di parole, descrivono vividamente la storia di miliardi di anni dell'intero universo, inclusi gli esseri umani.
 > Questa capacità di contenere e il coraggio sono irraggiungibili per la letteratura tradizionale.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Suggerimento `> [!TIP]`
+
+> [!TIP]
+> Ricordati di controllare la validità del tuo passaporto e del visto; documenti scaduti non permettono l'ingresso o l'uscita dal paese.
+
+Formulazione come segue
+
+```
+> [!TIP]
+> your content
+```
+
+### Nota `> [!NOTE]`
+
+> [!NOTE]
+> Se mi invii un messaggio e ricevi una risposta immediata, cosa significa?
+> Questo significa che adoro veramente usare il mio cellulare.
+
+
+### Avvertenza `> [!WARN]`
+
+> [!WARN]
+> Durante le escursioni in ambiente selvaggio, è fondamentale prestare attenzione alla sicurezza.
+> La scorsa settimana, un gruppo di alpinisti si è trovato in una tempesta a metà della montagna perché non avevano controllato le previsioni del tempo, e hanno dovuto evacuare d'urgenza.
+> Ricorda, ogni attività all'aperto richiede una preparazione adeguata e una costante attenzione alle condizioni meteorologiche.
 
 ## Elenco delle cose da fare
 

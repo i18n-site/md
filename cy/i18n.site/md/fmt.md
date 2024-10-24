@@ -1,4 +1,4 @@
-# Confensiwn Fformat MarkDown
+# i18n.site MarkDown Confensiwn Ysgrifennu
 
 ## Pwynt Angor
 
@@ -34,3 +34,10 @@ Gallwch gyfeirio at y gweithredu yn [github.com/i18n-site/md/en/README.md](https
 ```
 
 Sylwch fod `<style>` hefyd wedi'i ddiffinio yn `<pre>` uchod.
+
+
+## Lluniau / Fideos / Dolenni Mewn Sawl Iaith
+
+Ar ôl i `MarkDown` gael ei drosi i `HTML` , bydd `$LANG` ym mhhriodweddau `src` a `href` yn cael eu disodli gan y [cod iaith](/i18/LANG_CODE) cyfredol .
+
+Gyda'r newidyn hwn, gallwch chi amlieithu lluniau / fideos / dolenni.

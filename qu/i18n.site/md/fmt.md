@@ -1,4 +1,4 @@
-# MarkDown Formato Nisqa Hatun Huñunakuy
+# i18n.site MarkDown Qillqay Hatun Huñunakuy
 
 ## Ancla Punto
 
@@ -34,3 +34,10 @@ Kay iskay puntokunata huñuspaqa, mana sasachakuspalla `MarkDown` `HTML` qillqay
 ```
 
 Reparay `<style>` nisqapas `<pre>` nisqapipas hanaqpi sut’inchasqa kasqanmanta.
+
+
+## Askha Simikunapi Siq’ikuna/Videokuna/T’inkikuna
+
+`MarkDown` `HTML` kaqman tikrasqa kaptin , `src` , `href` layakunapi `$LANG` kunan [simip chiqanchayninwan](/i18/LANG_CODE) tikrasqa kanqa .
+
+Kay tikraqwanqa, siq'ikuna/videokuna/t'inkikuna achka simipi rimayta aypayta atinki.

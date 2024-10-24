@@ -1,5 +1,21 @@
 # Listaan Ti Estilo
 
+[I-klik ditoy tapno ag-browse ti taudan a file daytoy a panid](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) tapno makita no kasano ti agsurat `MarkDown` kadagiti sumaganad nga estilo.
+
+## & -Underline &
+
+Daytoy ti I-underscore __ , __~~ strikethrough ti panag-strikethrough~~ **ken nalukmeg** a teksto ti presentasion.
+
+Kastoy ti pannakaisuratna:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Ti `MarkDown` a parser ti `i18n.site` a ramit ti panagbangon ti website ket nang-optimize ti underline, strikethrough, ken bold a sintaksis Daytoy ket mabalin nga epektibo nga awan dagiti espasio sakbay ken kalpasan ti marka, a mangpalaka ti panagsurat kadagiti dokumento kadagiti pagsasao a kas ti Tsina, Hapon, ken Korea a saan nga agusar kadagiti espasio kas separator.
+
+Napalawa a panagbasa : [Apay a saan nga epektibo no dadduma ti Markdown syntax ( `**……**` ) ti Nuggets?](//juejin.cn/post/7064565848421171213)
+
 ## Adawen
 
 ### Maymaysa a Linia a Sitas
@@ -14,6 +30,32 @@
 > Ket dagiti nobela ti science fiction a kas iti "Ti Maudi a Sungbat" ni Asimov ket nalawag a mangiladawan kadagiti binilion a tawen a pakasaritaan ti intero nga uniberso, agraman dagiti tattao, iti sumagmamano laeng a ribu a sasao.
 > Imposible a maragpat ti kasta a pannakairaman ken kinatured iti tradisional a literatura.
 <p style="text-align:right">── Ni Liu Cixin nga</p>
+
+### Tip `> [!TIP]` Tip
+
+> [!TIP]
+> Laglagipem a kitaen ti kinaumiso ti pasaporte ken visa dagiti napalabasen a dokumento ket saan a makastrek wenno makaruar iti pagilian.
+
+Kastoy ti pannakaisuratna
+
+```
+> [!TIP]
+> your content
+```
+
+### Remark `> [!NOTE]`
+
+> [!NOTE]
+> No mangipatulodka kaniak iti mensahe ket dagus a sumungbatak, ania ti kayat a sawen dayta?
+> Ipakita daytoy a talaga a pagay-ayatko ti agay-ayam kadagiti mobile phone.
+
+
+### Pakdaar `> [!WARN]`
+
+> [!WARN]
+> No mapan iti wild adventure, napateg ti agtalinaed a natalged.
+> Idi napan a lawas, nasabat ti maysa a grupo dagiti agsaksakay iti bagyo iti kagudua ti bantay ket masapul nga agbakwit gapu ta dida kitaen ti forecast ti paniempo.
+> Laglagipem nga aniaman nga aktibidad iti ruar kasapulanna ti umdas a panagsagana ken panangasikaso iti paniempo.
 
 ## Listaan Dagiti Aramiden
 

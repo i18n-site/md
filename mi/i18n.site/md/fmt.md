@@ -1,4 +1,4 @@
-# Tikanga Whakatakotoranga MarkDown
+# i18n.site MarkDown Te Huihuinga Tuhi
 
 ## Tohu Punga
 
@@ -34,3 +34,10 @@ Ka taea e koe te korero ki te whakatinanatanga i roto i [github.com/i18n-site/md
 ```
 
 Kia mahara ko `<style>` kua tautuhia ano i `<pre>` i runga ake nei.
+
+
+## Pikitia/Ataata/Hononga I Roto I Nga Reo Maha
+
+Ka huri `MarkDown` ki `HTML` , ka whakakapia `$LANG` o nga huanga `src` me `href` ki te [waehere reo](/i18/LANG_CODE) o naianei.
+
+Ma tenei taurangi, ka taea e koe te whakatutuki i te reo maha o nga pikitia/ataata/hononga.

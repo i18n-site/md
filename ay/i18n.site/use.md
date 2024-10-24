@@ -1,14 +1,14 @@
 # ¡Uñstayaña &
 
-## Configuración Ukax Mä Chimpuwa
-
-`i18n.site` ukax mä `i18` jaqukipañ herramienta ukaniwa, [aka tuqir ch’iqt’am `i18` qillqat uñakipañataki, ukhamat token ukar mantañataki](/i18/use) .
-
 ## Uchaña
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configuración Ukax Mä Chimpuwa
+
+`i18n.site` ukax mä `i18` jaqukipañ herramienta ukaniwa, [aka tuqir ch’iqt’am `i18` qillqat uñakipañataki, ukhamat token ukar mantañataki](/i18/use) .
 
 ## Proyecto Demostración Ukax Mä Jach’a Uñacht’äwiwa
 
@@ -64,7 +64,7 @@ Local preview ukax janiw versión número ukat llakiskiti ukatx taqi archivonaka
 
 Oficial uñstayañatakix mayjt’at qillqatanakax machaq versión jakhunak directorio ukar copiatäniwa.
 
-#### -c Ukampiw Wakicht’at Qillqat Uñacht’ayaña
+#### Uñacht’ayaña Configuración Archivo Ukaxa `-c`
 
 Kunayman configuración qillqatanakax `out` directorio ukanx directorios correspondientes ukanakaw lurasini.
 
@@ -92,11 +92,9 @@ Aka `--save` ukax machaq uñstawi versión jakhu uñacht’ayi.
 
 `nodejs` ukar mantañamawa, `npm login` ukampiw mantañama.
 
-`md/.i18n/htm/ol.yml` chiqañchaña ukatxa `i18n.site` `v: //unpkg.com/i18n.site` ukaru mayjt’ayaña pachpa `npm` paquete sutimpi.
+`md/.i18n/htm/ol.yml` chiqañchaña ukatxa [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` mayjt’ayaña kunjamatixa juma pachpa `npm` paquete sutimpixa [npmjs.com](//npmjs.com)
 
-Ukhamakiwa jan [npmjs.com](//npmjs.com) paquete sutimpi apnaqañaxa sitio web dominio sutimpi kunjamatixa paquete sutimpi apnaqañaxa mä suma ajlliwiwa.
-
-Kunawsatix `npm` paquete ukarjam uñt’ayaski ukhax **`//unpkg.com/`** ukax `v:` valor prefijo ukatakix `i18n.site` ukax especialmente optimizado caché tiempo `/.v` uka prefijo thakhinx machaq mistuwinak pachapar uñjañatakiwa.
+Ukatxa `md/.i18n/htm/ol.package.json` ukja mayjt’ayaña
 
 `md` directorio ukan `i18n.site --npm` jan ukax `i18n.site -n` t’ijt’ayañaw jaqukipañataki ukat uñt’ayañataki.
 

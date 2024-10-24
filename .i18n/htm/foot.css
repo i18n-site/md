@@ -23,7 +23,6 @@
 }
 
 #Ft>b:first-child>b {
-  text-wrap: balance;
   color: #888;
   font-variation-settings: 'wght' 400, 'BEVL' 1;
   font-family: 'h';

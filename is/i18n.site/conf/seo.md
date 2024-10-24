@@ -20,14 +20,18 @@ Hægt er að búa til kyrrstæðar skrár á staðnum, en algengari aðferð er 
 Taktu `.i18n/htm/ol.yml` stillingarskrána í kynningarverkefninu sem dæmi
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Vinsamlegast breyttu fyrst gildinu `host:` hér að ofan við lénið þitt, eins og `i18n.site` .

@@ -1,4 +1,4 @@
-# MarkDown Format Nhyiam No
+# i18n.site MarkDown Akyerɛw Nhyiam
 
 ## Anchor Point a Wɔde Hyɛ Mu
 
@@ -34,3 +34,10 @@ Wubetumi akyerɛ implementation no wɔ [github.com/i18n-site/md/en/README.md](ht
 ```
 
 Hyɛ no nsow sɛ wɔakyerɛkyerɛ `<style>` nso mu wɔ `<pre>` a ɛwɔ atifi hɔ no mu.
+
+
+## Mfonini/Video/Link Ahorow a Ɛwɔ Kasa Ahorow Pii Mu
+
+Sɛ wɔdan `MarkDown` kɔ `HTML` wie a , wɔde [kasa mmara](/i18/LANG_CODE) a ɛwɔ hɔ mprempren no besi `$LANG` a ɛwɔ su `src` ne `href` mu no ananmu .
+
+Sɛ wode saa nsakrae yi di dwuma a, wubetumi anya mfonini/video/nkitahodi ahorow a wɔde kasa ahorow pii di dwuma.

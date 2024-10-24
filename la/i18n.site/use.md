@@ -1,14 +1,14 @@
 # Instrue &
 
-## Configurationis Indicium
-
-`i18n.site` instrumentum translationis in `i18` constructum habet. Quaeso [preme hic ad documentum `i18` referre ad indicium accessum configurare](/i18/use) .
-
 ## Install
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Configurationis Indicium
+
+`i18n.site` instrumentum translationis in `i18` constructum habet. Quaeso [preme hic ad documentum `i18` referre ad indicium accessum configurare](/i18/use) .
 
 ## Demo Project
 
@@ -64,7 +64,7 @@ Praevius localis de numero versionis non curat et omnia documenta ad `out/dev/v/
 
 Pro missione officialis, tabulae mutatae ad numerum directorium novae versionis transcribendae erunt.
 
-#### -c Uti Configuratione Lima Ut Specificare
+#### Specificare Configuratione Lima Cum `-c`
 
 Diversae imaginum conformationes in directoriis `out` directoriis respondentes creabunt.
 
@@ -92,11 +92,9 @@ Contentus publici ad [npmjs.com](//npmjs.com) est suadetur default solutionis (v
 
 Install `nodejs` , ini cum `npm login` .
 
-Recensere `md/.i18n/htm/ol.yml` et `i18n.site` in `v: //unpkg.com/i18n.site` mutare ad nomen proprium `npm` sarcina.
+Edit `md/.i18n/htm/ol.yml` et valorem [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` muta ut nomen tuum `npm` sarcina [npmjs.com](//npmjs.com)
 
-Modo utere vacui sarcina nominis in [npmjs.com](//npmjs.com)
-
-Cum `/.v` in sarcina `npm` fundatae sunt, **scito uti `//unpkg.com/`** `i18n.site` praepositione `v:` valoris.
+Tum mutare `md/.i18n/htm/ol.package.json`
 
 Curre `i18n.site --npm` vel `i18n.site -n` in indice `md` ad transferendum et evulgandum.
 

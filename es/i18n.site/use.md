@@ -1,14 +1,14 @@
 # ¡Instalar &
 
-## Token de configuración
-
-`i18n.site` incluye una herramienta de traducción `i18` integrada. Haga [clic aquí para consultar el documento de configuración de `i18`](/i18/use) para el token de acceso.
-
 ## Instalar
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Token de configuración
+
+`i18n.site` incluye una herramienta de traducción `i18` integrada. Haga [clic aquí para consultar el documento de configuración de `i18`](/i18/use) para el token de acceso.
 
 ## Proyecto de demostración
 
@@ -64,7 +64,7 @@ Para la previsualización local, no importa el número de versión y copiará to
 
 Para la publicación oficial, los archivos modificados se copiarán en el directorio del nuevo número de versión.
 
-#### Utilice -c para especificar el archivo de configuración
+#### Especifique el archivo de configuración con `-c`
 
 Diferentes archivos de configuración crearán directorios correspondientes en el directorio `out`.
 
@@ -92,11 +92,9 @@ La publicación de contenido en [npmjs.com](//npmjs.com) es la solución recomen
 
 Instale `nodejs`, inicie sesión con `npm login`.
 
-Edite `md/.i18n/htm/ol.yml` y cambie `i18n.site` en `v: //unpkg.com/i18n.site` por su propio nombre de paquete `npm`.
+Edite `md/.i18n/htm/ol.yml` y modifique el valor de [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` por el nombre de su propio paquete `npm`. Puede elegir cualquier nombre de paquete disponible en [npmjs.com](//npmjs.com).
 
-Simplemente use el nombre del paquete desocupado en [npmjs.com](//npmjs.com). Usar el nombre de dominio del sitio web como nombre del paquete es una buena opción.
-
-Al publicar según el paquete `npm`, **asegúrese de usar `//unpkg.com/`** como prefijo de `v:`. `i18n.site` ha optimizado especialmente el tiempo de caché de `/.v` en esta ruta de prefijo para lograr una visualización oportuna de las nuevas versiones.
+Luego, realice modificaciones en `md/.i18n/htm/ol.package.json`
 
 Ejecute `i18n.site --npm` o `i18n.site -n` en el directorio `md` para traducir y publicar.
 

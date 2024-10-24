@@ -1,14 +1,14 @@
 # Shyiramo &
 
-## Ikimenyetso
-
-`i18n.site` ifite igikoresho cyububiko `i18` cyububiko Nyamuneka [kanda hano kugirango werekane inyandiko `i18` kugirango ugene ikimenyetso cyo kwinjira](/i18/use) .
-
 ## Shyiramo
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Ikimenyetso
+
+`i18n.site` ifite igikoresho cyububiko `i18` cyububiko Nyamuneka [kanda hano kugirango werekane inyandiko `i18` kugirango ugene ikimenyetso cyo kwinjira](/i18/use) .
 
 ## Umushinga Wa Demo
 
@@ -64,7 +64,7 @@ Ibibanza byibanze ntabwo byita kuri numero ya verisiyo kandi bizakoporora dosiye
 
 Kurekura kumugaragaro, dosiye zahinduwe zizimurwa kuri verisiyo nshya yububiko.
 
-#### Koresha -c Kugirango Ugaragaze Dosiye Iboneza
+#### Kugaragaza Dosiye Iboneza Hamwe Na `-c`
 
 Amadosiye atandukanye azakora ububiko bujyanye nububiko `out` .
 
@@ -92,11 +92,9 @@ Gutangaza ibikubiyemo [npmjs.com](//npmjs.com) bisabwe igisubizo gisanzwe (reba 
 
 Shyiramo `nodejs` , injira hamwe na `npm login` .
 
-Hindura `md/.i18n/htm/ol.yml` hanyuma uhindure `i18n.site` muri `v: //unpkg.com/i18n.site` kurizina ryawe `npm` .
+Hindura `md/.i18n/htm/ol.yml` hanyuma uhindure agaciro ka [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` nkuko izina ryawe bwite `npm` paki [npmjs.com](//npmjs.com)
 
-Koresha izina rya pake idakoreshwa kuri [npmjs.com](//npmjs.com) Ukoresheje izina ryurubuga nkizina rya paki.
-
-Mugihe utangaza ushingiye kuri pack `npm` , menya **neza gukoresha `//unpkg.com/`** kuri prefix yagaciro `v:` `i18n.site` yahinduye byumwihariko cache igihe cya `/.v` munsi yinzira ibanziriza kugirango ugere ku gihe cyo gusohora gushya.
+Noneho hindura `md/.i18n/htm/ol.package.json`
 
 Koresha `i18n.site --npm` cyangwa `i18n.site -n` mububiko `md` kugirango uhindure kandi utangaze.
 

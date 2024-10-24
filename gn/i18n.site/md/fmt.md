@@ -1,4 +1,4 @@
-# Convención Formato MarkDown Rehegua
+# i18n.site MarkDown Jehai Aty Guasu
 
 ## Punto De Anclaje Rehegua
 
@@ -34,3 +34,10 @@ Ikatu reñe'ẽ implementación rehe [github.com/i18n-site/md/en/README.md](http
 ```
 
 Ñañamindu u `<style>` ojedefiniha avei `<pre>` pe yvateve.
+
+
+## Ta’ãngamýi/Video/Enlace Heta Ñe’ẽme
+
+Oñembohasa rire `MarkDown` `HTML` pe , `$LANG` oĩva atributo `src` ha `href` pe oñemyengoviáta [ñeꞌepykuaa](/i18/LANG_CODE) koꞌag̃aguápe .
+
+Ko variable rupive ikatu ojehupyty multilingualización taꞌãngamýi/video/enlace rehegua.

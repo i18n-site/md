@@ -1,5 +1,21 @@
 # Lîsteya Style
 
+[Li vir bikirtînin ku pelê çavkaniyê ya vê rûpelê bigerin](//raw.githubusercontent.com/i18n-site/md/refs/heads/main/$LANG/i18n.site/md/styl.md) da ku hûn bibînin ka meriv çawa `MarkDown` di şêwazên jêrîn de dinivîse.
+
+## & Bike Strikethrough &
+
+Ev __ __~~ strikethrough~~ û metna pêşkêşkirina **qelew** .
+
+Bi vî awayî hatiye nivîsandin:
+
+```txt
+这是__下划线__、~~删除线~~和**加粗**的演示文本。
+```
+
+Parsera `MarkDown` ya amûra avakirina `i18n.site` xêzkirin, lêdan û hevoksaziya stûr xweş kiriye. Ew dikare bêyî valahiyên berî û paşî nîşanê bandor bike, nivîsandina belgeyên bi zimanên wekî Chinaîn, Japonya û Koreyê hêsantir dike. ku mekanan wekî veqetanker bi kar neynin.
+
+Xwendina : [Çima hevoksaziya Markdown ( `**……**` ) ya Nuggets carinan bandor nake?](//juejin.cn/post/7064565848421171213)
+
 ## Girtebêjîn
 
 ### Quote Yek Line
@@ -14,6 +30,32 @@
 > Û romanên xeyalî yên zanistî yên mîna Asimov "Bersiva Dawî" bi awayekî zindî dîroka bi mîlyaran salên tevahiya gerdûnê, tevî mirovan, tenê bi çend hezar peyvan vedibêjin.
 > Di wêjeya kevneşopî de pêkvebûn û wêrekiyeke wiha ne pêkan e.
 <p style="text-align:right">── Liu Cixin</p>
+
+### Serişte `> [!TIP]`
+
+> [!TIP]
+> Ji bîr mekin ku hûn derbasbûna pasaport û vîzeya xwe kontrol bikin.
+
+Bi vî awayî hatiye nivîsandin
+
+```
+> [!TIP]
+> your content
+```
+
+### Nîşe `> [!NOTE]`
+
+> [!NOTE]
+> Ger hûn ji min re peyamek bişînin û ez tavilê bersiv bidim, ev tê çi wateyê?
+> Ev nîşan dide ku ez bi rastî ji lîstina bi têlefonên desta hez dikim.
+
+
+### Hişyarî `> [!WARN]`
+
+> [!WARN]
+> Dema ku hûn diçin serpêhatiyek çolê, girîng e ku hûn ewle bimînin.
+> Hefteya çûyî, komeke çiyager di nîvê çiyê de rastî bahozekê hat û ji ber ku nekarîn pêşbîniya hewayê kontrol bikin neçar man ku xwe biterikînin.
+> Bînin bîra xwe, her çalakiyek li derve amadekariyek têr û baldarî hewayê hewce dike.
 
 ## Lîsteya to-Do
 

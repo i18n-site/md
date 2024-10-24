@@ -1,4 +1,4 @@
-# MarkDown Format Konvensiyası
+# i18n.site MarkDown Yazı Konvensiyası
 
 ## Anker Nöqtəsi
 
@@ -34,3 +34,10 @@ Tətbiqə müraciət edə bilərsiniz [github.com/i18n-site/md/en/README.md](htt
 ```
 
 Qeyd edək ki, `<style>` yuxarıda `<pre>` -da da müəyyən edilir.
+
+
+## Çox Dildə Şəkillər/Videolar/Linklər
+
+`MarkDown` `HTML` -ə çevrildikdən sonra `src` və `href` atributlarında `$LANG` cari [dil kodu](/i18/LANG_CODE) ilə əvəz olunacaq.
+
+Bu dəyişən ilə siz şəkillərin/videoların/linklərin çoxdilliliyinə nail ola bilərsiniz.

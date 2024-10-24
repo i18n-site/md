@@ -1,4 +1,4 @@
-# Adehun Kika MarkDown
+# i18n.site MarkDown Kikọ Adehun
 
 ## Ojuami Oran
 
@@ -34,3 +34,10 @@ O le tọka si imuse ni [github.com/i18n-site/md/en/README.md](https://raw.githu
 ```
 
 Ṣe akiyesi pe `<style>` tun jẹ asọye ni `<pre>` loke.
+
+
+## Awọn Aworan/Awọn Fidio/Awọn Ọna Asopọ Ni Awọn Ede Pupọ
+
+Lẹhin ti `MarkDown` ti yipada si `HTML` , `$LANG` ni awọn abuda `src` ati `href` yoo rọpo pẹlu [koodu ede](/i18/LANG_CODE) lọwọlọwọ.
+
+Pẹlu oniyipada yii, o le ṣaṣeyọri isodipupo awọn aworan / awọn fidio / awọn ọna asopọ.

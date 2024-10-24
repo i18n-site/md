@@ -1,4 +1,4 @@
-# Imiterere Ya MarkDown
+# i18n.urubuga MarkDown Amasezerano Yo Kwandika
 
 ## Inanga
 
@@ -34,3 +34,10 @@ Urashobora kwerekeza kubikorwa muri [github.com/i18n-site/md/en/README.md](https
 ```
 
 Menya ko `<style>` nayo isobanuwe muri `<pre>` hejuru.
+
+
+## Amashusho / Videwo / Amahuza Mu Ndimi Nyinshi
+
+Nyuma ya `MarkDown` ihinduwe kuri `HTML` , `$LANG` mubiranga `src` na `href` bizasimburwa [nururimi](/i18/LANG_CODE) rwubu.
+
+Hamwe niyi mpinduka, urashobora kugera ku ndimi nyinshi zamashusho / amashusho / amahuza.

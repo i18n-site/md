@@ -1,14 +1,14 @@
 # Gurnama &
 
-## Sazlama Nyşany
-
-`i18n.site` da gurlan `i18` terjime guraly bar, [giriş belligini sazlamak üçin `i18` resminama serediň](/i18/use) .
-
 ## Gurnama
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Sazlama Nyşany
+
+`i18n.site` da gurlan `i18` terjime guraly bar, [giriş belligini sazlamak üçin `i18` resminama serediň](/i18/use) .
 
 ## Demo Taslamasy
 
@@ -64,7 +64,7 @@ Preerli deslapky syn wersiýa belgisi bilen gyzyklanmaýar we ähli faýllary `o
 
 Resmi taýdan goýberilmegi üçin üýtgedilen faýllar täze wersiýa belgisi katalogyna göçüriler.
 
-#### Sazlama Faýlyny Görkezmek Üçin -c Ulanyň
+#### `-c` Bilen Konfigurasiýa Faýly Görkeziň
 
 Dürli konfigurasiýa faýllary `out` katalogda degişli kataloglary döreder.
 
@@ -92,11 +92,9 @@ Mazmuny neşir etmek maslahat berilýän deslapky çözgütdir ( [“Front-end H
 
 `nodejs` guruň, `npm login` bilen giriň.
 
-`md/.i18n/htm/ol.yml` redaktirläň we `i18n.site` `v: //unpkg.com/i18n.site` de öz `npm` bukjanyňyzyň adyna üýtgediň.
+`md/.i18n/htm/ol.yml` [npmjs.com](//npmjs.com) we [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` bahany öz `npm` paketiňiziň ady hökmünde üýtgediň.
 
-Diňe işlenmedik paketiň adyny ulanyň [npmjs.com](//npmjs.com) web sahypasynyň domen adyny paketiň ady hökmünde ulanmak.
-
-`npm` paket esasynda çap edilende, `v:` bahanyň prefiksi üçin **`//unpkg.com/` ulanmagy unutmaň** , täze `/.v` `i18n.site` keşini ýörite optimizirledi.
+Soňra `md/.i18n/htm/ol.package.json` üýtgediň
 
 Terjime etmek we neşir etmek üçin `md` katalogda `i18n.site --npm` ýa-da `i18n.site -n` işlediň.
 

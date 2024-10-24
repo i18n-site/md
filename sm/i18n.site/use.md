@@ -1,14 +1,14 @@
 # Fa'apipi'i &
 
-## Fa'ailoga Fa'atulagaina
-
-`i18n.site` o lo'o iai se meafaigaluega fa'aliliu `i18` fa'amolemole [kiliki iinei e fa'asino i le pepa `i18` e fa'atulaga ai le fa'ailoga avanoa](/i18/use) .
-
 ## Fa'apipi'i
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Fa'ailoga Fa'atulagaina
+
+`i18n.site` o lo'o iai se meafaigaluega fa'aliliu `i18` fa'amolemole [kiliki iinei e fa'asino i le pepa `i18` e fa'atulaga ai le fa'ailoga avanoa](/i18/use) .
 
 ## Poloketi Fa'aali
 
@@ -64,7 +64,7 @@ O le fa'aituuga fa'apitonu'u e le popole ile numera fa'asologa ma o le a kopi um
 
 Mo le tatalaina aloaia, o faila suia o le a kopiina i le lisi fou numera numera.
 
-#### Faʻaaoga -c E Faʻamaonia Ai Le Faila Faʻatulagaina
+#### Fa'ailoa Le Faila Fa'atulaga Ile `-c`
 
 O faila fetuutuuna'i eseese o le a fausia ni tusi fa'atatau i le `out` directory.
 
@@ -92,11 +92,9 @@ O le fa'asalalauina [o](/i18n.site/feature#ha) anotusi i [npmjs.com](//npmjs.com
 
 Fa'apipi'i `nodejs` , ulufale i totonu ma `npm login` .
 
-Fa'asa'o `md/.i18n/htm/ol.yml` ma sui `i18n.site` i `v: //unpkg.com/i18n.site` i lou lava igoa `npm` afifi.
+Fa'asa'o `md/.i18n/htm/ol.yml` ma sui le tau o le [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` e pei o lou lava igoa afifi `npm` [npmjs.com](//npmjs.com) le a faia.
 
-Fa'aaoga le igoa ole afifi ile [npmjs.com](//npmjs.com)
-
-A lolomi e fa'atatau i le afifi `npm` , ia **mautinoa e fa'aoga `//unpkg.com/`** mo le fa'aulu o `v:` fa'atauga `i18n.site` fa'amanino fa'apitoa le taimi fa'apolopolo o `/.v` i lalo o lenei ala muamua e maua ai le va'aiga talafeagai o fa'asalalauga fou.
+Ona sui lea `md/.i18n/htm/ol.package.json`
 
 Fa'agasolo `i18n.site --npm` po'o `i18n.site -n` ile `md` fa'atonu e fa'aliliu ma fa'asalalau.
 

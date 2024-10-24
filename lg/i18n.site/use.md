@@ -1,14 +1,14 @@
 # Teeka Teeka Mu Nkola &
 
-## Akabonero K'okusengeka
-
-`i18n.site` erina ekintu ekizimbibwamu `i18` eky'okuvvuunula Nsaba [onyige wano okutunuulira ekiwandiiko `i18` okutegeka akabonero k'okuyingira](/i18/use) .
-
 ## Okuzimba
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Akabonero K'okusengeka
+
+`i18n.site` erina ekintu ekizimbibwamu `i18` eky'okuvvuunula Nsaba [onyige wano okutunuulira ekiwandiiko `i18` okutegeka akabonero k'okuyingira](/i18/use) .
 
 ## Pulojekiti Ya Demo
 
@@ -64,7 +64,7 @@ Local preview tefaayo ku nnamba ya version era ejja kukoppa fayiro zonna mu `out
 
 Okufulumizibwa mu butongole, fayiro ezikyusiddwa zijja kukoppololwa mu dayirekita y'ennamba z'enkyusa empya.
 
-#### Kozesa -c Okulaga Fayiro Y'okusengeka
+#### Laga Fayiro Y'okusengeka Ne `-c`
 
 Fayiro z'okusengeka ez'enjawulo zijja kutondawo dayirekita ezikwatagana mu dayirekita ya `out` .
 
@@ -92,11 +92,9 @@ Okufulumya ebirimu ku [npmjs.com](//npmjs.com) kye kizibu ekisookerwako (laba [F
 
 Teeka `nodejs` , yingira ne `npm login` .
 
-Edit `md/.i18n/htm/ol.yml` era okyuse `i18n.site` mu `v: //unpkg.com/i18n.site` okudda mu linnya lyo erya `npm` package.
+Edit `md/.i18n/htm/ol.yml` era okyuse omuwendo gwa [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` nga erinnya lyo ery'ekipapula `npm` eritaliiko muntu ku [npmjs.com](//npmjs.com)
 
-Just use the unoccupied package name [npmjs.com](//npmjs.com) Okukozesa erinnya ly'ekifo ky'omukutu nga erinnya ly'ekipapula kirungi.
-
-Nga ofulumya nga osinziira ku package `npm` , **kakasa nti okozesa `//unpkg.com/`** ku prefix ya `v:` value `i18n.site` alongoosezza mu ngeri ey'enjawulo obudde bwa cache bwa `/.v` wansi w'ekkubo lino ery'entandikwa okutuuka ku kulaba mu budde ebifulumiziddwa.
+Oluvannyuma kyusa `md/.i18n/htm/ol.package.json`
 
 Duka `i18n.site --npm` oba `i18n.site -n` mu `md` dayirekita okuvvuunula n'okufulumya.
 

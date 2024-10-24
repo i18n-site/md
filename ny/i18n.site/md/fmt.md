@@ -1,4 +1,4 @@
-# Msonkhano Wamtundu Wa MarkDown
+# i18n.site MarkDown Kulemba Msonkhano
 
 ## Nangula Point
 
@@ -34,3 +34,10 @@ Mutha kulozera pakukhazikitsa mu [github.com/i18n-site/md/en/README.md](https://
 ```
 
 Dziwani kuti `<style>` ikufotokozedwanso mu `<pre>` pamwambapa.
+
+
+## Zithunzi / Makanema / Maulalo Azilankhulo Zingapo
+
+`MarkDown` ikasinthidwa kukhala `HTML` , `$LANG` mu mawonekedwe `src` ndi `href` idzasinthidwa ndi [code](/i18/LANG_CODE) yamakono.
+
+Ndi kusinthaku, mutha kukwaniritsa zinenero zambiri / makanema / maulalo.

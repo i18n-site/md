@@ -20,14 +20,18 @@ Ang mga static nga mga file mahimong mamugna sa lokal, apan ang usa ka mas komon
 Kuhaa ang `.i18n/htm/ol.yml` configuration file sa demo project isip usa ka pananglitan
 
 ```yml
-host:
+host: i18n-demo.github.io
 seo: true
 out:
-  - s3
-v: //unpkg.com/i18n.site
-x: 18x
-importmap:
-  i/: //unpkg.com/@i18n.site/
+  - fs
+
+pkg:
+  i: i18n.site
+  md: i18n.site
+
+cdn:
+  v:
+  jsd:
 ```
 
 Palihug usba una ang bili sa `host:` sa ibabaw sa imong domain name, sama sa `i18n.site` .

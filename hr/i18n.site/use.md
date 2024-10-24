@@ -1,14 +1,14 @@
 # Instaliraj &
 
-## Konfiguracijski Token
-
-`i18n.site` ima ugrađeni `i18` alat za prevođenje [Kliknite ovdje da biste pogledali `i18` dokument za konfiguraciju tokena za pristup](/i18/use) .
-
 ## Instalirati
 
 ```sh
 bash <(curl -sS https://i.i18n.site) i18n.site
 ```
+
+## Konfiguracijski Token
+
+`i18n.site` ima ugrađeni `i18` alat za prevođenje [Kliknite ovdje da biste pogledali `i18` dokument za konfiguraciju tokena za pristup](/i18/use) .
 
 ## Demo Projekt
 
@@ -64,7 +64,7 @@ Lokalni pregled ne mari za broj verzije i kopirat će sve datoteke u direktorij 
 
 Za službeno izdanje, promijenjene datoteke će se kopirati u direktorij s novim brojem verzije.
 
-#### Koristite -c Za Navođenje Konfiguracijske Datoteke
+#### Navedite Konfiguracijsku Datoteku S `-c`
 
 Različite konfiguracijske datoteke će stvoriti odgovarajuće direktorije u `out` direktoriju.
 
@@ -92,11 +92,9 @@ Objavljivanje sadržaja [npmjs.com](//npmjs.com) preporučenom zadanom rješenju
 
 Instalirajte `nodejs` , prijavite se s `npm login` .
 
-Uredite `md/.i18n/htm/ol.yml` i promijenite `i18n.site` u `v: //unpkg.com/i18n.site` u svoj vlastiti `npm` naziv paketa.
+Uredite `md/.i18n/htm/ol.yml` i promijenite vrijednost [`md:`](//github.com/i18n-site/demo.i18n.site/blob/main/.i18n/htm/ol.yml#L7) `YOUR_NPM_PACKAGE` kao svoj vlastiti `npm` naziv paketa na [npmjs.com](//npmjs.com)
 
-Samo koristite naziv nezauzetog paketa na [npmjs.com](//npmjs.com)
-
-Kada objavljujete na temelju paketa `npm` , **obavezno koristite `//unpkg.com/`** za prefiks `v:` Vrijednost `i18n.site` je posebno optimizirala vrijeme predmemorije `/.v` pod ovom stazom prefiksa da biste postigli pravovremeno pregledavanje novih izdanja.
+Zatim promijenite `md/.i18n/htm/ol.package.json`
 
 Pokrenite `i18n.site --npm` ili `i18n.site -n` u direktoriju `md` za prijevod i objavu.
 
