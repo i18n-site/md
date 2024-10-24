@@ -126,7 +126,8 @@ Beispielsweise bedeutet `_* ` in der obigen Konfigurationsdatei, dass Dateien, d
 
 Die Übersetzung kann bearbeitet werden. Ändern Sie den Originaltext und übersetzen Sie ihn erneut maschinell. Die manuellen Änderungen an der Übersetzung werden nicht überschrieben (sofern dieser Absatz des Originaltexts nicht geändert wurde).
 
-Bitte beachten Sie jedoch, dass die Zeilen der Übersetzung und des Originaltextes eins zu eins übereinstimmen müssen. Das heißt, beim Kompilieren der Übersetzung dürfen keine Zeilen hinzugefügt oder gelöscht werden. Andernfalls kommt es zu Verwirrung im Übersetzungsbearbeitungscache.
+> [!WARN]
+> Die Zeilen der Übersetzung und des Originaltextes müssen eins zu eins übereinstimmen. Das heißt, beim Kompilieren der Übersetzung dürfen keine Zeilen hinzugefügt oder gelöscht werden. Andernfalls kommt es zu Verwirrung im Übersetzungsbearbeitungscache.
 
 Wenn etwas schief geht, finden Sie [Lösungen in den FAQ.](/i18/qa#H1)
 

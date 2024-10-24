@@ -126,7 +126,8 @@ Sebagai contoh, `_* ` dalam fail konfigurasi di atas bermakna fail yang bermula 
 
 Terjemahan boleh diedit. Ubah suai teks asal dan terjemah mesin sekali lagi, pengubahsuaian manual pada terjemahan tidak akan ditimpa (jika perenggan teks asal ini tidak diubah suai).
 
-Tetapi sila ambil perhatian bahawa baris terjemahan dan teks asal mesti sepadan satu dengan satu. Iaitu, jangan menambah atau memadam baris semasa menyusun terjemahan. Jika tidak, ia akan menyebabkan kekeliruan dalam cache penyuntingan terjemahan.
+> [!WARN]
+> Baris terjemahan dan teks asal mesti sepadan satu dengan satu. Iaitu, jangan menambah atau memadam baris semasa menyusun terjemahan. Jika tidak, ia akan menyebabkan kekeliruan dalam cache penyuntingan terjemahan.
 
 Jika berlaku masalah, sila rujuk [FAQ untuk penyelesaian.](/i18/qa#H1)
 

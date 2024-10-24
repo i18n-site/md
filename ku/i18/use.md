@@ -126,7 +126,8 @@ Mînakî, `_* ` di pelê veavakirina jorîn de tê vê wateyê ku pelên ku bi `
 
 Werger tê guherandin. Nivîsara orîjînal biguhezînin û wê dîsa bi makîneyê wergerînin, guheztinên bi destan ên wergerê dê neyên nivîsandin (eger ev paragrafa nivîsa orîjînal nehatibe guhertin).
 
-Lê ji kerema xwe bala xwe bidinê ku rêzên werger û metna orîjînal divê yek bi yek li hev bikin. Ango dema berhevkirina wergerê rêzan lê zêde nekin û jê nekin. Wekî din, ew ê di cacheya guherandina wergerê de bibe sedema tevliheviyê.
+> [!WARN]
+> Rêzên werger û metna orîjînal divê yek bi yek re li hev bikin. Ango dema berhevkirina wergerê rêzan lê zêde nekin û jê nekin. Wekî din, ew ê di cacheya guherandina wergerê de bibe sedema tevliheviyê.
 
 Ger tiştek xelet derkeve, ji kerema xwe [ji bo çareseriyê serî li FAQ-ê bidin.](/i18/qa#H1)
 

@@ -33,11 +33,10 @@ Werger tê guherandin.
 
 Nivîsara orîjînal biguhezînin û wê dîsa bi makîneyê wergerînin, guheztinên bi destan ên wergerê dê neyên nivîsandin (eger ev paragrafa nivîsa orîjînal nehatibe guhertin).
 
-Em bibin aboneya felsefeya `UNIX` " Her tişt pelek e " û dikare wergerandin bi sedan zimanan bêyî danasîna çareseriyên asta pargîdaniyê yên tevlihev û giran.
-
-Hûn dikarin amûrên herî naskirî bikar bînin da ku `Markdown` biguhezînin (lê hûn nikanin paragrafan lê zêde bikin an jêbikin), û awayê herî nas bikar bînin da ku hûn kontrolkirina guhertoyê bikin.
-
-Bingehek kodê dikare wekî çavkaniyek vekirî ji bo pelên zimanî were afirandin, û bi alîkariya `Pull Request` pêvajoyan, bikarhênerên gerdûnî dikarin beşdarî xweşbîniya domdar a wergeran bibin. Têkiliya bêkêmasî [github](//github.com) civakên din ên çavkaniya vekirî.
+> [!TIP]
+> Em bibin aboneya felsefeya `UNIX` " Her tişt pelek e " û dikare wergerandin bi sedan zimanan bêyî danasîna çareseriyên asta pargîdaniyê yên tevlihev û giran.
+> Hûn dikarin amûrên herî naskirî bikar bînin da ku `Markdown` biguhezînin (lê hûn nikanin paragrafan lê zêde bikin an jêbikin), û awayê herî nas bikar bînin da ku hûn kontrolkirina guhertoyê bikin.
+> Bingehek kodê dikare wekî çavkaniyek vekirî ji bo pelên zimanî were afirandin, û bi alîkariya `Pull Request` pêvajoyan, bikarhênerên gerdûnî dikarin beşdarî xweşbîniya domdar a wergeran bibin. Têkiliya bêkêmasî [github](//github.com) civakên din ên çavkaniya vekirî.
 
 [→ Ji bo rêberê bikarhêner, ji kerema xwe belgeya projeyê bixwînin](/i18) .
 
@@ -103,9 +102,10 @@ Pergalek bilêtê ya pirzimanî ku dikare xelatan bide;
 Bazara firotanê ya ji bo pêkhateyên pêşîn ên navneteweyî;
 Gelek tiştên ku em dixwazin bikin hene.
 
-Em li bendê ne ku di deryaya pirfireh ya mirovan de bi mirovên hevfikir re hevdîtin bikin.
-Em li dilxwazan digerin ku beşdarî pêşkeftina koda çavkaniya vekirî û rastnivîsandina metnên wergerandî bibin.
-Heke hûn eleqedar in, ji kerema xwe [→ Li vir bikirtînin da ku profîla xwe dagirin](https://ggl.link/i18n) û dûv re ji bo ragihandinê beşdarî [navnîşa nameyê](https://groups.google.com/u/2/g/i18n-site) bibin.
-
 Em bi çavkaniya vekirî û parvekirina hezkirinê bawer dikin,
 Hûn bi xêr hatin ku bi hev re pêşerojek bêsînor biafirînin.
+
+> [!NOTE]
+> Em li bendê ne ku di deryaya pirfireh ya mirovan de bi mirovên hevfikir re hevdîtin bikin.
+> Em li dilxwazan digerin ku beşdarî pêşkeftina koda çavkaniya vekirî û rastnivîsandina metnên wergerandî bibin.
+> Heke hûn eleqedar in, ji kerema xwe [→ Li vir bikirtînin da ku profîla xwe dagirin](https://ggl.link/i18n) û dûv re ji bo ragihandinê beşdarî [navnîşa nameyê](https://groups.google.com/u/2/g/i18n-site) bibin.

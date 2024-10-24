@@ -33,11 +33,10 @@ Maaaring i-edit ang pagsasalin.
 
 Baguhin ang orihinal na teksto at i-machine-translate itong muli, ang mga manu-manong pagbabago sa pagsasalin ay hindi mapapatungan (kung ang talatang ito ng orihinal na teksto ay hindi pa nabago).
 
-Nag-subscribe kami sa " ng `UNIX` "
-
-Maaari mong gamitin ang pinakapamilyar na mga tool upang i-edit `Markdown` pagsasalin (ngunit hindi ka maaaring magdagdag o magtanggal ng mga talata), at gamitin ang pinakapamilyar na paraan upang gawin ang kontrol sa bersyon.
-
-Ang isang code base ay maaaring gawin bilang isang open source para sa mga file ng wika, at sa tulong ng `Pull Request` na proseso, ang mga global na user ay maaaring lumahok sa patuloy na pag-optimize ng mga pagsasalin. Walang putol na koneksyon [github](//github.com) At iba pang open source na komunidad.
+> [!TIP]
+> Nag-subscribe kami sa " ng `UNIX` "
+> Maaari mong gamitin ang pinakapamilyar na mga tool upang i-edit `Markdown` pagsasalin (ngunit hindi ka maaaring magdagdag o magtanggal ng mga talata), at gamitin ang pinakapamilyar na paraan upang gawin ang kontrol sa bersyon.
+> Ang isang code base ay maaaring gawin bilang isang open source para sa mga file ng wika, at sa tulong ng `Pull Request` na proseso, ang mga global na user ay maaaring lumahok sa patuloy na pag-optimize ng mga pagsasalin. Walang putol na koneksyon [github](//github.com) At iba pang open source na komunidad.
 
 [→ Para sa gabay sa gumagamit, pakibasa ang dokumentasyon ng proyekto](/i18) .
 
@@ -103,9 +102,10 @@ Isang multilingual na sistema ng tiket na maaaring magbayad ng mga bounty;
 Isang merkado ng pagbebenta para sa mga internasyonal na bahagi ng front-end;
 Marami pa tayong gustong gawin.
 
-Inaasahan naming makatagpo ang mga taong may kaparehong pag-iisip sa malawak na dagat ng mga tao.
-Naghahanap kami ng mga boluntaryong lalahok sa pagbuo ng open source code at pag-proofread ng mga isinaling teksto.
-Kung interesado ka, mangyaring [→ Mag-click dito upang punan ang iyong profile](https://ggl.link/i18n) at pagkatapos ay sumali [sa mailing list](https://groups.google.com/u/2/g/i18n-site) para sa komunikasyon.
-
 Naniniwala kami sa open source at love sharing,
 Maligayang pagdating upang lumikha ng walang hangganang hinaharap na magkasama.
+
+> [!NOTE]
+> Inaasahan naming makatagpo ang mga taong may kaparehong pag-iisip sa malawak na dagat ng mga tao.
+> Naghahanap kami ng mga boluntaryong lalahok sa pagbuo ng open source code at pag-proofread ng mga isinaling teksto.
+> Kung interesado ka, mangyaring [→ Mag-click dito upang punan ang iyong profile](https://ggl.link/i18n) at pagkatapos ay sumali [sa mailing list](https://groups.google.com/u/2/g/i18n-site) para sa komunikasyon.

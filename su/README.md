@@ -33,11 +33,10 @@ Tarjamahan tiasa diédit.
 
 Ngarobah téks aslina tur mesin-narjamahkeun deui, modifikasi manual kana tarjamahan moal overwritten (lamun ayat ieu téks aslina teu acan dirobah).
 
-Kami ngalanggan filosofi `UNIX` " Sadayana mangrupikeun file " sareng tiasa ngatur tarjamahan kana ratusan basa tanpa ngenalkeun solusi tingkat perusahaan anu rumit sareng pajeulit.
-
-Anjeun tiasa nganggo alat anu paling akrab pikeun ngédit `Markdown` (tapi anjeun teu tiasa nambihan atanapi ngahapus paragraf), sareng nganggo cara anu paling akrab pikeun ngalakukeun kontrol versi.
-
-Dasar kode bisa dijieun salaku open source pikeun file basa, sarta kalayan bantuan `Pull Request` prosés, pamaké global bisa ilubiung dina optimasi kontinyu tina tarjamah. Sambungan mulus [github](//github.com) Sareng komunitas open source anu sanés.
+> [!TIP]
+> Kami ngalanggan filosofi `UNIX` " Sadayana mangrupikeun file " sareng tiasa ngatur tarjamahan kana ratusan basa tanpa ngenalkeun solusi tingkat perusahaan anu rumit sareng pajeulit.
+> Anjeun tiasa nganggo alat anu paling akrab pikeun ngédit `Markdown` (tapi anjeun teu tiasa nambihan atanapi ngahapus paragraf), sareng nganggo cara anu paling akrab pikeun ngalakukeun kontrol versi.
+> Dasar kode bisa dijieun salaku open source pikeun file basa, sarta kalayan bantuan `Pull Request` prosés, pamaké global bisa ilubiung dina optimasi kontinyu tina tarjamah. Sambungan mulus [github](//github.com) Sareng komunitas open source anu sanés.
 
 [→ Pikeun pituduh pamaké, mangga baca dokuméntasi proyék](/i18) .
 
@@ -103,9 +102,10 @@ Sistem tikét multibasa anu tiasa mayar hadiah;
 A pasar jualan pikeun komponén hareup-tungtung internasional;
 Aya seueur deui anu urang hoyong laksanakeun.
 
-Kami ngarepkeun pendak sareng jalma-jalma anu sami dina sagara jalma anu lega.
-Kami milarian sukarelawan pikeun ilubiung dina pamekaran kode sumber terbuka sareng koréksi téks anu ditarjamahkeun.
-Upami anjeun kabetot, mangga [→ Klik di dieu pikeun ngeusian profil anjeun](https://ggl.link/i18n) teras gabung ka [milis](https://groups.google.com/u/2/g/i18n-site) pikeun komunikasi.
-
 Kami percanten ka open source sareng ngabagi cinta,
 Wilujeng sumping babarengan nyiptakeun masa depan tanpa wates.
+
+> [!NOTE]
+> Kami ngarepkeun pendak sareng jalma-jalma anu sami dina sagara jalma anu lega.
+> Kami milarian sukarelawan pikeun ilubiung dina pamekaran kode sumber terbuka sareng koréksi téks anu ditarjamahkeun.
+> Upami anjeun kabetot, mangga [→ Klik di dieu pikeun ngeusian profil anjeun](https://ggl.link/i18n) teras gabung ka [milis](https://groups.google.com/u/2/g/i18n-site) pikeun komunikasi.

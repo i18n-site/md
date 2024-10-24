@@ -2,9 +2,9 @@
 
 ## Ho Kenya Kapa Ho Phumula Mela Ea Phetolelo, Ho Baka Pherekano Phetolelong
 
-Hopola, **palo ea mela e fetoletsoeng e tlameha ho lumellana le mela e ngotsoeng qalong** .
-
-Ka mantsoe a mang, ha u lokisa phetolelo ka letsoho, **u se ke ua eketsa kapa ua hlakola mela ea phetolelo** , ho seng joalo kamano ea 'mapa lipakeng tsa phetolelo le mongolo oa mantlha e tla senyeha.
+> [!WARN]
+> Hopola, **palo ea mela e fetoletsoeng e tlameha ho lumellana le mela e ngotsoeng qalong** .
+> Ka mantsoe a mang, ha u lokisa phetolelo ka letsoho, **u se ke ua eketsa kapa ua hlakola mela ea phetolelo** , ho seng joalo kamano ea 'mapa lipakeng tsa phetolelo le mongolo oa mantlha e tla senyeha.
 
 Haeba ka phoso u kenya kapa ua hlakola mohala, 'me u baka pherekano, ka kopo khutlisetsa phetolelo ho mofuta pele u e fetola, sebelisa `i18` phetolelo hape, 'me u boloke 'mapa o nepahetseng hape.
 

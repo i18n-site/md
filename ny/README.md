@@ -33,11 +33,10 @@ Zomasulirazo ndi zosinthidwa.
 
 Sinthani mawu oyambilira ndikumasuliranso pamakina, zosintha pamanja zomasulira sizidzalembedwanso (ngati ndime iyi yamawu oyamba sinasinthidwe).
 
-Timalembetsa ku " za `UNIX` "
-
-Mutha kugwiritsa ntchito zida zodziwika bwino kuti musinthe `Markdown` (koma simungawonjezere kapena kufufuta ndime), ndikugwiritsa ntchito njira yodziwika bwino yowongolera zomasulira.
-
-Ma code base atha kupangidwa ngati gwero lotseguka la mafayilo azilankhulo, ndipo mothandizidwa ndi njira `Pull Request` , ogwiritsa ntchito padziko lonse lapansi atha kutenga nawo gawo pakukhathamiritsa kosalekeza kwa zomasulira. Kulumikizana [github](//github.com) msoko ndi madera ena otseguka.
+> [!TIP]
+> Timalembetsa ku " za `UNIX` "
+> Mutha kugwiritsa ntchito zida zodziwika bwino kuti musinthe `Markdown` (koma simungawonjezere kapena kufufuta ndime), ndikugwiritsa ntchito njira yodziwika bwino yowongolera zomasulira.
+> Ma code base atha kupangidwa ngati gwero lotseguka la mafayilo azilankhulo, ndipo mothandizidwa ndi njira `Pull Request` , ogwiritsa ntchito padziko lonse lapansi atha kutenga nawo gawo pakukhathamiritsa kosalekeza kwa zomasulira. Kulumikizana [github](//github.com) msoko ndi madera ena otseguka.
 
 [→ Kuti muwongolere ogwiritsa ntchito, chonde werengani zolemba za polojekitiyi](/i18) .
 
@@ -103,9 +102,10 @@ Dongosolo la matikiti azilankhulo zambiri omwe amatha kulipira ndalama;
 Msika wogulitsa kwa zigawo zapadziko lonse lapansi;
 Pali zambiri zomwe tikufuna kuchita.
 
-Tikuyembekezera kukumana ndi anthu amalingaliro ofanana m'nyanja yayikulu ya anthu.
-Tikuyang'ana anthu odzipereka kuti achite nawo ntchito yokonza ma code otsegula ndi kuwerengera malemba omasuliridwa.
-Ngati mukufuna, chonde [→ Dinani apa kuti mudzaze mbiri yanu](https://ggl.link/i18n) ndikulowa nawo [mndandanda wamakalata](https://groups.google.com/u/2/g/i18n-site) kuti mulumikizane.
-
 Timakhulupirira gwero lotseguka ndi kugawana chikondi,
 Takulandirani kuti mupange tsogolo lopanda malire pamodzi.
+
+> [!NOTE]
+> Tikuyembekezera kukumana ndi anthu amalingaliro ofanana m'nyanja yayikulu ya anthu.
+> Tikuyang'ana anthu odzipereka kuti achite nawo ntchito yokonza ma code otsegula ndi kuwerengera malemba omasuliridwa.
+> Ngati mukufuna, chonde [→ Dinani apa kuti mudzaze mbiri yanu](https://ggl.link/i18n) ndikulowa nawo [mndandanda wamakalata](https://groups.google.com/u/2/g/i18n-site) kuti mulumikizane.

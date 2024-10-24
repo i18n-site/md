@@ -126,7 +126,8 @@ Misali la, `_* ` min bɛ sanfɛ-labɛn-dosiyɛri kɔnɔ, o kɔrɔ ye ko dosiye m
 
 Bamanankan baarakɛcogo bɛ se ka ladilan. Sɛbɛn fɔlɔ ladilan ani k’a baara ni masin ye tugun, bololabaara ladilan minnu kɛra bamanankan na, olu tɛna sɛbɛn ka tɛmɛ (ni sɛbɛn fɔlɔ dakun in ma sɛmɛntiya).
 
-Nka aw k’a kɔlɔsi ko bayɛlɛmani sinsinniw ni sɛbɛn fɔlɔw ka kan ka bɛn kelen ni kelen ma. O kɔrɔ ye ko i kana zana fara ɲɔgɔn kan walima k’u bɔ yen ni i bɛ baara kɛ ni bamanankan baarakɛcogo ye. N’o tɛ, a bɛna ɲagami don bamanankan bamanankan-falen-falen-sɛbɛn kɔnɔ.
+> [!WARN]
+> Bamanankan bayɛlɛmani tigɛli ni sɛbɛn fɔlɔw ka kan ka bɛn kelen ni kelen ma. O kɔrɔ ye ko i kana zana fara ɲɔgɔn kan walima k’u bɔ yen ni i bɛ bamanankan bamanankan na. N’o tɛ, a bɛna ɲagami don bamanankan bamanankan-falen-falen-yɔrɔ la.
 
 Ni fɛn dɔ ma ɲɛ, aw bɛ [Ɲininkaliw jaabiw lajɛ walasa ka furaw sɔrɔ.](/i18/qa#H1)
 

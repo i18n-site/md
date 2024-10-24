@@ -33,11 +33,10 @@ Ana iya gyara fassarar.
 
 Gyara ainihin rubutun kuma na'ura-fassara shi kuma, ba za a sake rubuta gyare-gyaren jagora ga fassarar ba (idan wannan sakin layi na ainihin rubutun bai canza ba).
 
-Muna biyan kuɗi zuwa falsafar `UNIX` " fayil " kuma yana iya sarrafa fassarori zuwa ɗaruruwan harsuna ba tare da gabatar da rikitattun matakan kasuwanci ba.
-
-Kuna iya amfani da mafi yawan kayan aikin da kuka saba don gyara `Markdown` (amma ba za ku iya ƙara ko share sakin layi ba), kuma ku yi amfani da hanyar da ta fi dacewa don sarrafa sigar.
-
-Za a iya ƙirƙirar tushe na lamba azaman buɗe tushen fayilolin harshe, kuma tare da taimakon matakai `Pull Request` , masu amfani da duniya za su iya shiga cikin ci gaba da inganta fassarori. Haɗin kai mara kyau [github](//github.com)
+> [!TIP]
+> Muna biyan kuɗi zuwa falsafar `UNIX` " fayil " kuma yana iya sarrafa fassarori zuwa ɗaruruwan harsuna ba tare da gabatar da rikitattun matakan kasuwanci ba.
+> Kuna iya amfani da mafi yawan kayan aikin da kuka saba don gyara `Markdown` (amma ba za ku iya ƙara ko share sakin layi ba), kuma ku yi amfani da hanyar da ta fi dacewa don sarrafa sigar.
+> Za a iya ƙirƙirar tushe na lamba azaman buɗe tushen fayilolin harshe, kuma tare da taimakon matakai `Pull Request` , masu amfani da duniya za su iya shiga cikin ci gaba da inganta fassarori. Haɗin kai mara kyau [github](//github.com)
 
 [→ Don jagorar mai amfani, da fatan za a karanta takaddun aikin](/i18) .
 
@@ -103,9 +102,10 @@ Tsarin tikitin harsuna da yawa wanda zai iya biyan fa'idodi;
 Kasuwancin tallace-tallace don abubuwan haɗin gaban-ƙarshen duniya;
 Akwai abubuwa da yawa da muke son yi.
 
-Muna ɗokin saduwa da mutane masu tunani iri ɗaya a cikin babban tekun mutane.
-Muna neman masu sa kai don shiga cikin haɓaka buɗaɗɗen lambar tushe da kuma tantance rubutun da aka fassara.
-Idan kuna sha'awar, don Allah [→ Danna nan don cike bayanan martaba](https://ggl.link/i18n) sannan ku shiga [jerin aikawasiku](https://groups.google.com/u/2/g/i18n-site) don sadarwa.
-
 Mun yi imani da buɗaɗɗen tushe da raba soyayya,
 Barka da zuwa ƙirƙirar makoma mara iyaka tare.
+
+> [!NOTE]
+> Muna ɗokin saduwa da mutane masu tunani iri ɗaya a cikin babban tekun mutane.
+> Muna neman masu sa kai don shiga cikin haɓaka buɗaɗɗen lambar tushe da kuma tantance rubutun da aka fassara.
+> Idan kuna sha'awar, don Allah [→ Danna nan don cike bayanan martaba](https://ggl.link/i18n) sannan ku shiga [jerin aikawasiku](https://groups.google.com/u/2/g/i18n-site) don sadarwa.

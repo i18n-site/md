@@ -2,9 +2,9 @@
 
 ## Ku Darista Ama Tirtirida Xariiqyada Tarjumaada, Taasoo Keentay Jahawareer Tarjumaada
 
-Xasuusnoow, **tirada xariiqyada tarjumaada waa inay u dhigmaan xariiqyada qoraalka asalka ah** .
-
-Taas macnaheedu waa, marka gacanta lagu hagaajinayo tarjumaadda, **ha ku darin ama ha tirtirin khadadka tarjumaadda** , haddii kale xiriirka khariidaynta ee ka dhexeeya tarjumaada iyo qoraalka asalka ah ayaa khalkhal gelin doona.
+> [!WARN]
+> Xasuusnoow, **tirada xariiqyada tarjumaada waa inay u dhigmaan xariiqyada qoraalka asalka ah** .
+> Taas macnaheedu waa, marka gacanta lagu hagaajinayo tarjumaadda, **ha ku darin ama ha tirtirin khadadka tarjumaadda** , haddii kale xiriirka khariidaynta ee ka dhexeeya tarjumaada iyo qoraalka asalka ah ayaa khalkhal gelin doona.
 
 Haddii aad si lama filaan ah ugu darto ama u tirtirto xariiq, taaso keenaysa jahawareer, fadlan ku soo celi tarjumaadda nooca ka hor inta aan wax laga beddelin, mar kale socodsii `i18` turjumaada, oo dib u kaydi khariidadda saxda ah.
 

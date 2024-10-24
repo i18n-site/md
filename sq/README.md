@@ -33,11 +33,10 @@ Përkthimi është i modifikueshëm.
 
 Ndryshoni tekstin origjinal dhe përkthejeni përsëri me makinë, modifikimet manuale të përkthimit nuk do të mbishkruhen (nëse ky paragraf i tekstit origjinal nuk është modifikuar).
 
-Ne pajtohemi me " e `UNIX` "
-
-Mund të përdorni mjetet më të njohura për të redaktuar `Markdown` (por nuk mund të shtoni ose fshini paragrafë) dhe të përdorni mënyrën më të njohur për të bërë kontrollin e versionit.
-
-Një bazë kodi mund të krijohet si një burim i hapur për skedarët e gjuhës dhe me ndihmën e `Pull Request` proceseve, përdoruesit globalë mund të marrin pjesë në optimizimin e vazhdueshëm të përkthimeve. Lidhje [github](//github.com) probleme dhe komunitete të tjera me burim të hapur.
+> [!TIP]
+> Ne pajtohemi me " e `UNIX` "
+> Mund të përdorni mjetet më të njohura për të redaktuar `Markdown` (por nuk mund të shtoni ose fshini paragrafë) dhe të përdorni mënyrën më të njohur për të bërë kontrollin e versionit.
+> Një bazë kodi mund të krijohet si një burim i hapur për skedarët e gjuhës dhe me ndihmën e `Pull Request` proceseve, përdoruesit globalë mund të marrin pjesë në optimizimin e vazhdueshëm të përkthimeve. Lidhje [github](//github.com) probleme dhe komunitete të tjera me burim të hapur.
 
 [→ Për udhëzuesin e përdorimit, ju lutemi lexoni dokumentacionin e projektit](/i18) .
 
@@ -103,9 +102,10 @@ Një sistem biletash shumëgjuhëshe që mund të paguajë shpërblime;
 Një treg shitjesh për komponentët ndërkombëtarë;
 Ne duam të bëjmë shumë më tepër.
 
-Mezi presim të takojmë njerëz me të njëjtin mendim në detin e madh të njerëzve.
-Ne jemi në kërkim të vullnetarëve për të marrë pjesë në zhvillimin e kodit me burim të hapur dhe korrigjimin e teksteve të përkthyera.
-Nëse jeni të interesuar, ju lutemi [→ Klikoni këtu për të plotësuar profilin tuaj](https://ggl.link/i18n) dhe më pas bashkohuni [në listën e postimeve](https://groups.google.com/u/2/g/i18n-site) për komunikim.
-
 Ne besojmë në burim të hapur dhe ndarjen e dashurisë,
 Mirë se vini për të krijuar një të ardhme pa kufij së bashku.
+
+> [!NOTE]
+> Mezi presim të takojmë njerëz me të njëjtin mendim në detin e madh të njerëzve.
+> Ne jemi në kërkim të vullnetarëve për të marrë pjesë në zhvillimin e kodit me burim të hapur dhe korrigjimin e teksteve të përkthyera.
+> Nëse jeni të interesuar, ju lutemi [→ Klikoni këtu për të plotësuar profilin tuaj](https://ggl.link/i18n) dhe më pas bashkohuni [në listën e postimeve](https://groups.google.com/u/2/g/i18n-site) për komunikim.

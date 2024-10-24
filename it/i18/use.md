@@ -126,7 +126,8 @@ Ad esempio, `_* ` nel file di configurazione sopra significa che i file che iniz
 
 La traduzione è modificabile. Modifica il testo originale e traducilo nuovamente automaticamente, le modifiche manuali alla traduzione non verranno sovrascritte (se questo paragrafo del testo originale non è stato modificato).
 
-Ma tieni presente che le righe della traduzione e del testo originale devono corrispondere una a una. Cioè non aggiungere o eliminare righe durante la compilazione della traduzione. Altrimenti, si creerà confusione nella cache di modifica della traduzione.
+> [!WARN]
+> Le righe della traduzione devono corrispondere esattamente a quelle del testo originale. Questo significa non aggiungere o rimuovere righe durante la traduzione. Altrimenti, si potrebbe causare una disallineamento nella cache di editing della traduzione.
 
 Se qualcosa va storto, fai riferimento [alle domande frequenti per le soluzioni.](/i18/qa#H1)
 

@@ -2,9 +2,9 @@
 
 ## Ukongeza Okanye Ukucima Imigca Yenguqulelo, Okukhokelela Ekubhidekeni Kwinguqulelo
 
-Khumbula, **inani lemigca kwinguqulelo kufuneka lihambelane nemigca ekumbhalo wokuqala** .
-
-Oko kukuthi, xa ulungisa ngesandla uguqulelo, **musa ukongeza okanye ucime imigca yoguqulo** , kungenjalo ubudlelwane bemephu phakathi kwenguqulelo kunye nombhalo wokuqala buya kuphazamiseka.
+> [!WARN]
+> Khumbula, **inani lemigca kwinguqulelo kufuneka lihambelane nemigca ekumbhalo wokuqala** .
+> Oko kukuthi, xa ulungisa ngesandla uguqulelo, **musa ukongeza okanye ucime imigca yoguqulo** , kungenjalo ubudlelwane bemephu phakathi kwenguqulelo kunye nombhalo wokuqala buya kuphazamiseka.
 
 Ukuba wongeza okanye ucime umgca ngempazamo, udala ukubhideka, nceda ubuyisele uguqulelo kuguqulelo ngaphambi kohlengahlengiso, sebenzisa `i18` translation kwakhona, kwaye uphinde ugcizelele imephu echanekileyo.
 

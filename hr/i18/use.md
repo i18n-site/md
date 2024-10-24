@@ -126,7 +126,8 @@ Na primjer, `_* ` u gornjoj konfiguracijskoj datoteci znači da datoteke koje po
 
 Prijevod se može uređivati. Izmijenite izvorni tekst i ponovno ga strojno prevedite, ručne izmjene prijevoda neće biti prebrisane (ako ovaj odlomak izvornog teksta nije izmijenjen).
 
-Ali imajte na umu da se retci prijevoda i izvornog teksta moraju podudarati jedan prema jedan. To jest, nemojte dodavati niti brisati retke prilikom sastavljanja prijevoda. U protivnom će izazvati zabunu u predmemoriji za uređivanje prijevoda.
+> [!WARN]
+> Redci prijevoda i izvornog teksta moraju odgovarati jedan prema jedan. To jest, nemojte dodavati niti brisati retke prilikom sastavljanja prijevoda. U suprotnom, to će izazvati zabunu u predmemoriji za uređivanje prijevoda.
 
 Ako nešto pođe po zlu, molimo pogledajte [FAQ za rješenja.](/i18/qa#H1)
 

@@ -33,11 +33,10 @@ Shanduro yacho inogadzirika.
 
 Shandura mavara ekutanga woashandura zvakare nemuchina, magadzirirwo eshandurudzo haasi kuzonyorwa pamusoro (kana ndima iyi yemavara ekutanga isina kugadziridzwa).
 
-Isu tinonyorera " `UNIX` "
-
-Unogona kushandisa maturusi anonyanyo zivikanwa kugadzirisa `Markdown` (asi haugone kuwedzera kana kudzima ndima), uye shandisa nzira inonyanyo zivikanwa kuita shanduro yekutonga.
-
-Base rekodhi rinogona kugadzirwa seyakavhurika sosi yemafaira emitauro, uye nerubatsiro rwemaitiro `Pull Request` , vashandisi vepasi rose vanogona kutora chikamu mukuenderera mberi kweshanduro. Seamless kubatana [github](//github.com) Uye dzimwe dzakavhurika sosi nharaunda.
+> [!TIP]
+> Isu tinonyorera " `UNIX` "
+> Unogona kushandisa maturusi anonyanyo zivikanwa kugadzirisa `Markdown` (asi haugone kuwedzera kana kudzima ndima), uye shandisa nzira inonyanyo zivikanwa kuita shanduro yekutonga.
+> Base rekodhi rinogona kugadzirwa seyakavhurika sosi yemafaira emitauro, uye nerubatsiro rwemaitiro `Pull Request` , vashandisi vepasi rose vanogona kutora chikamu mukuenderera mberi kweshanduro. Seamless kubatana [github](//github.com) Uye dzimwe dzakavhurika sosi nharaunda.
 
 [→ Kuti uwane gwara remushandisi, ndapota verenga zvinyorwa zveprojekiti](/i18) .
 
@@ -103,9 +102,10 @@ Matikiti emitauro yakawanda anogona kubhadhara mabhonasi;
 Musika wekutengesa kune dzimwe nyika-mberi-kuguma zvikamu;
 Pane zvakawanda zvatinoda kuita.
 
-Tinotarisira kusangana nevanhu vane pfungwa dzakafanana mugungwa rakakura revanhu.
-Tiri kutsvaga vanozvipira kuti vatore chikamu mukugadzira kodhi yakavhurwa sosi uye kuverengera zvinyorwa zvakashandurwa.
-Kana iwe uchida, ndapota [→ Dzvanya apa kuti uzadze chimiro chako](https://ggl.link/i18n) uye wozojoinha [rondedzero yetsamba](https://groups.google.com/u/2/g/i18n-site) yekutaurirana.
-
 Isu tinotenda mune yakavhurika sosi uye kugovana rudo,
 Kugamuchirwa kugadzira ramangwana risina muganhu pamwe chete.
+
+> [!NOTE]
+> Tinotarisira kusangana nevanhu vane pfungwa dzakafanana mugungwa rakakura revanhu.
+> Tiri kutsvaga vanozvipira kuti vatore chikamu mukugadzira kodhi yakavhurwa sosi uye kuverengera zvinyorwa zvakashandurwa.
+> Kana iwe uchida, ndapota [→ Dzvanya apa kuti uzadze chimiro chako](https://ggl.link/i18n) uye wozojoinha [rondedzero yetsamba](https://groups.google.com/u/2/g/i18n-site) yekutaurirana.

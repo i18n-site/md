@@ -2,9 +2,9 @@
 
 ## Lineas Translationis Additis Vel Deletis, Inde in Confusione in Translatione
 
-Memento, **numerus versuum in translatione debet respondere lineis in textu originali** .
-
-Videlicet, cum manually translationem componit, **lineas translationis non addunt vel delebunt** , alioquin relationem destinativam inter translationem et textum primigenium confundetur.
+> [!WARN]
+> Memento, **numerus versuum in translatione debet respondere lineis in textu originali** .
+> Videlicet, cum manually translationem componit, **lineas translationis non addunt vel delebunt** , alioquin relationem destinativam inter translationem et textum primigenium confundetur.
 
 Si lineam accidentaliter addere vel delere, confusionem causans, versionem versioni ante modificationis redde, iterum `i18` translationem curre, et rectam tabulam re- prehende.
 

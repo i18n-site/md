@@ -126,7 +126,8 @@ Umzekelo, `_* ` kwifayile yoqwalaselo engentla ithetha ukuba iifayile eziqala ng
 
 Inguqulelo iyahlelwa. Guqula isicatshulwa soqobo kwaye uguqulelwe ngomatshini kwakhona, ukuguqulwa kwesandla kwinguqulelo akusayi kubhalwa ngaphezulu (ukuba lo mhlathi wombhalo wokuqala awulungiswanga).
 
-Kodwa nceda uqaphele ukuba imigca yenguqulelo kunye nombhalo wokuqala kufuneka uhambelane nomnye. Oko kukuthi, musa ukongeza okanye ukucima imigca xa uqulunqa inguqulelo. Ngaphandle koko, iya kubangela ukubhideka kwi-cache yokuhlela inguqulelo.
+> [!WARN]
+> Imigca yenguqulelo kunye nombhalo wokuqala kufuneka ungqamane omnye nomnye. Oko kukuthi, musa ukongeza okanye ukucima imigca xa uqulunqa inguqulelo. Ngaphandle koko, iya kubangela ukubhideka kwi-cache yokuhlela inguqulelo.
 
 Ukuba kukho into engahambi kakuhle, nceda ubhekisele kwi [-FAQ ngezisombululo.](/i18/qa#H1)
 

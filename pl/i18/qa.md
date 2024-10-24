@@ -2,9 +2,9 @@
 
 ## Dodawanie lub usuwanie wierszy tłumaczenia może prowadzić do chaosu w tekście
 
-Pamiętaj, **liczba wierszy tłumaczenia musi być zgodna z liczbą wierszy w oryginale**.
-
-Oznacza to, że podczas ręcznego dostosowywania tłumaczenia, **nie dodawaj ani nie usuwaj wierszy**.
+> [!WARN]
+> Pamiętaj, **liczba wierszy tłumaczenia musi być zgodna z liczbą wierszy w oryginale**.
+> Oznacza to, że podczas ręcznego dostosowywania tłumaczenia, **nie dodawaj ani nie usuwaj wierszy**.
 
 Jeśli przypadkowo dodasz lub usuniesz wiersz, prowadząc do chaosu, przywróć tłumaczenie do wersji sprzed zmian i uruchom ponownie `i18`, aby odświeżyć poprawne mapowanie.
 

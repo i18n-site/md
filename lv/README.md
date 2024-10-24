@@ -33,11 +33,10 @@ Tulkojums ir rediģējams.
 
 Pārveidojiet oriģinālo tekstu un mašīntulkojiet to vēlreiz, manuālās tulkojuma izmaiņas netiks pārrakstītas (ja šī oriģinālā teksta rindkopa nav mainīta).
 
-Mēs parakstāmies uz `UNIX` filozofiju " Viss ir fails " un varam pārvaldīt tulkojumus simtiem valodu, neieviešot sarežģītus un apgrūtinošus uzņēmuma līmeņa risinājumus.
-
-`Markdown` rediģēšanai varat izmantot pazīstamākos rīkus (bet nevarat pievienot vai dzēst rindkopas) un izmantot vispazīstamāko versiju kontroles veidu.
-
-Kā atvērtā koda valodu failiem var izveidot koda bāzi, un ar `Pull Request` procesu palīdzību globālie lietotāji var piedalīties nepārtrauktā tulkojumu optimizācijā. [github](//github.com) savienojums un citas atvērtā pirmkoda kopienas.
+> [!TIP]
+> Mēs parakstāmies uz `UNIX` filozofiju " Viss ir fails " un varam pārvaldīt tulkojumus simtiem valodu, neieviešot sarežģītus un apgrūtinošus uzņēmuma līmeņa risinājumus.
+> `Markdown` rediģēšanai varat izmantot pazīstamākos rīkus (bet nevarat pievienot vai dzēst rindkopas) un izmantot vispazīstamāko versiju kontroles veidu.
+> Kā atvērtā koda valodu failiem var izveidot koda bāzi, un ar `Pull Request` procesu palīdzību globālie lietotāji var piedalīties nepārtrauktā tulkojumu optimizācijā. [github](//github.com) savienojums un citas atvērtā pirmkoda kopienas.
 
 [→ Lai iegūtu lietotāja rokasgrāmatu, lūdzu, izlasiet projekta dokumentāciju](/i18) .
 
@@ -103,9 +102,10 @@ Daudzvalodu biļešu sistēma, kas var maksāt balvas;
 Starptautisko priekšgala komponentu pārdošanas tirgus;
 Mēs vēlamies darīt daudz vairāk.
 
-Mēs ceram uz tikšanos ar līdzīgi domājošiem cilvēkiem plašajā cilvēku jūrā.
-Meklējam brīvprātīgos dalībai atvērtā pirmkoda izstrādē un tulkoto tekstu korektūrās.
-Ja jūs interesē, lūdzu [→ Noklikšķiniet šeit, lai aizpildītu savu profilu](https://ggl.link/i18n) un pēc tam pievienotos [adresātu sarakstam](https://groups.google.com/u/2/g/i18n-site) saziņai.
-
 Mēs ticam atvērtajam pirmkodam un mīlestības kopīgošanai,
 Laipni lūdzam, lai kopīgi izveidotu nākotni bez robežām.
+
+> [!NOTE]
+> Mēs ceram uz tikšanos ar līdzīgi domājošiem cilvēkiem plašajā cilvēku jūrā.
+> Meklējam brīvprātīgos dalībai atvērtā pirmkoda izstrādē un tulkoto tekstu korektūrās.
+> Ja jūs interesē, lūdzu [→ Noklikšķiniet šeit, lai aizpildītu savu profilu](https://ggl.link/i18n) un pēc tam pievienotos [adresātu sarakstam](https://groups.google.com/u/2/g/i18n-site) saziņai.

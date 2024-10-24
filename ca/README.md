@@ -33,11 +33,10 @@ La traducció és editable.
 
 Modifiqueu el text original i torneu a traduir-lo automàticament, les modificacions manuals a la traducció no seran sobreescrites (si aquest paràgraf del text original no s'ha modificat).
 
-Ens subscrivim a la filosofia de `UNIX` Tot és un fitxer " i podem gestionar traduccions a centenars d'idiomes sense introduir solucions complexes i feixugues a nivell empresarial "
-
-Podeu utilitzar les eines més familiars per editar `Markdown` traducció (però no podeu afegir ni suprimir paràgrafs) i fer servir la manera més familiar de fer el control de versions.
-
-Es pot crear una base de codi com a codi obert per a fitxers d'idioma i, amb l'ajuda de processos `Pull Request` , els usuaris globals poden participar en l'optimització contínua de les traduccions. Connexió perfecta [github](//github.com) altres comunitats de codi obert.
+> [!TIP]
+> Ens subscrivim a la filosofia de `UNIX` Tot és un fitxer " i podem gestionar traduccions a centenars d'idiomes sense introduir solucions complexes i feixugues a nivell empresarial "
+> Podeu utilitzar les eines més familiars per editar `Markdown` traducció (però no podeu afegir ni suprimir paràgrafs) i fer servir la manera més familiar de fer el control de versions.
+> Es pot crear una base de codi com a codi obert per a fitxers d'idioma i, amb l'ajuda de processos `Pull Request` , els usuaris globals poden participar en l'optimització contínua de les traduccions. Connexió perfecta [github](//github.com) altres comunitats de codi obert.
 
 [→ Per a la guia de l'usuari, llegiu la documentació del projecte](/i18) .
 
@@ -103,9 +102,10 @@ Un sistema de bitllets multilingüe que pot pagar recompenses;
 Un mercat de vendes de components de front-end internacionals;
 Hi ha molt més que volem fer.
 
-Esperem conèixer gent amb idees afins al vast mar de persones.
-Busquem voluntaris per participar en el desenvolupament del codi font obert i la correcció de textos traduïts.
-Si estàs interessat, si us plau [→ Fes clic aquí per omplir el teu perfil](https://ggl.link/i18n) i després uneix-te [a la llista de correu](https://groups.google.com/u/2/g/i18n-site) per comunicar-te.
-
 Creiem en el codi obert i estimem compartir,
 Benvinguts a crear junts un futur sense fronteres.
+
+> [!NOTE]
+> Esperem conèixer gent amb idees afins al vast mar de persones.
+> Busquem voluntaris per participar en el desenvolupament del codi font obert i la correcció de textos traduïts.
+> Si estàs interessat, si us plau [→ Fes clic aquí per omplir el teu perfil](https://ggl.link/i18n) i després uneix-te [a la llista de correu](https://groups.google.com/u/2/g/i18n-site) per comunicar-te.

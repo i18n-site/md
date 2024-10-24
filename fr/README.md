@@ -33,11 +33,10 @@ La traduction est modifiable.
 
 Modifiez le texte original et traduisez-le à nouveau automatiquement, les modifications manuelles de la traduction ne seront pas écrasées (si ce paragraphe du texte original n'a pas été modifié).
 
-Nous souscrivons à la philosophie du `UNIX` " Tout est un fichier " et pouvons gérer des traductions dans des centaines de langues sans introduire de solutions complexes et lourdes au niveau de l'entreprise.
-
-Vous pouvez utiliser les outils les plus familiers pour modifier `Markdown` traduction (mais vous ne pouvez pas ajouter ou supprimer de paragraphes) et utiliser la méthode la plus familière pour effectuer le contrôle de version.
-
-Une base de code peut être créée en open source pour les fichiers de langue, et avec l'aide de `Pull Request` processus, les utilisateurs du monde entier peuvent participer à l'optimisation continue des traductions. Connexion transparente [github](//github.com) Et d'autres communautés open source.
+> [!TIP]
+> Nous souscrivons à la philosophie du `UNIX` " Tout est un fichier " et pouvons gérer des traductions dans des centaines de langues sans introduire de solutions complexes et lourdes au niveau de l'entreprise.
+> Vous pouvez utiliser les outils les plus familiers pour modifier `Markdown` traduction (mais vous ne pouvez pas ajouter ou supprimer de paragraphes) et utiliser la méthode la plus familière pour effectuer le contrôle de version.
+> Une base de code peut être créée en open source pour les fichiers de langue, et avec l'aide de `Pull Request` processus, les utilisateurs du monde entier peuvent participer à l'optimisation continue des traductions. Connexion transparente [github](//github.com) Et d'autres communautés open source.
 
 [→ Pour le guide de l'utilisateur, veuillez lire la documentation du projet](/i18) .
 
@@ -103,9 +102,10 @@ Un système de tickets multilingues pouvant payer des primes ;
 Un marché de vente de composants front-end internationaux ;
 Nous voulons faire bien plus.
 
-Nous sommes impatients de rencontrer des personnes partageant les mêmes idées dans la vaste mer de personnes.
-Nous recherchons des bénévoles pour participer au développement de code open source et à la relecture de textes traduits.
-Si vous êtes intéressé, veuillez [→ Cliquez ici pour remplir votre profil](https://ggl.link/i18n) , puis rejoignez [la liste de diffusion](https://groups.google.com/u/2/g/i18n-site) pour communiquer.
-
 Nous croyons en l'open source et aimons le partage,
 Bienvenue pour créer ensemble un avenir sans frontières.
+
+> [!NOTE]
+> Nous sommes impatients de rencontrer des personnes partageant les mêmes idées dans la vaste mer de personnes.
+> Nous recherchons des bénévoles pour participer au développement de code open source et à la relecture de textes traduits.
+> Si vous êtes intéressé, veuillez [→ Cliquez ici pour remplir votre profil](https://ggl.link/i18n) , puis rejoignez [la liste de diffusion](https://groups.google.com/u/2/g/i18n-site) pour communiquer.

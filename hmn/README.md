@@ -33,11 +33,10 @@ Kev txhais lus yog kho tau.
 
 Hloov kho cov ntawv qub thiab tshuab-txhais nws dua, phau ntawv hloov kho rau kev txhais lus yuav tsis raug sau dua (yog tias kab lus no ntawm cov ntawv qub tsis tau hloov kho).
 
-Peb sau npe rau lub " yim ntawm `UNIX` "
-
-Koj tuaj yeem siv cov cuab yeej paub zoo tshaj plaws los kho `Markdown` kev txhais lus (tab sis koj tsis tuaj yeem ntxiv lossis tshem cov kab lus), thiab siv txoj hauv kev paub tshaj plaws los ua cov tswj hwm.
-
-Lub hauv paus code tuaj yeem tsim los ua qhov qhib rau cov ntaub ntawv lus, thiab nrog kev pab ntawm `Pull Request` txheej txheem, cov neeg siv thoob ntiaj teb tuaj yeem koom nrog kev ua kom zoo dua qub ntawm kev txhais lus. Seamless kev sib txuas [github](//github.com)
+> [!TIP]
+> Peb sau npe rau lub " yim ntawm `UNIX` "
+> Koj tuaj yeem siv cov cuab yeej paub zoo tshaj plaws los kho `Markdown` kev txhais lus (tab sis koj tsis tuaj yeem ntxiv lossis tshem cov kab lus), thiab siv txoj hauv kev paub tshaj plaws los ua cov tswj hwm.
+> Lub hauv paus code tuaj yeem tsim los ua qhov qhib rau cov ntaub ntawv lus, thiab nrog kev pab ntawm `Pull Request` txheej txheem, cov neeg siv thoob ntiaj teb tuaj yeem koom nrog kev ua kom zoo dua qub ntawm kev txhais lus. Seamless kev sib txuas [github](//github.com)
 
 [→ Rau cov neeg siv phau ntawv qhia, thov nyeem cov ntaub ntawv ua haujlwm](/i18) .
 
@@ -103,9 +102,10 @@ Ib daim pib ntau hom lus uas tuaj yeem them nyiaj ntau;
 Lub khw muag khoom rau thoob ntiaj teb pem hauv ntej-kawg Cheebtsam;
 Muaj ntau yam peb xav ua.
 
-Peb tos ntsoov yuav ntsib cov neeg zoo li lub siab nyob rau hauv lub hiav txwv loj ntawm cov neeg.
-Peb tab tom nrhiav rau cov neeg ua haujlwm pab dawb los koom nrog hauv kev tsim cov cai qhib thiab ua pov thawj ntawm cov ntawv txhais lus.
-Yog tias koj txaus siab, thov [→ Nyem qhov no los sau koj qhov profile](https://ggl.link/i18n) thiab tom qab ntawd koom nrog [cov npe xa ntawv](https://groups.google.com/u/2/g/i18n-site) rau kev sib txuas lus.
-
 Peb ntseeg hais tias nyob rau hauv qhib qhov chaw thiab hlub kev sib koom,
 Zoo siab txais tos los tsim lub neej yav tom ntej tsis muaj ciam teb ua ke.
+
+> [!NOTE]
+> Peb tos ntsoov yuav ntsib cov neeg zoo li lub siab nyob rau hauv lub hiav txwv loj ntawm cov neeg.
+> Peb tab tom nrhiav rau cov neeg ua haujlwm pab dawb los koom nrog hauv kev tsim cov cai qhib thiab ua pov thawj ntawm cov ntawv txhais lus.
+> Yog tias koj txaus siab, thov [→ Nyem qhov no los sau koj qhov profile](https://ggl.link/i18n) thiab tom qab ntawd koom nrog [cov npe xa ntawv](https://groups.google.com/u/2/g/i18n-site) rau kev sib txuas lus.

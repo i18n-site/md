@@ -126,7 +126,8 @@ Semuenzaniso, `_* ` mune iri pamusoro faira yekumisikidza zvinoreva kuti mafaera
 
 Shanduro yacho inogadzirika. Shandura mavara ekutanga woashandura zvakare nemuchina, magadzirirwo eshandurudzo haasi kuzonyorwa pamusoro (kana ndima iyi yemavara ekutanga isina kugadziridzwa).
 
-Asi ndapota cherechedza kuti mitsetse yeshanduro yacho nemashoko ekutanga anofanira kuenderana mumwe nemumwe. Kureva kuti, usawedzera kana kudzima mitsetse paunenge uchigadzira shanduro. Zvikasadaro, zvinokonzeresa nyonganiso mushanduro editing cache.
+> [!WARN]
+> Mitsetse yeshanduro nemashoko ekutanga anofanira kuenderana mumwe nemumwe. Kureva kuti, usawedzera kana kudzima mitsetse paunenge uchigadzira shanduro. Zvikasadaro, zvinokonzeresa nyonganiso mushanduro editing cache.
 
 Kana chimwe chinhu chisina kumira zvakanaka, ndapota tarisa kune [FAQ kune mhinduro.](/i18/qa#H1)
 

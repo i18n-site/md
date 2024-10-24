@@ -33,11 +33,10 @@ Preklad je upraviteľný.
 
 Upravte pôvodný text a znova ho strojovo preložte, ručné úpravy prekladu sa neprepíšu (ak tento odsek pôvodného textu nebol upravený).
 
-Prihlasujeme sa k filozofii `UNIX` " Všetko je súbor " a dokážeme spravovať preklady do stoviek jazykov bez zavádzania zložitých a ťažkopádnych riešení na podnikovej úrovni.
-
-Na úpravu `Markdown` môžete použiť najznámejšie nástroje (ale nemôžete pridávať ani odstraňovať odseky) a používať najznámejší spôsob kontroly verzií.
-
-Kódová základňa môže byť vytvorená ako open source pre jazykové súbory a pomocou `Pull Request` procesov sa môžu globálni používatelia podieľať na priebežnej optimalizácii prekladov. Bezproblémové pripojenie [github](//github.com) ďalšie komunity s otvoreným zdrojom.
+> [!TIP]
+> Prihlasujeme sa k filozofii `UNIX` " Všetko je súbor " a dokážeme spravovať preklady do stoviek jazykov bez zavádzania zložitých a ťažkopádnych riešení na podnikovej úrovni.
+> Na úpravu `Markdown` môžete použiť najznámejšie nástroje (ale nemôžete pridávať ani odstraňovať odseky) a používať najznámejší spôsob kontroly verzií.
+> Kódová základňa môže byť vytvorená ako open source pre jazykové súbory a pomocou `Pull Request` procesov sa môžu globálni používatelia podieľať na priebežnej optimalizácii prekladov. Bezproblémové pripojenie [github](//github.com) ďalšie komunity s otvoreným zdrojom.
 
 [→ Návod na použitie nájdete v projektovej dokumentácii](/i18) .
 
@@ -103,9 +102,10 @@ Viacjazyčný systém lístkov, ktorý môže vyplácať odmeny;
 Predajný trh pre medzinárodné front-end komponenty;
 Je toho oveľa viac, čo chceme urobiť.
 
-Tešíme sa na stretnutie s podobne zmýšľajúcimi ľuďmi v šírom mori ľudí.
-Hľadáme dobrovoľníkov, ktorí by sa podieľali na vývoji open source kódu a korektúrach preložených textov.
-Ak máte záujem, prosím [→ Kliknite sem, vyplňte svoj profil](https://ggl.link/i18n) a potom sa pridajte do [zoznamu adresátov](https://groups.google.com/u/2/g/i18n-site) pre komunikáciu.
-
 Veríme v open source a milujeme zdieľanie,
 Vitajte pri vytváraní spoločnej budúcnosti bez hraníc.
+
+> [!NOTE]
+> Tešíme sa na stretnutie s podobne zmýšľajúcimi ľuďmi v šírom mori ľudí.
+> Hľadáme dobrovoľníkov, ktorí by sa podieľali na vývoji open source kódu a korektúrach preložených textov.
+> Ak máte záujem, prosím [→ Kliknite sem, vyplňte svoj profil](https://ggl.link/i18n) a potom sa pridajte do [zoznamu adresátov](https://groups.google.com/u/2/g/i18n-site) pre komunikáciu.

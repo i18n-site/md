@@ -126,7 +126,8 @@ Məsələn, yuxarıdakı konfiqurasiya faylında `_* ` , `_` ilə başlayan fayl
 
 Tərcümə redaktə edilə bilər. Orijinal mətni dəyişdirin və onu yenidən maşınla tərcümə edin, tərcümədə əl ilə edilən dəyişikliklərin üzərinə yazılmayacaq (əgər orijinal mətnin bu paraqrafı dəyişdirilməyibsə).
 
-Ancaq unutmayın ki, tərcümənin sətirləri və orijinal mətn birə uyğun olmalıdır. Yəni tərcüməni tərtib edərkən sətirləri əlavə etməyin və silməyin. Əks halda, tərcümə redaktə keşində çaşqınlığa səbəb olacaq.
+> [!WARN]
+> Tərcümənin sətirləri və orijinal mətn birə uyğun olmalıdır. Yəni tərcüməni tərtib edərkən sətirləri əlavə etməyin və silməyin. Əks halda, tərcümə redaktə keşində çaşqınlığa səbəb olacaq.
 
 Əgər bir şey səhv olarsa, [həll yolları üçün tez-tez verilən suallara baxın.](/i18/qa#H1)
 

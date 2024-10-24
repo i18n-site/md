@@ -33,11 +33,10 @@ Inguqulelo iyahlelwa.
 
 Guqula isicatshulwa soqobo kwaye uguqulelwe ngomatshini kwakhona, ukuguqulwa kwesandla kwinguqulelo akusayi kubhalwa ngaphezulu (ukuba lo mhlathi wombhalo wokuqala awulungiswanga).
 
-Sibhalisa kwifilosofi ye- `UNIX` " Yonke into yifayile " kwaye inokulawula iinguqulelo kumakhulu eelwimi ngaphandle kokwazisa izisombululo ezintsonkothileyo nezinzima zenqanaba leshishini.
-
-Ungasebenzisa ezona zixhobo ziqhelekileyo ukuhlela `Markdown` (kodwa awukwazi ukongeza okanye ukucima imihlathi), kwaye usebenzise eyona ndlela iqhelekileyo yokwenza ulawulo loguqulelo.
-
-Isiseko sekhowudi sinokudalwa njengomthombo ovulekileyo weefayile zolwimi, kwaye ngoncedo lweenkqubo ezi `Pull Request` , abasebenzisi behlabathi banokuthatha inxaxheba ekuphuculeni okuqhubekayo kweenguqulelo. Uqhagamshelo olungenamthungo [github](//github.com)
+> [!TIP]
+> Sibhalisa kwifilosofi ye- `UNIX` " Yonke into yifayile " kwaye inokulawula iinguqulelo kumakhulu eelwimi ngaphandle kokwazisa izisombululo ezintsonkothileyo nezinzima zenqanaba leshishini.
+> Ungasebenzisa ezona zixhobo ziqhelekileyo ukuhlela `Markdown` (kodwa awukwazi ukongeza okanye ukucima imihlathi), kwaye usebenzise eyona ndlela iqhelekileyo yokwenza ulawulo loguqulelo.
+> Isiseko sekhowudi sinokudalwa njengomthombo ovulekileyo weefayile zolwimi, kwaye ngoncedo lweenkqubo ezi `Pull Request` , abasebenzisi behlabathi banokuthatha inxaxheba ekuphuculeni okuqhubekayo kweenguqulelo. Uqhagamshelo olungenamthungo [github](//github.com)
 
 [→ Kwisikhokelo somsebenzisi, nceda ufunde amaxwebhu eprojekthi](/i18) .
 
@@ -103,9 +102,10 @@ Inkqubo yamatikiti eelwimi ezininzi enokuhlawula iibhonasi;
 Imakethi yokuthengisa yamacandelo angaphambili aphesheya;
 Ininzi into esifuna ukuyenza.
 
-Sijonge phambili ekudibaneni nabantu abanengqondo efanayo kulwandle olukhulu lwabantu.
-Sijonge amavolontiya ukuba athathe inxaxheba ekuphuhliseni ikhowudi yomthombo ovulekileyo kunye nokuhlolwa kombhalo oguqulelweyo.
-Ukuba unomdla, nceda [→ Cofa apha ukuze ugcwalise iprofayile yakho](https://ggl.link/i18n) kwaye ujoyine [uluhlu lokuposa](https://groups.google.com/u/2/g/i18n-site) lonxibelelwano.
-
 Sikholelwa kumthombo ovulekileyo kunye nokwabelana ngothando,
 Wamkelekile ukwenza ikamva elingenamda kunye.
+
+> [!NOTE]
+> Sijonge phambili ekudibaneni nabantu abanengqondo efanayo kulwandle olukhulu lwabantu.
+> Sijonge amavolontiya ukuba athathe inxaxheba ekuphuhliseni ikhowudi yomthombo ovulekileyo kunye nokuhlolwa kombhalo oguqulelweyo.
+> Ukuba unomdla, nceda [→ Cofa apha ukuze ugcwalise iprofayile yakho](https://ggl.link/i18n) kwaye ujoyine [uluhlu lokuposa](https://groups.google.com/u/2/g/i18n-site) lonxibelelwano.

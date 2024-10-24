@@ -2,9 +2,9 @@
 
 ## Byvoeging of Uitvee Van Reëls Van Die Vertaling, Wat Verwarring in Die Vertaling Tot Gevolg Het
 
-Onthou, **die aantal reëls in die vertaling moet ooreenstem met die reëls in die oorspronklike teks** .
-
-Dit wil sê, wanneer die vertaling met die hand aangepas word, **moenie reëls van die vertaling byvoeg of uitvee nie** , anders sal die karteringverhouding tussen die vertaling en die oorspronklike teks wanordelik wees.
+> [!WARN]
+> Onthou, **die aantal reëls in die vertaling moet ooreenstem met die reëls in die oorspronklike teks** .
+> Dit wil sê, wanneer die vertaling met die hand aangepas word, **moenie reëls van die vertaling byvoeg of uitvee nie** , anders sal die karteringverhouding tussen die vertaling en die oorspronklike teks wanordelik wees.
 
 As jy per ongeluk 'n reël byvoeg of uitvee, wat verwarring veroorsaak, herstel asseblief die vertaling na die weergawe voor wysiging, voer `i18` vertaling weer uit en kas die korrekte kartering weer.
 

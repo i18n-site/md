@@ -126,7 +126,8 @@ Sɛ nhwɛsoɔ no, `_* ` wɔ atifi hɔ nhyehyeɛ fael no mu kyerɛ sɛ fael a ɛf
 
 Nkyerɛase no yɛ nea wotumi sesa. Sesa mfitiase nkyerɛwee no na fa mfiri kyerɛ ase bio, wɔrenkyerɛw nsaano nsakrae a wɔayɛ wɔ nkyerɛase no mu no so (sɛ wɔansakra mfitiase nkyerɛwee no nkyekyem yi a).
 
-Nanso yɛsrɛ sɛ hyɛ no nsow sɛ ɛsɛ sɛ nkyerɛase no mu nkyerɛwde ne mfitiase nkyerɛwee no hyia biako ne biako. Ɛne sɛ, mfa nkyerɛwde nka ho anaa mpopa bere a woreboaboa nkyerɛase no ano no. Sɛ ɛnte saa a, ɛbɛma adwene atu afra wɔ nkyerɛaseɛ nsakraeɛ cache no mu.
+> [!WARN]
+> Ɛsɛ sɛ nkyerɛase no mu nkyerɛwde ne mfitiase nkyerɛwee no hyia biako ne biako. Ɛne sɛ, mfa nkyerɛwde nka ho anaa mpopa bere a woreboaboa nkyerɛase no ano no. Sɛ ɛnte saa a, ɛbɛma adwene atu afra wɔ nkyerɛaseɛ nsakraeɛ cache no mu.
 
 Sɛ biribi ankɔ yiye a, yɛsrɛ wo hwɛ [FAQ no mu na woanya ano aduru.](/i18/qa#H1)
 

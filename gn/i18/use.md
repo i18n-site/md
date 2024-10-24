@@ -126,7 +126,8 @@ Techapyrã, `_* ` oĩva vore ñemboheko yvateguápe heꞌise umi vore oñepyrũv
 
 Pe traduksión ningo ikatu oñemboheko. Emoambue jehaipyre ypykue ha embohasa jey máquina-pe, umi ñemyatyrõ manual ñembohasa rehegua ndojehaimo’ãi (noñemoambuéiramo ko párrafo jehaipyre ypykue rehegua).
 
-Péro eñatendékena umi línea oĩva pe traduksiónpe ha pe téxto orihinál okorresponde vaʼerãha peteĩva. Upéva he ise ani remoĩ térã rembogue línea remohenda jave pe traduksión. Ndaupeichairamo, omoheñóita ñembotavy ñembohasa ñemboheko ryrúpe.
+> [!WARN]
+> Umi línea ojetradusívape ha pe téxto orihinál okorrespondevaʼerã peteĩva peteĩvape. Upéva he ise ani remoĩ térã rembogue línea remohenda jave pe traduksión. Ndaupeichairamo, omoheñóita ñembotavy ñembohasa ñemboheko ryrúpe.
 
 Oĩramo peteĩ mba’e osẽvaíva, ehecha [FAQ-pe umi solución rehegua.](/i18/qa#H1)
 

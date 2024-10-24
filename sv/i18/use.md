@@ -126,7 +126,8 @@ Till exempel betyder `_* ` i ovanstående konfigurationsfil att filer som börja
 
 Översättningen är redigerbar. Ändra originaltexten och maskinöversätt den igen, de manuella ändringarna av översättningen kommer inte att skrivas över (om detta stycke i originaltexten inte har ändrats).
 
-Men observera att raderna i översättningen och originaltexten måste motsvara en till en. Det vill säga, lägg inte till eller ta bort rader när du kompilerar översättningen. Annars kommer det att orsaka förvirring i översättningsredigeringscachen.
+> [!WARN]
+> Raderna i översättningen och originaltexten måste motsvara en till en. Det vill säga, lägg inte till eller ta bort rader när du kompilerar översättningen. Annars kommer det att orsaka förvirring i översättningsredigeringscachen.
 
 Om något går fel, se [FAQ för lösningar.](/i18/qa#H1)
 

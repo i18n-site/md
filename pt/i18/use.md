@@ -126,7 +126,8 @@ Exemplo: `_*` no arquivo de configuração acima significa que arquivos começad
 
 A tradução é editável. Modificar o texto original e traduzir novamente não substituirá as modificações manuais na tradução (se o parágrafo original não foi modificado).
 
-Mas observe que as linhas da tradução e do texto original devem corresponder uma a uma. Ou seja, não adicione ou exclua linhas na tradução, caso contrário, causará confusão no cache de edição da tradução.
+> [!WARN]
+> As linhas da tradução e do texto original devem corresponder uma a uma. Ou seja, não adicione ou exclua linhas ao compilar a tradução. Caso contrário, causará confusão no cache de edição da tradução.
 
 Se houver algum problema, consulte [as soluções nas perguntas frequentes](/i18/qa#H1)
 

@@ -126,7 +126,8 @@ Ví dụ: `_* ` trong tệp cấu hình ở trên có nghĩa là các tệp bắ
 
 Bản dịch có thể chỉnh sửa được. Sửa đổi văn bản gốc và dịch lại bằng máy, những sửa đổi thủ công đối với bản dịch sẽ không bị ghi đè (nếu đoạn này của văn bản gốc chưa được sửa đổi).
 
-Nhưng xin lưu ý rằng các dòng của bản dịch và văn bản gốc phải tương ứng với nhau. Tức là không thêm bớt dòng khi biên dịch bản dịch. Nếu không, nó sẽ gây nhầm lẫn trong bộ đệm chỉnh sửa bản dịch.
+> [!WARN]
+> Các dòng của bản dịch và văn bản gốc phải tương ứng với nhau. Tức là không thêm bớt dòng khi biên dịch bản dịch. Nếu không, nó sẽ gây nhầm lẫn trong bộ đệm chỉnh sửa bản dịch.
 
 Nếu có sự cố xảy ra, vui lòng tham khảo [Câu hỏi thường gặp để biết giải pháp.](/i18/qa#H1)
 

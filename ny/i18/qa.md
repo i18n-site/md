@@ -2,9 +2,9 @@
 
 ## Kuonjezera Kapena Kuchotsa Mizere Yomasulira, Zomwe Zimapangitsa Kuti Pakhale Chisokonezo Pakumasulira
 
-Kumbukirani kuti **mizere yomasulirayo iyenera kugwirizana ndi mizere yoyambirira** .
-
-Izi zikutanthauza kuti, mukamakonza zomasulira pamanja, **musawonjezere kapena kufufuta mizere yomasulira** , apo ayi ubale wamapu pakati pa zomasulirazo ndi zoyamba sizingachitike.
+> [!WARN]
+> Kumbukirani kuti **mizere yomasulirayo iyenera kugwirizana ndi mizere yoyambirira** .
+> Izi zikutanthauza kuti, mukamakonza zomasulira pamanja, **musawonjezere kapena kufufuta mizere yomasulira** , apo ayi ubale wamapu pakati pa zomasulirazo ndi zoyamba sizingachitike.
 
 Mukawonjezera kapena kuchotsa mzere mwangozi, zomwe zikuyambitsa chisokonezo, chonde bwezeretsani zomasulirazo musanasinthe, yambitsaninso zomasulira `i18` , ndikusunganso mapu olondola.
 

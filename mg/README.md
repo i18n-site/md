@@ -33,11 +33,10 @@ Azo ovaina ny dikanteny.
 
 Ovay ny lahatsoratra tany am-boalohany ary adikao amin'ny masinina indray, ny fanovana amin'ny tanana amin'ny dikanteny dia tsy hosoratana (raha toa ka tsy novana ity andalana ity amin'ny lahatsoratra tany am-boalohany).
 
-Misoratra anarana amin'ny " `UNIX` izahay "
-
-Azonao atao ny mampiasa ny fitaovana mahazatra indrindra hanitsiana `Markdown` dikanteny (fa tsy azonao atao ny manampy na mamafa fehintsoratra), ary mampiasa ny fomba mahazatra indrindra hanaovana fanaraha-maso ny dikan-teny.
-
-Ny fototry ny kaody dia azo noforonina ho loharano misokatra ho an'ny rakitra fiteny, ary miaraka amin'ny fanampian'ny dingana `Pull Request` , ireo mpampiasa manerantany dia afaka mandray anjara amin'ny fanatsarana mitohy ny fandikan-teny. Fifandraisana tsy misy olana [github](//github.com) Ary ireo vondrom-piarahamonina open source.
+> [!TIP]
+> Misoratra anarana amin'ny " `UNIX` izahay "
+> Azonao atao ny mampiasa ny fitaovana mahazatra indrindra hanitsiana `Markdown` dikanteny (fa tsy azonao atao ny manampy na mamafa fehintsoratra), ary mampiasa ny fomba mahazatra indrindra hanaovana fanaraha-maso ny dikan-teny.
+> Ny fototry ny kaody dia azo noforonina ho loharano misokatra ho an'ny rakitra fiteny, ary miaraka amin'ny fanampian'ny dingana `Pull Request` , ireo mpampiasa manerantany dia afaka mandray anjara amin'ny fanatsarana mitohy ny fandikan-teny. Fifandraisana tsy misy olana [github](//github.com) Ary ireo vondrom-piarahamonina open source.
 
 [→ Ho an'ny torolalana ho an'ny mpampiasa, vakio azafady ny antontan-taratasy momba ny tetikasa](/i18) .
 
@@ -103,9 +102,10 @@ Rafitra tapakila amin'ny fiteny maro izay afaka mandoa vola;
 Tsenan'ny varotra ho an'ny singa eo anoloana iraisam-pirenena;
 Mbola betsaka kokoa ny tiantsika hatao.
 
-Tsy andrinay ny hihaona amin'ireo olona mitovy hevitra amin'ny ranomasina midadasika.
-Mitady mpilatsaka an-tsitrapo handray anjara amin'ny famolavolana kaody loharano misokatra sy fanitsiana ireo lahatsoratra nadika.
-Raha liana ianao, azafady [→ Tsindrio eto raha hameno ny mombamomba anao](https://ggl.link/i18n) ary avy eo midira ao [amin'ny lisitry ny mailaka](https://groups.google.com/u/2/g/i18n-site) hifandraisana.
-
 Mino ny loharano misokatra sy mizara fitiavana izahay,
 Tongasoa eto miaraka hamorona hoavy tsy misy sisintany.
+
+> [!NOTE]
+> Tsy andrinay ny hihaona amin'ireo olona mitovy hevitra amin'ny ranomasina midadasika.
+> Mitady mpilatsaka an-tsitrapo handray anjara amin'ny famolavolana kaody loharano misokatra sy fanitsiana ireo lahatsoratra nadika.
+> Raha liana ianao, azafady [→ Tsindrio eto raha hameno ny mombamomba anao](https://ggl.link/i18n) ary avy eo midira ao [amin'ny lisitry ny mailaka](https://groups.google.com/u/2/g/i18n-site) hifandraisana.

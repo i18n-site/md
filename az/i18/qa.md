@@ -2,9 +2,9 @@
 
 ## Tərcümə Sətirlərinin Əlavə Edilməsi Və Ya Silinməsi Tərcümədə Qarışıqlığa Səbəb Olur
 
-Unutmayın ki, **tərcümədəki sətirlərin sayı orijinal mətndəki sətirlərə uyğun olmalıdır** .
-
-Yəni tərcüməni əl ilə düzəldərkən, **tərcümənin sətirlərini əlavə etməyin və ya silməyin** , əks halda tərcümə ilə orijinal mətn arasındakı xəritə əlaqəsi pozulacaq.
+> [!WARN]
+> Unutmayın ki, **tərcümədəki sətirlərin sayı orijinal mətndəki sətirlərə uyğun olmalıdır** .
+> Yəni tərcüməni əl ilə düzəldərkən, **tərcümənin sətirlərini əlavə etməyin və ya silməyin** , əks halda tərcümə ilə orijinal mətn arasındakı xəritə əlaqəsi pozulacaq.
 
 Təsadüfən sətir əlavə etsəniz və ya silsəniz, çaşqınlığa səbəb olarsanız, lütfən, modifikasiyadan əvvəl tərcüməni versiyaya bərpa edin, yenidən `i18` tərcüməni işə salın və düzgün xəritələşdirməni yenidən keşləyin.
 

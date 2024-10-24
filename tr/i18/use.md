@@ -126,7 +126,8 @@ Belirli dosyaları yok saymak ve bunları çevirmek istemiyorsanız (tamamlanmam
 
 Çeviri düzenlenebilir. Orijinal metni değiştirin ve makineyle tekrar çevirin; çeviride yapılan manüel değişikliklerin üzerine yazılmayacaktır (eğer orijinal metnin bu paragrafı değiştirilmemişse).
 
-Ancak çevirideki satırların ve orijinal metnin bire bir örtüşmesi gerektiğini lütfen unutmayın. Yani çeviriyi derlerken satır eklemeyin veya silmeyin. Aksi takdirde çeviri düzenleme önbelleğinde karışıklığa neden olur.
+> [!WARN]
+> Çevirinin satırları ile asıl metnin satırları birebir örtüşmelidir. Yani çeviriyi derlerken satır eklemeyin veya silmeyin. Aksi takdirde çeviri düzenleme önbelleğinde karışıklığa neden olur.
 
 Bir şeyler ters giderse [çözümler için lütfen SSS'ye bakın.](/i18/qa#H1)
 

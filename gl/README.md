@@ -33,11 +33,10 @@ A tradución é editable.
 
 Modifique o texto orixinal e tradúceo de novo, as modificacións manuais da tradución non se sobrescribirán (se este parágrafo do texto orixinal non foi modificado).
 
-Subscribímonos á filosofía " `UNIX` Todo é un ficheiro " e podemos xestionar traducións a centos de idiomas sen introducir solucións complexas e engorrosas a nivel empresarial.
-
-Podes usar as ferramentas máis coñecidas para editar `Markdown` tradución (pero non podes engadir nin eliminar parágrafos) e utilizar o xeito máis familiar de facer o control de versións.
-
-Pódese crear unha base de código como fonte aberta para ficheiros de idiomas e, coa axuda de procesos `Pull Request` , os usuarios globais poden participar na optimización continua das traducións. Conexión perfecta [github](//github.com) outras comunidades de código aberto.
+> [!TIP]
+> Subscribímonos á filosofía " `UNIX` Todo é un ficheiro " e podemos xestionar traducións a centos de idiomas sen introducir solucións complexas e engorrosas a nivel empresarial.
+> Podes usar as ferramentas máis coñecidas para editar `Markdown` tradución (pero non podes engadir nin eliminar parágrafos) e utilizar o xeito máis familiar de facer o control de versións.
+> Pódese crear unha base de código como fonte aberta para ficheiros de idiomas e, coa axuda de procesos `Pull Request` , os usuarios globais poden participar na optimización continua das traducións. Conexión perfecta [github](//github.com) outras comunidades de código aberto.
 
 [→ Para a guía do usuario, lea a documentación do proxecto](/i18) .
 
@@ -103,9 +102,10 @@ Un sistema de billetes multilingüe que pode pagar recompensas;
 Un mercado de vendas de compoñentes front-end internacionais;
 Hai moito máis que queremos facer.
 
-Agardamos coñecer xente afín no vasto mar de xente.
-Buscamos voluntarios para participar no desenvolvemento de código fonte aberto e corrección de textos traducidos.
-Se estás interesado, [→ Fai clic aquí para cubrir o teu perfil](https://ggl.link/i18n) e logo únete [á lista de correo](https://groups.google.com/u/2/g/i18n-site) para comunicarte.
-
 Cremos no código aberto e amamos compartir,
 Benvido a crear xuntos un futuro sen fronteiras.
+
+> [!NOTE]
+> Agardamos coñecer xente afín no vasto mar de xente.
+> Buscamos voluntarios para participar no desenvolvemento de código fonte aberto e corrección de textos traducidos.
+> Se estás interesado, [→ Fai clic aquí para cubrir o teu perfil](https://ggl.link/i18n) e logo únete [á lista de correo](https://groups.google.com/u/2/g/i18n-site) para comunicarte.

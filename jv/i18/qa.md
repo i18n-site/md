@@ -2,9 +2,9 @@
 
 ## Nambah Utawa Mbusak Baris Terjemahan, Nyebabake Kebingungan Ing Terjemahan
 
-Elinga, **jumlah baris ing terjemahan kudu cocog karo garis ing teks asli** .
-
-Tegese, nalika nyetel terjemahan kanthi manual, **aja nambah utawa mbusak baris terjemahan** , yen ora, hubungan pemetaan antarane terjemahan lan teks asli bakal ora teratur.
+> [!WARN]
+> Elinga, **jumlah baris ing terjemahan kudu cocog karo garis ing teks asli** .
+> Tegese, nalika nyetel terjemahan kanthi manual, **aja nambah utawa mbusak baris terjemahan** , yen ora, hubungan pemetaan antarane terjemahan lan teks asli bakal ora teratur.
 
 Yen sampeyan ora sengaja nambah utawa mbusak baris, nyebabake kebingungan, mulihake terjemahan menyang versi sadurunge modifikasi, bukak terjemahan `i18` maneh, lan cache maneh pemetaan sing bener.
 

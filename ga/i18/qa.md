@@ -2,9 +2,9 @@
 
 ## Línte Den Aistriúchán a Chur Leis Nó a Scriosadh, Rud a Fhágann Go Bhfuil Mearbhall San Aistriúchán
 
-Cuimhnigh, **caithfidh líon na línte san aistriúchán a bheith ag freagairt do na línte sa bhuntéacs** .
-
-Is é sin le rá, agus an t-aistriúchán á choigeartú de láimh, **ná cuir leis nó scrios línte den aistriúchán** , nó beidh neamhord ar an ngaolmhaireacht léarscáilithe idir an t-aistriúchán agus an buntéacs.
+> [!WARN]
+> Cuimhnigh, **caithfidh líon na línte san aistriúchán a bheith ag freagairt do na línte sa bhuntéacs** .
+> Is é sin le rá, agus an t-aistriúchán á choigeartú de láimh, **ná cuir leis nó scrios línte den aistriúchán** , nó beidh neamhord ar an ngaolmhaireacht léarscáilithe idir an t-aistriúchán agus an buntéacs.
 
 Má chuireann tú nó má scriosann tú líne trí thimpiste, rud a chuireann mearbhall ort, cuir an t-aistriúchán ar ais go dtí an leagan roimh an mionathrú, le do thoil, rith `i18` aistriúchán arís, agus cuir an léarscáiliú ceart i dtaisce arís.
 

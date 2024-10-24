@@ -126,7 +126,8 @@ De exemplu, `_* ` în fișierul de configurare de mai sus înseamnă că fișier
 
 Traducerea este editabilă. Modificați textul original și traduceți-l din nou automat, modificările manuale ale traducerii nu vor fi suprascrise (dacă acest paragraf al textului original nu a fost modificat).
 
-Dar vă rugăm să rețineți că rândurile traducerii și textul original trebuie să corespundă unul la unul. Adică nu adăugați sau ștergeți linii atunci când compilați traducerea. În caz contrar, va provoca confuzie în memoria cache de editare a traducerii.
+> [!WARN]
+> Rândurile traducerii și textul original trebuie să corespundă unu la unu. Adică nu adăugați sau ștergeți linii atunci când compilați traducerea. În caz contrar, va provoca confuzie în memoria cache de editare a traducerii.
 
 Dacă ceva nu merge bine, consultați [întrebările frecvente pentru soluții.](/i18/qa#H1)
 

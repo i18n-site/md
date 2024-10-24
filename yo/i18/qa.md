@@ -2,9 +2,9 @@
 
 ## Ṣafikun Tabi Piparẹ Awọn Ila Ti Itumọ Naa, Ti O Fa Idarudapọ Ninu Itumọ Naa
 
-Ranti, **nọmba awọn ila ti o wa ninu itumọ gbọdọ ni ibamu si awọn ila ti o wa ninu ọrọ atilẹba** .
-
-Iyẹn ni lati sọ, nigbati o ba n ṣatunṣe itumọ pẹlu ọwọ, **maṣe ṣafikun tabi paarẹ awọn ila ti itumọ** , bibẹẹkọ ibatan aworan agbaye laarin itumọ ati ọrọ atilẹba yoo jẹ idaru.
+> [!WARN]
+> Ranti, **nọmba awọn ila ti o wa ninu itumọ gbọdọ ni ibamu si awọn ila ti o wa ninu ọrọ atilẹba** .
+> Iyẹn ni lati sọ, nigbati o ba n ṣatunṣe itumọ pẹlu ọwọ, **maṣe ṣafikun tabi paarẹ awọn ila ti itumọ** , bibẹẹkọ ibatan aworan agbaye laarin itumọ ati ọrọ atilẹba yoo jẹ idaru.
 
 Ti o ba ṣafikun lairotẹlẹ tabi paarẹ laini kan, ti o nfa idarudapọ, jọwọ mu itumọ pada si ẹya ṣaaju iyipada, ṣiṣẹ itumọ `i18` lẹẹkansi, ki o tun kaṣe aworan agbaye to pe.
 

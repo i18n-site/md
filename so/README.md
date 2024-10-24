@@ -33,11 +33,10 @@ Turjumaada waa la tafatiri karaa
 
 Wax ka beddel qoraalka asalka ah oo mashiinka-turjumi mar kale, wax ka beddelka buug-gacmeedka ee tarjumaada dib looma qori doono (haddii cutubkan qoraalka asalka ah aan wax laga beddelin).
 
-Waxaan ku biirnay falsafada `UNIX` Wax walba waa fayl " waxayna maamuli karaan tarjumaadaha boqolaal luqadood anagoon soo bandhigin xalal adag oo heer ganacsi " .
-
-Waxaad isticmaali kartaa qalabka ugu caansan si aad u saxdo `Markdown` (laakin ma ku dari kartid ama ma tirtiri kartid cutubyada), oo aad isticmaasho habka ugu caansan ee lagu xakameynayo nooca.
-
-Saldhig kood ayaa loo abuuri karaa il furan oo loogu talagalay faylalka luqadda, iyo iyadoo la kaashanayo hababka `Pull Request` , isticmaalayaasha caalamiga ah waxay ka qaybqaadan karaan hagaajinta joogtada ah ee tarjumaada. Isku xirka aan kala go'a lahayn [github](//github.com) bulshooyinka kale ee il furan.
+> [!TIP]
+> Waxaan ku biirnay falsafada `UNIX` Wax walba waa fayl " waxayna maamuli karaan tarjumaadaha boqolaal luqadood anagoon soo bandhigin xalal adag oo heer ganacsi " .
+> Waxaad isticmaali kartaa qalabka ugu caansan si aad u saxdo `Markdown` (laakin ma ku dari kartid ama ma tirtiri kartid cutubyada), oo aad isticmaasho habka ugu caansan ee lagu xakameynayo nooca.
+> Saldhig kood ayaa loo abuuri karaa il furan oo loogu talagalay faylalka luqadda, iyo iyadoo la kaashanayo hababka `Pull Request` , isticmaalayaasha caalamiga ah waxay ka qaybqaadan karaan hagaajinta joogtada ah ee tarjumaada. Isku xirka aan kala go'a lahayn [github](//github.com) bulshooyinka kale ee il furan.
 
 [→ Hagaha isticmaalaha, fadlan akhri dukumentiga mashruuca](/i18) .
 
@@ -103,9 +102,10 @@ Nidaam tigidh luuqado badan ku hadla oo bixin kara faa'iidooyin;
 Suuqa iibka ee qaybaha hore ee caalamiga ah;
 Waxaa jira wax badan oo kale oo aan rabno inaan sameyno.
 
-Waxaan rajeyneynaa inaan la kulanno dadka isku fikirka ah ee ku sugan badweynta dadka.
-Waxaan raadineynaa tabaruceyaal si ay uga qaybqaataan horumarinta koodhka isha furan iyo saxidda qoraallada la turjumay.
-Haddii aad xiisaynayso, fadlan [→ Riix halkan si aad u buuxiso profile-kaaga](https://ggl.link/i18n) ka dibna ku biir [liiska boostada](https://groups.google.com/u/2/g/i18n-site) ee isgaarsiinta.
-
 Waxaan aaminsanahay il furan iyo wadaag jacayl,
 Ku soo dhawoow inaad wada abuurtaan mustaqbal aan xuduud lahayn.
+
+> [!NOTE]
+> Waxaan rajeyneynaa inaan la kulanno dadka isku fikirka ah ee ku sugan badweynta dadka.
+> Waxaan raadineynaa tabaruceyaal si ay uga qaybqaataan horumarinta koodhka isha furan iyo saxidda qoraallada la turjumay.
+> Haddii aad xiisaynayso, fadlan [→ Riix halkan si aad u buuxiso profile-kaaga](https://ggl.link/i18n) ka dibna ku biir [liiska boostada](https://groups.google.com/u/2/g/i18n-site) ee isgaarsiinta.

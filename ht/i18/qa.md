@@ -2,9 +2,9 @@
 
 ## Ajoute Oswa Efase Liy Tradiksyon an, Sa Ki Lakòz Konfizyon Nan Tradiksyon An
 
-Sonje byen, **kantite liy ki nan tradiksyon an dwe koresponn ak liy ki nan tèks orijinal la** .
-
-Sa vle di, lè w ap ajiste tradiksyon an manyèlman, **pa ajoute oswa efase liy tradiksyon an** , otreman relasyon kat tradiksyon an ak tèks orijinal la ap deranje.
+> [!WARN]
+> Sonje byen, **kantite liy ki nan tradiksyon an dwe koresponn ak liy ki nan tèks orijinal la** .
+> Sa vle di, lè w ap ajiste tradiksyon an manyèlman, **pa ajoute oswa efase liy tradiksyon an** , otreman relasyon kat tradiksyon an ak tèks orijinal la ap deranje.
 
 Si ou aksidantèlman ajoute oswa efase yon liy, sa ki lakòz konfizyon, tanpri retabli tradiksyon an nan vèsyon an anvan modifikasyon, kouri `i18` tradiksyon ankò, epi re-kache kat ki kòrèk la.
 

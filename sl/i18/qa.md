@@ -2,9 +2,9 @@
 
 ## Dodajanje Ali Brisanje Vrstic Prevoda, Kar Povzroči Zmedo v Prevodu
 
-Ne pozabite, **da mora število vrstic v prevodu ustrezati vrsticam v izvirnem besedilu** .
-
-To pomeni, da pri ročnem prilagajanju prevoda **ne dodajajte ali brišite vrstic prevoda** , sicer bo razmerje preslikave med prevodom in izvirnim besedilom neurejeno.
+> [!WARN]
+> Ne pozabite, **da mora število vrstic v prevodu ustrezati vrsticam v izvirnem besedilu** .
+> To pomeni, da pri ročnem prilagajanju prevoda **ne dodajajte ali brišite vrstic prevoda** , sicer bo razmerje preslikave med prevodom in izvirnim besedilom neurejeno.
 
 Če pomotoma dodate ali izbrišete vrstico, kar povzroči zmedo, obnovite prevod na različico pred spremembo, znova zaženite prevod `i18` in znova predpomnite pravilno preslikavo.
 

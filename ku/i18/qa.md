@@ -2,9 +2,9 @@
 
 ## Zêdekirin an Jêbirina Rêzikên Wergerê, Dibe Sedema Tevliheviya Wergerê
 
-Bînin bîra xwe, **divê hejmara rêzikên di wergerê de li gorî rêzikên di nivîsa orîjînal de be** .
-
-Ango dema ku werger bi destan were sererastkirin, **rêzikên wergerê zêde nekin an jê nebin** , wekî din dê têkiliya nexşeyê ya di navbera werger û metnê orîjînal de xera bibe.
+> [!WARN]
+> Bînin bîra xwe, **divê hejmara rêzikên di wergerê de li gorî rêzikên di nivîsa orîjînal de be** .
+> Ango dema ku werger bi destan were sererastkirin, **rêzikên wergerê zêde nekin an jê nebin** , wekî din dê têkiliya nexşeyê ya di navbera werger û metnê orîjînal de xera bibe.
 
 Ger hûn bi xeletî xêzek lê zêde bikin an jêbikin, ku bibe sedema tevliheviyê, ji kerema xwe vegerê li guhertoya berî guheztinê vegerînin, `i18` wergerandinê dîsa bixebitînin û nexşeya rast ji nû ve cache bikin.
 

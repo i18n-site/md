@@ -33,11 +33,10 @@ Oversættelsen kan redigeres.
 
 Rediger den originale tekst og maskinoversæt den igen, de manuelle ændringer af oversættelsen vil ikke blive overskrevet (hvis dette afsnit i den originale tekst ikke er blevet ændret).
 
-Vi abonnerer på filosofien " `UNIX` Alt er en fil " og kan administrere oversættelser til hundredvis af sprog uden at introducere komplekse og besværlige løsninger på virksomhedsniveau.
-
-Du kan bruge de mest velkendte værktøjer til at redigere `Markdown` (men du kan ikke tilføje eller slette afsnit), og bruge den mest velkendte måde at udføre versionskontrol på.
-
-En kodebase kan oprettes som open source for sprogfiler, og ved hjælp af `Pull Request` processer kan globale brugere deltage i den løbende optimering af oversættelser. Problemfri [github](//github.com) og andre open source-fællesskaber.
+> [!TIP]
+> Vi abonnerer på filosofien " `UNIX` Alt er en fil " og kan administrere oversættelser til hundredvis af sprog uden at introducere komplekse og besværlige løsninger på virksomhedsniveau.
+> Du kan bruge de mest velkendte værktøjer til at redigere `Markdown` (men du kan ikke tilføje eller slette afsnit), og bruge den mest velkendte måde at udføre versionskontrol på.
+> En kodebase kan oprettes som open source for sprogfiler, og ved hjælp af `Pull Request` processer kan globale brugere deltage i den løbende optimering af oversættelser. Problemfri [github](//github.com) og andre open source-fællesskaber.
 
 [→ For brugervejledning, læs venligst projektdokumentationen](/i18) .
 
@@ -103,9 +102,10 @@ Et flersproget billetsystem, der kan udbetale dusører;
 Et salgsmarked for internationale front-end komponenter;
 Der er meget mere, vi gerne vil gøre.
 
-Vi glæder os til at møde ligesindede i det store hav af mennesker.
-Vi søger frivillige til at deltage i udviklingen af open source-kode og korrekturlæsning af oversatte tekster.
-Hvis du er interesseret, så [→ Klik her for at udfylde din profil](https://ggl.link/i18n) og tilmeld dig [mailinglisten](https://groups.google.com/u/2/g/i18n-site) for kommunikation.
-
 Vi tror på open source og elsker at dele,
 Velkommen til at skabe en grænseløs fremtid sammen.
+
+> [!NOTE]
+> Vi glæder os til at møde ligesindede i det store hav af mennesker.
+> Vi søger frivillige til at deltage i udviklingen af open source-kode og korrekturlæsning af oversatte tekster.
+> Hvis du er interesseret, så [→ Klik her for at udfylde din profil](https://ggl.link/i18n) og tilmeld dig [mailinglisten](https://groups.google.com/u/2/g/i18n-site) for kommunikation.

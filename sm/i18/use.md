@@ -126,7 +126,8 @@ Mo se faʻataʻitaʻiga, `_* ` i le faila faʻatulagaina o loʻo i luga o lona u
 
 O le faaliliuga e mafai ona faasa'oina. Suia le ulua'i tusitusiga ma toe fa'aliliu i le masini, o le a le toe fa'aliliuina le fa'aliliuga a le tusi lesona (pe afai e le'i suia lenei parakalafa o le ulua'i tusitusiga).
 
-Ae faamolemole ia matau o laina o le faaliliuga ma le uluai tusitusiga e tatau ona tutusa le tasi i le tasi. O lona uiga, aua le fa'aopoopo pe tape laina pe a tu'ufa'atasia le fa'aliliuga. A leai, o le a mafua ai le fenumiai i le fa'aliliuga fa'atonutonu cache.
+> [!WARN]
+> O laina o le faaliliuga ma le uluai tusitusiga e tatau ona tutusa le tasi i le tasi. O lona uiga, aua le fa'aopoopo pe tape laina pe a tu'ufa'atasia le fa'aliliuga. A leai, o le a mafua ai le fenumiai i le fa'aliliuga fa'atonutonu cache.
 
 Afai ei ai se mea ua faaletonu, faamolemole tagai ile [FAQ mo fofo.](/i18/qa#H1)
 

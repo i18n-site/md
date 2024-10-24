@@ -126,7 +126,8 @@ Misalnya, `_* ` pada file konfigurasi di atas berarti file yang dimulai dengan `
 
 Terjemahannya dapat diedit. Ubah teks asli dan terjemahkan lagi dengan mesin, modifikasi manual pada terjemahan tidak akan ditimpa (jika paragraf teks asli ini belum diubah).
 
-Namun perlu diketahui bahwa baris-baris terjemahan dan teks aslinya harus bersesuaian satu per satu. Artinya, tidak menambah atau menghapus baris saat menyusun terjemahan. Jika tidak, ini akan menyebabkan kebingungan dalam cache pengeditan terjemahan.
+> [!WARN]
+> Baris-baris terjemahan dan teks asli harus bersesuaian satu per satu. Artinya, tidak menambah atau menghapus baris saat menyusun terjemahan. Jika tidak, ini akan menyebabkan kebingungan dalam cache pengeditan terjemahan.
 
 Jika terjadi kesalahan, silakan merujuk ke [FAQ untuk mendapatkan solusinya.](/i18/qa#H1)
 

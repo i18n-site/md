@@ -126,7 +126,8 @@ Per esempiu, `_* ` in u schedariu di cunfigurazione sopra significa chì i sched
 
 A traduzzione hè editabile. Mudificà u testu uriginale è traduzzione in macchina di novu, e mudificazioni manuali di a traduzzione ùn saranu micca soprascritti (se stu paràgrafu di u testu originale ùn hè micca statu mudificatu).
 
-Ma per piacè nutate chì e linee di a traduzzione è u testu originale deve currispondenu unu à unu. Vale à dì, ùn aghjunghje micca o sguassate linee quandu compilate a traduzzione. Altrimenti, pruvucarà cunfusione in a cache di edizione di traduzzione.
+> [!WARN]
+> E linee di a traduzzione è u testu originale deve currispondenu unu à unu. Vale à dì, ùn aghjunghje micca o sguassate linee quandu compilate a traduzzione. Altrimenti, pruvucarà cunfusione in a cache di edizione di traduzzione.
 
 Se qualcosa va male, per piacè riferite à [e FAQ per suluzioni.](/i18/qa#H1)
 

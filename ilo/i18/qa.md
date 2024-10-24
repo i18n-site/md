@@ -2,9 +2,9 @@
 
 ## Ti Pananginayon Wenno Panangikkat Kadagiti Linia Ti Patarus, Nga Agresulta Iti Pannakariro Iti Patarus
 
-Laglagipem a **ti bilang dagiti linia iti patarus ket masapul a maitunos kadagiti linia iti orihinal a teksto** .
-
-Kayatna a sawen, no manual nga i-adjust ti patarus, **saan nga inayon wenno i-delete dagiti linia ti patarus** , ta no saan ket ag-disorder ti relasion ti panagmapa iti nagbaetan ti patarus ken ti orihinal a teksto.
+> [!WARN]
+> Laglagipem a **ti bilang dagiti linia iti patarus ket masapul a maitunos kadagiti linia iti orihinal a teksto** .
+> Kayatna a sawen, no manual nga i-adjust ti patarus, **saan nga inayon wenno i-delete dagiti linia ti patarus** , ta no saan ket ag-disorder ti relasion ti panagmapa iti nagbaetan ti patarus ken ti orihinal a teksto.
 
 No aksidente a manginayon wenno mangikkat ti linia, a mangpataud ti pannakariro, pangngaasi nga isublim ti patarus iti bersion sakbay ti panagbalbaliw, tarayen manen `i18` a panagipatarus, ken i-cache manen ti umno a panagimapa.
 

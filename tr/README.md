@@ -33,11 +33,10 @@ Bu site şu anda iki açık kaynaklı komut satırı aracı sunmaktadır:
 
 Orijinal metni değiştirin ve makineyle tekrar çevirin; çeviride yapılan manüel değişikliklerin üzerine yazılmayacaktır (eğer orijinal metnin bu paragrafı değiştirilmemişse).
 
-`UNIX` " Her şey bir dosyadır " felsefesine aboneyiz ve karmaşık ve hantal kurumsal düzeyde çözümler sunmadan yüzlerce dile çevirileri yönetebiliriz.
-
-`Markdown` düzenlemek için en tanıdık araçları kullanabilirsiniz (ancak paragraf ekleyemez veya silemezsiniz) ve sürüm kontrolü yapmak için en bilinen yöntemi kullanabilirsiniz.
-
-Dil dosyaları için açık kaynak olarak bir kod tabanı oluşturulabilir ve `Pull Request` işlem yardımıyla global kullanıcılar çevirilerin sürekli optimizasyonuna katılabilir. Kusursuz bağlantı [github](//github.com) Ve diğer açık kaynak toplulukları.
+> [!TIP]
+> `UNIX` " Her şey bir dosyadır " felsefesine aboneyiz ve karmaşık ve hantal kurumsal düzeyde çözümler sunmadan yüzlerce dile çevirileri yönetebiliriz.
+> `Markdown` düzenlemek için en tanıdık araçları kullanabilirsiniz (ancak paragraf ekleyemez veya silemezsiniz) ve sürüm kontrolü yapmak için en bilinen yöntemi kullanabilirsiniz.
+> Dil dosyaları için açık kaynak olarak bir kod tabanı oluşturulabilir ve `Pull Request` işlem yardımıyla global kullanıcılar çevirilerin sürekli optimizasyonuna katılabilir. Kusursuz bağlantı [github](//github.com) Ve diğer açık kaynak toplulukları.
 
 [→ Kullanım kılavuzu için lütfen proje belgelerini okuyun](/i18) .
 
@@ -103,9 +102,10 @@ Markdown çeviri ve dokümantasyon sitesi sadece başlangıçtır.
 Uluslararası ön uç bileşenler için bir satış pazarı;
 Yapmak istediğimiz daha çok şey var.
 
-Uçsuz bucaksız insan denizinde benzer düşüncelere sahip insanlarla tanışmayı sabırsızlıkla bekliyoruz.
-Açık kaynak kod geliştirme ve tercüme edilmiş metinlerin redaksiyon çalışmalarına katılacak gönüllüler arıyoruz.
-İlgileniyorsanız lütfen [→ Profilinizi doldurmak için buraya tıklayın](https://ggl.link/i18n) ve ardından iletişim için [e-posta listesine](https://groups.google.com/u/2/g/i18n-site) katılın.
-
 Açık kaynağa inanıyoruz ve paylaşımı seviyoruz,
 Birlikte sınırsız bir gelecek yaratmaya hoş geldiniz.
+
+> [!NOTE]
+> Uçsuz bucaksız insan denizinde benzer düşüncelere sahip insanlarla tanışmayı sabırsızlıkla bekliyoruz.
+> Açık kaynak kod geliştirme ve tercüme edilmiş metinlerin redaksiyon çalışmalarına katılacak gönüllüler arıyoruz.
+> İlgileniyorsanız lütfen [→ Profilinizi doldurmak için buraya tıklayın](https://ggl.link/i18n) ve ardından iletişim için [e-posta listesine](https://groups.google.com/u/2/g/i18n-site) katılın.

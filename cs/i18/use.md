@@ -126,7 +126,8 @@ Například `_* ` ve výše uvedeném konfiguračním souboru znamená, že soub
 
 Překlad je upravitelný. Upravte původní text a znovu jej strojově přeložte, ruční úpravy překladu nebudou přepsány (pokud tento odstavec původního textu nebyl upraven).
 
-Upozorňujeme však, že řádky překladu a původního textu musí odpovídat jedné. To znamená, že při kompilaci překladu nepřidávejte ani neodstraňujte řádky. V opačném případě to způsobí zmatek v mezipaměti pro úpravy překladu.
+> [!WARN]
+> Řádky překladu a původního textu musí odpovídat jedné ku jedné. To znamená, že při sestavování překladu nepřidávejte ani neodstraňujte řádky. V opačném případě to způsobí zmatek v mezipaměti pro úpravy překladů.
 
 Pokud se něco pokazí, [řešení najdete v FAQ.](/i18/qa#H1)
 

@@ -33,11 +33,10 @@ La traduko estas redaktebla.
 
 Modifi la originalan tekston kaj maŝintraduku ĝin denove, la manaj modifoj al la traduko ne estos anstataŭitaj (se ĉi tiu alineo de la originala teksto ne estas modifita).
 
-Ni abonas la filozofion de `UNIX` " estas dosiero " kaj povas administri tradukojn en centojn da lingvoj sen enkonduki kompleksajn kaj maloportunajn entreprenajn solvojn.
-
-Vi povas uzi la plej konatajn ilojn por redakti `Markdown` tradukon (sed vi ne povas aldoni aŭ forigi alineojn), kaj uzi la plej konatan manieron fari versiokontrolon.
-
-Kodbazo povas esti kreita kiel malferma fonto por lingvaj dosieroj, kaj kun la helpo de `Pull Request` procezoj, tutmondaj uzantoj povas partopreni en la daŭra optimumigo de tradukoj. Senjunta konekto [github](//github.com) aliaj malfermkodaj komunumoj.
+> [!TIP]
+> Ni abonas la filozofion de `UNIX` " estas dosiero " kaj povas administri tradukojn en centojn da lingvoj sen enkonduki kompleksajn kaj maloportunajn entreprenajn solvojn.
+> Vi povas uzi la plej konatajn ilojn por redakti `Markdown` tradukon (sed vi ne povas aldoni aŭ forigi alineojn), kaj uzi la plej konatan manieron fari versiokontrolon.
+> Kodbazo povas esti kreita kiel malferma fonto por lingvaj dosieroj, kaj kun la helpo de `Pull Request` procezoj, tutmondaj uzantoj povas partopreni en la daŭra optimumigo de tradukoj. Senjunta konekto [github](//github.com) aliaj malfermkodaj komunumoj.
 
 [→ Por uzantgvidilo, bonvolu legi la projektodokumentaron](/i18) .
 
@@ -103,9 +102,10 @@ Multlingva biletsistemo kiu povas pagi premiojn;
 Vendmerkato por internaciaj antaŭfinaj komponantoj;
 Estas multe pli, kion ni volas fari.
 
-Ni antaŭĝojas renkonti samideanojn en la vasta maro de homoj.
-Ni serĉas volontulojn por partopreni en la evoluo de malfermfonta kodo kaj provlegado de tradukitaj tekstoj.
-Se vi interesiĝas, bonvolu [→ Klaku ĉi tie por plenigi vian profilon](https://ggl.link/i18n) kaj poste aliĝi al [la dissendolisto](https://groups.google.com/u/2/g/i18n-site) por komunikado.
-
 Ni kredas je malferma fonto kaj amas kundividon,
 Bonvenon krei senliman estontecon kune.
+
+> [!NOTE]
+> Ni antaŭĝojas renkonti samideanojn en la vasta maro de homoj.
+> Ni serĉas volontulojn por partopreni en la evoluo de malfermfonta kodo kaj provlegado de tradukitaj tekstoj.
+> Se vi interesiĝas, bonvolu [→ Klaku ĉi tie por plenigi vian profilon](https://ggl.link/i18n) kaj poste aliĝi al [la dissendolisto](https://groups.google.com/u/2/g/i18n-site) por komunikado.

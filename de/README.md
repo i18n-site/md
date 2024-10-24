@@ -33,11 +33,10 @@ Die Übersetzung kann bearbeitet werden.
 
 Ändern Sie den Originaltext und übersetzen Sie ihn erneut maschinell. Die manuellen Änderungen an der Übersetzung werden nicht überschrieben (sofern dieser Absatz des Originaltexts nicht geändert wurde).
 
-Wir " der Philosophie `UNIX` Alles ist eine Datei " und können Übersetzungen in Hunderte von Sprachen verwalten, ohne komplexe und umständliche Lösungen auf Unternehmensebene einführen zu müssen.
-
-Sie können die gängigsten Tools zum Bearbeiten `Markdown` Übersetzung verwenden (aber Sie können keine Absätze hinzufügen oder löschen) und die gängigste Methode zur Versionskontrolle nutzen.
-
-Eine Codebasis kann als Open Source für Sprachdateien erstellt werden und mithilfe von `Pull Request` Prozessen können globale Benutzer an der kontinuierlichen Optimierung von Übersetzungen teilnehmen. Nahtlose Verbindung [github](//github.com) Und andere Open-Source-Communities.
+> [!TIP]
+> Wir " der Philosophie `UNIX` Alles ist eine Datei " und können Übersetzungen in Hunderte von Sprachen verwalten, ohne komplexe und umständliche Lösungen auf Unternehmensebene einführen zu müssen.
+> Sie können die gängigsten Tools zum Bearbeiten `Markdown` Übersetzung verwenden (aber Sie können keine Absätze hinzufügen oder löschen) und die gängigste Methode zur Versionskontrolle nutzen.
+> Eine Codebasis kann als Open Source für Sprachdateien erstellt werden und mithilfe von `Pull Request` Prozessen können globale Benutzer an der kontinuierlichen Optimierung von Übersetzungen teilnehmen. Nahtlose Verbindung [github](//github.com) Und andere Open-Source-Communities.
 
 [→ Für eine Bedienungsanleitung lesen Sie bitte die Projektdokumentation](/i18) .
 
@@ -103,9 +102,10 @@ Ein mehrsprachiges Ticketsystem, das Kopfgelder auszahlen kann;
 Ein Absatzmarkt für internationale Frontend-Komponenten;
 Wir wollen noch viel mehr tun.
 
-Wir freuen uns darauf, in dem riesigen Menschenmeer Gleichgesinnte zu treffen.
-Wir suchen Freiwillige, die sich an der Entwicklung von Open-Source-Code und dem Korrekturlesen übersetzter Texte beteiligen.
-Wenn Sie interessiert sind, [→ Klicken Sie hier, um Ihr Profil auszufüllen](https://ggl.link/i18n) und sich dann [der Mailingliste](https://groups.google.com/u/2/g/i18n-site) zur Kommunikation anzuschließen.
-
 Wir glauben an Open Source und lieben das Teilen,
 Willkommen, um gemeinsam eine grenzenlose Zukunft zu gestalten.
+
+> [!NOTE]
+> Wir freuen uns darauf, in dem riesigen Menschenmeer Gleichgesinnte zu treffen.
+> Wir suchen Freiwillige, die sich an der Entwicklung von Open-Source-Code und dem Korrekturlesen übersetzter Texte beteiligen.
+> Wenn Sie interessiert sind, [→ Klicken Sie hier, um Ihr Profil auszufüllen](https://ggl.link/i18n) und sich dann [der Mailingliste](https://groups.google.com/u/2/g/i18n-site) zur Kommunikation anzuschließen.

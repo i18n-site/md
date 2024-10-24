@@ -126,7 +126,8 @@ Zum Beispill, `_* ` an der uewe genannter Konfiguratiounsdatei bedeit datt Datei
 
 D'Iwwersetzung ass editable. Ännert den Originaltext an iwwersetzt en nach eng Kéier, déi manuell Ännerungen un der Iwwersetzung ginn net iwwerschriwwen (wann dëse Paragraf vum Originaltext net geännert gouf).
 
-Awer w.e.g. notéiert datt d'Linnen vun der Iwwersetzung an dem Originaltext een zu engem entspriechen. Dat ass, keng Zeilen derbäi oder ze läschen wann Dir d'Iwwersetzung kompiléiert. Soss wäert et Duercherneen am Iwwersetzungseditiounscache verursaachen.
+> [!WARN]
+> D'Linnen vun der Iwwersetzung an dem Originaltext mussen een zu engem entspriechen. Dat ass, keng Zeilen derbäisetzen oder ze läschen wann Dir d'Iwwersetzung kompiléiert. Soss wäert et Duercherneen am Iwwersetzungseditiounscache verursaachen.
 
 Wann eppes falsch geet, kuckt w.e.g. op [d'FAQ fir Léisungen.](/i18/qa#H1)
 

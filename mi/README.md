@@ -33,11 +33,10 @@ Ko te whakamaoritanga ka taea te whakatika.
 
 Whakarerekehia te tuhinga taketake me te miihini-whakamaori ano, ko nga whakarereketanga a-ringa ki te whakamaoritanga e kore e tuhia (mehemea kaore i whakarereketia tenei waahanga o te tuhinga taketake).
 
-Ka ohauru matou ki te rapunga whakaaro o `UNIX` " He konae " nga mea katoa ka taea te whakahaere i nga whakamaoritanga ki nga rau reo me te kore e whakauru i nga otinga taumata hinonga uaua.
-
-Ka taea e koe te whakamahi i nga taputapu tino mohio ki te whakatika `Markdown` whakamaoritanga (engari kaore e taea e koe te taapiri, te whakakore ranei i nga kowae), me te whakamahi i te huarahi tino mohio ki te whakahaere putanga.
-
-Ka taea te hanga i tetahi turanga waehere hei puna tuwhera mo nga konae reo, me te awhina o nga tukanga `Pull Request` , ka taea e nga kaiwhakamahi o te ao te uru atu ki te arotautanga tonu o nga whakamaoritanga. Hononga kore [github](//github.com) Me etahi atu hapori puna tuwhera.
+> [!TIP]
+> Ka ohauru matou ki te rapunga whakaaro o `UNIX` " He konae " nga mea katoa ka taea te whakahaere i nga whakamaoritanga ki nga rau reo me te kore e whakauru i nga otinga taumata hinonga uaua.
+> Ka taea e koe te whakamahi i nga taputapu tino mohio ki te whakatika `Markdown` whakamaoritanga (engari kaore e taea e koe te taapiri, te whakakore ranei i nga kowae), me te whakamahi i te huarahi tino mohio ki te whakahaere putanga.
+> Ka taea te hanga i tetahi turanga waehere hei puna tuwhera mo nga konae reo, me te awhina o nga tukanga `Pull Request` , ka taea e nga kaiwhakamahi o te ao te uru atu ki te arotautanga tonu o nga whakamaoritanga. Hononga kore [github](//github.com) Me etahi atu hapori puna tuwhera.
 
 [→ Mo te aratohu kaiwhakamahi, panuihia nga tuhinga kaupapa](/i18) .
 
@@ -103,9 +102,10 @@ He punaha tikiti reo maha ka taea te utu moni;
 He maakete hoko mo nga waahanga o mua o te ao;
 He maha atu ano ta matou e hiahia ana ki te mahi.
 
-Kei te tumanako matou ki te tutaki i nga taangata rite ki te moana nui o te tangata.
-E rapu ana matou i nga kaitoi ki te whai waahi ki te whakawhanake i te waehere puna tuwhera me te whakatikatika i nga tuhinga kua whakamaoritia.
-Mēnā kei te pirangi koe, tēnā [→ Pāwhiri ki konei ki te whakakī i tō kōtaha](https://ggl.link/i18n) ka uru atu [ki te rārangi mēra](https://groups.google.com/u/2/g/i18n-site) mo te whakawhitiwhiti korero.
-
 E whakapono ana matou ki te puna tuwhera me te aroha ki te tiri,
 Nau mai ki te hanga tahi i te heke mai taitapa.
+
+> [!NOTE]
+> Kei te tumanako matou ki te tutaki i nga taangata rite ki te moana nui o te tangata.
+> E rapu ana matou i nga kaitoi ki te whai waahi ki te whakawhanake i te waehere puna tuwhera me te whakatikatika i nga tuhinga kua whakamaoritia.
+> Mēnā kei te pirangi koe, tēnā [→ Pāwhiri ki konei ki te whakakī i tō kōtaha](https://ggl.link/i18n) ka uru atu [ki te rārangi mēra](https://groups.google.com/u/2/g/i18n-site) mo te whakawhitiwhiti korero.

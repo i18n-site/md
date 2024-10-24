@@ -126,7 +126,8 @@ Pou egzanp, `_* ` nan fichye konfigirasyon ki anwo a vle di ke dosye ki kòmanse
 
 Tradiksyon an ka modifye. Modifye tèks orijinal la epi tradwi machin lan ankò, modifikasyon manyèl nan tradiksyon an pa pral ranplase (si paragraf tèks orijinal la pa te modifye).
 
-Men, tanpri sonje ke liy tradiksyon an ak tèks orijinal la dwe koresponn youn ak youn. Sa vle di, pa ajoute oswa efase liy lè w ap konpile tradiksyon an. Sinon, li pral lakòz konfizyon nan kachèt koreksyon tradiksyon an.
+> [!WARN]
+> Liy tradiksyon an ak tèks orijinal la dwe koresponn youn ak youn. Sa vle di, pa ajoute oswa efase liy lè w ap konpile tradiksyon an. Sinon, li pral lakòz konfizyon nan kachèt koreksyon tradiksyon an.
 
 Si yon bagay ale mal, tanpri al gade [FAQ pou solisyon yo.](/i18/qa#H1)
 

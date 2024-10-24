@@ -126,7 +126,8 @@ Piemēram, `_* ` iepriekš minētajā konfigurācijas failā nozīmē, ka faili,
 
 Tulkojums ir rediģējams. Pārveidojiet oriģinālo tekstu un mašīntulkojiet to vēlreiz, manuālās tulkojuma izmaiņas netiks pārrakstītas (ja šī oriģinālā teksta rindkopa nav mainīta).
 
-Taču, lūdzu, ņemiet vērā, ka tulkojuma un oriģinālā teksta rindiņām ir jāatbilst vienai. Tas ir, nepievienojiet un nedzēsiet rindiņas, apkopojot tulkojumu. Pretējā gadījumā tas radīs neskaidrības tulkojuma rediģēšanas kešatmiņā.
+> [!WARN]
+> Tulkojuma un oriģinālā teksta rindiņām jāatbilst vienai pret vienu. Tas ir, nepievienojiet un nedzēsiet rindas, apkopojot tulkojumu. Pretējā gadījumā tas radīs neskaidrības tulkojuma rediģēšanas kešatmiņā.
 
 Ja kaut kas noiet greizi, lūdzu, skatiet [risinājumus FAQ.](/i18/qa#H1)
 

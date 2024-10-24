@@ -126,7 +126,8 @@ Isibonelo, `_* ` efayeleni lokumisa elingenhla lisho ukuthi amafayela aqala ngo 
 
 Ukuhumusha kuyahleleka. Shintsha umbhalo wasekuqaleni futhi uwuhumushe ngomshini futhi, ukuguqulwa mathupha kokuhumusha ngeke kubhalwe phezu (uma lesi sigaba sombhalo wokuqala singashintshwanga).
 
-Kodwa sicela uqaphele ukuthi imigqa yokuhumusha kanye nombhalo wokuqala kufanele uhambisane nowodwa. Okusho ukuthi, ungangezi noma ususe imigqa lapho uhlanganisa ukuhumusha. Uma kungenjalo, izodala ukudideka kunqolobane yokuhlela yokuhumusha.
+> [!WARN]
+> Imigqa yokuhumusha kanye nombhalo wokuqala kufanele uhambisane nowodwa. Okusho ukuthi, ungangezi noma ususe imigqa lapho uhlanganisa ukuhumusha. Uma kungenjalo, izodala ukudideka kunqolobane yokuhlela yokuhumusha.
 
 Uma kukhona okungahambi kahle, sicela ubheke ku [-FAQ ukuthola izisombululo.](/i18/qa#H1)
 

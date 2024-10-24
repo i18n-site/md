@@ -2,9 +2,9 @@
 
 ## Að Bæta Við Eða Eyða Línum Þýðingarinnar, Sem Veldur Ruglingi Í Þýðingunni
 
-Mundu að **fjöldi lína í þýðingunni verður að samsvara línunum í upprunalega textanum** .
-
-Það er að segja, þegar þú stillir þýðinguna handvirkt **skaltu ekki bæta við eða eyða línum úr þýðingunni** , annars verður kortlagningarsambandið milli þýðingarinnar og upprunalega textans truflað.
+> [!WARN]
+> Mundu að **fjöldi lína í þýðingunni verður að samsvara línunum í upprunalega textanum** .
+> Það er að segja, þegar þú stillir þýðinguna handvirkt **skaltu ekki bæta við eða eyða línum úr þýðingunni** , annars verður kortlagningarsambandið milli þýðingarinnar og upprunalega textans truflað.
 
 Ef þú bætir við eða eyðir línu fyrir slysni, sem veldur ruglingi, vinsamlegast endurheimtu þýðinguna í útgáfuna áður en þú breytir henni, keyrðu `i18` þýðingu aftur og vistaðu rétta kortlagningu aftur.
 

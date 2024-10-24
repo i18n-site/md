@@ -2,9 +2,9 @@
 
 ## Terjimäniň Setirlerini Goşmak Ýa-Da Pozmak, Terjimede Bulaşyklyga Sebäp Bolýar
 
-**Terjimedäki setirleriň sany asyl tekstdäki setirlere gabat gelmelidigini** ýadyňyzdan çykarmaň.
-
-.Agny, terjime el bilen sazlananda, **terjime setirlerini goşmaň ýa-da pozmaň** , ýogsam terjime bilen asyl tekstiň arasyndaky kartalaşdyryş gatnaşyklary bozular.
+> [!WARN]
+> **Terjimedäki setirleriň sany asyl tekstdäki setirlere gabat gelmelidigini** ýadyňyzdan çykarmaň.
+> .Agny, terjime el bilen sazlananda, **terjime setirlerini goşmaň ýa-da pozmaň** , ýogsam terjime bilen asyl tekstiň arasyndaky kartalaşdyryş gatnaşyklary bozular.
 
 Bulaşyklyga sebäp bolýan bir setir goşsaňyz ýa-da pozsaňyz, terjimäni üýtgetmezden ozal wersiýa dikeldiň, `i18` terjimesini täzeden işlediň we dogry kartalaşdyrmagy täzeden keşde saklaň.
 

@@ -33,11 +33,10 @@ Translations are editable.
 
 When the original text is modified and machine-translated again, manual modifications to the translation will not be overwritten (if the original text has not been modified).
 
-We adhere to the `UNIX` philosophy: "Everything is a file," eliminating the need for complex, bulky enterprise solutions to manage translations in hundreds of languages.
-
-You can edit `Markdown` translations using your favorite tools (without adding or deleting paragraphs) and employ familiar methods for version control.
-
-You can create an open-source code repository for language files, using the `Pull Request` process to involve global users in the continuous improvement of translations. Seamlessly integrated with [GitHub](//github.com) and other open-source communities.
+> [!TIP]
+> We adhere to the `UNIX` philosophy: "Everything is a file," eliminating the need for complex, bulky enterprise solutions to manage translations in hundreds of languages.
+> You can edit `Markdown` translations using your favorite tools (without adding or deleting paragraphs) and employ familiar methods for version control.
+> You can create an open-source code repository for language files, using the `Pull Request` process to involve global users in the continuous improvement of translations. Seamlessly integrated with [GitHub](//github.com) and other open-source communities.
 
 [→ For the user guide, please refer to the project documentation](/i18).
 
@@ -103,9 +102,10 @@ Implement a multilingual ticketing system with bounty payments;
 Create a marketplace for international front-end components;
 There is much more we plan to do.
 
-We look forward to connecting with like-minded individuals amidst the vast sea of humanity.
-We are seeking volunteers to contribute to open-source code development and the proofreading of translated texts.
-If interested, please [fill out your profile here](https://ggl.link/i18n) and then join [the mailing list](https://groups.google.com/u/2/g/i18n-site) for further communication.
-
 We believe in open-source and cherish sharing,
 Welcome to join us in creating a future without borders.
+
+> [!NOTE]
+> We look forward to connecting with like-minded individuals amidst the vast sea of humanity.
+> We are seeking volunteers to contribute to open-source code development and the proofreading of translated texts.
+> If interested, please [fill out your profile here](https://ggl.link/i18n) and then join [the mailing list](https://groups.google.com/u/2/g/i18n-site) for further communication.

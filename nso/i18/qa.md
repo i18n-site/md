@@ -2,9 +2,9 @@
 
 ## Go Oketša Goba Go Phumola Methalo Ya Phetolelo, Go Feleletša Ka Kgakanego Phetolelong
 
-Gopola gore **palo ya methalo yeo e lego phetolelong e swanetše go sepelelana le methalo yeo e lego mongwalong wa mathomo** .
-
-Ke gore, ge o beakanya phetolelo ka seatla, **o se ke wa oketša goba wa phumola mela ya phetolelo** , go sego bjalo kamano ya go dira mmapa magareng ga phetolelo le mongwalo wa mathomo e tla ba yeo e sa rulaganywago.
+> [!WARN]
+> Gopola gore **palo ya methalo yeo e lego phetolelong e swanetše go sepelelana le methalo yeo e lego mongwalong wa mathomo** .
+> Ke gore, ge o beakanya phetolelo ka seatla, **o se ke wa oketša goba wa phumola mela ya phetolelo** , go sego bjalo kamano ya go dira mmapa magareng ga phetolelo le mongwalo wa mathomo e tla ba yeo e sa rulaganywago.
 
 Ge o oketša goba o phumola mola ka phošo, o hlola kgakanego, hle bušetša phetolelo go phetolelo pele ga phetošo, sepetša phetolelo ya `i18` gape, gomme o boloke gape mmapa wo o nepagetšego.
 

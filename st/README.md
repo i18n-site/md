@@ -33,11 +33,10 @@ Phetolelo e ka fetoloa.
 
 Fetosa mongolo oa mantlha, 'me u o fetolele ka mochini hape, liphetoho tse fetoletsoeng ka letsoho li ke ke tsa hlakoloa (haeba serapa sena sa mongolo oa mantlha se sa fetoloa).
 
-Re ingolisa ho filosofi ea `UNIX` " Ntho e ngoe le e ngoe ke faele " mme e khona ho laola liphetolelo ka lipuo tse makholo ntle le ho hlahisa litharollo tse thata le tse boima tsa khoebo.
-
-U ka sebelisa lisebelisoa tse tsebahalang haholo ho hlophisa `Markdown` (empa u ke ke ua eketsa kapa ua hlakola lirapa), 'me u sebelise mokhoa o tsebahalang haholo oa ho laola phetolelo.
-
-Khoutu e ka etsoa e le mohloli o bulehileng oa lifaele tsa puo, 'me ka thuso ea lits'ebetso `Pull Request` , basebelisi ba lefats'e ba ka kenya letsoho ntlafatsong e tsoelang pele ea liphetolelo. Khokahano e se nang moeli [github](//github.com) Le lichaba tse ling tse bulehileng.
+> [!TIP]
+> Re ingolisa ho filosofi ea `UNIX` " Ntho e ngoe le e ngoe ke faele " mme e khona ho laola liphetolelo ka lipuo tse makholo ntle le ho hlahisa litharollo tse thata le tse boima tsa khoebo.
+> U ka sebelisa lisebelisoa tse tsebahalang haholo ho hlophisa `Markdown` (empa u ke ke ua eketsa kapa ua hlakola lirapa), 'me u sebelise mokhoa o tsebahalang haholo oa ho laola phetolelo.
+> Khoutu e ka etsoa e le mohloli o bulehileng oa lifaele tsa puo, 'me ka thuso ea lits'ebetso `Pull Request` , basebelisi ba lefats'e ba ka kenya letsoho ntlafatsong e tsoelang pele ea liphetolelo. Khokahano e se nang moeli [github](//github.com) Le lichaba tse ling tse bulehileng.
 
 [→ Bakeng sa tataiso ea basebelisi, ka kopo bala litokomane tsa morero](/i18) .
 
@@ -103,9 +102,10 @@ Sistimi ea litekete tsa lipuo tse ngata e ka lefang meputso;
 'Maraka oa thekiso bakeng sa likarolo tse ka pele tsa machaba;
 Ho na le ho hongata hoo re batlang ho ho etsa.
 
-Re labalabela ho kopana le batho ba nang le maikutlo a tšoanang leoatleng le leholo la batho.
-Re batla baithaopi ba ka nkang karolo ho nts'etsopele ea khoutu ea mohloli o bulehileng le ho hlahloba liphoso tsa litemana tse fetoletsoeng.
-Haeba u na le thahasello, ka kopo [→ Tobetsa mona ho tlatsa profaele ea hau](https://ggl.link/i18n) ebe u kenella [lethathamong la mangolo](https://groups.google.com/u/2/g/i18n-site) bakeng sa puisano.
-
 Re lumela mohloling o bulehileng le ho arolelana lerato,
 Rea u amohela ho theha bokamoso bo se nang moeli hammoho.
+
+> [!NOTE]
+> Re labalabela ho kopana le batho ba nang le maikutlo a tšoanang leoatleng le leholo la batho.
+> Re batla baithaopi ba ka nkang karolo ho nts'etsopele ea khoutu ea mohloli o bulehileng le ho hlahloba liphoso tsa litemana tse fetoletsoeng.
+> Haeba u na le thahasello, ka kopo [→ Tobetsa mona ho tlatsa profaele ea hau](https://ggl.link/i18n) ebe u kenella [lethathamong la mangolo](https://groups.google.com/u/2/g/i18n-site) bakeng sa puisano.

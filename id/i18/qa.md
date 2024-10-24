@@ -2,9 +2,9 @@
 
 ## Menambah Atau Menghapus Baris Terjemahan, Sehingga Mengakibatkan Kebingungan Dalam Terjemahan
 
-Ingat, **jumlah baris pada terjemahan harus sesuai dengan baris pada teks aslinya** .
-
-Artinya, ketika menyesuaikan terjemahan secara manual, **jangan menambah atau menghapus baris terjemahan** , jika tidak, hubungan pemetaan antara terjemahan dan teks asli akan tidak teratur.
+> [!WARN]
+> Ingat, **jumlah baris pada terjemahan harus sesuai dengan baris pada teks aslinya** .
+> Artinya, ketika menyesuaikan terjemahan secara manual, **jangan menambah atau menghapus baris terjemahan** , jika tidak, hubungan pemetaan antara terjemahan dan teks asli akan tidak teratur.
 
 Jika Anda secara tidak sengaja menambah atau menghapus sebuah baris sehingga menyebabkan kebingungan, harap pulihkan terjemahan ke versi sebelum modifikasi, jalankan `i18` terjemahan lagi, dan simpan kembali pemetaan yang benar.
 

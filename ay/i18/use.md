@@ -126,7 +126,8 @@ Amuyt’añataki, `_* ` ukax aka pata configuración qillqatanx `_` ukamp qallta
 
 Jaqukipäwix editable ukhamawa. Nayra qillqata mayjt’ayaña ukatxa mayampi maquina-jaqukipaña, jaqukipaña amparampi mayjt’ayañaxa janiwa qillqt’atäkaniti (nayrïri qillqatan aka t’aqapa jani mayjt’ayatäkchi ukhaxa).
 
-Ukampis achiktʼasiñamawa, jaqukipäwin chimpunakapasa ukat nayrïr qillqatäki uka chimpunakax mayakïñapawa. Mä arunxa, jaqukipäw apthapiñkamax janiw chimpunak yapxatañakiti ni chhaqtayañakiti. Jan ukhamäkanixa, jaqukipäw edición caché ukanx jan walt’awinak utjayaspa.
+> [!WARN]
+> Jaqukipäwin chimpunakapasa ukat nayrïr qillqatäki uka chimpunakax mayakïñapawa. Mä arunxa, jaqukipäw apthapiñkamax janiw chimpunak yapxatañakiti ni chhaqtayañakiti. Jan ukhamäkanixa, jaqukipäw edición caché ukanx jan walt’awinak utjayaspa.
 
 Kunas jan walt’ayaschi ukhaxa, [FAQ ukar uñakipt’añamawa, ukhamat askichäwinakata.](/i18/qa#H1)
 

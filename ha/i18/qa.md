@@ -2,9 +2,9 @@
 
 ## Ƙara Ko Share Layin Fassarar, Yana Haifar Da Rudani a Cikin Fassarar
 
-Ka tuna, **adadin layukan da ke cikin fassarar dole ne su dace da layin da ke cikin ainihin rubutun** .
-
-Wato, lokacin da ake daidaita fassarar da hannu, **kar a ƙara ko share layin fassarar** , in ba haka ba dangantakar taswira tsakanin fassarar da ainihin rubutun za ta lalace.
+> [!WARN]
+> Ka tuna, **adadin layukan da ke cikin fassarar dole ne su dace da layin da ke cikin ainihin rubutun** .
+> Wato, lokacin da ake daidaita fassarar da hannu, **kar a ƙara ko share layin fassarar** , in ba haka ba dangantakar taswira tsakanin fassarar da ainihin rubutun za ta lalace.
 
 Idan ka ƙara ko share layi da gangan, yana haifar da ruɗani, da fatan za a mayar da fassarar zuwa sigar kafin gyara, sake gudanar da fassarar `i18` , kuma sake cache taswirar daidai.
 

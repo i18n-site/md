@@ -126,7 +126,8 @@ Le kpɔɖeŋu me, `_* ` le ɖoɖowɔɖi ƒe faɛl si le etame me fia be womaɖe 
 
 Woate ŋu atrɔ asi le gɔmeɖeɖea ŋu. Trɔ asi le nuŋɔŋlɔ gbãtɔa ŋu eye nàgaɖe egɔme kple mɔ̃ ake, womaŋlɔ asitɔtrɔ siwo wowɔ kple asi le gɔmeɖeɖea ŋu o (ne wometrɔ asi le nuŋɔŋlɔ gbãtɔa ƒe memama sia ŋu o).
 
-Gake taflatse de dzesii be ele be gɔmeɖeɖea ƒe fliwo kple nuŋɔŋlɔ gbãtɔa nasɔ ɖeka kple ɖeka. Eyae nye be mègatsɔ fliwo akpe ɖe wo ŋu alo atutu wo ne èle gbegɔmeɖeɖea ƒom ƒu o. Ne menye nenema o la, ahe tɔtɔ vɛ le gbegɔmeɖeɖe ɖɔɖɔɖo ƒe cache la me.
+> [!WARN]
+> Ele be gɔmeɖeɖea ƒe fliwo kple nuŋɔŋlɔ gbãtɔa nasɔ ɖeka kple ɖeka. Eyae nye be mègatsɔ fliwo akpe ɖe wo ŋu alo atutu wo ne èle gbegɔmeɖeɖea ƒom ƒu o. Ne menye nenema o la, ahe tɔtɔ vɛ le gbegɔmeɖeɖe ɖɔɖɔɖo ƒe cache la me.
 
 Ne nane gblẽ la, taflatse kpɔ [FAQ hena egbɔkpɔnuwo.](/i18/qa#H1)
 

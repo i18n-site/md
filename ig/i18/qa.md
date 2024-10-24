@@ -2,9 +2,9 @@
 
 ## Ịgbakwunye Ma Ọ Bụ Ihichapụ Ahịrị Ntụgharị Asụsụ Ahụ, Na-Ebute Ọgba Aghara Na Ntụgharị Asụsụ
 
-Cheta, **ọnụọgụ ahịrị dị na ntụgharị ga-adarịrị na ahịrị dị na ederede izizi** .
-
-Nke ahụ bụ, mgbe ị na-eji aka na-agbanwe ntụgharị asụsụ ahụ, **agbakwunyela ma ọ bụ hichapụ ahịrị ntụgharị asụsụ ahụ** , ma ọ bụghị ya, mmekọrịta nke eserese dị n'etiti ntụgharị asụsụ na ederede mbụ ga-emebi.
+> [!WARN]
+> Cheta, **ọnụọgụ ahịrị dị na ntụgharị ga-adarịrị na ahịrị dị na ederede izizi** .
+> Nke ahụ bụ, mgbe ị na-eji aka na-agbanwe ntụgharị asụsụ ahụ, **agbakwunyela ma ọ bụ hichapụ ahịrị ntụgharị asụsụ ahụ** , ma ọ bụghị ya, mmekọrịta nke eserese dị n'etiti ntụgharị asụsụ na ederede mbụ ga-emebi.
 
 Ọ bụrụ na ị gbakwunye ma ọ bụ hichapụ ahịrị na mberede, na-akpata ọgba aghara, biko weghachi ntụgharị asụsụ ahụ na ụdị tupu ịmegharịa, mee ntụgharị `i18` ọzọ, wee chekwaa maapụ ziri ezi.
 

@@ -2,9 +2,9 @@
 
 ## Ntxiv Lossis Tshem Tawm Cov Kab Ntawm Kev Txhais Lus, Ua Rau Tsis Meej Pem Hauv Kev Txhais Lus
 
-Nco ntsoov, **tus naj npawb ntawm kab hauv kev txhais lus yuav tsum sib haum rau cov kab hauv cov ntawv qub** .
-
-Qhov ntawd yog hais tias, thaum kho tus txhais lus manually, **tsis txhob ntxiv lossis tshem tawm cov kab ntawm kev txhais lus** , txwv tsis pub txoj kev sib raug zoo ntawm kev txhais lus thiab cov ntawv qub yuav raug teeb meem.
+> [!WARN]
+> Nco ntsoov, **tus naj npawb ntawm kab hauv kev txhais lus yuav tsum sib haum rau cov kab hauv cov ntawv qub** .
+> Qhov ntawd yog hais tias, thaum kho tus txhais lus manually, **tsis txhob ntxiv lossis tshem tawm cov kab ntawm kev txhais lus** , txwv tsis pub txoj kev sib raug zoo ntawm kev txhais lus thiab cov ntawv qub yuav raug teeb meem.
 
 Yog hais tias koj yuam kev ntxiv lossis rho tawm ib kab, ua rau muaj kev tsis sib haum xeeb, thov rov qab cov lus txhais rau lub version ua ntej hloov kho, khiav `i18` txhais dua, thiab rov cache qhov tseeb daim ntawv qhia.
 

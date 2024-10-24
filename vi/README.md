@@ -33,11 +33,10 @@ Bản dịch có thể chỉnh sửa được.
 
 Sửa đổi văn bản gốc và dịch lại bằng máy, những sửa đổi thủ công đối với bản dịch sẽ không bị ghi đè (nếu đoạn này của văn bản gốc chưa được sửa đổi).
 
-Chúng tôi tuân theo triết lý `UNIX` " Mọi thứ đều là một tệp " và có thể quản lý bản dịch sang hàng trăm ngôn ngữ mà không cần đưa ra các giải pháp cấp doanh nghiệp phức tạp và rườm rà.
-
-Bạn có thể sử dụng những công cụ quen thuộc nhất để chỉnh sửa `Markdown` dịch (nhưng bạn không thể thêm hoặc xóa đoạn văn) và sử dụng cách quen thuộc nhất để kiểm soát phiên bản.
-
-Cơ sở mã có thể được tạo dưới dạng nguồn mở cho các tệp ngôn ngữ và với sự trợ giúp của `Pull Request` quy trình, người dùng toàn cầu có thể tham gia vào quá trình tối ưu hóa liên tục các bản dịch. Kết nối liền mạch [github](//github.com) Và các cộng đồng nguồn mở khác.
+> [!TIP]
+> Chúng tôi tuân theo triết lý `UNIX` " Mọi thứ đều là một tệp " và có thể quản lý bản dịch sang hàng trăm ngôn ngữ mà không cần đưa ra các giải pháp cấp doanh nghiệp phức tạp và rườm rà.
+> Bạn có thể sử dụng những công cụ quen thuộc nhất để chỉnh sửa `Markdown` dịch (nhưng bạn không thể thêm hoặc xóa đoạn văn) và sử dụng cách quen thuộc nhất để kiểm soát phiên bản.
+> Cơ sở mã có thể được tạo dưới dạng nguồn mở cho các tệp ngôn ngữ và với sự trợ giúp của `Pull Request` quy trình, người dùng toàn cầu có thể tham gia vào quá trình tối ưu hóa liên tục các bản dịch. Kết nối liền mạch [github](//github.com) Và các cộng đồng nguồn mở khác.
 
 [→ Để biết hướng dẫn sử dụng, vui lòng đọc tài liệu dự án](/i18) .
 
@@ -103,9 +102,10 @@ Hệ thống vé đa ngôn ngữ có thể trả tiền thưởng;
 Một thị trường bán hàng cho các thành phần ngoại vi quốc tế;
 Còn nhiều điều chúng tôi muốn làm.
 
-Chúng tôi rất mong được gặp những người cùng chí hướng giữa biển người rộng lớn.
-Chúng tôi đang tìm kiếm tình nguyện viên tham gia phát triển mã nguồn mở và hiệu đính các văn bản đã dịch.
-Nếu bạn quan tâm, vui lòng [→ Bấm vào đây để điền vào hồ sơ của bạn](https://ggl.link/i18n) và sau đó tham gia [danh sách gửi thư](https://groups.google.com/u/2/g/i18n-site) để liên lạc.
-
 Chúng tôi tin vào nguồn mở và tình yêu chia sẻ,
 Chào mừng bạn cùng nhau tạo ra một tương lai không biên giới.
+
+> [!NOTE]
+> Chúng tôi rất mong được gặp những người cùng chí hướng giữa biển người rộng lớn.
+> Chúng tôi đang tìm kiếm tình nguyện viên tham gia phát triển mã nguồn mở và hiệu đính các văn bản đã dịch.
+> Nếu bạn quan tâm, vui lòng [→ Bấm vào đây để điền vào hồ sơ của bạn](https://ggl.link/i18n) và sau đó tham gia [danh sách gửi thư](https://groups.google.com/u/2/g/i18n-site) để liên lạc.

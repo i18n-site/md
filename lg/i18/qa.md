@@ -2,9 +2,9 @@
 
 ## Okwongerako Oba Okusazaamu Ennyiriri Z’enkyusa, Ekivaamu Okutabulwa Mu Nkyusa
 
-Jjukira nti **omuwendo gw’ennyiriri mu nkyusa gulina okukwatagana n’ennyiriri eziri mu kiwandiiko ekyasooka** .
-
-Kwe kugamba, bw’oba otereeza enkyusa mu ngalo, **toyongera oba tosazaamu layini za nkyusa** , bwe kitaba ekyo enkolagana ya maapu wakati w’enkyusa n’ekiwandiiko ekyasooka ejja kuba etabuddwatabuddwa.
+> [!WARN]
+> Jjukira nti **omuwendo gw’ennyiriri mu nkyusa gulina okukwatagana n’ennyiriri eziri mu kiwandiiko ekyasooka** .
+> Kwe kugamba, bw’oba otereeza enkyusa mu ngalo, **toyongera oba tosazaamu layini za nkyusa** , bwe kitaba ekyo enkolagana ya maapu wakati w’enkyusa n’ekiwandiiko ekyasooka ejja kuba etabuddwatabuddwa.
 
 Singa mu butanwa oyongera oba osazaamu layini, ekireeta okutabulwa, nsaba ozzaawo enkyusa mu nkyusa nga tonnaba kukyusa, ddamu odduke enzivuunula `i18` , era oddemu okutereka maapu entuufu.
 

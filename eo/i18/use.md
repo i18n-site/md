@@ -126,7 +126,8 @@ Ekzemple, `_* ` en la supra agorda dosiero signifas, ke dosieroj komencante per 
 
 La traduko estas redaktebla. Modifi la originalan tekston kaj maŝintraduku ĝin denove, la manaj modifoj al la traduko ne estos anstataŭitaj (se ĉi tiu alineo de la originala teksto ne estas modifita).
 
-Sed bonvolu noti, ke la linioj de la traduko kaj la originala teksto devas respondi unu al unu. Tio estas, ne aldonu aŭ forviŝu liniojn dum kompilado de la traduko. Alie, ĝi kaŭzos konfuzon en la tradukredakta kaŝmemoro.
+> [!WARN]
+> La linioj de la traduko kaj la originala teksto devas respondi unu al unu. Tio estas, ne aldonu aŭ forviŝu liniojn dum kompilado de la traduko. Alie, ĝi kaŭzos konfuzon en la tradukredakta kaŝmemoro.
 
 Se io misfunkcias, bonvolu raporti al [la Oftaj Demandoj por solvoj.](/i18/qa#H1)
 

@@ -2,9 +2,9 @@
 
 ## Pridávanie Alebo Odstraňovanie Riadkov Prekladu, Čo Má Za Následok Zmätok v Preklade
 
-Pamätajte, **že počet riadkov v preklade musí zodpovedať riadkom v pôvodnom texte** .
-
-To znamená, že pri manuálnej úprave prekladu **nepridávajte ani neodstraňujte riadky prekladu** , inak bude vzťah mapovania medzi prekladom a pôvodným textom narušený.
+> [!WARN]
+> Pamätajte, **že počet riadkov v preklade musí zodpovedať riadkom v pôvodnom texte** .
+> To znamená, že pri manuálnej úprave prekladu **nepridávajte ani neodstraňujte riadky prekladu** , inak bude vzťah mapovania medzi prekladom a pôvodným textom narušený.
 
 Ak náhodou pridáte alebo odstránite riadok, čo spôsobí zmätok, obnovte preklad na verziu pred úpravou, znova spustite preklad `i18` a znova uložte správne mapovanie do vyrovnávacej pamäte.
 

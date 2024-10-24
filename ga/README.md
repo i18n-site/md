@@ -33,11 +33,10 @@ Is féidir an t-aistriúchán a chur in eagar.
 
 Athraigh an buntéacs agus meaisín-aistrithe arís é, ní dhéanfar na modhnuithe láimhe ar an aistriúchán a fhorscríobh (mura bhfuil an mhír seo den bhuntéacs athraithe).
 
-Glacaimid le fealsúnacht `UNIX` " Is comhad " é gach rud agus is féidir linn aistriúcháin go dtí na céadta teanga a bhainistiú gan réitigh chasta agus chasta ar leibhéal an fhiontair a thabhairt isteach.
-
-Is féidir leat na huirlisí is mó aithne a úsáid chun `Markdown` t-aistriúchán a chur in eagar (ach ní féidir leat ailt a chur leis nó a scriosadh), agus úsáid a bhaint as an mbealach is coitianta le rialú leagan a dhéanamh.
-
-Is féidir bonn cód a chruthú mar fhoinse oscailte do chomhaid teanga, agus le cabhair ó `Pull Request` próiseas, is féidir le húsáideoirí domhanda a bheith rannpháirteach in optamú leanúnach na n-aistriúchán. Ceangal gan uaim [github](//github.com) agus pobail foinse oscailte eile.
+> [!TIP]
+> Glacaimid le fealsúnacht `UNIX` " Is comhad " é gach rud agus is féidir linn aistriúcháin go dtí na céadta teanga a bhainistiú gan réitigh chasta agus chasta ar leibhéal an fhiontair a thabhairt isteach.
+> Is féidir leat na huirlisí is mó aithne a úsáid chun `Markdown` t-aistriúchán a chur in eagar (ach ní féidir leat ailt a chur leis nó a scriosadh), agus úsáid a bhaint as an mbealach is coitianta le rialú leagan a dhéanamh.
+> Is féidir bonn cód a chruthú mar fhoinse oscailte do chomhaid teanga, agus le cabhair ó `Pull Request` próiseas, is féidir le húsáideoirí domhanda a bheith rannpháirteach in optamú leanúnach na n-aistriúchán. Ceangal gan uaim [github](//github.com) agus pobail foinse oscailte eile.
 
 [→ Le haghaidh treoir úsáideora, léigh na doiciméid tionscadail](/i18) .
 
@@ -103,9 +102,10 @@ Córas ticéad ilteangach atá in ann deolchairí a íoc;
 Margadh díolacháin le haghaidh comhpháirteanna tosaigh idirnáisiúnta;
 Tá i bhfad níos mó ba mhaith linn a dhéanamh.
 
-Táimid ag tnúth le bualadh le daoine ar aon intinn linn san fharraige mhór daoine.
-Táimid ag lorg oibrithe deonacha chun páirt a ghlacadh i bhforbairt cód foinse oscailte agus i léamh profaí ar théacsanna aistrithe.
-Má tá suim agat, le do thoil [→ Cliceáil anseo chun do phróifíl a líonadh](https://ggl.link/i18n) agus ansin bheith ar [an liosta seoltaí](https://groups.google.com/u/2/g/i18n-site) le haghaidh cumarsáide.
-
 Creidimid i bhfoinse oscailte agus i ngrá a roinnt,
 Fáilte romhat todhchaí gan teorainn a chruthú le chéile.
+
+> [!NOTE]
+> Táimid ag tnúth le bualadh le daoine ar aon intinn linn san fharraige mhór daoine.
+> Táimid ag lorg oibrithe deonacha chun páirt a ghlacadh i bhforbairt cód foinse oscailte agus i léamh profaí ar théacsanna aistrithe.
+> Má tá suim agat, le do thoil [→ Cliceáil anseo chun do phróifíl a líonadh](https://ggl.link/i18n) agus ansin bheith ar [an liosta seoltaí](https://groups.google.com/u/2/g/i18n-site) le haghaidh cumarsáide.

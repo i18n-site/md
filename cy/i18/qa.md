@@ -2,9 +2,9 @@
 
 ## Ychwanegu Neu Ddileu Llinellau O'r Cyfieithiad, Gan Arwain at Ddryswch Yn Y Cyfieithiad
 
-Cofiwch, **rhaid i nifer y llinellau yn y cyfieithiad gyfateb i'r llinellau yn y testun gwreiddiol** .
-
-Hynny yw, wrth addasu'r cyfieithiad â llaw, **peidiwch ag ychwanegu neu ddileu llinellau o'r cyfieithiad** , fel arall bydd y berthynas fapio rhwng y cyfieithiad a'r testun gwreiddiol yn cael ei anhrefnu.
+> [!WARN]
+> Cofiwch, **rhaid i nifer y llinellau yn y cyfieithiad gyfateb i'r llinellau yn y testun gwreiddiol** .
+> Hynny yw, wrth addasu'r cyfieithiad â llaw, **peidiwch ag ychwanegu neu ddileu llinellau o'r cyfieithiad** , fel arall bydd y berthynas fapio rhwng y cyfieithiad a'r testun gwreiddiol yn cael ei anhrefnu.
 
 Os ydych chi'n ychwanegu neu'n dileu llinell yn ddamweiniol, gan achosi dryswch, a fyddech cystal ag adfer y cyfieithiad i'r fersiwn cyn ei addasu, rhedeg `i18` cyfieithiad eto, ac ail-storio'r mapio cywir.
 

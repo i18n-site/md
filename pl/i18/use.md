@@ -126,7 +126,8 @@ Na przykład, `_*` w pliku konfiguracyjnym oznacza, że pliki zaczynające się 
 
 Tłumaczenie można edytować. Po zmodyfikowaniu oryginału i ponownym przetłumaczeniu maszynowym, ręczne zmiany w tłumaczeniu nie zostaną nadpisane (jeśli oryginalny tekst nie został zmodyfikowany).
 
-Pamiętaj jednak, że linie tłumaczenia i oryginału muszą być一一对应. Nie dodawaj ani nie usuwaj wierszy podczas tłumaczenia, aby uniknąć zamieszania w pamięci podręcznej edycji tłumaczeń.
+> [!WARN]
+> Wiersze tłumaczenia muszą odpowiadać wierszom tekstu oryginalnego. Oznacza to, że podczas tworzenia tłumaczenia nie można dodawać ani usuwać wierszy. W przeciwnym razie może to spowodować zamieszanie w pamięci podręcznej edycji tłumaczeń.
 
 Jeśli wystąpią problemy, zapoznaj się z [rozwiązaniami w często zadawanych pytaniach](/i18/qa#H1)
 

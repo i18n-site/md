@@ -2,9 +2,9 @@
 
 ## Tilføjelse Eller Sletning Af Linjer I Oversættelsen, Hvilket Resulterer I Forvirring I Oversættelsen
 
-Husk, **at antallet af linjer i oversættelsen skal svare til linjerne i den originale tekst** .
-
-Det vil sige, når du manuelt justerer oversættelsen, **skal du ikke tilføje eller slette linjer i oversættelsen** , ellers vil kortlægningsforholdet mellem oversættelsen og den originale tekst blive uorden.
+> [!WARN]
+> Husk, **at antallet af linjer i oversættelsen skal svare til linjerne i den originale tekst** .
+> Det vil sige, når du manuelt justerer oversættelsen, **skal du ikke tilføje eller slette linjer i oversættelsen** , ellers vil kortlægningsforholdet mellem oversættelsen og den originale tekst blive uorden.
 
 Hvis du ved et uheld tilføjer eller sletter en linje, hvilket forårsager forvirring, skal du gendanne oversættelsen til versionen før ændring, køre `i18` oversættelse igen og cache den korrekte kortlægning igen.
 

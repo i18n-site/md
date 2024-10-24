@@ -33,11 +33,10 @@ Terjemahan boleh diedit.
 
 Ubah suai teks asal dan terjemah mesin sekali lagi, pengubahsuaian manual pada terjemahan tidak akan ditimpa (jika perenggan teks asal ini tidak diubah suai).
 
-Kami melanggan falsafah `UNIX` " Semuanya adalah fail " dan boleh menguruskan terjemahan ke dalam ratusan bahasa tanpa memperkenalkan penyelesaian peringkat perusahaan yang rumit dan menyusahkan.
-
-Anda boleh menggunakan alat yang paling biasa untuk mengedit `Markdown` (tetapi anda tidak boleh menambah atau memadam perenggan), dan menggunakan cara yang paling biasa untuk melakukan kawalan versi.
-
-Pangkalan kod boleh dibuat sebagai sumber terbuka untuk fail bahasa, dan dengan bantuan `Pull Request` proses, pengguna global boleh mengambil bahagian dalam pengoptimuman berterusan terjemahan. Sambungan lancar [github](//github.com) Dan komuniti sumber terbuka yang lain.
+> [!TIP]
+> Kami melanggan falsafah `UNIX` " Semuanya adalah fail " dan boleh menguruskan terjemahan ke dalam ratusan bahasa tanpa memperkenalkan penyelesaian peringkat perusahaan yang rumit dan menyusahkan.
+> Anda boleh menggunakan alat yang paling biasa untuk mengedit `Markdown` (tetapi anda tidak boleh menambah atau memadam perenggan), dan menggunakan cara yang paling biasa untuk melakukan kawalan versi.
+> Pangkalan kod boleh dibuat sebagai sumber terbuka untuk fail bahasa, dan dengan bantuan `Pull Request` proses, pengguna global boleh mengambil bahagian dalam pengoptimuman berterusan terjemahan. Sambungan lancar [github](//github.com) Dan komuniti sumber terbuka yang lain.
 
 [→ Untuk panduan pengguna, sila baca dokumentasi projek](/i18) .
 
@@ -103,9 +102,10 @@ Sistem tiket berbilang bahasa yang boleh membayar ganjaran;
 Pasaran jualan untuk komponen hadapan antarabangsa;
 Banyak lagi yang kita nak buat.
 
-Kami tidak sabar-sabar untuk bertemu orang yang berfikiran sama di lautan manusia yang luas.
-Kami sedang mencari sukarelawan untuk mengambil bahagian dalam pembangunan kod sumber terbuka dan pembacaan pruf teks terjemahan.
-Jika anda berminat, sila [→ Klik di sini untuk mengisi profil anda](https://ggl.link/i18n) dan kemudian sertai [senarai mel](https://groups.google.com/u/2/g/i18n-site) untuk komunikasi.
-
 Kami percaya pada sumber terbuka dan suka berkongsi,
 Selamat datang untuk mencipta masa depan tanpa sempadan bersama-sama.
+
+> [!NOTE]
+> Kami tidak sabar-sabar untuk bertemu orang yang berfikiran sama di lautan manusia yang luas.
+> Kami sedang mencari sukarelawan untuk mengambil bahagian dalam pembangunan kod sumber terbuka dan pembacaan pruf teks terjemahan.
+> Jika anda berminat, sila [→ Klik di sini untuk mengisi profil anda](https://ggl.link/i18n) dan kemudian sertai [senarai mel](https://groups.google.com/u/2/g/i18n-site) untuk komunikasi.

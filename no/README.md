@@ -33,11 +33,10 @@ Oversettelsen er redigerbar.
 
 Når originalteksten endres, vil maskinoversettelsen ikke overskrive manuelle justeringer (dersom originalavsnittet ikke er endret).
 
-Vi abonnerer på filosofien "Alt er en fil" fra `UNIX`, og kan administrere oversettelser til hundrevis av språk uten å introdusere komplekse og tunge bedriftsløsninger.
-
-Du kan bruke dine mest kjente verktøy for å redigere `Markdown`-teksten (men du kan ikke legge til eller slette avsnitt), og utføre versjonskontroll på din mest kjente måte.
-
-En kodebase kan opprettes som åpen kildekode for språkfiler, og ved hjelp av `Pull Request`-prosesser kan globale brukere delta i kontinuerlig optimalisering av oversettelsene. Sømløs integrasjon med [github](//github.com) og andre open-source-samfunn.
+> [!TIP]
+> Vi abonnerer på filosofien "Alt er en fil" fra `UNIX`, og kan administrere oversettelser til hundrevis av språk uten å introdusere komplekse og tunge bedriftsløsninger.
+> Du kan bruke dine mest kjente verktøy for å redigere `Markdown`-teksten (men du kan ikke legge til eller slette avsnitt), og utføre versjonskontroll på din mest kjente måte.
+> En kodebase kan opprettes som åpen kildekode for språkfiler, og ved hjelp av `Pull Request`-prosesser kan globale brukere delta i kontinuerlig optimalisering av oversettelsene. Sømløs integrasjon med [github](//github.com) og andre open-source-samfunn.
 
 [→ Brukerveiledning, se prosjektdokumentasjonen](/i18).
 
@@ -103,9 +102,10 @@ Tilbyr et flerspråklig billettsystem med belønningsutbetalinger;
 Marked for internasjonale front-end komponenter;
 Det er mye mer vi ønsker å gjøre.
 
-Vi ser frem til å møte likesinnede i det store menneskehavet.
-Vi søker frivillige til å bidra med åpen kildekode-utvikling og korrekturlesing av oversettelser.
-Hvis du er interessert, [→ fyll ut profilen din her](https://ggl.link/i18n) og bli med i [e-postlisten](https://groups.google.com/u/2/g/i18n-site) for kommunikasjon.
-
 Vi tror på åpen kildekode og elsker å dele,
 Velkommen til å skape en grenseløs fremtid sammen.
+
+> [!NOTE]
+> Vi ser frem til å møte likesinnede i det store menneskehavet.
+> Vi søker frivillige til å bidra med åpen kildekode-utvikling og korrekturlesing av oversettelser.
+> Hvis du er interessert, [→ fyll ut profilen din her](https://ggl.link/i18n) og bli med i [e-postlisten](https://groups.google.com/u/2/g/i18n-site) for kommunikasjon.

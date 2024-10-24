@@ -1,5 +1,8 @@
 @!3O6b-ov1h9WkpgYa7CQCmZtFZrCuu1RJktcf8wIIOxldWu7wm_Dl3otVRk2l-ipB5J2RxFRUZYM0Bxp$NnXxH29To8GaI-_6gmJN7FR!3riTHsD0to1QNFs3k7QpW$!eAcsw$8cb_4e99fJWDm-DY6EHKtxBczaLy6H!Ff
-- i18n.site:
+- i18:
+  - qa.md#01tsw8
+  - use.md#01tsw8
+  i18n.site:
   - conf:
     - addon.md#0MYy5x
     - blog.md#0MYy5x

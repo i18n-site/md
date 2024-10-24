@@ -126,7 +126,8 @@ For eksempel betyr `_*` at filer som starter med `_` ikke oversettes.
 
 Oversettelsen kan redigeres. Endre originalteksten og oversett igjen; manuelle endringer i oversettelsen vil ikke bli overskrevet (med mindre originalavsnittet er endret).
 
-Men vær oppmerksom på at linjene i oversettelsen og originalteksten må samsvare én til én. Ikke legg til eller slett linjer i oversettelsen, ellers kan det forårsake forvirring i oversettelsesredigeringens buffer.
+> [!WARN]
+> Linjene i oversettelsen må samsvare én til én med originalteksten. Det vil si, ikke legg til eller slett linjer når du oversetter. Ellers kan det føre til forvirring i redigeringsbufferen for oversettelse.
 
 Hvis det oppstår problemer, se [vanlige spørsmål for løsninger](/i18/qa#H1)
 

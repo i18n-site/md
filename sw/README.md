@@ -33,11 +33,10 @@ Tafsiri inaweza kuhaririwa.
 
 Rekebisha maandishi asilia na uyatafsiri kwa mashine tena, marekebisho ya mwongozo kwa tafsiri hayatafutwa (ikiwa aya hii ya maandishi asilia haijarekebishwa).
 
-Tunajiandikisha kwa falsafa ya `UNIX` " Kila kitu ni faili " na tunaweza kudhibiti tafsiri katika mamia ya lugha bila kuwasilisha masuluhisho magumu na magumu ya kiwango cha biashara.
-
-Unaweza kutumia zana zinazojulikana zaidi kuhariri `Markdown` (lakini huwezi kuongeza au kufuta aya), na kutumia njia inayojulikana zaidi kufanya udhibiti wa toleo.
-
-Msingi wa msimbo unaweza kuundwa kama chanzo huria cha faili za lugha, na kwa usaidizi wa michakato `Pull Request` , watumiaji wa kimataifa wanaweza kushiriki katika uboreshaji unaoendelea wa tafsiri. Muunganisho usio na mshono [github](//github.com) Na jamii zingine za chanzo wazi.
+> [!TIP]
+> Tunajiandikisha kwa falsafa ya `UNIX` " Kila kitu ni faili " na tunaweza kudhibiti tafsiri katika mamia ya lugha bila kuwasilisha masuluhisho magumu na magumu ya kiwango cha biashara.
+> Unaweza kutumia zana zinazojulikana zaidi kuhariri `Markdown` (lakini huwezi kuongeza au kufuta aya), na kutumia njia inayojulikana zaidi kufanya udhibiti wa toleo.
+> Msingi wa msimbo unaweza kuundwa kama chanzo huria cha faili za lugha, na kwa usaidizi wa michakato `Pull Request` , watumiaji wa kimataifa wanaweza kushiriki katika uboreshaji unaoendelea wa tafsiri. Muunganisho usio na mshono [github](//github.com) Na jamii zingine za chanzo wazi.
 
 [→ Kwa mwongozo wa mtumiaji, tafadhali soma hati za mradi](/i18) .
 
@@ -103,9 +102,10 @@ Mfumo wa tikiti wa lugha nyingi ambao unaweza kulipa fadhila;
 Soko la mauzo kwa vipengele vya mbele vya kimataifa;
 Kuna mengi zaidi tunataka kufanya.
 
-Tunatazamia kukutana na watu wenye nia moja katika bahari kubwa ya watu.
-Tunatafuta watu wa kujitolea kushiriki katika kutengeneza msimbo wa chanzo huria na kusahihisha maandishi yaliyotafsiriwa.
-Ikiwa una nia, tafadhali [→ Bofya hapa ili kujaza wasifu wako](https://ggl.link/i18n) na kisha ujiunge na [orodha ya wanaopokea barua pepe](https://groups.google.com/u/2/g/i18n-site) kwa mawasiliano.
-
 Tunaamini katika chanzo wazi na kushiriki upendo,
 Karibu tuunde mustakabali usio na mipaka pamoja.
+
+> [!NOTE]
+> Tunatazamia kukutana na watu wenye nia moja katika bahari kubwa ya watu.
+> Tunatafuta watu wa kujitolea kushiriki katika kutengeneza msimbo wa chanzo huria na kusahihisha maandishi yaliyotafsiriwa.
+> Ikiwa una nia, tafadhali [→ Bofya hapa ili kujaza wasifu wako](https://ggl.link/i18n) na kisha ujiunge na [orodha ya wanaopokea barua pepe](https://groups.google.com/u/2/g/i18n-site) kwa mawasiliano.

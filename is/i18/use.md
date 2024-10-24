@@ -126,7 +126,8 @@ Til dæmis þýðir `_* ` í stillingarskránni hér að ofan að skrár sem byr
 
 Þýðingin er breytanleg. Breyttu upprunalega textanum og þýddu hann aftur í vél, handvirkum breytingum á þýðingunni verður ekki skrifað yfir (ef þessari málsgrein upprunalega textans hefur ekki verið breytt).
 
-En vinsamlegast athugaðu að línur þýðingarinnar og frumtextinn verða að samsvara einni á móti einni. Það er, ekki bæta við eða eyða línum þegar þýðingin er sett saman. Annars mun það valda ruglingi í skyndiminni fyrir ritvinnslu þýðingar.
+> [!WARN]
+> Línur þýðingarinnar og frumtextinn verða að samsvara einni á móti einni. Það er, ekki bæta við eða eyða línum þegar þýðingin er sett saman. Annars mun það valda ruglingi í skyndiminni fyrir ritvinnslu þýðingar.
 
 Ef eitthvað fer úrskeiðis, vinsamlegast skoðaðu [algengar spurningar fyrir lausnir.](/i18/qa#H1)
 

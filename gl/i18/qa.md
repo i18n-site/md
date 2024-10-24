@@ -2,9 +2,9 @@
 
 ## Engadir Ou Eliminar Liñas Da Tradución, O Que Provoca Confusión Na Tradución
 
-Lembra que **o número de liñas da tradución debe corresponder ás liñas do texto orixinal** .
-
-É dicir, ao axustar manualmente a tradución, **non engada ou elimine liñas da tradución** , se non, a relación de mapeo entre a tradución e o texto orixinal estará desordenada.
+> [!WARN]
+> Lembra que **o número de liñas da tradución debe corresponder ás liñas do texto orixinal** .
+> É dicir, ao axustar manualmente a tradución, **non engada ou elimine liñas da tradución** , se non, a relación de mapeo entre a tradución e o texto orixinal estará desordenada.
 
 Se accidentalmente engades ou eliminas unha liña, causando confusión, restaura a tradución á versión antes da modificación, executa a tradución `i18` de novo e volve gardar a asignación correcta na caché.
 

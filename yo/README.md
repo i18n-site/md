@@ -33,11 +33,10 @@ Itumọ jẹ ṣiṣatunṣe.
 
 Ṣe atunṣe ọrọ atilẹba ati ẹrọ-tumọ lẹẹkansii, awọn iyipada afọwọṣe si itumọ naa kii yoo tun kọ (ti o ba jẹ pe paragirafi yii ti ọrọ atilẹba ko ti yipada).
 
-A ṣe alabapin si imọ-jinlẹ ti `UNIX` " Ohun gbogbo jẹ faili " ati pe o le ṣakoso awọn itumọ si awọn ọgọọgọrun awọn ede laisi iṣafihan awọn ojutu ipele ile-iṣẹ ti o nipọn ati ti o nira.
-
-O le lo awọn irinṣẹ ti o mọ julọ lati ṣatunkọ `Markdown` (ṣugbọn o ko le ṣafikun tabi pa awọn paragirafi rẹ), ati lo ọna ti o faramọ julọ lati ṣe iṣakoso ẹya.
-
-Ipilẹ koodu kan le ṣẹda bi orisun ṣiṣi fun awọn faili ede, ati pẹlu iranlọwọ ti awọn ilana `Pull Request` , awọn olumulo agbaye le kopa ninu imudara ilọsiwaju ti awọn itumọ. Asopọ [github](//github.com) ati awọn agbegbe orisun ṣiṣi miiran.
+> [!TIP]
+> A ṣe alabapin si imọ-jinlẹ ti `UNIX` " Ohun gbogbo jẹ faili " ati pe o le ṣakoso awọn itumọ si awọn ọgọọgọrun awọn ede laisi iṣafihan awọn ojutu ipele ile-iṣẹ ti o nipọn ati ti o nira.
+> O le lo awọn irinṣẹ ti o mọ julọ lati ṣatunkọ `Markdown` (ṣugbọn o ko le ṣafikun tabi pa awọn paragirafi rẹ), ati lo ọna ti o faramọ julọ lati ṣe iṣakoso ẹya.
+> Ipilẹ koodu kan le ṣẹda bi orisun ṣiṣi fun awọn faili ede, ati pẹlu iranlọwọ ti awọn ilana `Pull Request` , awọn olumulo agbaye le kopa ninu imudara ilọsiwaju ti awọn itumọ. Asopọ [github](//github.com) ati awọn agbegbe orisun ṣiṣi miiran.
 
 [→ Fun itọsọna olumulo, jọwọ ka iwe iṣẹ akanṣe naa](/i18) .
 
@@ -103,9 +102,10 @@ Eto tikẹti ede pupọ ti o le san awọn ẹbun;
 Ọja tita fun awọn paati iwaju-opin agbaye;
 Ọpọlọpọ diẹ sii wa ti a fẹ ṣe.
 
-A nireti lati pade awọn eniyan oninuure kan ninu okun nla ti awọn eniyan.
-A n wa awọn oluyọọda lati kopa ninu idagbasoke koodu orisun ṣiṣi ati ṣiṣatunṣe awọn ọrọ ti a tumọ.
-Ti o ba nifẹ si, jọwọ [→ Tẹ ibi lati kun profaili rẹ](https://ggl.link/i18n) lẹhinna darapọ mọ [atokọ ifiweranṣẹ](https://groups.google.com/u/2/g/i18n-site) fun ibaraẹnisọrọ.
-
 A gbagbọ ni ṣiṣi orisun ati ifẹ pinpin,
 Kaabọ lati ṣẹda ọjọ iwaju ti ko ni opin papọ.
+
+> [!NOTE]
+> A nireti lati pade awọn eniyan oninuure kan ninu okun nla ti awọn eniyan.
+> A n wa awọn oluyọọda lati kopa ninu idagbasoke koodu orisun ṣiṣi ati ṣiṣatunṣe awọn ọrọ ti a tumọ.
+> Ti o ba nifẹ si, jọwọ [→ Tẹ ibi lati kun profaili rẹ](https://ggl.link/i18n) lẹhinna darapọ mọ [atokọ ifiweranṣẹ](https://groups.google.com/u/2/g/i18n-site) fun ibaraẹnisọrọ.

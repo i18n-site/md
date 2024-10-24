@@ -2,9 +2,9 @@
 
 ## Manampy Na Mamafa Andalana Amin'ny Fandikan-Teny, Ka Miteraka Fisavoritahana Eo Amin'ny Fandikan-Teny
 
-Tsarovy fa **ny isan'ny andalana ao amin'ny fandikan-teny dia tsy maintsy mifanaraka amin'ny andalana ao amin'ny lahatsoratra tany am-boalohany** .
-
-Izany hoe, rehefa manitsy amin'ny tanana ny fandikan-teny **dia aza ampiana na fafao ny andalana amin'ny fandikan-teny** , raha tsy izany dia hikorontana ny fifandraisan'ny sarintany eo amin'ny dikanteny sy ny lahatsoratra tany am-boalohany.
+> [!WARN]
+> Tsarovy fa **ny isan'ny andalana ao amin'ny fandikan-teny dia tsy maintsy mifanaraka amin'ny andalana ao amin'ny lahatsoratra tany am-boalohany** .
+> Izany hoe, rehefa manitsy amin'ny tanana ny fandikan-teny **dia aza ampiana na fafao ny andalana amin'ny fandikan-teny** , raha tsy izany dia hikorontana ny fifandraisan'ny sarintany eo amin'ny dikanteny sy ny lahatsoratra tany am-boalohany.
 
 Raha manampy na mamafa tsipika tsy nahy ianao, ka miteraka fisavoritahana, avereno amin'ny dikan-teny azafady ny dikanteny alohan'ny hanovana azy, avereno indray ny dikanteny `i18` , ary asio cache indray ny sarintany marina.
 

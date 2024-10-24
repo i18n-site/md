@@ -2,9 +2,9 @@
 
 ## T’ikraypi Chirukunata Yapay Otaq Chinkachiy, Chaymi T’ikraypi Pantasqa Kanman
 
-Yuyariy, **tikraypi hayka chirukuna kasqanqa ñawpaq qillqasqapi chirukunawanmi tupanan** .
-
-Chayqa niyta munan, makiwan tikrayta allichaspaqa **ama tikraypa chirunkunata yapaychu nitaq qulluychu** , mana chayqa tikraywan ñawpaq qillqasqawan mapa ruwayqa mana allinchu kanqa.
+> [!WARN]
+> Yuyariy, **tikraypi hayka chirukuna kasqanqa ñawpaq qillqasqapi chirukunawanmi tupanan** .
+> Chayqa niyta munan, makiwan tikrayta allichaspaqa **ama tikraypa chirunkunata yapaychu nitaq qulluychu** , mana chayqa tikraywan ñawpaq qillqasqawan mapa ruwayqa mana allinchu kanqa.
 
 Sichus mana yuyaypi huk chiruta yapanki icha qullunki, pantayta ruwaspa, ama hina kaspa tikrayta layaman kutichiy manaraq hukchayta ruwachkaspa, `i18` tikrayta wakmanta purichiy, chaymanta allin mapachayta wakmanta waqaychay.
 

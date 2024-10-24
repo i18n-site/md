@@ -2,9 +2,9 @@
 
 ## Te Taapiri, Te Whakakore Ranei I Nga Rarangi O Te Whakamaoritanga, Ka Hua Te Whakamaoritanga
 
-Kia mahara, **ko te maha o nga rarangi o te whakamaoritanga me rite ki nga rarangi o te tuhinga taketake** .
-
-Arā, ina whakatika ā-ringa i te whakamāoritanga, **kaua e tāpiri, e mukua rānei ngā rārangi o te whakamāoritanga** , ki te kore ka raru te hononga mapi i waenga i te whakamaoritanga me te tuhinga taketake.
+> [!WARN]
+> Kia mahara, **ko te maha o nga rarangi o te whakamaoritanga me rite ki nga rarangi o te tuhinga taketake** .
+> Arā, ina whakatika ā-ringa i te whakamāoritanga, **kaua e tāpiri, e mukua rānei ngā rārangi o te whakamāoritanga** , ki te kore ka raru te hononga mapi i waenga i te whakamaoritanga me te tuhinga taketake.
 
 Mēnā ka tāpirihia, ka mukua rānei i tētahi raina, ka raruraru, tēnā whakahokia mai te whakamāoritanga ki te putanga i mua i te whakarerekētanga, whakahaeretia ano te whakamaoritanga `i18` , ka keteroki ano i te mapi tika.
 

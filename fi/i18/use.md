@@ -126,7 +126,8 @@ Esimerkiksi `_* ` yllä olevassa asetustiedostossa tarkoittaa, että `_` :llä a
 
 Käännös on muokattavissa. Jos muokkaat alkuperäistä tekstiä ja suoritat uuden käännöksen, manuaaliset muutokset eivät korvata käännöstä (jos alkuperäistä tekstiä ei ole muokattu).
 
-Käännöksen ja alkuperäisen tekstin rivien on vastattava toisiaan. Älä lisää tai poista rivejä käännöksessä, muuten se aiheuttaa käännösmuokkausvälimuistin sekavuutta.
+> [!WARN]
+> Käännöksen ja alkuperäisen tekstin rivien tulee vastata yhtä riviä. Eli älä lisää tai poista rivejä kääntäessäsi käännöstä. Muuten se aiheuttaa hämmennystä käännösmuokkausvälimuistissa.
 
 Jos ilmenee ongelmia, katso [usein kysytyt kysymykset ja ratkaisut](/i18/qa#H1)
 

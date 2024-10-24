@@ -126,7 +126,8 @@ Contone, `_* ` ing file konfigurasi ndhuwur tegese file sing diwiwiti karo `_` o
 
 Terjemahan bisa diowahi. Ngowahi teks asli lan mesin-terjemahake maneh, modifikasi manual kanggo terjemahan ora bakal ditimpa (yen paragraf teks asli iki durung diowahi).
 
-Nanging elinga yen baris terjemahan lan teks asli kudu cocog siji-siji. Tegese, aja nambah utawa mbusak baris nalika nyusun terjemahan. Yen ora, bakal nyebabake kebingungan ing cache panyuntingan terjemahan.
+> [!WARN]
+> Baris terjemahan lan teks asli kudu cocog siji-siji. Yaiku, aja nambah utawa mbusak baris nalika nyusun terjemahan. Yen ora, bakal nyebabake kebingungan ing cache panyuntingan terjemahan.
 
 Yen ana masalah, deleng [FAQ kanggo solusi.](/i18/qa#H1)
 

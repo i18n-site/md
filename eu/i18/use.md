@@ -126,7 +126,8 @@ Adibidez, goiko konfigurazio-fitxategian `_* ` esan nahi du `_` hasten diren fit
 
 Itzulpena editagarria da. Aldatu jatorrizko testua eta itzuli automatikoki berriro, itzulpenaren eskuzko aldaketak ez dira gainidatziko (jatorrizko testuaren paragrafo hau aldatu ez bada).
 
-Baina kontuan izan itzulpenaren lerroak eta jatorrizko testuak bata eta bestea bat etorri behar direla. Hau da, ez gehitu edo ezabatu lerrorik itzulpena osatzerakoan. Bestela, nahasmena eragingo du itzulpenak editatzeko cachean.
+> [!WARN]
+> Itzulpenaren lerroak eta jatorrizko testuak bata eta bestea bat etorri behar dira. Hau da, ez gehitu edo ezabatu lerrorik itzulpena osatzerakoan. Bestela, nahasmena eragingo du itzulpenak editatzeko cachean.
 
 Zerbait gaizki ateratzen bada, mesedez, kontsultatu [galderak konponbideak lortzeko.](/i18/qa#H1)
 

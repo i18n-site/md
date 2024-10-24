@@ -2,9 +2,9 @@
 
 ## Ukwengeza Noma Ukususa Imigqa Yokuhumusha, Okuholela Ekudidekeni Ekuhumusheni
 
-Khumbula, **inombolo yemigqa ekuhumusheni kufanele ihambisane nemigqa yombhalo wokuqala** .
-
-Okusho ukuthi, lapho ulungisa ukuhumusha mathupha, **ungangezi noma ususe imigqa yokuhumusha** , ngaphandle kwalokho ubudlelwano bemephu phakathi kokuhumusha nombhalo wokuqala buzophazamiseka.
+> [!WARN]
+> Khumbula, **inombolo yemigqa ekuhumusheni kufanele ihambisane nemigqa yombhalo wokuqala** .
+> Okusho ukuthi, lapho ulungisa ukuhumusha mathupha, **ungangezi noma ususe imigqa yokuhumusha** , ngaphandle kwalokho ubudlelwano bemephu phakathi kokuhumusha nombhalo wokuqala buzophazamiseka.
 
 Uma wengeza noma ususa umugqa ngephutha, okubangela ukudideka, sicela ubuyisele okuhunyushiwe enguqulweni ngaphambi kokulungisa, sebenzisa ukuhumusha `i18` futhi, bese uphinda ulondoloze ukumepha okulungile.
 

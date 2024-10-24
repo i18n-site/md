@@ -2,9 +2,9 @@
 
 ## A Fordítás Sorainak Hozzáadása Vagy Törlése, Ami Zavart Okoz a Fordításban
 
-Ne feledje, **hogy a fordításban szereplő sorok számának meg kell egyeznie az eredeti szöveg soraival** .
-
-Ez azt jelenti, hogy a fordítás manuális módosításakor **ne adjon hozzá vagy töröljön sorokat a fordításból** , ellenkező esetben a fordítás és az eredeti szöveg közötti leképezési kapcsolat rendezetlen lesz.
+> [!WARN]
+> Ne feledje, **hogy a fordításban szereplő sorok számának meg kell egyeznie az eredeti szöveg soraival** .
+> Ez azt jelenti, hogy a fordítás manuális módosításakor **ne adjon hozzá vagy töröljön sorokat a fordításból** , ellenkező esetben a fordítás és az eredeti szöveg közötti leképezési kapcsolat rendezetlen lesz.
 
 Ha véletlenül hozzáad vagy töröl egy sort, ami zavart okoz, kérjük, állítsa vissza a fordítást a módosítás előtti verzióra, futtassa újra `i18` fordítást, és tárolja újra a megfelelő leképezést.
 

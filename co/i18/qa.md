@@ -2,9 +2,9 @@
 
 ## Agghiuncennu O Sguassate Linee Di a Traduzzione, Risultatu in Cunfusione in a Traduzzione
 
-Ricurdativi, **u numeru di linii in a traduzzione deve currisponde à e linee in u testu originale** .
-
-Vale à dì, quandu aghjustate manualmente a traduzzione, **ùn aghjunghje micca o sguassate linee di a traduzzione** , altrimenti a relazione di mappatura trà a traduzzione è u testu originale serà disordinata.
+> [!WARN]
+> Ricurdativi, **u numeru di linii in a traduzzione deve currisponde à e linee in u testu originale** .
+> Vale à dì, quandu aghjustate manualmente a traduzzione, **ùn aghjunghje micca o sguassate linee di a traduzzione** , altrimenti a relazione di mappatura trà a traduzzione è u testu originale serà disordinata.
 
 Se accidentalmente aghjunghje o sguassate una linea, causandu cunfusione, per piacè restituite a traduzzione à a versione prima di mudificà, eseguite `i18` traduzzione di novu, è cache di novu a mappatura curretta.
 

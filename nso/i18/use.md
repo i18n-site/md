@@ -126,7 +126,8 @@ Mohlala, `_* ` ka faeleng ya peakanyo ye e lego ka mo godimo e ra gore difaele t
 
 Phetolelo e a rulaganywa. Fetoša sengwalwa sa mathomo gomme o se fetolele ka motšhene gape, diphetošo tša seatla tša phetolelo di ka se ngwalwe godimo (ge e le gore temana ye ya sengwalwa sa mathomo ga se ya fetošwa).
 
-Eupša hle ela hloko gore methalo ya phetolelo le mongwalo wa mathomo di swanetše go sepelelana le e tee le e tee. Ke gore, o se ke wa oketša goba wa phumola methalo ge o kgoboketša phetolelo. Go sego bjalo, e tla hlola kgakanego ka gare ga cache ya go rulaganya phetolelo.
+> [!WARN]
+> Methaladi ya phetolelo le mongwalo wa mathomo di swanetše go sepelelana le e tee le e tee. Ke gore, o se ke wa oketša goba wa phumola methalo ge o kgoboketša phetolelo. Go sego bjalo, e tla hlola kgakanego ka gare ga cache ya go rulaganya phetolelo.
 
 Ge selo se sengwe se sa sepele gabotse, hle lebelela [FAQ bakeng sa ditharollo.](/i18/qa#H1)
 

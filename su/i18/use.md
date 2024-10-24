@@ -126,7 +126,8 @@ Contona, `_* ` dina file konfigurasi luhur hartina file dimimitian ku `_` moal d
 
 Tarjamahan tiasa diédit. Ngarobah téks aslina tur mesin-narjamahkeun deui, modifikasi manual kana tarjamahan moal overwritten (lamun ayat ieu téks aslina teu acan dirobah).
 
-Tapi punten perhatikeun yén baris tarjamahan sareng téks asli kedah saluyu sareng hiji. Nyaéta, ulah nambihan atanapi mupus garis nalika nyusun tarjamahan. Upami teu kitu, éta bakal ngabalukarkeun kabingungan dina cache éditan terjemahan.
+> [!WARN]
+> Baris tina tarjamahan jeung téks aslina kudu saluyu jeung hiji. Nyaéta, ulah nambihan atanapi mupus garis nalika nyusun tarjamahan. Upami teu kitu, éta bakal ngabalukarkeun kabingungan dina cache éditan terjemahan.
 
 Upami aya anu lepat, mangga tingal [FAQ kanggo solusi.](/i18/qa#H1)
 

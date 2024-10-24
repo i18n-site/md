@@ -126,7 +126,8 @@ Kas pagarigan, `_* ` iti ngato a papeles ti panagisaad ket kayatna a sawen a dag
 
 Mabalin nga i-edit ti patarus. Baliwan ti orihinal a teksto ken ipatarus manen babaen ti makina, dagiti manual a panagbalbaliw iti patarus ket saan a maisurat (no daytoy a parapo ti orihinal a teksto ket saan a nabaliwan).
 
-Ngem pangngaasiyo ta laglagipenyo a dagiti linia ti patarus ken ti orihinal a teksto masapul a maitunos iti maysa iti maysa. Kayatna a sawen, saan a mangnayon wenno mangikkat kadagiti linia no agtipon ti patarus. Ta no saan, mangpataud daytoy iti pannakariro iti cache ti panag-edit ti panagipatarus.
+> [!WARN]
+> Masapul a maitunos ti linia ti patarus ken ti orihinal a teksto iti maysa. Kayatna a sawen, saan a mangnayon wenno mangikkat kadagiti linia no agtipon ti patarus. Ta no saan, mangpataud daytoy iti pannakariro iti cache ti panag-edit ti panagipatarus.
 
 No adda di umiso, pangngaasiyo ta kitaenyo [ti FAQ para kadagiti solusion.](/i18/qa#H1)
 

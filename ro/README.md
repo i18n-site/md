@@ -33,11 +33,10 @@ Traducerea este editabilă.
 
 Modificați textul original și traduceți-l din nou automat, modificările manuale ale traducerii nu vor fi suprascrise (dacă acest paragraf al textului original nu a fost modificat).
 
-Ne abonam la filozofia `UNIX` Totul este un fișier " " putem gestiona traduceri în sute de limbi fără a introduce soluții complexe și greoaie la nivel de întreprindere.
-
-Puteți folosi cele mai familiare instrumente pentru a edita `Markdown` (dar nu puteți adăuga sau șterge paragrafe) și utilizați cel mai familiar mod de a controla versiunile.
-
-O bază de cod poate fi creată ca sursă deschisă pentru fișierele de limbă, iar cu ajutorul proceselor `Pull Request` , utilizatorii globali pot participa la optimizarea continuă a traducerilor. Conexiune [github](//github.com) întreruperi și alte comunități open source.
+> [!TIP]
+> Ne abonam la filozofia `UNIX` Totul este un fișier " " putem gestiona traduceri în sute de limbi fără a introduce soluții complexe și greoaie la nivel de întreprindere.
+> Puteți folosi cele mai familiare instrumente pentru a edita `Markdown` (dar nu puteți adăuga sau șterge paragrafe) și utilizați cel mai familiar mod de a controla versiunile.
+> O bază de cod poate fi creată ca sursă deschisă pentru fișierele de limbă, iar cu ajutorul proceselor `Pull Request` , utilizatorii globali pot participa la optimizarea continuă a traducerilor. Conexiune [github](//github.com) întreruperi și alte comunități open source.
 
 [→ Pentru ghidul utilizatorului, vă rugăm să citiți documentația proiectului](/i18) .
 
@@ -103,9 +102,10 @@ Un sistem de bilete multilingv care poate plăti recompense;
 O piață de vânzare pentru componente internaționale front-end;
 Vrem mult mai mult să facem.
 
-Așteptăm cu nerăbdare să întâlnim oameni cu gânduri similare în marea vastă de oameni.
-Căutăm voluntari care să participe la dezvoltarea codului open source și la corectarea textelor traduse.
-Dacă sunteți interesat, vă rugăm [→ Faceți clic aici pentru a vă completa profilul](https://ggl.link/i18n) și apoi alăturați-vă [listei de corespondență](https://groups.google.com/u/2/g/i18n-site) pentru comunicare.
-
 Credem în sursa deschisă și ne place împărtășirea,
 Bine ați venit să creăm împreună un viitor fără granițe.
+
+> [!NOTE]
+> Așteptăm cu nerăbdare să întâlnim oameni cu gânduri similare în marea vastă de oameni.
+> Căutăm voluntari care să participe la dezvoltarea codului open source și la corectarea textelor traduse.
+> Dacă sunteți interesat, vă rugăm [→ Faceți clic aici pentru a vă completa profilul](https://ggl.link/i18n) și apoi alăturați-vă [listei de corespondență](https://groups.google.com/u/2/g/i18n-site) pentru comunicare.

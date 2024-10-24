@@ -126,7 +126,8 @@ Ka mohlala, `_* ` faeleng ea tlhophiso e ka holimo e bolela hore lifaele tse qal
 
 Phetolelo e ka fetoloa. Fetosa mongolo oa mantlha, 'me u o fetolele ka mochini hape, liphetoho tse fetoletsoeng ka letsoho li ke ke tsa hlakoloa (haeba serapa sena sa mongolo oa mantlha se sa fetoloa).
 
-Empa ka kopo hlokomela hore mela ea phetolelo le mongolo oa pele li tlameha ho lumellana le o le mong. Ke hore, u se ke ua eketsa kapa ua hlakola mela ha u hlophisa phetolelo. Ho seng joalo, e tla baka pherekano ho cache ea ho fetola phetolelo.
+> [!WARN]
+> Mela ea phetolelo le mongolo oa pele li tlameha ho lumellana le o le mong. Ke hore, u se ke ua eketsa kapa ua hlakola mela ha u hlophisa phetolelo. Ho seng joalo, e tla baka pherekano ho cache ea ho fetola phetolelo.
 
 Haeba ho na le ho hong ho sa tsamaeeng hantle, ka kopo sheba [FAQ bakeng sa tharollo.](/i18/qa#H1)
 

@@ -126,7 +126,8 @@ Tusaale ahaan, `_* ` ee faylka qaabeynta sare waxay ka dhigan tahay in faylasha 
 
 Turjumaada waa la tafatiri karaa Wax ka beddel qoraalka asalka ah oo mashiinka-turjumi mar kale, wax ka beddelka buug-gacmeedka ee tarjumaada dib looma qori doono (haddii cutubkan qoraalka asalka ah aan wax laga beddelin).
 
-Laakin fadlan ogow in xarriiqda tarjumaada iyo qoraalka asalka ahi waa in ay u dhigmaan mid iyo mid. Taasi waa, ha ku darin hana tirtirin khadadka marka aad ururinayso tarjumaada. Haddii kale, waxay keeni doontaa jahawareer ku jira kaydka tafatirka tarjumaada.
+> [!WARN]
+> Sadarka tarjumaada iyo qoraalka asalka ah waa in ay u dhigmaan mid ilaa mid. Taasi waa, ha ku darin hana tirtirin khadadka marka aad ururinayso tarjumaada. Haddii kale, waxay keeni doontaa jahawareer ku jira kaydka tafatirka tarjumaada.
 
 Haddii ay wax qaldamaan, fadlan tixraac [FAQ si aad u xalliso.](/i18/qa#H1)
 

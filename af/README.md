@@ -33,11 +33,10 @@ Die vertaling is redigeerbaar.
 
 Verander die oorspronklike teks en masjienvertaal dit weer, die handmatige wysigings aan die vertaling sal nie oorskryf word nie (indien hierdie paragraaf van die oorspronklike teks nie gewysig is nie).
 
-Ons onderskryf die " van `UNIX` Alles is 'n lêer " en kan vertalings in honderde tale bestuur sonder om komplekse en omslagtige oplossings op ondernemingsvlak in te stel.
-
-Jy kan die bekendste gereedskap gebruik om `Markdown` vertaling te wysig (maar jy kan nie paragrawe byvoeg of uitvee nie), en die mees bekende manier gebruik om weergawebeheer te doen.
-
-'n Kodebasis kan geskep word as 'n oopbron vir taallêers, en met behulp van `Pull Request` prosesse kan globale gebruikers deelneem aan die voortdurende optimalisering van vertalings. [github](//github.com) verbinding en ander oopbrongemeenskappe.
+> [!TIP]
+> Ons onderskryf die " van `UNIX` Alles is 'n lêer " en kan vertalings in honderde tale bestuur sonder om komplekse en omslagtige oplossings op ondernemingsvlak in te stel.
+> Jy kan die bekendste gereedskap gebruik om `Markdown` vertaling te wysig (maar jy kan nie paragrawe byvoeg of uitvee nie), en die mees bekende manier gebruik om weergawebeheer te doen.
+> 'n Kodebasis kan geskep word as 'n oopbron vir taallêers, en met behulp van `Pull Request` prosesse kan globale gebruikers deelneem aan die voortdurende optimalisering van vertalings. [github](//github.com) verbinding en ander oopbrongemeenskappe.
 
 [→ Vir gebruikersgids, lees asseblief die projekdokumentasie](/i18) .
 
@@ -103,9 +102,10 @@ Ondersteun tweetalige opmerkings en kletskamers;
 'n Verkoopsmark vir internasionale front-end komponente;
 Daar is baie meer wat ons wil doen.
 
-Ons sien daarna uit om eendersdenkende mense in die uitgestrekte see van mense te ontmoet.
-Ons is op soek na vrywilligers om deel te neem aan die ontwikkeling van oopbronkode en proeflees van vertaalde tekste.
-As jy belangstel, asseblief [→ Klik hier om jou profiel in te vul](https://ggl.link/i18n) en sluit dan aan by [die poslys](https://groups.google.com/u/2/g/i18n-site) vir kommunikasie.
-
 Ons glo in open source en hou daarvan om te deel,
 Welkom om saam 'n grenslose toekoms te skep.
+
+> [!NOTE]
+> Ons sien daarna uit om eendersdenkende mense in die uitgestrekte see van mense te ontmoet.
+> Ons is op soek na vrywilligers om deel te neem aan die ontwikkeling van oopbronkode en proeflees van vertaalde tekste.
+> As jy belangstel, asseblief [→ Klik hier om jou profiel in te vul](https://ggl.link/i18n) en sluit dan aan by [die poslys](https://groups.google.com/u/2/g/i18n-site) vir kommunikasie.

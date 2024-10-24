@@ -2,9 +2,9 @@
 
 ## Tõlke Ridade Lisamine Või Kustutamine, Mis Põhjustab Tõlkes Segadust
 
-Pidage meeles, **et tõlke ridade arv peab vastama originaalteksti ridadele** .
-
-See tähendab, et tõlke käsitsi kohandamisel **ärge lisage ega kustutage tõlke ridu** , vastasel juhul on tõlke ja originaalteksti vaheline vastendussuhe häire.
+> [!WARN]
+> Pidage meeles, **et tõlke ridade arv peab vastama originaalteksti ridadele** .
+> See tähendab, et tõlke käsitsi kohandamisel **ärge lisage ega kustutage tõlke ridu** , vastasel juhul on tõlke ja originaalteksti vaheline vastendussuhe häire.
 
 Kui lisate või kustutate kogemata rea, tekitades segadust, taastage tõlge enne muutmist versioonile, käivitage uuesti tõlge `i18` ja salvestage õige vastendus uuesti vahemällu.
 

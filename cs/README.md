@@ -33,11 +33,10 @@ Překlad je upravitelný.
 
 Upravte původní text a znovu jej strojově přeložte, ruční úpravy překladu nebudou přepsány (pokud tento odstavec původního textu nebyl upraven).
 
-Hlásíme se k filozofii `UNIX` " Všechno je soubor " a můžeme spravovat překlady do stovek jazyků, aniž bychom zaváděli složitá a těžkopádná řešení na podnikové úrovni.
-
-K úpravě `Markdown` můžete použít nejznámější nástroje (ale nemůžete přidávat ani mazat odstavce) a používat nejznámější způsob správy verzí.
-
-Jako open source pro jazykové soubory lze vytvořit kódovou základnu a pomocí `Pull Request` procesů se mohou globální uživatelé podílet na průběžné optimalizaci překladů. Bezproblémové připojení [github](//github.com) další open source komunity.
+> [!TIP]
+> Hlásíme se k filozofii `UNIX` " Všechno je soubor " a můžeme spravovat překlady do stovek jazyků, aniž bychom zaváděli složitá a těžkopádná řešení na podnikové úrovni.
+> K úpravě `Markdown` můžete použít nejznámější nástroje (ale nemůžete přidávat ani mazat odstavce) a používat nejznámější způsob správy verzí.
+> Jako open source pro jazykové soubory lze vytvořit kódovou základnu a pomocí `Pull Request` procesů se mohou globální uživatelé podílet na průběžné optimalizaci překladů. Bezproblémové připojení [github](//github.com) další open source komunity.
 
 [→ Pro uživatelskou příručku si přečtěte projektovou dokumentaci](/i18) .
 
@@ -103,9 +102,10 @@ Vícejazyčný systém vstupenek, který může vyplácet odměny;
 Prodejní trh pro mezinárodní front-end komponenty;
 Je toho mnohem víc, co chceme udělat.
 
-Těšíme se na setkání s podobně smýšlejícími lidmi v obrovském moři lidí.
-Hledáme dobrovolníky, kteří by se podíleli na vývoji open source kódu a korekturách přeložených textů.
-Máte-li zájem, prosím [→ Klikněte sem, vyplňte svůj profil](https://ggl.link/i18n) a poté se připojte [k mailing listu](https://groups.google.com/u/2/g/i18n-site) pro komunikaci.
-
 Věříme v open source a milujeme sdílení,
 Vítejte, abyste společně vytvořili budoucnost bez hranic.
+
+> [!NOTE]
+> Těšíme se na setkání s podobně smýšlejícími lidmi v obrovském moři lidí.
+> Hledáme dobrovolníky, kteří by se podíleli na vývoji open source kódu a korekturách přeložených textů.
+> Máte-li zájem, prosím [→ Klikněte sem, vyplňte svůj profil](https://ggl.link/i18n) a poté se připojte [k mailing listu](https://groups.google.com/u/2/g/i18n-site) pro komunikaci.

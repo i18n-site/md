@@ -33,11 +33,10 @@ Kan perfekt behålla formatet `Markdown` . Kan identifiera filändringar och end
 
 Ändra originaltexten och maskinöversätt den igen, de manuella ändringarna av översättningen kommer inte att skrivas över (om detta stycke i originaltexten inte har ändrats).
 
-Vi prenumererar på " `UNIX` Allt är en fil " och kan hantera översättningar till hundratals språk utan att introducera komplexa och krångliga lösningar på företagsnivå.
-
-Du kan använda de mest välbekanta verktygen för att redigera `Markdown` (men du kan inte lägga till eller ta bort stycken), och använda det mest välbekanta sättet att göra versionskontroll.
-
-En kodbas kan skapas som en öppen källkod för språkfiler, och med hjälp av `Pull Request` processer kan globala användare delta i den kontinuerliga optimeringen av översättningar. Sömlös [github](//github.com) och andra gemenskaper med öppen källkod.
+> [!TIP]
+> Vi prenumererar på " `UNIX` Allt är en fil " och kan hantera översättningar till hundratals språk utan att introducera komplexa och krångliga lösningar på företagsnivå.
+> Du kan använda de mest välbekanta verktygen för att redigera `Markdown` (men du kan inte lägga till eller ta bort stycken), och använda det mest välbekanta sättet att göra versionskontroll.
+> En kodbas kan skapas som en öppen källkod för språkfiler, och med hjälp av `Pull Request` processer kan globala användare delta i den kontinuerliga optimeringen av översättningar. Sömlös [github](//github.com) och andra gemenskaper med öppen källkod.
 
 [→ För användarguide, läs projektdokumentationen](/i18) .
 
@@ -103,9 +102,10 @@ Ett flerspråkigt biljettsystem som kan betala ut belöningar;
 En försäljningsmarknad för internationella front-end-komponenter;
 Det finns mycket mer vi vill göra.
 
-Vi ser fram emot att träffa likasinnade i det stora folkhavet.
-Vi söker volontärer för att delta i utvecklingen av öppen källkod och korrekturläsning av översatta texter.
-Om du är intresserad, vänligen [→ Klicka här för att fylla i din profil](https://ggl.link/i18n) och gå sedan med i [e-postlistan](https://groups.google.com/u/2/g/i18n-site) för kommunikation.
-
 Vi tror på öppen källkod och älskar att dela,
 Välkommen att skapa en gränslös framtid tillsammans.
+
+> [!NOTE]
+> Vi ser fram emot att träffa likasinnade i det stora folkhavet.
+> Vi söker volontärer för att delta i utvecklingen av öppen källkod och korrekturläsning av översatta texter.
+> Om du är intresserad, vänligen [→ Klicka här för att fylla i din profil](https://ggl.link/i18n) och gå sedan med i [e-postlistan](https://groups.google.com/u/2/g/i18n-site) för kommunikation.

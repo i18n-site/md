@@ -33,11 +33,10 @@ A traduzzione hè editabile.
 
 Mudificà u testu uriginale è traduzzione in macchina di novu, e mudificazioni manuali di a traduzzione ùn saranu micca soprascritti (se stu paràgrafu di u testu originale ùn hè micca statu mudificatu).
 
-Abbunemu à a " di `UNIX` Tuttu hè un schedariu " è ponu gestisce traduzioni in centinaie di lingue senza introduzione di soluzioni cumplesse è ingombranti à livellu di l'impresa.
-
-Pudete utilizà l'arnesi più familiari per edità `Markdown` traduzzione (ma ùn pudete micca aghjunghje o sguassate paragrafi), è utilizate a manera più familiare per fà u cuntrollu di versione.
-
-Una basa di codice pò esse creatu cum'è una fonte aperta per i schedarii di lingua, è cù l'aiutu di i prucessi `Pull Request` , l'utilizatori glubale ponu participà à l'ottimisazione cuntinuu di traduzzioni. Cunnessione senza [github](//github.com) è altre cumunità open source.
+> [!TIP]
+> Abbunemu à a " di `UNIX` Tuttu hè un schedariu " è ponu gestisce traduzioni in centinaie di lingue senza introduzione di soluzioni cumplesse è ingombranti à livellu di l'impresa.
+> Pudete utilizà l'arnesi più familiari per edità `Markdown` traduzzione (ma ùn pudete micca aghjunghje o sguassate paragrafi), è utilizate a manera più familiare per fà u cuntrollu di versione.
+> Una basa di codice pò esse creatu cum'è una fonte aperta per i schedarii di lingua, è cù l'aiutu di i prucessi `Pull Request` , l'utilizatori glubale ponu participà à l'ottimisazione cuntinuu di traduzzioni. Cunnessione senza [github](//github.com) è altre cumunità open source.
 
 [→ Per a guida d'utilizatore, leghjite a documentazione di u prugettu](/i18) .
 
@@ -103,9 +102,10 @@ Un sistema di bigliettu multilingue chì pò pagà ricompense;
 Un mercatu di vendita di cumpunenti front-end internaziunali;
 Ci hè assai più chì vulemu fà.
 
-Aspittemu di scuntrà persone simili in u vastu mare di persone.
-Cerchemu vuluntarii per participà à u sviluppu di u codice open source è a correzione di testi tradutti.
-Sè site interessatu, per piacè [→ Cliccate quì per compie u vostru prufilu](https://ggl.link/i18n) è dopu unisci [à a lista di mailing](https://groups.google.com/u/2/g/i18n-site) per a cumunicazione.
-
 Cridemu in l'open source è a spartera d'amore,
 Benvenuti à creà un futuru senza frontiere inseme.
+
+> [!NOTE]
+> Aspittemu di scuntrà persone simili in u vastu mare di persone.
+> Cerchemu vuluntarii per participà à u sviluppu di u codice open source è a correzione di testi tradutti.
+> Sè site interessatu, per piacè [→ Cliccate quì per compie u vostru prufilu](https://ggl.link/i18n) è dopu unisci [à a lista di mailing](https://groups.google.com/u/2/g/i18n-site) per a cumunicazione.

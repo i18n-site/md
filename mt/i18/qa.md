@@ -2,9 +2,9 @@
 
 ## Iż-Żieda Jew It-Tħassir Ta' Linji Tat-Traduzzjoni, Li Tirriżulta F'konfużjoni Fit-Traduzzjoni
 
-Ftakar, **in-numru ta' linji fit-traduzzjoni għandu jikkorrispondi mal-linji fit-test oriġinali** .
-
-Jiġifieri, meta taġġusta t-traduzzjoni manwalment, **iżżidx jew tħassarx linji tat-traduzzjoni** , inkella r-relazzjoni tal-mapping bejn it-traduzzjoni u t-test oriġinali tkun diżordinata.
+> [!WARN]
+> Ftakar, **in-numru ta' linji fit-traduzzjoni għandu jikkorrispondi mal-linji fit-test oriġinali** .
+> Jiġifieri, meta taġġusta t-traduzzjoni manwalment, **iżżidx jew tħassarx linji tat-traduzzjoni** , inkella r-relazzjoni tal-mapping bejn it-traduzzjoni u t-test oriġinali tkun diżordinata.
 
 Jekk aċċidentalment iżżid jew tħassar linja, li tikkawża konfużjoni, jekk jogħġbok restawra t-traduzzjoni għall-verżjoni qabel il-modifika, erġa' ħaddem `i18` traduzzjoni, u erġa' daħħal fil-cache l-immappjar korrett.
 

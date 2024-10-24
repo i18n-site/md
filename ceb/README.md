@@ -33,11 +33,10 @@ Ang hubad ma-edit.
 
 Usba ang orihinal nga teksto ug i-machine-translate kini pag-usab, ang manwal nga mga pagbag-o sa paghubad dili ma-overwrite (kung kini nga parapo sa orihinal nga teksto wala giusab).
 
-Nag-subscribe kami sa " sa `UNIX` "
-
-Mahimo nimong gamiton ang labing pamilyar nga mga himan sa pag-edit `Markdown` paghubad (apan dili ka makadugang o makatangtang sa mga parapo), ug magamit ang labing pamilyar nga paagi aron makontrol ang bersyon.
-
-Ang usa ka code base mahimo nga usa ka bukas nga gigikanan alang sa mga file sa lengguwahe, ug sa tabang sa `Pull Request` nga mga proseso, ang mga global nga tiggamit mahimong makaapil sa padayon nga pag-optimize sa mga paghubad. Seamless nga koneksyon [github](//github.com) Ug uban pang open source nga mga komunidad.
+> [!TIP]
+> Nag-subscribe kami sa " sa `UNIX` "
+> Mahimo nimong gamiton ang labing pamilyar nga mga himan sa pag-edit `Markdown` paghubad (apan dili ka makadugang o makatangtang sa mga parapo), ug magamit ang labing pamilyar nga paagi aron makontrol ang bersyon.
+> Ang usa ka code base mahimo nga usa ka bukas nga gigikanan alang sa mga file sa lengguwahe, ug sa tabang sa `Pull Request` nga mga proseso, ang mga global nga tiggamit mahimong makaapil sa padayon nga pag-optimize sa mga paghubad. Seamless nga koneksyon [github](//github.com) Ug uban pang open source nga mga komunidad.
 
 [→ Para sa giya sa tiggamit, palihug basaha ang dokumentasyon sa proyekto](/i18) .
 
@@ -103,9 +102,10 @@ Usa ka multilingguwal nga sistema sa tiket nga makabayad ug mga bounties;
 Usa ka merkado sa pagbaligya alang sa internasyonal nga mga sangkap sa atubangan;
 Daghan pa ang gusto natong buhaton.
 
-Kami nagpaabut nga mahimamat ang parehas nga hunahuna nga mga tawo sa halapad nga dagat sa mga tawo.
-Nangita kami ug mga boluntaryo nga moapil sa pag-ugmad sa open source code ug pag-proofread sa mga gihubad nga teksto.
-Kung interesado ka, palihug [→ Pag-klik dinhi aron pun-on ang imong profile](https://ggl.link/i18n) ug dayon pag-apil [sa mailing list](https://groups.google.com/u/2/g/i18n-site) alang sa komunikasyon.
-
 Nagtuo kami sa bukas nga gigikanan ug pagpaambit sa gugma,
 Welcome sa paghimo sa usa ka walay utlanan nga kaugmaon sa tingub.
+
+> [!NOTE]
+> Kami nagpaabut nga mahimamat ang parehas nga hunahuna nga mga tawo sa halapad nga dagat sa mga tawo.
+> Nangita kami ug mga boluntaryo nga moapil sa pag-ugmad sa open source code ug pag-proofread sa mga gihubad nga teksto.
+> Kung interesado ka, palihug [→ Pag-klik dinhi aron pun-on ang imong profile](https://ggl.link/i18n) ug dayon pag-apil [sa mailing list](https://groups.google.com/u/2/g/i18n-site) alang sa komunikasyon.

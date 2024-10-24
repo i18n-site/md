@@ -126,7 +126,8 @@ Mar shampla, ciallaíonn `_* ` sa chomhad cumraíochta thuas nach n-aistreofar c
 
 Is féidir an t-aistriúchán a chur in eagar. Athraigh an buntéacs agus meaisín-aistrithe arís é, ní dhéanfar na modhnuithe láimhe ar an aistriúchán a fhorscríobh (mura bhfuil an mhír seo den bhuntéacs athraithe).
 
-Ach tabhair faoi deara, le do thoil, go gcaithfidh línte an aistriúcháin agus an buntéacs freagairt duine le duine. Is é sin, ná cuir nó scrios línte agus an t-aistriúchán á chur le chéile. Seachas sin, beidh sé ina chúis le mearbhall sa taisce eagarthóireachta aistriúcháin.
+> [!WARN]
+> Caithfidh línte an aistriúcháin agus an buntéacs freagairt duine le duine. Is é sin, ná cuir nó scrios línte agus an t-aistriúchán á chur le chéile. Seachas sin, beidh sé ina chúis le mearbhall sa taisce eagarthóireachta aistriúcháin.
 
 Má théann rud éigin mícheart, féach le do thoil do [na Ceisteanna Coitianta le haghaidh réitigh.](/i18/qa#H1)
 

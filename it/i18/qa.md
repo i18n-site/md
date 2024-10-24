@@ -2,9 +2,9 @@
 
 ## Inserimento o eliminazione di righe nella traduzione, causando disordine nel testo tradotto
 
-Ricorda, **le righe della traduzione devono corrispondere esattamente alle righe del testo originale**.
-
-Cioè, quando si aggiustano manualmente le traduzioni, **non aggiungere o rimuovere righe** della traduzione, altrimenti si perderà la corrispondenza tra traduzione e testo originale.
+> [!WARN]
+> Ricorda, **le righe della traduzione devono corrispondere esattamente alle righe del testo originale**.
+> Cioè, quando si aggiustano manualmente le traduzioni, **non aggiungere o rimuovere righe** della traduzione, altrimenti si perderà la corrispondenza tra traduzione e testo originale.
 
 Se accidentalmente si aggiunge o rimuove una riga, causando disordine, ripristina la traduzione al versione precedente alla modifica ed esegui nuovamente il comando `i18` per ricaricare la mappatura corretta.
 

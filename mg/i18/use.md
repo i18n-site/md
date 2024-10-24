@@ -126,7 +126,8 @@ Ohatra, ny `_* ` amin'ny rakitra fanamafisana etsy ambony dia midika fa tsy hadi
 
 Azo ovaina ny dikanteny. Ovay ny lahatsoratra tany am-boalohany ary adikao amin'ny masinina indray, ny fanovana amin'ny tanana amin'ny dikanteny dia tsy hosoratana (raha toa ka tsy novana ity andalana ity amin'ny lahatsoratra tany am-boalohany).
 
-Mariho anefa fa ny andalana amin'ny fandikan-teny sy ny lahatsoratra tany am-boalohany dia tsy maintsy mifanitsy amin'ny iray. Izany hoe, aza manampy na mamafa andalana rehefa manangona ny fandikan-teny. Raha tsy izany dia hiteraka fisavoritahana eo amin'ny cache fanovana fandikan-teny izany.
+> [!WARN]
+> Ny andalana amin'ny fandikan-teny sy ny lahatsoratra tany am-boalohany dia tsy maintsy mifanitsy amin'ny iray. Izany hoe, aza manampy na mamafa andalana rehefa manangona ny fandikan-teny. Raha tsy izany dia hiteraka fisavoritahana eo amin'ny cache fanovana fandikan-teny izany.
 
 Raha misy tsy mety dia jereo [ny FAQ mba hahitana vahaolana.](/i18/qa#H1)
 

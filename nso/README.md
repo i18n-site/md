@@ -33,11 +33,10 @@ Phetolelo e a rulaganywa.
 
 Fetoša sengwalwa sa mathomo gomme o se fetolele ka motšhene gape, diphetošo tša seatla tša phetolelo di ka se ngwalwe godimo (ge e le gore temana ye ya sengwalwa sa mathomo ga se ya fetošwa).
 
-Re ingwadišetša filosofi ya `UNIX` " Tšohle ke faele " gomme re ka laola diphetolelo ka maleme a makgolo ntle le go tsebagatša ditharollo tše di raraganego le tše di thata tša maemo a kgwebo.
-
-O ka šomiša didirišwa tše di tlwaelegilego kudu go rulaganya `Markdown` (eupša o ka se kgone go oketša goba go phumola ditemana), gomme wa šomiša tsela ye e tlwaelegilego kudu go dira taolo ya phetolelo.
-
-Motheo wa khoutu o ka hlolwa bjalo ka mohlodi wo o bulegilego wa difaele tša polelo, gomme ka thušo ya ditshepedišo `Pull Request` , badiriši ba lefase ka bophara ba ka tšea karolo go optimization ye e tšwelago pele ya diphetolelo. Kgokagano ye e se nago selo [github](//github.com)
+> [!TIP]
+> Re ingwadišetša filosofi ya `UNIX` " Tšohle ke faele " gomme re ka laola diphetolelo ka maleme a makgolo ntle le go tsebagatša ditharollo tše di raraganego le tše di thata tša maemo a kgwebo.
+> O ka šomiša didirišwa tše di tlwaelegilego kudu go rulaganya `Markdown` (eupša o ka se kgone go oketša goba go phumola ditemana), gomme wa šomiša tsela ye e tlwaelegilego kudu go dira taolo ya phetolelo.
+> Motheo wa khoutu o ka hlolwa bjalo ka mohlodi wo o bulegilego wa difaele tša polelo, gomme ka thušo ya ditshepedišo `Pull Request` , badiriši ba lefase ka bophara ba ka tšea karolo go optimization ye e tšwelago pele ya diphetolelo. Kgokagano ye e se nago selo [github](//github.com)
 
 [→ Bakeng sa tlhahlo ya mosebedisi, hle bala ditokomane tsa projeke](/i18) .
 
@@ -103,9 +102,10 @@ Tshepedišo ya dithekethe tša maleme a mantši yeo e ka lefago dibounties;
 Mmaraka wa thekišo wa dikarolo tša boditšhabatšhaba tša ka pele;
 Go na le mo gontši mo re nyakago go go dira.
 
-Re fagahletše go kopana le batho bao ba nago le kgopolo e swanago lewatleng le legolo la batho.
-Re nyaka baithaopi ba go tšea karolo tlhabollong ya khoutu ya mohlodi wo o bulegilego le go bala diphošollo tša dingwalwa tše di fetoletšwego.
-Ge o na le kgahlego, hle [→ Tobetsa mo go tlatša profaele ya gago](https://ggl.link/i18n) gomme ka morago o tsenele [lenaneo la poso](https://groups.google.com/u/2/g/i18n-site) bakeng sa kgokagano.
-
 Re dumela go mohlodi o bulegilego le go abelana ka lerato, .
 Re a le amogela go hlola bokamoso bjo bo se nago mellwane mmogo.
+
+> [!NOTE]
+> Re fagahletše go kopana le batho bao ba nago le kgopolo e swanago lewatleng le legolo la batho.
+> Re nyaka baithaopi ba go tšea karolo tlhabollong ya khoutu ya mohlodi wo o bulegilego le go bala diphošollo tša dingwalwa tše di fetoletšwego.
+> Ge o na le kgahlego, hle [→ Tobetsa mo go tlatša profaele ya gago](https://ggl.link/i18n) gomme ka morago o tsenele [lenaneo la poso](https://groups.google.com/u/2/g/i18n-site) bakeng sa kgokagano.

@@ -126,7 +126,8 @@ Dịka ọmụmaatụ, `_* ` na faịlụ nhazi dị n'elu pụtara na faịlụ
 
 Enwere ike idezi ntụgharị asụsụ ahụ. Gbanwee ederede izizi na igwe-sụgharịa ya ọzọ, agaghị edegharị mgbanwe akwụkwọ ntuziaka na ntụgharị asụsụ (ọ bụrụ na agbanwebeghị paragraf a nke ederede izizi).
 
-Mana biko mara na ahịrị ntụgharị asụsụ na ederede izizi ga-adarịrị otu na otu. Ya bụ, etinyela ma ọ bụ hichapụ ahịrị mgbe ị na-achịkọta ntụgharị asụsụ. Ma ọ bụghị ya, ọ ga-ebute ọgba aghara na cache ndezi ntụgharị asụsụ.
+> [!WARN]
+> Ahịrị ntụgharị asụsụ na ederede izizi ga-adarịrị otu na otu. Ya bụ, etinyela ma ọ bụ hichapụ ahịrị mgbe ị na-achịkọta ntụgharị asụsụ. Ma ọ bụghị ya, ọ ga-ebute ọgba aghara na cache ndezi ntụgharị asụsụ.
 
 Ọ bụrụ na ihe adịghị mma, biko rụtụ aka na [FAQ maka azịza.](/i18/qa#H1)
 

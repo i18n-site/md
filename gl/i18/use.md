@@ -126,7 +126,8 @@ Por exemplo, `_* ` no ficheiro de configuración anterior significa que os fiche
 
 A tradución é editable. Modifique o texto orixinal e tradúceo de novo, as modificacións manuais da tradución non se sobrescribirán (se este parágrafo do texto orixinal non foi modificado).
 
-Pero teña en conta que as liñas da tradución e do texto orixinal deben corresponder unha a unha. É dicir, non engadir ou eliminar liñas ao compilar a tradución. En caso contrario, causará confusión na caché de edición da tradución.
+> [!WARN]
+> As liñas da tradución e o texto orixinal deben corresponder unha a unha. É dicir, non engadir ou eliminar liñas ao compilar a tradución. En caso contrario, causará confusión na caché de edición da tradución.
 
 Se algo sae mal, consulta [as preguntas frecuentes para obter solucións.](/i18/qa#H1)
 

@@ -33,11 +33,10 @@ Terjime redaktirläp bolýar.
 
 Asyl teksti üýtgediň we ony täzeden terjime ediň, terjime bilen elde üýtgetmeler ýazylmaz (asyl tekstiň bu abzasy üýtgedilmedik bolsa).
 
-`UNIX` filosofiýasyna ýazylýar " hemme zat faýl " we çylşyrymly we çylşyrymly kärhana çözgütlerini hödürlemän ýüzlerçe dile terjimeleri dolandyryp bileris.
-
-`Markdown` redaktirlemek üçin iň tanyş gurallary ulanyp bilersiňiz (ýöne abzaslary goşup ýa-da pozup bilmersiňiz) we wersiýa gözegçilik etmegiň iň tanyş usulyny ulanyp bilersiňiz.
-
-Kod bazasy dil faýllary üçin açyk çeşme hökmünde döredilip bilner we `Pull Request` prosesiň kömegi bilen global ulanyjylar terjimeleriň üznüksiz optimizasiýasyna gatnaşyp bilerler. Düşnüksiz baglanyşyk [github](//github.com) beýleki açyk çeşmeler.
+> [!TIP]
+> `UNIX` filosofiýasyna ýazylýar " hemme zat faýl " we çylşyrymly we çylşyrymly kärhana çözgütlerini hödürlemän ýüzlerçe dile terjimeleri dolandyryp bileris.
+> `Markdown` redaktirlemek üçin iň tanyş gurallary ulanyp bilersiňiz (ýöne abzaslary goşup ýa-da pozup bilmersiňiz) we wersiýa gözegçilik etmegiň iň tanyş usulyny ulanyp bilersiňiz.
+> Kod bazasy dil faýllary üçin açyk çeşme hökmünde döredilip bilner we `Pull Request` prosesiň kömegi bilen global ulanyjylar terjimeleriň üznüksiz optimizasiýasyna gatnaşyp bilerler. Düşnüksiz baglanyşyk [github](//github.com) beýleki açyk çeşmeler.
 
 [User Ulanyjy gollanmasy üçin taslama resminamalaryny okaň](/i18) .
 
@@ -103,9 +102,10 @@ Baýlyk töläp bilýän köp dilli bilet ulgamy;
 Halkara öňdebaryjy komponentler üçin satuw bazary;
 Etjek bolýan köp zadymyz bar.
 
-Giň adamlar deňzinde meňzeş adamlar bilen duşuşmaga sabyrsyzlyk bilen garaşýarys.
-Açyk koduň işlenip düzülmegine we terjime edilen tekstleriň gözden geçirilmegine gatnaşmak üçin meýletinçiler gözleýäris.
-Eger gyzyklanýan bolsaňyz, [profile Profiliňizi doldurmak üçin şu ýere basyň](https://ggl.link/i18n) we aragatnaşyk üçin [poçta sanawyna](https://groups.google.com/u/2/g/i18n-site) goşulyň.
-
 Açyk çeşmä we paýlaşmagy söýýäris,
 Çäksiz geljegi bilelikde döretmek üçin hoş geldiňiz.
+
+> [!NOTE]
+> Giň adamlar deňzinde meňzeş adamlar bilen duşuşmaga sabyrsyzlyk bilen garaşýarys.
+> Açyk koduň işlenip düzülmegine we terjime edilen tekstleriň gözden geçirilmegine gatnaşmak üçin meýletinçiler gözleýäris.
+> Eger gyzyklanýan bolsaňyz, [profile Profiliňizi doldurmak üçin şu ýere basyň](https://ggl.link/i18n) we aragatnaşyk üçin [poçta sanawyna](https://groups.google.com/u/2/g/i18n-site) goşulyň.

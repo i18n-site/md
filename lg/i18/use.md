@@ -126,7 +126,8 @@ Okugeza, `_* ` mu fayiro y'okusengeka waggulu kitegeeza nti fayiro ezitandikira 
 
 Enkyusa eno esobola okulongoosebwa. Kyuusa ekiwandiiko ekyasooka era oddemu okukivvuunula mu kyuma, enkyukakyuka mu ngalo mu nkyusa tezijja kuwandiikibwako (singa akatundu kano ak’ekiwandiiko ekyasooka tekakyusiddwa).
 
-Naye nsaba omanye nti ennyiriri z’enkyusa n’ebiwandiiko eby’olubereberye birina okukwatagana n’emu ku emu. Kwe kugamba, toyongera oba tosazaamu layini ng’okuŋŋaanya enkyusa. Bwe kitaba ekyo, kijja kuleeta okutabulwa mu tterekero ly'okulongoosa okuvvuunula.
+> [!WARN]
+> Ennyiriri z’enkyusa n’ebiwandiiko eby’olubereberye birina okukwatagana emu ku emu. Kwe kugamba, toyongera oba tosazaamu layini ng’okuŋŋaanya enkyusa. Bwe kitaba ekyo, kijja kuleeta okutabulwa mu tterekero ly'okulongoosa okuvvuunula.
 
 Singa wabaawo ekikyamu, nsaba otunule mu [FAQ omanye ebyokugonjoola.](/i18/qa#H1)
 

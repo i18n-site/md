@@ -33,11 +33,10 @@ Jaqukipäwix editable ukhamawa.
 
 Nayra qillqata mayjt’ayaña ukatxa mayampi maquina-jaqukipaña, jaqukipaña amparampi mayjt’ayañaxa janiwa qillqt’atäkaniti (nayrïri qillqatan aka t’aqapa jani mayjt’ayatäkchi ukhaxa).
 
-" `UNIX` "
-
-`Markdown` chiqañchañatakix juk’amp uñt’at yänakampiw apnaqasispa (ukampis janiw t’aqanak yapxatañjamäkiti jan ukax chhaqtayañjamakiti), ukatx juk’amp uñt’at thakhimpiw control de versión lurañatakix apnaqasispa.
-
-Mä base de código ukax mä abierto código ukhamaw arut arsuwinakatak lurasispa, ukatx `Pull Request` procesos ukan yanapt’apampiw uraqpachan apnaqirinakax jaqukipäwinakan sapürunjam sumaptañapatak chikancht’asipxaspa. ¡Jan ch’axwañan conexión [github](//github.com) Ukat yaqha comunidades de código abierto ukanaka.
+> [!TIP]
+> " `UNIX` "
+> `Markdown` chiqañchañatakix juk’amp uñt’at yänakampiw apnaqasispa (ukampis janiw t’aqanak yapxatañjamäkiti jan ukax chhaqtayañjamakiti), ukatx juk’amp uñt’at thakhimpiw control de versión lurañatakix apnaqasispa.
+> Mä base de código ukax mä abierto código ukhamaw arut arsuwinakatak lurasispa, ukatx `Pull Request` procesos ukan yanapt’apampiw uraqpachan apnaqirinakax jaqukipäwinakan sapürunjam sumaptañapatak chikancht’asipxaspa. ¡Jan ch’axwañan conexión [github](//github.com) Ukat yaqha comunidades de código abierto ukanaka.
 
 [→ Usuario guia ukatakix proyecto ukan qillqatanakap uñakipt’añamawa](/i18) .
 
@@ -103,9 +102,10 @@ Mä sistema de boletos multilingüe ukax recompensas ukanakaw payllasispa;
 Mä aljañ qhathux componentes internacionales front-end ukanakataki;
 Ukat jukʼampi lurañ munaraktanwa.
 
-Jaqinakan jach’a qutan pachpa amuyun jaqinakamp jikisiñ suyapxta.
-Jiwasax voluntarios ukanakaruw thaqhasktanxa, jupanakax código abierto de código fuente ukat jaqukipat qillqatanakan corrección ukanakan chikancht’asipxañapataki.
-Jumatix munassta ukhax [→ Aka tuqir ch’iqt’am perfil phuqhantañataki](https://ggl.link/i18n) ukatx [lista de correo ukar](https://groups.google.com/u/2/g/i18n-site) mantañamawa aruskipt’añataki.
-
 Jiwasax código abierto ukat munasiñ uñt’ayañarux iyawstanwa,
 Mä jan frontera jutïr pacha mayacht’asis lurañatakix walikpun jutapxtaxa.
+
+> [!NOTE]
+> Jaqinakan jach’a qutan pachpa amuyun jaqinakamp jikisiñ suyapxta.
+> Jiwasax voluntarios ukanakaruw thaqhasktanxa, jupanakax código abierto de código fuente ukat jaqukipat qillqatanakan corrección ukanakan chikancht’asipxañapataki.
+> Jumatix munassta ukhax [→ Aka tuqir ch’iqt’am perfil phuqhantañataki](https://ggl.link/i18n) ukatx [lista de correo ukar](https://groups.google.com/u/2/g/i18n-site) mantañamawa aruskipt’añataki.

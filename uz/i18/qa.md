@@ -2,9 +2,9 @@
 
 ## Tarjima Satrlarini Qo'shish Yoki O'chirish Tarjimada Chalkashlikka Olib Keladi
 
-Esda tutingki, **tarjimadagi satrlar soni asl matndagi satrlarga mos kelishi kerak** .
-
-Ya'ni, tarjimani qo'lda sozlashda, **tarjima satrlarini qo'shmang yoki o'chirmang** , aks holda tarjima va asl matn o'rtasidagi xaritalash munosabatlari buziladi.
+> [!WARN]
+> Esda tutingki, **tarjimadagi satrlar soni asl matndagi satrlarga mos kelishi kerak** .
+> Ya'ni, tarjimani qo'lda sozlashda, **tarjima satrlarini qo'shmang yoki o'chirmang** , aks holda tarjima va asl matn o'rtasidagi xaritalash munosabatlari buziladi.
 
 Agar siz tasodifan qatorni qo‘shsangiz yoki o‘chirib tashlasangiz, chalkashliklarga olib kelsangiz, o‘zgartirishdan oldin tarjimani versiyaga tiklang, `i18` tarjimasini qayta ishga tushiring va to‘g‘ri xaritalashni qayta keshlang.
 

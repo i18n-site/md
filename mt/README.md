@@ -33,11 +33,10 @@ It-traduzzjoni hija editjabbli.
 
 Ibdel it-test oriġinali u erġa' tittraduċih bil-magna, il-modifiki manwali għat-traduzzjoni ma jinkitbux fuqu (jekk dan il-paragrafu tat-test oriġinali ma jkunx ġie modifikat).
 
-Aħna tabbona għall-filosofija ta " `UNIX` Kollox huwa fajl " u jistgħu jimmaniġġjaw traduzzjonijiet f'mijiet ta' lingwi mingħajr ma nintroduċu soluzzjonijiet kumplessi u ingombranti fil-livell ta 'intrapriża.
-
-Tista' tuża l-aktar għodod familjari biex teditja `Markdown` traduzzjoni (iżda ma tistax iżżid jew tħassar paragrafi), u tuża l-aktar mod familjari biex tagħmel il-kontroll tal-verżjoni.
-
-Bażi ta 'kodiċi tista' tinħoloq bħala sors miftuħ għall-fajls tal-lingwa, u bl-għajnuna ta 'proċessi `Pull Request` , utenti globali jistgħu jipparteċipaw fl-ottimizzazzjoni kontinwa tat-traduzzjonijiet. Konnessjoni bla [github](//github.com) U komunitajiet oħra ta 'sors miftuħ.
+> [!TIP]
+> Aħna tabbona għall-filosofija ta " `UNIX` Kollox huwa fajl " u jistgħu jimmaniġġjaw traduzzjonijiet f'mijiet ta' lingwi mingħajr ma nintroduċu soluzzjonijiet kumplessi u ingombranti fil-livell ta 'intrapriża.
+> Tista' tuża l-aktar għodod familjari biex teditja `Markdown` traduzzjoni (iżda ma tistax iżżid jew tħassar paragrafi), u tuża l-aktar mod familjari biex tagħmel il-kontroll tal-verżjoni.
+> Bażi ta 'kodiċi tista' tinħoloq bħala sors miftuħ għall-fajls tal-lingwa, u bl-għajnuna ta 'proċessi `Pull Request` , utenti globali jistgħu jipparteċipaw fl-ottimizzazzjoni kontinwa tat-traduzzjonijiet. Konnessjoni bla [github](//github.com) U komunitajiet oħra ta 'sors miftuħ.
 
 [→ Għall-gwida għall-utent, jekk jogħġbok aqra d-dokumentazzjoni tal-proġett](/i18) .
 
@@ -103,9 +102,10 @@ Sistema ta’ biljetti multilingwi li tista’ tħallas bounties;
 Suq tal-bejgħ għal komponenti front-end internazzjonali;
 Hemm ħafna aktar li rridu nagħmlu.
 
-Nistennew bil-ħerqa li niltaqgħu ma’ nies li jaħsbuha l-istess fil-baħar vast tan-nies.
-Qegħdin infittxu voluntiera biex jipparteċipaw fl-iżvilupp ta’ kodiċi open source u qari tal-provi ta’ testi tradotti.
-Jekk inti interessat, jekk jogħġbok [→ Ikklikkja hawn biex timla l-profil tiegħek](https://ggl.link/i18n) u mbagħad ingħaqad [mal-lista tal-posta](https://groups.google.com/u/2/g/i18n-site) għall-komunikazzjoni.
-
 Aħna nemmnu fis-sors miftuħ u nħobbu l-qsim,
 Merħba biex noħolqu futur mingħajr fruntieri flimkien.
+
+> [!NOTE]
+> Nistennew bil-ħerqa li niltaqgħu ma’ nies li jaħsbuha l-istess fil-baħar vast tan-nies.
+> Qegħdin infittxu voluntiera biex jipparteċipaw fl-iżvilupp ta’ kodiċi open source u qari tal-provi ta’ testi tradotti.
+> Jekk inti interessat, jekk jogħġbok [→ Ikklikkja hawn biex timla l-profil tiegħek](https://ggl.link/i18n) u mbagħad ingħaqad [mal-lista tal-posta](https://groups.google.com/u/2/g/i18n-site) għall-komunikazzjoni.

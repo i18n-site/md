@@ -126,7 +126,8 @@ Kurugero, `_* ` muri dosiye iboneza hejuru bivuze ko dosiye zitangirana na `_` z
 
 Ubusobanuro burashobora guhinduka. Hindura umwandiko wumwimerere hanyuma wongere uhindure imashini, guhindura intoki kubisobanuro ntibishobora kwandikwa (niba iki gika cyumwandiko wambere kitarahinduwe).
 
-Ariko nyamuneka menya ko imirongo yubusobanuro hamwe ninyandiko yumwimerere igomba guhuza imwe kumurongo. Nukuvuga, ntukongere cyangwa gusiba imirongo mugihe utegura ibisobanuro. Bitabaye ibyo, bizatera urujijo muri cache yo guhindura.
+> [!WARN]
+> Imirongo yubusobanuro hamwe ninyandiko yumwimerere igomba guhuza imwe kuri imwe. Nukuvuga, ntukongere cyangwa gusiba imirongo mugihe utegura ibisobanuro. Bitabaye ibyo, bizatera urujijo muri cache yo guhindura.
 
 Niba hari ibitagenda neza, nyamuneka reba [ibisubizo kugirango ubone ibisubizo.](/i18/qa#H1)
 

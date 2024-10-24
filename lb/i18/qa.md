@@ -2,9 +2,9 @@
 
 ## D'Zeilen Vun Der Iwwersetzung Addéieren Oder Läschen, Wat Zu Duercherneen an Der Iwwersetzung Resultéiert
 
-Denkt drun, **d'Zuel vun den Zeilen an der Iwwersetzung muss mat den Zeilen am Originaltext entspriechen** .
-
-Dat heescht, wann Dir d'Iwwersetzung manuell ugepasst hutt, **keng Zeilen vun der Iwwersetzung derbäisetzen oder läschen** , soss gëtt d'Kaartverhältnis tëscht der Iwwersetzung an dem Originaltext gestéiert.
+> [!WARN]
+> Denkt drun, **d'Zuel vun den Zeilen an der Iwwersetzung muss mat den Zeilen am Originaltext entspriechen** .
+> Dat heescht, wann Dir d'Iwwersetzung manuell ugepasst hutt, **keng Zeilen vun der Iwwersetzung derbäisetzen oder läschen** , soss gëtt d'Kaartverhältnis tëscht der Iwwersetzung an dem Originaltext gestéiert.
 
 Wann Dir zoufälleg eng Zeil bäigefüügt oder läscht, wat Duercherneen verursaacht, restauréiert w.e.g. d'Iwwersetzung op d'Versioun virun der Ännerung, fuert `i18` Iwwersetzung nach eng Kéier, a re-cache déi richteg Mapping.
 

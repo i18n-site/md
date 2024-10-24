@@ -126,7 +126,8 @@ Ndakisa, `_* ` na fichier ya configuration oyo ezali likolo elakisi ete ba fichi
 
 Libongoli yango ekoki kobongisama. Bobongola makomi ya ebandeli mpe bobongola yango lisusu na masini, mbongwana ya maboko na libongoli ekokoma likolo te (soki paragrafe oyo ya makomi ya ebandeli ebongwani te).
 
-Kasi tosɛngi bino bóyeba ete milɔngɔ ya libongoli mpe makomi ya ebandeli esengeli kokokana moko na moko. Elingi koloba, kobakisa to kolongola milɔngɔ te ntango ozali kosangisa libongoli. Soki te, ekosala mobulungano na cache ya bobongisi libongoli.
+> [!WARN]
+> Milɔngɔ́ ya libongoli mpe makomi ya ebandeli esengeli kokokana moko na moko. Elingi koloba, kobakisa to kolongola milɔngɔ te ntango ozali kosangisa libongoli. Soki te, ekosala mobulungano na cache ya bobongisi libongoli.
 
 Soki likambo moko esali mabe, tala na [FAQ mpo na ba solutions.](/i18/qa#H1)
 

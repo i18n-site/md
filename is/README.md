@@ -33,11 +33,10 @@ Getur fullkomlega viðhaldið sniðinu `Markdown` . Getur greint breytingar á s
 
 Breyttu upprunalega textanum og þýddu hann aftur í vél, handvirkum breytingum á þýðingunni verður ekki skrifað yfir (ef þessari málsgrein upprunalega textans hefur ekki verið breytt).
 
-Við gerum okkur áskrifendur að heimspeki `UNIX` Allt er skrá " og getum stjórnað þýðingum á hundruð tungumála án þess " kynna flóknar og fyrirferðarmiklar lausnir á fyrirtækisstigi.
-
-Þú getur notað kunnuglegustu verkfærin til að breyta `Markdown` (en þú getur ekki bætt við eða eytt málsgreinum) og notað kunnuglegustu leiðina til að gera útgáfustýringu.
-
-Hægt er að búa til kóðagrunn sem opinn uppspretta fyrir tungumálaskrár og með hjálp `Pull Request` ferla geta alþjóðlegir notendur tekið þátt í stöðugri hagræðingu þýðinga. Óaðfinnanleg tenging [github](//github.com) önnur opin samfélög.
+> [!TIP]
+> Við gerum okkur áskrifendur að heimspeki `UNIX` Allt er skrá " og getum stjórnað þýðingum á hundruð tungumála án þess " kynna flóknar og fyrirferðarmiklar lausnir á fyrirtækisstigi.
+> Þú getur notað kunnuglegustu verkfærin til að breyta `Markdown` (en þú getur ekki bætt við eða eytt málsgreinum) og notað kunnuglegustu leiðina til að gera útgáfustýringu.
+> Hægt er að búa til kóðagrunn sem opinn uppspretta fyrir tungumálaskrár og með hjálp `Pull Request` ferla geta alþjóðlegir notendur tekið þátt í stöðugri hagræðingu þýðinga. Óaðfinnanleg tenging [github](//github.com) önnur opin samfélög.
 
 [→ Fyrir notendahandbók, vinsamlegast lestu verkefnisskjölin](/i18) .
 
@@ -103,9 +102,10 @@ Fjöltyngt miðakerfi sem getur greitt vinninga;
 Sölumarkaður fyrir alþjóðlega framhliða íhluti;
 Það er miklu meira sem við viljum gera.
 
-Við hlökkum til að hitta fólk sem er sama sinnis í víðáttumiklu mannhafi.
-Við leitum að sjálfboðaliðum til að taka þátt í þróun opins frumkóða og prófarkalestur á þýddum texta.
-Ef þú hefur áhuga, vinsamlegast [→ Smelltu hér til að fylla út prófílinn þinn](https://ggl.link/i18n) og skráðu þig síðan á [póstlistann](https://groups.google.com/u/2/g/i18n-site) fyrir samskipti.
-
 Við trúum á opinn uppspretta og elskum að deila,
 Velkomin til að búa til landamæralausa framtíð saman.
+
+> [!NOTE]
+> Við hlökkum til að hitta fólk sem er sama sinnis í víðáttumiklu mannhafi.
+> Við leitum að sjálfboðaliðum til að taka þátt í þróun opins frumkóða og prófarkalestur á þýddum texta.
+> Ef þú hefur áhuga, vinsamlegast [→ Smelltu hér til að fylla út prófílinn þinn](https://ggl.link/i18n) og skráðu þig síðan á [póstlistann](https://groups.google.com/u/2/g/i18n-site) fyrir samskipti.

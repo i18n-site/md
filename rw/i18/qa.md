@@ -2,9 +2,9 @@
 
 ## Ongeraho Cyangwa Gusiba Imirongo Yubusobanuro, Bivamo Urujijo Mubisobanuro
 
-Wibuke, **umubare wumurongo mubisobanuro ugomba guhuza numurongo wumwimerere** .
-
-Nukuvuga ko, mugihe uhinduye intoki ibisobanuro, **ntukongere cyangwa ngo usibe imirongo yubusobanuro** , bitabaye ibyo isano yo gushushanya hagati yubuhinduzi ninyandiko yumwimerere izahungabana.
+> [!WARN]
+> Wibuke, **umubare wumurongo mubisobanuro ugomba guhuza numurongo wumwimerere** .
+> Nukuvuga ko, mugihe uhinduye intoki ibisobanuro, **ntukongere cyangwa ngo usibe imirongo yubusobanuro** , bitabaye ibyo isano yo gushushanya hagati yubuhinduzi ninyandiko yumwimerere izahungabana.
 
 Niba wongeyeho kubwimpanuka wongeyeho cyangwa ugasiba umurongo, bigatera urujijo, nyamuneka usubize ibisobanuro kuri verisiyo mbere yo guhinduka, ongera ukore `i18` ibisobanuro, hanyuma wongere ubike neza ikarita ikora neza.
 

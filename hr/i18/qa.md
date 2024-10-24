@@ -2,9 +2,9 @@
 
 ## Dodavanje Ili Brisanje Redaka Prijevoda, Što Dovodi Do Zabune U Prijevodu
 
-Zapamtite, **broj redaka u prijevodu mora odgovarati broju redaka u izvornom tekstu** .
-
-Odnosno, kada ručno prilagođavate prijevod, **nemojte dodavati niti brisati retke prijevoda** , inače će odnos preslikavanja između prijevoda i izvornog teksta biti poremećen.
+> [!WARN]
+> Zapamtite, **broj redaka u prijevodu mora odgovarati broju redaka u izvornom tekstu** .
+> Odnosno, kada ručno prilagođavate prijevod, **nemojte dodavati niti brisati retke prijevoda** , inače će odnos preslikavanja između prijevoda i izvornog teksta biti poremećen.
 
 Ako slučajno dodate ili izbrišete redak, uzrokujući zabunu, vratite prijevod na verziju prije izmjene, ponovno pokrenite `i18` prijevod i ponovno predmemorirajte ispravno mapiranje.
 

@@ -126,7 +126,8 @@ Er enghraifft, mae `_* ` yn y ffeil ffurfweddu uchod yn golygu na fydd ffeiliau 
 
 Mae modd golygu'r cyfieithiad. Addaswch y testun gwreiddiol a'i gyfieithu â pheiriant eto, ni fydd yr addasiadau â llaw i'r cyfieithiad yn cael eu trosysgrifo (os nad yw'r paragraff hwn o'r testun gwreiddiol wedi'i addasu).
 
-Ond sylwer fod yn rhaid i linellau y cyfieithiad a'r testun gwreiddiol gyfateb o un i un. Hynny yw, peidiwch ag ychwanegu neu ddileu llinellau wrth lunio'r cyfieithiad. Fel arall, bydd yn achosi dryswch yn y storfa golygu cyfieithu.
+> [!WARN]
+> Rhaid i linellau'r cyfieithiad a'r testun gwreiddiol gyfateb un i un. Hynny yw, peidiwch ag ychwanegu neu ddileu llinellau wrth lunio'r cyfieithiad. Fel arall, bydd yn achosi dryswch yn y storfa golygu cyfieithu.
 
 Os aiff rhywbeth o'i le, cyfeiriwch at [y Cwestiynau Cyffredin am atebion.](/i18/qa#H1)
 

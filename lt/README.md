@@ -33,11 +33,10 @@ Vertimas yra redaguojamas.
 
 Pakeiskite originalų tekstą ir dar kartą išverskite jį mašininiu būdu, rankiniai vertimo pakeitimai nebus perrašyti (jei ši originalaus teksto pastraipa nebuvo pakeista).
 
-Priklausome prie `UNIX` filosofijos " Viskas yra failas " ir galime tvarkyti vertimus į šimtus kalbų nepristatydami sudėtingų ir sudėtingų įmonės lygio sprendimų.
-
-`Markdown` redaguoti galite naudoti žinomiausius įrankius (bet negalite pridėti ar ištrinti pastraipų) ir naudoti žinomiausią versijos valdymo būdą.
-
-Kodų bazė gali būti sukurta kaip atviras kalbos failų šaltinis, o `Pull Request` procesų pagalba globalūs vartotojai gali dalyvauti nuolatiniame vertimų optimizavime. Sklandus ryšys [github](//github.com) kitos atvirojo kodo bendruomenės.
+> [!TIP]
+> Priklausome prie `UNIX` filosofijos " Viskas yra failas " ir galime tvarkyti vertimus į šimtus kalbų nepristatydami sudėtingų ir sudėtingų įmonės lygio sprendimų.
+> `Markdown` redaguoti galite naudoti žinomiausius įrankius (bet negalite pridėti ar ištrinti pastraipų) ir naudoti žinomiausią versijos valdymo būdą.
+> Kodų bazė gali būti sukurta kaip atviras kalbos failų šaltinis, o `Pull Request` procesų pagalba globalūs vartotojai gali dalyvauti nuolatiniame vertimų optimizavime. Sklandus ryšys [github](//github.com) kitos atvirojo kodo bendruomenės.
 
 [→ Norėdami gauti vartotojo vadovą, skaitykite projekto dokumentaciją](/i18) .
 
@@ -103,9 +102,10 @@ Daugiakalbė bilietų sistema, kuri gali mokėti premijas;
 Tarptautinių front-end komponentų pardavimo rinka;
 Mes norime padaryti daug daugiau.
 
-Tikimės susitikti su bendraminčiais didžiulėje žmonių jūroje.
-Ieškome savanorių, kurie dalyvautų atvirojo kodo kūrime ir verstų tekstų korektūroje.
-Jei susidomėjote, prašome [→ Spustelėkite čia, kad užpildytumėte savo profilį](https://ggl.link/i18n) ir prisijunkite prie [adresatų sąrašo,](https://groups.google.com/u/2/g/i18n-site) kad galėtumėte bendrauti.
-
 Mes tikime atviru šaltiniu ir mėgstame dalintis,
 Sveiki atvykę kartu kurti ateitį be sienų.
+
+> [!NOTE]
+> Tikimės susitikti su bendraminčiais didžiulėje žmonių jūroje.
+> Ieškome savanorių, kurie dalyvautų atvirojo kodo kūrime ir verstų tekstų korektūroje.
+> Jei susidomėjote, prašome [→ Spustelėkite čia, kad užpildytumėte savo profilį](https://ggl.link/i18n) ir prisijunkite prie [adresatų sąrašo,](https://groups.google.com/u/2/g/i18n-site) kad galėtumėte bendrauti.

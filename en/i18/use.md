@@ -126,7 +126,8 @@ For example, `_* ` in the above configuration means that files starting with `_`
 
 The translation is editable. Modifying the original text and re-translating it will not overwrite manual edits to the translation (unless the original text in that section has been changed).
 
-However, please note that the lines in the translation and the original text must correspond one to one. Do not add or delete lines when compiling the translation, as this may cause issues with the translation editing cache.
+> [!WARN]
+> The translation and the original text must align line by line. That is, when translating, do not add or omit any lines. Otherwise, it may lead to discrepancies in the translation editing cache.
 
 If you encounter any problems, please refer to the [FAQ for solutions.](/i18/qa#H1)
 

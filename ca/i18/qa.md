@@ -2,9 +2,9 @@
 
 ## Afegir O Eliminar Línies De La Traducció, Donant Lloc a Confusió en La Traducció
 
-Recordeu que **el nombre de línies de la traducció ha de correspondre a les línies del text original** .
-
-És a dir, en ajustar manualment la traducció, **no afegiu ni suprimiu línies de la traducció** , en cas contrari la relació de mapeig entre la traducció i el text original es veurà desordenada.
+> [!WARN]
+> Recordeu que **el nombre de línies de la traducció ha de correspondre a les línies del text original** .
+> És a dir, en ajustar manualment la traducció, **no afegiu ni suprimiu línies de la traducció** , en cas contrari la relació de mapeig entre la traducció i el text original es veurà desordenada.
 
 Si afegiu o suprimiu una línia accidentalment, causant confusió, si us plau, restaurau la traducció a la versió abans de modificar-la, torneu a executar la traducció `i18` i torneu a guardar a la memòria cau el mapa correcte.
 

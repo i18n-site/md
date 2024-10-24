@@ -2,9 +2,9 @@
 
 ## Pagdugang O Pagtangtang Sa Mga Linya Sa Hubad, Nga Miresulta Sa Kalibog Sa Paghubad
 
-Hinumdomi, **ang gidaghanon sa mga linya sa hubad kinahanglang motakdo sa mga linya sa orihinal nga teksto** .
-
-Sa ato pa, kung manu-mano ang pag-adjust sa hubad, **ayaw pagdugang o pagtangtang sa mga linya sa hubad** , kung dili ang relasyon sa pagmapa tali sa hubad ug sa orihinal nga teksto maguba.
+> [!WARN]
+> Hinumdomi, **ang gidaghanon sa mga linya sa hubad kinahanglang motakdo sa mga linya sa orihinal nga teksto** .
+> Sa ato pa, kung manu-mano ang pag-adjust sa hubad, **ayaw pagdugang o pagtangtang sa mga linya sa hubad** , kung dili ang relasyon sa pagmapa tali sa hubad ug sa orihinal nga teksto maguba.
 
 Kung wala ka tuyoa nga nadugang o natangtang ang usa ka linya, nga nagpahinabog kalibog, palihug ibalik ang paghubad sa bersyon sa wala pa ang pagbag-o, pagdagan pag-usab `i18` nga hubad, ug pag-cache pag-usab sa husto nga pagmapa.
 

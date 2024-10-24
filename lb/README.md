@@ -33,11 +33,10 @@ D'Iwwersetzung ass editable.
 
 Ännert den Originaltext an iwwersetzt en nach eng Kéier, déi manuell Ännerungen un der Iwwersetzung ginn net iwwerschriwwen (wann dëse Paragraf vum Originaltext net geännert gouf).
 
-Mir abonnéieren op d'Philosophie vun `UNIX` " ass e Fichier " a kënne Iwwersetzungen an Honnerte vu Sproochen verwalten ouni komplex a ëmständlech Léisungen op Entreprisen ze presentéieren.
-
-Dir kënnt déi bekanntst Tools benotze fir `Markdown` Iwwersetzung z'änneren (awer Dir kënnt Paragrafen net derbäisetzen oder läschen), a benotzt de bekanntste Wee fir Versiounskontrolle ze maachen.
-
-Eng Codebasis kann als Open Source fir Sproochdateien erstallt ginn, a mat Hëllef vun `Pull Request` Prozesser kënnen global Benotzer un der kontinuéierlecher Optimiséierung vun Iwwersetzungen deelhuelen. [github](//github.com) Verbindung An aner Open Source Gemeinschaften.
+> [!TIP]
+> Mir abonnéieren op d'Philosophie vun `UNIX` " ass e Fichier " a kënne Iwwersetzungen an Honnerte vu Sproochen verwalten ouni komplex a ëmständlech Léisungen op Entreprisen ze presentéieren.
+> Dir kënnt déi bekanntst Tools benotze fir `Markdown` Iwwersetzung z'änneren (awer Dir kënnt Paragrafen net derbäisetzen oder läschen), a benotzt de bekanntste Wee fir Versiounskontrolle ze maachen.
+> Eng Codebasis kann als Open Source fir Sproochdateien erstallt ginn, a mat Hëllef vun `Pull Request` Prozesser kënnen global Benotzer un der kontinuéierlecher Optimiséierung vun Iwwersetzungen deelhuelen. [github](//github.com) Verbindung An aner Open Source Gemeinschaften.
 
 [→ Fir Benotzerguide, liest w.e.g. d'Projetdokumentatioun](/i18) .
 
@@ -103,9 +102,10 @@ A méisproocheg Ticket System datt Bounties bezuelen kann;
 E Verkafsmaart fir international Front-End Komponenten;
 Et gëtt vill méi wat mir maache wëllen.
 
-Mir freeën eis wéi-minded Leit am grousse Mier vu Leit ze treffen.
-Mir sichen Fräiwëlleger fir un der Entwécklung vum Open Source Code an der Korrektur vun iwwersaten Texter deelzehuelen.
-Wann Dir interesséiert sidd, w.e.g. [→ Klickt hei fir Äre Profil auszefëllen](https://ggl.link/i18n) an dann op [d'Mailinglëscht](https://groups.google.com/u/2/g/i18n-site) fir Kommunikatioun matzemaachen.
-
 Mir gleewen un Open Source a gär deelen,
 Wëllkomm fir zesummen eng grenzlos Zukunft ze kreéieren.
+
+> [!NOTE]
+> Mir freeën eis wéi-minded Leit am grousse Mier vu Leit ze treffen.
+> Mir sichen Fräiwëlleger fir un der Entwécklung vum Open Source Code an der Korrektur vun iwwersaten Texter deelzehuelen.
+> Wann Dir interesséiert sidd, w.e.g. [→ Klickt hei fir Äre Profil auszefëllen](https://ggl.link/i18n) an dann op [d'Mailinglëscht](https://groups.google.com/u/2/g/i18n-site) fir Kommunikatioun matzemaachen.

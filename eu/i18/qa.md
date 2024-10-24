@@ -2,9 +2,9 @@
 
 ## Itzulpenaren Lerroak Gehitzea Edo Ezabatzea, Itzulpenean Nahasmena Sortuz
 
-Gogoratu **itzulpeneko lerro kopurua jatorrizko testuko lerroekin bat etorri behar dela** .
-
-Hau da, itzulpena eskuz doitzean, **ez gehitu edo ezabatu itzulpenaren lerroak** , bestela itzulpenaren eta jatorrizko testuaren arteko mapa-erlazioa desordenatuko da.
+> [!WARN]
+> Gogoratu **itzulpeneko lerro kopurua jatorrizko testuko lerroekin bat etorri behar dela** .
+> Hau da, itzulpena eskuz doitzean, **ez gehitu edo ezabatu itzulpenaren lerroak** , bestela itzulpenaren eta jatorrizko testuaren arteko mapa-erlazioa desordenatuko da.
 
 Nahiz eta ustekabean lerro bat gehitzen edo ezabatzen baduzu, nahasmena sortuz, itzuli bertsiora aldatu aurretik, exekutatu berriro `i18` itzulpena eta gorde berriro mapaketa zuzena.
 

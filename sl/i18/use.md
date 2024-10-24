@@ -126,7 +126,8 @@ Na primer, `_* ` v zgornji konfiguracijski datoteki pomeni, da datoteke, ki se z
 
 Prevod je mogoče urejati. Spremenite izvirno besedilo in ga znova strojno prevedite, ročne spremembe prevoda ne bodo prepisane (če ta odstavek izvirnega besedila ni bil spremenjen).
 
-Vendar upoštevajte, da se morata vrstici prevoda in izvirnega besedila ujemati ena proti ena. To pomeni, da pri prevajanju prevoda ne dodajajte ali brišete vrstic. V nasprotnem primeru bo prišlo do zmede v predpomnilniku za urejanje prevodov.
+> [!WARN]
+> Vrstice prevoda in izvirnega besedila se morajo ena proti ena ujemati. To pomeni, da pri prevajanju prevoda ne dodajajte ali brišete vrstic. V nasprotnem primeru bo prišlo do zmede v predpomnilniku za urejanje prevodov.
 
 Če gre kaj narobe, poiščite [rešitve v pogostih vprašanjih.](/i18/qa#H1)
 

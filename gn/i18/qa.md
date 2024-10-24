@@ -2,9 +2,9 @@
 
 ## Oñemoĩ Térã Oñembogue Línea Pe Traduksióngui, Upéicha Rupi Oñekonfundi Pe Traduksiónpe
 
-Ñanemanduʼavaʼerã **pe traduksiónpe mboy líneapa okorresponde vaʼerã umi línea oĩvare pe téxto orihinálpe** .
-
-Upéva he ise, remohenda jave manualmente pe traduksión, **ani remoĩ térã rembogue línea pe traduksióngui** , ndaupéichairamo pe relación mapeo oĩva pe traduksión ha pe téxto orihinál apytépe oñedesordenáta.
+> [!WARN]
+> Ñanemanduʼavaʼerã **pe traduksiónpe mboy líneapa okorresponde vaʼerã umi línea oĩvare pe téxto orihinálpe** .
+> Upéva he ise, remohenda jave manualmente pe traduksión, **ani remoĩ térã rembogue línea pe traduksióngui** , ndaupéichairamo pe relación mapeo oĩva pe traduksión ha pe téxto orihinál apytépe oñedesordenáta.
 
 Emoĩ térã embogue accidentalmente peteĩ línea, omoheñóiva confusión, emoĩjey ñembohasa versión-pe emoambue mboyve, emongu’e jey `i18` ñembohasa ha emoĩ jey cache-pe mapeo hekopete.
 

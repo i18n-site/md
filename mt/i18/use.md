@@ -126,7 +126,8 @@ Pereżempju, `_* ` fil-fajl tal-konfigurazzjoni t'hawn fuq ifisser li l-fajls li
 
 It-traduzzjoni hija editjabbli. Ibdel it-test oriġinali u erġa' tittraduċih bil-magna, il-modifiki manwali għat-traduzzjoni ma jinkitbux fuqu (jekk dan il-paragrafu tat-test oriġinali ma jkunx ġie modifikat).
 
-Imma jekk jogħġbok innota li l-linji tat-traduzzjoni u t-test oriġinali għandhom jikkorrispondu wieħed għal wieħed. Jiġifieri, ma żżidx jew tħassarx linji meta tikkompila t-traduzzjoni. Inkella, tikkawża konfużjoni fil-cache tal-editjar tat-traduzzjoni.
+> [!WARN]
+> Il-linji tat-traduzzjoni u t-test oriġinali għandhom jikkorrispondu wieħed għal wieħed. Jiġifieri, iżżidx jew tħassarx linji meta tikkumpila t-traduzzjoni. Inkella, tikkawża konfużjoni fil-cache tal-editjar tat-traduzzjoni.
 
 Jekk xi ħaġa tmur ħażin, jekk jogħġbok irreferi għall [-FAQ għal soluzzjonijiet.](/i18/qa#H1)
 

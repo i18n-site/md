@@ -126,7 +126,8 @@ Ejemplopaq, `_* ` hawapi wakichiy willañiqipi `_` kaqwan qallariq willañiqikun
 
 Chay tikrayqa allichanapaqmi. Ñawpaq qillqasqata tikray hinaspa hukmanta makinawan tikray, tikraypi makiwan tikraykunaqa manam hawanpi qillqasqachu kanqa (ñawpaq qillqasqapa kay parrafon mana tikrasqa kaptinqa).
 
-Ichaqa ama hina kaspa reparay, t’ikrakusqanpa chirunkuna, original textopas hukmanta hukwan tupanan kasqanmanta. Chayqa, tikrayta huñuspaqa ama chirukunata yapaychu nitaq qulluychu. Mana hina kaqtinqa, t'ikray llamk'apuy waqaychanapi pantasqatam paqarichinqa.
+> [!WARN]
+> Traducciónpa chirunkunapas, original textopas hukmanta hukninmanmi tupanan. Chayqa, tikrayta huñuspaqa ama chirukunata yapaychu nitaq qulluychu. Mana hina kaqtinqa, t'ikray llamk'apuy waqaychanapi pantasqatam paqarichinqa.
 
 Sichus imapas mana allinchu, ama hina kaspa [FAQ nisqapi qhaway allichaykunapaq.](/i18/qa#H1)
 

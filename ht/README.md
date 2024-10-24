@@ -33,11 +33,10 @@ Tradiksyon an ka modifye.
 
 Modifye tèks orijinal la epi tradwi machin lan ankò, modifikasyon manyèl nan tradiksyon an pa pral ranplase (si paragraf tèks orijinal la pa te modifye).
 
-Nou abònman nan filozofi a " `UNIX` Tout se yon dosye " epi yo ka jere tradiksyon nan plizyè santèn lang san yo pa prezante solisyon konplèks ak ankonbran nan nivo antrepriz.
-
-Ou ka itilize zouti ki pi abitye pou modifye tradiksyon `Markdown` (men ou pa kapab ajoute oswa efase paragraf), epi sèvi ak fason ki pi abitye pou fè kontwòl vèsyon an.
-
-Yon baz kòd ka kreye kòm yon sous louvri pou dosye lang, ak èd nan `Pull Request` pwosesis, itilizatè mondyal yo ka patisipe nan optimize kontinyèl nan tradiksyon. Koneksyon san pwoblèm [github](//github.com) lòt kominote sous louvri.
+> [!TIP]
+> Nou abònman nan filozofi a " `UNIX` Tout se yon dosye " epi yo ka jere tradiksyon nan plizyè santèn lang san yo pa prezante solisyon konplèks ak ankonbran nan nivo antrepriz.
+> Ou ka itilize zouti ki pi abitye pou modifye tradiksyon `Markdown` (men ou pa kapab ajoute oswa efase paragraf), epi sèvi ak fason ki pi abitye pou fè kontwòl vèsyon an.
+> Yon baz kòd ka kreye kòm yon sous louvri pou dosye lang, ak èd nan `Pull Request` pwosesis, itilizatè mondyal yo ka patisipe nan optimize kontinyèl nan tradiksyon. Koneksyon san pwoblèm [github](//github.com) lòt kominote sous louvri.
 
 [→ Pou gid itilizatè, tanpri li dokiman pwojè a](/i18) .
 
@@ -103,9 +102,10 @@ Yon sistèm tikè plizyè lang ki ka peye bounties;
 Yon mache lavant pou konpozan front-end entènasyonal yo;
 Gen anpil plis nou vle fè.
 
-Nou espere rankontre moun ki gen lide menm jan an nan lanmè a vas moun.
-N ap chèche volontè pou patisipe nan devlopman kòd sous louvri ak koreksyon tèks tradui yo.
-Si w enterese, tanpri [→ Klike la a pou ranpli pwofil ou a](https://ggl.link/i18n) epi rantre nan [lis adrès la](https://groups.google.com/u/2/g/i18n-site) pou kominikasyon.
-
 Nou kwè nan sous louvri ak renmen pataje,
 Byenveni nan kreye yon avni san fwontyè ansanm.
+
+> [!NOTE]
+> Nou espere rankontre moun ki gen lide menm jan an nan lanmè a vas moun.
+> N ap chèche volontè pou patisipe nan devlopman kòd sous louvri ak koreksyon tèks tradui yo.
+> Si w enterese, tanpri [→ Klike la a pou ranpli pwofil ou a](https://ggl.link/i18n) epi rantre nan [lis adrès la](https://groups.google.com/u/2/g/i18n-site) pou kominikasyon.

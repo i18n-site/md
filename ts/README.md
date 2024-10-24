@@ -33,11 +33,10 @@ Vuhundzuluxeri bya kona bya hleriwa.
 
 Cinca tsalwa ro sungula ivi u ri hundzuluxela hi muchini nakambe, ku cinca loku endliweke hi voko eka vuhundzuluxeri a ku nge tsariwi ehenhla (loko ndzimana leyi ya tsalwa ro sungula yi nga cinciwanga).
 
-Hi tsarisa eka filosofi ya `UNIX` " Hinkwaswo i fayili " naswona hi nga lawula vuhundzuluxi eka madzana ya tindzimi handle ko nghenisa swintshuxo leswi rharhanganeke no tika swa xiyimo xa mabindzu.
-
-U nga tirhisa switirhisiwa leswi tolovelekeke swinene ku hlela `Markdown` (kambe a wu nge swi koti ku engetela kumbe ku susa tindzimana), naswona u tirhisa ndlela leyi tolovelekeke swinene yo endla vulawuri bya vuhundzuluxeri.
-
-Xiseketelo xa khodi xi nga tumbuluxiwa tanihi xihlovo lexi pfulekeke xa tifayela ta ririmi, naswona hi ku pfuniwa hi maendlelo `Pull Request` , vatirhisi va misava hinkwayo va nga nghenelela eka ku antswisiwa loku yaka emahlweni ka vuhundzuluxi. Seamless connection [github](//github.com) Na miganga yin'wana ya xihlovo lexi pfulekeke.
+> [!TIP]
+> Hi tsarisa eka filosofi ya `UNIX` " Hinkwaswo i fayili " naswona hi nga lawula vuhundzuluxi eka madzana ya tindzimi handle ko nghenisa swintshuxo leswi rharhanganeke no tika swa xiyimo xa mabindzu.
+> U nga tirhisa switirhisiwa leswi tolovelekeke swinene ku hlela `Markdown` (kambe a wu nge swi koti ku engetela kumbe ku susa tindzimana), naswona u tirhisa ndlela leyi tolovelekeke swinene yo endla vulawuri bya vuhundzuluxeri.
+> Xiseketelo xa khodi xi nga tumbuluxiwa tanihi xihlovo lexi pfulekeke xa tifayela ta ririmi, naswona hi ku pfuniwa hi maendlelo `Pull Request` , vatirhisi va misava hinkwayo va nga nghenelela eka ku antswisiwa loku yaka emahlweni ka vuhundzuluxi. Seamless connection [github](//github.com) Na miganga yin'wana ya xihlovo lexi pfulekeke.
 
 [→ Ku kuma nkongomiso wa mutirhisi, hi kombela u hlaya matsalwa ya phurojeke](/i18) .
 
@@ -103,9 +102,10 @@ Endlelo ra mathikithi ra tindzimi to tala leri nga hakelaka tibounties;
 Makete wo xavisa wa swiphemu swa le mahlweni swa matiko ya misava;
 Ku ni swo tala leswi hi lavaka ku swi endla.
 
-Hi langutele ku hlangana ni vanhu lava nga ni mianakanyo leyi fanaka elwandle lerikulu ra vanhu.
-Hi lava vatirhi vo tirhandzela ku nghenelela eka nhluvukiso wa khodi ya xihlovo lexi pfulekeke na ku hlayiwa ka matsalwa lama hundzuluxeriweke.
-Loko u tsakela, hi kombela [→ Click laha ku tata profile ya wena](https://ggl.link/i18n) ivi u joyina [nxaxamelo wa poso](https://groups.google.com/u/2/g/i18n-site) ku kuma vuhlanganisi.
-
 Hi pfumela eka open source na ku avelana rirhandzu, .
 Mi amukeriwile ku tumbuluxa vumundzuku lebyi nga riki na mindzilakano swin’we.
+
+> [!NOTE]
+> Hi langutele ku hlangana ni vanhu lava nga ni mianakanyo leyi fanaka elwandle lerikulu ra vanhu.
+> Hi lava vatirhi vo tirhandzela ku nghenelela eka nhluvukiso wa khodi ya xihlovo lexi pfulekeke na ku hlayiwa ka matsalwa lama hundzuluxeriweke.
+> Loko u tsakela, hi kombela [→ Click laha ku tata profile ya wena](https://ggl.link/i18n) ivi u joyina [nxaxamelo wa poso](https://groups.google.com/u/2/g/i18n-site) ku kuma vuhlanganisi.

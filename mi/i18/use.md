@@ -126,7 +126,8 @@ Hei tauira, `_* ` i roto i te konae whirihoranga i runga ake nei ko te tikanga k
 
 Ko te whakamaoritanga ka taea te whakatika. Whakarerekehia te tuhinga taketake me te miihini-whakamaori ano, ko nga whakarereketanga a-ringa ki te whakamaoritanga e kore e tuhia (mehemea kaore i whakarereketia tenei waahanga o te tuhinga taketake).
 
-Engari kia mahara ko nga rarangi o te whakamaoritanga me te tuhinga taketake me hono tetahi ki tetahi. Arā, kaua e tāpiri, e mukua rānei ngā rārangi i te wā e whakahiato ana i te whakamāoritanga. Ki te kore, ka raruraru i te keteroki whakatika whakamaori.
+> [!WARN]
+> Ko nga rarangi o te whakamaoritanga me te tuhinga taketake me hono tetahi ki tetahi. Arā, kaua e tāpiri, e mukua rānei ngā rārangi i te wā e whakahiato ana i te whakamāoritanga. Ki te kore, ka raruraru i te keteroki whakatika whakamaori.
 
 Ki te he tetahi, tirohia [te FAQ mo nga otinga.](/i18/qa#H1)
 

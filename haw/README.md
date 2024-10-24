@@ -33,11 +33,10 @@ Hiki ke hoʻoponopono ʻia ka unuhi.
 
 Hoʻololi i ka kikokikona kumu a me ka mīkini-unuhi hou, ʻaʻole e hoʻololi ʻia nā hoʻololi lima i ka unuhi (inā ʻaʻole i hoʻololi ʻia kēia paukū o ka kikokikona kumu).
 
-Hoʻopaʻa inoa mākou i ka " o `UNIX` "
-
-Hiki iā ʻoe ke hoʻohana i nā mea hana maʻa loa no ka hoʻoponopono ʻana `Markdown` unuhi (akā ʻaʻole hiki iā ʻoe ke hoʻohui a holoi paha i nā paukū), a hoʻohana i ke ala maʻa loa e hana i ka mana mana.
-
-Hiki ke hana ʻia kahi waihona code ma ke ʻano he kumu hāmama no nā faila ʻōlelo, a me ke kōkua o nā kaʻina `Pull Request` , hiki i nā mea hoʻohana honua ke komo i ka hoʻomau mau ʻana o nā unuhi. Hoʻohui ʻole ʻia [github](//github.com)
+> [!TIP]
+> Hoʻopaʻa inoa mākou i ka " o `UNIX` "
+> Hiki iā ʻoe ke hoʻohana i nā mea hana maʻa loa no ka hoʻoponopono ʻana `Markdown` unuhi (akā ʻaʻole hiki iā ʻoe ke hoʻohui a holoi paha i nā paukū), a hoʻohana i ke ala maʻa loa e hana i ka mana mana.
+> Hiki ke hana ʻia kahi waihona code ma ke ʻano he kumu hāmama no nā faila ʻōlelo, a me ke kōkua o nā kaʻina `Pull Request` , hiki i nā mea hoʻohana honua ke komo i ka hoʻomau mau ʻana o nā unuhi. Hoʻohui ʻole ʻia [github](//github.com)
 
 [→ No ke alakaʻi hoʻohana, e ʻoluʻolu e heluhelu i ka palapala papahana](/i18) .
 
@@ -103,9 +102,10 @@ He ʻōnaehana tiketi lehulehu e hiki ke uku i nā makana;
 He mākeke kūʻai no nā ʻāpana mua o ka honua;
 Nui aʻe kā mākou makemake e hana.
 
-Manaʻo mākou e hālāwai me nā poʻe like ʻole i ke kai nui o nā kānaka.
-Ke ʻimi nei mākou i nā mea manawaleʻa e komo i ka hoʻomohala ʻana i ka code open source a me ka hoʻoponopono ʻana i nā kikokikona unuhi.
-Inā makemake ʻoe, e ʻoluʻolu [→ Kaomi ma aneʻi e hoʻopiha i kāu ʻaoʻao](https://ggl.link/i18n) a laila e hui pū me [ka papa inoa leka uila](https://groups.google.com/u/2/g/i18n-site) no ke kamaʻilio.
-
 Manaʻo mākou i ka open source a me ke aloha kaʻana like,
 Welina mai e hana i kahi wā e hiki mai ana me ka palena ʻole.
+
+> [!NOTE]
+> Manaʻo mākou e hālāwai me nā poʻe like ʻole i ke kai nui o nā kānaka.
+> Ke ʻimi nei mākou i nā mea manawaleʻa e komo i ka hoʻomohala ʻana i ka code open source a me ka hoʻoponopono ʻana i nā kikokikona unuhi.
+> Inā makemake ʻoe, e ʻoluʻolu [→ Kaomi ma aneʻi e hoʻopiha i kāu ʻaoʻao](https://ggl.link/i18n) a laila e hui pū me [ka papa inoa leka uila](https://groups.google.com/u/2/g/i18n-site) no ke kamaʻilio.

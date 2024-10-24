@@ -126,7 +126,8 @@ Misali, `_* ` a cikin fayil ɗin sanyi na sama yana nufin cewa fayilolin da suka
 
 Ana iya gyara fassarar. Gyara ainihin rubutun kuma na'ura-fassara shi kuma, ba za a sake rubuta gyare-gyaren jagora ga fassarar ba (idan wannan sakin layi na ainihin rubutun bai canza ba).
 
-Amma da fatan za a lura cewa layin fassarar da na asali dole ne su dace da ɗaya zuwa ɗaya. Wato, kar a ƙara ko share layi yayin haɗa fassarar. In ba haka ba, zai haifar da rudani a cikin ma'ajin gyara fassarar fassarar.
+> [!WARN]
+> Layukan fassarar da na asali dole ne su dace da ɗaya zuwa ɗaya. Wato, kar a ƙara ko share layi yayin haɗa fassarar. In ba haka ba, zai haifar da rudani a cikin ma'ajin gyara fassarar fassarar.
 
 Idan wani abu ba daidai ba, da fatan za a koma zuwa [FAQ don samun mafita.](/i18/qa#H1)
 

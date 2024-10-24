@@ -33,11 +33,10 @@ De oersetting is te bewurkjen.
 
 Feroarje de orizjinele tekst en masjine-oersette it nochris, de hânmjittige oanpassingen oan 'e oersetting wurde net oerskreaun (as dizze paragraaf fan 'e orizjinele tekst net feroare is).
 
-Wy abonnearje op de filosofy " `UNIX` Alles is in bestân " en kinne oersettingen yn hûnderten talen beheare sûnder komplekse en omslachtige oplossingen op bedriuwsnivo yn te fieren.
-
-Jo kinne de meast bekende ark brûke om `Markdown` oersetting te bewurkjen (mar jo kinne gjin paragrafen tafoegje of wiskje), en brûk de meast bekende manier om ferzjekontrôle te dwaan.
-
-In koadebasis kin makke wurde as iepen boarne foar taalbestannen, en mei help fan `Pull Request` prosessen kinne wrâldwide brûkers meidwaan oan 'e trochgeande optimalisaasje fan oersettingen. Naadleaze ferbining [github](//github.com) oare iepen boarne mienskippen.
+> [!TIP]
+> Wy abonnearje op de filosofy " `UNIX` Alles is in bestân " en kinne oersettingen yn hûnderten talen beheare sûnder komplekse en omslachtige oplossingen op bedriuwsnivo yn te fieren.
+> Jo kinne de meast bekende ark brûke om `Markdown` oersetting te bewurkjen (mar jo kinne gjin paragrafen tafoegje of wiskje), en brûk de meast bekende manier om ferzjekontrôle te dwaan.
+> In koadebasis kin makke wurde as iepen boarne foar taalbestannen, en mei help fan `Pull Request` prosessen kinne wrâldwide brûkers meidwaan oan 'e trochgeande optimalisaasje fan oersettingen. Naadleaze ferbining [github](//github.com) oare iepen boarne mienskippen.
 
 [→ Lês asjebleaft de projektdokumintaasje foar brûkershantlieding](/i18) .
 
@@ -103,9 +102,10 @@ In meartalich ticket systeem dat kin betelje bounties;
 In ferkeapmerk foar ynternasjonale front-end komponinten;
 Wy wolle noch folle mear dwaan.
 
-Wy sjogge út nei moetsje lykas-minded minsken yn 'e grutte see fan minsken.
-Wy binne op syk nei frijwilligers om mei te dwaan oan de ûntwikkeling fan iepen boarne koade en korrektyflêzen fan oersette teksten.
-As jo ynteressearre binne, asjebleaft [→ Klik hjir om jo profyl yn te foljen](https://ggl.link/i18n) en dan meidwaan oan ['e mailinglist](https://groups.google.com/u/2/g/i18n-site) foar kommunikaasje.
-
 Wy leauwe yn iepen boarne en leafde dielen,
 Wolkom om tegearre in grinsleaze takomst te meitsjen.
+
+> [!NOTE]
+> Wy sjogge út nei moetsje lykas-minded minsken yn 'e grutte see fan minsken.
+> Wy binne op syk nei frijwilligers om mei te dwaan oan de ûntwikkeling fan iepen boarne koade en korrektyflêzen fan oersette teksten.
+> As jo ynteressearre binne, asjebleaft [→ Klik hjir om jo profyl yn te foljen](https://ggl.link/i18n) en dan meidwaan oan ['e mailinglist](https://groups.google.com/u/2/g/i18n-site) foar kommunikaasje.

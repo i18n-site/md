@@ -33,11 +33,10 @@ Enwere ike idezi ntụgharị asụsụ ahụ.
 
 Gbanwee ederede izizi na igwe-sụgharịa ya ọzọ, agaghị edegharị mgbanwe akwụkwọ ntuziaka na ntụgharị asụsụ (ọ bụrụ na agbanwebeghị paragraf a nke ederede izizi).
 
-Anyị debanyere aha na nkà ihe ọmụma nke `UNIX` " Ihe niile bụ faịlụ " ma nwee ike ijikwa ntụgharị asụsụ n'ime narị asụsụ na-ewebata ngwọta dị mgbagwoju anya na nke siri ike.
-
-Ị nwere ike iji ngwa ndị amachaghị nke ọma iji dezie ntụgharị `Markdown` (mana ị nweghị ike ịgbakwunye ma ọ bụ hichapụ paragraf), wee jiri ụzọ a maara nke ọma na-eme njikwa ụdị.
-
-Enwere ike ịmepụta ntọala koodu dị ka ebe mepere emepe maka faịlụ asụsụ, yana site n'enyemaka nke usoro `Pull Request` , ndị ọrụ zuru ụwa ọnụ nwere ike isonye na njikarịcha ntụgharị asụsụ na-aga n'ihu. Njikọ na- [github](//github.com) ntụpọ na obodo ndị ọzọ mepere emepe.
+> [!TIP]
+> Anyị debanyere aha na nkà ihe ọmụma nke `UNIX` " Ihe niile bụ faịlụ " ma nwee ike ijikwa ntụgharị asụsụ n'ime narị asụsụ na-ewebata ngwọta dị mgbagwoju anya na nke siri ike.
+> Ị nwere ike iji ngwa ndị amachaghị nke ọma iji dezie ntụgharị `Markdown` (mana ị nweghị ike ịgbakwunye ma ọ bụ hichapụ paragraf), wee jiri ụzọ a maara nke ọma na-eme njikwa ụdị.
+> Enwere ike ịmepụta ntọala koodu dị ka ebe mepere emepe maka faịlụ asụsụ, yana site n'enyemaka nke usoro `Pull Request` , ndị ọrụ zuru ụwa ọnụ nwere ike isonye na njikarịcha ntụgharị asụsụ na-aga n'ihu. Njikọ na- [github](//github.com) ntụpọ na obodo ndị ọzọ mepere emepe.
 
 [→ Maka ntuziaka onye ọrụ, biko gụọ akwụkwọ ọrụ](/i18) .
 
@@ -103,9 +102,10 @@ Usoro tiketi ọtụtụ asụsụ nke nwere ike ịkwụ ụgwọ ego;
 A ahịa ahịa maka mba n'ihu-ọgwụgwụ components;
 E nwere ọtụtụ ihe ọzọ anyị chọrọ ime.
 
-Anyị na-atụ anya izute ndị nwere otu echiche n'ime oke osimiri nke ndị mmadụ.
-Anyị na-achọ ndị ọrụ afọ ofufo isonye na mmepe nke koodu mmalite mepere emepe yana ndezigharị nke ederede atụgharịrị.
-Ọ bụrụ na ị nwere mmasị, biko [→ Pịa ebe a iji dejupụta profaịlụ gị](https://ggl.link/i18n) wee sonye na [listi nzipu ozi](https://groups.google.com/u/2/g/i18n-site) maka nkwurịta okwu.
-
 Anyị kwenyere na isi mmalite mepere emepe na ịkekọrịta ịhụnanya,
 Nabata ka ịmepụta ọdịnihu enweghị oke ọnụ.
+
+> [!NOTE]
+> Anyị na-atụ anya izute ndị nwere otu echiche n'ime oke osimiri nke ndị mmadụ.
+> Anyị na-achọ ndị ọrụ afọ ofufo isonye na mmepe nke koodu mmalite mepere emepe yana ndezigharị nke ederede atụgharịrị.
+> Ọ bụrụ na ị nwere mmasị, biko [→ Pịa ebe a iji dejupụta profaịlụ gị](https://ggl.link/i18n) wee sonye na [listi nzipu ozi](https://groups.google.com/u/2/g/i18n-site) maka nkwurịta okwu.

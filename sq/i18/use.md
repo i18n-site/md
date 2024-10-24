@@ -126,7 +126,8 @@ Për shembull, `_* ` në skedarin e konfigurimit të mësipërm do të thotë q�
 
 Përkthimi është i modifikueshëm. Ndryshoni tekstin origjinal dhe përkthejeni përsëri me makinë, modifikimet manuale të përkthimit nuk do të mbishkruhen (nëse ky paragraf i tekstit origjinal nuk është modifikuar).
 
-Por vini re se rreshtat e përkthimit dhe teksti origjinal duhet të korrespondojnë një me një. Kjo do të thotë, mos shtoni ose fshini rreshta gjatë përpilimit të përkthimit. Përndryshe, do të shkaktojë konfuzion në cache-in e redaktimit të përkthimit.
+> [!WARN]
+> Rreshtat e përkthimit dhe teksti origjinal duhet të korrespondojnë një me një. Kjo do të thotë, mos shtoni ose fshini rreshta gjatë përpilimit të përkthimit. Përndryshe, do të shkaktojë konfuzion në cache-in e redaktimit të përkthimit.
 
 Nëse diçka shkon keq, ju lutemi referojuni [FAQ për zgjidhje.](/i18/qa#H1)
 

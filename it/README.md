@@ -33,11 +33,10 @@ La traduzione è modificabile.
 
 Se modifichi il testo originale e lo traduci automaticamente di nuovo, le modifiche manuali non verranno sovrascritte (se il paragrafo originale non è stato modificato).
 
-Sottoscriviamo la filosofia di `UNIX` "Tutto è un file" e possiamo gestire traduzioni in centinaia di lingue senza introdurre soluzioni complesse e ingombranti di livello enterprise.
-
-Puoi utilizzare gli strumenti più familiari per modificare la traduzione `Markdown` (ma non puoi aggiungere o eliminare paragrafi) e utilizzare il modo più familiare per eseguire il controllo della versione.
-
-È possibile creare una repository open source per i file di lingua e, con l'aiuto dei processi di `Pull Request`, gli utenti globali possono partecipare all'ottimizzazione continua delle traduzioni. Offre una connessione perfetta con [github](//github.com) e altre comunità open source.
+> [!TIP]
+> Sottoscriviamo la filosofia di `UNIX` "Tutto è un file" e possiamo gestire traduzioni in centinaia di lingue senza introdurre soluzioni complesse e ingombranti di livello enterprise.
+> Puoi utilizzare gli strumenti più familiari per modificare la traduzione `Markdown` (ma non puoi aggiungere o eliminare paragrafi) e utilizzare il modo più familiare per eseguire il controllo della versione.
+> È possibile creare una repository open source per i file di lingua e, con l'aiuto dei processi di `Pull Request`, gli utenti globali possono partecipare all'ottimizzazione continua delle traduzioni. Offre una connessione perfetta con [github](//github.com) e altre comunità open source.
 
 [→ Guida all'uso, leggi la documentazione del progetto](/i18).
 
@@ -103,9 +102,10 @@ Un sistema di ticket multilingue che offre premi;
 Un mercato per la vendita di componenti front-end internazionali;
 Ci sono molte altre cose che vogliamo fare.
 
-Non vediamo l'ora di incontrare persone con idee simili nel vasto mare di persone.
-Cerchiamo volontari per partecipare allo sviluppo del codice open source e alla correzione delle traduzioni.
-Se sei interessato, [clicca qui per compilare il tuo profilo](https://ggl.link/i18n) e poi unisciti alla [mailing list](https://groups.google.com/u/2/g/i18n-site) per discutere.
-
 Crediamo nell'open source e amiamo la condivisione,
 Benvenuti a costruire insieme un futuro senza confini.
+
+> [!NOTE]
+> Non vediamo l'ora di incontrare persone con idee simili nel vasto mare di persone.
+> Cerchiamo volontari per partecipare allo sviluppo del codice open source e alla correzione delle traduzioni.
+> Se sei interessato, [clicca qui per compilare il tuo profilo](https://ggl.link/i18n) e poi unisciti alla [mailing list](https://groups.google.com/u/2/g/i18n-site) per discutere.

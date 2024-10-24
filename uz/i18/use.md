@@ -126,7 +126,8 @@ Masalan, yuqoridagi konfiguratsiya faylidagi `_* ` `_` bilan boshlangan fayllar 
 
 Tarjima tahrirlanishi mumkin. Asl matnni o'zgartiring va uni mashinada qayta tarjima qiling, tarjimaga qo'lda kiritilgan o'zgartirishlar qayta yozilmaydi (agar asl matnning ushbu paragrafi o'zgartirilmagan bo'lsa).
 
-Ammo shuni esda tutingki, tarjima satrlari va asl matn bittaga mos kelishi kerak. Ya'ni, tarjimani kompilyatsiya qilishda qatorlarni qo'shmang yoki o'chirmang. Aks holda, bu tarjimani tahrirlash keshida chalkashlikka olib keladi.
+> [!WARN]
+> Tarjima satrlari va asl matn birdan biriga mos kelishi kerak. Ya'ni, tarjimani kompilyatsiya qilishda qatorlarni qo'shmang yoki o'chirmang. Aks holda, bu tarjimani tahrirlash keshida chalkashlikka olib keladi.
 
 Agar biror narsa noto'g'ri bo'lsa, [yechimlar uchun tez-tez so'raladigan savollarga qarang.](/i18/qa#H1)
 

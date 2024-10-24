@@ -33,11 +33,10 @@ Terjemahannya dapat diedit.
 
 Ubah teks asli dan terjemahkan lagi dengan mesin, modifikasi manual pada terjemahan tidak akan ditimpa (jika paragraf teks asli ini belum diubah).
 
-Kami menganut filosofi `UNIX` " Semuanya adalah file " dan dapat mengelola terjemahan ke dalam ratusan bahasa tanpa memperkenalkan solusi tingkat perusahaan yang rumit dan rumit.
-
-Anda dapat menggunakan alat yang paling familiar untuk mengedit `Markdown` (tetapi Anda tidak dapat menambah atau menghapus paragraf), dan menggunakan cara yang paling familiar untuk melakukan kontrol versi.
-
-Basis kode dapat dibuat sebagai sumber terbuka untuk file bahasa, dan dengan bantuan proses `Pull Request` , pengguna global dapat berpartisipasi dalam optimalisasi terjemahan berkelanjutan. Koneksi mulus [github](//github.com) Dan komunitas sumber terbuka lainnya.
+> [!TIP]
+> Kami menganut filosofi `UNIX` " Semuanya adalah file " dan dapat mengelola terjemahan ke dalam ratusan bahasa tanpa memperkenalkan solusi tingkat perusahaan yang rumit dan rumit.
+> Anda dapat menggunakan alat yang paling familiar untuk mengedit `Markdown` (tetapi Anda tidak dapat menambah atau menghapus paragraf), dan menggunakan cara yang paling familiar untuk melakukan kontrol versi.
+> Basis kode dapat dibuat sebagai sumber terbuka untuk file bahasa, dan dengan bantuan proses `Pull Request` , pengguna global dapat berpartisipasi dalam optimalisasi terjemahan berkelanjutan. Koneksi mulus [github](//github.com) Dan komunitas sumber terbuka lainnya.
 
 [→ Untuk panduan pengguna, silakan baca dokumentasi proyek](/i18) .
 
@@ -103,9 +102,10 @@ Sistem tiket multibahasa yang dapat memberikan hadiah;
 Pasar penjualan untuk komponen front-end internasional;
 Masih banyak lagi yang ingin kami lakukan.
 
-Kami berharap dapat bertemu orang-orang yang berpikiran sama di lautan luas manusia.
-Kami mencari sukarelawan untuk berpartisipasi dalam pengembangan kode sumber terbuka dan mengoreksi teks terjemahan.
-Jika Anda tertarik, silakan [→ Klik di sini untuk mengisi profil Anda](https://ggl.link/i18n) dan kemudian bergabung dengan [milis](https://groups.google.com/u/2/g/i18n-site) untuk komunikasi.
-
 Kami percaya pada open source dan senang berbagi,
 Selamat datang untuk menciptakan masa depan tanpa batas bersama.
+
+> [!NOTE]
+> Kami berharap dapat bertemu orang-orang yang berpikiran sama di lautan luas manusia.
+> Kami mencari sukarelawan untuk berpartisipasi dalam pengembangan kode sumber terbuka dan mengoreksi teks terjemahan.
+> Jika Anda tertarik, silakan [→ Klik di sini untuk mengisi profil Anda](https://ggl.link/i18n) dan kemudian bergabung dengan [milis](https://groups.google.com/u/2/g/i18n-site) untuk komunikasi.

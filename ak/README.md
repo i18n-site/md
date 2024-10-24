@@ -33,11 +33,10 @@ Nkyerɛase no yɛ nea wotumi sesa.
 
 Sesa mfitiase nkyerɛwee no na fa mfiri kyerɛ ase bio, wɔrenkyerɛw nsaano nsakrae a wɔayɛ wɔ nkyerɛase no mu no so (sɛ wɔansakra mfitiase nkyerɛwee no nkyekyem yi a).
 
-Yɛkyerɛw nyansapɛ a ɛne `UNIX` " Biribiara yɛ fael " na yebetumi ahwɛ nkyerɛase ahorow so akɔ kasa ɔhaha pii mu a yɛmfa adwumayɛbea-gyinabea ano aduru a ɛyɛ den na ɛyɛ den mma.
-
-Wubetumi de nnwinnade a wunim no yiye adi dwuma de asiesie nkyerɛase `Markdown` (nanso wuntumi mfa nkyekyem ahorow nka ho anaasɛ wompopa), na wode ɔkwan a wunim no yiye no adi dwuma de ayɛ version control.
-
-Wobetumi ayɛ code base sɛ open source ama kasa fael ahorow, na ɛnam `Pull Request` nhyehyɛe mmoa so no, wiase nyinaa dwumadiefoɔ bɛtumi de wɔn ho ahyɛ nkyerɛaseɛ a ɛkɔ so yie no mu. Seamless connection [github](//github.com) Na afoforo a wɔabue ano.
+> [!TIP]
+> Yɛkyerɛw nyansapɛ a ɛne `UNIX` " Biribiara yɛ fael " na yebetumi ahwɛ nkyerɛase ahorow so akɔ kasa ɔhaha pii mu a yɛmfa adwumayɛbea-gyinabea ano aduru a ɛyɛ den na ɛyɛ den mma.
+> Wubetumi de nnwinnade a wunim no yiye adi dwuma de asiesie nkyerɛase `Markdown` (nanso wuntumi mfa nkyekyem ahorow nka ho anaasɛ wompopa), na wode ɔkwan a wunim no yiye no adi dwuma de ayɛ version control.
+> Wobetumi ayɛ code base sɛ open source ama kasa fael ahorow, na ɛnam `Pull Request` nhyehyɛe mmoa so no, wiase nyinaa dwumadiefoɔ bɛtumi de wɔn ho ahyɛ nkyerɛaseɛ a ɛkɔ so yie no mu. Seamless connection [github](//github.com) Na afoforo a wɔabue ano.
 
 [→ Sɛ wopɛ akwankyerɛ a, yɛsrɛ wo kenkan adwuma no ho nkrataa](/i18) .
 
@@ -103,9 +102,10 @@ Tekete nhyehyɛe a wɔde kasa ahorow pii di dwuma a ebetumi atua bounties;
 Amanaman ntam nneɛma a ɛwɔ anim a wɔtɔn ho gua;
 Pii pii wɔ hɔ a yɛpɛ sɛ yɛyɛ.
 
-Yɛhwɛ kwan sɛ yebehyia nnipa a wɔwɔ adwene koro wɔ nnipa po kɛse no mu.
-Yɛrehwehwɛ atuhoamafoɔ a wɔde wɔn ho bɛhyɛ open source code a wɔbɛyɛ ne nkyerɛwee a wɔakyerɛ aseɛ no a wɔbɛkenkan no yie mu.
-Sɛ w’ani gye ho a, yɛsrɛ wo [→ Klik ha na hyehyɛ wo profile](https://ggl.link/i18n) na afei kɔka [mailing list no](https://groups.google.com/u/2/g/i18n-site) ho ma nkitahodi.
-
 Yɛgye open source di na ɔdɔ kyɛfa, .
 Yɛma mo akwaaba sɛ mobɛbom abɔ daakye a enni ahye.
+
+> [!NOTE]
+> Yɛhwɛ kwan sɛ yebehyia nnipa a wɔwɔ adwene koro wɔ nnipa po kɛse no mu.
+> Yɛrehwehwɛ atuhoamafoɔ a wɔde wɔn ho bɛhyɛ open source code a wɔbɛyɛ ne nkyerɛwee a wɔakyerɛ aseɛ no a wɔbɛkenkan no yie mu.
+> Sɛ w’ani gye ho a, yɛsrɛ wo [→ Klik ha na hyehyɛ wo profile](https://ggl.link/i18n) na afei kɔka [mailing list no](https://groups.google.com/u/2/g/i18n-site) ho ma nkitahodi.

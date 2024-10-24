@@ -126,7 +126,8 @@ Kwa mfano, `_* ` katika faili ya usanidi hapo juu inamaanisha kuwa faili zinazoa
 
 Tafsiri inaweza kuhaririwa. Rekebisha maandishi asilia na uyatafsiri kwa mashine tena, marekebisho ya mwongozo kwa tafsiri hayatafutwa (ikiwa aya hii ya maandishi asilia haijarekebishwa).
 
-Lakini tafadhali kumbuka kuwa mistari ya tafsiri na maandishi asilia lazima yalingane moja hadi moja. Hiyo ni, usiongeze au kufuta mistari wakati wa kuandaa tafsiri. Vinginevyo, itasababisha mkanganyiko katika kashe ya uhariri wa tafsiri.
+> [!WARN]
+> Mistari ya tafsiri na maandishi asilia lazima yalingane moja hadi moja. Hiyo ni, usiongeze au kufuta mistari wakati wa kuandaa tafsiri. Vinginevyo, itasababisha mkanganyiko katika kashe ya uhariri wa tafsiri.
 
 Ikiwa kitu kitaenda vibaya, tafadhali rejelea [Maswali Yanayoulizwa Mara kwa Mara kwa suluhu.](/i18/qa#H1)
 

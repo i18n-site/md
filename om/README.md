@@ -33,11 +33,10 @@ Hiikkaan gulaalamuu danda'a.
 
 Barreeffama jalqabaa fooyyesiitii irra deebi'ii maashinii-hiikkaa, fooyya'iinsi harkaan hiikkaa irratti hin barreeffamu (yoo keeyyatni barruu jalqabaa kun hin fooyya'in).
 
-We subscribe to the philosophy of `UNIX` " Wanti hundi faayila " waan ta'eef furmaata walxaxaa fi ulfaataa sadarkaa dhaabbataatti osoo hin seensisin hiikkaa afaanota dhibbaan lakkaa'aman bulchuu danda'a.
-
-`Markdown` gulaaluuf meeshaalee baay'ee beekaman fayyadamuu dandeessa (garuu keeyyata dabaluu ykn haquu hin dandeessu), akkasumas to'annoo gosa hojjechuuf karaa baay'ee beekamaa ta'e fayyadamuu dandeessa.
-
-Bu'uurri koodii akka madda banaa faayiloota afaanii uumuun ni danda'ama, gargaarsa adeemsa `Pull Request` , fayyadamtoonni addunyaa hiikkaawwan itti fufiinsaan fooyyessuu keessatti hirmaachuu danda'u. Seamless connection [github](//github.com) Fi hawaasa madda banaa biroo.
+> [!TIP]
+> We subscribe to the philosophy of `UNIX` " Wanti hundi faayila " waan ta'eef furmaata walxaxaa fi ulfaataa sadarkaa dhaabbataatti osoo hin seensisin hiikkaa afaanota dhibbaan lakkaa'aman bulchuu danda'a.
+> `Markdown` gulaaluuf meeshaalee baay'ee beekaman fayyadamuu dandeessa (garuu keeyyata dabaluu ykn haquu hin dandeessu), akkasumas to'annoo gosa hojjechuuf karaa baay'ee beekamaa ta'e fayyadamuu dandeessa.
+> Bu'uurri koodii akka madda banaa faayiloota afaanii uumuun ni danda'ama, gargaarsa adeemsa `Pull Request` , fayyadamtoonni addunyaa hiikkaawwan itti fufiinsaan fooyyessuu keessatti hirmaachuu danda'u. Seamless connection [github](//github.com) Fi hawaasa madda banaa biroo.
 
 [→ Qajeelfama fayyadamaaf, maaloo galmee pirojektii dubbisi](/i18) .
 
@@ -103,9 +102,10 @@ Sirna tikkeettii afaanota hedduu kan badhaasa kaffalu danda’u;
 Gabaa gurgurtaa qaamolee fuulduraa idil-addunyaa;
 Kana caalaa waan baay'ee hojjechuu barbaannutu jira.
 
-Galaana namootaa bal'aa keessatti namoota yaada walfakkaataa qaban waliin wal arguuf hawwii guddaan eegganna.
-Tola ooltota qophii koodii madda banaa fi barreeffamoota hiikaman sirreessuu irratti hirmaatan barbaanna.
-Yoo fedhii qabaattan [→ as cuqaasuun piroofaayila keessan guutaa](https://ggl.link/i18n) sana booda [qunnamtiidhaaf tarree ergaa sanatti](https://groups.google.com/u/2/g/i18n-site) makamaa.
-
 Madda banaa fi jaalala waliif qooduun ni amanna, .
 Egeree daangaa hin qabne waliin uumuuf baga nagaan dhuftan.
+
+> [!NOTE]
+> Galaana namootaa bal'aa keessatti namoota yaada walfakkaataa qaban waliin wal arguuf hawwii guddaan eegganna.
+> Tola ooltota qophii koodii madda banaa fi barreeffamoota hiikaman sirreessuu irratti hirmaatan barbaanna.
+> Yoo fedhii qabaattan [→ as cuqaasuun piroofaayila keessan guutaa](https://ggl.link/i18n) sana booda [qunnamtiidhaaf tarree ergaa sanatti](https://groups.google.com/u/2/g/i18n-site) makamaa.

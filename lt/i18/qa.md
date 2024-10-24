@@ -2,9 +2,9 @@
 
 ## Vertimo Eilučių Pridėjimas Arba Ištrynimas, Dėl Kurio Vertimas Gali Būti Painus
 
-Atminkite, **kad vertimo eilučių skaičius turi atitikti originalo teksto eilutes** .
-
-Tai reiškia, kad rankiniu būdu koreguodami vertimą **nepridėkite ir neištrinkite vertimo eilučių** , kitaip bus sutrikęs vertimo ir originalaus teksto atvaizdavimo ryšys.
+> [!WARN]
+> Atminkite, **kad vertimo eilučių skaičius turi atitikti originalo teksto eilutes** .
+> Tai reiškia, kad rankiniu būdu koreguodami vertimą **nepridėkite ir neištrinkite vertimo eilučių** , kitaip bus sutrikęs vertimo ir originalaus teksto atvaizdavimo ryšys.
 
 Jei netyčia pridėjote ar ištrinate eilutę, sukeldami painiavą, prieš modifikuodami atkurkite vertimo versiją, dar kartą paleiskite `i18` vertimą ir iš naujo įrašykite teisingą atvaizdavimą.
 

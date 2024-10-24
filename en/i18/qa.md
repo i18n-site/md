@@ -2,9 +2,9 @@
 
 ## Adding or deleting lines in the translation, leading to disarray
 
-Remember, **the translation lines must match the original text line by line**.
-
-This means that when manually adjusting the translation, **do not add or remove lines**, as this will disrupt the mapping between the translation and the original text.
+> [!WARN]
+> Remember, **the translation lines must match the original text line by line**.
+> This means that when manually adjusting the translation, **do not add or remove lines**, as this will disrupt the mapping between the translation and the original text.
 
 If lines are accidentally added or deleted, causing disarray, please revert the translation to the version before changes, run `i18` translation again, and recache the correct mapping.
 

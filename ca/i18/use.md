@@ -126,7 +126,8 @@ Per exemple, `_* ` al fitxer de configuració anterior significa que els fitxers
 
 La traducció és editable. Modifiqueu el text original i torneu a traduir-lo automàticament, les modificacions manuals a la traducció no seran sobreescrites (si aquest paràgraf del text original no s'ha modificat).
 
-Però tingueu en compte que les línies de la traducció i el text original han de correspondre una a una. És a dir, no afegiu ni suprimiu línies en compilar la traducció. En cas contrari, provocarà confusió a la memòria cau d'edició de traduccions.
+> [!WARN]
+> Les línies de la traducció i el text original han de correspondre una a una. És a dir, no afegiu ni suprimiu línies en compilar la traducció. En cas contrari, provocarà confusió a la memòria cau d'edició de traduccions.
 
 Si alguna cosa va malament, consulteu [les PMF per obtenir solucions.](/i18/qa#H1)
 

@@ -33,11 +33,10 @@ Enkyusa eno esobola okulongoosebwa.
 
 Kyuusa ekiwandiiko ekyasooka era oddemu okukivvuunula mu kyuma, enkyukakyuka mu ngalo mu nkyusa tezijja kuwandiikibwako (singa akatundu kano ak’ekiwandiiko ekyasooka tekakyusiddwa).
 
-We subscribe to the philosophy of `UNIX` " Buli kintu fayiro " era kisobola okuddukanya okuvvuunula mu bikumi n’ebikumi by’ennimi awatali kuleeta bigonjoola bizibu era ebizibu ku mutendera gw’ebitongole.
-
-Osobola okukozesa ebikozesebwa ebisinga okumanyibwa okulongoosa `Markdown` (naye tosobola kwongerako oba kusazaamu butundu), n’okozesa engeri esinga okumanyibwa ey’okukola okufuga enkyusa.
-
-Omusingi gwa koodi gusobola okutondebwawo ng’ensibuko enzigule eya fayiro z’olulimi, era nga tuyambibwako enkola `Pull Request` , abakozesa ensi yonna basobola okwetaba mu kulongoosa okutambula obutasalako. Seamless connection [github](//github.com) N'ebitundu ebirala eby'enkozesa enzigule.
+> [!TIP]
+> We subscribe to the philosophy of `UNIX` " Buli kintu fayiro " era kisobola okuddukanya okuvvuunula mu bikumi n’ebikumi by’ennimi awatali kuleeta bigonjoola bizibu era ebizibu ku mutendera gw’ebitongole.
+> Osobola okukozesa ebikozesebwa ebisinga okumanyibwa okulongoosa `Markdown` (naye tosobola kwongerako oba kusazaamu butundu), n’okozesa engeri esinga okumanyibwa ey’okukola okufuga enkyusa.
+> Omusingi gwa koodi gusobola okutondebwawo ng’ensibuko enzigule eya fayiro z’olulimi, era nga tuyambibwako enkola `Pull Request` , abakozesa ensi yonna basobola okwetaba mu kulongoosa okutambula obutasalako. Seamless connection [github](//github.com) N'ebitundu ebirala eby'enkozesa enzigule.
 
 [→ Okusobola okulambika omukozesa, nsaba osome ebiwandiiko bya pulojekiti](/i18) .
 
@@ -103,9 +102,10 @@ Enkola ya tikiti ezikozesa ennimi nnyingi esobola okusasula ebirabo;
 Akatale k’okutunda ebitundu by’ensi yonna eby’omu maaso;
 Waliwo bingi bye twagala okukola.
 
-Twesunga okusisinkana abantu abalina endowooza y’emu mu nnyanja ennene ey’abantu.
-Tunoonya bannakyewa okwetaba mu kukola enkola ya open source code n’okulongoosa ebiwandiiko ebivvuunuddwa.
-Bw’oba oyagala, nsaba [→ Nyiga wano okujjuzaamu profile yo](https://ggl.link/i18n) n’oluvannyuma weegatte ku [lukalala lw’amabaluwa](https://groups.google.com/u/2/g/i18n-site) olw’empuliziganya.
-
 Tukkiririza mu open source n'okugabana okwagala,
 Mwaniriziddwa okutondawo ebiseera eby'omu maaso ebitaliiko nsalo nga tuli wamu.
+
+> [!NOTE]
+> Twesunga okusisinkana abantu abalina endowooza y’emu mu nnyanja ennene ey’abantu.
+> Tunoonya bannakyewa okwetaba mu kukola enkola ya open source code n’okulongoosa ebiwandiiko ebivvuunuddwa.
+> Bw’oba oyagala, nsaba [→ Nyiga wano okujjuzaamu profile yo](https://ggl.link/i18n) n’oluvannyuma weegatte ku [lukalala lw’amabaluwa](https://groups.google.com/u/2/g/i18n-site) olw’empuliziganya.

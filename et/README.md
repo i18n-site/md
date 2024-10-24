@@ -33,11 +33,10 @@ Tõlge on redigeeritav.
 
 Muuda originaalteksti ja tõlgi see uuesti, käsitsi tehtud tõlkemuudatusi üle ei kirjutata (kui seda originaalteksti lõiku pole muudetud).
 
-Oleme liitunud filosoofiaga `UNIX` Kõik on fail " ja saame hallata tõlkeid sadadesse keeltesse ilma keerulisi " tülikaid ettevõtte tasemel lahendusi kasutusele võtmata.
-
-`Markdown` redigeerimiseks saate kasutada kõige tuttavamaid tööriistu (kuid te ei saa lõike lisada ega kustutada) ja kasutada versioonihalduseks kõige tuttavamat viisi.
-
-Keelefailide jaoks saab luua avatud lähtekoodina koodibaasi ning `Pull Request` protsesside abil saavad globaalsed kasutajad osaleda tõlgete pidevas optimeerimises. Sujuv ühendus [github](//github.com) muud avatud lähtekoodiga kogukonnad.
+> [!TIP]
+> Oleme liitunud filosoofiaga `UNIX` Kõik on fail " ja saame hallata tõlkeid sadadesse keeltesse ilma keerulisi " tülikaid ettevõtte tasemel lahendusi kasutusele võtmata.
+> `Markdown` redigeerimiseks saate kasutada kõige tuttavamaid tööriistu (kuid te ei saa lõike lisada ega kustutada) ja kasutada versioonihalduseks kõige tuttavamat viisi.
+> Keelefailide jaoks saab luua avatud lähtekoodina koodibaasi ning `Pull Request` protsesside abil saavad globaalsed kasutajad osaleda tõlgete pidevas optimeerimises. Sujuv ühendus [github](//github.com) muud avatud lähtekoodiga kogukonnad.
 
 [→ Kasutusjuhendi saamiseks lugege palun projekti dokumentatsiooni](/i18) .
 
@@ -103,9 +102,10 @@ Mitmekeelne piletisüsteem, mis võimaldab maksta preemiaid;
 Rahvusvaheliste esiotsa komponentide müügiturg;
 Tahame veel palju teha.
 
-Ootame kohtumist sarnaselt mõtlevate inimestega suures inimmeres.
-Otsime vabatahtlikke osalema avatud lähtekoodi väljatöötamises ja tõlgitud tekstide korrektuuris.
-Kui olete huvitatud, palun [→ Klõpsake siin, et täita oma profiil](https://ggl.link/i18n) ja seejärel liituda [meililistiga](https://groups.google.com/u/2/g/i18n-site) suhtlemiseks.
-
 Usume avatud lähtekoodiga ja armastame jagamist,
 Tere tulemast koos piirideta tulevikku looma.
+
+> [!NOTE]
+> Ootame kohtumist sarnaselt mõtlevate inimestega suures inimmeres.
+> Otsime vabatahtlikke osalema avatud lähtekoodi väljatöötamises ja tõlgitud tekstide korrektuuris.
+> Kui olete huvitatud, palun [→ Klõpsake siin, et täita oma profiil](https://ggl.link/i18n) ja seejärel liituda [meililistiga](https://groups.google.com/u/2/g/i18n-site) suhtlemiseks.

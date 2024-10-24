@@ -2,9 +2,9 @@
 
 ## Å legge til eller slette linjer i oversettelsen kan føre til forvirring i teksten
 
-Husk at **antall linjer i oversettelsen må samsvare med linjene i originalteksten**.
-
-Det betyr at når du manuelt justerer oversettelsen, **ikke legg til eller slett linjer**, ellers vil oversettelsens og originaltekstens korrespondanse bli forstyrret.
+> [!WARN]
+> Husk at **antall linjer i oversettelsen må samsvare med linjene i originalteksten**.
+> Det betyr at når du manuelt justerer oversettelsen, **ikke legg til eller slett linjer**, ellers vil oversettelsens og originaltekstens korrespondanse bli forstyrret.
 
 Hvis du ved et uhell legger til eller sletter en linje, og dette forårsaker forvirring, må du gjenopprette oversettelsen til versjonen før endring og kjøre `i18`-oversettelsen på nytt for å oppdatere riktig korrespondanse.
 

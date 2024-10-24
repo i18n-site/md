@@ -2,9 +2,9 @@
 
 ## It Tafoegjen of Wiskjen Fan Rigels Fan 'e Oersetting, Wat Resulteart Yn Betizing Yn 'e Oersetting
 
-Unthâld, **it oantal rigels yn 'e oersetting moat oerienkomme mei de rigels yn 'e oarspronklike tekst** .
-
-Dat wol sizze, by it manuell oanpassen fan de oersetting, **foegje of wiskje gjin rigels fan de oersetting ta** , oars wurdt de mappingsrelaasje tusken de oersetting en de oarspronklike tekst steurd.
+> [!WARN]
+> Unthâld, **it oantal rigels yn 'e oersetting moat oerienkomme mei de rigels yn 'e oarspronklike tekst** .
+> Dat wol sizze, by it manuell oanpassen fan de oersetting, **foegje of wiskje gjin rigels fan de oersetting ta** , oars wurdt de mappingsrelaasje tusken de oersetting en de oarspronklike tekst steurd.
 
 As jo per ongeluk in rigel tafoegje of wiskje, wêrtroch betizing ûntstiet, asjebleaft de oersetting weromsette nei de ferzje foar wiziging, útfiere `i18` oersetting nochris, en de juste mapping opnij cache.
 

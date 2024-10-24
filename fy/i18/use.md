@@ -126,7 +126,8 @@ Bygelyks, `_* ` yn it boppesteande konfiguraasjetriem betsjut dat triemmen dy't 
 
 De oersetting is te bewurkjen. Feroarje de orizjinele tekst en masjine-oersette it nochris, de hânmjittige oanpassingen oan 'e oersetting wurde net oerskreaun (as dizze paragraaf fan 'e orizjinele tekst net feroare is).
 
-Mar tink derom dat de rigels fan 'e oersetting en de oarspronklike tekst ien op ien moatte oerienkomme. Dat is, gjin rigels tafoegje of wiskje by it kompilearjen fan de oersetting. Oars sil it betizing yn 'e cache foar bewurking fan' e oersetting feroarsaakje.
+> [!WARN]
+> De rigels fan de oersetting en de oarspronklike tekst moatte ien op ien oerienkomme. Dat is, gjin rigels tafoegje of wiskje by it kompilearjen fan de oersetting. Oars sil it betizing yn 'e cache foar bewurking fan' e oersetting feroarsaakje.
 
 As der wat mis giet, ferwize dan nei [de FAQ foar oplossings.](/i18/qa#H1)
 

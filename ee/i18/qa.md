@@ -2,9 +2,9 @@
 
 ## Gɔmeɖeɖea Ƒe Fliwo Tsɔtsɔ Kpee Alo Wo Tutu, Si Wɔnɛ Be Tɔtɔ Nɔa Gɔmeɖeɖea Me
 
-Ðo ŋku edzi be **ele be fli siwo le gɔmeɖeɖea me ƒe xexlẽme nasɔ kple fli siwo le nuŋɔŋlɔ gbãtɔa me** .
-
-Eyae nye be ne èle asi trɔm le gbegɔmeɖeɖea ŋu la, **mègatsɔ gɔmeɖeɖea ƒe fliwo akpe ɖe eŋu alo atutu wo o** , ne menye nenema o la, anyigbatata ƒe ƒomedodo si le gɔmeɖeɖea kple nuŋɔŋlɔ gbãtɔa dome la masɔ o.
+> [!WARN]
+> Ðo ŋku edzi be **ele be fli siwo le gɔmeɖeɖea me ƒe xexlẽme nasɔ kple fli siwo le nuŋɔŋlɔ gbãtɔa me** .
+> Eyae nye be ne èle asi trɔm le gbegɔmeɖeɖea ŋu la, **mègatsɔ gɔmeɖeɖea ƒe fliwo akpe ɖe eŋu alo atutu wo o** , ne menye nenema o la, anyigbatata ƒe ƒomedodo si le gɔmeɖeɖea kple nuŋɔŋlɔ gbãtɔa dome la masɔ o.
 
 Ne ètsɔ fli aɖe kpe ɖe eŋu alo tutue le vo me, si na tɔtɔ la, taflatse gbugbɔ gbegɔmeɖeɖea ɖo tɔtrɔa me hafi nàtrɔe, gawɔ `i18` gɔmeɖeɖea ake, eye nàgbugbɔ adzra nɔnɔmetata nyuitɔ la ɖo.
 

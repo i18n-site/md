@@ -126,7 +126,8 @@ Pananglitan, `_* ` sa ibabaw nga configuration file nagpasabot nga ang mga file 
 
 Ang hubad ma-edit. Usba ang orihinal nga teksto ug i-machine-translate kini pag-usab, ang manwal nga mga pagbag-o sa paghubad dili ma-overwrite (kung kini nga parapo sa orihinal nga teksto wala giusab).
 
-Apan palihug timan-i nga ang mga linya sa hubad ug ang orihinal nga teksto kinahanglang motakdo sa usa ngadto sa usa. Sa ato pa, ayaw pagdugang o pagtangtang sa mga linya sa pag-compile sa hubad. Kung dili, kini makapahinabog kalibog sa cache sa pag-edit sa paghubad.
+> [!WARN]
+> Ang mga linya sa hubad ug ang orihinal nga teksto kinahanglang motakdo sa usa ngadto sa usa. Sa ato pa, ayaw pagdugang o pagtangtang sa mga linya sa pag-compile sa hubad. Kung dili, kini makapahinabog kalibog sa cache sa pag-edit sa paghubad.
 
 Kung adunay sayup, palihug tan-awa [ang FAQ alang sa mga solusyon.](/i18/qa#H1)
 

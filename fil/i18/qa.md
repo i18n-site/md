@@ -2,9 +2,9 @@
 
 ## Pagdaragdag O Pagtanggal Ng Mga Linya Ng Pagsasalin, Na Nagreresulta Sa Pagkalito Sa Pagsasalin
 
-Tandaan, **ang bilang ng mga linya sa pagsasalin ay dapat na tumutugma sa mga linya sa orihinal na teksto** .
-
-Ibig sabihin, kapag manu-manong inaayos ang pagsasalin, **huwag magdagdag o magtanggal ng mga linya ng pagsasalin** , kung hindi ay magkakagulo ang pagmamapa sa pagitan ng pagsasalin at ng orihinal na teksto.
+> [!WARN]
+> Tandaan, **ang bilang ng mga linya sa pagsasalin ay dapat na tumutugma sa mga linya sa orihinal na teksto** .
+> Ibig sabihin, kapag manu-manong inaayos ang pagsasalin, **huwag magdagdag o magtanggal ng mga linya ng pagsasalin** , kung hindi ay magkakagulo ang pagmamapa sa pagitan ng pagsasalin at ng orihinal na teksto.
 
 Kung hindi mo sinasadyang magdagdag o magtanggal ng linya, na nagdudulot ng kalituhan, mangyaring ibalik ang pagsasalin sa bersyon bago ang pagbabago, patakbuhin muli `i18` pagsasalin, at muling i-cache ang tamang pagmamapa.
 

@@ -33,11 +33,10 @@ Libongoli yango ekoki kobongisama.
 
 Bobongola makomi ya ebandeli mpe bobongola yango lisusu na masini, mbongwana ya maboko na libongoli ekokoma likolo te (soki paragrafe oyo ya makomi ya ebandeli ebongwani te).
 
-Tozali kosala abonnément na philosophie ya `UNIX` " Nionso ezali fichier " mpe ekoki ko gérer ba traductions na ba centaines ya minoko sans ko introduire ba solutions complexes mpe ya kilo na niveau ya entreprise.
-
-Okoki kosalela bisaleli oyo oyebi mingi mpo na kobongisa `Markdown` (kasi okoki te kobakisa to kolongola baparagrafe), mpe kosalela lolenge oyo oyebi mingi mpo na kosala contrôle ya version.
-
-Base ya code ekoki kosalama lokola source ouverte pona ba fichiers ya langue, pe na aide ya `Pull Request` processus, ba usagers mondiaux bakoki ko participer na optimisation continue ya ba traductions. Connexion sans soudure [github](//github.com) Na ba communautés misusu ya source ouverte.
+> [!TIP]
+> Tozali kosala abonnément na philosophie ya `UNIX` " Nionso ezali fichier " mpe ekoki ko gérer ba traductions na ba centaines ya minoko sans ko introduire ba solutions complexes mpe ya kilo na niveau ya entreprise.
+> Okoki kosalela bisaleli oyo oyebi mingi mpo na kobongisa `Markdown` (kasi okoki te kobakisa to kolongola baparagrafe), mpe kosalela lolenge oyo oyebi mingi mpo na kosala contrôle ya version.
+> Base ya code ekoki kosalama lokola source ouverte pona ba fichiers ya langue, pe na aide ya `Pull Request` processus, ba usagers mondiaux bakoki ko participer na optimisation continue ya ba traductions. Connexion sans soudure [github](//github.com) Na ba communautés misusu ya source ouverte.
 
 [→ Mpo na buku ya mosaleli, tosengi otanga mikanda ya mosala](/i18) .
 
@@ -103,9 +102,10 @@ Système ya billets multilingue oyo ekoki kofuta ba bounties;
 Zando ya koteka mpo na biloko ya liboso ya mokili mobimba;
 Ezali na makambo mingi oyo tolingi kosala.
 
-Tozali kozela na esengo nyonso kokutana na bato oyo bazali na makanisi ndenge moko na mbu monene ya bato.
-Tozali koluka ba volontaires mpo na kosangana na bokeli ya code ya source ouverte mpe na correction ya makomi oyo ebongolami.
-Soki ozali na posa, svp [→ Finá awa mpo na kotondisa profil na yo](https://ggl.link/i18n) mpe na nsima kosangana [na liste ya ba envois](https://groups.google.com/u/2/g/i18n-site) mpo na kosolola.
-
 Tondimi na source ouverte mpe na bolingo ya kokabola, .
 Boyei malamu mpo na kokela avenir sans frontière elongo.
+
+> [!NOTE]
+> Tozali kozela na esengo nyonso kokutana na bato oyo bazali na makanisi ndenge moko na mbu monene ya bato.
+> Tozali koluka ba volontaires mpo na kosangana na bokeli ya code ya source ouverte mpe na correction ya makomi oyo ebongolami.
+> Soki ozali na posa, svp [→ Finá awa mpo na kotondisa profil na yo](https://ggl.link/i18n) mpe na nsima kosangana [na liste ya ba envois](https://groups.google.com/u/2/g/i18n-site) mpo na kosolola.

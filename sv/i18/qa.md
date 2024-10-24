@@ -2,9 +2,9 @@
 
 ## Lägga Till Eller Ta Bort Rader I Översättningen, Vilket Resulterar I Förvirring I Översättningen
 
-Kom ihåg **att antalet rader i översättningen måste motsvara raderna i originaltexten** .
-
-Det vill säga, när du manuellt justerar översättningen, **lägg inte till eller ta bort rader i översättningen** , annars kommer mappningsförhållandet mellan översättningen och originaltexten att störas.
+> [!WARN]
+> Kom ihåg **att antalet rader i översättningen måste motsvara raderna i originaltexten** .
+> Det vill säga, när du manuellt justerar översättningen, **lägg inte till eller ta bort rader i översättningen** , annars kommer mappningsförhållandet mellan översättningen och originaltexten att störas.
 
 Om du av misstag lägger till eller tar bort en rad, vilket skapar förvirring, vänligen återställ översättningen till versionen före ändring, kör `i18` översättning igen och cachelagra den korrekta mappningen igen.
 

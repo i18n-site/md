@@ -33,11 +33,10 @@ A fordítás szerkeszthető.
 
 Módosítsa az eredeti szöveget, és fordítsa le ismét géppel, a fordításon végrehajtott manuális módosítások nem kerülnek felülírásra (ha az eredeti szöveg ezen bekezdését nem módosították).
 
-Feliratkozunk a `UNIX` filozófiájára " Minden egy fájl " , és több száz nyelvre tudunk fordítani anélkül, hogy bonyolult és nehézkes vállalati szintű megoldásokat vezetnénk be.
-
-Használhatja a legismertebb eszközöket `Markdown` fordítás szerkesztéséhez (de nem adhat hozzá és nem törölhet bekezdéseket), és használja a legismertebb módszert a verziószabályozáshoz.
-
-Nyílt forráskódú nyelvi fájlokhoz kódbázis készíthető, és `Pull Request` folyamat segítségével a globális felhasználók részt vehetnek a fordítások folyamatos optimalizálásában. Zökkenőmentes kapcsolat [github](//github.com) más nyílt forráskódú közösségek.
+> [!TIP]
+> Feliratkozunk a `UNIX` filozófiájára " Minden egy fájl " , és több száz nyelvre tudunk fordítani anélkül, hogy bonyolult és nehézkes vállalati szintű megoldásokat vezetnénk be.
+> Használhatja a legismertebb eszközöket `Markdown` fordítás szerkesztéséhez (de nem adhat hozzá és nem törölhet bekezdéseket), és használja a legismertebb módszert a verziószabályozáshoz.
+> Nyílt forráskódú nyelvi fájlokhoz kódbázis készíthető, és `Pull Request` folyamat segítségével a globális felhasználók részt vehetnek a fordítások folyamatos optimalizálásában. Zökkenőmentes kapcsolat [github](//github.com) más nyílt forráskódú közösségek.
 
 [→ A használati útmutatóért olvassa el a projekt dokumentációját](/i18) .
 
@@ -103,9 +102,10 @@ Többnyelvű jegyrendszer, amellyel jutalmakat lehet fizetni;
 A nemzetközi front-end komponensek értékesítési piaca;
 Sokkal többet szeretnénk tenni.
 
-Várjuk, hogy találkozzunk hasonló gondolkodású emberekkel az emberek hatalmas tengerében.
-Önkénteseket keresünk nyílt forráskód fejlesztésében és lefordított szövegek lektorálásában.
-Ha felkeltettük érdeklődését, kérjük [→ Kattintson ide a profil kitöltéséhez](https://ggl.link/i18n) , majd csatlakozzon [a levelezési listához](https://groups.google.com/u/2/g/i18n-site) .
-
 Hiszünk a nyílt forráskódban és a szeretet megosztásában,
 Üdvözöljük, hogy együtt teremtsünk határok nélküli jövőt.
+
+> [!NOTE]
+> Várjuk, hogy találkozzunk hasonló gondolkodású emberekkel az emberek hatalmas tengerében.
+> Önkénteseket keresünk nyílt forráskód fejlesztésében és lefordított szövegek lektorálásában.
+> Ha felkeltettük érdeklődését, kérjük [→ Kattintson ide a profil kitöltéséhez](https://ggl.link/i18n) , majd csatlakozzon [a levelezési listához](https://groups.google.com/u/2/g/i18n-site) .

@@ -33,11 +33,10 @@ Prevod je mogoče urejati.
 
 Spremenite izvirno besedilo in ga znova strojno prevedite, ročne spremembe prevoda ne bodo prepisane (če ta odstavek izvirnega besedila ni bil spremenjen).
 
-Naročeni smo na filozofijo `UNIX` " Vse je datoteka " in lahko upravljamo prevode v stotine jezikov brez uvajanja zapletenih in okornih rešitev na ravni podjetja.
-
-Za urejanje `Markdown` lahko uporabite najbolj znana orodja (vendar ne morete dodajati ali brisati odstavkov) in uporabite najbolj znan način za nadzor različic.
-
-Kodno bazo je mogoče ustvariti kot odprto kodo za jezikovne datoteke, s pomočjo `Pull Request` procesov pa lahko globalni uporabniki sodelujejo pri stalni optimizaciji prevodov. Brezhibna povezava [github](//github.com) In druge odprtokodne skupnosti.
+> [!TIP]
+> Naročeni smo na filozofijo `UNIX` " Vse je datoteka " in lahko upravljamo prevode v stotine jezikov brez uvajanja zapletenih in okornih rešitev na ravni podjetja.
+> Za urejanje `Markdown` lahko uporabite najbolj znana orodja (vendar ne morete dodajati ali brisati odstavkov) in uporabite najbolj znan način za nadzor različic.
+> Kodno bazo je mogoče ustvariti kot odprto kodo za jezikovne datoteke, s pomočjo `Pull Request` procesov pa lahko globalni uporabniki sodelujejo pri stalni optimizaciji prevodov. Brezhibna povezava [github](//github.com) In druge odprtokodne skupnosti.
 
 [→ Za navodila za uporabo preberite projektno dokumentacijo](/i18) .
 
@@ -103,9 +102,10 @@ Večjezični sistem vstopnic, ki lahko izplača nagrade;
 Prodajni trg za mednarodne sprednje komponente;
 Veliko več želimo storiti.
 
-Veselimo se srečanja s podobno mislečimi v ogromnem morju ljudi.
-Iščemo prostovoljce za sodelovanje pri razvoju odprtokodne kode in lektoriranju prevedenih besedil.
-Če vas zanima, [→ kliknite tukaj, da izpolnite svoj profil](https://ggl.link/i18n) in se nato pridružite [poštnemu seznamu](https://groups.google.com/u/2/g/i18n-site) za komunikacijo.
-
 Verjamemo v odprto kodo in radi delimo,
 Dobrodošli, da skupaj ustvarimo prihodnost brez meja.
+
+> [!NOTE]
+> Veselimo se srečanja s podobno mislečimi v ogromnem morju ljudi.
+> Iščemo prostovoljce za sodelovanje pri razvoju odprtokodne kode in lektoriranju prevedenih besedil.
+> Če vas zanima, [→ kliknite tukaj, da izpolnite svoj profil](https://ggl.link/i18n) in se nato pridružite [poštnemu seznamu](https://groups.google.com/u/2/g/i18n-site) za komunikacijo.

@@ -33,11 +33,10 @@ Tərcümə redaktə edilə bilər.
 
 Orijinal mətni dəyişdirin və onu yenidən maşınla tərcümə edin, tərcümədə əl ilə edilən dəyişikliklərin üzərinə yazılmayacaq (əgər orijinal mətnin bu paraqrafı dəyişdirilməyibsə).
 
-Biz `UNIX` fəlsəfəsinə abunəyik " Hər şey bir " və mürəkkəb və çətin müəssisə səviyyəli həllər təqdim etmədən yüzlərlə dilə tərcümələri idarə edə bilirik.
-
-Siz `Markdown` redaktə etmək üçün ən tanış vasitələrdən istifadə edə bilərsiniz (lakin abzasları əlavə edə və ya silə bilməzsiniz) və versiyaya nəzarət etmək üçün ən tanış üsuldan istifadə edə bilərsiniz.
-
-Dil faylları üçün açıq mənbə kimi kod bazası yaradıla bilər və `Pull Request` prosesinin köməyi ilə qlobal istifadəçilər tərcümələrin davamlı optimallaşdırılmasında iştirak edə bilərlər. Sorunsuz əlaqə [github](//github.com) digər açıq mənbə icmaları.
+> [!TIP]
+> Biz `UNIX` fəlsəfəsinə abunəyik " Hər şey bir " və mürəkkəb və çətin müəssisə səviyyəli həllər təqdim etmədən yüzlərlə dilə tərcümələri idarə edə bilirik.
+> Siz `Markdown` redaktə etmək üçün ən tanış vasitələrdən istifadə edə bilərsiniz (lakin abzasları əlavə edə və ya silə bilməzsiniz) və versiyaya nəzarət etmək üçün ən tanış üsuldan istifadə edə bilərsiniz.
+> Dil faylları üçün açıq mənbə kimi kod bazası yaradıla bilər və `Pull Request` prosesinin köməyi ilə qlobal istifadəçilər tərcümələrin davamlı optimallaşdırılmasında iştirak edə bilərlər. Sorunsuz əlaqə [github](//github.com) digər açıq mənbə icmaları.
 
 [→ İstifadəçi təlimatı üçün layihə sənədlərini oxuyun](/i18) .
 
@@ -103,9 +102,10 @@ Mükafat ödəyə bilən çoxdilli bilet sistemi;
 Beynəlxalq cəbhə komponentləri üçün satış bazarı;
 Etmək istədiyimiz daha çox şey var.
 
-Geniş insan dənizində həmfikir insanlarla görüşməyi səbirsizliklə gözləyirik.
-Biz açıq mənbə kodunun hazırlanmasında və tərcümə edilmiş mətnlərin korreksiyasında iştirak etmək üçün könüllülər axtarırıq.
-Əgər maraqlanırsınızsa, zəhmət olmasa [→ Profilinizi doldurmaq üçün bura klikləyin](https://ggl.link/i18n) və sonra ünsiyyət üçün [poçt siyahısına](https://groups.google.com/u/2/g/i18n-site) qoşulun.
-
 Biz açıq mənbəyə və sevgi paylaşımına inanırıq,
 Birlikdə sərhədsiz gələcək yaratmağa xoş gəlmisiniz.
+
+> [!NOTE]
+> Geniş insan dənizində həmfikir insanlarla görüşməyi səbirsizliklə gözləyirik.
+> Biz açıq mənbə kodunun hazırlanmasında və tərcümə edilmiş mətnlərin korreksiyasında iştirak etmək üçün könüllülər axtarırıq.
+> Əgər maraqlanırsınızsa, zəhmət olmasa [→ Profilinizi doldurmaq üçün bura klikləyin](https://ggl.link/i18n) və sonra ünsiyyət üçün [poçt siyahısına](https://groups.google.com/u/2/g/i18n-site) qoşulun.

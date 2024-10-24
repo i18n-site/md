@@ -2,9 +2,9 @@
 
 ## Inserir ou excluir linhas da tradução, resultando em uma tradução confusa
 
-Lembre-se, **o número de linhas da tradução deve corresponder exatamente ao número de linhas do texto original**
-
-Ou seja, ao ajustar manualmente a tradução, **não adicione ou exclua linhas**, pois isso causará uma desorganização no mapeamento entre a tradução e o texto original
+> [!WARN]
+> Lembre-se, **o número de linhas da tradução deve corresponder exatamente ao número de linhas do texto original**
+> Ou seja, ao ajustar manualmente a tradução, **não adicione ou exclua linhas**, pois isso causará uma desorganização no mapeamento entre a tradução e o texto original
 
 Se, por acidente, adicionar ou excluir linhas, ocasionando uma confusão, restaure a tradução para a versão anterior e execute novamente o `i18` para rearmazenar o mapeamento correto
 

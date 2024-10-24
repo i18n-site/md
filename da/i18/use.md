@@ -126,7 +126,8 @@ For eksempel betyder `_* ` i ovenstående konfigurationsfil, at filer, der start
 
 Oversættelsen kan redigeres. Rediger den originale tekst og maskinoversæt den igen, de manuelle ændringer af oversættelsen vil ikke blive overskrevet (hvis dette afsnit i den originale tekst ikke er blevet ændret).
 
-Men vær opmærksom på, at linjerne i oversættelsen og den originale tekst skal svare en til en. Det vil sige, du må ikke tilføje eller slette linjer, når du kompilerer oversættelsen. Ellers vil det forårsage forvirring i oversættelsesredigeringscachen.
+> [!WARN]
+> Linjerne i oversættelsen og den originale tekst skal svare en til en. Det vil sige, du må ikke tilføje eller slette linjer, når du kompilerer oversættelsen. Ellers vil det forårsage forvirring i oversættelsesredigeringscachen.
 
 Hvis noget går galt, se venligst [FAQ for løsninger.](/i18/qa#H1)
 

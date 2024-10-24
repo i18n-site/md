@@ -2,9 +2,9 @@
 
 ## Hoʻohui a Holoi Paha I Nā Laina O Ka Unuhi ʻana, I Mea E Huikau Ai Ka Unuhi
 
-E hoʻomanaʻo, **pono ka helu o nā laina i ka unuhi me nā laina o ka kikokikona kumu** .
-
-ʻO ia hoʻi, i ka hoʻoponopono lima ʻana i ka unuhi, **mai hoʻohui a holoi paha i nā laina o ka unuhi** , inā ʻaʻole e pilikia ka pilina ma waena o ka unuhi a me ka kikokikona kumu.
+> [!WARN]
+> E hoʻomanaʻo, **pono ka helu o nā laina i ka unuhi me nā laina o ka kikokikona kumu** .
+> ʻO ia hoʻi, i ka hoʻoponopono lima ʻana i ka unuhi, **mai hoʻohui a holoi paha i nā laina o ka unuhi** , inā ʻaʻole e pilikia ka pilina ma waena o ka unuhi a me ka kikokikona kumu.
 
 Inā hoʻohui a holoi ʻole paha ʻoe i kahi laina, e huikau ai, e ʻoluʻolu e hoʻihoʻi i ka unuhi i ka mana ma mua o ka hoʻololi ʻana, e holo hou i ka unuhi `i18` , a e hoʻopaʻa hou i ka palapala palapala pololei.
 

@@ -33,11 +33,10 @@ Ukuhumusha kuyahleleka.
 
 Shintsha umbhalo wasekuqaleni futhi uwuhumushe ngomshini futhi, ukuguqulwa mathupha kokuhumusha ngeke kubhalwe phezu (uma lesi sigaba sombhalo wokuqala singashintshwanga).
 
-Sibhalisela ifilosofi ethi `UNIX` " Yonke into iyifayela " futhi ingaphatha ukuhunyushwa kumakhulu ezilimi ngaphandle kokwethula izixazululo eziyinkimbinkimbi nezinzima zebhizinisi.
-
-Ungasebenzisa amathuluzi ajwayeleke kakhulu ukuhlela `Markdown` (kodwa awukwazi ukwengeza noma ukususa izigaba), futhi usebenzise indlela eyaziwa kakhulu yokulawula inguqulo.
-
-Isisekelo sekhodi singadalwa njengomthombo ovulekile wamafayela olimi, futhi ngosizo lwezinqubo ezingu `Pull Request` , abasebenzisi bomhlaba wonke bangabamba iqhaza ekuthuthukisweni okuqhubekayo kokuhumusha. Ukuxhumeka okungenamthungo [github](//github.com)
+> [!TIP]
+> Sibhalisela ifilosofi ethi `UNIX` " Yonke into iyifayela " futhi ingaphatha ukuhunyushwa kumakhulu ezilimi ngaphandle kokwethula izixazululo eziyinkimbinkimbi nezinzima zebhizinisi.
+> Ungasebenzisa amathuluzi ajwayeleke kakhulu ukuhlela `Markdown` (kodwa awukwazi ukwengeza noma ukususa izigaba), futhi usebenzise indlela eyaziwa kakhulu yokulawula inguqulo.
+> Isisekelo sekhodi singadalwa njengomthombo ovulekile wamafayela olimi, futhi ngosizo lwezinqubo ezingu `Pull Request` , abasebenzisi bomhlaba wonke bangabamba iqhaza ekuthuthukisweni okuqhubekayo kokuhumusha. Ukuxhumeka okungenamthungo [github](//github.com)
 
 [→ Ukuze uthole umhlahlandlela womsebenzisi, sicela ufunde imibhalo yephrojekthi](/i18) .
 
@@ -103,9 +102,10 @@ Uhlelo lwamathikithi ezilimi eziningi olungakhokha amabhonasi;
 Imakethe yokuthengisa yezingxenye ezihamba phambili zamazwe ngamazwe;
 Kuningi esifuna ukukwenza.
 
-Sibheke ngabomvu ukuhlangana nabantu abanomqondo ofanayo olwandle olukhulu lwabantu.
-Sibheka amavolontiya azobamba iqhaza ekwakhiweni kwekhodi yomthombo ovulekile kanye nokuhlolwa kombhalo okuhunyushiwe.
-Uma unentshisekelo, sicela [→ Chofoza lapha ukuze ugcwalise iphrofayela yakho](https://ggl.link/i18n) bese ujoyina [uhlu lwamakheli](https://groups.google.com/u/2/g/i18n-site) ukuze uxhumane.
-
 Sikholelwa emthonjeni ovulekile kanye nokwabelana ngothando,
 Siyakwamukela ukuze sakhe ikusasa elingenamngcele ndawonye.
+
+> [!NOTE]
+> Sibheke ngabomvu ukuhlangana nabantu abanomqondo ofanayo olwandle olukhulu lwabantu.
+> Sibheka amavolontiya azobamba iqhaza ekwakhiweni kwekhodi yomthombo ovulekile kanye nokuhlolwa kombhalo okuhunyushiwe.
+> Uma unentshisekelo, sicela [→ Chofoza lapha ukuze ugcwalise iphrofayela yakho](https://ggl.link/i18n) bese ujoyina [uhlu lwamakheli](https://groups.google.com/u/2/g/i18n-site) ukuze uxhumane.

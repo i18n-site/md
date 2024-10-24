@@ -2,9 +2,9 @@
 
 ## Çeviride Karışıklığa Neden Olacak Şekilde Çeviri Satırlarının Eklenmesi Veya Silinmesi
 
-**Çevirideki satır sayısının orijinal metindeki satır sayısına karşılık gelmesi gerektiğini** unutmayın.
-
-Yani çeviriyi manuel olarak ayarlarken **çeviriye satır eklemeyin veya silmeyin** , aksi takdirde çeviri ile orijinal metin arasındaki eşleme ilişkisi bozulur.
+> [!WARN]
+> **Çevirideki satır sayısının orijinal metindeki satır sayısına karşılık gelmesi gerektiğini** unutmayın.
+> Yani çeviriyi manuel olarak ayarlarken **çeviriye satır eklemeyin veya silmeyin** , aksi takdirde çeviri ile orijinal metin arasındaki eşleme ilişkisi bozulur.
 
 Yanlışlıkla bir satır ekler veya silerseniz, karışıklığa neden olursanız, lütfen değişiklik yapmadan önce çeviriyi sürüme geri yükleyin, `i18` çevirisini yeniden çalıştırın ve doğru eşlemeyi yeniden önbelleğe alın.
 

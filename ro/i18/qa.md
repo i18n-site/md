@@ -2,9 +2,9 @@
 
 ## Adăugarea Sau Ștergerea Liniilor Din Traducere, Rezultând Confuzie În Traducere
 
-Rețineți că **numărul de rânduri din traducere trebuie să corespundă cu rândurile din textul original** .
-
-Adică, atunci când ajustați manual traducerea, **nu adăugați sau ștergeți linii ale traducerii** , altfel relația de mapare dintre traducere și textul original va fi dezordonată.
+> [!WARN]
+> Rețineți că **numărul de rânduri din traducere trebuie să corespundă cu rândurile din textul original** .
+> Adică, atunci când ajustați manual traducerea, **nu adăugați sau ștergeți linii ale traducerii** , altfel relația de mapare dintre traducere și textul original va fi dezordonată.
 
 Dacă adăugați sau ștergeți din greșeală o linie, provocând confuzie, vă rugăm să restaurați traducerea la versiunea înainte de modificare, executați din nou traducerea `i18` și memorați din nou maparea corectă.
 

@@ -126,7 +126,8 @@ Näiteks `_* ` ülaltoodud konfiguratsioonifailis tähendab, et `_` ga algavaid 
 
 Tõlge on redigeeritav. Muuda originaalteksti ja tõlgi see uuesti, käsitsi tehtud tõlkemuudatusi üle ei kirjutata (kui seda originaalteksti lõiku pole muudetud).
 
-Kuid pange tähele, et tõlke ja originaalteksti read peavad vastama ühele. See tähendab, et tõlke koostamisel ärge lisage ega kustutage ridu. Vastasel juhul põhjustab see segadust tõlke redigeerimise vahemälus.
+> [!WARN]
+> Tõlke ja originaalteksti read peavad vastama ühele. See tähendab, et tõlke koostamisel ärge lisage ega kustutage ridu. Vastasel juhul põhjustab see segadust tõlke redigeerimise vahemälus.
 
 Kui midagi läheb valesti, vaadake [lahendusi KKK-st.](/i18/qa#H1)
 

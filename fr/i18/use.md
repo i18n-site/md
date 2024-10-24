@@ -126,7 +126,8 @@ Par exemple, `_* ` dans le fichier de configuration ci-dessus signifie que les f
 
 La traduction est modifiable. Modifiez le texte original et traduisez-le à nouveau automatiquement, les modifications manuelles de la traduction ne seront pas écrasées (si ce paragraphe du texte original n'a pas été modifié).
 
-Mais veuillez noter que les lignes de la traduction et le texte original doivent correspondre les uns aux autres. Autrement dit, n'ajoutez ni ne supprimez de lignes lors de la compilation de la traduction. Sinon, cela entraînerait une confusion dans le cache d'édition de traduction.
+> [!WARN]
+> Les lignes de la traduction et le texte original doivent correspondre une à une. Autrement dit, n'ajoutez ni ne supprimez de lignes lors de la compilation de la traduction. Sinon, cela entraînerait une confusion dans le cache d'édition de traduction.
 
 Si quelque chose ne va pas, veuillez vous référer à [la FAQ pour trouver des solutions.](/i18/qa#H1)
 

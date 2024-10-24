@@ -33,11 +33,10 @@ Tarjima tahrirlanishi mumkin.
 
 Asl matnni o'zgartiring va uni mashinada qayta tarjima qiling, tarjimaga qo'lda kiritilgan o'zgartirishlar qayta yozilmaydi (agar asl matnning ushbu paragrafi o'zgartirilmagan bo'lsa).
 
-Biz `UNIX` falsafasiga obuna bo'lamiz " Hamma narsa " fayldir va korporativ darajadagi murakkab va mashaqqatli yechimlarni kiritmasdan turib, yuzlab tillarga tarjimalarni boshqarishimiz mumkin.
-
-`Markdown` tahrirlash uchun siz eng tanish vositalardan foydalanishingiz mumkin (lekin siz paragraflarni qo'sha olmaysiz yoki o'chira olmaysiz) va versiyani boshqarishning eng tanish usulidan foydalanishingiz mumkin.
-
-Kod bazasi til fayllari uchun ochiq manba sifatida yaratilishi mumkin va `Pull Request` jarayonlari yordamida global foydalanuvchilar tarjimalarni uzluksiz optimallashtirishda ishtirok etishlari mumkin. Uzluksiz ulanish [github](//github.com) boshqa ochiq manbali jamoalar.
+> [!TIP]
+> Biz `UNIX` falsafasiga obuna bo'lamiz " Hamma narsa " fayldir va korporativ darajadagi murakkab va mashaqqatli yechimlarni kiritmasdan turib, yuzlab tillarga tarjimalarni boshqarishimiz mumkin.
+> `Markdown` tahrirlash uchun siz eng tanish vositalardan foydalanishingiz mumkin (lekin siz paragraflarni qo'sha olmaysiz yoki o'chira olmaysiz) va versiyani boshqarishning eng tanish usulidan foydalanishingiz mumkin.
+> Kod bazasi til fayllari uchun ochiq manba sifatida yaratilishi mumkin va `Pull Request` jarayonlari yordamida global foydalanuvchilar tarjimalarni uzluksiz optimallashtirishda ishtirok etishlari mumkin. Uzluksiz ulanish [github](//github.com) boshqa ochiq manbali jamoalar.
 
 [→ Foydalanuvchi qoʻllanmasi uchun loyiha hujjatlarini oʻqing](/i18) .
 
@@ -103,9 +102,10 @@ Bonuslarni to'lay oladigan ko'p tilli chipta tizimi;
 Xalqaro front-end komponentlarini sotish bozori;
 Biz qilmoqchi bo'lgan yana ko'p narsa bor.
 
-Biz keng odamlar dengizida hamfikrlar bilan uchrashishni orziqib kutamiz.
-Ochiq manba kodini ishlab chiqish va tarjima qilingan matnlarni tekshirishda ishtirok etish uchun ko‘ngillilarni qidiramiz.
-Agar sizni qiziqtirsa, iltimos [→ Profilingizni to'ldirish uchun shu yerni bosing](https://ggl.link/i18n) va keyin aloqa uchun [pochta ro'yxatiga](https://groups.google.com/u/2/g/i18n-site) qo'shiling.
-
 Biz ochiq manba va sevgi almashishga ishonamiz,
 Birgalikda chegarasiz kelajakni yaratishga xush kelibsiz.
+
+> [!NOTE]
+> Biz keng odamlar dengizida hamfikrlar bilan uchrashishni orziqib kutamiz.
+> Ochiq manba kodini ishlab chiqish va tarjima qilingan matnlarni tekshirishda ishtirok etish uchun ko‘ngillilarni qidiramiz.
+> Agar sizni qiziqtirsa, iltimos [→ Profilingizni to'ldirish uchun shu yerni bosing](https://ggl.link/i18n) va keyin aloqa uchun [pochta ro'yxatiga](https://groups.google.com/u/2/g/i18n-site) qo'shiling.

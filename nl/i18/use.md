@@ -126,7 +126,8 @@ Bijvoorbeeld, `_*` in het configuratiebestand betekent dat bestanden die beginne
 
 De vertaling kan worden bewerkt. Als de oorspronkelijke tekst wordt aangepast en opnieuw machinaal vertaald, worden handmatige wijzigingen in de vertaling niet overschreven (tenzij de oorspronkelijke tekst is aangepast).
 
-Let echter op: de vertaal- en oorspronkelijke tekstregels moeten één op één overeenkomen. Dit betekent dat er geen regels moeten worden toegevoegd of verwijderd bij het samenstellen van de vertaling, omdat dit verwarring kan veroorzaken in de vertaalbewerkingcache.
+> [!WARN]
+> De vertaalsregels moeten één op één overeenkomen met de oorspronkelijke tekst. Dit betekent dat geen regels toegevoegd of verwijderd moeten worden tijdens het opstellen van de vertaling. Anders kan dit verwarring veroorzaken in de vertaalbewerking cache.
 
 Als er problemen optreden, raadpleeg dan [de oplossingen in de veelgestelde vragen](/i18/qa#H1)
 

@@ -2,9 +2,9 @@
 
 ## Aldono Aŭ Forigo De Linioj De La Traduko, Rezultigante Konfuzon en La Traduko
 
-Memoru, **la nombro da linioj en la traduko devas respondi al la linioj en la originala teksto** .
-
-Tio estas, dum mane alĝustigante la tradukon, **ne aldonu aŭ forigu liniojn de la traduko** , alie la mapa rilato inter la traduko kaj la originala teksto estos malorda.
+> [!WARN]
+> Memoru, **la nombro da linioj en la traduko devas respondi al la linioj en la originala teksto** .
+> Tio estas, dum mane alĝustigante la tradukon, **ne aldonu aŭ forigu liniojn de la traduko** , alie la mapa rilato inter la traduko kaj la originala teksto estos malorda.
 
 Se vi hazarde aldonas aŭ forigas linion, kaŭzante konfuzon, bonvolu restarigi la tradukon al la versio antaŭ modifo, rulu `i18` tradukon denove, kaj rememoru la ĝustan mapadon.
 

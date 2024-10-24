@@ -2,9 +2,9 @@
 
 ## Shtimi Ose Fshirja E Rreshtave Të Përkthimit, Duke Rezultuar Në Konfuzion Në Përkthim
 
-Mbani mend, **numri i rreshtave në përkthim duhet të korrespondojë me rreshtat në tekstin origjinal** .
-
-Kjo do të thotë, kur rregulloni manualisht përkthimin, **mos shtoni ose fshini rreshta të përkthimit** , përndryshe marrëdhënia e hartës midis përkthimit dhe tekstit origjinal do të prishet.
+> [!WARN]
+> Mbani mend, **numri i rreshtave në përkthim duhet të korrespondojë me rreshtat në tekstin origjinal** .
+> Kjo do të thotë, kur rregulloni manualisht përkthimin, **mos shtoni ose fshini rreshta të përkthimit** , përndryshe marrëdhënia e hartës midis përkthimit dhe tekstit origjinal do të prishet.
 
 Nëse aksidentalisht shtoni ose fshini një rresht, duke shkaktuar konfuzion, ju lutemi rivendosni përkthimin në versionin përpara modifikimit, ekzekutoni përsëri përkthimin `i18` dhe rivendosni memorien e duhur të hartës së saktë.
 

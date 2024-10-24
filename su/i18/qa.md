@@ -2,9 +2,9 @@
 
 ## Nambahkeun Atanapi Ngahapus Baris Tarjamahan, Nyababkeun Kabingungan Dina Tarjamahan
 
-Inget, **jumlah garis dina tarjamahan kudu luyu jeung garis dina téks aslina** .
-
-Nyaéta, nalika nyaluyukeun tarjamahan sacara manual, **ulah nambihan atanapi mupus garis tarjamahan** , upami henteu hubungan pemetaan antara tarjamahan sareng téks asli bakal kaganggu.
+> [!WARN]
+> Inget, **jumlah garis dina tarjamahan kudu luyu jeung garis dina téks aslina** .
+> Nyaéta, nalika nyaluyukeun tarjamahan sacara manual, **ulah nambihan atanapi mupus garis tarjamahan** , upami henteu hubungan pemetaan antara tarjamahan sareng téks asli bakal kaganggu.
 
 Upami anjeun teu kahaja nambihan atanapi ngahapus garis, nyababkeun kabingungan, mangga balikkeun tarjamahan kana vérsi sateuacan modifikasi, jalankeun `i18` tarjamahan deui, sareng cache ulang pemetaan anu leres.
 

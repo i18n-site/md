@@ -126,7 +126,8 @@ Exempli gratia, `_* ` in schemate de configuratione supra significat tabulas ab 
 
 Versio est editabilis. Textum originalem et machinae iterum transferre, modificationes manuales ad translationem non erunt overscripta (si haec paragraphus textus originalis non mutatus est).
 
-Sed nota quod lineae translationis et textus originalis uni respondere debent. Hoc est, lineas cum translatione componendis non addere vel delere. Alioquin confusionem facient in translatione edendi thesaurum.
+> [!WARN]
+> Lineae translationis et textus originalis uni respondere debent. Hoc est, lineas cum translatione componendis non addere vel delere. Alioquin confusionem facient in translatione thesauri edendi.
 
 Si aliquid errat, [FAQ solutiones referre placet.](/i18/qa#H1)
 

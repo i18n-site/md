@@ -2,9 +2,9 @@
 
 ## Het toevoegen of verwijderen van regels in de vertaling, wat leidt tot een verwarding in de vertaling
 
-Houd er rekening mee dat **de regels van de vertaling één op één moeten overeenkomen met de regels van de oorspronkelijke tekst**
-
-Dit betekent dat bij handmatige aanpassing van de vertaling **geen regels toegevoegd of verwijderd mogen worden**, anders raakt de overeenkomst tussen vertaling en oorspronkelijke tekst in de war
+> [!WARN]
+> Houd er rekening mee dat **de regels van de vertaling één op één moeten overeenkomen met de regels van de oorspronkelijke tekst**
+> Dit betekent dat bij handmatige aanpassing van de vertaling **geen regels toegevoegd of verwijderd mogen worden**, anders raakt de overeenkomst tussen vertaling en oorspronkelijke tekst in de war
 
 Als u per ongeluk een regel toevoegt of verwijdert, wat leidt tot verwarring, herstel dan de vertaling naar de versie vóór de wijziging en voer opnieuw `i18` vertaling uit om de juiste mapping opnieuw in de cache te plaatsen
 

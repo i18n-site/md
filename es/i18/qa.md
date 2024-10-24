@@ -2,9 +2,9 @@
 
 ## Errores por agregar o eliminar líneas en la traducción, lo que resulta en un desorden
 
-Recuerde, **el número de líneas de la traducción debe coincidir exactamente con el número de líneas del texto original**.
-
-Esto significa que al ajustar manualmente la traducción, **no debe añadir ni eliminar líneas**, ya que esto causaría un desorden en la correspondencia entre la traducción y el original.
+> [!WARN]
+> Recuerde, **el número de líneas de la traducción debe coincidir exactamente con el número de líneas del texto original**.
+> Esto significa que al ajustar manualmente la traducción, **no debe añadir ni eliminar líneas**, ya que esto causaría un desorden en la correspondencia entre la traducción y el original.
 
 Si accidentalmente añade o elimina líneas, provocando un desorden, vuelva a la versión anterior de la traducción, ejecute nuevamente la traducción `i18` y actualice la cache de la asignación correcta.
 

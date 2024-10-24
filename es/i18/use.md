@@ -126,7 +126,8 @@ Por ejemplo, `_*` en el archivo de configuración significa que los archivos que
 
 La traducción es editable. Si modificas el texto original y vuelves a traducir, las modificaciones manuales no se sobrescribirán (si el párrafo original no ha sido modificado).
 
-pero tenga en cuenta que las líneas de la traducción y del texto original deben corresponder una a una. Es decir, no se deben agregar ni eliminar líneas al editar la traducción, de lo contrario, causará una confusión en el caché de edición de la traducción.
+> [!WARN]
+> Las líneas de la traducción deben corresponder una a una con las del texto original. Es decir, al realizar la traducción, no se deben agregar ni eliminar líneas. De otro modo, podría generarse una confusión en el缓存 de edición de la traducción.
 
 Si hay algún problema, consulte [las soluciones en las preguntas frecuentes](/i18/qa#H1)
 

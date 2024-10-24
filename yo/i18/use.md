@@ -126,7 +126,8 @@ Fun apẹẹrẹ, `_* ` ninu faili iṣeto ni oke tumọ si pe awọn faili ti o
 
 Itumọ jẹ ṣiṣatunṣe. Ṣe atunṣe ọrọ atilẹba ati ẹrọ-tumọ lẹẹkansii, awọn iyipada afọwọṣe si itumọ naa kii yoo tun kọ (ti o ba jẹ pe paragirafi yii ti ọrọ atilẹba ko ti yipada).
 
-Ṣugbọn jọwọ ṣakiyesi pe awọn ila ti itumọ ati ọrọ atilẹba gbọdọ baamu ọkan si ọkan. Iyẹn ni, maṣe ṣafikun tabi paarẹ awọn laini rẹ nigbati o ba n ṣajọ itumọ naa. Bibẹẹkọ, yoo fa idarudapọ ninu kaṣe ṣiṣatunṣe itumọ.
+> [!WARN]
+> Awọn ila ti itumọ ati ọrọ atilẹba gbọdọ ba ọkan si ọkan. Iyẹn ni, maṣe ṣafikun tabi paarẹ awọn laini rẹ nigbati o ba n ṣajọ itumọ naa. Bibẹẹkọ, yoo fa idarudapọ ninu kaṣe ṣiṣatunṣe itumọ.
 
 Ti nkan kan ba jẹ aṣiṣe, jọwọ tọka si [FAQ fun awọn ojutu.](/i18/qa#H1)
 

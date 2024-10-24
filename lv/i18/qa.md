@@ -2,9 +2,9 @@
 
 ## Tulkojuma Rindu Pievienošana Vai Dzēšana, Kā Rezultātā Rodas Neskaidrības Tulkojumā
 
-Atcerieties, **ka rindu skaitam tulkojumā ir jāatbilst oriģinālā teksta rindiņām** .
-
-Tas nozīmē, ka manuāli pielāgojot tulkojumu, **nepievienojiet un nedzēsiet tulkojuma rindiņas** , pretējā gadījumā tiks izjauktas kartēšanas attiecības starp tulkojumu un oriģinālo tekstu.
+> [!WARN]
+> Atcerieties, **ka rindu skaitam tulkojumā ir jāatbilst oriģinālā teksta rindiņām** .
+> Tas nozīmē, ka manuāli pielāgojot tulkojumu, **nepievienojiet un nedzēsiet tulkojuma rindiņas** , pretējā gadījumā tiks izjauktas kartēšanas attiecības starp tulkojumu un oriģinālo tekstu.
 
 Ja nejauši pievienojat vai izdzēšat rindiņu, radot neskaidrības, lūdzu, pirms modifikācijas atjaunojiet tulkojumu versijā, vēlreiz palaidiet `i18` tulkojumu un atkārtoti saglabājiet pareizo kartējumu kešatmiņā.
 

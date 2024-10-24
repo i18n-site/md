@@ -126,7 +126,8 @@ Mwachitsanzo, `_* ` mu fayilo yosinthidwa pamwambapa ikutanthauza kuti mafayilo 
 
 Zomasulirazo ndi zosinthidwa. Sinthani mawu oyambilira ndikumasuliranso pamakina, zosintha pamanja zomasulira sizidzalembedwanso (ngati ndime iyi yamawu oyamba sinasinthidwe).
 
-Koma chonde dziwani kuti mizere yomasulira ndi mawu oyamba ayenera kugwirizana ndi umodzi ndi umodzi. Ndiko kuti, musawonjezere kapena kuchotsa mizere polemba zomasulira. Kupanda kutero, zitha kuyambitsa chisokonezo mu kachesi yosintha yomasulira.
+> [!WARN]
+> Mizere yomasulira ndi malemba oyambirira ayenera kugwirizana ndi umodzi ndi umodzi. Ndiko kuti, musawonjezere kapena kuchotsa mizere polemba zomasulira. Kupanda kutero, zitha kuyambitsa chisokonezo mu kachesi yosintha yomasulira.
 
 Ngati china chake sichikuyenda bwino, chonde onani [FAQ kuti mupeze mayankho.](/i18/qa#H1)
 

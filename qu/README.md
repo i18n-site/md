@@ -33,11 +33,10 @@ Chay tikrayqa allichanapaqmi.
 
 Ñawpaq qillqasqata tikray hinaspa hukmanta makinawan tikray, tikraypi makiwan tikraykunaqa manam hawanpi qillqasqachu kanqa (ñawpaq qillqasqapa kay parrafon mana tikrasqa kaptinqa).
 
-`UNIX` " "
-
-Aswan riqsisqa yanapakuykunata llamk'achiy atikunki `Markdown` llamk'achinaykipaq (ichaqa mana parrafokunata yapayta utaq qulluyta atikunkichu), chaymanta aswan riqsisqa ñanta llamk'achiyta llamk'achiy laya kamachiyta ruwanapaq.
-
-Huk chiqap sapsi simi willañiqikunapaq kichasqa qullqi hina rurasqa kanman, `Pull Request` ruranakunap yanapayninwantaq, pachantinpi llamk'aqkuna tikraykunata sapa kuti allinchaypi yanapakunkuman. Mana llamk'ayniyuq tinkiynin [github](//github.com) Hinallataq huk kichasqa qullqiyuq ayllukuna.
+> [!TIP]
+> `UNIX` " "
+> Aswan riqsisqa yanapakuykunata llamk'achiy atikunki `Markdown` llamk'achinaykipaq (ichaqa mana parrafokunata yapayta utaq qulluyta atikunkichu), chaymanta aswan riqsisqa ñanta llamk'achiyta llamk'achiy laya kamachiyta ruwanapaq.
+> Huk chiqap sapsi simi willañiqikunapaq kichasqa qullqi hina rurasqa kanman, `Pull Request` ruranakunap yanapayninwantaq, pachantinpi llamk'aqkuna tikraykunata sapa kuti allinchaypi yanapakunkuman. Mana llamk'ayniyuq tinkiynin [github](//github.com) Hinallataq huk kichasqa qullqiyuq ayllukuna.
 
 [→ Ruwaqpa pusaqninpaqqa, ama hina kaspa, proyecto qillqakunata ñawiriy](/i18) .
 
@@ -103,9 +102,10 @@ Askha simipi boletokuna churanapaq sistema, chaymi recompensakunata pagayta atin
 Huk rantiy qhatu internacional front-end componentes kaqpaq;
 Astawanraqmi ruwayta munanchik.
 
-Runakunapa hatun lamar quchanpi kaqlla yuyayniyuq runakunawan tupayta suyayku.
-Maskachkayku voluntariokunata, kichasqa qullqisapa código ruwaypi, tikrasqa qillqakuna allichaypi yanapakunankupaq.
-Sichus munanki, ama hina kaspa [→ Kaypi ñit'iy perfilniyki hunt'achinaykipaq](https://ggl.link/i18n) chaymanta chaymanta [lista de correo nisqaman](https://groups.google.com/u/2/g/i18n-site) yaykuy willanaykipaq.
-
 Kichasqa qullqisapa kaqpi chaymanta munakuy rakinakuypi iñiyku,
 Allin hamusqaykichik kuska mana fronterayuq hamuq pachata paqarichinapaq.
+
+> [!NOTE]
+> Runakunapa hatun lamar quchanpi kaqlla yuyayniyuq runakunawan tupayta suyayku.
+> Maskachkayku voluntariokunata, kichasqa qullqisapa código ruwaypi, tikrasqa qillqakuna allichaypi yanapakunankupaq.
+> Sichus munanki, ama hina kaspa [→ Kaypi ñit'iy perfilniyki hunt'achinaykipaq](https://ggl.link/i18n) chaymanta chaymanta [lista de correo nisqaman](https://groups.google.com/u/2/g/i18n-site) yaykuy willanaykipaq.

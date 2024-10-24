@@ -2,9 +2,9 @@
 
 ## Přidávání Nebo Odstraňování Řádků Překladu, Což Vede Ke Zmatkům v Překladu
 
-Pamatujte, **že počet řádků v překladu musí odpovídat řádkům v původním textu** .
-
-To znamená, že při ruční úpravě překladu **nepřidávejte ani neodstraňujte řádky překladu** , jinak bude mapovací vztah mezi překladem a původním textem narušen.
+> [!WARN]
+> Pamatujte, **že počet řádků v překladu musí odpovídat řádkům v původním textu** .
+> To znamená, že při ruční úpravě překladu **nepřidávejte ani neodstraňujte řádky překladu** , jinak bude mapovací vztah mezi překladem a původním textem narušen.
 
 Pokud omylem přidáte nebo odstraníte řádek, což způsobí zmatek, obnovte prosím překlad na verzi před úpravou, spusťte znovu překlad `i18` a znovu uložte správné mapování.
 

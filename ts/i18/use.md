@@ -126,7 +126,8 @@ Xikombiso, `_* ` eka fayili ya vuhlanganisi leyi nga laha henhla swi vula leswak
 
 Vuhundzuluxeri bya kona bya hleriwa. Cinca tsalwa ro sungula ivi u ri hundzuluxela hi muchini nakambe, ku cinca loku endliweke hi voko eka vuhundzuluxeri a ku nge tsariwi ehenhla (loko ndzimana leyi ya tsalwa ro sungula yi nga cinciwanga).
 
-Kambe hi kombela mi xiya leswaku mitila ya vuhundzuluxeri ni tsalwa ro sungula swi fanele swi fambisana ni yin’we. Hi leswaku, u nga engeteli kumbe ku susa mitila loko u hlengeleta vuhundzuluxeri. Handle ka sweswo, swi ta vanga mpfilumpfilu eka cache yo hlela vuhundzuluxeri.
+> [!WARN]
+> Mitila ya vuhundzuluxeri ni tsalwa ro sungula swi fanele swi fambisana ni yin’we ni yin’we. Hi leswaku, u nga engeteli kumbe ku susa mitila loko u hlengeleta vuhundzuluxeri. Handle ka sweswo, swi ta vanga mpfilumpfilu eka cache yo hlela vuhundzuluxeri.
 
 Loko ku ri na leswi nga famba kahle, hi kombela u languta eka [FAQ ku kuma swintshuxo.](/i18/qa#H1)
 

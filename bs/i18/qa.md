@@ -2,9 +2,9 @@
 
 ## Dodavanje Ili Brisanje Redova Prijevoda, Što Dovodi Do Zabune U Prijevodu
 
-Zapamtite, **broj redova u prijevodu mora odgovarati redovima u originalnom tekstu** .
-
-Odnosno, kada ručno podešavate prevod, **nemojte dodavati ili brisati redove prevoda** , inače će odnos mapiranja između prevoda i originalnog teksta biti poremećen.
+> [!WARN]
+> Zapamtite, **broj redova u prijevodu mora odgovarati redovima u originalnom tekstu** .
+> Odnosno, kada ručno podešavate prevod, **nemojte dodavati ili brisati redove prevoda** , inače će odnos mapiranja između prevoda i originalnog teksta biti poremećen.
 
 Ako slučajno dodate ili izbrišete liniju, što uzrokuje zabunu, vratite prijevod na verziju prije izmjene, pokrenite `i18` prijevod ponovo i ponovo keširajte ispravno mapiranje.
 

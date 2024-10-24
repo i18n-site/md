@@ -126,7 +126,8 @@ Fakkeenyaaf, faayilii qindeessaa armaan olii keessatti `_* ` jechuun faayilii `_
 
 Hiikkaan gulaalamuu danda'a. Barreeffama jalqabaa fooyyesiitii irra deebi'ii maashinii-hiikkaa, fooyya'iinsi harkaan hiikkaa irratti hin barreeffamu (yoo keeyyatni barruu jalqabaa kun hin fooyya'in).
 
-Garuu sararoonni hiikkaa fi barreeffamni jalqabaa tokko tokkoon walsimuu akka qaban hubadhaa. Kunis, yeroo hiikkaa qindeessitu sararoota hin dabalin ykn hin haqin. Yoo kana hin taane, kaachota gulaaluu hiikkaa keessatti burjaajii ni fida.
+> [!WARN]
+> Sararoonni hiikkaa fi barreeffamni jalqabaa tokko tokkoon walsimuu qabu. Kunis, yeroo hiikkaa qindeessitu sararoota hin dabalin ykn hin haqin. Yoo kana hin taane, kaachota gulaaluu hiikkaa keessatti burjaajii ni fida.
 
 Yoo wanti tokko dogoggora ta'e, [furmaata argachuuf FAQ ilaalaa.](/i18/qa#H1)
 

@@ -33,11 +33,10 @@ Käännöstä voidaan muokata.
 
 Alkuperäisen tekstin muokkaaminen ei korvata käännöksen manuaalisia muutoksia uudessa konekäännöksessä (jos alkuperäistä kappaletta ei ole muokattu).
 
-Me hyväksymme `UNIX`-filosofian "Kaikki on tiedosto" ja voimme hallita satojen kielten käännöksiä ilman monimutkaisia yritystason ratkaisuja.
-
-Voit käyttää tutuimpia työkaluja `Markdown`-muokkaamiseen (mutta et voi lisätä tai poistaa kappaleita) ja tutuinta tapaa tehdä versionhallinta.
-
-Voit luoda kielitiedostoille avoimen lähdekoodin koodikannan ja `Pull Request` -prosessien avulla globaalit käyttäjät voivat osallistua käännösten jatkuvaan optimointiin. Saumaton yhteys [GitHub](//github.com) ja muihin avoimen lähdekoodin yhteisöihin.
+> [!TIP]
+> Me hyväksymme `UNIX`-filosofian "Kaikki on tiedosto" ja voimme hallita satojen kielten käännöksiä ilman monimutkaisia yritystason ratkaisuja.
+> Voit käyttää tutuimpia työkaluja `Markdown`-muokkaamiseen (mutta et voi lisätä tai poistaa kappaleita) ja tutuinta tapaa tehdä versionhallinta.
+> Voit luoda kielitiedostoille avoimen lähdekoodin koodikannan ja `Pull Request` -prosessien avulla globaalit käyttäjät voivat osallistua käännösten jatkuvaan optimointiin. Saumaton yhteys [GitHub](//github.com) ja muihin avoimen lähdekoodin yhteisöihin.
 
 [→ Lue käyttöopas projektin dokumentaatiosta](/i18).
 
@@ -103,9 +102,10 @@ Tukee monikielisiä palkkiotöitä;
 Kansainvälisten käyttöliittymäkomponenttien markkinat;
 Meillä on paljon muuta, mitä haluamme tehdä.
 
-Odotamme innolla, että tapaamme samanhenkisiä ihmisiä valtavassa ihmismassassa.
-Haemme vapaaehtoisia osallistumaan avoimen lähdekoodin kehittämiseen ja käännettyjen tekstien oikolukuihin.
-Jos olet kiinnostunut, [→ täytä profiilisi tästä](https://ggl.link/i18n) ja liity sitten [postituslistalle](https://groups.google.com/u/2/g/i18n-site) yhteydenpitoa varten.
-
 Uskomme avoimeen lähdekoodiin ja rakkauteen jakamista,
 Tervetuloa mukaan luomaan rajatonta tulevaisuutta yhdessä.
+
+> [!NOTE]
+> Odotamme innolla, että tapaamme samanhenkisiä ihmisiä valtavassa ihmismassassa.
+> Haemme vapaaehtoisia osallistumaan avoimen lähdekoodin kehittämiseen ja käännettyjen tekstien oikolukuihin.
+> Jos olet kiinnostunut, [→ täytä profiilisi tästä](https://ggl.link/i18n) ja liity sitten [postituslistalle](https://groups.google.com/u/2/g/i18n-site) yhteydenpitoa varten.

@@ -2,9 +2,9 @@
 
 ## Kobakisa to Kolongola Milɔngɔ Ya Libongoli, Mpe Yango Ebimisaka Mobulungano Na Libongoli
 
-Kobosana te ete **motángo ya milɔngɔ oyo ezali na libongoli esengeli kokokana na milɔngɔ oyo ezali na makomi ya ebandeli** .
-
-Elingi koloba, ntango ozali kobongisa libongoli na mabɔkɔ, **kobakisa to kolongola milɔngɔ ya libongoli te** , soki te boyokani ya kosala karte kati na libongoli mpe makomi ya ebandeli ekozala na molɔngɔ te.
+> [!WARN]
+> Kobosana te ete **motángo ya milɔngɔ oyo ezali na libongoli esengeli kokokana na milɔngɔ oyo ezali na makomi ya ebandeli** .
+> Elingi koloba, ntango ozali kobongisa libongoli na mabɔkɔ, **kobakisa to kolongola milɔngɔ ya libongoli te** , soki te boyokani ya kosala karte kati na libongoli mpe makomi ya ebandeli ekozala na molɔngɔ te.
 
 Soki obakisi to olongoli ligne moko na mbalakaka, oyo esali confusion, zongisa libongoli na version avant ya modification, sala lisusu `i18` traduction, mpe zongela cache ya cartographie ya malamu.
 

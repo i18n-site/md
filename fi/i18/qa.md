@@ -2,9 +2,9 @@
 
 ## Käännöksen rivien lisääminen tai poistaminen voi aiheuttaa sekavaa käännöstä
 
-Muista, **käännöksen rivimäärän on vastattava alkuperäisen tekstin rivejä**.
-
-Tämä tarkoittaa, että käsitellessäsi käännöstä manuaalisesti, **älä lisää tai poista käännöksen rivejä**, muuten käännöksen ja alkuperäisen tekstin välinen mappaus häiriintyy.
+> [!WARN]
+> Muista, **käännöksen rivimäärän on vastattava alkuperäisen tekstin rivejä**.
+> Tämä tarkoittaa, että käsitellessäsi käännöstä manuaalisesti, **älä lisää tai poista käännöksen rivejä**, muuten käännöksen ja alkuperäisen tekstin välinen mappaus häiriintyy.
 
 Jos lisäät tai poistat rivin vahingossa ja aiheutat sekavaa, palauta käännös muokkauksen edelliseen versioon, suorita `i18`-käännös uudelleen ja tallenna oikea mappaus välimuistiin.
 

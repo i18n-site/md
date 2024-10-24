@@ -33,11 +33,10 @@ Woate ŋu atrɔ asi le gɔmeɖeɖea ŋu.
 
 Trɔ asi le nuŋɔŋlɔ gbãtɔa ŋu eye nàgaɖe egɔme kple mɔ̃ ake, womaŋlɔ asitɔtrɔ siwo wowɔ kple asi le gɔmeɖeɖea ŋu o (ne wometrɔ asi le nuŋɔŋlɔ gbãtɔa ƒe memama sia ŋu o).
 
-Míewɔa nudɔdɔ " xexemenunya si nye `UNIX` "
-
-Àte ŋu azã dɔwɔnu siwo nènya wu atsɔ atrɔ asi le `Markdown` ŋu (gake màte ŋu atsɔ memamawo akpe ɖe eŋu alo atutu wo o), eye nàzã mɔ si nènya nyuie wu atsɔ awɔ gɔmeɖeɖea dzi kpɔkpɔ.
-
-Woateŋu awɔ kɔda ƒe gɔmeɖoanyi abe dzɔtsoƒe si woʋu ɖi na gbegbɔgblɔ ƒe faɛlwo, eye to dɔwɔwɔ `Pull Request` ƒe kpekpeɖeŋu me la, xexeame katã zãlawo ateŋu akpɔ gome le gbegɔmeɖeɖewo ƒe nyonyome si yia edzi me. Seamless connection [github](//github.com) Eye nuto bubu siwo le ʋuʋu ɖi.
+> [!TIP]
+> Míewɔa nudɔdɔ " xexemenunya si nye `UNIX` "
+> Àte ŋu azã dɔwɔnu siwo nènya wu atsɔ atrɔ asi le `Markdown` ŋu (gake màte ŋu atsɔ memamawo akpe ɖe eŋu alo atutu wo o), eye nàzã mɔ si nènya nyuie wu atsɔ awɔ gɔmeɖeɖea dzi kpɔkpɔ.
+> Woateŋu awɔ kɔda ƒe gɔmeɖoanyi abe dzɔtsoƒe si woʋu ɖi na gbegbɔgblɔ ƒe faɛlwo, eye to dɔwɔwɔ `Pull Request` ƒe kpekpeɖeŋu me la, xexeame katã zãlawo ateŋu akpɔ gome le gbegɔmeɖeɖewo ƒe nyonyome si yia edzi me. Seamless connection [github](//github.com) Eye nuto bubu siwo le ʋuʋu ɖi.
 
 [→ Ne èdi be yeazã mɔfiame la, taflatse xlẽ dɔa ŋuti nuŋlɔɖiwo](/i18) .
 
@@ -103,9 +102,10 @@ Tiketike ƒe ɖoɖo si me wodoa gbe vovovowo le si ate ŋu axe fe na amewo;
 Dukɔwo dome ŋgɔgbekpawo ƒe asi si wodzrana;
 Nu geɖe gali míadi be míawɔ.
 
-Míele mɔ kpɔm vevie be míado go amesiwo ƒe susu sɔ kple mía tɔ le amewo ƒe atsiaƒu gã la me.
-Míele lɔlɔ̃nu faa dɔwɔlawo dim be woakpɔ gome le open source code kple nuŋɔŋlɔ siwo gɔme woɖe ƒe ɖɔɖɔɖo me.
-Ne èdi la, taflatse [→ Zi afisia dzi be nàkpe wò nyatakakawo ɖo](https://ggl.link/i18n) eye emegbe nàwɔ ɖeka kple [lɛtaɖoɖowo](https://groups.google.com/u/2/g/i18n-site) hena kadodo.
-
 Míexɔ mɔnu si le ʋuʋu ɖi kple lɔlɔ̃ ƒe mamã dzi se, .
 Míexɔ mi nyuie be míawɔ etsɔme si me liƒo mele o ɖekae.
+
+> [!NOTE]
+> Míele mɔ kpɔm vevie be míado go amesiwo ƒe susu sɔ kple mía tɔ le amewo ƒe atsiaƒu gã la me.
+> Míele lɔlɔ̃nu faa dɔwɔlawo dim be woakpɔ gome le open source code kple nuŋɔŋlɔ siwo gɔme woɖe ƒe ɖɔɖɔɖo me.
+> Ne èdi la, taflatse [→ Zi afisia dzi be nàkpe wò nyatakakawo ɖo](https://ggl.link/i18n) eye emegbe nàwɔ ɖeka kple [lɛtaɖoɖowo](https://groups.google.com/u/2/g/i18n-site) hena kadodo.

@@ -126,7 +126,8 @@ Pavyzdžiui, `_* ` aukščiau pateiktame konfigūracijos faile reiškia, kad fai
 
 Vertimas yra redaguojamas. Pakeiskite originalų tekstą ir dar kartą išverskite jį mašininiu būdu, rankiniai vertimo pakeitimai nebus perrašyti (jei ši originalaus teksto pastraipa nebuvo pakeista).
 
-Tačiau atkreipkite dėmesį, kad vertimo ir originalaus teksto eilutės turi atitikti vieną. Tai yra, kurdami vertimą nepridėkite ir neištrinkite eilučių. Priešingu atveju tai sukels painiavą vertimo redagavimo talpykloje.
+> [!WARN]
+> Vertimo ir originalaus teksto eilutės turi atitikti vieną. Tai yra, kurdami vertimą nepridėkite ir neištrinkite eilučių. Priešingu atveju tai sukels painiavą vertimo redagavimo talpykloje.
 
 Jei kas nors negerai, [sprendimų ieškokite DUK.](/i18/qa#H1)
 

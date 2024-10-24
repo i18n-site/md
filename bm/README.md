@@ -33,11 +33,10 @@ Bamanankan baarakɛcogo bɛ se ka ladilan.
 
 Sɛbɛn fɔlɔ ladilan ani k’a baara ni masin ye tugun, bololabaara ladilan minnu kɛra bamanankan na, olu tɛna sɛbɛn ka tɛmɛ (ni sɛbɛn fɔlɔ dakun in ma sɛmɛntiya).
 
-An b’an tɔgɔ sɛbɛn `UNIX` " hakilila la Fɛn bɛɛ ye dosiye " ye wa a bɛ se ka bamanankan baarakɛcogo ɲɛnabɔ kan kɛmɛ caman na k’a sɔrɔ a ma fɛɛrɛ gɛlɛnw ni gɛlɛyaw don baarakɛyɔrɔw la.
-
-I bɛ se ka baara kɛ ni baarakɛminɛnw ye minnu bɛ i dɔn kosɛbɛ walasa ka `Markdown` baarakɛcogo ladilan (nka i tɛ se ka dakunw fara u kan walima k’u bɔ yen), ani ka baara kɛ ni fɛɛrɛ ye min bɛ i dɔn kosɛbɛ walasa ka version control kɛ.
-
-Kode basigi bɛ se ka dabɔ i n’a fɔ da wulilen kanko dosiyew kama, wa ni taabolo `Pull Request` dɛmɛ ye, diɲɛ baarakɛlaw bɛ se k’u sen don bamanankan baarakɛcogo ɲuman na min bɛ taa ɲɛ. Seamless connection [github](//github.com) Ani sigida dafalen wɛrɛw.
+> [!TIP]
+> An b’an tɔgɔ sɛbɛn `UNIX` " hakilila la Fɛn bɛɛ ye dosiye " ye wa a bɛ se ka bamanankan baarakɛcogo ɲɛnabɔ kan kɛmɛ caman na k’a sɔrɔ a ma fɛɛrɛ gɛlɛnw ni gɛlɛyaw don baarakɛyɔrɔw la.
+> I bɛ se ka baara kɛ ni baarakɛminɛnw ye minnu bɛ i dɔn kosɛbɛ walasa ka `Markdown` baarakɛcogo ladilan (nka i tɛ se ka dakunw fara u kan walima k’u bɔ yen), ani ka baara kɛ ni fɛɛrɛ ye min bɛ i dɔn kosɛbɛ walasa ka version control kɛ.
+> Kode basigi bɛ se ka dabɔ i n’a fɔ da wulilen kanko dosiyew kama, wa ni taabolo `Pull Request` dɛmɛ ye, diɲɛ baarakɛlaw bɛ se k’u sen don bamanankan baarakɛcogo ɲuman na min bɛ taa ɲɛ. Seamless connection [github](//github.com) Ani sigida dafalen wɛrɛw.
 
 [→ Walasa ka baarakɛcogo ɲɛfɔ, aw ye poroze sɛbɛnw kalan](/i18) .
 
@@ -103,9 +102,10 @@ Kan caman ka tikiti sira min bɛ se ka bonyaliw sara;
 Dugukolo kan ɲɛfɛla yɔrɔw feereli sugu dɔ;
 Ko caman wɛrɛ bɛ yen an b’a fɛ ka min kɛ.
 
-An b’a fɛ ka mɔgɔw kunbɛn minnu hakilinaw ye kelen ye, mɔgɔw ka kɔgɔjiba kɔnɔ.
-An bɛ baarakɛlaw ɲini minnu bɛna u sen don dakun dafalenw labɛnni na ani sɛbɛnw bamanankan na.
-N’i b’a fɛ, i ka [→ I digi yan walasa k’i ka kunnafoni sɛbɛn dafa](https://ggl.link/i18n) , o kɔfɛ, i ka don [bataki cilenw lisi](https://groups.google.com/u/2/g/i18n-site) kan walasa ka kumaɲɔgɔnya kɛ.
-
 An dalen bɛ da wulilen na ani kanuya tilali la,
 Aw ni ce ka siniɲɛsigi danmadɔ da ɲɔgɔn fɛ.
+
+> [!NOTE]
+> An b’a fɛ ka mɔgɔw kunbɛn minnu hakilinaw ye kelen ye, mɔgɔw ka kɔgɔjiba kɔnɔ.
+> An bɛ baarakɛlaw ɲini minnu bɛna u sen don dakun dafalenw labɛnni na ani sɛbɛnw bamanankan na.
+> N’i b’a fɛ, i ka [→ I digi yan walasa k’i ka kunnafoni sɛbɛn dafa](https://ggl.link/i18n) , o kɔfɛ, i ka don [bataki cilenw lisi](https://groups.google.com/u/2/g/i18n-site) kan walasa ka kumaɲɔgɔnya kɛ.

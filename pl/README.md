@@ -33,11 +33,10 @@ Tłumaczenie można edytować.
 
 Modyfikacja oryginalnego tekstu i ponowne tłumaczenie maszynowe nie nadpisze ręcznych modyfikacji w tłumaczeniu (jeśli oryginalny akapit nie został zmodyfikowany).
 
-Wierzymy w filozofię `UNIX`: "Wszystko jest plikiem", co pozwala zarządzać tłumaczeniami na setki języków bez skomplikowanych rozwiązań korporacyjnych.
-
-Możesz używać najbardziej znanych narzędzi do edycji `Markdown` (ale nie dodawać ani usuwać akapitów) oraz najbardziej znanego sposobu zarządzania wersjami.
-
-Można utworzyć repozytorium z plikami językowymi jako open source, korzystając z procesu `Pull Request`, aby globalni użytkownicy mogli uczestniczyć w ciągłym doskonaleniu tłumaczeń. Łatwa integracja z [github](//github.com) i innymi społecznościami open source.
+> [!TIP]
+> Wierzymy w filozofię `UNIX`: "Wszystko jest plikiem", co pozwala zarządzać tłumaczeniami na setki języków bez skomplikowanych rozwiązań korporacyjnych.
+> Możesz używać najbardziej znanych narzędzi do edycji `Markdown` (ale nie dodawać ani usuwać akapitów) oraz najbardziej znanego sposobu zarządzania wersjami.
+> Można utworzyć repozytorium z plikami językowymi jako open source, korzystając z procesu `Pull Request`, aby globalni użytkownicy mogli uczestniczyć w ciągłym doskonaleniu tłumaczeń. Łatwa integracja z [github](//github.com) i innymi społecznościami open source.
 
 [→ Przewodnik użytkownika, przeczytaj dokumentację projektu](/i18).
 
@@ -103,9 +102,10 @@ System biletów wielojęzycznych z possibility wypłaty nagród;
 Rynek sprzedaży komponentów front-end wielojęzycznych;
 Chcemy zrobić znacznie więcej.
 
-Czekamy na spotkanie z Tobą, drogi współtowarzyszu w rozległym morzu ludzi.
-Poszukujemy wolontariuszy do udziału w rozwoju kodu open source i korekcie tłumaczonych tekstów.
-Jeśli jesteś zainteresowany, prosimy [→ Kliknij tutaj, aby wypełnić swój profil](https://ggl.link/i18n), a następnie dołącz do [listy mailingowej](https://groups.google.com/u/2/g/i18n-site) w celu komunikacji.
-
 Wierzymy w open source i kochamy dzielenie się,
 Zapraszamy do wspólnego tworzenia przyszłości bez granic.
+
+> [!NOTE]
+> Czekamy na spotkanie z Tobą, drogi współtowarzyszu w rozległym morzu ludzi.
+> Poszukujemy wolontariuszy do udziału w rozwoju kodu open source i korekcie tłumaczonych tekstów.
+> Jeśli jesteś zainteresowany, prosimy [→ Kliknij tutaj, aby wypełnić swój profil](https://ggl.link/i18n), a następnie dołącz do [listy mailingowej](https://groups.google.com/u/2/g/i18n-site) w celu komunikacji.

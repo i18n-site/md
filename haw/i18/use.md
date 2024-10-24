@@ -126,7 +126,8 @@ No ka laʻana, ʻo `_* ` ma ka faila hoʻonohonoho i luna, ʻaʻole e unuhi ʻia
 
 Hiki ke hoʻoponopono ʻia ka unuhi. Hoʻololi i ka kikokikona kumu a me ka mīkini-unuhi hou, ʻaʻole e hoʻololi ʻia nā hoʻololi lima i ka unuhi (inā ʻaʻole i hoʻololi ʻia kēia paukū o ka kikokikona kumu).
 
-Akā, e ʻoluʻolu e hoʻomaopopo pono nā laina o ka unuhi a me ka kikokikona kumu i hoʻokahi i hoʻokahi. ʻO ia hoʻi, mai hoʻohui a holoi paha i nā laina i ka wā e hui pū ai i ka unuhi. A i ʻole, e huikau ia ma ka waihona hoʻoponopono unuhi.
+> [!WARN]
+> Pono nā laina o ka unuhi a me ka kikokikona kumu i hoʻokahi i hoʻokahi. ʻO ia hoʻi, mai hoʻohui a holoi paha i nā laina i ka wā e hui pū ai i ka unuhi. A i ʻole, e huikau ia ma ka waihona hoʻoponopono unuhi.
 
 Inā hewa kekahi mea, e ʻoluʻolu e nānā i [ka FAQ no nā hoʻonā.](/i18/qa#H1)
 

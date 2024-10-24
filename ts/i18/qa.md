@@ -2,9 +2,9 @@
 
 ## Ku Engetela Kumbe Ku Susa Mitila Ya Vuhundzuluxeri, Leswi Endlaka Leswaku Ku Va Ni Mpfilumpfilu Eka Vuhundzuluxeri
 
-Tsundzuka leswaku **nhlayo ya mitila leyi nga eka vuhundzuluxeri yi fanele yi fambisana ni mitila leyi nga eka tsalwa ro sungula** .
-
-Hi leswaku, loko u lulamisa vuhundzuluxeri hi voko, **u nga engeteli kumbe ku susa mitila ya vuhundzuluxeri** , handle ka sweswo vuxaka bya mepe exikarhi ka vuhundzuluxeri ni tsalwa ro sungula byi ta va byi nga hlelekanga.
+> [!WARN]
+> Tsundzuka leswaku **nhlayo ya mitila leyi nga eka vuhundzuluxeri yi fanele yi fambisana ni mitila leyi nga eka tsalwa ro sungula** .
+> Hi leswaku, loko u lulamisa vuhundzuluxeri hi voko, **u nga engeteli kumbe ku susa mitila ya vuhundzuluxeri** , handle ka sweswo vuxaka bya mepe exikarhi ka vuhundzuluxeri ni tsalwa ro sungula byi ta va byi nga hlelekanga.
 
 Loko hi xihoxo u engetela kumbe ku susa layini, leswi vangaka mpfilumpfilu, hi kombela u vuyisela vuhundzuluxi eka vuhundzuluxeri u nga si cinca, tirhisa vuhundzuluxi bya `i18` nakambe, naswona u tlhela u hlayisa mepe lowu faneleke.
 

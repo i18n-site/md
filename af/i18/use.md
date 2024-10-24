@@ -126,7 +126,8 @@ Byvoorbeeld, `_* ` in die bogenoemde konfigurasielêer beteken dat lêers wat me
 
 Die vertaling is redigeerbaar. Verander die oorspronklike teks en masjienvertaal dit weer, die handmatige wysigings aan die vertaling sal nie oorskryf word nie (indien hierdie paragraaf van die oorspronklike teks nie gewysig is nie).
 
-Maar let asseblief daarop dat die reëls van die vertaling en die oorspronklike teks een tot een moet ooreenstem. Dit wil sê, moenie reëls byvoeg of skrap wanneer die vertaling saamgestel word nie. Andersins sal dit verwarring in die vertaalredigeerkas veroorsaak.
+> [!WARN]
+> Die reëls van die vertaling en die oorspronklike teks moet een tot een ooreenstem. Dit wil sê, moenie reëls byvoeg of skrap wanneer die vertaling saamgestel word nie. Andersins sal dit verwarring in die vertaalredigeerkas veroorsaak.
 
 As iets verkeerd loop, verwys asseblief na [die FAQ vir oplossings.](/i18/qa#H1)
 

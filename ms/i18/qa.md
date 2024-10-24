@@ -2,9 +2,9 @@
 
 ## Menambah Atau Memadam Baris Terjemahan, Mengakibatkan Kekeliruan Dalam Terjemahan
 
-Ingat, **bilangan baris dalam terjemahan mesti sepadan dengan baris dalam teks asal** .
-
-Maksudnya, apabila melaraskan terjemahan secara manual, **jangan tambah atau padam baris terjemahan** , jika tidak, hubungan pemetaan antara terjemahan dan teks asal akan bercelaru.
+> [!WARN]
+> Ingat, **bilangan baris dalam terjemahan mesti sepadan dengan baris dalam teks asal** .
+> Maksudnya, apabila melaraskan terjemahan secara manual, **jangan tambah atau padam baris terjemahan** , jika tidak, hubungan pemetaan antara terjemahan dan teks asal akan bercelaru.
 
 Jika anda secara tidak sengaja menambah atau memadam baris, menyebabkan kekeliruan, sila pulihkan terjemahan kepada versi sebelum pengubahsuaian, jalankan `i18` terjemahan sekali lagi dan cache semula pemetaan yang betul.
 

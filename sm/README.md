@@ -33,11 +33,10 @@ O le faaliliuga e mafai ona faasa'oina.
 
 Suia le ulua'i tusitusiga ma toe fa'aliliu i le masini, o le a le toe fa'aliliuina le fa'aliliuga a le tusi lesona (pe afai e le'i suia lenei parakalafa o le ulua'i tusitusiga).
 
-Matou te lesitala i le filosofia o le `UNIX` " O mea uma lava o se faila " ma e mafai ona faʻatautaia faʻaliliuga i le faitau selau o gagana e aunoa ma le faʻalauiloaina o faʻafitauli faigata ma faʻalavelave.
-
-E mafai ona e fa'aogaina meafaigaluega e sili ona masani ai e fa'asa'o ai `Markdown` fa'aliliuga (ae le mafai ona e fa'aopoopo pe tape palakalafa), ma fa'aoga le auala sili ona masani e fai ai le fa'atonutonuina o fa'aliliuga.
-
-E mafai ona fausia se fa'avae fa'ailoga e avea o se puna tatala mo faila gagana, ma fa'atasi ai ma le fesoasoani a le `Pull Request` fa'agasologa, e mafai e tagata fa'aoga lalolagi ona auai i le fa'aauauina o fa'aliliuga. Feso'ota'iga leai se fa'aoga [github](//github.com)
+> [!TIP]
+> Matou te lesitala i le filosofia o le `UNIX` " O mea uma lava o se faila " ma e mafai ona faʻatautaia faʻaliliuga i le faitau selau o gagana e aunoa ma le faʻalauiloaina o faʻafitauli faigata ma faʻalavelave.
+> E mafai ona e fa'aogaina meafaigaluega e sili ona masani ai e fa'asa'o ai `Markdown` fa'aliliuga (ae le mafai ona e fa'aopoopo pe tape palakalafa), ma fa'aoga le auala sili ona masani e fai ai le fa'atonutonuina o fa'aliliuga.
+> E mafai ona fausia se fa'avae fa'ailoga e avea o se puna tatala mo faila gagana, ma fa'atasi ai ma le fesoasoani a le `Pull Request` fa'agasologa, e mafai e tagata fa'aoga lalolagi ona auai i le fa'aauauina o fa'aliliuga. Feso'ota'iga leai se fa'aoga [github](//github.com)
 
 [→ Mo taʻiala faʻaoga, faʻamolemole faitau le faʻamaumauga o le poloketi](/i18) .
 
@@ -103,9 +102,10 @@ O se faiga tiketi gagana e mafai ona totogi tupe;
 Se maketi fa'atau mo vaega fa'ava-o-malo pito i luma;
 E tele isi mea tatou te mananao e fai.
 
-Matou te tulimatai atu e feiloai i tagata e tutusa o latou mafaufau i le vasa tele o tagata.
-O lo'o matou va'ava'ai mo volenitia e auai i le atina'eina o le fa'asinomaga tatala ma le toe su'eina o tusitusiga fa'aliliu.
-Afai e te fiafia, faʻamolemole [→ Kiliki iinei e faʻatumu lau talaaga](https://ggl.link/i18n) ona auai lea [i le lisi o meli](https://groups.google.com/u/2/g/i18n-site) mo fesoʻotaʻiga.
-
 Matou te talitonu i punaoa tatala ma fiafia e faʻasoa,
 Fa'afeiloa'i e fatu fa'atasi se lumana'i e leai se tuaoi.
+
+> [!NOTE]
+> Matou te tulimatai atu e feiloai i tagata e tutusa o latou mafaufau i le vasa tele o tagata.
+> O lo'o matou va'ava'ai mo volenitia e auai i le atina'eina o le fa'asinomaga tatala ma le toe su'eina o tusitusiga fa'aliliu.
+> Afai e te fiafia, faʻamolemole [→ Kiliki iinei e faʻatumu lau talaaga](https://ggl.link/i18n) ona auai lea [i le lisi o meli](https://groups.google.com/u/2/g/i18n-site) mo fesoʻotaʻiga.

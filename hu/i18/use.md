@@ -126,7 +126,8 @@ Például a fenti konfigurációs fájlban `_* ` azt jelenti, hogy `_` gyel kezd
 
 A fordítás szerkeszthető. Módosítsa az eredeti szöveget, és fordítsa le ismét géppel, a fordításon végrehajtott manuális módosítások nem kerülnek felülírásra (ha az eredeti szöveg ezen bekezdését nem módosították).
 
-De vegye figyelembe, hogy a fordítás és az eredeti szöveg sorainak egynek kell lenniük. Azaz ne adjunk hozzá és ne töröljünk sorokat a fordítás összeállításakor. Ellenkező esetben zavart okoz a fordításszerkesztő gyorsítótárban.
+> [!WARN]
+> A fordítás és az eredeti szöveg sorainak egynek kell lenniük. Azaz ne adjunk hozzá és ne töröljünk sorokat a fordítás összeállításakor. Ellenkező esetben zavart okoz a fordításszerkesztő gyorsítótárban.
 
 Ha valami elromlik, kérjük, olvassa el [a GYIK-et a megoldásokért.](/i18/qa#H1)
 

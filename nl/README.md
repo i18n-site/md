@@ -33,11 +33,10 @@ De vertaling is bewerkbaar.
 
 Als de oorspronkelijke tekst wordt aangepast en opnieuw machinaal wordt vertaald, zullen handmatige wijzigingen in de vertaling niet worden overschreven (tenzij de betreffende paragraaf in de oorspronkelijke tekst is gewijzigd).
 
-Wij omarmen de `UNIX`-filosofie "Alles is een bestand" en kunnen vertalingen in honderden talen beheren zonder complexe, zware enterpriseproducten te gebruiken.
-
-Gebruik uw vertrouwde hulpmiddelen om `Markdown`-vertalingen te bewerken (maar voeg geen alinea's toe of verwijder er) en uw vertrouwde methoden voor versiebeheer toe te passen.
-
-Er kan een code-repository worden aangemaakt voor taalbestanden als open source, en met `Pull Request`-processen kunnen wereldwijde gebruikers bijdragen aan de voortdurende verbetering van vertalingen. Naadloze integratie met [GitHub](//github.com) en andere open source-gemeenschappen.
+> [!TIP]
+> Wij omarmen de `UNIX`-filosofie "Alles is een bestand" en kunnen vertalingen in honderden talen beheren zonder complexe, zware enterpriseproducten te gebruiken.
+> Gebruik uw vertrouwde hulpmiddelen om `Markdown`-vertalingen te bewerken (maar voeg geen alinea's toe of verwijder er) en uw vertrouwde methoden voor versiebeheer toe te passen.
+> Er kan een code-repository worden aangemaakt voor taalbestanden als open source, en met `Pull Request`-processen kunnen wereldwijde gebruikers bijdragen aan de voortdurende verbetering van vertalingen. Naadloze integratie met [GitHub](//github.com) en andere open source-gemeenschappen.
 
 [→ Gebruiksaanwijzing, raadpleeg de projectdocumentatie](/i18).
 
@@ -103,9 +102,10 @@ Een meertalig ticketsysteem dat beloningen uitkeert;
 Een markt voor internationale front-end componenten;
 Er is nog zoveel meer dat we willen doen.
 
-Wij kijken ernaar uit om gelijkgestemde mensen te ontmoeten in de immense menselijke samenleving.
-We zoeken vrijwilligers die willen bijdragen aan de ontwikkeling van open source-code en het proeflezen van vertaalde teksten.
-Als je geïnteresseerd bent, [→ Klik hier om je profiel in te vullen](https://ggl.link/i18n) en meld je vervolgens aan voor [de mailinglijst](https://groups.google.com/u/2/g/i18n-site) voor communicatie.
-
 Wij geloven in open source en houden van delen,
 Welkom om samen een grenzeloze toekomst te creëren.
+
+> [!NOTE]
+> Wij kijken ernaar uit om gelijkgestemde mensen te ontmoeten in de immense menselijke samenleving.
+> We zoeken vrijwilligers die willen bijdragen aan de ontwikkeling van open source-code en het proeflezen van vertaalde teksten.
+> Als je geïnteresseerd bent, [→ Klik hier om je profiel in te vullen](https://ggl.link/i18n) en meld je vervolgens aan voor [de mailinglijst](https://groups.google.com/u/2/g/i18n-site) voor communicatie.

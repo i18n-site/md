@@ -33,11 +33,10 @@ Prijevod se može uređivati.
 
 Izmijenite izvorni tekst i ponovno ga strojno prevedite, ručne izmjene prijevoda neće biti prebrisane (ako ovaj odlomak izvornog teksta nije izmijenjen).
 
-Pretplaćujemo se na filozofiju `UNIX` " Sve je datoteka " i možemo upravljati prijevodima na stotine jezika bez uvođenja složenih i glomaznih rješenja na razini poduzeća.
-
-Možete koristiti najpoznatije alate za uređivanje `Markdown` (ali ne možete dodavati ili brisati odlomke) i koristiti najpoznatiji način za kontrolu verzija.
-
-Baza koda može se izraditi kao open source za jezične datoteke, a uz pomoć `Pull Request` procesa globalni korisnici mogu sudjelovati u kontinuiranoj optimizaciji prijevoda. [github](//github.com) veza i druge zajednice otvorenog koda.
+> [!TIP]
+> Pretplaćujemo se na filozofiju `UNIX` " Sve je datoteka " i možemo upravljati prijevodima na stotine jezika bez uvođenja složenih i glomaznih rješenja na razini poduzeća.
+> Možete koristiti najpoznatije alate za uređivanje `Markdown` (ali ne možete dodavati ili brisati odlomke) i koristiti najpoznatiji način za kontrolu verzija.
+> Baza koda može se izraditi kao open source za jezične datoteke, a uz pomoć `Pull Request` procesa globalni korisnici mogu sudjelovati u kontinuiranoj optimizaciji prijevoda. [github](//github.com) veza i druge zajednice otvorenog koda.
 
 [→ Za korisničke upute pročitajte projektnu dokumentaciju](/i18) .
 
@@ -103,9 +102,10 @@ Višejezični sustav ulaznica koji može platiti nagrade;
 Prodajno tržište za međunarodne front-end komponente;
 Ima još mnogo toga što želimo učiniti.
 
-Radujemo se susretu s istomišljenicima u ogromnom moru ljudi.
-Tražimo volontere za sudjelovanje u razvoju open source koda i lektoriranju prevedenih tekstova.
-Ako ste zainteresirani, molimo [→ Kliknite ovdje da ispunite svoj profil](https://ggl.link/i18n) , a zatim se pridružite [mailing listi](https://groups.google.com/u/2/g/i18n-site) za komunikaciju.
-
 Vjerujemo u otvoreni kod i volimo dijeljenje,
 Dobrodošli da zajedno stvorimo budućnost bez granica.
+
+> [!NOTE]
+> Radujemo se susretu s istomišljenicima u ogromnom moru ljudi.
+> Tražimo volontere za sudjelovanje u razvoju open source koda i lektoriranju prevedenih tekstova.
+> Ako ste zainteresirani, molimo [→ Kliknite ovdje da ispunite svoj profil](https://ggl.link/i18n) , a zatim se pridružite [mailing listi](https://groups.google.com/u/2/g/i18n-site) za komunikaciju.

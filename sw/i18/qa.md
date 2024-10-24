@@ -2,9 +2,9 @@
 
 ## Kuongeza Au Kufuta Mistari Ya Tafsiri, Na Kusababisha Mkanganyiko Katika Tafsiri
 
-Kumbuka, **idadi ya mistari katika tafsiri lazima ilingane na mistari iliyo katika maandishi asilia** .
-
-Hiyo ni kusema, unaporekebisha utafsiri mwenyewe, **usiongeze au ufute mistari ya tafsiri** , vinginevyo uhusiano wa ramani kati ya tafsiri na maandishi asili hautaharibika.
+> [!WARN]
+> Kumbuka, **idadi ya mistari katika tafsiri lazima ilingane na mistari iliyo katika maandishi asilia** .
+> Hiyo ni kusema, unaporekebisha utafsiri mwenyewe, **usiongeze au ufute mistari ya tafsiri** , vinginevyo uhusiano wa ramani kati ya tafsiri na maandishi asili hautaharibika.
 
 Ukiongeza au kufuta mstari kimakosa, na kusababisha mkanganyiko, tafadhali rejesha tafsiri kwenye toleo kabla ya kurekebisha, endesha tafsiri `i18` tena, na uhifadhi upya ramani sahihi.
 

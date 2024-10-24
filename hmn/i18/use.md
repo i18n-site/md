@@ -126,7 +126,8 @@ Piv txwv li, `_* ` hauv cov ntaub ntawv teeb tsa saum toj no txhais tau hais tia
 
 Kev txhais lus yog kho tau. Hloov kho cov ntawv qub thiab tshuab-txhais nws dua, phau ntawv hloov kho rau kev txhais lus yuav tsis raug sau dua (yog tias kab lus no ntawm cov ntawv qub tsis tau hloov kho).
 
-Tab sis thov nco ntsoov tias cov kab ntawm kev txhais lus thiab cov ntawv qub yuav tsum sib haum ib leeg. Ntawd yog, tsis txhob ntxiv lossis rho tawm kab thaum sau cov lus txhais. Txwv tsis pub, nws yuav ua rau tsis meej pem hauv kev txhais lus kho cache.
+> [!WARN]
+> Cov kab ntawm cov ntawv txhais lus thiab cov ntawv qub yuav tsum sib haum mus rau ib qho. Ntawd yog, tsis txhob ntxiv lossis rho tawm kab thaum sau cov lus txhais. Txwv tsis pub, nws yuav ua rau tsis meej pem hauv kev txhais lus kho cache.
 
 Yog tias muaj qee yam tsis raug, thov xa mus rau [FAQ rau kev daws teeb meem.](/i18/qa#H1)
 

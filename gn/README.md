@@ -33,11 +33,10 @@ Pe traduksión ningo ikatu oñemboheko.
 
 Emoambue jehaipyre ypykue ha embohasa jey máquina-pe, umi ñemyatyrõ manual ñembohasa rehegua ndojehaimo’ãi (noñemoambuéiramo ko párrafo jehaipyre ypykue rehegua).
 
-Roñeaboná pe " `UNIX` "
-
-Ikatu reipuru umi tembipuru ojekuaavéva remohenda hag̃ua `Markdown` (ha katu ndaikatúi remoĩ térã rembogue umi párrafo), ha reipuru pe tape ojekuaavéva rejapo hag̃ua control de versión.
-
-Peteĩ base código rehegua ikatu ojejapo peteĩ código abierto ramo umi archivo ñe’ẽ rehegua, ha `Pull Request` proceso pytyvõ rupive, umi puruhára atyguasu ikatu oparticipa ñembohasa ñemboheko porãve tapiaite. Conexión sin costuras [github](//github.com) Ha ambue komunida código abierto rehegua.
+> [!TIP]
+> Roñeaboná pe " `UNIX` "
+> Ikatu reipuru umi tembipuru ojekuaavéva remohenda hag̃ua `Markdown` (ha katu ndaikatúi remoĩ térã rembogue umi párrafo), ha reipuru pe tape ojekuaavéva rejapo hag̃ua control de versión.
+> Peteĩ base código rehegua ikatu ojejapo peteĩ código abierto ramo umi archivo ñe’ẽ rehegua, ha `Pull Request` proceso pytyvõ rupive, umi puruhára atyguasu ikatu oparticipa ñembohasa ñemboheko porãve tapiaite. Conexión sin costuras [github](//github.com) Ha ambue komunida código abierto rehegua.
 
 [→ Pojoapy puruhárape g̃uarã, emoñe’ẽmi proyecto kuatiañe’ẽ](/i18) .
 
@@ -103,9 +102,10 @@ Peteĩ sistema de boletos multilingüe ikatúva opaga recompensa;
 Peteî mercado de ventas umi componente internacional front-end-pe guarã;
 Oĩ heta mbaʼe jajaposéva.
 
-Roha’arõiterei roikuaa tapichakuéra opensáva peteĩcha pe mar tuichaitéva tapichakuérape.
-Roheka voluntario oparticipa haguã código código abierto ñemoheñói ha corrección umi texto oñembohasáva.
-Oiméramo nde reñeinteresa, por favor [→ Emboguejy ko’ápe emyenyhẽ hag̃ua nde perfil](https://ggl.link/i18n) ha upéi eike [lista de correo-pe](https://groups.google.com/u/2/g/i18n-site) oñemongeta hag̃ua.
-
 Roguerovia código abierto ha mborayhu ñembohasa,
 Peju porãite pemoheñói haguã peteî futuro sin frontera oñondive.
+
+> [!NOTE]
+> Roha’arõiterei roikuaa tapichakuéra opensáva peteĩcha pe mar tuichaitéva tapichakuérape.
+> Roheka voluntario oparticipa haguã código código abierto ñemoheñói ha corrección umi texto oñembohasáva.
+> Oiméramo nde reñeinteresa, por favor [→ Emboguejy ko’ápe emyenyhẽ hag̃ua nde perfil](https://ggl.link/i18n) ha upéi eike [lista de correo-pe](https://groups.google.com/u/2/g/i18n-site) oñemongeta hag̃ua.

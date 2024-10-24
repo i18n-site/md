@@ -33,11 +33,10 @@ A tradução é editável.
 
 Se modificar o texto original e traduzi-lo automaticamente novamente, as modificações manuais na tradução não serão substituídas (se este parágrafo do texto original não tiver sido modificado).
 
-Aderimos à filosofia `UNIX` "Tudo é um arquivo" e podemos gerenciar traduções em centenas de idiomas sem introduzir soluções complexas e pesadas de nível empresarial.
-
-Você pode usar as ferramentas mais familiares para editar a tradução de `Markdown` (mas não pode adicionar ou excluir parágrafos) e usar a maneira mais familiar para fazer o controle de versão.
-
-Uma base de código pode ser criada como código aberto para arquivos de idioma e, com a ajuda do processo de `Pull Request`, usuários globais podem participar da otimização contínua das traduções. Conexão perfeita com [github](//github.com) e outras comunidades de código aberto.
+> [!TIP]
+> Aderimos à filosofia `UNIX` "Tudo é um arquivo" e podemos gerenciar traduções em centenas de idiomas sem introduzir soluções complexas e pesadas de nível empresarial.
+> Você pode usar as ferramentas mais familiares para editar a tradução de `Markdown` (mas não pode adicionar ou excluir parágrafos) e usar a maneira mais familiar para fazer o controle de versão.
+> Uma base de código pode ser criada como código aberto para arquivos de idioma e, com a ajuda do processo de `Pull Request`, usuários globais podem participar da otimização contínua das traduções. Conexão perfeita com [github](//github.com) e outras comunidades de código aberto.
 
 [→ Guia de uso, leia a documentação do projeto](/i18).
 
@@ -103,9 +102,10 @@ Sistema de tickets multilíngues com possibilidade de recompensas;
 Mercado de componentes front-end internacional;
 Temos muito mais a fazer.
 
-Estamos ansiosos para encontrar você, que pensa como nós, no vasto mar de pessoas.
-Estamos procurando voluntários para participar do desenvolvimento do código-fonte aberto e na revisão de textos traduzidos.
-Se você estiver interessado, por favor [clique aqui para preencher seu perfil](https://ggl.link/i18n) e depois se inscreva [na lista de discussão](https://groups.google.com/u/2/g/i18n-site) para comunicação.
-
 Creemos no código aberto e no amor pelo compartilhamento,
 Bem-vindo para juntos criarmos um futuro sem fronteiras.
+
+> [!NOTE]
+> Estamos ansiosos para encontrar você, que pensa como nós, no vasto mar de pessoas.
+> Estamos procurando voluntários para participar do desenvolvimento do código-fonte aberto e na revisão de textos traduzidos.
+> Se você estiver interessado, por favor [clique aqui para preencher seu perfil](https://ggl.link/i18n) e depois se inscreva [na lista de discussão](https://groups.google.com/u/2/g/i18n-site) para comunicação.

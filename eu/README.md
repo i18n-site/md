@@ -33,11 +33,10 @@ Itzulpena editagarria da.
 
 Aldatu jatorrizko testua eta itzuli automatikoki berriro, itzulpenaren eskuzko aldaketak ez dira gainidatziko (jatorrizko testuaren paragrafo hau aldatu ez bada).
 
-`UNIX` " filosofiara harpidetzen gara Dena " da eta ehunka hizkuntzatara itzulpenak kudeatu ditzakegu enpresa-mailako soluzio konplexu eta astunak sartu gabe.
-
-Tresna ezagunenak erabil ditzakezu `Markdown` editatzeko (baina ezin dituzu paragrafoak gehitu edo ezabatu), eta bertsio-kontrola egiteko modurik ezagunena erabil dezakezu.
-
-Kode-oinarri bat hizkuntza-fitxategietarako kode ireki gisa sor daiteke, eta `Pull Request` prozesuen laguntzarekin, erabiltzaile globalak itzulpenen etengabeko optimizazioan parte har dezakete. Konexiorik [github](//github.com) beste kode irekiko komunitateak.
+> [!TIP]
+> `UNIX` " filosofiara harpidetzen gara Dena " da eta ehunka hizkuntzatara itzulpenak kudeatu ditzakegu enpresa-mailako soluzio konplexu eta astunak sartu gabe.
+> Tresna ezagunenak erabil ditzakezu `Markdown` editatzeko (baina ezin dituzu paragrafoak gehitu edo ezabatu), eta bertsio-kontrola egiteko modurik ezagunena erabil dezakezu.
+> Kode-oinarri bat hizkuntza-fitxategietarako kode ireki gisa sor daiteke, eta `Pull Request` prozesuen laguntzarekin, erabiltzaile globalak itzulpenen etengabeko optimizazioan parte har dezakete. Konexiorik [github](//github.com) beste kode irekiko komunitateak.
 
 [→ Erabiltzailearen gidarako, irakurri proiektuaren dokumentazioa](/i18) .
 
@@ -103,9 +102,10 @@ Sariak ordain ditzakeen txartel sistema eleaniztun bat;
 Nazioarteko frontend osagaien salmenta merkatua;
 Askoz gehiago egin nahi dugu.
 
-Irrikitan gaude jendearen itsaso zabalean antzeko jendea ezagutzeko.
-Iturburu irekiko kodearen garapenean eta itzulitako testuen zuzenketan parte hartzeko boluntarioen bila gabiltza.
-Interesa baduzu, mesedez [→ Egin klik hemen zure profila betetzeko](https://ggl.link/i18n) eta gero sartu [posta-zerrendan](https://groups.google.com/u/2/g/i18n-site) komunikaziorako.
-
 Kode irekian sinesten dugu eta partekatzea maite dugu,
 Ongi etorri elkarrekin mugarik gabeko etorkizuna sortzera.
+
+> [!NOTE]
+> Irrikitan gaude jendearen itsaso zabalean antzeko jendea ezagutzeko.
+> Iturburu irekiko kodearen garapenean eta itzulitako testuen zuzenketan parte hartzeko boluntarioen bila gabiltza.
+> Interesa baduzu, mesedez [→ Egin klik hemen zure profila betetzeko](https://ggl.link/i18n) eta gero sartu [posta-zerrendan](https://groups.google.com/u/2/g/i18n-site) komunikaziorako.

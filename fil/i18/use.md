@@ -126,7 +126,8 @@ Halimbawa, `_* ` sa configuration file sa itaas ay nangangahulugan na ang mga fi
 
 Maaaring i-edit ang pagsasalin. Baguhin ang orihinal na teksto at i-machine-translate itong muli, ang mga manu-manong pagbabago sa pagsasalin ay hindi mapapatungan (kung ang talatang ito ng orihinal na teksto ay hindi pa nabago).
 
-Ngunit mangyaring tandaan na ang mga linya ng pagsasalin at ang orihinal na teksto ay dapat na tumutugma sa isa sa isa. Ibig sabihin, huwag magdagdag o magtanggal ng mga linya kapag kino-compile ang pagsasalin. Kung hindi, magdudulot ito ng kalituhan sa cache ng pag-edit ng pagsasalin.
+> [!WARN]
+> Ang mga linya ng pagsasalin at ang orihinal na teksto ay dapat na tumutugma sa isa sa isa. Ibig sabihin, huwag magdagdag o magtanggal ng mga linya kapag kino-compile ang pagsasalin. Kung hindi, magdudulot ito ng kalituhan sa cache ng pag-edit ng pagsasalin.
 
 Kung may mali, mangyaring sumangguni sa [FAQ para sa mga solusyon.](/i18/qa#H1)
 

@@ -33,11 +33,10 @@ Mae modd golygu'r cyfieithiad.
 
 Addaswch y testun gwreiddiol a'i gyfieithu â pheiriant eto, ni fydd yr addasiadau â llaw i'r cyfieithiad yn cael eu trosysgrifo (os nad yw'r paragraff hwn o'r testun gwreiddiol wedi'i addasu).
 
-Rydym yn tanysgrifio i athroniaeth `UNIX` " Mae popeth yn ffeil " a gallwn reoli cyfieithiadau i gannoedd o ieithoedd heb gyflwyno atebion cymhleth a beichus ar lefel menter.
-
-Gallwch ddefnyddio'r offer mwyaf cyfarwydd i olygu'r `Markdown` (ond ni allwch ychwanegu neu ddileu paragraffau), a defnyddio'r ffordd fwyaf cyfarwydd i reoli fersiwn.
-
-Gellir creu sylfaen cod fel ffynhonnell agored ar gyfer ffeiliau iaith, a gyda chymorth `Pull Request` proses, gall defnyddwyr byd-eang gymryd rhan yn y broses barhaus o optimeiddio cyfieithiadau. Cysylltiad di-dor [github](//github.com) A chymunedau ffynhonnell agored eraill.
+> [!TIP]
+> Rydym yn tanysgrifio i athroniaeth `UNIX` " Mae popeth yn ffeil " a gallwn reoli cyfieithiadau i gannoedd o ieithoedd heb gyflwyno atebion cymhleth a beichus ar lefel menter.
+> Gallwch ddefnyddio'r offer mwyaf cyfarwydd i olygu'r `Markdown` (ond ni allwch ychwanegu neu ddileu paragraffau), a defnyddio'r ffordd fwyaf cyfarwydd i reoli fersiwn.
+> Gellir creu sylfaen cod fel ffynhonnell agored ar gyfer ffeiliau iaith, a gyda chymorth `Pull Request` proses, gall defnyddwyr byd-eang gymryd rhan yn y broses barhaus o optimeiddio cyfieithiadau. Cysylltiad di-dor [github](//github.com) A chymunedau ffynhonnell agored eraill.
 
 [→ Ar gyfer canllaw defnyddiwr, darllenwch ddogfennaeth y prosiect](/i18) .
 
@@ -103,9 +102,10 @@ System docynnau amlieithog sy'n gallu talu bounties;
 Marchnad werthu ar gyfer cydrannau pen blaen rhyngwladol;
 Mae llawer mwy yr ydym am ei wneud.
 
-Edrychwn ymlaen at gwrdd â phobl o’r un anian yn y môr mawr o bobl.
-Rydym yn chwilio am wirfoddolwyr i gymryd rhan yn y gwaith o ddatblygu cod ffynhonnell agored a phrawfddarllen testunau a gyfieithwyd.
-Os oes gennych ddiddordeb, os gwelwch yn dda [→ Cliciwch yma i lenwi eich proffil](https://ggl.link/i18n) ac yna ymuno â'r [rhestr bostio](https://groups.google.com/u/2/g/i18n-site) ar gyfer cyfathrebu.
-
 Rydym yn credu mewn ffynhonnell agored ac yn caru rhannu,
 Croeso i greu dyfodol diderfyn gyda'n gilydd.
+
+> [!NOTE]
+> Edrychwn ymlaen at gwrdd â phobl o’r un anian yn y môr mawr o bobl.
+> Rydym yn chwilio am wirfoddolwyr i gymryd rhan yn y gwaith o ddatblygu cod ffynhonnell agored a phrawfddarllen testunau a gyfieithwyd.
+> Os oes gennych ddiddordeb, os gwelwch yn dda [→ Cliciwch yma i lenwi eich proffil](https://ggl.link/i18n) ac yna ymuno â'r [rhestr bostio](https://groups.google.com/u/2/g/i18n-site) ar gyfer cyfathrebu.

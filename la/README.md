@@ -33,11 +33,10 @@ Versio est editabilis.
 
 Textum originalem et machinae iterum transferre, modificationes manuales ad translationem non erunt overscripta (si haec paragraphus textus originalis non mutatus est).
 
-Philosophiae `UNIX` omnia subscribimus " Omnia fasciculi sunt " et translationes in centena linguas administrare possunt sine solutionibus implicatis et graviabilibus inceptis inducendis.
-
-Instrumentis familiarissimis uti potes ad `Markdown` emendandam (sed paragraphos addere vel delere), et familiarissime utere ad versionis potestatem faciendum.
-
-Basis signum creari potest ut fons aperta pro fasciculis linguarum, et ope processuum `Pull Request` , global usorum communicationum continuas meliorizationis participes esse possunt. Inconsutilem nexum [github](//github.com)
+> [!TIP]
+> Philosophiae `UNIX` omnia subscribimus " Omnia fasciculi sunt " et translationes in centena linguas administrare possunt sine solutionibus implicatis et graviabilibus inceptis inducendis.
+> Instrumentis familiarissimis uti potes ad `Markdown` emendandam (sed paragraphos addere vel delere), et familiarissime utere ad versionis potestatem faciendum.
+> Basis signum creari potest ut fons aperta pro fasciculis linguarum, et ope processuum `Pull Request` , global usorum communicationum continuas meliorizationis participes esse possunt. Inconsutilem nexum [github](//github.com)
 
 [→ Pro duce usore, documentum documentum lege quaeso](/i18) .
 
@@ -103,9 +102,10 @@ Tessera multilingua ratio quae largitiones reddere potest;
 Venditio mercatus internationalis ante-finem componentium;
 Multo magis nos volumus facere.
 
-Unanimes obviam expectamus homines in vasto mari.
-Voluntarios quaerimus ut evolutionis fontis aperti codicem participent ac probationem textuum translatorum comprobaant.
-Si interest, quaeso [→ Hic strepita ut in tuo profile expleas](https://ggl.link/i18n) ac deinde [indicem electronicum](https://groups.google.com/u/2/g/i18n-site) ad communicationem iungas.
-
 Credimus in aperto fonte et amoris communione;
 Grata futura simul creare sine termino.
+
+> [!NOTE]
+> Unanimes obviam expectamus homines in vasto mari.
+> Voluntarios quaerimus ut evolutionis fontis aperti codicem participent ac probationem textuum translatorum comprobaant.
+> Si interest, quaeso [→ Hic strepita ut in tuo profile expleas](https://ggl.link/i18n) ac deinde [indicem electronicum](https://groups.google.com/u/2/g/i18n-site) ad communicationem iungas.

@@ -33,11 +33,10 @@ Ubusobanuro burashobora guhinduka.
 
 Hindura umwandiko wumwimerere hanyuma wongere uhindure imashini, guhindura intoki kubisobanuro ntibishobora kwandikwa (niba iki gika cyumwandiko wambere kitarahinduwe).
 
-Twiyandikishije kuri filozofiya ya `UNIX` " ni dosiye " kandi irashobora kuyobora ibisobanuro mu ndimi amagana tutabanje gutangiza ibisubizo bigoye kandi bitoroshye.
-
-Urashobora gukoresha ibikoresho bizwi cyane kugirango uhindure `Markdown` (ariko ntushobora kongeramo cyangwa gusiba paragarafu), kandi ukoreshe inzira izwi cyane yo kugenzura verisiyo.
-
-Kode shingiro irashobora gushirwaho nkisoko ifunguye amadosiye yindimi, kandi hifashishijwe inzira `Pull Request` , abakoresha isi barashobora kugira uruhare mugukomeza guhindura ibisobanuro. [github](//github.com) ridahwitse N'andi masoko afunguye.
+> [!TIP]
+> Twiyandikishije kuri filozofiya ya `UNIX` " ni dosiye " kandi irashobora kuyobora ibisobanuro mu ndimi amagana tutabanje gutangiza ibisubizo bigoye kandi bitoroshye.
+> Urashobora gukoresha ibikoresho bizwi cyane kugirango uhindure `Markdown` (ariko ntushobora kongeramo cyangwa gusiba paragarafu), kandi ukoreshe inzira izwi cyane yo kugenzura verisiyo.
+> Kode shingiro irashobora gushirwaho nkisoko ifunguye amadosiye yindimi, kandi hifashishijwe inzira `Pull Request` , abakoresha isi barashobora kugira uruhare mugukomeza guhindura ibisobanuro. [github](//github.com) ridahwitse N'andi masoko afunguye.
 
 [→ Kubakoresha bayobora, nyamuneka soma ibyangombwa byumushinga](/i18) .
 
@@ -103,9 +102,10 @@ Sisitemu y'itike yindimi nyinshi ishobora kwishyura ibihembo;
 Isoko ryo kugurisha ibice mpuzamahanga byimbere;
 Hariho byinshi dushaka gukora.
 
-Dutegereje guhura nabantu bahuje ibitekerezo mu nyanja nini yabantu.
-Turimo gushaka abakorerabushake bazagira uruhare mugutezimbere kode ifunguye hamwe no gusuzuma inyandiko zahinduwe.
-Niba ubishaka, nyamuneka [→ Kanda hano kugirango wuzuze umwirondoro wawe](https://ggl.link/i18n) hanyuma winjire [kurutonde rwa imeri](https://groups.google.com/u/2/g/i18n-site) kugirango utumanaho.
-
 Twizera isoko ifunguye kandi dusangira urukundo,
 Murakaza neza kurema imipaka itagira umupaka hamwe.
+
+> [!NOTE]
+> Dutegereje guhura nabantu bahuje ibitekerezo mu nyanja nini yabantu.
+> Turimo gushaka abakorerabushake bazagira uruhare mugutezimbere kode ifunguye hamwe no gusuzuma inyandiko zahinduwe.
+> Niba ubishaka, nyamuneka [→ Kanda hano kugirango wuzuze umwirondoro wawe](https://ggl.link/i18n) hanyuma winjire [kurutonde rwa imeri](https://groups.google.com/u/2/g/i18n-site) kugirango utumanaho.

@@ -33,11 +33,10 @@ Terjemahan bisa diowahi.
 
 Ngowahi teks asli lan mesin-terjemahake maneh, modifikasi manual kanggo terjemahan ora bakal ditimpa (yen paragraf teks asli iki durung diowahi).
 
-Kita langganan filosofi `UNIX` " Kabeh iku file " lan bisa ngatur terjemahan menyang atusan basa tanpa ngenalake solusi tingkat perusahaan sing rumit lan rumit.
-
-Sampeyan bisa nggunakake alat sing paling akrab kanggo nyunting `Markdown` (nanging sampeyan ora bisa nambah utawa mbusak paragraf), lan nggunakake cara sing paling akrab kanggo nindakake kontrol versi.
-
-Basis kode bisa digawe minangka sumber terbuka kanggo file basa, lan kanthi bantuan proses `Pull Request` , pangguna global bisa melu optimasi terjemahan sing terus-terusan. Sambungan lancar [github](//github.com) Lan komunitas open source liyane.
+> [!TIP]
+> Kita langganan filosofi `UNIX` " Kabeh iku file " lan bisa ngatur terjemahan menyang atusan basa tanpa ngenalake solusi tingkat perusahaan sing rumit lan rumit.
+> Sampeyan bisa nggunakake alat sing paling akrab kanggo nyunting `Markdown` (nanging sampeyan ora bisa nambah utawa mbusak paragraf), lan nggunakake cara sing paling akrab kanggo nindakake kontrol versi.
+> Basis kode bisa digawe minangka sumber terbuka kanggo file basa, lan kanthi bantuan proses `Pull Request` , pangguna global bisa melu optimasi terjemahan sing terus-terusan. Sambungan lancar [github](//github.com) Lan komunitas open source liyane.
 
 [→ Kanggo pandhuan pangguna, waca dokumentasi proyek](/i18) .
 
@@ -103,9 +102,10 @@ Sistem tiket multibasa sing bisa mbayar hadiah;
 A pasar dodolan kanggo komponen ngarep-mburi internasional;
 Ana akeh liyane sing arep kita lakoni.
 
-Kita ngarep-arep bisa ketemu karo wong-wong sing padha karo pikirane ing segara wong sing akeh.
-We are looking for sukarelawan kanggo melu ing pangembangan kode open source lan proofreading teks terjemahan.
-Yen sampeyan kasengsem, mangga [→ Klik ing kene kanggo ngisi profil sampeyan](https://ggl.link/i18n) banjur gabung karo [mailing list](https://groups.google.com/u/2/g/i18n-site) kanggo komunikasi.
-
 Kita pracaya ing open source lan tresna nuduhake,
 Sugeng rawuh kanggo nggawe masa depan tanpa wates bebarengan.
+
+> [!NOTE]
+> Kita ngarep-arep bisa ketemu karo wong-wong sing padha karo pikirane ing segara wong sing akeh.
+> We are looking for sukarelawan kanggo melu ing pangembangan kode open source lan proofreading teks terjemahan.
+> Yen sampeyan kasengsem, mangga [→ Klik ing kene kanggo ngisi profil sampeyan](https://ggl.link/i18n) banjur gabung karo [mailing list](https://groups.google.com/u/2/g/i18n-site) kanggo komunikasi.

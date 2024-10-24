@@ -33,11 +33,10 @@ Mabalin nga i-edit ti patarus.
 
 Baliwan ti orihinal a teksto ken ipatarus manen babaen ti makina, dagiti manual a panagbalbaliw iti patarus ket saan a maisurat (no daytoy a parapo ti orihinal a teksto ket saan a nabaliwan).
 
-Agsuskribirkami " pilosopia ti `UNIX` "
-
-Mabalinmo nga usaren dagiti kaaduan a pamiliar nga alikamen a mang-edit `Markdown` panagipatarus (ngem saanmo a mabalin ti manginayon wenno mangikkat kadagiti parapo), ken agusar ti kaaduan a pamiliar a wagas a mangaramid ti panagtengngel ti bersion.
-
-Ti maysa a batayan ti kodigo ket mabalin a maparsua a kas ti silulukat a taudan para kadagiti papeles ti pagsasao, ken babaen ti tulong ti `Pull Request` a proseso, dagiti sangalubongan nga agar-aramat ket mabalinda ti makipaset iti agtultuloy a panagoptimisar kadagiti panagipatarus. Seamless connection [github](//github.com) Ken dadduma pay nga open source a komunidad.
+> [!TIP]
+> Agsuskribirkami " pilosopia ti `UNIX` "
+> Mabalinmo nga usaren dagiti kaaduan a pamiliar nga alikamen a mang-edit `Markdown` panagipatarus (ngem saanmo a mabalin ti manginayon wenno mangikkat kadagiti parapo), ken agusar ti kaaduan a pamiliar a wagas a mangaramid ti panagtengngel ti bersion.
+> Ti maysa a batayan ti kodigo ket mabalin a maparsua a kas ti silulukat a taudan para kadagiti papeles ti pagsasao, ken babaen ti tulong ti `Pull Request` a proseso, dagiti sangalubongan nga agar-aramat ket mabalinda ti makipaset iti agtultuloy a panagoptimisar kadagiti panagipatarus. Seamless connection [github](//github.com) Ken dadduma pay nga open source a komunidad.
 
 [→ Para iti giya ti agar-aramat, pangngaasi a basaen ti dokumentasion ti proyekto](/i18) .
 
@@ -103,9 +102,10 @@ Maysa a multilingual a sistema ti tiket a makabayad kadagiti bounties;
 Maysa a merkado ti panaglako para kadagiti internasional a paset ti front-end;
 Adu pay ti kayattayo nga aramiden.
 
-Segseggaanmi ti makaam-ammo kadagiti kapada ti panagpampanunotda a tattao iti nalawa a baybay dagiti tattao.
-Agsapsapulkami kadagiti boluntario a makipaset iti pannakapataud ti open source code ken pannakakorehir dagiti naipatarus a teksto.
-No interesadoka, pangngaasim ta [→ I-click-mo ditoy tapno punnuam ti profile-mo](https://ggl.link/i18n) ket kalpasanna makikadua [iti mailing list](https://groups.google.com/u/2/g/i18n-site) para iti komunikasion.
-
 Mamatikami iti open source ken panagbibinninglay iti ayat, .
 Maikablaawkayo a mangparnuay iti awan beddengna a masakbayan a sangsangkamaysa.
+
+> [!NOTE]
+> Segseggaanmi ti makaam-ammo kadagiti kapada ti panagpampanunotda a tattao iti nalawa a baybay dagiti tattao.
+> Agsapsapulkami kadagiti boluntario a makipaset iti pannakapataud ti open source code ken pannakakorehir dagiti naipatarus a teksto.
+> No interesadoka, pangngaasim ta [→ I-click-mo ditoy tapno punnuam ti profile-mo](https://ggl.link/i18n) ket kalpasanna makikadua [iti mailing list](https://groups.google.com/u/2/g/i18n-site) para iti komunikasion.
