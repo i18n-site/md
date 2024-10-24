@@ -40,7 +40,7 @@ Aşakdaky ýaly ýazylýar
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Bellik `> [!NOTE]`

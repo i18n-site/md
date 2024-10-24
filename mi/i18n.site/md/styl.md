@@ -40,7 +40,7 @@ E penei ana te tuhi
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Korero `> [!NOTE]`

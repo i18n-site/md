@@ -40,7 +40,7 @@ Kaserat mangkene
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Komentar `> [!NOTE]`

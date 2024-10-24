@@ -40,7 +40,7 @@ Kastoy ti pannakaisuratna
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Remark `> [!NOTE]`

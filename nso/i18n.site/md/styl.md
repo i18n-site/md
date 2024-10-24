@@ -40,7 +40,7 @@ E ngwadilwe ka tsela ye e latelago
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Tlhokomedišo `> [!NOTE]`

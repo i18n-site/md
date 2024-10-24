@@ -40,7 +40,7 @@ Zapisano je takole
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Opomba `> [!NOTE]`

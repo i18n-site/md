@@ -40,7 +40,7 @@ Mae wedi'i ysgrifennu fel a ganlyn
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Sylw `> [!NOTE]`

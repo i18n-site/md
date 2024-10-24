@@ -40,7 +40,7 @@ Ibhalwe kanje
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Phawula `> [!NOTE]`

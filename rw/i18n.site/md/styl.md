@@ -40,7 +40,7 @@ Byanditswe ku buryo bukurikira
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Reba `> [!NOTE]`

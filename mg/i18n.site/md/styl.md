@@ -40,7 +40,7 @@ Toy izao no voasoratra
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Fanamarihana `> [!NOTE]`

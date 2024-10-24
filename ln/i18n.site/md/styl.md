@@ -40,7 +40,7 @@ Ekomami boye
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Liyebisi `> [!NOTE]`

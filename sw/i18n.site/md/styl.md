@@ -40,7 +40,7 @@ Imeandikwa hivi
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Maoni `> [!NOTE]`

@@ -40,7 +40,7 @@ Analisti `MarkDown` i veglës së ndërtimit të uebsajtit `i18n.site` ka optimi
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Vërejtje `> [!NOTE]`

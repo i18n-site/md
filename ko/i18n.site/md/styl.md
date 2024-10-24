@@ -40,7 +40,7 @@
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### 비고 `> [!NOTE]`

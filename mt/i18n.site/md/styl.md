@@ -40,7 +40,7 @@ Huwa miktub kif ġej
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Rimarka `> [!NOTE]`

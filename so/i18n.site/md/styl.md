@@ -40,7 +40,7 @@ Waxay u qoran tahay sidan
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Xusuusin `> [!NOTE]`

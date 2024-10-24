@@ -40,7 +40,7 @@ Li ekri jan sa a
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Remak `> [!NOTE]`

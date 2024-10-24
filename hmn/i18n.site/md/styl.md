@@ -40,7 +40,7 @@ Nws yog sau raws li nram no
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Lus Cim `> [!NOTE]`

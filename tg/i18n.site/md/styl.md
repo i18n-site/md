@@ -40,7 +40,7 @@
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Эзоҳ `> [!NOTE]`

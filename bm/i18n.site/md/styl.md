@@ -40,7 +40,7 @@ A sɛbɛnnen bɛ nin cogo la
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Kɔlɔsili `> [!NOTE]`

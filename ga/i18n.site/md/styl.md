@@ -40,7 +40,7 @@ Tá sé scríofa mar seo a leanas
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Nóta `> [!NOTE]`

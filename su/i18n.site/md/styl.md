@@ -40,7 +40,7 @@ Ditulis kieu
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Catetan `> [!NOTE]`

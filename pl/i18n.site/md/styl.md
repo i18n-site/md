@@ -40,7 +40,7 @@ Sformułowanie brzmi następująco
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Przypis `> [!NOTE]`

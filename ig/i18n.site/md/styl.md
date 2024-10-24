@@ -40,7 +40,7 @@ Edere ya dị ka ndị a
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Okwu `> [!NOTE]`

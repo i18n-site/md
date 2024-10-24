@@ -40,7 +40,7 @@ Kayhinata qillqasqa kachkan
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Rimanakuy `> [!NOTE]`

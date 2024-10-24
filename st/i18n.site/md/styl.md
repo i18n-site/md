@@ -40,7 +40,7 @@ E ngotsoe ka tsela e latelang
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Tlhaloso `> [!NOTE]`

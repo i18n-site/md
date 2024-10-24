@@ -40,7 +40,7 @@ Zvakanyorwa sezvinotevera
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Chirevo `> [!NOTE]`

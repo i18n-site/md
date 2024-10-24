@@ -40,7 +40,7 @@
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### குறிப்பு `> [!NOTE]`

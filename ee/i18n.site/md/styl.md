@@ -40,7 +40,7 @@ Woŋlɔe ale
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### De Dzesii `> [!NOTE]`

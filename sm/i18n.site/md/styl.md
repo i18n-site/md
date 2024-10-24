@@ -40,7 +40,7 @@ Ua tusia e faapea
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Fa'amatalaga `> [!NOTE]`

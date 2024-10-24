@@ -40,7 +40,7 @@ Zinalembedwa motere
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Onaninso `> [!NOTE]`

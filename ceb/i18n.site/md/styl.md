@@ -40,7 +40,7 @@ Kini gisulat ingon sa mosunod
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Pahinumdom `> [!NOTE]`

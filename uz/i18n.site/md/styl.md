@@ -40,7 +40,7 @@ U quyidagicha yozilgan
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Izoh `> [!NOTE]`

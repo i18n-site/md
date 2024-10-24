@@ -40,7 +40,7 @@ Kiwandiikiddwa bwe kiti
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Ekigambo `> [!NOTE]`

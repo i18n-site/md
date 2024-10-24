@@ -40,7 +40,7 @@ Píše se následovně
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Poznámka `> [!NOTE]`

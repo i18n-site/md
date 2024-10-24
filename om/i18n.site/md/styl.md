@@ -40,7 +40,7 @@ Akka armaan gadiitti barreeffameera
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Yaada `> [!NOTE]`

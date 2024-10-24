@@ -40,7 +40,7 @@ Ojehai kóicha
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Ñe’ẽñemi `> [!NOTE]`

@@ -40,7 +40,7 @@ Tai parašyta taip
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Pastaba `> [!NOTE]`

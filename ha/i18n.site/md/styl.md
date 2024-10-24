@@ -40,7 +40,7 @@ An rubuta kamar haka
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Bayanin `> [!NOTE]`

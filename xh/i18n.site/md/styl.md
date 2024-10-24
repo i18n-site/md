@@ -40,7 +40,7 @@ Ibhalwe ngolu hlobo lulandelayo
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Phawula `> [!NOTE]`

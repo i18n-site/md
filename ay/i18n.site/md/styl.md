@@ -40,7 +40,7 @@ Ukax akham qillqt’atawa
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Uñakipt’aña `> [!NOTE]`

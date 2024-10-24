@@ -40,7 +40,7 @@ Ua kakauia penei
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### ʻŌlelo `> [!NOTE]`

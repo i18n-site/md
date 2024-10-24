@@ -40,7 +40,7 @@ O ti wa ni kikọ bi wọnyi
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Akiyesi `> [!NOTE]`

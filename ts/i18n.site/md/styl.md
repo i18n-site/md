@@ -40,7 +40,7 @@ Yi tsariwile hi ndlela leyi landzelaka
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Xitsundzuxo Xa `> [!NOTE]`

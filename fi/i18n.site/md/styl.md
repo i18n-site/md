@@ -40,7 +40,7 @@ Teksti on muotoiltu seuraavasti
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Huomio `> [!NOTE]`

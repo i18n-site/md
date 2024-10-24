@@ -40,7 +40,7 @@ Wɔakyerɛw no sɛnea edidi so yi
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Nkyerɛkyerɛmu `> [!NOTE]`

@@ -40,7 +40,7 @@ Lengri lestur : [vegna tekur Markdown setningafræði Nuggets ( `**……**` ) s
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Athugasemd `> [!NOTE]`

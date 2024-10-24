@@ -40,7 +40,7 @@ Plilongigita : [Kial Markdown sintakso ( `**……**` ) de Nuggets foje ne efika
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Rimarko `> [!NOTE]`

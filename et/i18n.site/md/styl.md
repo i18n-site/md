@@ -40,7 +40,7 @@ See on kirjutatud järgmiselt
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Märkus `> [!NOTE]`

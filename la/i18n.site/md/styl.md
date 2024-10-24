@@ -40,7 +40,7 @@ Sic scriptum est
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Animadverte `> [!NOTE]`

@@ -40,7 +40,7 @@ Skrive på følgende måte
 
 ```
 > [!TIP]
-> your content
+> YOUR CONTENT
 ```
 
 ### Merking `> [!NOTE]`
