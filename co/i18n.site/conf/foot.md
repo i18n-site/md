@@ -1,16 +1,8 @@
-# Footer
+# Piede Di Pagina Persunalizata
 
 Sempre pigliate u prughjettu demo cum'è un esempiu, `.i18n/htm/foot.pug` in u repertoriu `md` definisce u footer di u situ web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) hè una lingua di mudellu chì genera `HTML` 's.
-
-[➔ Cliccate quì per amparà a grammatica di pug](https://pugjs.org)
-
-**Ùn scrivite micca `css` è `js` in `foot.pug`** , altrimenti ci sarà un errore.
-
-Per piacè riferite à i seguenti, u stilu hè scrittu in u currispundente `.css` , è l'interazzione hè ottenuta creendu cumpunenti web.
 
 ## Stile Di Footer
 

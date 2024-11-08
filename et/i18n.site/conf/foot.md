@@ -1,16 +1,8 @@
-# Jalus
+# Kohandatud Jalus
 
 Võttes endiselt näitena demoprojekti, määrab `.i18n/htm/foot.pug` kataloogis `md` veebisaidi jaluse.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) on mallikeel, mis genereerib `HTML` -sid.
-
-[➔ Keele grammatika õppimiseks klõpsake siin pug](https://pugjs.org)
-
-**Ärge kirjutage `css` ja `js` `foot.pug` -sse** , vastasel juhul tekib viga.
-
-Palun vaadake järgmist, stiil kirjutatakse vastavasse `.css` -sse ja interaktsioon saavutatakse veebikomponentide loomisega.
 
 ## Jaluse Stiil
 

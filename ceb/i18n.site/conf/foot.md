@@ -1,16 +1,8 @@
-# Footer
+# Nahiangay Nga Footer
 
 Gikuha gihapon ang demo nga proyekto isip usa ka pananglitan, ang `.i18n/htm/foot.pug` sa `md` nga direktoryo naghubit sa footer sa website.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) kay usa ka template nga lengguwahe nga nagmugna ug `HTML` .
-
-[➔ Pag-klik dinhi aron mahibal-an ang gramatika sa pug](https://pugjs.org)
-
-**Ayaw isulat `css` ug `js` sa `foot.pug`** , kung dili adunay sayup.
-
-Palihug tan-awa ang mosunud, ang istilo gisulat sa katumbas nga `.css` , ug ang interaksyon makab-ot pinaagi sa paghimo sa mga sangkap sa web.
 
 ## Estilo Sa Footer
 

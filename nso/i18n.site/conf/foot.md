@@ -1,16 +1,8 @@
-# Letlakala La Ka Tlase
+# Sengwalwa Sa Ka Tlase Seo Se Rulagantšwego
 
 E sa dutše e tšea porojeke ya demo bjalo ka mohlala, `.i18n/htm/foot.pug` ka go `md` directory e hlaloša letlakala la ka tlase la weposaete.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ke polelo ya thempleite yeo e tšweletšago `HTML` 's.
-
-[➔ Tobetsa mo go ithuta popopolelo ya pug](https://pugjs.org)
-
-**O se ke wa ngwala `css` le `js` go `foot.pug`** , go sego bjalo go tla ba le phošo.
-
-Hle lebelela tše di latelago, setaele se ngwadilwe ka gare ga `.css` ye e swanetšego, gomme tirišano e fihlelelwa ka go hlama dikarolo tša wepe.
 
 ## Setaele Sa Letlakala La Ka Tlase
 

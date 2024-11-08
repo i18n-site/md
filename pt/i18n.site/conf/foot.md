@@ -1,16 +1,8 @@
-# Rodapé
+# Rodapé Personalizado
 
 Ainda tomando como exemplo o projeto demo, `.i18n/htm/foot.pug` no diretório `md` define o rodapé do site.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) é uma linguagem de modelo que gera `HTML` 's.
-
-[➔ Clique aqui para aprender a gramática de pug](https://pugjs.org)
-
-**Não escreva `css` e `js` em `foot.pug`** , caso contrário ocorrerá um erro.
-
-Consulte o seguinte, o estilo é escrito no `.css` correspondente e a interação é obtida através da criação de componentes da web.
 
 ## Estilo De Rodapé
 
@@ -18,7 +10,7 @@ Existem três arquivos `css` abaixo de `md/.i18n/htm` no projeto de demonstraç�
 
 * `foot.css` : Estilo de rodapé
 * `import.css` : 1Estilo `i18n.site` para todo o site
-* `conf.css` : e fontes de rodapé
+* `conf.css` : Ícones e fontes de rodapé
 
 ### Fonte Do Ícone
 

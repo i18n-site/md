@@ -1,16 +1,8 @@
-# Na Nse Ya Lokasa
+# Footer Oyo Esalemi Na Kolanda Bamposa Ya Moto
 
 Encore kozua projet ya démonstration lokola exemple, `.i18n/htm/foot.pug` na répertoire `md` e définir footer ya site internet.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ezali monoko ya modèle oyo ebimisaka `HTML` 's.
-
-[➔ Finá awa mpo na koyeba gramere ya pug](https://pugjs.org)
-
-**Kokoma `css` na `js` na `foot.pug` te** , soki te libunga ekozala.
-
-Svp tala oyo elandi, style ekomami na `.css` oyo ekokani, mpe interaction ezuami na kosala ba composants web.
 
 ## Style Ya Footer
 

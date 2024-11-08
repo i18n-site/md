@@ -1,16 +1,8 @@
-# Chaki Qillqa
+# Sapanchasqa Chaki Qillqa
 
 Hinallataqmi demo proyectota huk ejemplo hina hapispa, `.i18n/htm/foot.pug` `md` directoriopi web kitipa chaki qillqanta riqsichin.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) nisqaqa huk plantilla simim , `HTML` 's nisqakunata paqarichiq.
-
-[➔ Kaypi ñit'iy pug](https://pugjs.org)
-
-**Ama `foot.pug` nisqapi `css` , `js` qillqaychu** , mana chayqa pantaymi kanqa.
-
-Ama hina kaspa, kay qatiqpi qhaway, estiloqa tupaq `.css` kaqman qillqasqa kachkan, chaymanta tinkiyninqa web componentakunata ruwaspa aypakun.
 
 ## Chakipi Kaq Estilo
 

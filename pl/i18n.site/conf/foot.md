@@ -1,16 +1,8 @@
-# Stopka
+# Dostosowana Stopka
 
 Wciąż biorąc za przykład projekt demonstracyjny, `.i18n/htm/foot.pug` w katalogu `md` definiuje stopkę strony internetowej.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) to język szablonów, który generuje `HTML` .
-
-[➔ Kliknij tutaj, aby poznać gramatykę pug](https://pugjs.org)
-
-**Nie zapisuj `css` i `js` w `foot.pug`** , w przeciwnym razie wystąpi błąd.
-
-Proszę zapoznać się z poniższym, styl jest zapisywany w odpowiednim `.css` , a interakcję osiąga się poprzez utworzenie komponentów sieciowych.
 
 ## Styl Stopki
 

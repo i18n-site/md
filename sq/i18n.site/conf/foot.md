@@ -1,16 +1,8 @@
-# Fundi I Faqes
+# Fundi I Personalizuar
 
 Ende duke marrë si shembull projektin demo, `.i18n/htm/foot.pug` në drejtorinë `md` përcakton fundin e faqes në internet.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) është një gjuhë shabllon që gjeneron `HTML` .
-
-[➔ Klikoni këtu për të mësuar gramatikën e pug](https://pugjs.org)
-
-**Mos shkruani `css` dhe `js` në `foot.pug`** , përndryshe do të ketë një gabim.
-
-Ju lutemi referojuni sa më poshtë, stili shkruhet në `.css` përkatëse dhe ndërveprimi arrihet duke krijuar komponentë ueb.
 
 ## Stili I Fundvitit
 

@@ -1,16 +1,8 @@
-# Fæti
+# Sérsniðinn Fótur
 
 Enn að taka kynningarverkefnið sem dæmi, `.i18n/htm/foot.pug` í `md` skránni skilgreinir fótinn á vefsíðunni.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) er sniðmát tungumál sem býr til `HTML` .
-
-[➔ Smelltu hér til að læra málfræði pug](https://pugjs.org)
-
-**Ekki skrifa `css` og `js` í `foot.pug`** , annars verður villa.
-
-Vinsamlega skoðaðu eftirfarandi, stíllinn er skrifaður í samsvarandi `.css` , og samspilið er náð með því að búa til vefhluta.
 
 ## Fótastíll
 

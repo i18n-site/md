@@ -1,22 +1,14 @@
-# Pied De Page
+# Pied De Page Personnalisé
 
 Toujours en prenant le projet de démonstration comme exemple, `.i18n/htm/foot.pug` dans le répertoire `md` définit le pied de page du site Web.
 
 ![](https://p.3ti.site/1721286077.avif)
 
-[`pug`](https://pugjs.org) est un langage de modèle qui génère `HTML` .
-
-[➔ Cliquez ici pour apprendre la grammaire de pug](https://pugjs.org)
-
-**N'écrivez pas `css` et `js` dans `foot.pug`** , sinon il y aura une erreur.
-
-Veuillez vous référer à ce qui suit, le style est écrit dans le `.css` correspondant et l'interaction est obtenue en créant des composants Web.
-
 ## Style De Pied De Page
 
 Il y a trois fichiers `css` sous `md/.i18n/htm` dans le projet de démonstration.
 
-* `foot.css` :
+* `foot.css` : Style de pied de page
 * `import.css` : 1Style `i18n.site` pour l'ensemble du site
 * `conf.css` : Icônes et polices de pied de page
 

@@ -1,16 +1,8 @@
-# Piè Di Pagina
+# Piè Di Pagina Personalizzato
 
 Sempre prendendo come esempio il progetto demo, `.i18n/htm/foot.pug` nella directory `md` definisce il footer del sito web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) è un linguaggio modello che genera `HTML` .
-
-[➔ Clicca qui per imparare la grammatica di pug](https://pugjs.org)
-
-**Non scrivere `css` e `js` in `foot.pug`** , altrimenti si verificherà un errore.
-
-Fare riferimento a quanto segue, lo stile è scritto nel corrispondente `.css` e l'interazione viene ottenuta creando componenti web.
 
 ## Stile Piè Di Pagina
 

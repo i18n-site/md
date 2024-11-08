@@ -1,18 +1,10 @@
-# Bunntekst
+# Tilpasset Bunntekst
 
 Fortsatt å ta demoprosjektet som et eksempel, definerer `.i18n/htm/foot.pug` i `md` -katalogen bunnteksten til nettstedet.
 
 ![](https://p.3ti.site/1721286077.avif)
 
-[`pug`](https://pugjs.org) er et malspråk som genererer `HTML` -er.
-
-[➔ Klikk her for å lære grammatikken til pug](https://pugjs.org)
-
-**Ikke skriv `css` og `js` i `foot.pug`** , ellers vil det oppstå en feil.
-
-Vennligst se følgende, stilen er skrevet inn i den tilsvarende `.css` , og interaksjonen oppnås ved å lage webkomponenter.
-
-## Bunntekst Stil
+## Bunntekststil
 
 Det er tre `css` -filer under `md/.i18n/htm` i demoprosjektet.
 

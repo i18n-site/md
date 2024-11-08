@@ -1,16 +1,8 @@
-# Voetskrif
+# Pasgemaakte Voetskrif
 
 Neem steeds die demo-projek as 'n voorbeeld, `.i18n/htm/foot.pug` in die `md` gids definieer die voetskrif van die webwerf.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) is 'n sjabloontaal wat `HTML` genereer.
-
-[➔ Klik hier om die grammatika van pug](https://pugjs.org)
-
-**Moenie `css` en `js` in `foot.pug` skryf nie** , anders sal daar 'n fout wees.
-
-Verwys asseblief na die volgende, die styl word in die ooreenstemmende `.css` geskryf, en die interaksie word verkry deur webkomponente te skep.
 
 ## Voetskrif Styl
 

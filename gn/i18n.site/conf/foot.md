@@ -1,16 +1,8 @@
-# Pype
+# Pie De Pie Personalizado
 
 Ojegueraha gueteri techapyrãramo proyecto demostración rehegua, `.i18n/htm/foot.pug` directorio `md` -pe odefini página web ryru.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) haꞌehína peteĩ ñeꞌepykuaa plantilla rehegua omoheñóiva `HTML` .
-
-[➔ Emboguejy ko’ápe reikuaa haĝua ñe’ẽtekuaa pug](https://pugjs.org)
-
-**Ani rehai `css` ha `js` `foot.pug` -pe** , ndaupéichairamo ojejavýta.
-
-Ehechamína ko’ãva, estilo ojehai `.css` ojoajúvape, ha pe joaju ojehupyty ojejapo rupi componente web.
 
 ## Estilo Pyti’a Rehegua
 
@@ -67,7 +59,7 @@ customElements.define(
 )
 ```
 
-## Py’a Py’a Heta Ñe’ẽ Rehegua
+## Py’a Py’a Heta Ñe’ẽme
 
 Pe código oĩva `.i18n/htm/foot.pug` pe ha'e kóicha :
 

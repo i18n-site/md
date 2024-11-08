@@ -1,16 +1,8 @@
-# Umutwe
+# Umutwe Wihariye
 
 Gufata umushinga wa demo nkurugero, `.i18n/htm/foot.pug` mububiko `md` busobanura munsi yurubuga.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ni inyandikorugero imvugo itanga `HTML` 's.
-
-[Kanda hano wige ikibonezamvugo cya pug](https://pugjs.org)
-
-**Ntukandike `css` na `js` muri `foot.pug`** , bitabaye ibyo hazabaho ikosa.
-
-Nyamuneka reba kuri ibi bikurikira, imiterere yanditswe muri `.css` ihuye, kandi imikoranire igerwaho mugukora ibice byurubuga.
 
 ## Imiterere Yumutwe
 

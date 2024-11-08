@@ -1,16 +1,8 @@
-# Footer
+# Oanpaste Foettekst
 
 Noch altyd it demo-projekt as foarbyld, `.i18n/htm/foot.pug` yn 'e `md` -map definiearret de foettekst fan' e webside.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) is in sjabloantaal dy't `HTML` 's genereart.
-
-[➔ Klik hjir om de grammatika fan te learen pug](https://pugjs.org)
-
-**Skriuw gjin `css` en `js` yn `foot.pug`** , oars komt der in flater.
-
-Ferwize asjebleaft nei it folgjende, de styl is skreaun yn 'e oerienkommende `.css` , en de ynteraksje wurdt berikt troch it meitsjen fan webkomponinten.
 
 ## Footer Styl
 
@@ -20,7 +12,7 @@ D'r binne trije `css` -bestannen ûnder `md/.i18n/htm` yn it demoprojekt.
 * `import.css` : `i18n.site` styl foar de hiele side
 * `conf.css` : Footer-ikoanen en lettertypen
 
-### Byldkaike Lettertype
+### Ikoan Lettertype
 
 It footer `F` iconfont.cn [Ingelske ferzje](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
 
@@ -48,7 +40,7 @@ Ferwize asjebleaft net direkt nei it lettertypetriem fan iconfont.cn, om't it ne
 
 Jo kinne net skriuwe `js` yn `foot.pug` As ynteraksje nedich is, oanpasse asjebleaft de webkomponint.
 
-[In webkomponint](https://www.freecodecamp.org/news/build-your-first-web-component/) kin wurde definieare yn `md/.i18n/htm/index.js` en dan brûkt yn `foot.pug` .
+[In webkomponint](https://www.freecodecamp.org/news/build-your-first-web-component/) kin definieare wurde yn `md/.i18n/htm/index.js` en dan brûkt wurde yn `foot.pug` .
 
 It is maklik om webkomponinten te meitsjen, lykas oanpaste `<x-img>` .
 

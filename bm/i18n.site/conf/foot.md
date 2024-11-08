@@ -1,16 +1,8 @@
-# Senna-Tɛgɛrɛ
+# Senna-Sɛbɛn Min Bɛ Kɛ Ka Kɛɲɛ Ni Mɔgɔw Sago Ye
 
 Halibi ka demo porozɛ ta misali la, `.i18n/htm/foot.pug` min bɛ `md` ɲɛbilasɛbɛn kɔnɔ, o bɛ siti in senfɛ-sɛbɛn ɲɛfɔ.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ye jatebɔkan ye min bɛ `HTML` 'w Bɔ.
-
-[➔ Aw ye nin yɔrɔ digi walasa ka daɲɛgafe dɔn pug](https://pugjs.org)
-
-**Aw kana `css` ni `js` sɛbɛn `foot.pug` kɔnɔ** , n’o tɛ fili bɛna kɛ.
-
-Aw ye ninnu lajɛ, cogoya sɛbɛnnen bɛ `.css` bɛnnin kɔnɔ, wa jɛɲɔgɔnya bɛ sɔrɔ ni ɛntɛrinɛti yɔrɔw dabɔli ye.
 
 ## Senfɛla Cogoya
 
@@ -84,7 +76,7 @@ Yan `${I18N.C}` bɛ bɛn `en/i18n.yml` ma :
 C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 ```
 
-Ni i bɛ baara Kɛ ni `${I18N.xxx}` min ni nin sɛbɛnnikɛcogo in bɛ Taa ɲɔgɔn fɛ, n’o ni `i18n.yml` Fàra ɲɔgɔn kan, i bɛ Se ka sennasanbara in kan caman Kɛ diɲɛnatigɛ la.
+Ni i bɛ baara Kɛ ni `${I18N.xxx}` min ni nin sɛbɛnni fɛɛrɛ in bɛ Taa ɲɔgɔn fɛ, n’o ni `i18n.yml` Fàra ɲɔgɔn kan, i bɛ Se ka sennasanbara in kan caman Kɛ diɲɛnatigɛ la.
 
 `class="a"` farali jɛgɛnsira kan, o ye ka jɛgɛnsira bali ka wuli ka kɛ `MarkDown` ye.A’ ye :
  [➔ `YAML` cogo min na , jɛgɛnsira `HTML` kana wuli ka kɛ `Markdown` :](/i18/qa#H2) !

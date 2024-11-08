@@ -1,16 +1,8 @@
-# Oina
+# Pertsonalizatutako Orri-Oina
 
 Demo proiektua adibide gisa hartuta, `md` direktorioko `.i18n/htm/foot.pug` webgunearen oina definitzen du.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) txantiloi-lengoaia da, `HTML` -ak sortzen dituena.
-
-[➔ Egin klik hemen gramatika ikasteko pug](https://pugjs.org)
-
-**Ez idatzi `css` eta `js` `foot.pug` -n** , bestela errore bat egongo da.
-
-Mesedez, ikusi honako hau, estiloa dagokion `.css` -an idazten da eta interakzioa web osagaiak sortuz lortzen da.
 
 ## Oinaren Estiloa
 
@@ -46,7 +38,7 @@ Mesedez, ez ezazu zuzenean erreferentzia iconfont.cn letra-fitxategia safari ara
 
 ## Web Osagaiak
 
-Ezin duzu `js` `foot.pug` idatzi. Elkarrekintza beharrezkoa bada, pertsonalizatu web osagaia.
+Ezin duzu `js` `foot.pug` idatzi. Elkarreragina beharrezkoa bada, pertsonalizatu web osagaia.
 
 [Web-osagai bat](https://www.freecodecamp.org/news/build-your-first-web-component/) `md/.i18n/htm/index.js` -n defini daiteke eta gero `foot.pug` -ean erabil daiteke.
 

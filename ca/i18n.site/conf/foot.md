@@ -1,16 +1,8 @@
-# Peu De Pàgina
+# Peu De Pàgina Personalitzat
 
 Encara prenent el projecte de demostració com a exemple, `.i18n/htm/foot.pug` al directori `md` defineix el peu de pàgina del lloc web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) és un llenguatge de plantilla que genera `HTML` .
-
-[➔ Feu clic aquí per aprendre la gramàtica de pug](https://pugjs.org)
-
-**No escriviu `css` i `js` en `foot.pug`** , en cas contrari hi haurà un error.
-
-Consulteu el següent, l'estil s'escriu al `.css` corresponent i la interacció s'aconsegueix creant components web.
 
 ## Estil Peu De Pàgina
 
@@ -18,11 +10,11 @@ Hi ha tres fitxers `css` sota `md/.i18n/htm` al projecte de demostració.
 
 * `foot.css` : Estil de peu de pàgina
 * `import.css` : 1Estil `i18n.site` per a tot el lloc
-* `conf.css` : Icones i tipus de lletra de peu
+* `conf.css` : Icones i tipus de lletra del peu
 
 ### Font D'icona
 
-La icona de peu de pàgina es genera creant un tipus de lletra anomenat iconfont.cn ( [versió en anglès](https://www.iconfont.cn/?lang=en-us) `F` /[版](https://www.iconfont.cn/?lang=zh)).
+La icona de peu de pàgina es genera creant un tipus de lletra anomenat iconfont.cn ( [versió en anglès](https://www.iconfont.cn/?lang=en-us) `F` /[版!](https://www.iconfont.cn/?lang=zh) ).
 
 Si us plau, creeu el vostre propi tipus de lletra d'icona segons sigui necessari i substituïu la configuració següent per `conf.css` :
 

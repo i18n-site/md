@@ -1,16 +1,8 @@
-# Alatunniste
+# Mukautettu Alatunniste
 
 Edelleen esittelyprojektin esimerkkinä `.i18n/htm/foot.pug` `md` -hakemistossa määrittää verkkosivuston alatunnisteen.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) on mallikieli, joka luo `HTML` :n.
-
-[➔ Napsauta tästä oppiaksesi kieliopin pug](https://pugjs.org)
-
-**Älä kirjoita `css` ja `js` `foot.pug` :aan** , muuten tapahtuu virhe.
-
-Katso seuraavaa, tyyli kirjoitetaan vastaavaan `.css` :aan ja vuorovaikutus saadaan aikaan luomalla verkkokomponentteja.
 
 ## Alatunnisteen Tyyli
 

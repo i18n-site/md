@@ -1,16 +1,8 @@
-# Footer
+# Footer Ngaropéa
 
 Masih nyandak proyék demo salaku conto, `.i18n/htm/foot.pug` dina diréktori `md` ngahartikeun footer halaman wéb.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) nyaéta basa citakan anu ngahasilkeun `HTML` 's.
-
-[➔ Klik di dieu pikeun diajar tata basa pug](https://pugjs.org)
-
-**Entong nyerat `css` sareng `js` dina `foot.pug`** , upami henteu bakal aya kasalahan.
-
-Mangga tingal di handap, gaya ditulis kana `.css` pakait, sarta interaksi kahontal ku nyieun komponén web.
 
 ## Gaya Footer
 
@@ -87,4 +79,4 @@ C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 Ngagunakeun `${I18N.xxx}` sarupa metoda tulisan ieu, digabungkeun jeung `i18n.yml` , Anjeun bisa ngahontal internationalization multi-basa footer nu.
 
 Nambahkeun `class="a"` kana tautan nyaéta pikeun nyegah tautan dirobih janten `MarkDown` Tingali :
- [➔ `YAML` : Kumaha nyegah link `HTML` dirobih jadi `Markdown`](/i18/qa#H2) .
+ [➔ `YAML` : Kumaha carana nyegah link `HTML` dirobah jadi `Markdown`](/i18/qa#H2) .

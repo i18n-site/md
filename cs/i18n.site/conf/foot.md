@@ -1,20 +1,12 @@
-# Zápatí
+# Přizpůsobené Zápatí
 
 Stále beru demo projekt jako příklad, `.i18n/htm/foot.pug` v adresáři `md` definuje zápatí webu.
 
 ![](https://p.3ti.site/1721286077.avif)
 
-[`pug`](https://pugjs.org) je jazyk šablony, který generuje `HTML` .
-
-[➔ Kliknutím sem se naučíte gramatiku pug](https://pugjs.org)
-
-**Nepište `css` a `js` v `foot.pug`** , jinak dojde k chybě.
-
-Přečtěte si prosím následující, styl je zapsán do odpovídající `.css` a interakce je dosaženo vytvořením webových komponent.
-
 ## Styl Zápatí
 
-V demo projektu jsou tři soubory `css` pod `md/.i18n/htm` .
+V demo projektu jsou tři `css` soubory pod `md/.i18n/htm` .
 
 * `foot.css` :
 * `import.css` : `i18n.site` styl pro celý web

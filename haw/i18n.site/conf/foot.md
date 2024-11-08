@@ -1,23 +1,15 @@
-# Footer
+# Ka Wāwae I Hoʻopilikino ʻia
 
-Ke lawe mau nei i ka papahana demo ma ke ʻano he laʻana, `.i18n/htm/foot.pug` ma ka papa kuhikuhi `md` e wehewehe i ka wāwae o ka pūnaewele.
+Ke lawe nei i ka papahana demo ma ke ʻano he laʻana, `.i18n/htm/foot.pug` ma ka papa kuhikuhi `md` e wehewehe i ka wāwae o ka pūnaewele.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-ʻO [`pug`](https://pugjs.org) kahi ʻōlelo maʻamau e hoʻopuka ana i `HTML` 's.
-
-[➔ Kaomi ma aneʻi e aʻo i ka grammar o pug](https://pugjs.org)
-
-**Mai kākau i `css` a me `js` i `foot.pug`** , i ʻole e hewa.
-
-E ʻoluʻolu e nānā i kēia mau mea, ua kākau ʻia ke ʻano i ka `.css` kūpono, a loaʻa ka pilina ma ka hana ʻana i nā ʻāpana pūnaewele.
 
 ## Kāhua Wāwae
 
 Aia ʻekolu `css` faila ma lalo o `md/.i18n/htm` i ka papahana demo.
 
 * `foot.css` :
-* `import.css` : 1Kaila `i18n.site` no ka pūnaewele holoʻokoʻa
+* `import.css` : `i18n.site` no ka paena holoʻokoʻa
 * `conf.css` :
 
 ### Kiʻi Kikokikona
@@ -67,7 +59,7 @@ customElements.define(
 )
 ```
 
-## Wāwae Wāwae ʻōlelo He Nui
+## Ka Wāwae ʻōlelo He Nui
 
 Penei ke code ma `.i18n/htm/foot.pug` :
 

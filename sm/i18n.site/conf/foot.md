@@ -1,16 +1,8 @@
-# Vae
+# Fa'asinomaga Vae
 
 O loʻo avea pea le faʻataʻitaʻiga faʻataʻitaʻiga e fai ma faʻataʻitaʻiga, `.i18n/htm/foot.pug` i le `md` directory o loʻo faʻamatalaina le vae o le upega tafaʻilagi.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ose gagana fa'ata'ita'i e fa'atupu `HTML` 's.
-
-[➔ Kiliki iinei e aoao ai le kalama o pug](https://pugjs.org)
-
-**Aua le tusia `css` ma `js` i `foot.pug`** , a leai o le ai ai se mea sese.
-
-Fa'amolemole va'ai i mea o lo'o mulimuli mai, o le sitaili e tusia i totonu o le `.css` fetaui, ma le fegalegaleai e ausia e ala i le fatuina o vaega i luga ole laiga.
 
 ## Sitaili Vae
 
@@ -24,7 +16,7 @@ E tolu `css` faila i lalo ole `md/.i18n/htm` ile poloketi faʻataʻitaʻiga.
 
 O le fa'ailoga vae e fa'atupuina e ala i le fa'atupuina o se vai papatisoga e [ta'ua](https://www.iconfont.cn/?lang=zh) `F` [le](https://www.iconfont.cn/?lang=en-us) / iconfont.cn
 
-Fa'amolemole fai lau oe lava fa'amaufa'ailoga pe a mana'omia ma sui le fa'asologa o lo'o i lalo ile `conf.css` :
+Fa'amolemole fai sau lava fa'amaufa'ailoga icon pe'ā mana'omia ma sui le fa'atonuga lea ile `conf.css` :
 
 ```
 @font-face {
@@ -42,7 +34,7 @@ Fa'amolemole fai lau oe lava fa'amaufa'ailoga pe a mana'omia ma sui le fa'asolog
 }
 ```
 
-Fa'amolemole aua le fa'asino sa'o le faila faila o le iconfont.cn aua e le mafai ona utaina i luga ole su'esu'ega safari.
+Fa'amolemole aua le fa'asino sa'o le faila faila o le iconfont.cn aua e le mafai ona utaina i luga o le safari browser.
 
 ## Vaega I Luga Ole Laiga
 

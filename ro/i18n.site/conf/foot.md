@@ -1,16 +1,8 @@
-# Subsolul
+# Subsol Personalizat
 
 Luând în continuare proiectul demo ca exemplu, `.i18n/htm/foot.pug` din directorul `md` definește subsolul site-ului.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) este un limbaj șablon care generează `HTML` .
-
-[➔ Faceți clic aici pentru a afla gramatica lui pug](https://pugjs.org)
-
-**Nu scrieți `css` și `js` în `foot.pug`** , altfel va apărea o eroare.
-
-Vă rugăm să consultați următoarele, stilul este scris în `.css` corespunzător, iar interacțiunea este realizată prin crearea de componente web.
 
 ## Stilul Subsol
 

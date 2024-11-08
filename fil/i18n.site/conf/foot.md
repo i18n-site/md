@@ -1,16 +1,8 @@
-# Footer
+# Naka-Customize Na Footer
 
 Kinukuha pa rin ang demo project bilang isang halimbawa, `.i18n/htm/foot.pug` sa `md` na direktoryo ang tumutukoy sa footer ng website.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ay isang template na wika na bumubuo ng `HTML` 's.
-
-[➔ Mag-click dito para matutunan ang grammar ng pug](https://pugjs.org)
-
-**Huwag isulat `css` at `js` sa `foot.pug`** , kung hindi ay magkakaroon ng error.
-
-Mangyaring sumangguni sa mga sumusunod, ang istilo ay nakasulat sa katumbas na `.css` , at ang pakikipag-ugnayan ay nakakamit sa pamamagitan ng paglikha ng mga bahagi ng web.
 
 ## Estilo Ng Footer
 
@@ -87,4 +79,4 @@ C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 Gamit ang `${I18N.xxx}` na katulad ng paraan ng pagsulat na ito, kasama ng `i18n.yml` , makakamit mo ang multi-language internationalization ng footer.
 
 Ang pagdaragdag `class="a"` sa link ay upang pigilan ang link na ma-convert sa `MarkDown` Tingnan :
- [➔ `YAML` : Paano pigilan ang link `HTML` na ma-convert sa `Markdown`](/i18/qa#H2) .
+ [➔ `YAML` : Paano mapipigilan ang link `HTML` na ma-convert sa `Markdown`](/i18/qa#H2) .

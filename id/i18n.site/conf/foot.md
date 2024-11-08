@@ -1,16 +1,8 @@
-# Catatan Kaki
+# Catatan Kaki Yang Disesuaikan
 
 Masih mengambil proyek demo sebagai contoh, `.i18n/htm/foot.pug` di direktori `md` mendefinisikan footer situs web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) adalah bahasa templat yang menghasilkan `HTML` .
-
-[➔ Klik di sini untuk mempelajari tata bahasa pug](https://pugjs.org)
-
-**Jangan menulis `css` dan `js` di `foot.pug`** , jika tidak maka akan terjadi kesalahan.
-
-Silakan merujuk ke yang berikut ini, gaya ditulis ke dalam `.css` yang sesuai, dan interaksi dicapai dengan membuat komponen web.
 
 ## Gaya Catatan Kaki
 

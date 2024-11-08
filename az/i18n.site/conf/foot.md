@@ -1,16 +1,8 @@
-# Altbilgi
+# Fərdi Altbilgi
 
 Hələ də demo layihəsini nümunə kimi götürsək, `md` kataloqunda `.i18n/htm/foot.pug` veb-saytın altbilgisini müəyyən edir.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) `HTML` -ləri yaradan şablon dilidir.
-
-[➔ qrammatikasını öyrənmək üçün bura klikləyin pug](https://pugjs.org)
-
-**`foot.pug` -da `css` və `js` yazmayın** , əks halda xəta olacaq.
-
-Lütfən, aşağıdakılara baxın, üslub müvafiq `.css` -a yazılır və qarşılıqlı əlaqə veb komponentləri yaratmaqla əldə edilir.
 
 ## Alt Yazı Tərzi
 

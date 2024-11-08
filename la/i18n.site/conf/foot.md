@@ -1,16 +1,8 @@
-# Footer
+# Nativus Footer
 
 Adhuc demo project exemplum, `.i18n/htm/foot.pug` in `md` directorio definit footer of the website.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) Formulae linguarum quae generat `HTML` lia.
-
-[➔ Click here to learn grammaticas of pug](https://pugjs.org)
-
-**Noli scribere `css` et `js` in `foot.pug`** , alioquin error erit.
-
-Placere referri ad sequentia, stilus in correspondens `.css` scriptus est, et commercium interretiales creando fit.
 
 ## Footer Style
 
@@ -84,7 +76,7 @@ Hic `${I18N.C}` respondet `en/i18n.yml` :
 C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 ```
 
-Utens `${I18N.xxx}` similis huic scripto methodo, cum `i18n.yml` coniuncto, multi-linguam internationalizationem pedis consequi potes.
+Usus `${I18N.xxx}` similis huic scripto methodo, cum `i18n.yml` coniuncto, multi-linguam internationalizationem pedis consequi potes.
 
 Addens `class="a"` ad nexum est impedire nexum quominus convertatur ad `MarkDown` Vide :
  [`YAML` : `HTML` `Markdown`](/i18/qa#H2)

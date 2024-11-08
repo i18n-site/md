@@ -1,16 +1,8 @@
-# Poraštė
+# Pritaikyta Poraštė
 
 Vis dar kaip pavyzdį imant demonstracinį projektą, `.i18n/htm/foot.pug` `md` kataloge apibrėžia svetainės poraštę.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) yra šablono kalba, kuri generuoja `HTML` .
-
-[➔ Spustelėkite čia, kad išmoktumėte gramatiką pug](https://pugjs.org)
-
-**Nerašykite `css` ir `js` į `foot.pug`** , kitaip bus klaida.
-
-Žr. toliau, stilius įrašomas į atitinkamą `.css` , o sąveika pasiekiama kuriant žiniatinklio komponentus.
 
 ## Poraštės Stilius
 
@@ -48,7 +40,7 @@ Tiesiogiai nenurodykite į iconfont.cn šrifto failą, nes jo negalima įkelti �
 
 Negalite parašyti `js` iš `foot.pug` Jei reikia sąveikos, tinkinkite žiniatinklio komponentą.
 
-[Žiniatinklio komponentas](https://www.freecodecamp.org/news/build-your-first-web-component/) gali būti apibrėžtas `md/.i18n/htm/index.js` ir naudoti `foot.pug` .
+[Žiniatinklio komponentas](https://www.freecodecamp.org/news/build-your-first-web-component/) gali būti apibrėžtas `md/.i18n/htm/index.js` ir tada naudojamas `foot.pug` .
 
 Nesunku sukurti žiniatinklio komponentus, pvz., tinkintas `<x-img>` .
 
@@ -87,4 +79,4 @@ C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 Naudodami `${I18N.xxx}` panašų į šį rašymo būdą, kartu su `i18n.yml` , galite pasiekti poraštės internacionalizavimą keliomis kalbomis.
 
 Prie nuorodos pridėjus `class="a"` , neleisite nuorodos konvertuoti į `MarkDown` Žiūrėkite :
- [➔ `YAML` : neleisti `HTML` nuorodos konvertuoti į `Markdown`](/i18/qa#H2) .
+ [: `YAML` Kaip neleisti `HTML` nuorodos konvertuoti į `Markdown`](/i18/qa#H2) .

@@ -1,23 +1,15 @@
-# Ifooter
+# Umbhalo Osemazantsi Olungiselelwe Wena
 
 Usathatha iprojekthi yedemo njengomzekelo, `.i18n/htm/foot.pug` kwi- `md` directory ichaza i-footer yewebhusayithi.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) lulwimi lwetemplate oluvelisa `HTML` 's.
-
-[➔ Cofa apha ukuze ufunde igrama ye pug](https://pugjs.org)
-
-**Ungabhali `css` no `js` ngo `foot.pug`** , kungenjalo kuya kubakho impazamo.
-
-Nceda ubhekisele koku kulandelayo, isitayela sibhalwe kwi- `.css` ehambelanayo, kwaye intsebenziswano ifezekiswa ngokudala amacandelo ewebhu.
 
 ## Isimbo Sasezantsi
 
 Kukho iifayile ezintathu `css` phantsi kwe `md/.i18n/htm` kwiprojekthi yedemo.
 
 * `foot.css` :
-* `import.css` : `i18n.site`
+* `import.css` : `i18n.site` kwindawo yonke
 * `conf.css` : icon kunye neefonti
 
 ### Ifonti Ye Icon

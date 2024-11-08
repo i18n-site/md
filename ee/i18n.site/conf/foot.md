@@ -1,16 +1,8 @@
-# Afɔti
+# Afɔti Si Wowɔ Ɖe Ɖoɖo Nu
 
 Esi míegatsɔ demo dɔa abe kpɔɖeŋu ene la, `.i18n/htm/foot.pug` le `md` ƒe nyatakakadzraɖoƒea ɖe nyatakakadzraɖoƒea ƒe afɔti gɔme.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) nye template gbegbɔgblɔ si naa `HTML` 's.
-
-[➔ Zi afisia dzi be nàsrɔ̃ gbeŋutise si le pug](https://pugjs.org)
-
-**Mègaŋlɔ `css` kple `js` ɖe `foot.pug` me o** , ne menye nenema o la, vodada aɖe anɔ anyi.
-
-Taflatse kpɔ nusiwo gbɔna, woŋlɔ atsyã la ɖe `.css` si sɔ me, eye wowɔa kadodoa to web ƒe akpawo wɔwɔ me.
 
 ## Afɔti Ƒe Atsyã
 

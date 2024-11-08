@@ -1,16 +1,8 @@
-# Footer
+# Footer Personalizzat
 
 Għadu qed tieħu l-proġett demo bħala eżempju, `.i18n/htm/foot.pug` fid-direttorju `md` jiddefinixxi l-footer tal-websajt.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) hija lingwa mudell li tiġġenera `HTML` 's.
-
-[➔ Ikklikkja hawn biex titgħallem il-grammatika ta pug](https://pugjs.org)
-
-**Tiktebx `css` u `js` `foot.pug`** , inkella jkun hemm żball.
-
-Jekk jogħġbok irreferi għal dan li ġej, l-istil huwa miktub fis- `.css` korrispondenti, u l-interazzjoni tinkiseb billi jinħolqu komponenti tal-web.
 
 ## Stil Footer
 
@@ -18,7 +10,7 @@ Hemm tliet fajls `css` taħt `md/.i18n/htm` fil-proġett demo.
 
 * `foot.css` : Stil tal-footer
 * `import.css` : 1Stil `i18n.site` għas-sit kollu
-* `conf.css` : Ikoni u fonts tal-footer
+* `conf.css` : Ikoni u fonts fil-qiegħ
 
 ### Font Tal-Ikona
 

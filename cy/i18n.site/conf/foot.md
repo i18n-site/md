@@ -1,16 +1,8 @@
-# Troedyn
+# Troedyn Wedi'i Addasu
 
 Gan ddal i gymryd y prosiect demo fel enghraifft, mae `.i18n/htm/foot.pug` yn y cyfeiriadur `md` yn diffinio troedyn y wefan.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-Mae [`pug`](https://pugjs.org) yn iaith dempled sy'n cynhyrchu `HTML` 's.
-
-[➔ Cliciwch yma i ddysgu gramadeg pug](https://pugjs.org)
-
-**Peidiwch ag ysgrifennu `css` a `js` mewn `foot.pug`** , fel arall bydd gwall.
-
-Cyfeiriwch at y canlynol, mae'r arddull wedi'i ysgrifennu i'r `.css` cyfatebol, a chyflawnir y rhyngweithio trwy greu cydrannau gwe.
 
 ## Arddull Troedyn
 
@@ -22,7 +14,7 @@ Mae tair ffeil `css` o dan `md/.i18n/htm` yn y prosiect demo.
 
 ### Ffont Eicon
 
-Cynhyrchir eicon y troedyn trwy greu ffont o'r enw `F` iconfont.cn ( [Fersiwn Saesneg](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
+Cynhyrchir eicon y troedyn trwy greu ffont o'r enw `F` iconfont.cn ( [fersiwn Saesneg](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
 
 Crëwch eich ffont eicon eich hun yn ôl yr angen a disodli'r ffurfweddiad canlynol yn `conf.css` :
 
@@ -84,7 +76,7 @@ Yma mae `${I18N.C}` yn cyfateb i `en/i18n.yml` :
 C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 ```
 
-Gan ddefnyddio `${I18N.xxx}` tebyg i'r dull ysgrifennu hwn, ynghyd ag `i18n.yml` , gallwch ryngwladoli'r troedyn aml-iaith.
+Gan ddefnyddio `${I18N.xxx}` tebyg i'r dull ysgrifennu hwn, ynghyd ag `i18n.yml` , gallwch chi ryngwladoli'r troedyn aml-iaith.
 
 Mae ychwanegu `class="a"` at y ddolen er mwyn atal y ddolen rhag cael ei throsi i `MarkDown` Gweler :
  [➔ `YAML` : Sut i atal dolen `HTML` rhag cael ei throsi i `Markdown`](/i18/qa#H2) .

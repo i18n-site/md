@@ -1,16 +1,8 @@
-# Kijachini
+# Kijachini Kilichogeuzwa Kukufaa
 
 Bado ikichukua mradi wa onyesho kama mfano, `.i18n/htm/foot.pug` katika saraka `md` inafafanua sehemu ya chini ya tovuti.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ni lugha ya kiolezo ambayo hutoa `HTML` .
-
-[➔ Bofya hapa ili kujifunza sarufi ya pug](https://pugjs.org)
-
-**Usiandike `css` na `js` kwa `foot.pug`** , vinginevyo kutakuwa na hitilafu.
-
-Tafadhali rejea zifuatazo, mtindo umeandikwa kwenye `.css` inayofanana, na mwingiliano unapatikana kwa kuunda vipengele vya wavuti.
 
 ## Mtindo Wa Chini
 

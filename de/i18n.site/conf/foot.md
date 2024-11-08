@@ -1,16 +1,8 @@
-# Fußzeile
+# Angepasste Fußzeile
 
 Nehmen wir immer noch das Demoprojekt als Beispiel: `.i18n/htm/foot.pug` im Verzeichnis `md` definiert die Fußzeile der Website.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ist eine Vorlagensprache, die `HTML` generiert.
-
-[➔ Klicken Sie hier, um die Grammatik von zu lernen pug](https://pugjs.org)
-
-**Schreiben Sie nicht `css` und `js` in `foot.pug`** , da sonst ein Fehler auftritt.
-
-Bitte beachten Sie Folgendes: Der Stil wird in das entsprechende `.css` geschrieben und die Interaktion wird durch Erstellen von Webkomponenten erreicht.
 
 ## Fußzeilenstil
 

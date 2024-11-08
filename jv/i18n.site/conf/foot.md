@@ -1,16 +1,8 @@
-# Footer
+# Kaki Sing Disesuaikan
 
 Isih njupuk proyek demo minangka conto, `.i18n/htm/foot.pug` ing direktori `md` nemtokake footer situs web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) minangka basa cithakan sing ngasilake `HTML` .
-
-[➔ Klik ing kene kanggo sinau tata basa pug](https://pugjs.org)
-
-**Aja nulis `css` lan `js` ing `foot.pug`** , yen ora bakal ana kesalahan.
-
-Mangga deleng ing ngisor iki, gaya ditulis menyang `.css` sing cocog, lan interaksi bisa ditindakake kanthi nggawe komponen web.
 
 ## Gaya Footer
 
@@ -50,7 +42,7 @@ Sampeyan ora bisa nulis `js` ing `foot.pug` Yen interaksi dibutuhake, mangga nga
 
 [Komponen web](https://www.freecodecamp.org/news/build-your-first-web-component/) bisa ditetepake ing `md/.i18n/htm/index.js` banjur digunakake ing `foot.pug` .
 
-Gampang nggawe komponen web, kayata `<x-img>` khusus0 .
+Iku gampang kanggo nggawe komponen web, kayata custom `<x-img>` .
 
 ```js
 customElements.define(

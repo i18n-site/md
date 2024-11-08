@@ -1,16 +1,8 @@
-# Pengaki
+# Pengaki Tersuai
 
 Masih mengambil projek demo sebagai contoh, `.i18n/htm/foot.pug` dalam direktori `md` mentakrifkan pengaki tapak web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ialah bahasa templat yang menjana `HTML` 's.
-
-[➔ Klik di sini untuk mempelajari tatabahasa pug](https://pugjs.org)
-
-**Jangan tulis `css` dan `js` dalam `foot.pug`** , jika tidak akan berlaku ralat.
-
-Sila rujuk perkara berikut, gaya ditulis ke dalam `.css` yang sepadan, dan interaksi dicapai dengan mencipta komponen web.
 
 ## Gaya Pengaki
 

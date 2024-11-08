@@ -1,16 +1,8 @@
-# Footer
+# Footer Customized
 
 Toujou pran pwojè Demo a kòm yon egzanp, `.i18n/htm/foot.pug` nan anyè a `md` defini pye a nan sit entènèt la.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) se yon lang modèl ki jenere `HTML` 's.
-
-[➔ Klike la a pou aprann gramè pug](https://pugjs.org)
-
-**Pa ekri `css` ak `js` nan `foot.pug`** , sinon pral gen yon erè.
-
-Tanpri gade sa ki annapre yo, style la ekri nan `.css` ki koresponn lan, epi entèraksyon an reyalize pa kreye konpozan entènèt.
 
 ## Style Footer
 
@@ -44,7 +36,7 @@ Tanpri kreye pwòp ikon ou jan sa nesesè epi ranplase konfigirasyon sa a nan `c
 
 Tanpri pa fè referans dirèkteman fichye font iconfont.cn paske li pa ka chaje sou navigatè safari a.
 
-## Konpozan Web
+## Konpozan Entènèt
 
 Ou pa ka ekri `js` nan `foot.pug` Si entèraksyon nesesè, tanpri Customize eleman entènèt la.
 

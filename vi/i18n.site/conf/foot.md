@@ -1,16 +1,8 @@
-# Chân Trang
+# Chân Trang Tùy Chỉnh
 
 Vẫn lấy dự án demo làm ví dụ, `.i18n/htm/foot.pug` trong thư mục `md` xác định phần chân trang của trang web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) là ngôn ngữ mẫu tạo ra `HTML` 's.
-
-[➔ Bấm vào đây để học ngữ pháp pug](https://pugjs.org)
-
-**Đừng viết `css` và `js` vào `foot.pug`** , nếu không sẽ xảy ra lỗi.
-
-Vui lòng tham khảo phần sau, kiểu được viết vào số `.css` tương ứng và đạt được sự tương tác bằng cách tạo các thành phần web.
 
 ## Kiểu Chân Trang
 

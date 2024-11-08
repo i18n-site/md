@@ -1,16 +1,8 @@
-# Footer
+# Footer Namboarina
 
 Mbola maka ny tetikasa demo ho ohatra, ny `.i18n/htm/foot.pug` amin'ny lahatahiry `md` dia mamaritra ny tongotry ny tranokala.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) dia fiteny môdely izay miteraka `HTML` .
-
-[➔ Tsindrio eto raha te hianatra ny fitsipi-pitenenana pug](https://pugjs.org)
-
-**Aza manoratra `css` sy `js` amin'ny `foot.pug`** , raha tsy izany dia hisy hadisoana.
-
-Azafady, jereo ity manaraka ity, nosoratana ao amin'ny `.css` mifanaraka amin'izany ny fomba, ary ny fifandraisana dia vita amin'ny famoronana singa web.
 
 ## Style Footer
 
@@ -22,7 +14,7 @@ Misy rakitra `css` telo eo ambanin'ny `md/.i18n/htm` ao amin'ny tetikasa demo.
 
 ### Endri-Tsoratra Kisary
 
-Ny kisary footer dia noforonina tamin'ny famoronana endritsoratra antsoina `F` iconfont.cn [dikan-teny anglisy](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
+Ny kisary footer dia noforonina tamin'ny famoronana endri-tsoratra antsoina `F` iconfont.cn [dikan-teny anglisy](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
 
 Mamorona endritsoratra kisary anao manokana raha ilaina ary soloy amin'ny `conf.css` ity config manaraka ity :
 
@@ -42,7 +34,7 @@ Mamorona endritsoratra kisary anao manokana raha ilaina ary soloy amin'ny `conf.
 }
 ```
 
-Aza asiana reference mivantana amin'ny rakitra iconfont.cn satria tsy azo alaina amin'ny navigateur Safari.
+Aza asiana reference mivantana amin'ny rakitra iconfont.cn satria tsy azo alaina ao amin'ny navigateur Safari.
 
 ## Web Singa
 
@@ -69,7 +61,7 @@ customElements.define(
 
 ## Footer Amin'ny Fiteny Maro
 
-Ny kaody ao amin'ny `.i18n/htm/foot.pug` dia toy izao manaraka izao :
+Ny code ao amin'ny `.i18n/htm/foot.pug` dia toy izao manaraka izao :
 
 ```
 #Ft
@@ -86,5 +78,5 @@ C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 
 Amin'ny fampiasana `${I18N.xxx}` mitovitovy amin'ity fomba fanoratana ity, miaraka amin'ny `i18n.yml` , azonao atao ny manatratra ny iraisam-pirenena amin'ny fiteny maro ny footer.
 
-Ny fampidirana `class="a"` amin'ny rohy dia ny hisakanana ny rohy tsy hiova ho `MarkDown` Jereo :
+Ny fanampiana `class="a"` amin'ny rohy dia ny hisakanana ny rohy tsy hiova ho `MarkDown` Jereo :
  [➔ `YAML` : Ahoana no hisorohana ny rohy `HTML` tsy hiova ho `Markdown`](/i18/qa#H2) .

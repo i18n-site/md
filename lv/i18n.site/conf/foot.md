@@ -1,16 +1,8 @@
-# Kājene
+# Pielāgota Kājene
 
 Joprojām par piemēru ņemot demonstrācijas projektu, `.i18n/htm/foot.pug` direktorijā `md` nosaka vietnes kājeni.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ir veidņu valoda, kas ģenerē `HTML` .
-
-[➔ Noklikšķiniet šeit, lai uzzinātu gramatiku pug](https://pugjs.org)
-
-**Nerakstiet `css` un `js` `foot.pug`** , pretējā gadījumā radīsies kļūda.
-
-Lūdzu, skatiet tālāk norādīto, stils tiek ierakstīts attiecīgajā `.css` un mijiedarbība tiek panākta, izveidojot tīmekļa komponentus.
 
 ## Kājenes Stils
 
@@ -24,7 +16,7 @@ Demonstrācijas projektā ir trīs `css` faili, kas ir zem `md/.i18n/htm` .
 
 Kājenes ikona tiek ģenerēta `F` iconfont.cn [angļu valodas versija](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
 
-Lūdzu, izveidojiet savu ikonas fontu pēc vajadzības un aizstājiet šādu konfigurāciju ar `conf.css` :
+Lūdzu, izveidojiet savu ikonas fontu pēc vajadzības un aizstājiet tālāk norādīto konfigurāciju `conf.css` :
 
 ```
 @font-face {

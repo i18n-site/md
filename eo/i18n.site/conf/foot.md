@@ -1,16 +1,8 @@
-# Piedlinio
+# Agordita Piedlinio
 
 Ankoraŭ prenante la demo-projekton kiel ekzemplon, `.i18n/htm/foot.pug` en la `md` dosierujo difinas la piedlinion de la retejo.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) estas ŝablono lingvo kiu generas `HTML` 's.
-
-[➔ Klaku ĉi tie por lerni la gramatikon de pug](https://pugjs.org)
-
-**Ne skribu `css` kaj `js` en `foot.pug`** , alie estos eraro.
-
-Bonvolu raporti al la sekvanta, la stilo estas skribita en la respondan `.css` , kaj la interago estas atingita kreante retajn komponantojn.
 
 ## Stilo De Piedpiedo
 

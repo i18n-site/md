@@ -1,16 +1,8 @@
-# Kayu Ch’akhanaka
+# Ukax Mä Juk’a Pachanakanwa
 
 Wali proyecto demostración ukax mä uñacht’äwiwa, `.i18n/htm/foot.pug` directorio `md` ukanx sitio web ukan ch’akhanakap qhanañchi.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ukax mä plantilla aruw `HTML` 's uñstayi.
-
-[➔ Aka tuqir ch’iqt’am pug](https://pugjs.org)
-
-**Janiw `css` ukat `js` `foot.pug` ukan qillqt’añati** , jan ukhamäkanixa, pantjasiwiw utjani.
-
-Uñakipt’añatakixa, estilo ukaxa qillqt’atawa correspondiente `.css` , ukatxa mayacht’asiwixa componentes web ukanaka lurañampiwa phuqhasi.
 
 ## Chaki Ch’akhanaka Estilo
 
@@ -22,7 +14,7 @@ Kimsa `css` archivonakax `md/.i18n/htm` ukjat juk’ampiruw proyecto demostraci�
 
 ### Icono Ukax Mä Font Ukhamawa
 
-Uka chimpux `F` iconfont.cn ( [inglés arun versión](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)) sutimp uñt’atawa.
+Uka chimpuxa `F` iconfont.cn ( [inglés arun versión](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)) sutimp uñt’atawa.
 
 Ukhamaraki, juma pachpaw icono letra lurañama kunjamatix wakiski ukhamarjama ukat aka configuración ukarux `conf.css` :
 
@@ -87,4 +79,4 @@ C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 Aka qillqañ thakhimp uñtasit `${I18N.xxx}` apnaqasa, `i18n.yml` ukamp chikt’ata, ukax walja arut internacionalización de la pie ukaruw purispa.
 
 `class="a"` ukax link ukaruw yapxatasi, ukax link ukax `MarkDown` ¡Uñxatt’añataki :
- [`HTML` `YAML` : `Markdown`](/i18/qa#H2)
+ [➔ `YAML` : Kunjamatsa `HTML` link ukax `Markdown` ukar jaqukipata](/i18/qa#H2) .

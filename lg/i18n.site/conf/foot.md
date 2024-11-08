@@ -1,16 +1,8 @@
-# Wansi
+# Ekiwandiiko Ekikoleddwa Ku Mutindo
 
 Nga tukyatwala pulojekiti ya demo ng’ekyokulabirako, `.i18n/htm/foot.pug` mu `md` dayirekita annyonnyola wansi w’omukutu.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) lulimi lwa template olukola `HTML` 's.
-
-[➔ Nyiga wano oyige grammar ya pug](https://pugjs.org)
-
-**Towandiika `css` ne `js` mu `foot.pug`** , bwe kitaba ekyo wajja kubaawo ensobi.
-
-Nsaba otunuulire bino wammanga, sitayiro ewandiikibwa mu `.css` ekwatagana, era enkolagana etuukibwako nga tukola ebitundu by’omukutu.
 
 ## Omusono Gw’okuwanirira Wansi
 

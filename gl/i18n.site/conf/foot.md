@@ -1,16 +1,8 @@
-# Pé De Páxina
+# Pé De Páxina Personalizado
 
 Aínda tomando o proxecto de demostración como exemplo, `.i18n/htm/foot.pug` no directorio `md` define o pé de páxina do sitio web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) é unha linguaxe de modelo que xera `HTML` .
-
-[➔ Fai clic aquí para aprender a gramática de pug](https://pugjs.org)
-
-**Non escriba `css` e `js` en `foot.pug`** , se non, producirase un erro.
-
-Consulte o seguinte, o estilo escríbese no `.css` correspondente e a interacción conséguese creando compoñentes web.
 
 ## Estilo De Pé De Páxina
 

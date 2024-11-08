@@ -1,16 +1,8 @@
-# Päta
+# Prispôsobená Päta
 
 Stále berúc ukážkový projekt ako príklad, `.i18n/htm/foot.pug` v adresári `md` definuje pätu webovej stránky.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) je jazyk šablóny, ktorý generuje `HTML` .
-
-[➔ Kliknite sem a naučte sa gramatiku pug](https://pugjs.org)
-
-**Nepíšte `css` a `js` v `foot.pug`** , inak dôjde k chybe.
-
-Prečítajte si nasledujúce informácie, štýl sa zapíše do zodpovedajúcej `.css` a interakcia sa dosiahne vytvorením webových komponentov.
 
 ## Štýl Päty
 

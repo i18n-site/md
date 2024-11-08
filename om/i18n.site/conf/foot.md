@@ -1,16 +1,8 @@
-# Jala Jalaa
+# Jalqaba Haala Barbaadamuun Qophaa'e
 
 Ammas pirojektii demoo akka fakkeenyaatti fudhachuun, `.i18n/htm/foot.pug` galmee `md` keessaa jala marsariitii ibsa.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) afaan unkaa `HTML` 's maddisiisudha.
-
-[➔ Seerluga afaan oromoo baruuf as tuquun pug](https://pugjs.org)
-
-**`foot.pug` keessatti `css` fi `js` hin barreessinaa** , yoo kana hin taane dogongorri ni jiraata.
-
-Maaloo kanneen armaan gadii ilaali, akkaataan gara `.css` walgitutti barreeffama, walqunnamtiin immoo qaamolee weeb uumuudhaan galma ga'a.
 
 ## Akkaataa Jala Jalaa
 

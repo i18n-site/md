@@ -1,20 +1,12 @@
-# Footer
+# Customized Footer
 
 Still using the demo project as an example, the file `.i18n/htm/foot.pug` in the `md` directory defines the website's footer.
 
 ![](https://p.3ti.site/1721286077.avif)
 
-[`pug`](https://pugjs.org) is a template language for generating `HTML`.
-
-[➔ Click here to learn the syntax of pug](https://pugjs.org)
-
-**Do not write `css` or `js` in `foot.pug`**, otherwise there will be errors.
-
-Please refer to the following: styles should be written in the corresponding `.css` files, and interactions should be implemented by creating web components.
-
 ## Footer Style
 
-In the demo project, there are three `css` files under `md/.i18n/htm`.
+There are three `css` files under `md/.i18n/htm` in the demo project.
 
 * `foot.css`: Footer style
 * `import.css`: Default style for the entire `i18n.site`
@@ -46,11 +38,11 @@ Do not directly reference the font files from iconfont.cn, as they cannot be loa
 
 ## Web Components
 
-Do not write `js` in `foot.pug`. If interaction is required, please create a custom web component.
+You cannot write `js` in `foot.pug`. If interaction is required, please customize a web component.
 
 You can define a [web component](https://www.freecodecamp.org/news/build-your-first-web-component/) in `md/.i18n/htm/index.js` and then use it in `foot.pug`.
 
-Creating web components is simple, for example, a custom tag like `<x-img>`.
+Creating web components is simple, for example, a custom `<x-img>` tag.
 
 ```js
 customElements.define(
@@ -78,13 +70,13 @@ The code in `.i18n/htm/foot.pug` is as follows:
     b ${I18N.C}
 ```
 
-Here, `${I18N.C}` corresponds to the content in `en/i18n.yml`:
+Here, `${I18N.C}` corresponds to the following in `en/i18n.yml`:
 
 ```
 C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 ```
 
-Using `${I18N.xxx}` in this way, in conjunction with `i18n.yml`, enables the multi-language internationalization of the footer.
+Using `${I18N.xxx}` in this manner, in conjunction with `i18n.yml`, enables the multi-language internationalization of the footer.
 
-Adding `class="a"` to links prevents them from being converted to `Markdown` format. See:
+Adding `class="a"` to the link is to prevent it from being converted into `Markdown`. See:
  [➔ `YAML`: How to prevent link `HTML` from being converted to `Markdown`](/i18/qa#H2).

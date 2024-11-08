@@ -1,16 +1,8 @@
-# Footer
+# Fotera Xwerû
 
 Dîsa jî projeya demo wekî mînak digire, `.i18n/htm/foot.pug` di pelrêça `md` de pêpeloka malperê diyar dike.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) zimanek şablon e ku `HTML` -an çêdike.
-
-[➔ Ji bo fêrbûna rêzimanê li vir bikirtînin pug](https://pugjs.org)
-
-**`css` û `js` di `foot.pug` de nenivîsin** , wekî din dê xeletiyek hebe.
-
-Ji kerema xwe li jêrîn binihêrin, şêwaz di `.css` ya têkildar de tê nivîsandin, û têkilî bi afirandina pêkhateyên malperê pêk tê.
 
 ## Style Footer
 

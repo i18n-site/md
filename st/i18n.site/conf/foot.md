@@ -1,16 +1,8 @@
-# Footer
+# Botlaaseng Bo Ikhethileng
 
 E ntse e nka morero oa demo e le mohlala, `.i18n/htm/foot.pug` bukeng ea `md` e hlalosa botlaaseng ba sebaka sa marang-rang.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ke puo ea template e hlahisang `HTML` 's.
-
-[➔ Tobetsa mona ho ithuta sebōpeho-puo sa pug](https://pugjs.org)
-
-**Se ke oa ngola `css` le `js` ho `foot.pug`** , ho seng joalo ho tla ba le phoso.
-
-Ka kopo, sheba tse latelang, setaele se ngotsoe ho `.css` e ts'oanang, 'me tšebelisano e finyelloa ka ho theha likarolo tsa marang-rang.
 
 ## Setaele Sa Maoto
 
@@ -20,7 +12,7 @@ Ho na le lifaele tse tharo `css` tlasa `md/.i18n/htm` morerong oa demo.
 * `import.css` : `i18n.site` sa sebaka sohle
 * `conf.css` :
 
-### Fonte Ea Letšoao
+### Fonte Ea Setšoantšo
 
 Letšoao la botlaaseng le hlahisoa ka ho theha mohala `F` iconfont.cn [mofuta oa Senyesemane](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
 

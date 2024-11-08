@@ -1,16 +1,8 @@
-# Hiku
+# Hiku Whakarite
 
 Kei te tango tonu i te kaupapa demo hei tauira, `.i18n/htm/foot.pug` i roto i te raarangi `md` e whakaatu ana i te hiku o te paetukutuku.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-Ko [`pug`](https://pugjs.org) he reo tauira e whakaputa `HTML` 's.
-
-[➔ Paatohia a konei ki te ako i te wetereo o pug](https://pugjs.org)
-
-**Kaua e tuhia `css` me `js` ki `foot.pug`** , ki te kore ka puta he hapa.
-
-Tena koa tirohia nga mea e whai ake nei, kua tuhia te ahua ki te `.css` e rite ana, a ka tutuki te taunekeneke ma te hanga i nga waahanga tukutuku.
 
 ## Kāhua Hiku
 
@@ -42,9 +34,9 @@ Waihangahia taau ake momotuhi tohu ina hiahiatia ka whakakapi i te whirihoranga 
 }
 ```
 
-Tena koa kaua e tohutoro tika i te konae momotuhi o iconfont.cn na te mea kaore e taea te uta ki runga i te kaitirotiro safari.
+Tena koa kaua e tohutoro tika te konae momotuhi o iconfont.cn na te mea kaore e taea te uta ki runga i te kaitirotiro Safari.
 
-## Waehanga Tukutuku
+## Nga Waahanga Tukutuku
 
 Kaore e taea e koe te tuhi `js` i roto i `foot.pug` Ki te hiahiatia te taunekeneke, me whakarite te waahanga tukutuku.
 

@@ -1,16 +1,8 @@
-# Voettekst
+# Aangepaste Voettekst
 
 Nog steeds met het demoproject als voorbeeld: `.i18n/htm/foot.pug` in de map `md` definieert de voettekst van de website.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) is een sjabloontaal die `HTML` -en genereert.
-
-[➔ Klik hier om de grammatica van te leren pug](https://pugjs.org)
-
-**Schrijf niet `css` en `js` in `foot.pug`** , anders ontstaat er een fout.
-
-Raadpleeg het volgende, de stijl is in de overeenkomstige `.css` geschreven en de interactie wordt bereikt door webcomponenten te maken.
 
 ## Voettekststijl
 

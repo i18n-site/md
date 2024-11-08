@@ -1,16 +1,8 @@
-# Footer
+# Napasadaan a Footer
 
 Kaskasdi nga alaen ti proyekto ti demo a kas pagarigan, ti `.i18n/htm/foot.pug` iti `md` a direktorio ket mangikeddeng ti footer ti website.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ket maysa a pagsasao ti plantilia a mangpataud kadagiti `HTML` 's.
-
-[➔ I-click ditoy tapno maammuan ti gramatika ti pug](https://pugjs.org)
-
-**Dimo isurat `css` ken `js` iti `foot.pug`** , ta no saan, addanto biddut.
-
-Pangngaasi a kitaen dagiti sumaganad, ti estilo ket naisurat iti maitunos a `.css` , ken ti panagtitinnulong ket maragpat babaen ti panagpartuat kadagiti paset ti web.
 
 ## Estilo Ti Footer
 

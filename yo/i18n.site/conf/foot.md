@@ -1,16 +1,8 @@
-# Ẹlẹsẹ
+# Ẹsẹ Ti a Ṣe Adani
 
 Ṣi mu iṣẹ akanṣe demo bi apẹẹrẹ, `.i18n/htm/foot.pug` ninu itọsọna `md` n ṣalaye ẹlẹsẹ ti oju opo wẹẹbu naa.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) jẹ ede awoṣe ti o ṣe agbejade `HTML` 's.
-
-[➔ Tẹ ibi lati kọ ẹkọ girama ti pug](https://pugjs.org)
-
-**Maṣe kọ `css` ati `js` ni `foot.pug`** , bibẹẹkọ aṣiṣe yoo wa.
-
-Jọwọ tọka si atẹle naa, aṣa ti kọ sinu `.css` ti o baamu, ati ibaraenisepo naa waye nipasẹ ṣiṣẹda awọn paati wẹẹbu.
 
 ## Ara Ẹlẹsẹ
 
@@ -22,7 +14,7 @@ Awọn faili `css` mẹta wa labẹ `md/.i18n/htm` ninu iṣẹ akanṣe demo.
 
 ### Aami Font
 
-Aami ẹlẹsẹ jẹ ipilẹṣẹ nipasẹ ṣiṣẹda fonti kan `F` iconfont.cn [Ẹya Gẹẹsi](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
+Aami ẹlẹsẹ jẹ ipilẹṣẹ nipasẹ ṣiṣẹda fonti `F` iconfont.cn [Ẹya Gẹẹsi](https://www.iconfont.cn/?lang=en-us) /[中文版](https://www.iconfont.cn/?lang=zh)).
 
 Jọwọ ṣẹda fonti aami tirẹ bi o ṣe nilo ki o rọpo iṣeto atẹle ni `conf.css` :
 

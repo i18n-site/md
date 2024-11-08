@@ -1,16 +1,8 @@
-# Xihloko Xa Le Hansi
+# Xiphemu Xa Le Hansi Lexi Endleriweke Wena
 
 Still taking the demo project as a example, `.i18n/htm/foot.pug` eka `md` directory yi hlamusela xiphemu xa le hansi xa webusayiti.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) i ririmi ra xifaniso lexi humesaka `HTML` 's.
-
-[➔ Click laha ku dyondza ririmi ra pug](https://pugjs.org)
-
-**U nga tsali `css` na `js` eka `foot.pug`** , handle ka sweswo ku ta va na xihoxo.
-
-Hi kombela u languta eka leswi landzelaka, xitayili xi tsariwile eka `.css` leyi fambelanaka, naswona ku tirhisana ku fikeleriwa hi ku tumbuluxa swiphemu swa webu.
 
 ## Xitayili Xa Le Hansi
 

@@ -1,16 +1,8 @@
-# Buntásc
+# Buntásc Saincheaptha
 
 Agus an tionscadal taispeána á ghlacadh fós mar shampla, sainmhíníonn `.i18n/htm/foot.pug` san eolaire `md` buntásc an láithreáin ghréasáin.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-Is teanga teimpléid [`pug`](https://pugjs.org) a ghineann `HTML` ′s.
-
-[➔ Cliceáil anseo chun gramadach na pug](https://pugjs.org)
-
-**Ná scríobh `css` agus `js` as `foot.pug`** , nó beidh earráid ann.
-
-Déan tagairt do na nithe seo a leanas, tá an stíl scríofa isteach sa `.css` comhfhreagrach, agus baintear amach an t-idirghníomhú trí chomhpháirteanna gréasáin a chruthú.
 
 ## Stíl Buntásc
 
@@ -46,7 +38,7 @@ Ná déan tagairt go díreach do chlóchomhad iconfont.cn mar ní féidir é a l
 
 ## Comhpháirteanna Gréasáin
 
-Ní féidir leat `js` as `foot.pug` a scríobh. Má tá idirghníomhú ag teastáil, saincheap an chomhpháirt gréasáin le do thoil.
+Ní féidir leat scríobh `js` in `foot.pug` Má tá idirghníomhú ag teastáil, saincheapadh an chomhpháirt gréasáin le do thoil.
 
 Is féidir [comhpháirt gréasáin](https://www.freecodecamp.org/news/build-your-first-web-component/) a shainiú in `md/.i18n/htm/index.js` agus ansin é a úsáid in `foot.pug` .
 

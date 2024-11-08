@@ -1,16 +1,8 @@
-# Altbilgi
+# Moslashtirilgan Altbilgi
 
 Hali ham demo loyihasini misol sifatida oladigan bo'lsak, `md` katalogidagi `.i18n/htm/foot.pug` veb-saytning pastki qismini belgilaydi.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) `HTML` ni hosil qiluvchi shablon tilidir.
-
-[➔ Grammatikani oʻrganish uchun shu yerni bosing pug](https://pugjs.org)
-
-**`foot.pug` ga `css` va `js` yozmang** , aks holda xato bo'ladi.
-
-Iltimos, quyidagilarga murojaat qiling, uslub mos keladigan `.css` ga yoziladi va o'zaro ta'sir veb komponentlarini yaratish orqali amalga oshiriladi.
 
 ## Altbilgi Uslubi
 

@@ -1,16 +1,8 @@
-# Podnožje
+# Prilagođeno Podnožje
 
 I dalje uzimajući demo projekt kao primjer, `.i18n/htm/foot.pug` u direktoriju `md` definira podnožje web stranice.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) je jezik predloška koji generira `HTML` .
-
-[➔ Kliknite ovdje da naučite gramatiku pug](https://pugjs.org)
-
-**Nemojte pisati `css` i `js` u `foot.pug`** , inače će doći do pogreške.
-
-Pogledajte sljedeće, stil je upisan u odgovarajuću `.css` , a interakcija se postiže stvaranjem web komponenti.
 
 ## Stil Podnožja
 

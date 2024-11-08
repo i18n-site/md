@@ -1,16 +1,8 @@
-# N'okpuru
+# Ụkwụ Ahaziri
 
 Ka na-ewere ọrụ ngosi ngosi dị ka ihe atụ, `.i18n/htm/foot.pug` na ndekọ `md` na-akọwa n'okpuru ebe nrụọrụ weebụ.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) bụ asụsụ ndebiri na-ewepụta `HTML` 's.
-
-[➔ Pịa ebe a ka ịmụta ụtọ asụsụ nke pug](https://pugjs.org)
-
-**Edela `css` na `js` na `foot.pug`** , ma ọ bụghị ya, a ga-enwe njehie.
-
-Biko rụtụ aka na ihe ndị a, a na-ede ụdị ahụ n'ime `.css` kwekọrọ na ya, a na-enwetakwa mmekọrịta ahụ site na ịmepụta ihe ntanetịime weebụ.
 
 ## Ụdị Ụkwụ
 

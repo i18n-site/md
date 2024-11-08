@@ -1,16 +1,8 @@
-# Noga
+# Prilagojena Noga
 
 Če še vedno vzamemo demo projekt kot primer, `.i18n/htm/foot.pug` v imeniku `md` določa nogo spletnega mesta.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) je predlogni jezik, ki generira `HTML` .
-
-[➔ Kliknite tukaj, če želite izvedeti slovnico pug](https://pugjs.org)
-
-**Ne pišite `css` in `js` v `foot.pug`** , sicer bo prišlo do napake.
-
-Glejte naslednje, slog je zapisan v ustrezno `.css` , interakcija pa je dosežena z ustvarjanjem spletnih komponent.
 
 ## Slog Noge
 
@@ -42,7 +34,7 @@ Po potrebi ustvarite lastno pisavo ikon in zamenjajte naslednjo konfiguracijo v 
 }
 ```
 
-Ne sklicujte se neposredno na datoteko pisave iconfont.cn, ker je ni mogoče naložiti v brskalniku safari.
+Ne sklicujte se neposredno na datoteko pisave iconfont.cn, ker je ni mogoče naložiti v brskalnik safari.
 
 ## Spletne Komponente
 

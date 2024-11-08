@@ -1,16 +1,8 @@
-# Alt Bilgi
+# Özelleştirilmiş Altbilgi
 
 Yine demo projesini örnek olarak alırsak, `md` dizinindeki `.i18n/htm/foot.pug` , web sitesinin altbilgisini tanımlar.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) `HTML` üreten bir şablon dilidir.
-
-[➔ ! gramerini öğrenmek için buraya tıklayın pug](https://pugjs.org)
-
-**`foot.pug` `css` ve `js` yazmayın** yoksa hata olur.
-
-Lütfen aşağıya bakın, stil karşılık gelen `.css` yazılır ve etkileşim, web bileşenleri oluşturularak sağlanır.
 
 ## Altbilgi Stili
 

@@ -1,16 +1,8 @@
-# Unyaweni
+# Unyaweni Owenziwe Ngendlela Oyifisayo
 
 Ngisathatha iphrojekthi yedemo njengesibonelo, `.i18n/htm/foot.pug` ohlwini lwemibhalo `md` uchaza unyaweni wewebhusayithi.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) uwulimi lwesifanekiso okhiqiza `HTML` 's.
-
-[➔ Chofoza lapha ukuze ufunde uhlelo lolimi lwe- pug](https://pugjs.org)
-
-**Ungabhali `css` no- `js` ku `foot.pug`** , kungenjalo kuzoba nephutha.
-
-Sicela ubhekisele kokulandelayo, isitayela sibhalwe ku- `.css` ohambisanayo, futhi ukusebenzisana kufinyelelwa ngokudala izingxenye zewebhu.
 
 ## Isitayela Saphansi
 

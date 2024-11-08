@@ -1,16 +1,8 @@
-# Aşaky Sözbaşy
+# Custöriteleşdirilen Aşaky Sözbaşy
 
 Henizem demo taslamasyny mysal hökmünde alyp, `md` bukjadaky `.i18n/htm/foot.pug` web sahypasynyň aşaky bölegini kesgitleýär.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) - `HTML` -i döredýän şablon dili.
-
-[The grammatikasyny öwrenmek üçin şu ýere basyň pug](https://pugjs.org)
-
-**`foot.pug` -da `css` we `js` ýazmaň** , ýogsam ýalňyşlyk bolar.
-
-Aşakdakylara ýüz tutmagyňyzy haýyş edýäris, stil degişli `.css` -a ýazylýar we özara täsir web komponentlerini döretmek arkaly gazanylýar.
 
 ## Aşakdaky Stil
 

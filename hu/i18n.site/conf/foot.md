@@ -1,16 +1,8 @@
-# Lábléc
+# Egyedi Lábléc
 
 Még mindig a demóprojektet vesszük példaként, a `md` könyvtárban az `.i18n/htm/foot.pug` határozza meg a webhely láblécét.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-A [`pug`](https://pugjs.org) egy sablonnyelv, amely `HTML` -eket generál.
-
-[➔ Kattintson ide a nyelvtan megtanulásához pug](https://pugjs.org)
-
-**Ne írjon `css` és `js` t `foot.pug` -ba** , különben hiba lép fel.
-
-Kérjük, olvassa el az alábbiakat, a stílus a megfelelő `.css` van írva, és az interakció webes komponensek létrehozásával valósul meg.
 
 ## Lábléc Stílus
 
@@ -46,7 +38,7 @@ Kérjük, ne hivatkozzon közvetlenül az iconfont.cn betűtípusfájljára, mer
 
 ## Web Összetevők
 
-Nem írhat `js` `foot.pug` hoz. Ha interakcióra van szükség, kérjük, szabja testre a webes összetevőt.
+Nem írhat `js` a `foot.pug` Ha interakcióra van szükség, kérjük, szabja testre a webes összetevőt.
 
 [Egy webkomponens](https://www.freecodecamp.org/news/build-your-first-web-component/) `md/.i18n/htm/index.js` -ban definiálható, majd `foot.pug` -ben használható.
 

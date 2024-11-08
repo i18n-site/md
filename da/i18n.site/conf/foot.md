@@ -1,16 +1,8 @@
-# Sidefod
+# Tilpasset Sidefod
 
 Hvis du stadig tager demoprojektet som eksempel, definerer `.i18n/htm/foot.pug` i `md` -mappen sidefoden på webstedet.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) er et skabelonsprog, der genererer `HTML` .
-
-[➔ Klik her for at lære grammatikken i pug](https://pugjs.org)
-
-**Skriv ikke `css` og `js` i `foot.pug`** , ellers vil der være en fejl.
-
-Se venligst det følgende, stilen er skrevet ind i det tilsvarende `.css` , og interaktionen opnås ved at skabe webkomponenter.
 
 ## Footer Stil
 
@@ -42,7 +34,7 @@ Opret venligst din egen ikonskrifttype efter behov og udskift følgende konfigur
 }
 ```
 
-Henvis venligst ikke direkte til skrifttypefilen til iconfont.cn, da den ikke kan indlæses i safari-browseren.
+Henvis venligst ikke direkte til skrifttypefilen for iconfont.cn, da den ikke kan indlæses i safari-browseren.
 
 ## Web Komponenter
 
@@ -84,7 +76,7 @@ Her svarer `${I18N.C}` til `en/i18n.yml` :
 C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 ```
 
-Ved at bruge `${I18N.xxx}` der ligner denne skrivemetode, kombineret med `i18n.yml` , kan du opnå flersproget internationalisering af sidefoden.
+Ved at bruge `${I18N.xxx}` svarende til denne skrivemetode, kombineret med `i18n.yml` , kan du opnå flersproget internationalisering af sidefoden.
 
 Tilføjelse af `class="a"` til linket er for at forhindre linket i at blive konverteret til `MarkDown` Se :
  [➔ `YAML` Sådan forhindrer : link `HTML` i at blive konverteret til `Markdown`](/i18/qa#H2) .

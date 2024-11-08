@@ -1,16 +1,8 @@
-# Footer
+# Customized Footer
 
 Tseem coj qhov project demo ua piv txwv, `.i18n/htm/foot.pug` hauv `md` phau ntawv teev npe txhais cov footer ntawm lub vev xaib.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) yog ib hom lus template uas generates `HTML` 's.
-
-[➔ Nyem qhov no kom paub cov qauv sau ntawv ntawm pug](https://pugjs.org)
-
-**Tsis txhob sau `css` thiab `js` hauv `foot.pug`** , txwv tsis pub yuav muaj qhov yuam kev.
-
-Thov xa mus rau cov lus hauv qab no, cov qauv sau rau hauv qhov sib thooj `.css` , thiab kev sib cuam tshuam yog ua tiav los ntawm kev tsim cov khoom hauv lub vev xaib.
 
 ## Footer Style
 
@@ -50,7 +42,7 @@ Koj tsis tuaj yeem sau `js` hauv `foot.pug` Yog xav tau kev sib cuam tshuam, tho
 
 [Ib lub vev xaib](https://www.freecodecamp.org/news/build-your-first-web-component/) tuaj yeem txhais hauv `md/.i18n/htm/index.js` thiab tom qab ntawd siv hauv `foot.pug` .
 
-Nws yooj yim los tsim cov khoom hauv lub vev xaib, xws li kev cai cim `<x-img>` .
+Nws yog ib qho yooj yim los tsim cov khoom hauv lub vev xaib, xws li kev cai `<x-img>` .
 
 ```js
 customElements.define(

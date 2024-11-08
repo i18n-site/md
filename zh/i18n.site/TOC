@@ -6,8 +6,9 @@ dist.md
 conf/README.md
   conf/yml.md
   conf/blog.md
-  conf/seo.md
+  conf/nav.md
   conf/foot.md
+  conf/seo.md
   conf/ver.md
   conf/addon.md
 

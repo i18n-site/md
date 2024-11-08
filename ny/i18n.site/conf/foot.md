@@ -1,16 +1,8 @@
-# Pansi
+# Zosintha Mwamakonda
 
-Ndikutengabe pulojekiti yachiwonetsero monga chitsanzo, `.i18n/htm/foot.pug` mu bukhu la `md` imatanthawuza zapansi pa tsambalo.
+Ndikutengabe pulojekiti yachiwonetsero monga chitsanzo, `.i18n/htm/foot.pug` mu bukhu la `md` imatanthauzira zapansi pa tsambalo.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ndi chilankhulo cha template chomwe chimapanga `HTML` 's.
-
-[➔ Dinani apa kuti muphunzire galamala ya pug](https://pugjs.org)
-
-**Osalemba `css` ndi `js` mu `foot.pug`** , apo ayi padzakhala cholakwika.
-
-Chonde tchulani zotsatirazi, kalembedwe kalembedwe kameneka `.css` , ndipo kuyanjana kumatheka popanga zigawo za intaneti.
 
 ## Mtundu Wapansi
 
@@ -50,7 +42,7 @@ Simungathe kulemba `js` mu `foot.pug` Ngati kuyanjana kuli kofunika, chonde sint
 
 [Chigawo cha intaneti](https://www.freecodecamp.org/news/build-your-first-web-component/) chikhoza kufotokozedwa mu `md/.i18n/htm/index.js` ndiyeno kugwiritsidwa ntchito mu `foot.pug` .
 
-Ndikosavuta kupanga zida zapaintaneti, monga `<x-img>` okhazikika0 .
+Ndikosavuta kupanga zida zapaintaneti, monga `<x-img>` .
 
 ```js
 customElements.define(
@@ -84,7 +76,7 @@ Apa `${I18N.C}` ikufanana ndi `en/i18n.yml` :
 C: Power By <a class="a" href="https://i18n.site">i18n.site</a>
 ```
 
-Pogwiritsa ntchito `${I18N.xxx}` yofanana ndi njira yolemberayi, yophatikizidwa ndi `i18n.yml` , mutha kukwaniritsa zinenero zosiyanasiyana zapamunsi.
+Pogwiritsa ntchito `${I18N.xxx}` yofanana ndi njira yolemberayi, yophatikizidwa ndi `i18n.yml` , mutha kukwaniritsa zinenero zambiri zapadziko lonse lapansi.
 
 Kuwonjezera `class="a"` ku chiyanjano ndikuletsa chiyanjano kuti chisatembenuzidwe ku `MarkDown` Onani :
  [`HTML` `YAML` : `Markdown`](/i18/qa#H2)

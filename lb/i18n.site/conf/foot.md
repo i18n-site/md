@@ -1,16 +1,8 @@
-# Fousszeilen
+# Benotzerdefinéiert Fousszeilen
 
 Nach ëmmer den Demo-Projet als Beispill ze huelen, `.i18n/htm/foot.pug` am `md` Verzeichnis definéiert de Fousszeil vun der Websäit.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) ass eng Template Sprooch déi `HTML` generéiert.
-
-[➔ Klickt hei fir d'Grammatik vun pug](https://pugjs.org)
-
-**Schreift net `css` an `js` an `foot.pug`** , soss gëtt et e Feeler.
-
-Gitt w.e.g. op déi folgend, de Stil gëtt an de entspriechende `.css` geschriwwen, an d'Interaktioun gëtt erreecht andeems Dir Webkomponenten erstallt.
 
 ## Fousszeilen Stil
 
@@ -44,7 +36,7 @@ Erstellt w.e.g. Är eege Ikon Schrëft wéi néideg an ersetzt déi folgend Konf
 
 Referenzéiert w.e.g. net direkt d'Schrëftdatei vun iconfont.cn well se net am Safari Browser gelueden ka ginn.
 
-## Web Komponente
+## Web Komponenten
 
 Dir kënnt net `js` an `foot.pug` schreiwen. Wann Interaktioun erfuerderlech ass, passt w.e.g. de Webkomponent un.
 

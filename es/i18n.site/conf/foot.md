@@ -1,16 +1,8 @@
-# Pie De Página
+# Pie De Página Personalizado
 
 Siguiendo con el proyecto de demostración como ejemplo, `.i18n/htm/foot.pug` en el directorio `md` define el pie de página del sitio web.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) es un lenguaje de plantilla que genera `HTML` .
-
-[➔ Haga clic aquí para aprender la gramática de pug](https://pugjs.org)
-
-**No escriba `css` y `js` en `foot.pug`** , de lo contrario habrá un error.
-
-Consulte lo siguiente, el estilo se escribe en el `.css` correspondiente y la interacción se logra mediante la creación de componentes web.
 
 ## Estilo De Pie De Página
 

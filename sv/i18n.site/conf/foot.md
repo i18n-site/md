@@ -1,16 +1,8 @@
-# Sidfot
+# Anpassad Sidfot
 
 Fortfarande ta demoprojektet som ett exempel, `.i18n/htm/foot.pug` i katalogen `md` definierar sidfoten på webbplatsen.
 
 ![](https://p.3ti.site/1721286077.avif)
-
-[`pug`](https://pugjs.org) är ett mallspråk som genererar `HTML` :or.
-
-[➔ Klicka här för att lära dig grammatiken för pug](https://pugjs.org)
-
-**Skriv inte `css` och `js` i `foot.pug`** , annars blir det ett fel.
-
-Se följande, stilen skrivs in i motsvarande `.css` , och interaktionen uppnås genom att skapa webbkomponenter.
 
 ## Sidfot Stil
 
