@@ -1,0 +1,1 @@
+# Linia i18 : Comandă MarkDown & YAML

@@ -1,0 +1,875 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@3-/i18n':
+        specifier: ^0.1.3
+        version: 0.1.3
+    devDependencies:
+      '@3-/jsext':
+        specifier: ^0.0.5
+        version: 0.0.5
+      '@3-/uridir':
+        specifier: ^0.1.1
+        version: 0.1.1
+
+packages:
+
+  '@3-/bar@0.0.1':
+    resolution: {integrity: sha512-sNWIyvW3BfxvnmacDNRjsgdS91w9mBfk83+sKgTxRsmhUV0Pn2d65e+1dAyAnoouGKWgDJA5zYPDtJjMLVhIhQ==}
+
+  '@3-/binmap@0.0.1':
+    resolution: {integrity: sha512-OWPcHypqnBE7GHz2vspu/oIbZwH0E5eewl9Fm5kA0WUEyyc8VsXj1kR0OAZVizUbdpt8TwRjcnjUwtNZpcB2Qw==}
+
+  '@3-/cache@0.0.3':
+    resolution: {integrity: sha512-jkawrI2PRyRsQHp30S4XzFzf8SslK8BwofZG3lrmF5oTaB0lrs+5pdEsbYOOzOAEZgr72HoXl6GuMU6JvioIxA==}
+
+  '@3-/cache_map@0.0.1':
+    resolution: {integrity: sha512-Kso8clstSSIvjmSrdaL5I/JSfrDTJ4HteSqO+LQPFXSnxKEU4N3Wq3rcWjGD2UYI298rmxSYdd7gO9dUdMhIxg==}
+
+  '@3-/caller_line@0.0.1':
+    resolution: {integrity: sha512-ABXNqaN3kT4CBAdi43yjQQk7gbv7wkUAvlUIk+EC6DKptfiRSJtsRnYAjX17qYprdtpnYd5o8uESbS4xEP1hSw==}
+
+  '@3-/comment@0.0.1':
+    resolution: {integrity: sha512-wz04vXM6vBI2pJx6BNCJrRowWRvssP37tqwBL+QmJjnOA83BtVNTG7K+vHrtDDyRHsClfEKtr1fux0niMmzrgg==}
+
+  '@3-/ext@0.0.1':
+    resolution: {integrity: sha512-euyisYSARvTqzwt7+8gs4ioxrScU0R56hB8E6JhFBdsnaLvH0KiMhSatvHC4oLy0nIb4gErmJqhDskD1F+y2zQ==}
+
+  '@3-/htm2md@0.0.1':
+    resolution: {integrity: sha512-24iU5st1SJVkH7Dr4dtrbe3qjKAgkzG8XkephMy1vO0+n5lZ/Urmgo0uSQXB19hjO8blm+HO346BNEktbOpTSg==}
+
+  '@3-/i18n@0.1.3':
+    resolution: {integrity: sha512-Xfi6G1osjBG/VE2rJ6FUekuXWtDgQlBekn4d05WG+ob9Z0tY+ObqJZGtA8A0OCc6oSWXgh/Za2Y8rEf8O+Mqyw==}
+    hasBin: true
+
+  '@3-/is-change@0.1.2':
+    resolution: {integrity: sha512-Uto74Jd7aqtaID86VDfm3S5HTc0Njz38B+vH3BuceSO8+EN6uBGL2g9rsUj6G9Px1/4XhpU9AoKzOkUqqzlgQA==}
+
+  '@3-/j2f@0.0.1':
+    resolution: {integrity: sha512-wtL0NCrvfJVgI/o207KZnNA3m8DKa7PPb3yA1qIweaWEljO4v+kPMeeafM5AB8Y8m/+1LfhfbH8N1paDS9UYqA==}
+
+  '@3-/jsext@0.0.5':
+    resolution: {integrity: sha512-CiMtSdo06CXvpDKCAfPUU7AfEHjirw9A3Zvyq7jwEBxnpwsvII4heJFXjW1CWcs9BFX89eTI085IYCoV3OiEMw==}
+
+  '@3-/jsmap@0.0.4':
+    resolution: {integrity: sha512-Cn3oj6efLL5HVkrffnNHN0L/xxJw59n5Hx3XPhXtKYJLqqtrYTNznWnLJ8lWsCRurPeKTuthK99QKpfT069XXA==}
+
+  '@3-/lang@0.0.3':
+    resolution: {integrity: sha512-DsmPheFqCth8syLUqRMQEHF1YRS5PuwIW4WxSnx8q9HimaKk1qeI2yWiqwIC6+fkrQ9lpTdYI7HEVkw4W21K7Q==}
+
+  '@3-/lang@0.1.10':
+    resolution: {integrity: sha512-4uALbI4l8XXnFKXCNTna8UJjdDrHv/SKaJvvrY/nuSQYQZfRUQqbdz7jSs/w924rARRY043Lts2RlRlugg7hvw==}
+
+  '@3-/mark@0.0.3':
+    resolution: {integrity: sha512-xyReiJbPLVLOiyY/d0hYDdw1F7F0rnmZep0FxgiW1/0emS/ayzbOJ/AZPx3zICHCR0p3q7cic2XbHQu7bAWHYQ==}
+
+  '@3-/msgpack@0.0.2':
+    resolution: {integrity: sha512-k/Tixg3lkN4bwGnJAckdA5rpBLwmn8x9zR2XQNAN55kX7H+aNyGe3pI9WS3Vkc9olFdZbInlzXYjtKol7eETwg==}
+
+  '@3-/nt@0.1.1':
+    resolution: {integrity: sha512-35do0Xi7DFX4zVMa+UOy3BhKQFA3rsunJ2z56ZzJR90zv5bY44YNBEGYEOHjOP8mZJW2U365C5YAF5jKqYkaQA==}
+
+  '@3-/pair@0.0.2':
+    resolution: {integrity: sha512-MyGSf0EstwsH9ERb6qHTOwyvPqQ696609WYuZQbLWDzEoug6uca0xo9vQd4ajqAy/jqbs9MveAF/SmJzWaapAQ==}
+
+  '@3-/pool@0.0.3':
+    resolution: {integrity: sha512-RBaGAC/fUWAlt52mk54x/ky0sIHVBMKIPeCdwGTwwZ5T2d+0oLf7u4sPsMuPdP1qeRx4BvrFBsL/WEut9cEPiw==}
+
+  '@3-/proto@2.0.25':
+    resolution: {integrity: sha512-4FFvbcvlDCx++b/FhuFlOuGIeBcQ+WRsqkavS5IbOrxKj0LLaaZOaQao+aNXJXEmOkUNZDhfgfhD2GgrFsu5/w==}
+
+  '@3-/read@0.0.1':
+    resolution: {integrity: sha512-yTSQz6SC8yeFIAzXpTQmqQrJvlW5LG9+t1xy0QuWp8oG3uhxpXs+8M7dRcqFQz+bWdCc33gzcnCWJe12Hx3eQg==}
+
+  '@3-/replace_n@0.0.1':
+    resolution: {integrity: sha512-tURwD63FLsQtzQh3ebA2k4nFjXmCf/cGentUu6Zp/Tix2cT+a7YNX4reLowhepMbxi06tzs5VUNuEGkyxKcIUQ==}
+
+  '@3-/req@0.0.1':
+    resolution: {integrity: sha512-mRtlLkB12CpvxdVWXRpmzskM7jtbETC0YeOftonJ//RjDGS7ykH0wywvhB5KWrJ/zkSKcqCeUEP5iUSN5+6jTA==}
+
+  '@3-/retry@0.0.1':
+    resolution: {integrity: sha512-XB/6DNobSb/ZEeWyHqMGyHUHRTOjXCEIXLaWqdojlHJuiScnK7gkXYzuM1bU0t9AFl4ejl/COdo7ekKtyDtPLQ==}
+
+  '@3-/sleep@0.0.3':
+    resolution: {integrity: sha512-QcbMvCjN1iylVzOv8VGuAwHKFtRxbNmAenYc9OfvxA/Dl9vyBoSGO3bRovLkYL2jm4lx/R33SPJ8f6JwpKbC+w==}
+
+  '@3-/title-case@0.0.1':
+    resolution: {integrity: sha512-TKXeYtfnbFR6NFBuvTyywgLtfJYcI3NtOwOPyyUdmVZuriWka8cBgMViMTH0p+ae0W+rg9tVpXuBASsU7IIC9g==}
+
+  '@3-/tran@0.0.6':
+    resolution: {integrity: sha512-i2mH0d80dIWjtS2L//ooI2ByRE+5EDUsc5tKPg6411qO4hGg8zAirjULKYGKhLOqFyNf3LMH6D+6Q0XVQGOIag==}
+
+  '@3-/tran_md@0.0.15':
+    resolution: {integrity: sha512-Gb2Hd0T5pfeyOnCcXCCB7KU7zyeiK107qasr369EbE6gwyjtIXGxtAvbPkaqGAcxHni1DBYnnjySSMYLCqzg3A==}
+
+  '@3-/tranvar@0.0.7':
+    resolution: {integrity: sha512-kSKArcU/EUjXhi29jzDySvc+SaK7okqqpn2fJzcmYt6AAM6THaGxY2MJAUo4r9sXztnF/X33r+F2DpuU3dYdHA==}
+
+  '@3-/tranvar@0.0.8':
+    resolution: {integrity: sha512-cv9bfQxl2hGlhGlWHSoEydUtPhsQK5Ek9wIdBzUH75PtReFVFKMLrwtTBAYypAj3IFuINlS498kJjPFT2uV4MA==}
+
+  '@3-/u8@0.1.1':
+    resolution: {integrity: sha512-QtYx+bnacu0LlUcy40PaJG1ImQJh3kO75Fg2gDKnrzv7EmKKPDS2ZBhhmvGnV82PzmZDkCmyKOSC6Q59I4kxMA==}
+
+  '@3-/uridir@0.0.2':
+    resolution: {integrity: sha512-/3f/ja84V4dI3qmLWww0X7yuVZqO76oNpl2NFW5MIpyjhs35t16I9nv4Rp1blFBEQxdnY+y+uLT9tyNYvE/f8A==}
+
+  '@3-/uridir@0.1.1':
+    resolution: {integrity: sha512-1+V64yoIDjabCa/jx7bm0dBOcZlDROwFHXRnCEGGCccWaYCjK3PlK0X/Kasur+zwMLfnQoS/J8F1qTFfI0ChKA==}
+
+  '@3-/utf8@0.0.3':
+    resolution: {integrity: sha512-BLqh1MiPrtPLqtD6h7c1wXrsO1kw7Zp1AJcKkac2q4UZ/JPtayOqYXJvDM3oeTAbOtOZgMm4TnbOR5V8myXpBg==}
+
+  '@3-/vbyte@0.0.2':
+    resolution: {integrity: sha512-2Bvp6vSubNB1UZQdy8autgMKtwC5WrYRM0DknCvG7E2qfsphtF9JJePs2+lJ02RxCMqqBXInJVLl2IokBtCWVw==}
+
+  '@3-/walk@0.0.1':
+    resolution: {integrity: sha512-YIhBR+fAei413SfXY1m3z8SIg8zi4qFRPLEh2a9o2uVUZRUXTvC+QqolZhCuPOXYUb2jcby0qTAGb6IfbptFjQ==}
+
+  '@3-/write@0.0.1':
+    resolution: {integrity: sha512-EvXAzDdmAynZyNJyMD5l90RfKhxYglJMJ5tXx3rj9VCUrFNhZnlRTIOJrteMtgtFsfTLf2hUrbh7TtPBnjgpLg==}
+
+  '@3-/xxhash3@0.0.2':
+    resolution: {integrity: sha512-owupjee9cwqcBL+JARB6enOOebc2UJ5pA3eDo/yN/mX0KUtcir9aP7zyQxv6iUlV9D3przScg9AD7q0xOjuA8g==}
+
+  '@5-/tran@0.0.2':
+    resolution: {integrity: sha512-45ncHPeNA6wXLoketD/aGdqw0Hgu5P+dkXVQEHBzGYkbOI/pCtzvdXnueAXy05HZhtQOJRpziEeotfjSfcLnHg==}
+
+  '@msgpackr-extract/msgpackr-extract-darwin-arm64@3.0.2':
+    resolution: {integrity: sha512-9bfjwDxIDWmmOKusUcqdS4Rw+SETlp9Dy39Xui9BEGEk19dDwH0jhipwFzEff/pFg95NKymc6TOTbRKcWeRqyQ==}
+    cpu: [arm64]
+    os: [darwin]
+
+  '@msgpackr-extract/msgpackr-extract-darwin-x64@3.0.2':
+    resolution: {integrity: sha512-lwriRAHm1Yg4iDf23Oxm9n/t5Zpw1lVnxYU3HnJPTi2lJRkKTrps1KVgvL6m7WvmhYVt/FIsssWay+k45QHeuw==}
+    cpu: [x64]
+    os: [darwin]
+
+  '@msgpackr-extract/msgpackr-extract-linux-arm64@3.0.2':
+    resolution: {integrity: sha512-FU20Bo66/f7He9Fp9sP2zaJ1Q8L9uLPZQDub/WlUip78JlPeMbVL8546HbZfcW9LNciEXc8d+tThSJjSC+tmsg==}
+    cpu: [arm64]
+    os: [linux]
+
+  '@msgpackr-extract/msgpackr-extract-linux-arm@3.0.2':
+    resolution: {integrity: sha512-MOI9Dlfrpi2Cuc7i5dXdxPbFIgbDBGgKR5F2yWEa6FVEtSWncfVNKW5AKjImAQ6CZlBK9tympdsZJ2xThBiWWA==}
+    cpu: [arm]
+    os: [linux]
+
+  '@msgpackr-extract/msgpackr-extract-linux-x64@3.0.2':
+    resolution: {integrity: sha512-gsWNDCklNy7Ajk0vBBf9jEx04RUxuDQfBse918Ww+Qb9HCPoGzS+XJTLe96iN3BVK7grnLiYghP/M4L8VsaHeA==}
+    cpu: [x64]
+    os: [linux]
+
+  '@msgpackr-extract/msgpackr-extract-win32-x64@3.0.2':
+    resolution: {integrity: sha512-O+6Gs8UeDbyFpbSh2CPEz/UOrrdWPTBYNblZK5CxxLisYt4kGX3Sc+czffFonyjiGSq3jWLwJS/CCJc7tBr4sQ==}
+    cpu: [x64]
+    os: [win32]
+
+  '@types/debug@4.1.12':
+    resolution: {integrity: sha512-vIChWdVG3LG1SMxEvI/AK+FWJthlrqlTu7fbrlywTkkaONwk/UAGaULXRlf8vkzFBLVm0zkMdCquhL5aOjhXPQ==}
+
+  '@types/ms@0.7.34':
+    resolution: {integrity: sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==}
+
+  agent-base@7.1.0:
+    resolution: {integrity: sha512-o/zjMZRhJxny7OyEF+Op8X+efiELC7k7yOjMzgfzVqOzXqkBkWI79YoTdOtsuWd5BWhAGAuOY/Xa6xpiaWXiNg==}
+    engines: {node: '>= 14'}
+
+  ansi-regex@5.0.1:
+    resolution: {integrity: sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==}
+    engines: {node: '>=8'}
+
+  ansi-styles@4.3.0:
+    resolution: {integrity: sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg==}
+    engines: {node: '>=8'}
+
+  chalk@5.3.0:
+    resolution: {integrity: sha512-dLitG79d+GV1Nb/VYcCDFivJeK1hiukt9QjRNVOsUtTy1rR1YJsmpGGTZ3qJos+uw7WmWF4wUwBd9jxjocFC2w==}
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+
+  character-entities@2.0.2:
+    resolution: {integrity: sha512-shx7oQ0Awen/BRIdkjkvz54PnEEI/EjwXDSIZp86/KKdbafHh1Df/RYGBhn4hbe2+uKC9FnT5UCEdyPz3ai9hQ==}
+
+  cliui@8.0.1:
+    resolution: {integrity: sha512-BSeNnyus75C4//NQ9gQt1/csTXyo/8Sb+afLAkzAptFuMsod9HFokGNudZpi/oQV73hnVK+sR+5PVRMd+Dr7YQ==}
+    engines: {node: '>=12'}
+
+  color-convert@2.0.1:
+    resolution: {integrity: sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==}
+    engines: {node: '>=7.0.0'}
+
+  color-name@1.1.4:
+    resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
+
+  data-uri-to-buffer@4.0.1:
+    resolution: {integrity: sha512-0R9ikRb668HB7QDxT1vkpuUBtqc53YyAwMwGeUFKRojY/NWKvdZ+9UYtRfGmhqNbRkTSVpMbmyhXipFFv2cb/A==}
+    engines: {node: '>= 12'}
+
+  debug@4.3.4:
+    resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+
+  decode-named-character-reference@1.0.2:
+    resolution: {integrity: sha512-O8x12RzrUF8xyVcY0KJowWsmaJxQbmy0/EtnNtHRpsOcT7dFk5W598coHqBVpmWo1oQQfsCqfCmkZN5DJrZVdg==}
+
+  dequal@2.0.3:
+    resolution: {integrity: sha512-0je+qPKHEMohvfRTCEo3CrPG6cAzAYgmzKyxRiYSSDkS6eGJdyVJm7WaYA5ECaAD9wLB2T4EEeymA5aFVcYXCA==}
+    engines: {node: '>=6'}
+
+  devlop@1.1.0:
+    resolution: {integrity: sha512-RWmIqhcFf1lRYBvNmr7qTNuyCt/7/ns2jbpp1+PalgE/rDQcBT0fioSMUpJ93irlUhC5hrg4cYqe6U+0ImW0rA==}
+
+  emoji-regex@8.0.0:
+    resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
+
+  escalade@3.1.1:
+    resolution: {integrity: sha512-k0er2gUkLf8O0zKJiAhmkTnJlTvINGv7ygDNPbeIsX/TJjGJZHuh9B2UxbsaEkmlEo9MfhrSzmhIlhRlI2GXnw==}
+    engines: {node: '>=6'}
+
+  fetch-blob@3.2.0:
+    resolution: {integrity: sha512-7yAQpD2UMJzLi1Dqv7qFYnPbaPx7ZfFK6PiIxQ4PfkGPyNyl2Ugx+a/umUonmKqjhM4DnfbMvdX6otXq83soQQ==}
+    engines: {node: ^12.20 || >= 14.13}
+
+  formdata-polyfill@4.0.10:
+    resolution: {integrity: sha512-buewHzMvYL29jdeQTVILecSaZKnt/RJWjoZCF5OW60Z67/GmSLBkOFM7qh1PI3zFNtJbaZL5eQu1vLfazOwj4g==}
+    engines: {node: '>=12.20.0'}
+
+  get-caller-file@2.0.5:
+    resolution: {integrity: sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==}
+    engines: {node: 6.* || 8.* || >= 10.*}
+
+  https-proxy-agent@7.0.2:
+    resolution: {integrity: sha512-NmLNjm6ucYwtcUmL7JQC1ZQ57LmHP4lT15FQ8D61nak1rO6DH+fz5qNK2Ap5UN4ZapYICE3/0KodcLYSPsPbaA==}
+    engines: {node: '>= 14'}
+
+  is-fullwidth-code-point@3.0.0:
+    resolution: {integrity: sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==}
+    engines: {node: '>=8'}
+
+  lodash-es@4.17.21:
+    resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
+
+  micromark-core-commonmark@2.0.0:
+    resolution: {integrity: sha512-jThOz/pVmAYUtkroV3D5c1osFXAMv9e0ypGDOIZuCeAe91/sD6BoE2Sjzt30yuXtwOYUmySOhMas/PVyh02itA==}
+
+  micromark-extension-gfm-footnote@2.0.0:
+    resolution: {integrity: sha512-6Rzu0CYRKDv3BfLAUnZsSlzx3ak6HAoI85KTiijuKIz5UxZxbUI+pD6oHgw+6UtQuiRwnGRhzMmPRv4smcz0fg==}
+
+  micromark-factory-destination@2.0.0:
+    resolution: {integrity: sha512-j9DGrQLm/Uhl2tCzcbLhy5kXsgkHUrjJHg4fFAeoMRwJmJerT9aw4FEhIbZStWN8A3qMwOp1uzHr4UL8AInxtA==}
+
+  micromark-factory-label@2.0.0:
+    resolution: {integrity: sha512-RR3i96ohZGde//4WSe/dJsxOX6vxIg9TimLAS3i4EhBAFx8Sm5SmqVfR8E87DPSR31nEAjZfbt91OMZWcNgdZw==}
+
+  micromark-factory-space@2.0.0:
+    resolution: {integrity: sha512-TKr+LIDX2pkBJXFLzpyPyljzYK3MtmllMUMODTQJIUfDGncESaqB90db9IAUcz4AZAJFdd8U9zOp9ty1458rxg==}
+
+  micromark-factory-title@2.0.0:
+    resolution: {integrity: sha512-jY8CSxmpWLOxS+t8W+FG3Xigc0RDQA9bKMY/EwILvsesiRniiVMejYTE4wumNc2f4UbAa4WsHqe3J1QS1sli+A==}
+
+  micromark-factory-whitespace@2.0.0:
+    resolution: {integrity: sha512-28kbwaBjc5yAI1XadbdPYHX/eDnqaUFVikLwrO7FDnKG7lpgxnvk/XGRhX/PN0mOZ+dBSZ+LgunHS+6tYQAzhA==}
+
+  micromark-util-character@2.0.1:
+    resolution: {integrity: sha512-3wgnrmEAJ4T+mGXAUfMvMAbxU9RDG43XmGce4j6CwPtVxB3vfwXSZ6KhFwDzZ3mZHhmPimMAXg71veiBGzeAZw==}
+
+  micromark-util-chunked@2.0.0:
+    resolution: {integrity: sha512-anK8SWmNphkXdaKgz5hJvGa7l00qmcaUQoMYsBwDlSKFKjc6gjGXPDw3FNL3Nbwq5L8gE+RCbGqTw49FK5Qyvg==}
+
+  micromark-util-classify-character@2.0.0:
+    resolution: {integrity: sha512-S0ze2R9GH+fu41FA7pbSqNWObo/kzwf8rN/+IGlW/4tC6oACOs8B++bh+i9bVyNnwCcuksbFwsBme5OCKXCwIw==}
+
+  micromark-util-combine-extensions@2.0.0:
+    resolution: {integrity: sha512-vZZio48k7ON0fVS3CUgFatWHoKbbLTK/rT7pzpJ4Bjp5JjkZeasRfrS9wsBdDJK2cJLHMckXZdzPSSr1B8a4oQ==}
+
+  micromark-util-decode-numeric-character-reference@2.0.1:
+    resolution: {integrity: sha512-bmkNc7z8Wn6kgjZmVHOX3SowGmVdhYS7yBpMnuMnPzDq/6xwVA604DuOXMZTO1lvq01g+Adfa0pE2UKGlxL1XQ==}
+
+  micromark-util-encode@2.0.0:
+    resolution: {integrity: sha512-pS+ROfCXAGLWCOc8egcBvT0kf27GoWMqtdarNfDcjb6YLuV5cM3ioG45Ys2qOVqeqSbjaKg72vU+Wby3eddPsA==}
+
+  micromark-util-html-tag-name@2.0.0:
+    resolution: {integrity: sha512-xNn4Pqkj2puRhKdKTm8t1YHC/BAjx6CEwRFXntTaRf/x16aqka6ouVoutm+QdkISTlT7e2zU7U4ZdlDLJd2Mcw==}
+
+  micromark-util-normalize-identifier@2.0.0:
+    resolution: {integrity: sha512-2xhYT0sfo85FMrUPtHcPo2rrp1lwbDEEzpx7jiH2xXJLqBuy4H0GgXk5ToU8IEwoROtXuL8ND0ttVa4rNqYK3w==}
+
+  micromark-util-resolve-all@2.0.0:
+    resolution: {integrity: sha512-6KU6qO7DZ7GJkaCgwBNtplXCvGkJToU86ybBAUdavvgsCiG8lSSvYxr9MhwmQ+udpzywHsl4RpGJsYWG1pDOcA==}
+
+  micromark-util-sanitize-uri@2.0.0:
+    resolution: {integrity: sha512-WhYv5UEcZrbAtlsnPuChHUAsu/iBPOVaEVsntLBIdpibO0ddy8OzavZz3iL2xVvBZOpolujSliP65Kq0/7KIYw==}
+
+  micromark-util-subtokenize@2.0.0:
+    resolution: {integrity: sha512-vc93L1t+gpR3p8jxeVdaYlbV2jTYteDje19rNSS/H5dlhxUYll5Fy6vJ2cDwP8RnsXi818yGty1ayP55y3W6fg==}
+
+  micromark-util-symbol@2.0.0:
+    resolution: {integrity: sha512-8JZt9ElZ5kyTnO94muPxIGS8oyElRJaiJO8EzV6ZSyGQ1Is8xwl4Q45qU5UOg+bGH4AikWziz0iN4sFLWs8PGw==}
+
+  micromark-util-types@2.0.0:
+    resolution: {integrity: sha512-oNh6S2WMHWRZrmutsRmDDfkzKtxF+bc2VxLC9dvtrDIRFln627VsFP6fLMgTryGDljgLPjkrzQSDcPrjPyDJ5w==}
+
+  micromark@4.0.0:
+    resolution: {integrity: sha512-o/sd0nMof8kYff+TqcDx3VSrgBTcZpSvYcAHIfHhv5VAuNmisCxjhx6YmxS8PFEpb9z5WKWKPdzf0jM23ro3RQ==}
+
+  ms@2.1.2:
+    resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
+
+  msgpackr-extract@3.0.2:
+    resolution: {integrity: sha512-SdzXp4kD/Qf8agZ9+iTu6eql0m3kWm1A2y1hkpTeVNENutaB0BwHlSvAIaMxwntmRUAUjon2V4L8Z/njd0Ct8A==}
+    hasBin: true
+
+  msgpackr@1.10.0:
+    resolution: {integrity: sha512-rVQ5YAQDoZKZLX+h8tNq7FiHrPJoeGHViz3U4wIcykhAEpwF/nH2Vbk8dQxmpX5JavkI8C7pt4bnkJ02ZmRoUw==}
+
+  nanoassert@2.0.0:
+    resolution: {integrity: sha512-7vO7n28+aYO4J+8w96AzhmU8G+Y/xpPDJz/se19ICsqj/momRbb9mh9ZUtkoJ5X3nTnPdhEJyc0qnM6yAsHBaA==}
+
+  node-domexception@1.0.0:
+    resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
+    engines: {node: '>=10.5.0'}
+
+  node-fetch@3.3.2:
+    resolution: {integrity: sha512-dRB78srN/l6gqWulah9SrxeYnxeddIG30+GOqK/9OlLVyLg3HPnr6SqOWTWOXKRwC2eGYCkZ59NNuSgvSrpgOA==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+
+  node-gyp-build-optional-packages@5.0.7:
+    resolution: {integrity: sha512-YlCCc6Wffkx0kHkmam79GKvDQ6x+QZkMjFGrIMxgFNILFvGSbCp2fCBC55pGTT9gVaz8Na5CLmxt/urtzRv36w==}
+    hasBin: true
+
+  opencc-js@1.0.5:
+    resolution: {integrity: sha512-LD+1SoNnZdlRwtYTjnQdFrSVCAaYpuDqL5CkmOaHOkKoKh7mFxUicLTRVNLU5C+Jmi1vXQ3QL4jWdgSaa4sKjg==}
+
+  progress@2.0.3:
+    resolution: {integrity: sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==}
+    engines: {node: '>=0.4.0'}
+
+  require-directory@2.1.1:
+    resolution: {integrity: sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q==}
+    engines: {node: '>=0.10.0'}
+
+  string-width@4.2.3:
+    resolution: {integrity: sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==}
+    engines: {node: '>=8'}
+
+  strip-ansi@6.0.1:
+    resolution: {integrity: sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==}
+    engines: {node: '>=8'}
+
+  web-streams-polyfill@3.2.1:
+    resolution: {integrity: sha512-e0MO3wdXWKrLbL0DgGnUV7WHVuw9OUvL4hjgnPkIeEvESk74gAITi5G606JtZPp39cd8HA9VQzCIvA49LpPN5Q==}
+    engines: {node: '>= 8'}
+
+  wrap-ansi@7.0.0:
+    resolution: {integrity: sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==}
+    engines: {node: '>=10'}
+
+  y18n@5.0.8:
+    resolution: {integrity: sha512-0pfFzegeDWJHJIAmTLRP2DwHjdF5s7jo9tuztdQxAhINCdvS+3nGINqPd00AphqJR/0LhANUS6/+7SCb98YOfA==}
+    engines: {node: '>=10'}
+
+  yargs-parser@21.1.1:
+    resolution: {integrity: sha512-tVpsJW7DdjecAiFpbIB1e3qxIQsE6NoPc5/eTdrbbIC4h0LVsWhnoa3g+m2HclBIujHzsxZ4VJVA+GUuc2/LBw==}
+    engines: {node: '>=12'}
+
+  yargs@17.7.2:
+    resolution: {integrity: sha512-7dSzzRQ++CKnNI/krKnYRV7JKKPUXMEh61soaHKg9mrWEhzFWhFnxPxGl+69cD1Ou63C13NUPCnmIcrvqCuM6w==}
+    engines: {node: '>=12'}
+
+snapshots:
+
+  '@3-/bar@0.0.1':
+    dependencies:
+      chalk: 5.3.0
+      progress: 2.0.3
+
+  '@3-/binmap@0.0.1': {}
+
+  '@3-/cache@0.0.3':
+    dependencies:
+      '@3-/jsmap': 0.0.4
+      '@3-/msgpack': 0.0.2
+
+  '@3-/cache_map@0.0.1':
+    dependencies:
+      '@3-/binmap': 0.0.1
+      '@3-/utf8': 0.0.3
+      '@3-/write': 0.0.1
+
+  '@3-/caller_line@0.0.1': {}
+
+  '@3-/comment@0.0.1': {}
+
+  '@3-/ext@0.0.1': {}
+
+  '@3-/htm2md@0.0.1':
+    dependencies:
+      lodash-es: 4.17.21
+
+  '@3-/i18n@0.1.3':
+    dependencies:
+      '@3-/bar': 0.0.1
+      '@3-/binmap': 0.0.1
+      '@3-/cache': 0.0.3
+      '@3-/cache_map': 0.0.1
+      '@3-/ext': 0.0.1
+      '@3-/is-change': 0.1.2
+      '@3-/lang': 0.1.10
+      '@3-/nt': 0.1.1
+      '@3-/pool': 0.0.3
+      '@3-/tran': 0.0.6
+      '@3-/tran_md': 0.0.15
+      '@3-/tranvar': 0.0.8
+      '@3-/u8': 0.1.1
+      '@3-/utf8': 0.0.3
+      '@3-/walk': 0.0.1
+      '@3-/write': 0.0.1
+      '@3-/xxhash3': 0.0.2
+      yargs: 17.7.2
+    transitivePeerDependencies:
+      - supports-color
+
+  '@3-/is-change@0.1.2':
+    dependencies:
+      '@3-/binmap': 0.0.1
+      '@3-/cache': 0.0.3
+      '@3-/u8': 0.1.1
+      '@3-/vbyte': 0.0.2
+      '@3-/write': 0.0.1
+      '@3-/xxhash3': 0.0.2
+
+  '@3-/j2f@0.0.1':
+    dependencies:
+      opencc-js: 1.0.5
+
+  '@3-/jsext@0.0.5': {}
+
+  '@3-/jsmap@0.0.4': {}
+
+  '@3-/lang@0.0.3':
+    dependencies:
+      '@3-/uridir': 0.0.2
+
+  '@3-/lang@0.1.10':
+    dependencies:
+      '@3-/pair': 0.0.2
+      '@3-/uridir': 0.0.2
+
+  '@3-/mark@0.0.3':
+    dependencies:
+      micromark: 4.0.0
+      micromark-extension-gfm-footnote: 2.0.0
+    transitivePeerDependencies:
+      - supports-color
+
+  '@3-/msgpack@0.0.2':
+    dependencies:
+      msgpackr: 1.10.0
+
+  '@3-/nt@0.1.1':
+    dependencies:
+      '@3-/read': 0.0.1
+      '@3-/write': 0.0.1
+
+  '@3-/pair@0.0.2': {}
+
+  '@3-/pool@0.0.3': {}
+
+  '@3-/proto@2.0.25':
+    dependencies:
+      '@3-/utf8': 0.0.3
+      nanoassert: 2.0.0
+
+  '@3-/read@0.0.1': {}
+
+  '@3-/replace_n@0.0.1': {}
+
+  '@3-/req@0.0.1':
+    dependencies:
+      '@3-/retry': 0.0.1
+      https-proxy-agent: 7.0.2
+      msgpackr: 1.10.0
+      node-fetch: 3.3.2
+    transitivePeerDependencies:
+      - supports-color
+
+  '@3-/retry@0.0.1':
+    dependencies:
+      '@3-/caller_line': 0.0.1
+      '@3-/sleep': 0.0.3
+
+  '@3-/sleep@0.0.3': {}
+
+  '@3-/title-case@0.0.1': {}
+
+  '@3-/tran@0.0.6':
+    dependencies:
+      '@3-/j2f': 0.0.1
+      '@3-/req': 0.0.1
+      '@3-/utf8': 0.0.3
+      '@3-/xxhash3': 0.0.2
+      '@5-/tran': 0.0.2
+    transitivePeerDependencies:
+      - supports-color
+
+  '@3-/tran_md@0.0.15':
+    dependencies:
+      '@3-/cache_map': 0.0.1
+      '@3-/comment': 0.0.1
+      '@3-/htm2md': 0.0.1
+      '@3-/read': 0.0.1
+      '@3-/replace_n': 0.0.1
+      '@3-/title-case': 0.0.1
+      '@3-/tran': 0.0.6
+      '@3-/tranvar': 0.0.7
+      '@3-/utf8': 0.0.3
+    transitivePeerDependencies:
+      - supports-color
+
+  '@3-/tranvar@0.0.7':
+    dependencies:
+      '@3-/htm2md': 0.0.1
+      '@3-/lang': 0.0.3
+      '@3-/mark': 0.0.3
+    transitivePeerDependencies:
+      - supports-color
+
+  '@3-/tranvar@0.0.8':
+    dependencies:
+      '@3-/htm2md': 0.0.1
+      '@3-/lang': 0.1.10
+      '@3-/mark': 0.0.3
+    transitivePeerDependencies:
+      - supports-color
+
+  '@3-/u8@0.1.1': {}
+
+  '@3-/uridir@0.0.2': {}
+
+  '@3-/uridir@0.1.1': {}
+
+  '@3-/utf8@0.0.3': {}
+
+  '@3-/vbyte@0.0.2': {}
+
+  '@3-/walk@0.0.1': {}
+
+  '@3-/write@0.0.1': {}
+
+  '@3-/xxhash3@0.0.2': {}
+
+  '@5-/tran@0.0.2':
+    dependencies:
+      '@3-/proto': 2.0.25
+
+  '@msgpackr-extract/msgpackr-extract-darwin-arm64@3.0.2':
+    optional: true
+
+  '@msgpackr-extract/msgpackr-extract-darwin-x64@3.0.2':
+    optional: true
+
+  '@msgpackr-extract/msgpackr-extract-linux-arm64@3.0.2':
+    optional: true
+
+  '@msgpackr-extract/msgpackr-extract-linux-arm@3.0.2':
+    optional: true
+
+  '@msgpackr-extract/msgpackr-extract-linux-x64@3.0.2':
+    optional: true
+
+  '@msgpackr-extract/msgpackr-extract-win32-x64@3.0.2':
+    optional: true
+
+  '@types/debug@4.1.12':
+    dependencies:
+      '@types/ms': 0.7.34
+
+  '@types/ms@0.7.34': {}
+
+  agent-base@7.1.0:
+    dependencies:
+      debug: 4.3.4
+    transitivePeerDependencies:
+      - supports-color
+
+  ansi-regex@5.0.1: {}
+
+  ansi-styles@4.3.0:
+    dependencies:
+      color-convert: 2.0.1
+
+  chalk@5.3.0: {}
+
+  character-entities@2.0.2: {}
+
+  cliui@8.0.1:
+    dependencies:
+      string-width: 4.2.3
+      strip-ansi: 6.0.1
+      wrap-ansi: 7.0.0
+
+  color-convert@2.0.1:
+    dependencies:
+      color-name: 1.1.4
+
+  color-name@1.1.4: {}
+
+  data-uri-to-buffer@4.0.1: {}
+
+  debug@4.3.4:
+    dependencies:
+      ms: 2.1.2
+
+  decode-named-character-reference@1.0.2:
+    dependencies:
+      character-entities: 2.0.2
+
+  dequal@2.0.3: {}
+
+  devlop@1.1.0:
+    dependencies:
+      dequal: 2.0.3
+
+  emoji-regex@8.0.0: {}
+
+  escalade@3.1.1: {}
+
+  fetch-blob@3.2.0:
+    dependencies:
+      node-domexception: 1.0.0
+      web-streams-polyfill: 3.2.1
+
+  formdata-polyfill@4.0.10:
+    dependencies:
+      fetch-blob: 3.2.0
+
+  get-caller-file@2.0.5: {}
+
+  https-proxy-agent@7.0.2:
+    dependencies:
+      agent-base: 7.1.0
+      debug: 4.3.4
+    transitivePeerDependencies:
+      - supports-color
+
+  is-fullwidth-code-point@3.0.0: {}
+
+  lodash-es@4.17.21: {}
+
+  micromark-core-commonmark@2.0.0:
+    dependencies:
+      decode-named-character-reference: 1.0.2
+      devlop: 1.1.0
+      micromark-factory-destination: 2.0.0
+      micromark-factory-label: 2.0.0
+      micromark-factory-space: 2.0.0
+      micromark-factory-title: 2.0.0
+      micromark-factory-whitespace: 2.0.0
+      micromark-util-character: 2.0.1
+      micromark-util-chunked: 2.0.0
+      micromark-util-classify-character: 2.0.0
+      micromark-util-html-tag-name: 2.0.0
+      micromark-util-normalize-identifier: 2.0.0
+      micromark-util-resolve-all: 2.0.0
+      micromark-util-subtokenize: 2.0.0
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-extension-gfm-footnote@2.0.0:
+    dependencies:
+      devlop: 1.1.0
+      micromark-core-commonmark: 2.0.0
+      micromark-factory-space: 2.0.0
+      micromark-util-character: 2.0.1
+      micromark-util-normalize-identifier: 2.0.0
+      micromark-util-sanitize-uri: 2.0.0
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-factory-destination@2.0.0:
+    dependencies:
+      micromark-util-character: 2.0.1
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-factory-label@2.0.0:
+    dependencies:
+      devlop: 1.1.0
+      micromark-util-character: 2.0.1
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-factory-space@2.0.0:
+    dependencies:
+      micromark-util-character: 2.0.1
+      micromark-util-types: 2.0.0
+
+  micromark-factory-title@2.0.0:
+    dependencies:
+      micromark-factory-space: 2.0.0
+      micromark-util-character: 2.0.1
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-factory-whitespace@2.0.0:
+    dependencies:
+      micromark-factory-space: 2.0.0
+      micromark-util-character: 2.0.1
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-util-character@2.0.1:
+    dependencies:
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-util-chunked@2.0.0:
+    dependencies:
+      micromark-util-symbol: 2.0.0
+
+  micromark-util-classify-character@2.0.0:
+    dependencies:
+      micromark-util-character: 2.0.1
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-util-combine-extensions@2.0.0:
+    dependencies:
+      micromark-util-chunked: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-util-decode-numeric-character-reference@2.0.1:
+    dependencies:
+      micromark-util-symbol: 2.0.0
+
+  micromark-util-encode@2.0.0: {}
+
+  micromark-util-html-tag-name@2.0.0: {}
+
+  micromark-util-normalize-identifier@2.0.0:
+    dependencies:
+      micromark-util-symbol: 2.0.0
+
+  micromark-util-resolve-all@2.0.0:
+    dependencies:
+      micromark-util-types: 2.0.0
+
+  micromark-util-sanitize-uri@2.0.0:
+    dependencies:
+      micromark-util-character: 2.0.1
+      micromark-util-encode: 2.0.0
+      micromark-util-symbol: 2.0.0
+
+  micromark-util-subtokenize@2.0.0:
+    dependencies:
+      devlop: 1.1.0
+      micromark-util-chunked: 2.0.0
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+
+  micromark-util-symbol@2.0.0: {}
+
+  micromark-util-types@2.0.0: {}
+
+  micromark@4.0.0:
+    dependencies:
+      '@types/debug': 4.1.12
+      debug: 4.3.4
+      decode-named-character-reference: 1.0.2
+      devlop: 1.1.0
+      micromark-core-commonmark: 2.0.0
+      micromark-factory-space: 2.0.0
+      micromark-util-character: 2.0.1
+      micromark-util-chunked: 2.0.0
+      micromark-util-combine-extensions: 2.0.0
+      micromark-util-decode-numeric-character-reference: 2.0.1
+      micromark-util-encode: 2.0.0
+      micromark-util-normalize-identifier: 2.0.0
+      micromark-util-resolve-all: 2.0.0
+      micromark-util-sanitize-uri: 2.0.0
+      micromark-util-subtokenize: 2.0.0
+      micromark-util-symbol: 2.0.0
+      micromark-util-types: 2.0.0
+    transitivePeerDependencies:
+      - supports-color
+
+  ms@2.1.2: {}
+
+  msgpackr-extract@3.0.2:
+    dependencies:
+      node-gyp-build-optional-packages: 5.0.7
+    optionalDependencies:
+      '@msgpackr-extract/msgpackr-extract-darwin-arm64': 3.0.2
+      '@msgpackr-extract/msgpackr-extract-darwin-x64': 3.0.2
+      '@msgpackr-extract/msgpackr-extract-linux-arm': 3.0.2
+      '@msgpackr-extract/msgpackr-extract-linux-arm64': 3.0.2
+      '@msgpackr-extract/msgpackr-extract-linux-x64': 3.0.2
+      '@msgpackr-extract/msgpackr-extract-win32-x64': 3.0.2
+    optional: true
+
+  msgpackr@1.10.0:
+    optionalDependencies:
+      msgpackr-extract: 3.0.2
+
+  nanoassert@2.0.0: {}
+
+  node-domexception@1.0.0: {}
+
+  node-fetch@3.3.2:
+    dependencies:
+      data-uri-to-buffer: 4.0.1
+      fetch-blob: 3.2.0
+      formdata-polyfill: 4.0.10
+
+  node-gyp-build-optional-packages@5.0.7:
+    optional: true
+
+  opencc-js@1.0.5: {}
+
+  progress@2.0.3: {}
+
+  require-directory@2.1.1: {}
+
+  string-width@4.2.3:
+    dependencies:
+      emoji-regex: 8.0.0
+      is-fullwidth-code-point: 3.0.0
+      strip-ansi: 6.0.1
+
+  strip-ansi@6.0.1:
+    dependencies:
+      ansi-regex: 5.0.1
+
+  web-streams-polyfill@3.2.1: {}
+
+  wrap-ansi@7.0.0:
+    dependencies:
+      ansi-styles: 4.3.0
+      string-width: 4.2.3
+      strip-ansi: 6.0.1
+
+  y18n@5.0.8: {}
+
+  yargs-parser@21.1.1: {}
+
+  yargs@17.7.2:
+    dependencies:
+      cliui: 8.0.1
+      escalade: 3.1.1
+      get-caller-file: 2.0.5
+      require-directory: 2.1.1
+      string-width: 4.2.3
+      y18n: 5.0.8
+      yargs-parser: 21.1.1

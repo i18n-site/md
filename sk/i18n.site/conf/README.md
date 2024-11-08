@@ -1,0 +1,1 @@
+# Konfigurácia

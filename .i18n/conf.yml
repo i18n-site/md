@@ -1,0 +1,31 @@
+i18n:
+  fromTo:
+    zh:
+
+  # replace:
+  #   https://raw.githubusercontent.com/i18n-site/ : fr ko zh-TW>zh >en
+
+upload:
+  ext:
+    - md
+
+ignore:
+  - _*
+
+nav:
+  - i18n: home
+    url: /
+    use: Toc
+
+  - i18n: doc
+    menu: NB i18,i18n.site
+    use: Doc
+
+  - i18n: blog
+    use: Blog
+
+addon:
+  - i18n.addon/toc
+  - i18n.addon/mouse
+
+

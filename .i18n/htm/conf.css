@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "F";
+  src: url(//p.3ti.site/ico1.woff2) format("woff2");
+}
+
+#Ft>b>a.site {
+  background: none 50% / 30px no-repeat;
+  /* muse write this, for overwrite linear-gradient(0, #f40, #f90)*/
+  background-image: url(//p.3ti.site/logo.svg) !important;
+  opacity: .5;
+}

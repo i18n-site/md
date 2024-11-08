@@ -1,0 +1,124 @@
+#Ft {
+  align-items: center;
+  background: linear-gradient(to bottom, #f9f9f9, #fff);
+  border-top: 1px solid #f0f0f0;
+  box-shadow: 0 0 9px inset #f9f9f9;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  margin: 32px 0 0;
+  padding: 24px;
+  width: 100%;
+}
+
+#Ft>b:first-child>b {
+  color: #888;
+  font-variation-settings: 'wght' 400, 'BEVL' 1;
+  font-family: 'h';
+  margin-left: 24px;
+}
+
+#Ft>b:first-child>b+b {
+  margin-left: 16px;
+  border-left: 1px dashed #ccc;
+  padding-left: 16px;
+}
+
+#Ft>b:first-child>b>a {
+  margin: 0 8px;
+  color: #888;
+  border-bottom: 1px dashed #ccc;
+  padding-bottom: 9px;
+}
+
+#Ft>b:first-child>b>a:hover {
+  color: #00f;
+  border-bottom: 1px solid #00f;
+}
+
+#Ft>b {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Ft>b:last-child {
+  flex-wrap: wrap;
+}
+
+#Ft>b>a {
+  transition: all 0.3s;
+}
+
+@layer {
+
+  #Ft>b>a {
+    background-clip: text;
+    background-image: linear-gradient(#000, #000);
+    display: inline-block;
+    filter: grayscale(1);
+    flex-shrink: 0;
+    font-family: F;
+    font-size: 26px;
+    height: 26px;
+    width: 26px;
+    line-height: 1;
+    margin: 0 0 0 24px;
+    opacity: 0.2;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+}
+
+#Ft>b>a:hover {
+  filter: grayscale(0);
+  opacity: 1;
+  text-shadow: none;
+  background-image: linear-gradient(0, #f40, #f90);
+}
+
+@media (max-width:700px) {
+  #Ft {
+    flex-direction: column-reverse;
+  }
+
+  #Ft>b {
+    margin: 8px 0 0;
+  }
+
+  #Ft>b>a:first-child {
+    margin-left: 0;
+  }
+
+  #Ft>b:first-child>b,
+  #Ft>b:first-child>b+b {
+    margin: 0 0 16px;
+    padding: 0;
+    border-width: 0;
+  }
+
+  #Ft>b>a {
+    margin: 0 0 16px 16px
+  }
+
+  #Ft>b>a:first-child {
+    margin-left: 0;
+  }
+
+  #Ft>b:first-child>b:last-child {
+    margin-bottom: 0;
+  }
+
+  #Ft>b:first-child {
+    flex-direction: column
+  }
+
+  #Ft>b:last-child {
+    margin-top: 6px
+  }
+
+  #Ft>b:first-child>b {
+    text-align: center;
+  }
+}

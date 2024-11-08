@@ -1,0 +1,40 @@
+@import '//unpkg.com/fc3@0.1.13/_.css'
+
+/*
+
+if want use local font, use like below
+
+@font-face {
+  font-family: 'h';
+  src: local('PingFang SC'),
+    local('Verdana'),
+    local('Helvetica Neue'),
+    local('Microsoft Yahei'),
+    local('Hiragino Sans GB'),
+    local('Microsoft Sans Serif');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 's';
+  src: local('Segoe UI'),
+    local('Noto Sans'),
+    local('Helvetica'),
+    local('Arial');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'c';
+  src: local('Cascadia Mono'),
+    local('Segoe UI Mono'),
+    local('Liberation Mono'),
+    local('Menlo'),
+    local('Monaco'),
+    local('Consolas');
+  font-style: normal;
+  font-weight: normal;
+}
+*/

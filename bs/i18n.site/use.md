@@ -1,0 +1,47 @@
+# Instaliraj &
+
+## Instaliraj
+
+```sh
+bash <(curl -sS https://i.i18n.site) i18n.site
+```
+
+## Konfiguracijski Token
+
+`i18n.site` ima ugrađeni `i18` alat za prevođenje Molimo [kliknite ovdje da pogledate `i18` dokument za konfiguraciju tokena za pristup](/i18/use) .
+
+## Demo Projekat
+
+Počnimo s demo projektom da naučimo kako koristiti `i18n.site` .
+
+Prvo kloniramo demo spremište i izvodimo naredbu na sljedeći način:
+
+```
+git clone https://github.com/i18n-site/demo.i18n.site.git md
+git clone https://github.com/i18n-site/demo.i18n.site.docker.git docker
+```
+
+Korisnici u kontinentalnoj Kini mogu:
+
+```
+git clone https://atomgit.com/i18n/demo.i18n.site.git md
+git clone https://atomgit.com/i18n/demo.i18n.site.docker.git docker
+```
+
+Ime direktorija klona baze koda `demo.i18n.site` mora biti `md` da bi se olakšao lokalni pregled s `docker` .
+
+### Prevesti
+
+Prvo unesite `md` direktorij i pokrenite `i18n.site` , što će prevesti `en` u `zh` .
+
+<img src="https://p.3ti.site/1721114619.avif" style="width:350px">
+
+Nakon pokretanja, datoteke za prevođenje i keširanje će biti generisane. Molimo zapamtite da ih dodate u spremište u `md` `git add . ` .
+
+### Lokalni Pregled
+
+Instalirajte i pokrenite `docker` ( `MAC` korisnik preporučuje korištenje [orbstack](https://orbstack.dev) kao runtime za `docker` ).
+
+Zatim unesite `docker` direktorij i pokrenite `./up.sh` , a zatim posjetite [https://127.0.0.1](https://127.0.0.1)
+
+<img src="//p.3ti.site/1721104238.avif" style="width:360px">

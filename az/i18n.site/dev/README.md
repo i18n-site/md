@@ -1,0 +1,1 @@
+# İkinci Dərəcəli Inkişaf

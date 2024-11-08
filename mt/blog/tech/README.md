@@ -1,0 +1,1 @@
+# Teknoloġija

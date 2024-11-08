@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://i18n.site/sitemap.xml

@@ -1,0 +1,28 @@
+api: //127.0.0.1:7770/
+
+host: i18n.site
+seo: true
+out:
+  - fs
+
+pkg:
+  i: 8n
+  md: i18md
+
+cdn:
+  v:
+    # - v.i18n.site
+    # - v.ok0.pw
+    # - v.3ti.site
+    - 127.0.0.1:7776
+
+  jsd:
+    - 127.0.0.1:7775
+    # - cdn.jsdmirror.cn/npm
+    # - unpkg.com
+    # - jsd.onmicrosoft.cn/npm
+    # - fastly.jsdelivr.net/npm
+    # - cdn.jsdelivr.net/npm
+    # - jsd.cdn.noisework.cn/npm
+    # - quantil.jsdelivr.net/npm
+
